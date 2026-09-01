@@ -1,0 +1,942 @@
+{
+ "nodes": [
+  {
+   "data": {
+    "id": "a:beatles",
+    "slug": "beatles",
+    "label": "The Beatles",
+    "tipo": "artista",
+    "grupo": "npr"
+   }
+  },
+  {
+   "data": {
+    "id": "a:pretty-things",
+    "slug": "pretty-things",
+    "label": "The Pretty Things",
+    "tipo": "artista",
+    "grupo": "npr"
+   }
+  },
+  {
+   "data": {
+    "id": "a:kinks",
+    "slug": "kinks",
+    "label": "The Kinks",
+    "tipo": "artista",
+    "grupo": "npr"
+   }
+  },
+  {
+   "data": {
+    "id": "a:small-faces",
+    "slug": "small-faces",
+    "label": "Small Faces",
+    "tipo": "artista",
+    "grupo": "npr"
+   }
+  },
+  {
+   "data": {
+    "id": "a:who",
+    "slug": "who",
+    "label": "The Who",
+    "tipo": "artista",
+    "grupo": "who"
+   }
+  },
+  {
+   "data": {
+    "id": "a:mb",
+    "slug": "mb",
+    "label": "The Moody Blues",
+    "tipo": "artista",
+    "grupo": "mb"
+   }
+  },
+  {
+   "data": {
+    "id": "a:pf",
+    "slug": "pf",
+    "label": "Pink Floyd",
+    "tipo": "artista",
+    "grupo": "pf"
+   }
+  },
+  {
+   "data": {
+    "id": "a:kc",
+    "slug": "kc",
+    "label": "King Crimson",
+    "tipo": "artista",
+    "grupo": "kc"
+   }
+  },
+  {
+   "data": {
+    "id": "a:gen",
+    "slug": "gen",
+    "label": "Genesis",
+    "tipo": "artista",
+    "grupo": "gen"
+   }
+  },
+  {
+   "data": {
+    "id": "a:yes",
+    "slug": "yes",
+    "label": "Yes",
+    "tipo": "artista",
+    "grupo": "yes"
+   }
+  },
+  {
+   "data": {
+    "id": "a:elp",
+    "slug": "elp",
+    "label": "Emerson, Lake & Palmer",
+    "tipo": "artista",
+    "grupo": "elp"
+   }
+  },
+  {
+   "data": {
+    "id": "a:jt",
+    "slug": "jt",
+    "label": "Jethro Tull",
+    "tipo": "artista",
+    "grupo": "jt"
+   }
+  },
+  {
+   "data": {
+    "id": "a:vdgg",
+    "slug": "vdgg",
+    "label": "Van der Graaf Generator",
+    "tipo": "artista",
+    "grupo": "vdgg"
+   }
+  },
+  {
+   "data": {
+    "id": "a:gg",
+    "slug": "gg",
+    "label": "Gentle Giant",
+    "tipo": "artista",
+    "grupo": "gg"
+   }
+  },
+  {
+   "data": {
+    "id": "a:car",
+    "slug": "car",
+    "label": "Caravan",
+    "tipo": "artista",
+    "grupo": "car"
+   }
+  },
+  {
+   "data": {
+    "id": "a:sm",
+    "slug": "sm",
+    "label": "Soft Machine",
+    "tipo": "artista",
+    "grupo": "sm"
+   }
+  },
+  {
+   "data": {
+    "id": "a:cam",
+    "slug": "cam",
+    "label": "Camel",
+    "tipo": "artista",
+    "grupo": "cam"
+   }
+  },
+  {
+   "data": {
+    "id": "a:mo",
+    "slug": "mo",
+    "label": "Mike Oldfield",
+    "tipo": "artista",
+    "grupo": "mo"
+   }
+  },
+  {
+   "data": {
+    "id": "a:app",
+    "slug": "app",
+    "label": "The Alan Parsons Project",
+    "tipo": "artista",
+    "grupo": "app"
+   }
+  },
+  {
+   "data": {
+    "id": "a:ap",
+    "slug": "ap",
+    "label": "Anthony Phillips",
+    "tipo": "artista",
+    "grupo": "ap"
+   }
+  },
+  {
+   "data": {
+    "id": "a:rush",
+    "slug": "rush",
+    "label": "Rush",
+    "tipo": "artista",
+    "grupo": "rush"
+   }
+  },
+  {
+   "data": {
+    "id": "a:sup",
+    "slug": "sup",
+    "label": "Supertramp",
+    "tipo": "artista",
+    "grupo": "sup"
+   }
+  },
+  {
+   "data": {
+    "id": "a:elo",
+    "slug": "elo",
+    "label": "Electric Light Orchestra",
+    "tipo": "artista",
+    "grupo": "elo"
+   }
+  },
+  {
+   "data": {
+    "id": "a:foc",
+    "slug": "foc",
+    "label": "Focus",
+    "tipo": "artista",
+    "grupo": "foc"
+   }
+  },
+  {
+   "data": {
+    "id": "a:ren",
+    "slug": "ren",
+    "label": "Renaissance",
+    "tipo": "artista",
+    "grupo": "ren"
+   }
+  },
+  {
+   "data": {
+    "id": "a:str",
+    "slug": "str",
+    "label": "Strawbs",
+    "tipo": "artista",
+    "grupo": "str"
+   }
+  },
+  {
+   "data": {
+    "id": "a:ca",
+    "slug": "ca",
+    "label": "Curved Air",
+    "tipo": "artista",
+    "grupo": "ca"
+   }
+  },
+  {
+   "data": {
+    "id": "a:bjh",
+    "slug": "bjh",
+    "label": "Barclay James Harvest",
+    "tipo": "artista",
+    "grupo": "bjh"
+   }
+  },
+  {
+   "data": {
+    "id": "a:sh",
+    "slug": "sh",
+    "label": "Steve Hackett",
+    "tipo": "artista",
+    "grupo": "sh"
+   }
+  },
+  {
+   "data": {
+    "id": "r:advision-trident-abbey-road-the-manor",
+    "slug": "advision-trident-abbey-road-the-manor",
+    "label": "Advision · Trident · Abbey Road · The Manor",
+    "tipo": "studio",
+    "rol": "Estudios"
+   }
+  },
+  {
+   "data": {
+    "id": "r:alan-parsons",
+    "slug": "alan-parsons",
+    "label": "Alan Parsons",
+    "tipo": "person",
+    "rol": "Ingeniero → Autor"
+   }
+  },
+  {
+   "data": {
+    "id": "r:bill-bruford",
+    "slug": "bill-bruford",
+    "label": "Bill Bruford",
+    "tipo": "person",
+    "rol": "Baterista"
+   }
+  },
+  {
+   "data": {
+    "id": "r:charisma-tony-stratton-smith",
+    "slug": "charisma-tony-stratton-smith",
+    "label": "Charisma · Tony Stratton-Smith",
+    "tipo": "label",
+    "rol": "Sello / Mecenas"
+   }
+  },
+  {
+   "data": {
+    "id": "r:dave-stewart",
+    "slug": "dave-stewart",
+    "label": "Dave Stewart",
+    "tipo": "person",
+    "rol": "Tecladista"
+   }
+  },
+  {
+   "data": {
+    "id": "r:david-bedford",
+    "slug": "david-bedford",
+    "label": "David Bedford",
+    "tipo": "person",
+    "rol": "Arreglador"
+   }
+  },
+  {
+   "data": {
+    "id": "r:david-hitchcock",
+    "slug": "david-hitchcock",
+    "label": "David Hitchcock",
+    "tipo": "person",
+    "rol": "Productor"
+   }
+  },
+  {
+   "data": {
+    "id": "r:eddy-offord",
+    "slug": "eddy-offord",
+    "label": "Eddy Offord",
+    "tipo": "person",
+    "rol": "Ingeniero / Productor"
+   }
+  },
+  {
+   "data": {
+    "id": "r:greg-lake",
+    "slug": "greg-lake",
+    "label": "Greg Lake",
+    "tipo": "person",
+    "rol": "Bajista / Cantante"
+   }
+  },
+  {
+   "data": {
+    "id": "r:hipgnosis",
+    "slug": "hipgnosis",
+    "label": "Hipgnosis",
+    "tipo": "studio",
+    "rol": "Estudio de diseño"
+   }
+  },
+  {
+   "data": {
+    "id": "r:john-wetton",
+    "slug": "john-wetton",
+    "label": "John Wetton",
+    "tipo": "person",
+    "rol": "Bajista / Cantante"
+   }
+  },
+  {
+   "data": {
+    "id": "r:keith-tippett",
+    "slug": "keith-tippett",
+    "label": "Keith Tippett",
+    "tipo": "person",
+    "rol": "Pianista invitado"
+   }
+  },
+  {
+   "data": {
+    "id": "r:manticore",
+    "slug": "manticore",
+    "label": "Manticore",
+    "tipo": "label",
+    "rol": "Sello / Mecenas"
+   }
+  },
+  {
+   "data": {
+    "id": "r:peter-sinfield",
+    "slug": "peter-sinfield",
+    "label": "Peter Sinfield",
+    "tipo": "person",
+    "rol": "Letrista"
+   }
+  },
+  {
+   "data": {
+    "id": "r:phil-collins",
+    "slug": "phil-collins",
+    "label": "Phil Collins",
+    "tipo": "person",
+    "rol": "Baterista / Cantante"
+   }
+  },
+  {
+   "data": {
+    "id": "r:richard-sinclair",
+    "slug": "richard-sinclair",
+    "label": "Richard Sinclair",
+    "tipo": "person",
+    "rol": "Bajista / Cantante"
+   }
+  },
+  {
+   "data": {
+    "id": "r:roger-dean",
+    "slug": "roger-dean",
+    "label": "Roger Dean",
+    "tipo": "person",
+    "rol": "Ilustrador"
+   }
+  },
+  {
+   "data": {
+    "id": "r:steve-y-john-hackett",
+    "slug": "steve-y-john-hackett",
+    "label": "Steve y John Hackett",
+    "tipo": "person",
+    "rol": "Hermanos"
+   }
+  },
+  {
+   "data": {
+    "id": "r:tom-newman",
+    "slug": "tom-newman",
+    "label": "Tom Newman",
+    "tipo": "person",
+    "rol": "Ingeniero / Productor"
+   }
+  },
+  {
+   "data": {
+    "id": "r:virgin-records",
+    "slug": "virgin-records",
+    "label": "Virgin Records",
+    "tipo": "label",
+    "rol": "Sello"
+   }
+  }
+ ],
+ "edges": [
+  {
+   "data": {
+    "id": "e:greg-lake:kc:member_of",
+    "source": "r:greg-lake",
+    "target": "a:kc",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "bass guitar, lead vocals, original (1968-11-30–1970)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:peter-sinfield:kc:member_of",
+    "source": "r:peter-sinfield",
+    "target": "a:kc",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "original, synthesizer (1968-11-30–1971)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:john-wetton:kc:member_of",
+    "source": "r:john-wetton",
+    "target": "a:kc",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "lead vocals (1972-07-22–1974-09-28)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:bill-bruford:kc:member_of",
+    "source": "r:bill-bruford",
+    "target": "a:kc",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "percussion (1972-07-22–1997)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:phil-collins:gen:member_of",
+    "source": "r:phil-collins",
+    "target": "a:gen",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "drums (drum set), lead vocals, percussion (1970-08–1996-03)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:bill-bruford:yes:member_of",
+    "source": "r:bill-bruford",
+    "target": "a:yes",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "drums (drum set), original (1968–1972-07)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:greg-lake:elp:member_of",
+    "source": "r:greg-lake",
+    "target": "a:elp",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "eponymous (1970–2016-12-07)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:richard-sinclair:car:member_of",
+    "source": "r:richard-sinclair",
+    "target": "a:car",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "original (1968–1972)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:richard-sinclair:cam:member_of",
+    "source": "r:richard-sinclair",
+    "target": "a:cam",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1977–1979)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:alan-parsons:app:member_of",
+    "source": "r:alan-parsons",
+    "target": "a:app",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "acoustic guitar, bass, eponymous, flute, keyboard, lead vocals, original, vocoder (¿?–act.)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:eddy-offord:yes:produced:0",
+    "source": "r:eddy-offord",
+    "target": "a:yes",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "ingeniero y coproductor en Advision (The Yes Album, Fragile, Close to the Edge)",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:eddy-offord:elp:produced:1",
+    "source": "r:eddy-offord",
+    "target": "a:elp",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "ingeniero y coproductor en Advision (Tarkus)",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:david-hitchcock:car:produced:2",
+    "source": "r:david-hitchcock",
+    "target": "a:car",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "In the Land of Grey and Pink, Cunning Stunts",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:david-hitchcock:gen:produced:3",
+    "source": "r:david-hitchcock",
+    "target": "a:gen",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "Foxtrot (1972)",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:david-hitchcock:cam:produced:4",
+    "source": "r:david-hitchcock",
+    "target": "a:cam",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "The Snow Goose (1975)",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:david-bedford:mo:arranged:5",
+    "source": "r:david-bedford",
+    "target": "a:mo",
+    "tipo": "arranged",
+    "relacion": "arregló para",
+    "etiqueta": "mentor en The Whole World; versión orquestal de Tubular Bells",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:david-bedford:cam:arranged:6",
+    "source": "r:david-bedford",
+    "target": "a:cam",
+    "tipo": "arranged",
+    "relacion": "arregló para",
+    "etiqueta": "orquestación de The Snow Goose",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:tom-newman:mo:produced:7",
+    "source": "r:tom-newman",
+    "target": "a:mo",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "coproductor de Tubular Bells en The Manor",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:tom-newman:ap:produced:8",
+    "source": "r:tom-newman",
+    "target": "a:ap",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "The Geese & the Ghost",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:alan-parsons:beatles:engineered:9",
+    "source": "r:alan-parsons",
+    "target": "a:beatles",
+    "tipo": "engineered",
+    "relacion": "ingeniería para",
+    "etiqueta": "asistente en Abbey Road",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:alan-parsons:pf:engineered:10",
+    "source": "r:alan-parsons",
+    "target": "a:pf",
+    "tipo": "engineered",
+    "relacion": "ingeniería para",
+    "etiqueta": "ingeniero de The Dark Side of the Moon",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:bill-bruford:gen:guested_on:11",
+    "source": "r:bill-bruford",
+    "target": "a:gen",
+    "tipo": "guested_on",
+    "relacion": "invitado de",
+    "etiqueta": "batería en la gira de 1976",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:phil-collins:ap:guested_on:12",
+    "source": "r:phil-collins",
+    "target": "a:ap",
+    "tipo": "guested_on",
+    "relacion": "invitado de",
+    "etiqueta": "batería y voz en The Geese & the Ghost",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:phil-collins:sh:guested_on:13",
+    "source": "r:phil-collins",
+    "target": "a:sh",
+    "tipo": "guested_on",
+    "relacion": "invitado de",
+    "etiqueta": "batería en Voyage of the Acolyte",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:keith-tippett:kc:guested_on:14",
+    "source": "r:keith-tippett",
+    "target": "a:kc",
+    "tipo": "guested_on",
+    "relacion": "invitado de",
+    "etiqueta": "piano en Poseidon, Lizard e Islands",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:peter-sinfield:elp:wrote_lyrics:15",
+    "source": "r:peter-sinfield",
+    "target": "a:elp",
+    "tipo": "wrote_lyrics",
+    "relacion": "letras para",
+    "etiqueta": "letras de Works",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:roger-dean:yes:designed_artwork:16",
+    "source": "r:roger-dean",
+    "target": "a:yes",
+    "tipo": "designed_artwork",
+    "relacion": "diseñó para",
+    "etiqueta": "logo y paisajes",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:roger-dean:gg:designed_artwork:17",
+    "source": "r:roger-dean",
+    "target": "a:gg",
+    "tipo": "designed_artwork",
+    "relacion": "diseñó para",
+    "etiqueta": "el pulpo embotellado de Octopus",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:hipgnosis:pf:designed_artwork:18",
+    "source": "r:hipgnosis",
+    "target": "a:pf",
+    "tipo": "designed_artwork",
+    "relacion": "diseñó para",
+    "etiqueta": "el prisma, los hombres en llamas",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:hipgnosis:gen:designed_artwork:19",
+    "source": "r:hipgnosis",
+    "target": "a:gen",
+    "tipo": "designed_artwork",
+    "relacion": "diseñó para",
+    "etiqueta": "tapas 1976–78",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:charisma-tony-stratton-smith:gen:signed_to:20",
+    "source": "r:charisma-tony-stratton-smith",
+    "target": "a:gen",
+    "tipo": "signed_to",
+    "relacion": "fichó a",
+    "etiqueta": "el sello que los bancó cuando no vendían",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:charisma-tony-stratton-smith:vdgg:signed_to:21",
+    "source": "r:charisma-tony-stratton-smith",
+    "target": "a:vdgg",
+    "tipo": "signed_to",
+    "relacion": "fichó a",
+    "etiqueta": "el sello que los bancó cuando no vendían",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:virgin-records:mo:signed_to:22",
+    "source": "r:virgin-records",
+    "target": "a:mo",
+    "tipo": "signed_to",
+    "relacion": "fichó a",
+    "etiqueta": "fundado sobre Tubular Bells (V2001)",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:manticore:elp:signed_to:23",
+    "source": "r:manticore",
+    "target": "a:elp",
+    "tipo": "signed_to",
+    "relacion": "fichó a",
+    "etiqueta": "su propio sello",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:advision-trident-abbey-road-the-manor:yes:recorded_at:24",
+    "source": "r:advision-trident-abbey-road-the-manor",
+    "target": "a:yes",
+    "tipo": "recorded_at",
+    "relacion": "grabó en",
+    "etiqueta": "Advision",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:advision-trident-abbey-road-the-manor:elp:recorded_at:25",
+    "source": "r:advision-trident-abbey-road-the-manor",
+    "target": "a:elp",
+    "tipo": "recorded_at",
+    "relacion": "grabó en",
+    "etiqueta": "Advision",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:advision-trident-abbey-road-the-manor:gg:recorded_at:26",
+    "source": "r:advision-trident-abbey-road-the-manor",
+    "target": "a:gg",
+    "tipo": "recorded_at",
+    "relacion": "grabó en",
+    "etiqueta": "Advision",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:advision-trident-abbey-road-the-manor:gen:recorded_at:27",
+    "source": "r:advision-trident-abbey-road-the-manor",
+    "target": "a:gen",
+    "tipo": "recorded_at",
+    "relacion": "grabó en",
+    "etiqueta": "Trident",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:advision-trident-abbey-road-the-manor:beatles:recorded_at:28",
+    "source": "r:advision-trident-abbey-road-the-manor",
+    "target": "a:beatles",
+    "tipo": "recorded_at",
+    "relacion": "grabó en",
+    "etiqueta": "Abbey Road",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:advision-trident-abbey-road-the-manor:pf:recorded_at:29",
+    "source": "r:advision-trident-abbey-road-the-manor",
+    "target": "a:pf",
+    "tipo": "recorded_at",
+    "relacion": "grabó en",
+    "etiqueta": "Abbey Road",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:advision-trident-abbey-road-the-manor:app:recorded_at:30",
+    "source": "r:advision-trident-abbey-road-the-manor",
+    "target": "a:app",
+    "tipo": "recorded_at",
+    "relacion": "grabó en",
+    "etiqueta": "Abbey Road",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:advision-trident-abbey-road-the-manor:mo:recorded_at:31",
+    "source": "r:advision-trident-abbey-road-the-manor",
+    "target": "a:mo",
+    "tipo": "recorded_at",
+    "relacion": "grabó en",
+    "etiqueta": "The Manor",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:steve-y-john-hackett:gen:member_of:32",
+    "source": "r:steve-y-john-hackett",
+    "target": "a:gen",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "Steve, guitarrista 1971–77",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:steve-y-john-hackett:sh:guested_on:33",
+    "source": "r:steve-y-john-hackett",
+    "target": "a:sh",
+    "tipo": "guested_on",
+    "relacion": "invitado de",
+    "etiqueta": "John, flauta en Voyage of the Acolyte",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:steve-y-john-hackett:ap:guested_on:34",
+    "source": "r:steve-y-john-hackett",
+    "target": "a:ap",
+    "tipo": "guested_on",
+    "relacion": "invitado de",
+    "etiqueta": "John, flauta en God If I Saw Her Now",
+    "estado": "prototipo"
+   }
+  }
+ ]
+}

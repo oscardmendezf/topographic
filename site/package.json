@@ -1,0 +1,15 @@
+{
+  "name": "atlas-del-prog",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^6.3.1",
+    "cytoscape": "^3.30.0"
+  }
+}

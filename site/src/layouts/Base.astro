@@ -1,0 +1,72 @@
+---
+import { u } from '../lib/util';
+const { titulo = 'Atlas del Prog' } = Astro.props;
+---
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{titulo} · Atlas del Prog</title>
+  <meta name="description" content="Enciclopedia navegable del rock progresivo y los álbumes conceptuales, en español: artistas, discos, productores, sellos y estudios como un grafo genealógico." />
+</head>
+<body>
+  <nav class="topnav"><div class="wrap">
+    <a class="brand" href={u('/')}>Atlas del Prog</a>
+    <a href={u('/')}>El grafo</a>
+    <a href={u('tiempo/')}>Línea de tiempo</a>
+  </div></nav>
+  <slot />
+  <footer><div class="wrap">
+    <p><b>Verificabilidad delegada:</b> cada nodo enlaza a su ID de MusicBrainz, Discogs y Wikipedia.
+    Los datos de charts se muestran con su estado de verificación declarado; «s.d.» = sin dato fiable,
+    «—» = no entró en listas. Fase 1: era clásica 1966–1980, 26 artistas.</p>
+  </div></footer>
+
+<style is:global>
+:root{
+  --bg:#14181D; --panel:#1B212A; --panel2:#20262f; --ink:#E9E2D0; --dim:#9AA0A8; --line:#2A313C;
+  --acento:#D08C2E;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,'Times New Roman',serif}
+.mono{font-family:ui-monospace,'Cascadia Mono','Courier New',monospace}
+h1,h2,h3{font-family:'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif;font-weight:600}
+h1{font-size:clamp(30px,5vw,48px);font-style:italic;letter-spacing:-.01em}
+h2{font-size:24px;font-style:italic;margin:0 0 6px}
+a{color:inherit}
+.wrap{max-width:1060px;margin:0 auto;padding:0 20px}
+.topnav{position:sticky;top:0;z-index:9;background:rgba(20,24,29,.95);backdrop-filter:blur(4px);border-bottom:1px solid var(--line);padding:10px 0}
+.topnav .wrap{display:flex;gap:18px;align-items:baseline}
+.topnav a{font-family:ui-monospace,monospace;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--dim);text-decoration:none}
+.topnav a:hover{color:var(--ink)}
+.topnav .brand{color:var(--ink);font-size:13px;letter-spacing:.2em}
+header.page{padding:44px 0 24px;border-bottom:1px solid var(--line)}
+.eyebrow{font-family:ui-monospace,monospace;font-size:12px;letter-spacing:.22em;color:var(--dim);text-transform:uppercase;margin-bottom:12px}
+.lede{max-width:70ch;color:#c8c2b2;margin-top:12px}
+section.block{padding:36px 0;border-bottom:1px solid var(--line)}
+.sub{color:var(--dim);font-size:14px;margin-bottom:16px}
+footer{padding:36px 0 64px;color:var(--dim);font-size:14px}
+footer b{color:var(--ink)}
+.tag{font-family:ui-monospace,monospace;font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--acento)}
+.badge{font-family:ui-monospace,monospace;font-size:10px;letter-spacing:.08em;border:1px solid var(--line);border-radius:999px;padding:2px 8px;color:var(--dim);white-space:nowrap}
+.badge.ok{color:#7fbf7f;border-color:#3a5a3a}
+.badge.warn{color:#d9b44a;border-color:#5a4d20}
+.badge.sd{color:#c96f6f;border-color:#5a2f2f}
+.links-verif{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.links-verif a{font-family:ui-monospace,monospace;font-size:12px;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:5px 12px;text-decoration:none}
+.links-verif a:hover{border-color:var(--ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:10px}
+.card{display:block;background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--dim);padding:13px 15px;text-decoration:none}
+.card:hover{background:var(--panel2)}
+.card h3{font-size:16px}
+.card p{font-size:13px;color:var(--dim);margin-top:5px}
+table.datos{border-collapse:collapse;width:100%;font-size:14px}
+table.datos td,table.datos th{border-bottom:1px solid var(--line);padding:7px 10px 7px 0;text-align:left;vertical-align:top}
+table.datos th{font-family:ui-monospace,monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--dim);font-weight:400}
+.analisis{max-width:72ch;font-size:16.5px;line-height:1.65}
+.analisis p{margin:10px 0}
+</style>
+</body>
+</html>

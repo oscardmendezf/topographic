@@ -1,0 +1,152 @@
+---
+import Base from '../layouts/Base.astro';
+import { u, COLORES } from '../lib/util';
+import atlas from '../../../data/atlas.json';
+import grafo from '../../../data/grafo.json';
+
+const artistas = atlas.nodos.artistas;
+const nProto = grafo.edges.filter((e) => e.data.estado === 'prototipo').length;
+const nMb = grafo.edges.length - nProto;
+---
+<Base titulo="El grafo">
+  <header class="page"><div class="wrap">
+    <p class="eyebrow">Fase 1 · Era clásica 1966–1980 · 26 artistas · 208 fichas</p>
+    <h1>El Mapa del Prog</h1>
+    <p class="lede">El rock progresivo británico como grafo genealógico: artistas, productores,
+    ingenieros, diseñadores, sellos y estudios, conectados. Clic en cualquier nodo para abrir su ficha.</p>
+  </div></header>
+
+  <section class="block"><div class="wrap">
+    <h2>La red</h2>
+    <p class="sub">Aristas continuas: membresías verificadas en MusicBrainz ({nMb}).
+    Aristas punteadas: conexiones documentadas en la capa editorial, pendientes de verificación ({nProto}).</p>
+    <div id="filtros" class="filtros mono">
+      <label><input type="checkbox" value="member_of" checked /> miembros</label>
+      <label><input type="checkbox" value="produced" checked /> producción</label>
+      <label><input type="checkbox" value="engineered" checked /> ingeniería</label>
+      <label><input type="checkbox" value="arranged" checked /> arreglos</label>
+      <label><input type="checkbox" value="guested_on" checked /> invitados</label>
+      <label><input type="checkbox" value="designed_artwork" checked /> arte de tapa</label>
+      <label><input type="checkbox" value="signed_to" checked /> sellos</label>
+      <label><input type="checkbox" value="recorded_at" checked /> estudios</label>
+      <label><input type="checkbox" value="wrote_lyrics" checked /> letras</label>
+    </div>
+    <div id="cy" data-base={u('/')}></div>
+    <p class="sub" id="detalle-arista">Pasá el cursor por una arista para ver el detalle de la conexión.</p>
+  </div></section>
+
+  <section class="block"><div class="wrap">
+    <h2>Los artistas</h2>
+    <p class="sub">Los 26 del universo Fase 1 (los conceptuales no-prog, como colección y por separado).</p>
+    <div class="grid">
+      {artistas.map((a) => (
+        <a class="card" href={u(`artista/${a.slug}/`)} style={`border-left-color:${COLORES[a.grupo] ?? 'var(--dim)'}`}>
+          <h3>{a.nombre}</h3>
+          <p>{a.inicio?.slice(0, 4) ?? 's.d.'}{a.fin ? `–${a.fin.slice(0, 4)}` : '–act.'} · ficha, miembros y discos</p>
+        </a>
+      ))}
+    </div>
+  </div></section>
+</Base>
+
+<style>
+#cy{height:640px;background:var(--panel);border:1px solid var(--line)}
+.filtros{display:flex;flex-wrap:wrap;gap:4px 14px;margin-bottom:10px;font-size:12px;color:var(--dim)}
+.filtros label{cursor:pointer;user-select:none}
+.filtros input{accent-color:var(--acento);vertical-align:-2px}
+#detalle-arista{margin-top:10px;min-height:1.4em}
+</style>
+
+<script>
+  import cytoscape from 'cytoscape';
+  import grafo from '../../../data/grafo.json';
+  import { COLORES } from '../lib/util';
+
+  const cont = document.getElementById('cy')!;
+  const base = cont.dataset.base!;
+
+  const cy = cytoscape({
+    container: cont,
+    elements: grafo as any,
+    autoungrabify: false,
+    style: [
+      {
+        selector: 'node[tipo="artista"]',
+        style: {
+          'background-color': (n: any) => COLORES[n.data('grupo')] ?? '#9AA0A8',
+          label: 'data(label)', color: '#E9E2D0', 'font-size': 11,
+          'font-family': 'Georgia, serif', 'text-valign': 'bottom', 'text-margin-y': 4,
+          width: 26, height: 26,
+        },
+      },
+      {
+        selector: 'node[tipo="person"]',
+        style: {
+          shape: 'diamond', 'background-color': '#E9E2D0', label: 'data(label)',
+          color: '#9AA0A8', 'font-size': 10, 'font-family': 'ui-monospace, monospace',
+          'text-valign': 'bottom', 'text-margin-y': 4, width: 18, height: 18,
+        },
+      },
+      {
+        selector: 'node[tipo="label"]',
+        style: {
+          shape: 'round-rectangle', 'background-color': '#D08C2E', label: 'data(label)',
+          color: '#9AA0A8', 'font-size': 10, 'font-family': 'ui-monospace, monospace',
+          'text-valign': 'bottom', 'text-margin-y': 4, width: 20, height: 16,
+        },
+      },
+      {
+        selector: 'node[tipo="studio"]',
+        style: {
+          shape: 'hexagon', 'background-color': '#58A4B0', label: 'data(label)',
+          color: '#9AA0A8', 'font-size': 10, 'font-family': 'ui-monospace, monospace',
+          'text-valign': 'bottom', 'text-margin-y': 4, width: 20, height: 18,
+        },
+      },
+      {
+        selector: 'edge',
+        style: {
+          width: 1.4, 'line-color': '#2A313C', 'curve-style': 'bezier',
+          'target-arrow-shape': 'none',
+        },
+      },
+      { selector: 'edge[estado="prototipo"]', style: { 'line-style': 'dashed', 'line-color': '#3d4653' } },
+      { selector: 'edge.activa', style: { 'line-color': '#D08C2E', width: 2.2 } },
+      { selector: 'node.activa', style: { 'border-width': 2, 'border-color': '#E9E2D0' } },
+    ],
+    layout: { name: 'cose', animate: false, nodeRepulsion: () => 12000, idealEdgeLength: () => 90, padding: 20 },
+  });
+
+  // clic -> ficha
+  cy.on('tap', 'node', (ev) => {
+    const d = ev.target.data();
+    const ruta = d.tipo === 'artista' ? `artista/${d.slug}/` : `red/${d.slug}/`;
+    window.location.href = base + ruta;
+  });
+
+  // hover -> detalle de la arista
+  const detalle = document.getElementById('detalle-arista')!;
+  cy.on('mouseover', 'edge', (ev) => {
+    const e = ev.target;
+    e.addClass('activa');
+    e.connectedNodes().addClass('activa');
+    const d = e.data();
+    const src = cy.getElementById(d.source).data('label');
+    const tgt = cy.getElementById(d.target).data('label');
+    const verif = d.estado === 'musicbrainz' ? 'MusicBrainz' : 'editorial, sin verificar';
+    detalle.textContent = `${src} — ${d.relacion} — ${tgt}: ${d.etiqueta} (${verif})`;
+  });
+  cy.on('mouseout', 'edge', (ev) => {
+    ev.target.removeClass('activa');
+    ev.target.connectedNodes().removeClass('activa');
+    detalle.textContent = 'Pasá el cursor por una arista para ver el detalle de la conexión.';
+  });
+
+  // filtros por tipo de arista
+  const casillas = document.querySelectorAll<HTMLInputElement>('#filtros input');
+  function aplicar() {
+    const activos = new Set([...casillas].filter((c) => c.checked).map((c) => c.value));
+    cy.edges().forEach((e) => e.style('display', activos.has(e.data('tipo')) ? 'element' : 'none'));
+  }
+  casillas.forEach((c) => c.addEventListener('change', aplicar));
+</script>

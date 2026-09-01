@@ -1,0 +1,133 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { u, COLORES } from '../../lib/util';
+import atlas from '../../../../data/atlas.json';
+import grafo from '../../../../data/grafo.json';
+
+export async function getStaticPaths() {
+  const entradas = await getCollection('artistas');
+  const porSlug = new Map(entradas.map((e) => [e.data.slug, e]));
+  const rutas = atlas.nodos.artistas.map((a) => ({
+    params: { slug: a.slug },
+    props: {
+      artista: a,
+      entrada: porSlug.get(a.slug) ?? null,
+      coleccion: a.grupo === 'npr' ? (porSlug.get('conceptuales-no-prog') ?? null) : null,
+    },
+  }));
+  rutas.push({
+    params: { slug: 'conceptuales-no-prog' },
+    props: { artista: null, entrada: porSlug.get('conceptuales-no-prog') ?? null, coleccion: null },
+  });
+  return rutas;
+}
+
+const { artista, entrada, coleccion } = Astro.props;
+const nombre = artista?.nombre ?? entrada?.data.nombre;
+const grupo = artista?.grupo ?? 'npr';
+const Content = entrada ? (await render(entrada)).Content : null;
+
+const miembros = artista
+  ? atlas.aristas.member_of
+      .filter((m) => m.artist_slug === artista.slug)
+      .sort((a, b) => (a.desde ?? '').localeCompare(b.desde ?? ''))
+  : [];
+
+const albumes = (await getCollection('albumes'))
+  .filter((alb) => artista ? alb.data.artista_slug === artista.slug : false)
+  .sort((a, b) => (a.data.primer_lanzamiento ?? '9999').localeCompare(b.data.primer_lanzamiento ?? '9999'));
+
+const totalRg = artista ? atlas.nodos.albumes.filter((x) => x.artist_slug === artista.slug).length : 0;
+
+const conexiones = artista
+  ? grafo.edges
+      .filter((e) => e.data.target === `a:${artista.slug}`)
+      .map((e) => ({ ...e.data, nodo: grafo.nodes.find((n) => n.data.id === e.data.source)?.data }))
+  : [];
+---
+<Base titulo={nombre}>
+  <header class="page" style={`border-top:4px solid ${COLORES[grupo] ?? 'var(--dim)'}`}><div class="wrap">
+    <p class="eyebrow">{artista ? (artista.tipo === 'Person' ? 'Solista' : 'Banda') : 'Colección editorial'}
+      {artista && ` · ${artista.inicio?.slice(0, 4) ?? 's.d.'}${artista.fin ? `–${artista.fin.slice(0, 4)}` : '–act.'}`}</p>
+    <h1>{nombre}</h1>
+    {artista && (
+      <div class="links-verif">
+        <a href={`https://musicbrainz.org/artist/${artista.mbid}`}>MusicBrainz ↗</a>
+        {artista.discogs_id && <a href={artista.links.discogs}>Discogs ↗</a>}
+        {artista.wikipedia_url && <a href={artista.wikipedia_url}>Wikipedia ↗</a>}
+      </div>
+    )}
+  </div></header>
+
+  {(Content || coleccion) && (
+    <section class="block"><div class="wrap analisis">
+      {Content ? <Content /> : null}
+      {!Content && coleccion && (
+        <p>Ficha editorial compartida: <a href={u('artista/conceptuales-no-prog/')}>{coleccion.data.nombre}</a>.</p>
+      )}
+    </div></section>
+  )}
+
+  {!artista && entrada && (
+    <section class="block"><div class="wrap">
+      <h2>Los cuatro</h2>
+      <div class="grid">
+        {(entrada.data.miembros ?? []).map((slug: string) => {
+          const a = atlas.nodos.artistas.find((x) => x.slug === slug);
+          return a ? <a class="card" href={u(`artista/${slug}/`)}><h3>{a.nombre}</h3><p>ficha, miembros y discos</p></a> : null;
+        })}
+      </div>
+    </div></section>
+  )}
+
+  {conexiones.length > 0 && (
+    <section class="block"><div class="wrap">
+      <h2>En la red</h2>
+      <table class="datos">
+        <tr><th>Quién</th><th>Relación</th><th>Detalle</th><th>Fuente</th></tr>
+        {conexiones.map((c) => (
+          <tr>
+            <td><a href={u(`red/${c.nodo?.slug}/`)}>{c.nodo?.label}</a></td>
+            <td>{c.relacion}</td>
+            <td>{c.etiqueta}</td>
+            <td><span class={`badge ${c.estado === 'musicbrainz' ? 'ok' : 'warn'}`}>{c.estado === 'musicbrainz' ? 'MusicBrainz' : 'editorial'}</span></td>
+          </tr>
+        ))}
+      </table>
+    </div></section>
+  )}
+
+  {miembros.length > 0 && (
+    <section class="block"><div class="wrap">
+      <h2>Miembros</h2>
+      <p class="sub">Membresías según MusicBrainz, con rango temporal y roles.</p>
+      <table class="datos">
+        <tr><th>Persona</th><th>Período</th><th>Roles</th></tr>
+        {miembros.map((m) => (
+          <tr>
+            <td><a href={`https://musicbrainz.org/artist/${m.person_mbid}`}>{m.person_nombre} ↗</a></td>
+            <td class="mono" style="font-size:12px">{m.desde ?? '¿?'}–{m.hasta ?? (m.vigente ? 'act.' : '¿?')}</td>
+            <td style="color:var(--dim)">{m.roles.join(', ') || '—'}</td>
+          </tr>
+        ))}
+      </table>
+    </div></section>
+  )}
+
+  {albumes.length > 0 && (
+    <section class="block"><div class="wrap">
+      <h2>Discografía · era clásica</h2>
+      <p class="sub">{albumes.length} fichas 1966–1980 · {totalRg} release-groups en total en
+        <a href={`https://musicbrainz.org/artist/${artista?.mbid}`}> MusicBrainz ↗</a></p>
+      <div class="grid">
+        {albumes.map((alb) => (
+          <a class="card" href={u(`album/${alb.id}/`)} style={`border-left-color:${COLORES[grupo] ?? 'var(--dim)'}`}>
+            <h3>{alb.data.titulo}</h3>
+            <p>{alb.data.primer_lanzamiento ?? alb.data.anio_ficha} · {alb.data.charts_texto}</p>
+          </a>
+        ))}
+      </div>
+    </div></section>
+  )}
+</Base>

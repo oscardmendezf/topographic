@@ -1,0 +1,56 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { u } from '../../lib/util';
+import grafo from '../../../../data/grafo.json';
+
+export async function getStaticPaths() {
+  const nodos = await getCollection('red');
+  return nodos.map((n) => ({ params: { slug: n.id }, props: { nodo: n } }));
+}
+
+const { nodo } = Astro.props;
+const { Content } = await render(nodo);
+const d = nodo.data;
+const mbUrl = d.mbid
+  ? `https://musicbrainz.org/artist/${d.mbid}`
+  : d.mb_label_id
+    ? `https://musicbrainz.org/label/${d.mb_label_id}`
+    : null;
+
+const conexiones = grafo.edges
+  .filter((e) => e.data.source === `r:${d.slug}`)
+  .map((e) => ({ ...e.data, nodo: grafo.nodes.find((n) => n.data.id === e.data.target)?.data }))
+  .sort((a, b) => (a.nodo?.label ?? '').localeCompare(b.nodo?.label ?? ''));
+---
+<Base titulo={d.nombre}>
+  <header class="page"><div class="wrap">
+    <p class="eyebrow">{d.rol}</p>
+    <h1>{d.nombre}</h1>
+    <div class="links-verif">
+      {mbUrl && <a href={mbUrl}>MusicBrainz ↗</a>}
+      {!mbUrl && <span class="badge">nodo compuesto — sin MBID único</span>}
+    </div>
+  </div></header>
+
+  <section class="block"><div class="wrap analisis">
+    <Content />
+  </div></section>
+
+  {conexiones.length > 0 && (
+    <section class="block"><div class="wrap">
+      <h2>Conexiones</h2>
+      <table class="datos">
+        <tr><th>Relación</th><th>Con</th><th>Detalle</th><th>Fuente</th></tr>
+        {conexiones.map((c) => (
+          <tr>
+            <td>{c.relacion}</td>
+            <td><a href={u(`artista/${c.nodo?.slug}/`)}>{c.nodo?.label}</a></td>
+            <td>{c.etiqueta}</td>
+            <td><span class={`badge ${c.estado === 'musicbrainz' ? 'ok' : 'warn'}`}>{c.estado === 'musicbrainz' ? 'MusicBrainz' : 'editorial'}</span></td>
+          </tr>
+        ))}
+      </table>
+    </div></section>
+  )}
+</Base>
