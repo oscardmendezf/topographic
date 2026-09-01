@@ -1,0 +1,2690 @@
+{
+  "ipis": [],
+  "aliases": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "disambiguation": "Dutch progressive rock group",
+  "relations": [
+    {
+      "begin": "1969",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type": "member of band",
+      "attribute-credits": {
+        "lead vocals": "occasional vocals"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)",
+        "lead vocals",
+        "original",
+        "percussion"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Cleuver, Hans",
+        "id": "0f9d1fc5-9778-4bec-868d-72c54939adff",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Hans Cleuver",
+        "country": "NL",
+        "disambiguation": "Dutch drummer, 1947–2018"
+      },
+      "end": "1970",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "begin": "1969",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [
+        "background vocals",
+        "bass",
+        "original"
+      ],
+      "end": "1970",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "country": null,
+        "disambiguation": "",
+        "name": "Martin Dresden",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Dresden, Martin",
+        "id": "e65fff32-f585-4093-a9a1-8a4bb7718ad1"
+      },
+      "target-credit": "Martijn Dresden"
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "bass",
+        "guitar",
+        "lute",
+        "original",
+        "percussion"
+      ],
+      "target-credit": "",
+      "end": "1975",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "country": "NL",
+        "disambiguation": "",
+        "name": "Jan Akkerman",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "e36f6749-cf76-469e-9dd9-f9195c326928",
+        "sort-name": "Akkerman, Jan"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lute": "38237fcc-b833-4cd6-8dc1-e5fe2f308a2b",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "type": "member of band",
+      "begin": "1969",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {}
+    },
+    {
+      "type": "member of band",
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "begin": "1969",
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "flute",
+        "keyboard",
+        "lead vocals",
+        "original",
+        "piano",
+        "synthesizer"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1978",
+      "artist": {
+        "name": "Thijs van Leer",
+        "country": "NL",
+        "disambiguation": "",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "sort-name": "Leer, Thijs van",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": ""
+    },
+    {
+      "type": "member of band",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "begin": "1971",
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "background vocals",
+        "bass"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1971",
+      "artist": {
+        "sort-name": "Havermans, Cyril",
+        "id": "5e0c60a3-f407-4cb5-bf94-f7b6aafa59d3",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Cyril Havermans",
+        "country": "NL",
+        "disambiguation": ""
+      },
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "attribute-values": {},
+      "end": "1973",
+      "artist": {
+        "disambiguation": "",
+        "country": "NL",
+        "name": "Pierre van der Linden",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "75fb55fe-7b17-4edb-82ca-04b18231e3de",
+        "sort-name": "Linden, Pierre van der"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)",
+        "percussion"
+      ]
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1971",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "type": "member of band",
+      "end": "1978",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Bert Ruiter",
+        "country": "NL",
+        "disambiguation": "",
+        "id": "ed89e9be-9904-40f2-8fa8-32560861b213",
+        "sort-name": "Ruiter, Bert",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "background vocals",
+        "bass"
+      ]
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)",
+        "percussion"
+      ],
+      "attribute-values": {},
+      "end": "1975",
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Colin Allen",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Allen, Colin",
+        "id": "7d895a87-8e0a-4a78-b0ee-0fc693215b48"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "begin": "1973",
+      "type": "member of band",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "begin": "1975",
+      "target-credit": "",
+      "end": "1976",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Kemper, David",
+        "id": "41ad2a4c-9636-4f9a-9860-1613e8db948a",
+        "country": "US",
+        "disambiguation": "",
+        "name": "David Kemper"
+      },
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "type": "member of band",
+      "begin": "1975",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "percussion"
+      ],
+      "target-credit": "",
+      "end": "1976",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "75fb55fe-7b17-4edb-82ca-04b18231e3de",
+        "sort-name": "Linden, Pierre van der",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Pierre van der Linden",
+        "disambiguation": "",
+        "country": "NL"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975",
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-values": {},
+      "end": "1976",
+      "artist": {
+        "id": "75fb55fe-7b17-4edb-82ca-04b18231e3de",
+        "sort-name": "Linden, Pierre van der",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Pierre van der Linden",
+        "country": "NL",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ]
+    },
+    {
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "begin": "1976",
+      "target-credit": "",
+      "end": "1977",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Philip Catherine",
+        "country": "BE",
+        "disambiguation": "Belgian jazz guitarist",
+        "sort-name": "Catherine, Philip",
+        "id": "fb819206-21d9-4b80-91e7-233039337da6",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "attributes": [
+        "guitar"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "begin": "1977",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "guitar"
+      ],
+      "target-credit": "",
+      "end": "1978",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "country": "NL",
+        "disambiguation": "",
+        "name": "Eef Albers",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Albers, Eef",
+        "id": "c12e993c-f7a3-4735-b0d5-cd56c39ac89e"
+      }
+    },
+    {
+      "attributes": [
+        "lead vocals"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Proby, P.J.",
+        "id": "21065cd4-d156-4685-9be0-9b98135d1cb2",
+        "disambiguation": "",
+        "country": "US",
+        "name": "P.J. Proby"
+      },
+      "end": "1978",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "1977",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "US drummer most associated with Journey",
+        "country": "US",
+        "name": "Steve Smith",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b90ab376-c0ff-42d8-88af-4892a82222dd",
+        "sort-name": "Smith, Steve"
+      },
+      "end": "1978",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1977",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band"
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1985",
+      "type": "member of band",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-values": {},
+      "end": "1985",
+      "artist": {
+        "id": "e36f6749-cf76-469e-9dd9-f9195c326928",
+        "sort-name": "Akkerman, Jan",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jan Akkerman",
+        "disambiguation": "",
+        "country": "NL"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "bass",
+        "original"
+      ]
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1985",
+      "attribute-ids": {
+        "lute": "38237fcc-b833-4cd6-8dc1-e5fe2f308a2b",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "end": "1985",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Jan Akkerman",
+        "country": "NL",
+        "disambiguation": "",
+        "id": "e36f6749-cf76-469e-9dd9-f9195c326928",
+        "sort-name": "Akkerman, Jan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "lute",
+        "original"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "type": "member of band",
+      "begin": "1985",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "original",
+        "percussion"
+      ],
+      "target-credit": "",
+      "end": "1985",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "e36f6749-cf76-469e-9dd9-f9195c326928",
+        "sort-name": "Akkerman, Jan",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jan Akkerman",
+        "country": "NL",
+        "disambiguation": ""
+      }
+    },
+    {
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Akkerman, Jan",
+        "id": "e36f6749-cf76-469e-9dd9-f9195c326928",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Jan Akkerman",
+        "disambiguation": "",
+        "country": "NL"
+      },
+      "end": "1985",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1985",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band"
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "sort-name": "Leer, Thijs van",
+        "disambiguation": "",
+        "country": "NL",
+        "name": "Thijs van Leer"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1985",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "direction": "backward",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1985"
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "flute",
+        "original"
+      ],
+      "target-credit": "",
+      "end": "1985",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Thijs van Leer",
+        "country": "NL",
+        "disambiguation": "",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "sort-name": "Leer, Thijs van",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "begin": "1985",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {}
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "type": "member of band",
+      "begin": "1985",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "original",
+        "synthesizer"
+      ],
+      "target-credit": "",
+      "end": "1985",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "NL",
+        "name": "Thijs van Leer",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981"
+      }
+    },
+    {
+      "begin": "1985",
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [
+        "original",
+        "piano"
+      ],
+      "end": "1985",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Thijs van Leer",
+        "disambiguation": "",
+        "country": "NL",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "country": "NL",
+        "disambiguation": "",
+        "name": "Thijs van Leer"
+      },
+      "end": "1985",
+      "attribute-values": {},
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "begin": "1985"
+    },
+    {
+      "begin": "1990",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [
+        "bass",
+        "original"
+      ],
+      "attribute-values": {},
+      "end": "1990",
+      "artist": {
+        "id": "e36f6749-cf76-469e-9dd9-f9195c326928",
+        "sort-name": "Akkerman, Jan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Jan Akkerman",
+        "country": "NL",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attributes": [
+        "lute",
+        "original"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "e36f6749-cf76-469e-9dd9-f9195c326928",
+        "sort-name": "Akkerman, Jan",
+        "country": "NL",
+        "disambiguation": "",
+        "name": "Jan Akkerman"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1990",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lute": "38237fcc-b833-4cd6-8dc1-e5fe2f308a2b"
+      },
+      "begin": "1990",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "begin": "1990",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "NL",
+        "name": "Jan Akkerman",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Akkerman, Jan",
+        "id": "e36f6749-cf76-469e-9dd9-f9195c326928"
+      },
+      "end": "1990",
+      "attribute-values": {},
+      "attributes": [
+        "original",
+        "percussion"
+      ],
+      "direction": "backward"
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1990",
+      "type": "member of band",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-values": {},
+      "end": "1990",
+      "artist": {
+        "name": "Jan Akkerman",
+        "disambiguation": "",
+        "country": "NL",
+        "sort-name": "Akkerman, Jan",
+        "id": "e36f6749-cf76-469e-9dd9-f9195c326928",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "guitar",
+        "original"
+      ]
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "sort-name": "Leer, Thijs van",
+        "country": "NL",
+        "disambiguation": "",
+        "name": "Thijs van Leer"
+      },
+      "end": "1990",
+      "attribute-values": {},
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type": "member of band",
+      "begin": "1990"
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "type": "member of band",
+      "begin": "1990",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "flute",
+        "original"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "name": "Thijs van Leer",
+        "disambiguation": "",
+        "country": "NL",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "end": "1990",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [
+        "original",
+        "synthesizer"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "NL",
+        "name": "Thijs van Leer",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981"
+      },
+      "end": "1990",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "1990",
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "disambiguation": "",
+        "country": "NL",
+        "name": "Thijs van Leer"
+      },
+      "end": "1990",
+      "attribute-values": {},
+      "attributes": [
+        "original",
+        "piano"
+      ],
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "type": "member of band",
+      "begin": "1990"
+    },
+    {
+      "begin": "1990",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "direction": "backward",
+      "artist": {
+        "name": "Thijs van Leer",
+        "country": "NL",
+        "disambiguation": "",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "sort-name": "Leer, Thijs van",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1990",
+      "target-credit": ""
+    },
+    {
+      "attributes": [
+        "percussion"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "id": "75fb55fe-7b17-4edb-82ca-04b18231e3de",
+        "sort-name": "Linden, Pierre van der",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Pierre van der Linden",
+        "disambiguation": "",
+        "country": "NL"
+      },
+      "end": "1990",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "1990",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "artist": {
+        "name": "Pierre van der Linden",
+        "disambiguation": "",
+        "country": "NL",
+        "sort-name": "Linden, Pierre van der",
+        "id": "75fb55fe-7b17-4edb-82ca-04b18231e3de",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "end": "1990",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1990",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band"
+    },
+    {
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1990",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "ed89e9be-9904-40f2-8fa8-32560861b213",
+        "sort-name": "Ruiter, Bert",
+        "country": "NL",
+        "disambiguation": "",
+        "name": "Bert Ruiter"
+      },
+      "end": "1990",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "background vocals"
+      ],
+      "direction": "backward"
+    },
+    {
+      "begin": "1990",
+      "type": "member of band",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [
+        "bass"
+      ],
+      "attribute-values": {},
+      "end": "1990",
+      "artist": {
+        "id": "ed89e9be-9904-40f2-8fa8-32560861b213",
+        "sort-name": "Ruiter, Bert",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Bert Ruiter",
+        "disambiguation": "",
+        "country": "NL"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1998",
+      "artist": {
+        "name": "Hans Cleuver",
+        "disambiguation": "Dutch drummer, 1947–2018",
+        "country": "NL",
+        "sort-name": "Cleuver, Hans",
+        "id": "0f9d1fc5-9778-4bec-868d-72c54939adff",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {
+        "lead vocals": "occasional vocals"
+      },
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1997"
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1997",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1998",
+      "artist": {
+        "disambiguation": "Dutch drummer, 1947–2018",
+        "country": "NL",
+        "name": "Hans Cleuver",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "0f9d1fc5-9778-4bec-868d-72c54939adff",
+        "sort-name": "Cleuver, Hans"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "original",
+        "percussion"
+      ]
+    },
+    {
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1997",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "0f9d1fc5-9778-4bec-868d-72c54939adff",
+        "sort-name": "Cleuver, Hans",
+        "disambiguation": "Dutch drummer, 1947–2018",
+        "country": "NL",
+        "name": "Hans Cleuver"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1998",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "direction": "backward"
+    },
+    {
+      "attributes": [
+        "guitar"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Gootjes, Menno",
+        "id": "9f852c72-e570-4fae-b0bc-63dc723cbb8e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Menno Gootjes",
+        "country": "NL",
+        "disambiguation": ""
+      },
+      "end": "1998",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "1997",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "end": "1998",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Thijs van Leer",
+        "country": "NL",
+        "disambiguation": ""
+      },
+      "target-credit": "",
+      "begin": "1997",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true
+    },
+    {
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": "1997",
+      "type": "member of band",
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "name": "Thijs van Leer",
+        "disambiguation": "",
+        "country": "NL",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1998",
+      "target-credit": "",
+      "attributes": [
+        "flute",
+        "original"
+      ],
+      "direction": "backward"
+    },
+    {
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "begin": "1997",
+      "target-credit": "",
+      "artist": {
+        "name": "Thijs van Leer",
+        "disambiguation": "",
+        "country": "NL",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1998",
+      "attributes": [
+        "original",
+        "synthesizer"
+      ],
+      "direction": "backward"
+    },
+    {
+      "attributes": [
+        "original",
+        "piano"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "country": "NL",
+        "disambiguation": "",
+        "name": "Thijs van Leer"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1998",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "begin": "1997",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {}
+    },
+    {
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": "1997",
+      "type": "member of band",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "name": "Thijs van Leer",
+        "country": "NL",
+        "disambiguation": "",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1998",
+      "target-credit": "",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "direction": "backward"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "type": "member of band",
+      "begin": "1997",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "name": "Bert Ruiter",
+        "disambiguation": "",
+        "country": "NL",
+        "sort-name": "Ruiter, Bert",
+        "id": "ed89e9be-9904-40f2-8fa8-32560861b213",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1998",
+      "attribute-values": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "bass"
+      ],
+      "attribute-values": {},
+      "end": "1998",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "ed89e9be-9904-40f2-8fa8-32560861b213",
+        "sort-name": "Ruiter, Bert",
+        "country": "NL",
+        "disambiguation": "",
+        "name": "Bert Ruiter"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "begin": "1997",
+      "type": "member of band",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2001",
+      "type": "member of band",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-values": {},
+      "end": "2006",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Dumée, Jan",
+        "id": "3bd90745-0c3b-42c7-b803-6423ef69ef91",
+        "disambiguation": "Dutch rock/jazz guitarist, composer & record producer",
+        "country": "NL",
+        "name": "Jan Dumée"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "background vocals",
+        "guitar"
+      ]
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "background vocals",
+        "bass"
+      ],
+      "target-credit": "",
+      "end": "2016-12",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Jacobs, Bobby",
+        "id": "c2f0e2b6-52ba-48f7-a4de-434259296c37",
+        "country": null,
+        "disambiguation": "",
+        "name": "Bobby Jacobs"
+      },
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "type": "member of band",
+      "begin": "2001",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {}
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "name": "Thijs van Leer",
+        "disambiguation": "",
+        "country": "NL",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "sort-name": "Leer, Thijs van",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "direction": "backward",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "2001"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Leer, Thijs van",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "country": "NL",
+        "disambiguation": "",
+        "name": "Thijs van Leer"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "flute",
+        "original"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "begin": "2001",
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band"
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "sort-name": "Leer, Thijs van",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Thijs van Leer",
+        "country": "NL",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [
+        "original",
+        "synthesizer"
+      ],
+      "direction": "backward",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "begin": "2001"
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2001",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "sort-name": "Leer, Thijs van",
+        "disambiguation": "",
+        "country": "NL",
+        "name": "Thijs van Leer"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "original",
+        "piano"
+      ]
+    },
+    {
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "df5689df-ee1c-4ed8-801c-6c5494e95981",
+        "sort-name": "Leer, Thijs van",
+        "disambiguation": "",
+        "country": "NL",
+        "name": "Thijs van Leer"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "2001",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {}
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-credit": "",
+      "end": "2003",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Bert Smaak",
+        "country": "DE",
+        "disambiguation": "",
+        "sort-name": "Smaak, Bert",
+        "id": "4087a8bb-01b3-490d-8b74-dab3de3b7967",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "begin": "2002",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {}
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "percussion"
+      ],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Linden, Pierre van der",
+        "id": "75fb55fe-7b17-4edb-82ca-04b18231e3de",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Pierre van der Linden",
+        "disambiguation": "",
+        "country": "NL"
+      },
+      "target-credit": "",
+      "begin": "2004",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false
+    },
+    {
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "target-type": "artist",
+      "begin": "2004",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "country": "NL",
+        "disambiguation": "",
+        "name": "Pierre van der Linden",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "75fb55fe-7b17-4edb-82ca-04b18231e3de",
+        "sort-name": "Linden, Pierre van der"
+      },
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward"
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "2006",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "end": "2010",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "356f1e6d-1727-4c35-9dc9-7429af011b45",
+        "sort-name": "Steenhoven, Niels van der",
+        "disambiguation": "",
+        "country": null,
+        "name": "Niels van der Steenhoven"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "guitar"
+      ]
+    },
+    {
+      "attributes": [
+        "guitar"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Gootjes, Menno",
+        "id": "9f852c72-e570-4fae-b0bc-63dc723cbb8e",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Menno Gootjes",
+        "disambiguation": "",
+        "country": "NL"
+      },
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "2010",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "bass"
+      ],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "9cab6646-9822-4c4e-956b-96023291ed52",
+        "sort-name": "Pannekeet, Udo",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Udo Pannekeet",
+        "country": null,
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "type": "member of band",
+      "begin": "2016",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "attribute-credits": {}
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "direction": "backward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c7b3e173-b708-4165-810b-5834b007fcfb",
+        "sort-name": "De Roeck, Jo",
+        "country": "NL",
+        "disambiguation": "Dutch/Belgian rock musician",
+        "name": "Jo De Roeck"
+      },
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "allmusic",
+      "url": {
+        "id": "b8f4f34a-c48a-4a84-8ab3-84c0894e670e",
+        "resource": "https://www.allmusic.com/artist/mn0000195305"
+      }
+    },
+    {
+      "target-credit": "",
+      "end": "2020-11-19",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "ended": true,
+      "attribute-ids": {},
+      "url": {
+        "id": "d56c3c22-1c82-406d-be6c-6b7b54bba0bd",
+        "resource": "https://www.bbc.co.uk/music/artists/821e11d6-cfec-44a7-9615-06a4e631c975"
+      },
+      "type": "BBC Music page",
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "type": "discogs",
+      "url": {
+        "id": "9bfbcf25-abba-41fa-b8e5-ef421d5307eb",
+        "resource": "https://www.discogs.com/artist/31208"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "free streaming",
+      "url": {
+        "id": "32eaaf7b-a84a-41ac-8efa-df9e21546b01",
+        "resource": "https://open.spotify.com/artist/0ifzzRKdmtgaHy9cfnnyCR"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "begin": null,
+      "type": "free streaming",
+      "url": {
+        "resource": "https://www.deezer.com/artist/3344",
+        "id": "84ab7283-e395-4986-8951-79dac6eda9bb"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "type": "IMDb",
+      "url": {
+        "resource": "https://www.imdb.com/name/nm1549121/",
+        "id": "683556ff-f061-42c6-af63-a206179f147b"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "url": {
+        "resource": "https://www.last.fm/music/Focus",
+        "id": "8043d6c0-b03a-463d-b872-dcf115bdf333"
+      },
+      "type": "last.fm",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://genius.com/artists/Focus-band",
+        "id": "e1cb35cd-e8d7-4cd2-a51e-b9055981a84e"
+      },
+      "type": "lyrics"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "id": "1d910a6c-6ddb-4b44-a75f-39055fbae55a",
+        "resource": "https://www.musixmatch.com/artist/Focus"
+      },
+      "type": "lyrics",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed"
+    },
+    {
+      "target-type": "url",
+      "ended": true,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "type": "official homepage",
+      "url": {
+        "resource": "http://www.focustheband.com/",
+        "id": "99c2c148-be9b-4868-b8ec-7c0b109ab107"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "type": "other databases",
+      "url": {
+        "id": "1c77d63d-ced9-44df-8c1f-901b6d899942",
+        "resource": "http://id.loc.gov/authorities/names/n91034274"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "type": "other databases",
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb138458006",
+        "id": "416bed21-9f9e-4c17-bc9d-aaa66b85a393"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://d-nb.info/gnd/5229692-1",
+        "id": "c3706536-16f5-4df9-8eda-4c66a7413dd7"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "type": "other databases",
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QH7JmpBxQ9B7QWftghPjTgg",
+        "id": "9e28cd3b-79a7-4ef0-86a5-28599d85eccf"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "f6a1bf59-6d9e-4674-b0f9-f7673746c79b",
+        "resource": "https://musicmoz.org/Bands_and_Artists/F/Focus/"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "type": "other databases",
+      "url": {
+        "id": "1922124e-bccc-44da-8cfd-bd126fac9103",
+        "resource": "https://rateyourmusic.com/artist/focus"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "id": "1872ccd0-9bf8-48ff-b641-5315cb9bf843",
+        "resource": "https://www.45cat.com/artist/focus"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.jazzmusicarchives.com/artist/focus",
+        "id": "f8490694-29bd-4eac-ab49-436cc482d14a"
+      },
+      "type": "other databases",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "type": "other databases",
+      "url": {
+        "id": "4bd5f14f-f50b-4ed9-8958-a98a4bf7c6fb",
+        "resource": "https://www.musik-sammler.de/artist/focus/"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "4bcdb72c-de98-4406-8f9e-372793944c24",
+        "resource": "https://www.progarchives.com/artist.asp?id=658"
+      },
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false
+    },
+    {
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Focus",
+        "id": "b26c3a4b-7243-4f75-848b-08b6b8cebcbf"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.whosampled.com/Focus/",
+        "id": "472bdc4d-64f5-4b2c-bc2b-729d2ec9108c"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "id": "a6e47703-931e-498d-b896-e40bc5563730",
+        "resource": "https://itunes.apple.com/nl/artist/id27054064"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "https://mora.jp/artist/353296/",
+        "id": "343c2dda-dd03-4787-bea5-6a3483e38d1a"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://music.apple.com/nl/artist/27054064",
+        "id": "4d844b44-c794-4f8d-b80a-950f1b0ae357"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://nl.7digital.com/artist/focus",
+        "id": "a489f52b-82ea-4395-ba57-b0a51975e0f6"
+      },
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/29655",
+        "id": "a99588be-0e85-4bf4-9e70-638fc6435e05"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "28e5d52c-07d9-4af1-bb05-86f2d02a72e0",
+        "resource": "https://www.qobuz.com/nl-nl/interpreter/focus/125235"
+      },
+      "type": "purchase for download",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "d889284c-fc78-47d9-be65-d6033564ef9b",
+        "resource": "https://www.cdjapan.co.jp/person/700314534"
+      },
+      "type": "purchase for mail-order"
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "url": {
+        "id": "c2131562-602c-4cd2-a974-ab6088f212aa",
+        "resource": "https://secondhandsongs.com/artist/196"
+      },
+      "type": "secondhandsongs",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "a84463b0-67eb-4e7f-89d0-0a3d585a5c18",
+        "resource": "https://www.setlist.fm/setlists/focus-3bd6ac60.html"
+      },
+      "type": "setlistfm",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "type": "social network",
+      "url": {
+        "id": "089ed153-ad0d-4f14-9f9a-81844e69f8de",
+        "resource": "https://twitter.com/Focustheband"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "social network",
+      "url": {
+        "id": "941b262a-8a12-4f3b-9e0b-54e8aa1a56c5",
+        "resource": "https://www.facebook.com/pages/Focus/104061072962860?rf=107871439236118"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "social network",
+      "url": {
+        "id": "c956783a-8dbb-4350-8071-b4c520625ead",
+        "resource": "https://www.instagram.com/focustheband50/"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+    },
+    {
+      "begin": null,
+      "url": {
+        "id": "fec3baab-86a2-49cc-aa70-8360d08b8430",
+        "resource": "https://www.songkick.com/artists/59719"
+      },
+      "type": "songkick",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "end": "2022-06-08",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "streaming",
+      "url": {
+        "id": "86b345bd-52c9-4368-9602-fbafce3b6239",
+        "resource": "https://us.napster.com/artist/focus"
+      },
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": true
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/539762488",
+        "id": "dbe5a39e-1fc5-4c6d-bc22-811d89403599"
+      },
+      "type": "streaming",
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/mx/artist/539762488",
+        "id": "35c1ef61-2416-40cd-a6aa-a6ff4f4b19a7"
+      },
+      "type": "streaming",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type": "streaming",
+      "url": {
+        "resource": "https://music.apple.com/nl/artist/27054064",
+        "id": "4d844b44-c794-4f8d-b80a-950f1b0ae357"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "id": "c1f54e08-2c97-4be8-860f-8d9c2f947d7d",
+        "resource": "https://tidal.com/artist/3639392"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "type": "streaming",
+      "url": {
+        "id": "28e5d52c-07d9-4af1-bb05-86f2d02a72e0",
+        "resource": "https://www.qobuz.com/nl-nl/interpreter/focus/125235"
+      },
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "VIAF",
+      "url": {
+        "id": "94e5d890-a694-41a2-8722-2bf7fbef4ac5",
+        "resource": "http://viaf.org/viaf/145103283"
+      }
+    },
+    {
+      "begin": null,
+      "url": {
+        "id": "a535d98d-eb79-4dc6-9bf3-32d8b605063b",
+        "resource": "https://www.wikidata.org/wiki/Q288918"
+      },
+      "type": "wikidata",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCoOditDKABB0Gm34s5qgC5Q",
+        "id": "63e9697d-d916-426f-b4f6-944213d991af"
+      },
+      "type": "youtube",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCsJy-3kVxFKcDh83jbcJ-2Q",
+        "id": "c7e8eadb-5a76-4315-8a94-7de0669bfa27"
+      },
+      "type": "youtube music",
+      "begin": null,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    }
+  ],
+  "type": "Group",
+  "country": "NL",
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1969"
+  },
+  "name": "Focus",
+  "end-area": null,
+  "begin-area": {
+    "type": null,
+    "type-id": null,
+    "sort-name": "Amsterdam",
+    "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+    "disambiguation": "",
+    "name": "Amsterdam"
+  },
+  "area": {
+    "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+    "sort-name": "Netherlands",
+    "type": null,
+    "type-id": null,
+    "name": "Netherlands",
+    "iso-3166-1-codes": [
+      "NL"
+    ],
+    "disambiguation": ""
+  },
+  "sort-name": "Focus",
+  "id": "821e11d6-cfec-44a7-9615-06a4e631c975",
+  "gender": null,
+  "isnis": [
+    "0000000119575291"
+  ]
+}

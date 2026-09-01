@@ -1,0 +1,2106 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "British progressive rock band",
+  "life-span": {
+    "begin": "1968",
+    "end": null,
+    "ended": false
+  },
+  "country": "GB",
+  "isnis": [
+    "0000000119390123"
+  ],
+  "name": "Yes",
+  "gender-id": null,
+  "area": {
+    "type": null,
+    "disambiguation": "",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "sort-name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "end-area": null,
+  "relations": [
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "type": "Person",
+        "disambiguation": "",
+        "id": "9d8005c9-1fb2-4fa4-8c82-1e3c77f296fe",
+        "sort-name": "Brislin, Tom",
+        "name": "Tom Brislin"
+      },
+      "target-credit": "",
+      "end": "2001",
+      "type": "instrumental supporting musician",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "begin": "2001",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attributes": [
+        "keyboard"
+      ]
+    },
+    {
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "target-type": "artist",
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Banks, Peter",
+        "id": "f1022919-81ce-4e56-a5e6-d5e7b6434ad5",
+        "name": "Peter Banks",
+        "disambiguation": "guitarist, ex‐Yes",
+        "type": "Person",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "end": "1970-04",
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "end": "1971-08",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Kaye, Tony",
+        "id": "ed4cbe86-f4df-47c9-9356-271e5709ccb5",
+        "name": "Tony Kaye",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "1968",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attributes": [
+        "keyboard",
+        "original"
+      ]
+    },
+    {
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1968",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1972-07",
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Bruford, Bill",
+        "id": "0211756e-139e-4b4c-a721-9ee9db363f12",
+        "name": "Bill Bruford",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "Yes/Jon & Vangelis",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jon Anderson",
+        "sort-name": "Anderson, Jon",
+        "id": "24202038-7b02-4444-96c2-cf2fc7b81308"
+      },
+      "target-credit": "",
+      "end": "1979-12",
+      "type": "member of band",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "target-type": "artist",
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1968"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "2015",
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "Yes bassist",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Squire, Chris",
+        "id": "3765dccd-b659-4298-9211-15c3f73b40bf",
+        "name": "Chris Squire"
+      },
+      "attributes": [
+        "bass guitar",
+        "original"
+      ],
+      "begin": "1968",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-credits": {}
+    },
+    {
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970-05",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Howe, Steve",
+        "id": "9a4f2c10-60d6-4f78-9f8c-c0162424c41f",
+        "name": "Steve Howe"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1981"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1971-09",
+      "attribute-credits": {},
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [
+        "keyboard"
+      ],
+      "type": "member of band",
+      "end": "1974-05",
+      "artist": {
+        "sort-name": "Wakeman, Rick",
+        "id": "2ad06109-0a52-4b7b-8b7a-ca7c10baf597",
+        "name": "Rick Wakeman",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward"
+    },
+    {
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1972-07",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "2022-05",
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "Yes drummer",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "White, Alan",
+        "id": "eae2acb8-1ee4-476f-923d-36d8fe7b34bf",
+        "name": "Alan White"
+      }
+    },
+    {
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1974-08",
+      "attribute-ids": {},
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "CH",
+        "disambiguation": "",
+        "id": "c872ab10-fd12-41cc-a6a0-8d1ac7263125",
+        "sort-name": "Moraz, Patrick",
+        "name": "Patrick Moraz"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1976-10",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-credits": {},
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1976-11",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Wakeman, Rick",
+        "id": "2ad06109-0a52-4b7b-8b7a-ca7c10baf597",
+        "name": "Rick Wakeman"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1979-12"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1981",
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "name": "Geoff Downes",
+        "sort-name": "Downes, Geoff",
+        "id": "d04001e7-1d67-45a3-9da7-b7c6018e6c65",
+        "type": "Person",
+        "disambiguation": "English keyboardist",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [],
+      "begin": "1980",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": true
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1981",
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "id": "b81c06a5-341f-4d04-a72e-7738030f792b",
+        "sort-name": "Horn, Trevor",
+        "name": "Trevor Horn",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB"
+      },
+      "attributes": [
+        "lead vocals"
+      ],
+      "begin": "1980",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-credits": {}
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "1988",
+      "target-credit": "",
+      "artist": {
+        "name": "Jon Anderson",
+        "sort-name": "Anderson, Jon",
+        "id": "24202038-7b02-4444-96c2-cf2fc7b81308",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "Yes/Jon & Vangelis",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [
+        "lead vocals"
+      ],
+      "begin": "1983",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "target-type": "artist"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1983",
+      "target-type": "artist",
+      "ended": true,
+      "attributes": [],
+      "end": "1995",
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Tony Kaye",
+        "sort-name": "Kaye, Tony",
+        "id": "ed4cbe86-f4df-47c9-9356-271e5709ccb5"
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1983",
+      "target-type": "artist",
+      "ended": true,
+      "attributes": [],
+      "end": "1995",
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "South African musician and score composer",
+        "country": "ZA",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Rabin, Trevor",
+        "id": "884ee438-f185-4b2c-b23b-f96886bdc91f",
+        "name": "Trevor Rabin"
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward"
+    },
+    {
+      "end": "1992",
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "id": "2ad06109-0a52-4b7b-8b7a-ca7c10baf597",
+        "sort-name": "Wakeman, Rick",
+        "name": "Rick Wakeman",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1990",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ]
+    },
+    {
+      "type": "member of band",
+      "end": "1992",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "0211756e-139e-4b4c-a721-9ee9db363f12",
+        "sort-name": "Bruford, Bill",
+        "name": "Bill Bruford"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1991",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)"
+      ]
+    },
+    {
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1991",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "artist": {
+        "id": "9a4f2c10-60d6-4f78-9f8c-c0162424c41f",
+        "sort-name": "Howe, Steve",
+        "name": "Steve Howe",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1992"
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "Yes/Jon & Vangelis",
+        "type": "Person",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Anderson, Jon",
+        "id": "24202038-7b02-4444-96c2-cf2fc7b81308",
+        "name": "Jon Anderson"
+      },
+      "end": "2008",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1991",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "lead vocals"
+      ]
+    },
+    {
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "2ad06109-0a52-4b7b-8b7a-ca7c10baf597",
+        "sort-name": "Wakeman, Rick",
+        "name": "Rick Wakeman"
+      },
+      "type": "member of band",
+      "end": "1997",
+      "attributes": [
+        "keyboard"
+      ],
+      "ended": true,
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1996",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Steve Howe",
+        "sort-name": "Howe, Steve",
+        "id": "9a4f2c10-60d6-4f78-9f8c-c0162424c41f",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "end": null,
+      "type": "member of band",
+      "attributes": [
+        "guitar"
+      ],
+      "target-type": "artist",
+      "attribute-credits": {},
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "begin": "1996"
+    },
+    {
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1997",
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "type": "Person",
+        "disambiguation": "",
+        "id": "7782442c-e71e-42b7-8197-fe15f513bb42",
+        "sort-name": "Sherwood, Billy",
+        "name": "Billy Sherwood"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "2000",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "begin": "1998",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "target-credit": "",
+      "artist": {
+        "name": "Igor Khoroshev",
+        "id": "2571dad7-0a84-42ba-9929-e7046aaf888c",
+        "sort-name": "Khoroshev, Igor",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "RU"
+      },
+      "type": "member of band",
+      "end": "2000",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2002-04",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "ended": true,
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "2004-09",
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "2ad06109-0a52-4b7b-8b7a-ca7c10baf597",
+        "sort-name": "Wakeman, Rick",
+        "name": "Rick Wakeman"
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward"
+    },
+    {
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "begin": "2008-03-20",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "2011-05-31",
+      "target-credit": "",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Oliver Wakeman",
+        "sort-name": "Wakeman, Oliver",
+        "id": "c5ecce0a-1046-4974-9f82-dd7e2b80b571"
+      }
+    },
+    {
+      "begin": "2008-03-20",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "2011-05-31",
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Oliver Wakeman",
+        "sort-name": "Wakeman, Oliver",
+        "id": "c5ecce0a-1046-4974-9f82-dd7e2b80b571"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward"
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "2008-11-04",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": "CA",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Benoît David",
+        "sort-name": "David, Benoit",
+        "id": "5f1b7c4c-aac1-4c95-bfd7-273dda0c606e"
+      },
+      "end": "2012-02",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "2011-03-30",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": null,
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "English keyboardist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Downes, Geoff",
+        "id": "d04001e7-1d67-45a3-9da7-b7c6018e6c65",
+        "name": "Geoff Downes"
+      },
+      "target-credit": ""
+    },
+    {
+      "attributes": [
+        "lead vocals"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "2012-02",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": null,
+      "type": "member of band",
+      "artist": {
+        "name": "Jon Davison",
+        "sort-name": "Davison, Jon",
+        "id": "18bdcfcf-022b-41f4-be0e-598112ec0045",
+        "type": "Person",
+        "country": "US",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2023-02-14",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": null,
+      "type": "member of band",
+      "artist": {
+        "name": "Jay Schellen",
+        "sort-name": "Schellen, Jay",
+        "id": "94a5fddf-615c-4346-b539-e90a6a92ff8f",
+        "type": "Person",
+        "country": "US",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "disambiguation": "",
+        "country": "CA",
+        "id": "14cbfefc-9600-4466-bb15-d7aeb51b92b0",
+        "sort-name": "Close to the Edge",
+        "name": "Close to the Edge"
+      },
+      "target-credit": "",
+      "type": "tribute",
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "artist",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": "2006",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "artist": {
+        "disambiguation": "",
+        "type": "Group",
+        "country": "ES",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Close to the Yes",
+        "id": "eb72422b-d287-404f-acb1-b32fa2330efd",
+        "name": "Close to the Yes"
+      },
+      "target-credit": "",
+      "type": "tribute",
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "artist",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": "2016",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "begin": "2017",
+      "attributes": [],
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "US",
+        "type": "Group",
+        "disambiguation": "",
+        "name": "Total Mass Retain",
+        "id": "8af37011-0d19-4b6f-9ed2-7b0dd470a346",
+        "sort-name": "Total Mass Retain"
+      },
+      "target-credit": "",
+      "end": null,
+      "type": "tribute",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "type": "tribute",
+      "end": null,
+      "target-credit": "",
+      "artist": {
+        "name": "Awaken – A Tribute to the Music of Yes",
+        "sort-name": "Awaken – A Tribute to the Music of Yes",
+        "id": "c0eeb790-f7a7-480f-b6df-cea28906146d",
+        "country": "US",
+        "type": "Group",
+        "disambiguation": "tribute band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "tribute",
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "type": "Group",
+        "country": "GB",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Outside the Original",
+        "sort-name": "Outside the Original",
+        "id": "8da1fdfc-f49a-42c2-b1ff-47bb34d63eb8"
+      },
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000685647",
+        "id": "3582d2c5-ae9a-43a4-9be7-b769a4c70f55"
+      },
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "type": "allmusic",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "type": "bandsintown",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.bandsintown.com/a/14541341",
+        "id": "bc4fefd6-53fd-4dd0-9e97-c20cf62af37c"
+      },
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": true,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+        "id": "c80e1c5f-fbf5-4959-a93b-61aa1de31c33"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "BBC Music page",
+      "end": "2020-11-19",
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.discogs.com/artist/50263",
+        "id": "040a1837-e24f-4ddc-bb5a-817f61a14c31"
+      },
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "discogs",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "824ba8d5-e5df-43bf-a210-c275e964742a",
+        "resource": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "url": {
+        "id": "927b9695-fc9f-4009-a3a9-4df66e263612",
+        "resource": "https://www.deezer.com/artist/2711"
+      },
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "image",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:Yes_concert.jpg",
+        "id": "a9825e70-4517-4f67-9e02-a8cc73e3755c"
+      },
+      "target-type": "url",
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "url": {
+        "resource": "https://www.imdb.com/name/nm3058634/",
+        "id": "b3e0c132-47d0-4ffa-810f-c09d12960687"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "IMDb",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "id": "c4282479-2e2b-47f4-8efb-d813ea18bbe5",
+        "resource": "https://www.last.fm/music/Yes"
+      },
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "last.fm",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://genius.com/artists/Yes",
+        "id": "01269f8f-0d40-42e8-957c-912c910b8016"
+      },
+      "attributes": [],
+      "type": "lyrics",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-type": "url",
+      "url": {
+        "id": "21b7e5d6-cab2-4529-a459-fc303783deee",
+        "resource": "https://muzikum.eu/en/yes/lyrics"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "lyrics",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.musixmatch.com/artist/Yes",
+        "id": "551cf975-8170-4973-ac17-145b27ffef6c"
+      },
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed"
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "ended": false,
+      "url": {
+        "id": "5085e82f-5699-4dd8-b11d-2727200b1e26",
+        "resource": "https://myspace.com/yes-official"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "myspace",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://www.yesworld.com/",
+        "id": "5ad57a2b-2983-4ded-8011-e78a29d0252d"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "official homepage",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "7c47a8e0-8091-486b-876f-8ad4c11596f0",
+        "resource": "http://id.loc.gov/authorities/names/n82134593"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "182f058c-9e55-4b9d-975f-20e9e70f971d",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13907589s"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "a032efdb-27e8-42d4-b0c9-bdd7c59b0a79",
+        "resource": "https://d-nb.info/gnd/1214990-1"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7YY78V6TycDPVDpTB6",
+        "id": "b29984b2-3a67-4e52-b22e-55cb26d66f6e"
+      },
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://imvdb.com/n/yes",
+        "id": "785bef4e-41f0-4957-b728-61ee6c2b76d6"
+      },
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "url": {
+        "resource": "https://musicmoz.org/Bands_and_Artists/Y/Yes/",
+        "id": "93494c33-0b5e-463b-8d11-bf30f482ec6b"
+      },
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://nla.gov.au/nla.party-910950",
+        "id": "178a38ff-b394-420c-b02f-f249c91f1d1a"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "6d6b23cc-4fae-473c-85cc-74c70bc7b120",
+        "resource": "https://rateyourmusic.com/artist/yes"
+      },
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "e473b7d1-9d8c-432c-92b1-6be6b61ec177",
+        "resource": "https://www.45cat.com/artist/yes"
+      },
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "url": {
+        "id": "f84307af-8468-4f1b-a27b-f05dab6633ab",
+        "resource": "https://www.jazzmusicarchives.com/artist/yes"
+      },
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "other databases",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.livefans.jp/artists/6750",
+        "id": "349995c6-c6e8-4e5c-b8b1-f4b91397bf6c"
+      },
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/yes/",
+        "id": "ea3f86d3-a4a7-442d-b60a-324d8397f444"
+      },
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=105",
+        "id": "5ad5e6a5-812a-48b7-8a9b-ba55992b42ae"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "e5e97b95-9528-4416-99ad-8d69ff37cfce",
+        "resource": "https://www.spirit-of-rock.com/en/band/Yes"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "id": "21eb8073-f935-4f6e-99ac-5cd81336b246",
+        "resource": "https://www.whosampled.com/Yes/"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "other databases",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "ended": true,
+      "target-type": "url",
+      "url": {
+        "id": "cbfab076-9210-402b-b822-2224f645dcfc",
+        "resource": "https://play.google.com/store/music/artist?id=Armfdx3scy6obspeservp74haha"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "end": "2020-10-12"
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "url": {
+        "resource": "https://itunes.apple.com/gb/artist/id154011",
+        "id": "60c88c62-81ea-4543-8635-651168ff2d7a"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "purchase for download",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "resource": "https://mora.jp/artist/71377/",
+        "id": "d8f8ceb1-9f72-4b6a-b7c1-31629a7e74a8"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "url": {
+        "id": "17acf997-9a62-40ce-8e46-adf58b19c716",
+        "resource": "https://music.apple.com/gb/artist/154011"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "purchase for download"
+    },
+    {
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "ca3a1ec9-65f7-4f35-9edb-2e3a9761660d",
+        "resource": "https://open.qobuz.com/artist/26718"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "イエス",
+      "direction": "forward",
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/107762",
+        "id": "bb14596c-3b3c-433e-bdfd-bd3cd02eaa3c"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/231614",
+        "id": "c2229e93-a63f-4512-9f36-d6717f33207b"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "end": null
+    },
+    {
+      "attributes": [],
+      "url": {
+        "id": "63fc9872-93f8-48a7-bbd5-0732b5bc7e10",
+        "resource": "https://uk.7digital.com/artist/yes"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "purchase for download"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "bf1a18f0-5f41-4266-85ee-56f352de19e1",
+        "resource": "https://www.junodownload.com/artists/Yes/releases/"
+      },
+      "attributes": [],
+      "type": "purchase for download",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "id": "5b50e1b4-69a8-49e6-8336-b98c5c196c89",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104341"
+      },
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "purchase for download"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "purchase for download",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/yes/26718",
+        "id": "5dba2850-693a-4e68-973e-d977f743ef8f"
+      }
+    },
+    {
+      "target-credit": "",
+      "type": "purchase for mail-order",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.cdjapan.co.jp/person/700236374",
+        "id": "052d4443-fc30-41f9-8fb1-0e00c623ad4f"
+      },
+      "target-type": "url",
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": "2018-06-30",
+      "type": "purevolume",
+      "attributes": [],
+      "url": {
+        "id": "58016960-99ad-4fdf-9f7c-9dde6343f04c",
+        "resource": "http://www.purevolume.com/yes"
+      },
+      "target-type": "url",
+      "ended": true,
+      "type-id": "b6f02157-a9d3-4f24-9057-0675b2dbc581",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "secondhandsongs",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "ended": false,
+      "url": {
+        "id": "5edc63b3-3297-410e-bcf0-cb6269834789",
+        "resource": "https://secondhandsongs.com/artist/2658"
+      },
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/yes-63d6bef7.html",
+        "id": "fd7799d5-cc53-4912-9867-8b2eb1e7dbff"
+      },
+      "ended": false,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "setlistfm",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": "2019-04",
+      "type": "social network",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-type": "url",
+      "url": {
+        "resource": "https://plus.google.com/105226051552361096271",
+        "id": "9ebcaf56-c92a-41e7-87b2-43abe6a12822"
+      },
+      "ended": true
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "resource": "https://twitter.com/yesofficial",
+        "id": "05c3ba83-cd45-498e-a064-04e90005420b"
+      },
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "social network"
+    },
+    {
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.facebook.com/yestheband",
+        "id": "29f01d68-d0bf-42f9-915b-a8d83d311499"
+      },
+      "attributes": [],
+      "type": "social network",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "social network",
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.instagram.com/yesofficial/",
+        "id": "83ce463a-b50f-4daa-a585-7b97a8ed4d9d"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "songkick",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.songkick.com/artists/8373",
+        "id": "387460f1-34c2-4a6e-a7d4-ae104670ace9"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://soundcloud.com/yesofficial",
+        "id": "60dcef95-ee43-4c70-84e3-1a97941bae83"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "soundcloud",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "ended": true,
+      "url": {
+        "resource": "https://us.napster.com/artist/yes",
+        "id": "c5239033-4381-4acb-92f5-73408c166d65"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "end": "2022-06-08"
+    },
+    {
+      "target-credit": "",
+      "type": "streaming",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "084d8a4a-e107-41ef-9eee-8c11c88e9438",
+        "resource": "https://music.amazon.com/artists/B000QJOFSI"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/154011",
+        "id": "17acf997-9a62-40ce-8e46-adf58b19c716"
+      },
+      "attributes": [],
+      "type": "streaming",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "id": "ca3a1ec9-65f7-4f35-9edb-2e3a9761660d",
+        "resource": "https://open.qobuz.com/artist/26718"
+      },
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "type": "streaming",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://tidal.com/artist/13686",
+        "id": "7a81d2b5-b028-4614-b5ce-bfa4a27130f6"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "5b50e1b4-69a8-49e6-8336-b98c5c196c89",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104341"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "type": "streaming",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "5dba2850-693a-4e68-973e-d977f743ef8f",
+        "resource": "https://www.qobuz.com/us-en/interpreter/yes/26718"
+      },
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "http://viaf.org/viaf/157744813",
+        "id": "3d888116-872f-4cdd-a9f3-c866abda1a5b"
+      },
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "VIAF",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "411038bd-e494-4299-a914-1153c1cc3106",
+        "resource": "https://www.wikidata.org/wiki/Q184386"
+      },
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "type": "wikidata",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "url": {
+        "id": "3d8acad6-be4b-4914-a79e-5728cf729290",
+        "resource": "https://www.youtube.com/channel/UCJ2BSIyIU84ZtJ9MiLh0jZA"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "youtube",
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "youtube music",
+      "attributes": [],
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCtwW_44fofodl7K_12nXOEg",
+        "id": "26a8a165-637e-41b3-8248-58d0363f2e9c"
+      },
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4"
+    }
+  ],
+  "type": "Group",
+  "begin-area": {
+    "sort-name": "London",
+    "disambiguation": "Greater London",
+    "type": null,
+    "type-id": null,
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London"
+  },
+  "gender": null,
+  "id": "c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+  "sort-name": "Yes",
+  "aliases": [
+    {
+      "sort-name": "イエス",
+      "locale": null,
+      "name": "イエス",
+      "type": null,
+      "type-id": null,
+      "begin": null,
+      "end": null,
+      "primary": null,
+      "ended": false
+    }
+  ],
+  "ipis": []
+}

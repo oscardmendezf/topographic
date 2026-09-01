@@ -1,0 +1,1802 @@
+{
+  "end-area": null,
+  "gender-id": null,
+  "country": "GB",
+  "gender": null,
+  "aliases": [
+    {
+      "locale": null,
+      "ended": false,
+      "end": null,
+      "sort-name": "Moody Blues",
+      "type-id": null,
+      "begin": null,
+      "primary": null,
+      "type": null,
+      "name": "Moody Blues"
+    },
+    {
+      "type": null,
+      "primary": null,
+      "name": "Moody Blues, The",
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "sort-name": "Moody Blues, The",
+      "begin": null,
+      "type-id": null
+    }
+  ],
+  "id": "774666d2-2064-4d6c-856c-f8cda0aaf9f0",
+  "life-span": {
+    "end": "2018",
+    "ended": true,
+    "begin": "1964"
+  },
+  "isnis": [
+    "0000000123758787"
+  ],
+  "sort-name": "Moody Blues, The",
+  "relations": [
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1964",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "end": "1966",
+      "artist": {
+        "id": "c20b66ee-5f30-4346-b648-23979ddc61f8",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Laine, Denny",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Denny Laine",
+        "type": "Person"
+      },
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "original"
+      ],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar",
+        "lead vocals",
+        "original"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1966",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Clint Warwick",
+        "id": "88755512-6a3e-4053-914e-85bd955d6625",
+        "country": "GB",
+        "sort-name": "Warwick, Clint",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1964",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "keyboard",
+        "lead vocals",
+        "original"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "country": "GB",
+        "sort-name": "Pinder, Mike",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "bcbae02d-5df0-4028-9999-8efebf1d0e72",
+        "type": "Person",
+        "name": "Mike Pinder",
+        "disambiguation": ""
+      },
+      "end": "1979",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1964"
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "harmonica": "63e37f1a-30b6-4746-8a49-dfb55be3cdd1",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1964",
+      "ended": true,
+      "end": "2002",
+      "artist": {
+        "sort-name": "Thomas, Ray",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "98d71fda-06f5-4127-a660-ccb1b811b1f0",
+        "type": "Person",
+        "name": "Ray Thomas",
+        "disambiguation": "of English rock band The Moody Blues"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "flute",
+        "harmonica",
+        "lead vocals",
+        "original",
+        "percussion"
+      ]
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)",
+        "lead vocals",
+        "original",
+        "percussion"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": "2018",
+      "artist": {
+        "id": "3ed18796-9eb5-40ad-b08a-bdc8972da738",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Edge, Graeme",
+        "disambiguation": "",
+        "name": "Graeme Edge",
+        "type": "Person"
+      },
+      "ended": true,
+      "begin": "1964",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      }
+    },
+    {
+      "attributes": [
+        "bass guitar",
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "end": "1966",
+      "artist": {
+        "name": "Rodney Clark",
+        "type": "Person",
+        "disambiguation": "UK bassist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Clark, Rodney",
+        "country": "GB",
+        "id": "01f64ab7-e117-4986-8547-04754cde433c"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": "1966",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "ended": true,
+      "end": "2018",
+      "artist": {
+        "type": "Person",
+        "name": "Justin Hayward",
+        "disambiguation": "of the Moody Blues",
+        "sort-name": "Hayward, Justin",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c113d7a7-2b22-49dc-886b-366ee68577cb"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1966",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "guitar",
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1966",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Lodge, John",
+        "country": "GB",
+        "id": "c02a487f-4800-4fa9-864a-85c548c2498d",
+        "name": "John Lodge",
+        "type": "Person",
+        "disambiguation": "of the Moody Blues"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "bass guitar",
+        "guitar",
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "id": "c872ab10-fd12-41cc-a6a0-8d1ac7263125",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "CH",
+        "sort-name": "Moraz, Patrick",
+        "disambiguation": "",
+        "name": "Patrick Moraz",
+        "type": "Person"
+      },
+      "end": "1991",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1978",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "keyboard"
+      ]
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Boshell, Bias",
+        "id": "7c8bf508-c806-49a4-b5ec-d95919bfc441",
+        "name": "Bias Boshell",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1986",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1986",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [
+        "additional",
+        "keyboard"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "background vocals"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Liebhart, Janis",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c025ce10-9629-4860-b99a-f51e39a9e236",
+        "type": "Person",
+        "name": "Janis Liebhart",
+        "disambiguation": ""
+      },
+      "end": "1987",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1986",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      }
+    },
+    {
+      "begin": "1986",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "McKenzie, Wendy",
+        "id": "a38a74d0-d652-4785-afc2-afb4b6162e65",
+        "name": "Wendy McKenzie",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1987",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "additional",
+        "background vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1987",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1990",
+      "artist": {
+        "id": "3bc26e8d-28d4-4021-a699-3b26645de2db",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Allison, Guy",
+        "disambiguation": "",
+        "name": "Guy Allison",
+        "type": "Person"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "additional",
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "additional",
+        "background vocals"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "begin": "1988",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "id": "26764053-7e0d-4947-b01d-ac304e0e0223",
+        "sort-name": "Murphy, Shaun",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Shaun Murphy"
+      },
+      "end": "1990"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "additional",
+        "background vocals"
+      ],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1988",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "artist": {
+        "disambiguation": "",
+        "name": "Naomi Star",
+        "type": "Person",
+        "id": "48f6e698-93bb-4f17-bcb2-78f193b4c0c4",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Star, Naomi",
+        "country": "US"
+      },
+      "end": "1990",
+      "ended": true
+    },
+    {
+      "begin": "1990",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "end": "1990",
+      "artist": {
+        "disambiguation": "American singer",
+        "type": "Person",
+        "name": "Bekka Bramlett",
+        "id": "fa41ce1d-f3ef-4bda-ad5a-a3c60eb60633",
+        "sort-name": "Bramlett, Bekka",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "additional",
+        "background vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1990",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "end": "1990",
+      "artist": {
+        "id": "27b5e46d-5c3d-4fac-a66b-360daa133f0d",
+        "country": "US",
+        "sort-name": "Wood, Terry",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "US vocalist",
+        "type": "Person",
+        "name": "Terry Wood"
+      },
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "background vocals"
+      ]
+    },
+    {
+      "end": "2001",
+      "artist": {
+        "id": "7c8bf508-c806-49a4-b5ec-d95919bfc441",
+        "sort-name": "Boshell, Bias",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Bias Boshell"
+      },
+      "ended": true,
+      "begin": "1990",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "additional",
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "additional",
+        "guitar",
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1990",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Bliss, Paul",
+        "country": "US",
+        "id": "e4175414-e4f6-4b4c-94d4-51304c60ac02",
+        "name": "Paul Bliss",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "2010",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "drums (drum set)",
+        "percussion"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "",
+        "name": "Gordon Marshall",
+        "type": "Person",
+        "id": "a01e71d2-4642-4270-b1d6-edcd34ddaaa6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Marshall, Gordon"
+      },
+      "end": "2018",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1990",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "name": "June Boyce",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Boyce, June",
+        "country": "GB",
+        "id": "7eb7f0b2-f9d6-4686-acd4-75ce6fc9d619"
+      },
+      "end": "1993",
+      "ended": true,
+      "begin": "1991",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "source-credit": "",
+      "attributes": [
+        "additional",
+        "background vocals"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1991",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "end": "2000",
+      "artist": {
+        "country": "US",
+        "sort-name": "Shattock, Susan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "d8219fd9-2d29-43d2-a200-e4127ecb97fe",
+        "type": "Person",
+        "name": "Susan Shattock",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "background vocals"
+      ],
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1993",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "end": "2001",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Graham, Tracy",
+        "country": "GB",
+        "id": "45232bdf-02e1-41e2-98f7-587a444a2c95",
+        "name": "Tracy Graham",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "background vocals"
+      ]
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "background vocals",
+        "keyboard",
+        "percussion"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "2006",
+      "artist": {
+        "id": "bf3ed201-a93b-46dc-8730-bac454a9616d",
+        "sort-name": "Barlow, Bernie",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Bernie Barlow"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2001"
+    },
+    {
+      "attributes": [
+        "additional",
+        "background vocals",
+        "flute",
+        "guitar",
+        "percussion"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "2003",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "artist": {
+        "id": "ab89125b-1d7e-484a-96b5-4f35ba9fce71",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Mullen, Norda",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Norda Mullen",
+        "type": "Person"
+      },
+      "end": "2018",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "background vocals",
+        "guitar",
+        "keyboard",
+        "percussion",
+        "saxophone"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "name": "Julie Ragins",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Ragins, Julie",
+        "id": "7ff9871d-a98c-4f9e-87c7-8faef2c71bfd"
+      },
+      "end": "2018",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2006",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      }
+    },
+    {
+      "attributes": [
+        "additional",
+        "background vocals",
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "begin": "2009",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Bernie Barlow",
+        "id": "bf3ed201-a93b-46dc-8730-bac454a9616d",
+        "country": "US",
+        "sort-name": "Barlow, Bernie",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "2010",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "additional",
+        "background vocals",
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "2010",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "2018",
+      "artist": {
+        "id": "bd3bc8a3-c5f4-47f6-9a64-317f76eb70a9",
+        "sort-name": "Hewitt, Alan",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "US keyboarist/composer & producer",
+        "type": "Person",
+        "name": "Alan Hewitt"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "name": "Denny Laine",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Laine, Denny",
+        "country": "GB",
+        "id": "c20b66ee-5f30-4346-b648-23979ddc61f8"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "Brian Frederick Hines",
+      "type": "member of band",
+      "direction": "backward"
+    },
+    {
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-ids": {},
+      "url": {
+        "id": "2b2fb20f-a1b6-4271-a7ce-4d571dafd884",
+        "resource": "https://www.allmusic.com/artist/mn0000404434"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "allmusic",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "bandsintown",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "ended": false,
+      "url": {
+        "resource": "https://www.bandsintown.com/a/45972",
+        "id": "96c1f3a3-e541-484b-aef5-b29c42178a5e"
+      },
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "BBC Music page",
+      "direction": "forward",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/774666d2-2064-4d6c-856c-f8cda0aaf9f0",
+        "id": "3b72be4b-384f-491f-adb3-d4ba159f8e13"
+      },
+      "end": "2020-11-19",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "type": "discogs",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.discogs.com/artist/266422",
+        "id": "cce02f7b-307c-4308-bf59-f1f783f747fb"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "fanpage",
+      "direction": "forward",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "e38e4034-fd10-4487-992a-bd9a2b3f9487",
+        "resource": "http://www.moodies-magazine.com/"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1",
+        "id": "429f890f-b876-4cf9-b45c-e240240a4348"
+      },
+      "end": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming",
+      "end": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/4212",
+        "id": "99134d4a-3ec6-4b2d-9863-59de6c14b217"
+      },
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "image",
+      "url": {
+        "id": "edafe49a-9076-4345-94bb-df65e479a7fa",
+        "resource": "https://commons.wikimedia.org/wiki/File:The_Moody_Blues_923-9510.jpg"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.imdb.com/name/nm1520210/",
+        "id": "3c65a5f8-fc88-4d59-b6a6-7c5429462c6c"
+      },
+      "end": null,
+      "type": "IMDb",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.last.fm/music/The+Moody+Blues",
+        "id": "b488234a-395f-4cbd-8730-8fcd79ae49e8"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "last.fm",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "e62b4f13-ad49-4951-9e20-b9e1e9d59436",
+        "resource": "http://muzikum.eu/en/122-4902/the-moody-blues/lyrics.html"
+      },
+      "end": null,
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "a1e78c3b-3686-436c-acb5-a1b530ce096f",
+        "resource": "https://genius.com/artists/The-moody-blues"
+      },
+      "end": null,
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "official homepage",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "335a65c6-e8da-45e2-9ddc-811b6945172f",
+        "resource": "https://www.moodybluestoday.com/"
+      }
+    },
+    {
+      "direction": "forward",
+      "type": "official homepage",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": null,
+      "url": {
+        "id": "3c6f598a-a7dc-4b02-8ca7-02de2197b172",
+        "resource": "http://www.moodyblues.co.uk/home.htm"
+      },
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": true,
+      "url": {
+        "id": "8f9f575e-4892-47b2-96da-199286c1aa96",
+        "resource": "https://jaxsta.com/profile/4c77d040-0c92-4bf6-a32c-d6d6c2b9f55a"
+      },
+      "end": "2025-12-17",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "url": {
+        "id": "25e9014a-a6c4-4248-a332-d896ea3b1aba",
+        "resource": "http://id.loc.gov/authorities/names/n87151082"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "c69e115c-128a-4a44-9b97-2e098b10f9f0",
+        "resource": "http://musicmoz.org/Bands_and_Artists/M/Moody_Blues,_The/"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "60dc7383-8d5b-4224-9077-4304b9486f30",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13905083v"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "resource": "https://d-nb.info/gnd/2104674-8",
+        "id": "f04d519c-0814-4357-b575-28e1895b99ca"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases"
+    },
+    {
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "resource": "https://nla.gov.au/anbd.aut-an36017964",
+        "id": "1b35738f-04fc-4127-b5f9-8aa0e0d215f0"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "20296ef6-663d-4b3a-98eb-ca2c4cbf3764",
+        "resource": "https://rateyourmusic.com/artist/the_moody_blues"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.45cat.com/artist/the-moody-blues",
+        "id": "c3e2fee5-b332-4462-9ac6-82ddb9262da6"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/the-moody-blues/",
+        "id": "6fbee1bc-669b-49ce-b715-cfe3fd31e21b"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.muziekweb.nl/Link/M00000068425/",
+        "id": "30297384-2540-4bfe-9061-dd5315ed41e1"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "b9d27a1f-8493-4097-bb41-8fa5f17ab592",
+        "resource": "https://www.spirit-of-rock.com/en/band/The_Moody_Blues"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.whosampled.com/The-Moody-Blues/",
+        "id": "0caaacf8-04b0-4999-8478-06157022ec9a"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "37317118-1735-4418-9e4d-3fa4832d4596",
+        "resource": "https://www.worldcat.org/identities/lccn-n87-151082"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "40d65a08-164b-4498-9ee3-b25b2977a584",
+        "resource": "https://itunes.apple.com/us/artist/id133520"
+      },
+      "end": "2019-05-19",
+      "ended": true
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://mora.jp/artist/137617/all",
+        "id": "fc6670fb-42e2-4c00-9bc8-c421f94da9f9"
+      },
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "3e10234b-d927-4b47-9c46-f19b06a6f101",
+        "resource": "https://music.apple.com/gb/artist/133520"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.amazon.co.uk/-/e/B000APH7ZG",
+        "id": "fb4c3c7e-9e31-4e6c-aba5-8e5633f32237"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.qobuz.com/gb-en/interpreter/the-moody-blues/35974",
+        "id": "ebed8605-3979-4a30-9caa-8e7b354c60e9"
+      },
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "purchase for mail-order",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "fb4c3c7e-9e31-4e6c-aba5-8e5633f32237",
+        "resource": "https://www.amazon.co.uk/-/e/B000APH7ZG"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for mail-order",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.cdjapan.co.jp/person/700294025",
+        "id": "ff0e7c66-7e44-4353-83cb-1045cb2760d9"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "secondhandsongs",
+      "end": null,
+      "url": {
+        "id": "ba5cf4dc-260c-4ff0-aaaf-09771cc5a19a",
+        "resource": "https://secondhandsongs.com/artist/5543"
+      },
+      "ended": false,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "setlistfm",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/the-moody-blues-43d6b303.html",
+        "id": "306ee1ce-5bf9-44bd-9c21-a80a4fee1c9a"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type": "social network",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "cc8a68ff-930a-486e-9dfe-a0e20cdfbbf8",
+        "resource": "https://www.facebook.com/MoodyBlues"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "songkick",
+      "direction": "forward",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.songkick.com/artists/182796",
+        "id": "6fb7472a-16e3-4c21-837d-59e763eda045"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "b645b8bc-1437-4264-a835-c19a45a6ed08",
+        "resource": "https://music.amazon.com/artists/B001HDO1X6"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "3e10234b-d927-4b47-9c46-f19b06a6f101",
+        "resource": "https://music.apple.com/gb/artist/133520"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "b3d2eb06-cc4b-491e-849f-3edcb68b6388",
+        "resource": "https://tidal.com/artist/17490"
+      },
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "direction": "forward",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "ebed8605-3979-4a30-9caa-8e7b354c60e9",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/the-moody-blues/35974"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "f5969bc3-41b3-42ce-b8ac-1bc146dbd398",
+        "resource": "http://viaf.org/viaf/159575746"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "VIAF"
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikidata",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q211965",
+        "id": "c39bacdd-bf88-4a60-af2d-3ef42ea28f23"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCEyjXLYDqi8njfM8JnlIROA",
+        "id": "6ca4fec4-9213-4f40-a549-56db86ff1635"
+      },
+      "ended": false,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "youtube",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "type": "youtube music",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "ended": false,
+      "url": {
+        "id": "3c9081f3-e9bf-42be-8799-d1949b36a453",
+        "resource": "https://music.youtube.com/channel/UC4HQKRyk4s13hiAnZBXxZWQ"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "disambiguation": "",
+    "type": null,
+    "iso-3166-2-codes": [
+      "GB-BIR"
+    ],
+    "name": "Birmingham",
+    "id": "226c4dca-ef2a-4d4b-ba25-4118d116557a",
+    "sort-name": "Birmingham",
+    "type-id": null
+  },
+  "ipis": [],
+  "disambiguation": "",
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "name": "United Kingdom"
+  },
+  "type": "Group",
+  "name": "The Moody Blues"
+}

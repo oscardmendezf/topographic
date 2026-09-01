@@ -1,0 +1,1082 @@
+{
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1964-06"
+  },
+  "country": "GB",
+  "end-area": null,
+  "name": "Strawbs",
+  "sort-name": "Strawbs",
+  "id": "b0444851-901f-4ab7-a725-ed045ec2be09",
+  "gender": null,
+  "isnis": [
+    "000000010720184X"
+  ],
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "sort-name": "London",
+    "type": null,
+    "type-id": null,
+    "name": "London",
+    "disambiguation": "Greater London"
+  },
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "sort-name": "United Kingdom",
+    "type-id": null,
+    "type": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "disambiguation": ""
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "ipis": [],
+  "aliases": [
+    {
+      "begin": null,
+      "type": null,
+      "sort-name": "Acoustic Strawbs",
+      "locale": null,
+      "primary": null,
+      "end": null,
+      "name": "Acoustic Strawbs",
+      "type-id": null,
+      "ended": false
+    }
+  ],
+  "type": "Group",
+  "relations": [
+    {
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": "1970-02",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Ron Chesterman",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Chesterman, Ron",
+        "id": "d731990d-8cea-4090-8fa6-dd4f3d82d33d"
+      },
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1963",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1963",
+      "attribute-ids": {},
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Hooper, Tony",
+        "id": "04b495e8-5d2e-4f44-8866-3b44d576fd95",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Tony Hooper",
+        "disambiguation": "English singer‐songwriter and guitarist, in Strawbs",
+        "country": "GB"
+      },
+      "end": "1972-08",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "attribute-values": {},
+      "end": "1980-06",
+      "artist": {
+        "name": "Dave Cousins",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "cb03952a-0fac-4217-ade8-906ebb49cb90",
+        "sort-name": "Cousins, Dave",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1963",
+      "type": "member of band",
+      "attribute-ids": {}
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": "1970-04",
+      "artist": {
+        "name": "Lindsay L. Cooper",
+        "country": "GB",
+        "disambiguation": "Scottish male bass, cello and tuba player, performed with Strawbs",
+        "sort-name": "Cooper, Lindsay L.",
+        "id": "0923a685-da82-443d-abad-b103ea27bbef",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "begin": "1970-01",
+      "type": "member of band",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970-04",
+      "type": "member of band",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attribute-values": {},
+      "end": "1971",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "2ad06109-0a52-4b7b-8b7a-ca7c10baf597",
+        "sort-name": "Wakeman, Rick",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Rick Wakeman"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "keyboard"
+      ]
+    },
+    {
+      "attribute-values": {},
+      "end": "1973-05",
+      "artist": {
+        "name": "John Ford",
+        "country": null,
+        "disambiguation": "member of the Strawbs and the Monks",
+        "sort-name": "Ford, John",
+        "id": "97250cff-3b4c-4303-b16d-66367e99cecf",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970-05",
+      "type": "member of band",
+      "attribute-ids": {}
+    },
+    {
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": "1970-05",
+      "type": "member of band",
+      "attribute-ids": {},
+      "artist": {
+        "name": "Richard Hudson",
+        "country": "GB",
+        "disambiguation": "British drummer, Strawbs",
+        "sort-name": "Hudson, Richard",
+        "id": "55cfee94-683c-47b3-bceb-93756d05d788",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1973-05",
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "name": "Blue Weaver",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Weaver, Blue",
+        "id": "be8f9f52-f447-465a-8f15-c2ba5f3bc27c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1973-05",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1971-08",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "artist": {
+        "name": "Dave Lambert",
+        "disambiguation": "UK guitarist, member of The Strawbs",
+        "country": "GB",
+        "id": "c2c15b26-4953-4910-a3be-2715d8a34486",
+        "sort-name": "Lambert, Dave",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "end": "1978-11",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1972-08",
+      "attribute-ids": {},
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1973-06",
+      "target-credit": "",
+      "end": "1975-05",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "John Hawken",
+        "disambiguation": "",
+        "country": "GB",
+        "id": "ece76f0e-b19c-4b71-986b-215e42a94630",
+        "sort-name": "Hawken, John",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "begin": "1973-06",
+      "attribute-ids": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [],
+      "end": "1977-06",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Coombes, Rod",
+        "id": "ddd97911-9b18-4114-bac2-0632b28f76f9",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Rod Coombes",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "name": "Chas Cronk",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Cronk, Chas",
+        "id": "59ed2fc0-0b4c-464a-93eb-e057197d43d0",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1980-07",
+      "attributes": [],
+      "direction": "backward",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1973-06"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1978-12",
+      "attribute-ids": {},
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7edc708b-f328-4b25-b35a-034d453a17e5",
+        "sort-name": "Willoughby, Brian",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Brian Willoughby"
+      },
+      "end": "1980-07",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "target-credit": "",
+      "end": "1980",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Richards, Andy",
+        "id": "8ae6748d-237d-4030-8934-124a804cd1fc",
+        "country": "GB",
+        "disambiguation": "Strawbs keyboard player/record producer",
+        "name": "Andy Richards"
+      },
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1978"
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1980-06",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1980-07",
+      "artist": {
+        "name": "Roy Hill",
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Hill, Roy",
+        "id": "c8a31e3c-59f1-44fc-9f15-02acff61e42a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "end": "1984-10",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Blue Weaver",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Weaver, Blue",
+        "id": "be8f9f52-f447-465a-8f15-c2ba5f3bc27c",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1983-07",
+      "attribute-ids": {},
+      "type": "member of band"
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "disambiguation": "member of the Strawbs and the Monks",
+        "country": null,
+        "name": "John Ford",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "97250cff-3b4c-4303-b16d-66367e99cecf",
+        "sort-name": "Ford, John"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1985-05",
+      "target-credit": "",
+      "begin": "1983-07",
+      "type": "member of band",
+      "attribute-ids": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist"
+    },
+    {
+      "end": "1993-08",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Tony Hooper",
+        "disambiguation": "English singer‐songwriter and guitarist, in Strawbs",
+        "country": "GB",
+        "id": "04b495e8-5d2e-4f44-8866-3b44d576fd95",
+        "sort-name": "Hooper, Tony",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1983-07",
+      "attribute-ids": {},
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1983-07",
+      "type": "member of band",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": "2001-06",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hudson, Richard",
+        "id": "55cfee94-683c-47b3-bceb-93756d05d788",
+        "disambiguation": "British drummer, Strawbs",
+        "country": "GB",
+        "name": "Richard Hudson"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Willoughby, Brian",
+        "id": "7edc708b-f328-4b25-b35a-034d453a17e5",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Brian Willoughby",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "2004-07",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1983-07",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Cousins, Dave",
+        "id": "cb03952a-0fac-4217-ade8-906ebb49cb90",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Dave Cousins"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": "1983-07",
+      "type": "member of band",
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Blue Weaver",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Weaver, Blue",
+        "id": "be8f9f52-f447-465a-8f15-c2ba5f3bc27c"
+      },
+      "end": "2001-06",
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1993-09"
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": "2001-06",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "John Ford",
+        "disambiguation": "member of the Strawbs and the Monks",
+        "country": null,
+        "id": "97250cff-3b4c-4303-b16d-66367e99cecf",
+        "sort-name": "Ford, John",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1999-04",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true
+    },
+    {
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "2004-03",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "id": "ddd97911-9b18-4114-bac2-0632b28f76f9",
+        "sort-name": "Coombes, Rod",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Rod Coombes",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "begin": "2004-03",
+      "attribute-ids": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Cronk, Chas",
+        "id": "59ed2fc0-0b4c-464a-93eb-e057197d43d0",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Chas Cronk"
+      },
+      "end": null,
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "UK guitarist, member of The Strawbs",
+        "country": "GB",
+        "name": "Dave Lambert",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "c2c15b26-4953-4910-a3be-2715d8a34486",
+        "sort-name": "Lambert, Dave"
+      },
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "2004-03",
+      "attribute-ids": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "membranophone"
+      ],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Tony Fernandez",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f6a82dab-2f2c-4b3b-8396-33e34b3906cc",
+        "sort-name": "Fernandez, Tony"
+      },
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "type": "allmusic",
+      "url": {
+        "id": "ab1ceccf-4cb6-4409-8e7f-7001e4035ed9",
+        "resource": "https://www.allmusic.com/artist/mn0000940076"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "end": "2020-11-19",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "ended": true,
+      "attribute-ids": {},
+      "url": {
+        "id": "a1419afa-e965-43c3-b197-7d2982998752",
+        "resource": "https://www.bbc.co.uk/music/artists/b0444851-901f-4ab7-a725-ed045ec2be09"
+      },
+      "type": "BBC Music page",
+      "begin": null
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "discogs",
+      "url": {
+        "id": "18de9562-03e6-404e-8b2e-4130ed402f3b",
+        "resource": "https://www.discogs.com/artist/260456"
+      }
+    },
+    {
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/7dtYyLTWjuZGOcweC3eD2f",
+        "id": "ffbadd25-0b86-4ba2-b90f-0b8720bbe67d"
+      },
+      "type": "free streaming",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "type": "free streaming",
+      "url": {
+        "id": "80434f8b-45d2-41eb-b68b-727d9f064fd4",
+        "resource": "https://www.deezer.com/artist/75398"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-type": "url",
+      "type": "last.fm",
+      "url": {
+        "resource": "https://www.last.fm/music/Strawbs",
+        "id": "3e09ec7a-16c5-4507-b8db-564af417c2c5"
+      },
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "lyrics",
+      "url": {
+        "resource": "http://muzikum.eu/en/122-5749/strawbs/lyrics.html",
+        "id": "a00d8799-48fb-4715-9b48-b93c5e2ce4aa"
+      },
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.strawbsweb.co.uk/",
+        "id": "6c8583e2-61c7-42e4-aab9-27585a2fdcb4"
+      },
+      "type": "official homepage"
+    },
+    {
+      "begin": null,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb140026643",
+        "id": "7509e195-4841-410f-a9a9-4eab2c42871c"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "type": "other databases",
+      "url": {
+        "id": "5209e845-8bd9-48da-a55f-9b3be3c247cb",
+        "resource": "https://d-nb.info/gnd/5545138-X"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "id": "89d0a1cd-5beb-4a7e-a1ec-19c64bb5e588",
+        "resource": "https://rateyourmusic.com/artist/strawbs"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "6efef144-19a2-48c3-9403-5a205812cefb",
+        "resource": "https://www.musik-sammler.de/artist/strawbs/"
+      },
+      "type": "other databases",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "id": "3dc924b8-65b4-4662-b0db-d457d859ca57",
+        "resource": "https://www.progarchives.com/artist.asp?id=589"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "https://open.qobuz.com/artist/129683",
+        "id": "e6950e6b-6d66-49a7-b931-efa39db8aef5"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "type": "songkick",
+      "url": {
+        "id": "68a63b0e-93f1-4f93-8582-0ab0375e3c77",
+        "resource": "https://www.songkick.com/artists/508441"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "attribute-ids": {},
+      "type": "streaming",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/159927152",
+        "id": "043a82e9-54fa-4343-9d4a-d851598520bb"
+      },
+      "begin": null
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "streaming",
+      "url": {
+        "resource": "https://open.qobuz.com/artist/129683",
+        "id": "e6950e6b-6d66-49a7-b931-efa39db8aef5"
+      },
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://tidal.com/artist/3501392",
+        "id": "0bf706a4-d7c5-413e-9adb-53fdd99e451c"
+      },
+      "type": "streaming",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/124122453",
+        "id": "393e390e-22f5-46bf-900f-a004ad35a176"
+      },
+      "type": "VIAF",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "wikidata",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q926799",
+        "id": "7b0eb183-8f33-414b-84b8-030e54350cf5"
+      },
+      "target-type": "url",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "id": "c2c900b7-cc4d-4027-a69e-21f4e89f414e",
+        "resource": "https://www.youtube.com/channel/UCFshlKIBn4aXH2qunrA-JtA"
+      },
+      "type": "youtube",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "youtube music",
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCFshlKIBn4aXH2qunrA-JtA",
+        "id": "6701a0e7-be8a-4eb8-9dca-50549d3d0f7e"
+      },
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": ""
+    }
+  ],
+  "disambiguation": "English rock band"
+}

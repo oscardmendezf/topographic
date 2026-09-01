@@ -1,0 +1,1087 @@
+{
+  "name": "Caravan",
+  "type": "Group",
+  "area": {
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "type": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ]
+  },
+  "ipis": [],
+  "disambiguation": "Canterbury group",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "type-id": null,
+    "name": "Canterbury",
+    "type": null,
+    "sort-name": "Canterbury",
+    "disambiguation": "",
+    "id": "36ed2e86-4e30-49eb-8acb-96004ef98fa3"
+  },
+  "sort-name": "Caravan",
+  "relations": [
+    {
+      "source-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1968",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1971",
+      "artist": {
+        "id": "8135b023-c5da-4e6f-8d1b-50e0269357ca",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Sinclair, David",
+        "country": "GB",
+        "disambiguation": "UK folk/rock keyboardist",
+        "name": "David Sinclair",
+        "type": "Person"
+      }
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968",
+      "ended": true,
+      "end": "1972",
+      "artist": {
+        "id": "cdc2328b-626c-46ec-89fe-d6dd265f458b",
+        "sort-name": "Sinclair, Richard",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Richard Sinclair"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ],
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": "1968",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "end": "2013-12-01",
+      "artist": {
+        "id": "6437ff88-5ca9-431d-9921-b05e3a144f8b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Coughlan, Richard",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Richard Coughlan",
+        "type": "Person"
+      },
+      "ended": true,
+      "source-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1968",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "id": "310df4f3-4cfb-468c-b068-e5637411d7d7",
+        "sort-name": "Hastings, Pye",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Pye Hastings"
+      },
+      "end": null
+    },
+    {
+      "begin": "1971-08",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "end": "1972-07",
+      "artist": {
+        "disambiguation": "British keyboardist, ex-Caravan",
+        "type": "Person",
+        "name": "Steve Miller",
+        "id": "20e5dab3-3cbe-4f7f-803d-77f59a77c39a",
+        "sort-name": "Miller, Steve",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972",
+      "attribute-ids": {},
+      "artist": {
+        "name": "Derek Austin",
+        "type": "Person",
+        "disambiguation": "UK keyboardist and composer",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Austin, Derek",
+        "id": "f39fc29e-1b49-44e4-b632-6216f4115a8b"
+      },
+      "end": "1973",
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "1973",
+      "artist": {
+        "name": "Stuart Evans",
+        "type": "Person",
+        "disambiguation": "UK bassist of Caravan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Evans, Stuart",
+        "country": null,
+        "id": "7de4e674-a925-4afa-9786-cb8f16ec44c7"
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Richardson, Geoffrey",
+        "id": "3ad4a5cf-50db-4c6d-9538-6a8fee7e0221",
+        "name": "Geoffrey Richardson",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1978",
+      "attribute-ids": {},
+      "begin": "1972",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1974",
+      "artist": {
+        "disambiguation": "",
+        "name": "John G. Perry",
+        "type": "Person",
+        "id": "1db0b482-f066-493b-87df-a9c42167686b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Perry, John G."
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1973",
+      "attribute-ids": {}
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "id": "8135b023-c5da-4e6f-8d1b-50e0269357ca",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Sinclair, David",
+        "country": "GB",
+        "disambiguation": "UK folk/rock keyboardist",
+        "name": "David Sinclair",
+        "type": "Person"
+      },
+      "end": "1975",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1973",
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1974",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "end": "1976",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Mike Wedgwood",
+        "id": "e713f8e9-5532-454c-b3ae-28cc1f909a6a",
+        "country": "GB",
+        "sort-name": "Wedgwood, Mike",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "name": "Jan Schelhaas",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Schelhaas, Jan",
+        "id": "ca9efe5b-8d2b-4bd5-a350-8b35943effc0"
+      },
+      "end": "1978",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "end": "1978",
+      "artist": {
+        "id": "c11b78ad-978a-4267-b343-5065b9e66867",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Messecar, Dek",
+        "disambiguation": "",
+        "name": "Dek Messecar",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "begin": "1976",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1979-10",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "name": "Geoffrey Richardson",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Richardson, Geoffrey",
+        "country": "GB",
+        "id": "3ad4a5cf-50db-4c6d-9538-6a8fee7e0221"
+      },
+      "end": "1981-05",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "1979",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Sinclair, David",
+        "country": "GB",
+        "id": "8135b023-c5da-4e6f-8d1b-50e0269357ca",
+        "name": "David Sinclair",
+        "type": "Person",
+        "disambiguation": "UK folk/rock keyboardist"
+      },
+      "end": "1982"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": true,
+      "end": "1981",
+      "artist": {
+        "country": null,
+        "sort-name": "Messecar, Dek",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c11b78ad-978a-4267-b343-5065b9e66867",
+        "type": "Person",
+        "name": "Dek Messecar",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1980",
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "2002",
+      "artist": {
+        "id": "8135b023-c5da-4e6f-8d1b-50e0269357ca",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Sinclair, David",
+        "country": "GB",
+        "disambiguation": "UK folk/rock keyboardist",
+        "name": "David Sinclair",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "begin": "1990",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "name": "Jim Leverton",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Leverton, Jim",
+        "country": "GB",
+        "id": "53f91408-f726-4282-9734-3f8e8e444117"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1995"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": "1995",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "name": "Geoffrey Richardson",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Richardson, Geoffrey",
+        "country": "GB",
+        "id": "3ad4a5cf-50db-4c6d-9538-6a8fee7e0221"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1996-09",
+      "ended": true,
+      "end": "2007",
+      "artist": {
+        "sort-name": "Boyle, Doug",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "d59918e1-c6c6-4490-a2b5-8f4d305eaf1c",
+        "type": "Person",
+        "name": "Doug Boyle",
+        "disambiguation": ""
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Jan Schelhaas",
+        "type": "Person",
+        "id": "ca9efe5b-8d2b-4bd5-a350-8b35943effc0",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Schelhaas, Jan",
+        "country": null
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": "2002",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2010",
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "Drummer for Caravan",
+        "name": "Mark Walker",
+        "type": "Person",
+        "id": "809bf1bb-5cb3-4706-9665-fa0acd7521f9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Walker, Mark"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "allmusic",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "e53016df-c917-4f87-b5ec-8e7967295659",
+        "resource": "https://www.allmusic.com/artist/mn0000167296"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/82dd3f5d-4c36-4dbe-981d-6845c91445f8",
+        "id": "1e8f5eaa-f61e-4816-abd7-18d3f1b2e642"
+      },
+      "end": "2020-11-19",
+      "ended": true,
+      "begin": null,
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "BBC Music page",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discography page",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.geocities.co.jp/Broadway/6763/caravan.html",
+        "id": "c0f8e422-75bf-45c6-b6e7-cd01721f7083"
+      },
+      "end": "2019-03-31",
+      "ended": true,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.discogs.com/artist/66999",
+        "id": "32fc288c-d8ed-46a8-9dbb-092ff4a7ee24"
+      },
+      "type": "discogs",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "id": "1258b870-5083-45df-b01e-ee2c9193d2d7",
+        "resource": "http://www.caravan-info.co.uk/"
+      },
+      "end": null,
+      "ended": true,
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "fanpage"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "free streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "29f7c9a6-eb96-4ad9-b979-6d3fb7674fce",
+        "resource": "https://open.spotify.com/artist/5kwbFaRKf9HCFGrJPacZ7s"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.deezer.com/artist/3710",
+        "id": "6ea6a69d-5753-412b-9800-a64d2ebd4024"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null
+    },
+    {
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.last.fm/music/Caravan",
+        "id": "165334ee-f334-4f29-813d-dcfbb7d3b393"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "last.fm",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "lyrics",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "8dbb42f5-7124-4bde-bd26-ef1b600c8b73",
+        "resource": "https://genius.com/artists/Caravan"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://myspace.com/caravanuk",
+        "id": "cabc8341-c64f-45c2-a92d-e46a8c0d46ca"
+      },
+      "end": null,
+      "type": "myspace",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "official homepage",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {},
+      "url": {
+        "id": "3a38afec-4dd0-445d-8baa-8a3cbc601c6e",
+        "resource": "https://officialcaravan.co.uk/"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "ended": true,
+      "end": null,
+      "url": {
+        "resource": "http://www.caravan-info.co.uk/",
+        "id": "1258b870-5083-45df-b01e-ee2c9193d2d7"
+      },
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "direction": "forward",
+      "type": "official homepage",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "f300ded3-26e4-4340-a55f-4ff4e9a2dd47",
+        "resource": "http://id.loc.gov/authorities/names/n94095585"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "258f2040-37c9-4d27-8213-512000bbfb91",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13902288d"
+      },
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "9998b963-6a17-4272-93d7-5dc06563dc85",
+        "resource": "https://d-nb.info/gnd/5209568-X"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "1b49fae4-005a-4186-8828-ab3adb58bbdc",
+        "resource": "https://rateyourmusic.com/artist/caravan"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "0319fdd3-b204-45eb-a6e4-3dfdcd082e1c",
+        "resource": "https://www.45cat.com/artist/caravan"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "4fa0c837-b363-4dd6-9678-955680439d14",
+        "resource": "https://www.progarchives.com/artist.asp?id=613"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "aabd125a-f09e-4f6f-945b-d2376b3efb9a",
+        "resource": "https://www.spirit-of-rock.com/en/band/Caravan"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-n94095585/",
+        "id": "3643070a-e11a-4823-8818-569e347bdc45"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "url": {
+        "id": "c4b4a77f-22b3-4fa2-91fa-a99a01690bc8",
+        "resource": "https://www.setlist.fm/setlists/caravan-33d6acfd.html"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "setlistfm",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://twitter.com/officialcaravan",
+        "id": "3accbffa-2ba5-4c82-b60c-5cd990cf285f"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "direction": "forward",
+      "type": "social network",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "resource": "https://www.facebook.com/OfficialCaravan",
+        "id": "928013ce-52e4-432b-b5de-196029dbb3ac"
+      },
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "social network"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "2aa7be32-052e-4f36-a398-3ee1bd82148c",
+        "resource": "https://www.instagram.com/caravancanterburyband/"
+      },
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "direction": "forward",
+      "type": "social network",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "type": "songkick",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "ended": false,
+      "url": {
+        "resource": "https://www.songkick.com/artists/504256",
+        "id": "d76ee5ca-8884-4200-bd81-cb51ddb92c95"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "ce93c93e-b2e4-4b34-bc6d-5ca0e5225233",
+        "resource": "https://tidal.com/artist/17493"
+      },
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "c727d163-6e90-47ec-9a99-8de40433340b",
+        "resource": "http://viaf.org/viaf/127801325"
+      },
+      "type": "VIAF",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikidata",
+      "url": {
+        "id": "2925936c-24c4-4ef9-9721-005db89605bc",
+        "resource": "https://www.wikidata.org/wiki/Q767871"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCqMZ5-eJyASSx43kfoH8G5Q",
+        "id": "d48f5391-55df-4695-abdd-7d3dca169cb2"
+      },
+      "type": "youtube",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    }
+  ],
+  "isnis": [
+    "0000000119453227"
+  ],
+  "life-span": {
+    "begin": "1968-01",
+    "end": null,
+    "ended": false
+  },
+  "id": "82dd3f5d-4c36-4dbe-981d-6845c91445f8",
+  "aliases": [],
+  "country": "GB",
+  "gender-id": null,
+  "gender": null,
+  "end-area": null
+}

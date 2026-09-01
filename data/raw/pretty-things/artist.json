@@ -1,0 +1,1213 @@
+{
+  "isnis": [
+    "0000000110915640"
+  ],
+  "id": "07deede6-db1d-4ede-b19e-5d46df592841",
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1963"
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "disambiguation": "Greater London",
+    "sort-name": "London",
+    "type": null,
+    "name": "London",
+    "type-id": null
+  },
+  "relations": [
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "instrumental supporting musician",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1983",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "attribute-ids": {
+        "harmonica": "63e37f1a-30b6-4746-8a49-dfb55be3cdd1"
+      },
+      "artist": {
+        "name": "Nick Reynolds",
+        "type": "Person",
+        "disambiguation": "Musician, sculptor and artist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Reynolds, Nick",
+        "id": "ff986570-4fbd-49c2-8c04-18bb09411988"
+      },
+      "end": "1985",
+      "ended": true,
+      "source-credit": "",
+      "attributes": [
+        "harmonica"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "type": "is person",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "dd9886f2-1dfe-4270-97db-283f6839a666",
+      "begin": "1967",
+      "ended": true,
+      "artist": {
+        "type": "Group",
+        "name": "The Electric Banana",
+        "disambiguation": "alias used by The Pretty Things for film music recordings",
+        "country": null,
+        "sort-name": "Electric Banana, The",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "d2191456-c3b4-49f2-87f4-9683535d39f1"
+      },
+      "end": "1978",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1963-09",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "sort-name": "Pendleton, Brian",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7c69757e-c2ee-439f-bbf9-9422283290f3",
+        "type": "Person",
+        "name": "Brian Pendleton",
+        "disambiguation": ""
+      },
+      "end": "1966-12",
+      "source-credit": "",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "harmonica": "63e37f1a-30b6-4746-8a49-dfb55be3cdd1"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1963",
+      "ended": true,
+      "end": "2020-05-15",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "May, Phil",
+        "country": "GB",
+        "id": "84e882b6-3e99-43be-a2bb-ebffd83aa4c8",
+        "name": "Phil May",
+        "type": "Person",
+        "disambiguation": "lead singer of The Pretty Things"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "harmonica",
+        "lead vocals",
+        "original"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1963",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "79da3a8c-00c6-4fa7-9578-34e17e06d04d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Taylor, Dick",
+        "country": "GB",
+        "disambiguation": "Pretty Things guitarist",
+        "name": "Dick Taylor",
+        "type": "Person"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "electric guitar",
+        "original"
+      ],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Prince, Viv",
+        "id": "5abad7e3-03aa-4080-894b-7f929f767655",
+        "name": "Viv Prince",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1965-11",
+      "ended": true,
+      "begin": "1964-05",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Skip Alan",
+        "id": "ebb1fe3f-9c0d-4cee-a146-912a15bb6718",
+        "sort-name": "Alan, Skip",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1968",
+      "ended": true,
+      "begin": "1965",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "choir vocals",
+        "lead vocals",
+        "organ",
+        "piano",
+        "sitar"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+        "choir vocals": "43427f08-837b-46b8-bc77-483453af6a7b",
+        "organ": "55a37f4f-39a4-45a7-851d-586569985519",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "sitar": "9290b2c1-97c3-4355-a26f-c6dba89cf8ff"
+      },
+      "end": "1981",
+      "artist": {
+        "disambiguation": "keyboards",
+        "type": "Person",
+        "name": "Jon Povey",
+        "id": "19dc166a-4da7-49a8-8ebc-97b9d172d37b",
+        "country": "GB",
+        "sort-name": "Povey, Jon",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "artist": {
+        "country": null,
+        "sort-name": "Waller, Wally",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "51838f82-8465-4ac6-a8a6-bfbf7f0f4e51",
+        "type": "Person",
+        "name": "Wally Waller",
+        "disambiguation": "Pretty Things bassist"
+      },
+      "end": null,
+      "ended": false,
+      "begin": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "disambiguation": "John Charles Alder; psychedelic music",
+        "name": "Twink",
+        "type": "Person",
+        "id": "cecbd407-1062-466c-a1d0-b0e410154e8f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Twink"
+      },
+      "end": "1969-11",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968-03",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)"
+      ]
+    },
+    {
+      "attributes": [
+        "electric guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "end": "1970-05",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Unitt, Victor",
+        "country": null,
+        "id": "3c92d34e-e8d9-472a-8f60-9ac1c11162f3",
+        "name": "Victor Unitt",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "begin": "1969-09",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": "1976",
+      "artist": {
+        "name": "Skip Alan",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Alan, Skip",
+        "country": "GB",
+        "id": "ebb1fe3f-9c0d-4cee-a146-912a15bb6718"
+      },
+      "ended": true,
+      "begin": "1969",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "electric guitar"
+      ],
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Tolson, Pete",
+        "country": "GB",
+        "id": "80c6e73b-107a-4473-9b82-ca4ea467c6b5",
+        "name": "Pete Tolson",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1976-06",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971-11",
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "artist": {
+        "country": "GB",
+        "sort-name": "Edwards, Gordon John",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "d1361659-e02e-4318-a62d-dd87381913aa",
+        "type": "Person",
+        "name": "Gordon John Edwards",
+        "disambiguation": ""
+      },
+      "end": "1976",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1974",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "choir vocals": "43427f08-837b-46b8-bc77-483453af6a7b",
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [
+        "choir vocals",
+        "electric guitar",
+        "keyboard",
+        "lead vocals"
+      ],
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "id": "ada2b416-890a-4c12-a4a9-b47447dec780",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Green, Jack",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Jack Green",
+        "type": "Person"
+      },
+      "end": "1976",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "choir vocals": "43427f08-837b-46b8-bc77-483453af6a7b",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": "1974",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [
+        "bass guitar",
+        "choir vocals",
+        "lead vocals"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "id": "ebb1fe3f-9c0d-4cee-a146-912a15bb6718",
+        "country": "GB",
+        "sort-name": "Alan, Skip",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Skip Alan"
+      },
+      "end": "1980",
+      "ended": true,
+      "begin": "1978",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": "2007",
+      "artist": {
+        "name": "Skip Alan",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Alan, Skip",
+        "id": "ebb1fe3f-9c0d-4cee-a146-912a15bb6718"
+      },
+      "ended": true,
+      "begin": "1994",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1994",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "type": "Person",
+        "name": "Jon Povey",
+        "disambiguation": "keyboards",
+        "country": "GB",
+        "sort-name": "Povey, Jon",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "19dc166a-4da7-49a8-8ebc-97b9d172d37b"
+      },
+      "end": "2007",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals"
+      ]
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "background vocals"
+      ],
+      "source-credit": "",
+      "end": "2007",
+      "artist": {
+        "disambiguation": "keyboards",
+        "type": "Person",
+        "name": "Jon Povey",
+        "id": "19dc166a-4da7-49a8-8ebc-97b9d172d37b",
+        "sort-name": "Povey, Jon",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1994",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "choir vocals"
+      ],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1994",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "choir vocals": "43427f08-837b-46b8-bc77-483453af6a7b"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Povey, Jon",
+        "country": "GB",
+        "id": "19dc166a-4da7-49a8-8ebc-97b9d172d37b",
+        "name": "Jon Povey",
+        "type": "Person",
+        "disambiguation": "keyboards"
+      },
+      "end": "2007",
+      "ended": true
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "keyboards",
+        "name": "Jon Povey",
+        "type": "Person",
+        "id": "19dc166a-4da7-49a8-8ebc-97b9d172d37b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Povey, Jon"
+      },
+      "end": "2007",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1994",
+      "attribute-ids": {
+        "sitar": "9290b2c1-97c3-4355-a26f-c6dba89cf8ff"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "sitar"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1994",
+      "ended": true,
+      "end": "2007",
+      "artist": {
+        "name": "Jon Povey",
+        "type": "Person",
+        "disambiguation": "keyboards",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Povey, Jon",
+        "country": "GB",
+        "id": "19dc166a-4da7-49a8-8ebc-97b9d172d37b"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "2007",
+      "artist": {
+        "disambiguation": "keyboards",
+        "name": "Jon Povey",
+        "type": "Person",
+        "id": "19dc166a-4da7-49a8-8ebc-97b9d172d37b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Povey, Jon",
+        "country": "GB"
+      },
+      "attribute-ids": {
+        "organ": "55a37f4f-39a4-45a7-851d-586569985519"
+      },
+      "begin": "1994",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [
+        "organ"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "piano"
+      ],
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Povey, Jon",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "19dc166a-4da7-49a8-8ebc-97b9d172d37b",
+        "type": "Person",
+        "name": "Jon Povey",
+        "disambiguation": "keyboards"
+      },
+      "end": "2007",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1994",
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "artist": {
+        "id": "d284a86e-036e-4f10-9376-c96e2b2f4ada",
+        "country": null,
+        "sort-name": "Woosey, George",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "George Woosey"
+      },
+      "end": "2018",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2007",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [
+        "bass"
+      ],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "John Stax",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Stax, John",
+        "id": "22c9f639-4f94-485f-ba92-51dfcb12f220"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000489676",
+        "id": "153616b0-100e-4a35-9dbf-5f1935d4aa48"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "allmusic",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "BBC Music page",
+      "direction": "forward",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/07deede6-db1d-4ede-b19e-5d46df592841",
+        "id": "049af526-0b12-42c4-a8f3-88ca7e5a9d6d"
+      },
+      "end": "2020-11-19",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "385f71f4-ebe6-479a-948a-30656fa188c2",
+        "resource": "https://www.discogs.com/artist/260959"
+      },
+      "type": "discogs",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "fanpage",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "url": {
+        "resource": "http://www.pretties.de/",
+        "id": "8ee5ebec-c3f1-405a-9e5b-09df718dc4d4"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "id": "f7431b4f-24bc-4a27-9796-4509e75d2451",
+        "resource": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "id": "24e82b40-34a6-4f18-8aa3-8957d1d3a87f",
+        "resource": "https://www.deezer.com/artist/97317"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.last.fm/music/The+Pretty+Things",
+        "id": "e1dbb82f-21ee-455e-acde-636a91590253"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "last.fm",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "official homepage",
+      "direction": "forward",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "a370afa7-08a1-4ed1-bd57-b0a9318f8311",
+        "resource": "http://www.theprettythings.com/"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "official homepage",
+      "direction": "forward",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "3b34f146-95ea-45b4-a0c6-16df754a7907",
+        "resource": "http://www.prettythings.net/"
+      },
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "7a6500f0-f0f7-40cf-930c-279bf7042e9d",
+        "resource": "http://id.loc.gov/authorities/names/n95085450"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "a66a9399-b72a-49fc-a175-2eef92f30e91",
+        "resource": "https://d-nb.info/gnd/5549521-7"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/the_pretty_things",
+        "id": "1325be04-5d7b-43c2-b89d-409c55e037f1"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "id": "60609a59-c7c3-4751-9388-a81e556b945b",
+        "resource": "https://www.worldcat.org/identities/lccn-n95085450"
+      },
+      "end": null
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "6b5a90b1-3357-4f7f-b1ce-438dd97dfb26",
+        "resource": "https://open.qobuz.com/artist/384297"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "9b319f4e-0726-4563-8f47-bc038cb325c5",
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-pretty-things/384297"
+      },
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "resource": "https://www.songkick.com/artists/560702",
+        "id": "c1bd4df6-8ff9-4a35-833f-a58eb2d5744a"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "songkick"
+    },
+    {
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "63c1eaac-34b7-4b72-a775-27f51221d8db",
+        "resource": "https://music.apple.com/us/artist/152342749"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.qobuz.com/artist/384297",
+        "id": "6b5a90b1-3357-4f7f-b1ce-438dd97dfb26"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://tidal.com/artist/3556219",
+        "id": "2d7b36cd-0096-4a79-939e-2100b443b933"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "url": {
+        "id": "9b319f4e-0726-4563-8f47-bc038cb325c5",
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-pretty-things/384297"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "VIAF",
+      "direction": "forward",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "cf6caa07-8680-4bae-a2e9-da2de4e8c0c0",
+        "resource": "http://viaf.org/viaf/152238120"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "1cb8284c-ffc0-49c3-96eb-ba99c81031d6",
+        "resource": "https://www.wikidata.org/wiki/Q1364657"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "wikidata",
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCy_gWSTLrwaserTXU-HHh5A",
+        "id": "f4bcc79c-09ca-4fe5-8bf3-1d4f1eab2514"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "direction": "forward",
+      "type": "youtube music",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    }
+  ],
+  "sort-name": "Pretty Things, The",
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "type": null
+  },
+  "disambiguation": "English rock band",
+  "ipis": [],
+  "name": "The Pretty Things",
+  "type": "Group",
+  "end-area": null,
+  "gender-id": null,
+  "country": "GB",
+  "gender": null,
+  "aliases": [
+    {
+      "sort-name": "Pretty Things",
+      "begin": null,
+      "type-id": null,
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "type": null,
+      "primary": null,
+      "name": "Pretty Things"
+    }
+  ]
+}

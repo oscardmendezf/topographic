@@ -1,0 +1,963 @@
+{
+  "end-area": null,
+  "country": "GB",
+  "gender-id": null,
+  "gender": null,
+  "aliases": [
+    {
+      "begin": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "sort-name": "ELP",
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "name": "ELP",
+      "type": "Search hint",
+      "primary": null
+    },
+    {
+      "type": null,
+      "primary": null,
+      "name": "Emerson Lake & Palmer",
+      "sort-name": "Emerson Lake & Palmer",
+      "type-id": null,
+      "begin": null,
+      "locale": null,
+      "ended": false,
+      "end": null
+    },
+    {
+      "name": "Emerson Lake and Palmer",
+      "type": null,
+      "primary": null,
+      "begin": null,
+      "type-id": null,
+      "sort-name": "Emerson Lake and Palmer",
+      "end": null,
+      "ended": false,
+      "locale": null
+    },
+    {
+      "name": "Emerson, Lake and Palmer",
+      "type": null,
+      "primary": null,
+      "end": null,
+      "locale": null,
+      "ended": false,
+      "type-id": null,
+      "begin": null,
+      "sort-name": "Emerson, Lake and Palmer"
+    },
+    {
+      "name": "Emerson, Lake, & Palmer",
+      "type": null,
+      "primary": null,
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "begin": null,
+      "type-id": null,
+      "sort-name": "Emerson, Lake, & Palmer"
+    },
+    {
+      "type": null,
+      "primary": null,
+      "name": "Emerson, Lake, and Palmer",
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "sort-name": "Emerson, Lake, and Palmer",
+      "begin": null,
+      "type-id": null
+    },
+    {
+      "name": "Emmerson, Lake & Palmer",
+      "type": null,
+      "primary": null,
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "begin": null,
+      "type-id": null,
+      "sort-name": "Emmerson, Lake & Palmer"
+    }
+  ],
+  "id": "ad996aef-cc1c-42ac-af5c-619c370f4b8a",
+  "life-span": {
+    "begin": "1970",
+    "ended": true,
+    "end": "2011"
+  },
+  "isnis": [
+    "0000000123216777"
+  ],
+  "relations": [
+    {
+      "target-type": "artist",
+      "attributes": [
+        "eponymous"
+      ],
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Emerson, Keith",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e1350b4d-286e-40f1-894f-8c88a03351fe",
+        "type": "Person",
+        "name": "Keith Emerson",
+        "disambiguation": ""
+      },
+      "end": "2016-03-10",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "attribute-ids": {
+        "eponymous": "15eea3b8-5655-43c8-b2c2-dd03c901a79b"
+      },
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "2016-12-07",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Greg Lake",
+        "id": "6e2fdea5-8960-46ec-8a05-41b7eec3b2a9",
+        "country": "GB",
+        "sort-name": "Lake, Greg",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "attribute-ids": {
+        "eponymous": "15eea3b8-5655-43c8-b2c2-dd03c901a79b"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "eponymous"
+      ]
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "eponymous": "15eea3b8-5655-43c8-b2c2-dd03c901a79b"
+      },
+      "artist": {
+        "type": "Person",
+        "name": "Carl Palmer",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Palmer, Carl",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3bd93b58-d3da-4c3c-a92f-823d8539942b"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [
+        "eponymous"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "artist": {
+        "name": "Outside the Original",
+        "type": "Group",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "sort-name": "Outside the Original",
+        "id": "8da1fdfc-f49a-42c2-b1ff-47bb34d63eb8"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "direction": "forward",
+      "type": "allmusic",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "dca02bea-cea1-4476-849d-7604d402513a",
+        "resource": "https://www.allmusic.com/artist/mn0000798992"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.bandsintown.com/a/54868",
+        "id": "875122ba-087f-4df7-978e-044b4fe059b3"
+      },
+      "type": "bandsintown",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "BBC Music page",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/ad996aef-cc1c-42ac-af5c-619c370f4b8a",
+        "id": "b913940a-54c9-48b7-84e9-1a639f667dd0"
+      },
+      "end": "2020-11-19",
+      "attribute-ids": {},
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "4073c94b-89dd-49a9-a267-066c483771cf",
+        "resource": "https://www.discogs.com/artist/39765"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discogs"
+    },
+    {
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "8ef3f1bb-358f-4478-b703-8f816d13b568",
+        "resource": "https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "url": {
+        "id": "57c1cc0e-79cc-49c2-a321-3ac3f95187ea",
+        "resource": "https://www.deezer.com/artist/3612"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "image",
+      "end": null,
+      "url": {
+        "id": "1afe1b7d-d7f5-4a65-9c71-5f2f920d4ca8",
+        "resource": "https://commons.wikimedia.org/wiki/File:Emerson_Lake_and_Palmer_band_photo.jpg"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "type": "IMDb",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.imdb.com/name/nm1431457/",
+        "id": "67c8ad17-3552-4e92-b9ca-7183eb5b2652"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "last.fm",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "5f580bb7-49a1-40a0-903a-aff9576ee73f",
+        "resource": "https://www.last.fm/music/Emerson,+Lake+&+Palmer"
+      },
+      "end": null
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://genius.com/artists/Emerson-lake-and-palmer",
+        "id": "5c8d5fa0-1741-4b6e-a50c-040c2dcc2abf"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "direction": "forward",
+      "type": "lyrics",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "637977fc-22d1-4f79-86c4-8f8a8faa81df",
+        "resource": "https://www.emersonlakepalmer.com/"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "official homepage"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://jaxsta.com/profile/65c789a7-80ca-4f71-acfd-444526f8afa2",
+        "id": "12bb1368-56fb-4dea-b892-7cce9d6cb720"
+      },
+      "end": "2025-12-17",
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "c439f2d7-9583-4318-befd-49f033ff6c2b",
+        "resource": "http://id.loc.gov/authorities/names/nr89011806"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139031840",
+        "id": "38203b24-f355-43b2-83fe-625ea611335d"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://d-nb.info/gnd/16040632-8",
+        "id": "ebd01e0b-8c9f-42e8-91bd-477419529f30"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/emerson-lake-and-palmer",
+        "id": "31655e0e-7f7d-4f07-9104-c10b7111be61"
+      },
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.45cat.com/artist/emerson-lake-and-palmer",
+        "id": "fdf992b9-8ee4-43a7-bef7-2166b4718433"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "4e4807ba-9514-4291-a465-0abeb0f993ea",
+        "resource": "https://www.idref.fr/08627404X"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.jazzmusicarchives.com/artist/emerson-lake-and-palmer",
+        "id": "3b2a9394-bb46-4b34-bdf5-8c6c13a3e470"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/emerson-lake-palmer/",
+        "id": "4963a438-cedf-4303-803f-3f810498053d"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=94",
+        "id": "0faa9112-90f5-436a-bb7b-d2c16217935a"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Emerson_Lake_And_Palmer",
+        "id": "2e68e101-47c2-44b4-9ac7-ccaeaaff9a6f"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "59ce842e-ac5e-4840-8d7c-c2857a2d947f",
+        "resource": "https://www.whosampled.com/Emerson,-Lake-%26-Palmer/"
+      },
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "9ee88d57-f743-44e8-9df4-6784fdb98ca3",
+        "resource": "https://www.worldcat.org/identities/lccn-nr89011806/"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "end": "2020-10-12",
+      "url": {
+        "id": "02a2dead-44b6-48bc-a933-be0d9a22e4ef",
+        "resource": "https://play.google.com/store/music/artist?id=A33i4fj6c6fzmrb3rwag2kwa2ny"
+      },
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://itunes.apple.com/us/artist/id27358441",
+        "id": "abc2a67d-17f3-406c-b800-a643f9873240"
+      },
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "7332f6a2-fbbd-462d-9050-d016362f14df",
+        "resource": "https://music.apple.com/us/artist/27358441"
+      },
+      "end": null
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "8620311d-bfb3-4b25-966a-d462536004b2",
+        "resource": "https://www.7digital.com/artist/emerson-lake-palmer"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/emerson-lake-palmer/73278",
+        "id": "2bc1053f-c011-4e94-bde5-a97a3d840d4a"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "http://www.emusic.com/artist/-/11622349/",
+        "id": "bf82e87b-4412-4f23-85cf-27f5707b4c59"
+      },
+      "ended": true,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "21fe0478-5e74-4e18-acfb-2b93aa20d36a",
+        "resource": "https://secondhandsongs.com/artist/21522"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "direction": "forward",
+      "type": "secondhandsongs",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "setlistfm",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "a2d968e8-a5bd-41eb-adcc-66c6fe7c3a77",
+        "resource": "https://www.setlist.fm/setlists/emerson-lake-and-palmer-1bd6b534.html"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "type": "social network",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "595e2f62-2111-4e1e-9ddb-5ab87ff02ebe",
+        "resource": "https://www.facebook.com/EmersonLakePalmer"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "type": "songkick",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "f9a03fbe-9081-443e-99a5-41d831738089",
+        "resource": "https://www.songkick.com/artists/265092"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "90a729e0-d329-4048-a23b-93021a7af20b",
+        "resource": "https://soundcloud.com/emerson-lake-palmer"
+      },
+      "attribute-ids": {},
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "begin": null,
+      "direction": "forward",
+      "type": "soundcloud",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "url": {
+        "id": "7332f6a2-fbbd-462d-9050-d016362f14df",
+        "resource": "https://music.apple.com/us/artist/27358441"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "6b8e738a-90b6-4d14-842a-c77c9cf1b7a3",
+        "resource": "https://tidal.com/artist/3579254"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/emerson-lake-palmer/73278",
+        "id": "2bc1053f-c011-4e94-bde5-a97a3d840d4a"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "VIAF",
+      "url": {
+        "resource": "http://viaf.org/viaf/121287817",
+        "id": "724df3f2-912c-474c-9bef-892a65f9c8f5"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikidata",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q273171",
+        "id": "da7ef834-064d-4b50-b18b-3bb83649e722"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {}
+    },
+    {
+      "type": "youtube music",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "6a8a6990-8b97-4782-ad6f-29cb29729306",
+        "resource": "https://music.youtube.com/channel/UCGNoW1_LSm0mCZDC1aZzwQA"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    }
+  ],
+  "sort-name": "Emerson, Lake & Palmer",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "disambiguation": "",
+    "id": "e7316723-22d9-4472-8a81-5c89425923ae",
+    "sort-name": "Bournemouth",
+    "type": null,
+    "type-id": null,
+    "name": "Bournemouth"
+  },
+  "ipis": [],
+  "disambiguation": "",
+  "area": {
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "type": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "sort-name": "United Kingdom"
+  },
+  "type": "Group",
+  "name": "Emerson, Lake & Palmer"
+}

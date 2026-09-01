@@ -1,0 +1,1270 @@
+{
+  "life-span": {
+    "begin": "1964",
+    "end": "1996",
+    "ended": true
+  },
+  "id": "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+  "isnis": [
+    "0000000115404823"
+  ],
+  "area": {
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "type": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "name": "United Kingdom",
+    "disambiguation": ""
+  },
+  "disambiguation": "",
+  "begin-area": {
+    "name": "London",
+    "type-id": null,
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "sort-name": "London",
+    "type": null,
+    "disambiguation": "Greater London"
+  },
+  "aliases": [
+    {
+      "locale": null,
+      "primary": null,
+      "name": "Kinks",
+      "ended": false,
+      "type-id": null,
+      "end": null,
+      "type": null,
+      "begin": null,
+      "sort-name": "Kinks"
+    },
+    {
+      "ended": false,
+      "name": "Muswell Ravens",
+      "locale": null,
+      "primary": null,
+      "end": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "sort-name": "Muswell Ravens",
+      "begin": null,
+      "type": "Artist name"
+    },
+    {
+      "sort-name": "Bollweevils, The",
+      "begin": null,
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "end": null,
+      "primary": null,
+      "locale": null,
+      "ended": false,
+      "name": "The Bollweevils"
+    },
+    {
+      "ended": false,
+      "name": "The Boll‐Weevils",
+      "locale": null,
+      "primary": null,
+      "begin": null,
+      "type": "Artist name",
+      "sort-name": "Boll‐Weevils, The",
+      "end": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "end": null,
+      "type": "Artist name",
+      "begin": null,
+      "sort-name": "Ravens, The",
+      "locale": null,
+      "primary": null,
+      "ended": false,
+      "name": "The Ravens"
+    }
+  ],
+  "sort-name": "Kinks, The",
+  "type": "Group",
+  "end-area": {
+    "sort-name": "London",
+    "disambiguation": "Greater London",
+    "type": null,
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "type-id": null,
+    "name": "London"
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender": null,
+  "ipis": [],
+  "country": "GB",
+  "gender-id": null,
+  "relations": [
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [
+        "original"
+      ],
+      "end": "1966-06",
+      "begin": "1964-02",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "sort-name": "Quaife, Pete",
+        "type": "Person",
+        "id": "777f554a-21ee-413a-8a77-5d5329df7591",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Kinks' bass guitarist",
+        "country": "GB",
+        "name": "Pete Quaife"
+      },
+      "ended": true
+    },
+    {
+      "ended": true,
+      "artist": {
+        "disambiguation": "lead guitarist, backing (and occasional lead) singer for The Kinks",
+        "country": "GB",
+        "name": "Dave Davies",
+        "type": "Person",
+        "sort-name": "Davies, Dave",
+        "id": "65710ace-d0ea-45eb-afb7-291e6b13bee5",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "begin": "1964-02",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "original"
+      ],
+      "end": "1996"
+    },
+    {
+      "artist": {
+        "sort-name": "Davies, Ray",
+        "type": "Person",
+        "id": "afac07f5-d4aa-43f4-bad3-6bc2bb474cba",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK singer/songwriter, member of The Kinks",
+        "country": "GB",
+        "name": "Ray Davies"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true,
+      "begin": "1964-02",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "original"
+      ],
+      "end": "1996",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "additional"
+      ],
+      "end": "1969",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1964",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "artist": {
+        "disambiguation": "pianist and organist",
+        "name": "Nicky Hopkins",
+        "country": "GB",
+        "id": "6cbe7f39-d487-42e2-8722-23dc2332ea95",
+        "type": "Person",
+        "sort-name": "Hopkins, Nicky",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [
+        "original"
+      ],
+      "end": "1984",
+      "type": "member of band",
+      "begin": "1964",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "disambiguation": "",
+        "name": "Mick Avory",
+        "country": "GB",
+        "id": "4b782d7e-fa42-411f-bb5a-a7c4aeea2c2d",
+        "sort-name": "Avory, Mick",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "end": "1966-11",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1966-06",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "name": "John Dalton",
+        "country": "GB",
+        "disambiguation": "bass guitarist of The Kinks",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3896e4dc-3009-4686-88de-0293ed844e35",
+        "sort-name": "Dalton, John",
+        "type": "Person"
+      },
+      "ended": true
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1969-03",
+      "attributes": [],
+      "type": "member of band",
+      "begin": "1966-11",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "type": "Person",
+        "sort-name": "Quaife, Pete",
+        "id": "777f554a-21ee-413a-8a77-5d5329df7591",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Kinks' bass guitarist",
+        "country": "GB",
+        "name": "Pete Quaife"
+      },
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1969",
+      "type": "member of band",
+      "attributes": [],
+      "end": "1976",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Dalton, John",
+        "type": "Person",
+        "id": "3896e4dc-3009-4686-88de-0293ed844e35",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "bass guitarist of The Kinks",
+        "country": "GB",
+        "name": "John Dalton"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "artist": {
+        "sort-name": "Gosling, John",
+        "type": "Person",
+        "id": "830efa52-4c93-45f8-a38d-5051b2c738af",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "keyboarist, formerly of The Kinks",
+        "country": "GB",
+        "name": "John Gosling"
+      },
+      "attribute-ids": {},
+      "ended": true,
+      "begin": "1970",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1978",
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1978",
+      "attributes": [],
+      "begin": "1976",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "65b78e4a-dd50-43ac-81a5-0540490d2aec",
+        "type": "Person",
+        "sort-name": "Pyle, Andy",
+        "name": "Andy Pyle",
+        "country": "GB",
+        "disambiguation": ""
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": "1978",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1978",
+      "type": "member of band",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "type": "Person",
+        "sort-name": "Dalton, John",
+        "id": "3896e4dc-3009-4686-88de-0293ed844e35",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "bass guitarist of The Kinks",
+        "country": "GB",
+        "name": "John Dalton"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "id": "d1361659-e02e-4318-a62d-dd87381913aa",
+        "type": "Person",
+        "sort-name": "Edwards, Gordon John",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Gordon John Edwards",
+        "country": "GB"
+      },
+      "ended": true,
+      "end": "1978",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1978",
+      "type": "member of band",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1978",
+      "attributes": [],
+      "end": "1996",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "name": "Jim Rodford",
+        "country": "GB",
+        "id": "c671df9a-c39a-4d37-80d5-7b9d2d5f0331",
+        "sort-name": "Rodford, Jim",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type": "member of band",
+      "begin": "1979",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1989",
+      "attributes": [],
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Ian Gibbons",
+        "sort-name": "Gibbons, Ian",
+        "type": "Person",
+        "id": "e54c0d7b-be13-4ede-8371-8a69be533eb6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": "1996",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1984",
+      "type": "member of band",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Bob Henrit",
+        "type": "Person",
+        "sort-name": "Henrit, Bob",
+        "id": "ef2c4a66-3521-4ee6-9db8-afca1fcf2e79",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1989",
+      "type": "member of band",
+      "attributes": [],
+      "end": "1993",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Mark Haley",
+        "type": "Person",
+        "sort-name": "Haley, Mark",
+        "id": "64434de6-2b3e-467e-9c0d-ae6e94f258e6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "artist": {
+        "disambiguation": "",
+        "name": "Ian Gibbons",
+        "country": "GB",
+        "id": "e54c0d7b-be13-4ede-8371-8a69be533eb6",
+        "type": "Person",
+        "sort-name": "Gibbons, Ian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "ended": true,
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1993",
+      "type": "member of band",
+      "end": "1996",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attributes": [],
+      "ended": true,
+      "artist": {
+        "disambiguation": "British trombonist & tubist",
+        "country": null,
+        "name": "John Beecham",
+        "sort-name": "Beecham, John",
+        "type": "Person",
+        "id": "ddac8871-b0f7-4cc1-9d13-4f17d536f924",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "tribute",
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "country": "US",
+        "name": "The Muswell Villebillies",
+        "disambiguation": "Columbus, OH Kinks tribute",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Muswell Villebillies, The",
+        "type": "Group",
+        "id": "bf56c498-82e8-49d7-8e58-ce53402da2c8"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "country": "US",
+        "name": "Maryann Price",
+        "disambiguation": "Jazz vocalist, Dan Hicks & The Hot Licks, Kinks",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Price, Maryann",
+        "type": "Person",
+        "id": "22e9571b-00f3-441c-86cd-bb447cae583f"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "end": "1974",
+      "attributes": [],
+      "type": "vocal supporting musician",
+      "begin": "1973",
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "allmusic",
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "02b811f1-8cef-4c0e-a81b-47412df83fca",
+        "resource": "https://www.allmusic.com/artist/mn0000100160"
+      }
+    },
+    {
+      "ended": true,
+      "attribute-ids": {},
+      "url": {
+        "id": "dd09ca9a-6175-4347-b2c2-e22fd7a18e28",
+        "resource": "https://www.bbc.co.uk/music/artists/17b53d9f-5c63-4a09-a593-dde4608e0db9"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type": "BBC Music page",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "end": "2020-11-19",
+      "attributes": []
+    },
+    {
+      "url": {
+        "id": "365c8c59-6576-4a89-b7fa-1fd4b0fe3de3",
+        "resource": "https://www.discogs.com/artist/1597476"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "type": "discogs",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "source-credit": "The Ravens",
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "id": "4c683cdb-cf33-40bd-aac7-a2e06d4c0620",
+        "resource": "https://www.discogs.com/artist/2639270"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "discogs",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "Muswell Ravens",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/3646675",
+        "id": "1019b462-0c9f-44e4-88a4-89475f0b35a4"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "discogs",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "The Boll-Weevils",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "7e50ca05-bff8-4d63-9679-91861e705b10",
+        "resource": "https://www.discogs.com/artist/94078"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "discogs",
+      "begin": null
+    },
+    {
+      "url": {
+        "id": "0783a929-ef0a-47b0-9e4d-a3e894594644",
+        "resource": "https://web.archive.org/web/19981205232815/http://hobbes.it.rit.edu/kinks/kinks.html"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "fanpage",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "type": "fanpage",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "e60448c7-a918-46cd-854e-a5288e3830f7",
+        "resource": "http://www.kindakinks.net/"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "free streaming",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E",
+        "id": "ea125dd6-1ab8-472d-a592-8bddab74b870"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "2c53fe2d-92bf-4cfb-b008-7430573fcef8",
+        "resource": "https://www.deezer.com/artist/1415"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "free streaming",
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.deezer.com/artist/6979941",
+        "id": "dd994cf6-575a-45ef-99e2-003b0e7a49cc"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "image",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:Fanclub_-_The_Kinks_2.png",
+        "id": "2b093b4d-5ecc-4949-b9c2-86f3dad7ed5c"
+      }
+    },
+    {
+      "attribute-values": {},
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attributes": [],
+      "end": null,
+      "type": "IMDb",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "0fb8f378-4f8f-45c1-a537-3c407d2272a4",
+        "resource": "https://www.imdb.com/name/nm0455661/"
+      },
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://www.last.fm/music/The+Kinks",
+        "id": "fccc248a-36f4-4ed4-b1d2-c956a18e25e8"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "last.fm",
+      "attributes": [],
+      "end": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "lyrics",
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://muzikum.eu/en/122-5237/the-kinks/lyrics.html",
+        "id": "863b6a86-5944-49ac-aaf2-6c08a81427b3"
+      }
+    },
+    {
+      "attribute-values": {},
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "end": null,
+      "attributes": [],
+      "type": "myspace",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "2a0d47dd-c0d3-41cc-b560-ef8bd9c59a7a",
+        "resource": "https://myspace.com/thekinksofficial"
+      },
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "type": "official homepage",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "e54be29f-2fcc-4b5b-867d-a841145ac0d4",
+        "resource": "http://www.thekinks.info/"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no98005083",
+        "id": "699d34f9-0843-4d19-af04-58102770f10d"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "fd50b3d7-7fb4-46af-8afc-0b80d455ff59",
+        "resource": "http://musicmoz.org/Bands_and_Artists/K/Kinks,_The/"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "079b21e3-74cf-46cf-bc32-23c82a8f6298",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13904425j"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "131c1ddf-c3ea-400d-886c-1cab3cc253b4",
+        "resource": "https://d-nb.info/gnd/5066867-5"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://imvdb.com/n/the-kinks",
+        "id": "1a18b57b-62b7-46e5-ab89-10f614b9ee55"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://nla.gov.au/nla.party-1169163",
+        "id": "4ef17da4-04b3-477c-ba74-0da2c685e56b"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/the_kinks",
+        "id": "e20ad3c0-fbd5-487c-81ec-430f6d98de87"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/the-kinks/",
+        "id": "6596667c-55ae-4ea5-af05-e9908872170a"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "other databases",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-no98005083",
+        "id": "f519b584-04bf-4d01-afc3-bfe531ecfdc0"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attributes": [],
+      "type": "purchase for download",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "e50157e6-6734-4c1d-993b-db3316b266a7",
+        "resource": "https://itunes.apple.com/us/artist/id1179227"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-kinks/71045",
+        "id": "8c555992-a2d2-449c-8fb3-4f7eb6d68d14"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "purchase for download",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "type": "secondhandsongs",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "2b02b924-3483-4edf-b070-01214834a5b3",
+        "resource": "https://secondhandsongs.com/artist/380"
+      },
+      "ended": false
+    },
+    {
+      "begin": null,
+      "type": "social network",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://twitter.com/TheKinks",
+        "id": "13332def-8fe6-4a4b-a16e-9139952c8c50"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://www.facebook.com/TheKinksOfficial",
+        "id": "c9e60361-ab88-40d6-97a1-0f71e455e9c1"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "social network",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "63d20a50-512b-432f-ae3b-82c9f500c0f7",
+        "resource": "https://www.songkick.com/artists/442154"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attributes": [],
+      "end": null,
+      "type": "songkick",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type": "streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "b3661a89-5347-42e0-812a-3049eb42250c",
+        "resource": "https://music.apple.com/us/artist/1179227"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "id": "8ff4a258-823b-44c0-9159-39d07da31801",
+        "resource": "https://tidal.com/artist/575"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "streaming",
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "8c555992-a2d2-449c-8fb3-4f7eb6d68d14",
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-kinks/71045"
+      }
+    },
+    {
+      "url": {
+        "id": "8dabe91b-bf10-4f2a-bdc2-c7c90faf60d7",
+        "resource": "http://viaf.org/viaf/268270093"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "VIAF",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q188713",
+        "id": "0e431a9c-5ba2-4e13-aa1e-662f6cf314fd"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "wikidata",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "youtube",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCOdlVf5ZsqwkH4eTb5hjdxg",
+        "id": "467a8dd7-c481-4a44-b11f-6dc7879c7276"
+      }
+    }
+  ],
+  "name": "The Kinks"
+}

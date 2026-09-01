@@ -1,0 +1,717 @@
+{
+  "release-group-count": 54,
+  "release-groups": [
+    {
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2000",
+      "id": "01d5edd3-a087-4d1a-b9f9-81d4149d1bdb",
+      "title": "Golden Collection",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "id": "0d55c0d5-3877-3dc3-80a3-1ca054636727",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1985-12",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Stereotomy"
+    },
+    {
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "title": "Pyramid",
+      "id": "154e77f6-995e-3206-83f7-16bc15f47d3a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1978-05"
+    },
+    {
+      "id": "20784b3b-76ed-4bed-8c63-db35df1d958e",
+      "primary-type": "Album",
+      "first-release-date": "2001",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "title": "Lucifer: Best of Alan Parsons Project"
+    },
+    {
+      "title": "Best Of",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1999-03-29",
+      "id": "28fa4d34-c7ee-38ba-9572-0fc58ba8f50c"
+    },
+    {
+      "title": "The Alan Parsons Project Anthology",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "",
+      "id": "2b66337e-86d5-4913-a2a8-fa864e808701"
+    },
+    {
+      "id": "3317a2ad-14d7-4dff-ae33-9ae1660ff6b2",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2008",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Greatest Hits"
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Limelight: The Best of The Alan Parsons Project, Volume 2",
+      "id": "333539d9-92fd-3637-af69-e34f16d7c8a1",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1987-11-09"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "title": "The Complete Albums Collection",
+      "id": "3d205fd1-2c01-464a-9cfa-458c5407812f",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2014-03-31"
+    },
+    {
+      "first-release-date": "2004-10-18",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "48eb7a98-2647-40aa-b3e0-1c78d7ec96db",
+      "title": "I miti musica: The Alan Parsons Project",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "id": "4ee7a644-0548-4cc0-ac79-5d10c5b4da8b",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "2025",
+      "secondary-types": [
+        "Demo"
+      ],
+      "secondary-type-ids": [
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ],
+      "disambiguation": "",
+      "title": "I Robot \"Work In Progress\""
+    },
+    {
+      "primary-type": "Album",
+      "first-release-date": "2002-09-24",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "53907a78-d196-38b4-a949-9fea0de3f147",
+      "title": "Works",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2010-09-24",
+      "primary-type": "Album",
+      "id": "58a90dfa-733c-480e-97ff-6305599b44e9",
+      "title": "Original Album Classics",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "title": "Tales of Mystery and Imagination: Edgar Allan Poe",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1976",
+      "id": "5d8f45de-ec81-36c7-88d1-a232193fbf15"
+    },
+    {
+      "title": "I Robot (Sessions)",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ],
+      "secondary-types": [
+        "Demo"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "2024",
+      "id": "5dd39478-0879-445e-91a0-5696e3facfe0"
+    },
+    {
+      "title": "Eve",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "1979-08-27",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "5e8f11c2-e08c-3e36-a3e6-d6954b1bf88f"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "2024",
+      "id": "6d988dc3-ad2f-4d2b-b1d2-8c861c24979a",
+      "title": "Eve (Sessions)",
+      "secondary-types": [
+        "Demo"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ]
+    },
+    {
+      "title": "All-Time Greatest Hits",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1999",
+      "id": "792d81b3-50fa-3e67-b78c-834f1cc4b8ae"
+    },
+    {
+      "title": "The Collection",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "2010",
+      "id": "7bde02ee-79eb-4a90-8919-76d3231533d0"
+    },
+    {
+      "title": "The Ultimate Collection",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1992-08-10",
+      "id": "7c22b8a6-5902-3774-afc0-e0771c117da5"
+    },
+    {
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1989-10-09",
+      "id": "8124a1bf-e4ae-376b-bc4b-e1a18384499c",
+      "title": "Pop Classics",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ],
+      "disambiguation": "",
+      "secondary-types": [
+        "Demo"
+      ],
+      "title": "Pyramid (Sessions)",
+      "id": "88826d86-f70b-49af-821f-9bc759622c87",
+      "first-release-date": "2026-05-29",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "id": "8cffdea5-4c20-31f1-b8af-8302e99d0ced",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1997-07-15",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The Definitive Collection"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Anthology",
+      "id": "93297924-0e12-33a8-a156-9e386e4b95f5",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1991",
+      "primary-type": "Album"
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Eye in the Sky: The Encore Collection",
+      "id": "94a3ab8d-ed38-3e44-a0c7-83a3f89850c6",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1999-07-20"
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Gold Collection",
+      "id": "9c379692-8f17-3485-af2a-7642584d0103",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1998-01-26"
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The Best of The Alan Parsons Project",
+      "id": "a07a93dd-af37-3313-9119-761fc08a14a9",
+      "primary-type": "Album",
+      "first-release-date": "1983-09-21",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "",
+      "id": "a1fda56c-94ac-3c2a-93d4-adf70d40807a",
+      "title": "The Best of the Alan Parsons Project, Volume 1",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": ""
+    },
+    {
+      "id": "a437dbdd-138b-3fc2-82cd-303dca7e260c",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1999-07-27",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Master Hits"
+    },
+    {
+      "title": "Eye in the Sky (Sessions)",
+      "secondary-types": [
+        "Demo"
+      ],
+      "secondary-type-ids": [
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2024-05-03",
+      "primary-type": "Album",
+      "id": "af85a0d9-278e-4efe-b7db-58e8bcd55e3a"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "1992 double album",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The Best of The Alan Parsons Project",
+      "id": "afc919ba-2108-456e-ba3b-0cbd8f6043a9",
+      "first-release-date": "1992-11-09",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "title": "Best of Alan Parsons Project",
+      "id": "b002e9e1-b45d-4e91-ac30-c5b01d035a27",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2008-09-25",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [
+        "Demo"
+      ],
+      "secondary-type-ids": [
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ],
+      "disambiguation": "",
+      "title": "The Turn of a Friendly Card (Sessions)",
+      "id": "b041d50c-ce2b-4dc0-93f1-7aae442e7439",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2024"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "title": "The Instrumental Works",
+      "id": "b545d3db-16a8-35d7-a4d3-27539abb1d27",
+      "primary-type": "Album",
+      "first-release-date": "1988-08-15",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "first-release-date": "2024-04-20",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "bbddc688-e840-4f36-ad6c-7e24c392a868",
+      "title": "Pyramid: ‘Work in Progress’",
+      "secondary-types": [
+        "Demo"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ]
+    },
+    {
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "title": "I Robot",
+      "id": "bc5d259c-9323-3721-a346-5d379338eddf",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1977-06-01",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "title": "Eye in the Sky",
+      "id": "c9137ca5-26bd-3374-bebc-a813fbfe9c4f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1982-06"
+    },
+    {
+      "id": "cc99f4bf-5910-37aa-9617-7986c5937e41",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1992",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Hits in the Sky"
+    },
+    {
+      "title": "Ammonia Avenue (Sessions)",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ],
+      "secondary-types": [
+        "Demo"
+      ],
+      "primary-type": "Album",
+      "first-release-date": "2024",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "ce28c19e-b258-474f-a081-cca3192718a4"
+    },
+    {
+      "title": "The Dutch Collection",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "AKA: The Essential Alan Parsons Project",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "2006-10-09",
+      "id": "ce507437-d656-328b-934a-b58078f48265"
+    },
+    {
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1984-02-07",
+      "id": "d78870ea-7967-37f4-b241-af0cf69d5036",
+      "title": "Ammonia Avenue",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": []
+    },
+    {
+      "title": "The Sicilian Defence",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "2014-03-23",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "d9a1f144-9fc5-4039-871a-75ff3cd20676"
+    },
+    {
+      "first-release-date": "2013",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "e293f30f-2a17-456c-a352-3f0fd8858b7d",
+      "title": "Playlist: The Very Best of The Alan Parsons Project",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": ""
+    },
+    {
+      "title": "Ultimate",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "2004-03-23",
+      "id": "e2b24dd5-9a0a-397d-bba6-39737a189fb4"
+    },
+    {
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1998",
+      "id": "e78cf666-e0b8-30b2-a3c6-d05b631e11d6",
+      "title": "Stereotomy / Gaudi",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": ""
+    },
+    {
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "title": "Vulture Culture",
+      "id": "ea65c988-9314-346c-94e4-78a29abbffc6",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1985-02-05"
+    },
+    {
+      "title": "Vulture Culture (Sessions)",
+      "secondary-types": [
+        "Demo"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "2024",
+      "id": "ed34a32d-a329-483d-b382-4e45ae0e9e98"
+    },
+    {
+      "title": "Platinum & Gold Collection",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "2003",
+      "id": "f07b076a-213c-4cde-a6b7-8396858eecdd"
+    },
+    {
+      "title": "Silence and I: The Very Best of The Alan Parsons Project",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "2003-03-10",
+      "id": "f0c5e892-6a68-3979-965f-71c5171bd368"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Love Songs",
+      "id": "f3974483-06b9-37df-a3a1-4a56567854b4",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "2002-05-13"
+    },
+    {
+      "title": "The Turn of a Friendly Card",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "first-release-date": "1980-11",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "id": "f51a3bff-99d8-3943-9552-e7d20fdd11cc"
+    },
+    {
+      "id": "f8fa4938-7c2f-3f87-850c-7c807fe60400",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1987-01-10",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "secondary-types": [],
+      "title": "Gaudi"
+    },
+    {
+      "title": "Prime Time",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "1996-11-21",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "f96bead0-496a-3007-98fe-22fdd3bb508b"
+    },
+    {
+      "id": "fb9ef109-63d7-33b0-851a-c78190817119",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1992",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "Turkish",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The Best of The Alan Parsons Project"
+    }
+  ]
+}

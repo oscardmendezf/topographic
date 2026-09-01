@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>El Mapa del Prog · 1966–1980 · Fase 1</title>
+<style>
+:root{
+  --bg:#14181D; --panel:#1B212A; --panel2:#20262f; --ink:#E9E2D0; --dim:#9AA0A8; --line:#2A313C;
+  --who:#E4572E; --npr:#B08D57; --mb:#6672B8; --pf:#3E8E5A; --kc:#C0263B; --gen:#E56CA5;
+  --yes:#4E7DD4; --elp:#8E6FC1; --jt:#6B8E3A; --vdgg:#7C8363; --gg:#D08C2E; --car:#C98CA7;
+  --sm:#8A79B5; --cam:#C2A46B; --mo:#58A4B0; --app:#A93F55; --ap:#88A47C;
+  --rush:#B04A5A; --sup:#D9B44A; --elo:#6E9FD4; --foc:#58B08A; --ren:#C77E5A;
+  --str:#9C8AA5; --ca:#D9587E; --bjh:#8FA35C; --sh:#4FA3A5;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,'Times New Roman',serif}
+.mono{font-family:ui-monospace,'Cascadia Mono','Courier New',monospace}
+h1,h2,h3{font-family:'Palatino Linotype','Book Antiqua',Palatino,Georgia,serif;font-weight:600}
+.wrap{max-width:1060px;margin:0 auto;padding:0 20px}
+header{padding:64px 0 28px;border-bottom:1px solid var(--line)}
+.eyebrow{font-family:ui-monospace,monospace;font-size:12px;letter-spacing:.22em;color:var(--dim);text-transform:uppercase;margin-bottom:14px}
+h1{font-size:clamp(34px,6vw,58px);font-style:italic;letter-spacing:-.01em}
+h1 span{color:var(--dim);font-style:normal;font-size:.5em;letter-spacing:.08em}
+.lede{max-width:70ch;color:#c8c2b2;margin-top:14px}
+.note{margin-top:18px;padding:12px 16px;border-left:3px solid var(--gg);background:var(--panel);font-size:14px;color:var(--dim)}
+.note b{color:var(--ink)}
+h2{font-size:26px;font-style:italic;margin:0 0 6px}
+.sub{color:var(--dim);font-size:14px;margin-bottom:18px}
+section.block{padding:44px 0;border-bottom:1px solid var(--line)}
+/* chips */
+nav.filters{position:sticky;top:0;z-index:5;background:rgba(20,24,29,.95);backdrop-filter:blur(4px);border-bottom:1px solid var(--line);padding:10px 0}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font-family:ui-monospace,monospace;font-size:11px;letter-spacing:.05em;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:5px 11px;cursor:pointer}
+.chip i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:var(--dim)}
+.chip.on{border-color:var(--ink)}
+/* bandas */
+.bgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:10px}
+.band{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--dim);padding:14px 16px}
+.band h3{font-size:17px}
+.band p{font-size:13.5px;color:var(--dim);margin-top:6px}
+/* red */
+.net{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:10px}
+.node{background:var(--panel);border:1px solid var(--line);padding:14px 16px}
+.node h3{font-size:16px}
+.node p{font-size:13.5px;color:var(--dim);margin-top:5px}
+.node .tag{font-family:ui-monospace,monospace;font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--gg)}
+/* timeline */
+#tiempo{position:relative;padding:44px 0}
+.year{position:relative;padding:8px 0 26px 84px;border-left:2px solid var(--line);margin-left:28px}
+.ylabel{position:absolute;left:-30px;top:8px;width:58px;height:58px;border-radius:50%;background:var(--panel2);border:2px solid var(--line);display:flex;align-items:center;justify-content:center;font-family:ui-monospace,monospace;font-size:14px;letter-spacing:.05em}
+.ylabel::after{content:"";position:absolute;width:8px;height:8px;border-radius:50%;background:var(--bg);border:1px solid var(--line)}
+.al{display:grid;grid-template-columns:4px 1fr auto;gap:0 14px;background:var(--panel);border:1px solid var(--line);margin-bottom:8px;padding:10px 14px 10px 0}
+.al .bar{background:var(--dim)}
+.al h4{font-size:15.5px;font-weight:600}
+.al h4 em{font-style:normal;color:var(--dim);font-weight:400;font-size:13px;margin-left:8px}
+.al p{font-size:13.5px;color:#b9b3a4;margin-top:3px;max-width:72ch}
+.al .c{font-family:ui-monospace,monospace;font-size:12px;color:var(--dim);white-space:nowrap;align-self:start;padding-top:2px}
+/* band coloring */
+[data-b=who] .bar{background:var(--who)} [data-b=npr] .bar{background:var(--npr)}
+[data-b=mb] .bar{background:var(--mb)} [data-b=pf] .bar{background:var(--pf)}
+[data-b=kc] .bar{background:var(--kc)} [data-b=gen] .bar{background:var(--gen)}
+[data-b=yes] .bar{background:var(--yes)} [data-b=elp] .bar{background:var(--elp)}
+[data-b=jt] .bar{background:var(--jt)} [data-b=vdgg] .bar{background:var(--vdgg)}
+[data-b=gg] .bar{background:var(--gg)} [data-b=car] .bar{background:var(--car)}
+[data-b=sm] .bar{background:var(--sm)} [data-b=cam] .bar{background:var(--cam)}
+[data-b=mo] .bar{background:var(--mo)} [data-b=app] .bar{background:var(--app)}
+[data-b=ap] .bar{background:var(--ap)}
+.band[data-b=who]{border-left-color:var(--who)} .band[data-b=npr]{border-left-color:var(--npr)}
+.band[data-b=mb]{border-left-color:var(--mb)} .band[data-b=pf]{border-left-color:var(--pf)}
+.band[data-b=kc]{border-left-color:var(--kc)} .band[data-b=gen]{border-left-color:var(--gen)}
+.band[data-b=yes]{border-left-color:var(--yes)} .band[data-b=elp]{border-left-color:var(--elp)}
+.band[data-b=jt]{border-left-color:var(--jt)} .band[data-b=vdgg]{border-left-color:var(--vdgg)}
+.band[data-b=gg]{border-left-color:var(--gg)} .band[data-b=car]{border-left-color:var(--car)}
+.band[data-b=sm]{border-left-color:var(--sm)} .band[data-b=cam]{border-left-color:var(--cam)}
+.band[data-b=mo]{border-left-color:var(--mo)} .band[data-b=app]{border-left-color:var(--app)}
+.band[data-b=ap]{border-left-color:var(--ap)}
+.chip[data-b=who] i{background:var(--who)} .chip[data-b=npr] i{background:var(--npr)}
+.chip[data-b=mb] i{background:var(--mb)} .chip[data-b=pf] i{background:var(--pf)}
+.chip[data-b=kc] i{background:var(--kc)} .chip[data-b=gen] i{background:var(--gen)}
+.chip[data-b=yes] i{background:var(--yes)} .chip[data-b=elp] i{background:var(--elp)}
+.chip[data-b=jt] i{background:var(--jt)} .chip[data-b=vdgg] i{background:var(--vdgg)}
+.chip[data-b=gg] i{background:var(--gg)} .chip[data-b=car] i{background:var(--car)}
+.chip[data-b=sm] i{background:var(--sm)} .chip[data-b=cam] i{background:var(--cam)}
+.chip[data-b=mo] i{background:var(--mo)} .chip[data-b=app] i{background:var(--app)}
+.chip[data-b=ap] i{background:var(--ap)}
+[data-b=rush] .bar{background:var(--rush)} [data-b=sup] .bar{background:var(--sup)}
+[data-b=elo] .bar{background:var(--elo)} [data-b=foc] .bar{background:var(--foc)}
+[data-b=ren] .bar{background:var(--ren)} [data-b=str] .bar{background:var(--str)}
+[data-b=ca] .bar{background:var(--ca)} [data-b=bjh] .bar{background:var(--bjh)}
+[data-b=sh] .bar{background:var(--sh)}
+.band[data-b=rush]{border-left-color:var(--rush)} .band[data-b=sup]{border-left-color:var(--sup)}
+.band[data-b=elo]{border-left-color:var(--elo)} .band[data-b=foc]{border-left-color:var(--foc)}
+.band[data-b=ren]{border-left-color:var(--ren)} .band[data-b=str]{border-left-color:var(--str)}
+.band[data-b=ca]{border-left-color:var(--ca)} .band[data-b=bjh]{border-left-color:var(--bjh)}
+.band[data-b=sh]{border-left-color:var(--sh)}
+.chip[data-b=rush] i{background:var(--rush)} .chip[data-b=sup] i{background:var(--sup)}
+.chip[data-b=elo] i{background:var(--elo)} .chip[data-b=foc] i{background:var(--foc)}
+.chip[data-b=ren] i{background:var(--ren)} .chip[data-b=str] i{background:var(--str)}
+.chip[data-b=ca] i{background:var(--ca)} .chip[data-b=bjh] i{background:var(--bjh)}
+.chip[data-b=sh] i{background:var(--sh)}
+footer{padding:40px 0 70px;color:var(--dim);font-size:14px}
+footer b{color:var(--ink)}
+@media(max-width:640px){.year{padding-left:56px;margin-left:20px}.ylabel{left:-24px;width:46px;height:46px;font-size:12px}.al{grid-template-columns:4px 1fr}.al .c{grid-column:2;padding:4px 0 0}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+
+<header><div class="wrap">
+  <p class="eyebrow">Fases 1–3 · 1966–presente · 26 artistas · 300+ álbumes (208 fichas de estudio 1966–80 + continuación completa en fichas y bloques)</p>
+  <h1>El Mapa del Prog <span>&amp; los álbumes conceptuales</span></h1>
+  <p class="lede">Cronología del rock progresivo británico y de los álbumes conceptuales que lo precedieron, con recepción comercial, análisis por disco y la red de productores, ingenieros, estudios y músicos que conecta todo entre sí.</p>
+  <div class="note"><b>Estado de los datos:</b> verificados contra fuentes (ago 2026): Dark Side of the Moon (fecha), King Crimson, Camel, Caravan, Jethro Tull, Gentle Giant (casi completo), Moody Blues (etapa central), ELO, Rush, Strawbs y Barclay James Harvest. Aún de memoria: Beatles/no-prog, The Who, Pink Floyd, Genesis, Yes, ELP, VdGG, Soft Machine, Oldfield, APP, Phillips, Supertramp, Focus, Renaissance, Curved Air, Hackett y toda la continuación 1981–presente. <b>s.d.</b> = sin dato fiable; «—» = no entró en listas.</div>
+</div></header>
+
+<nav class="filters"><div class="wrap"><div class="chips">
+  <button class="chip on" data-b="all" onclick="filt('all')">Todas</button>
+  <button class="chip" data-b="npr" onclick="filt('npr')"><i></i>Conceptuales no-prog</button>
+  <button class="chip" data-b="who" onclick="filt('who')"><i></i>The Who</button>
+  <button class="chip" data-b="mb" onclick="filt('mb')"><i></i>Moody Blues</button>
+  <button class="chip" data-b="pf" onclick="filt('pf')"><i></i>Pink Floyd</button>
+  <button class="chip" data-b="kc" onclick="filt('kc')"><i></i>King Crimson</button>
+  <button class="chip" data-b="gen" onclick="filt('gen')"><i></i>Genesis</button>
+  <button class="chip" data-b="yes" onclick="filt('yes')"><i></i>Yes</button>
+  <button class="chip" data-b="elp" onclick="filt('elp')"><i></i>ELP</button>
+  <button class="chip" data-b="jt" onclick="filt('jt')"><i></i>Jethro Tull</button>
+  <button class="chip" data-b="vdgg" onclick="filt('vdgg')"><i></i>Van der Graaf</button>
+  <button class="chip" data-b="gg" onclick="filt('gg')"><i></i>Gentle Giant</button>
+  <button class="chip" data-b="car" onclick="filt('car')"><i></i>Caravan</button>
+  <button class="chip" data-b="sm" onclick="filt('sm')"><i></i>Soft Machine</button>
+  <button class="chip" data-b="cam" onclick="filt('cam')"><i></i>Camel</button>
+  <button class="chip" data-b="mo" onclick="filt('mo')"><i></i>Mike Oldfield</button>
+  <button class="chip" data-b="app" onclick="filt('app')"><i></i>Alan Parsons Project</button>
+  <button class="chip" data-b="ap" onclick="filt('ap')"><i></i>Anthony Phillips</button>
+  <button class="chip" data-b="rush" onclick="filt('rush')"><i></i>Rush</button>
+  <button class="chip" data-b="sup" onclick="filt('sup')"><i></i>Supertramp</button>
+  <button class="chip" data-b="elo" onclick="filt('elo')"><i></i>ELO</button>
+  <button class="chip" data-b="foc" onclick="filt('foc')"><i></i>Focus</button>
+  <button class="chip" data-b="ren" onclick="filt('ren')"><i></i>Renaissance</button>
+  <button class="chip" data-b="str" onclick="filt('str')"><i></i>Strawbs</button>
+  <button class="chip" data-b="ca" onclick="filt('ca')"><i></i>Curved Air</button>
+  <button class="chip" data-b="bjh" onclick="filt('bjh')"><i></i>Barclay James Harvest</button>
+  <button class="chip" data-b="sh" onclick="filt('sh')"><i></i>Steve Hackett</button>
+</div></div></nav>
+
+<section class="block"><div class="wrap">
+  <h2>Los artistas y sus etapas</h2>
+  <p class="sub">Dos o tres frases por artista: qué eran, cómo mutaron, dónde está su mejor momento.</p>
+  <div class="bgrid">
+    <div class="band" data-b="npr"><h3>Los conceptuales no-prog</h3><p>Beatles, Pretty Things, Kinks y Small Faces inventaron el álbum como obra unitaria entre 1966 y 1969, sin la instrumentación ni la ambición formal del prog. Sin ellos no hay género: son el permiso.</p></div>
+    <div class="band" data-b="who"><h3>The Who</h3><p>El conceptualismo por la vía del pop art y la ópera rock. Etapas: mod (65-67), operística (69-73), confesional (75-78). Su motor fue la tensión Townshend/el resto; su cima estructural, Quadrophenia.</p></div>
+    <div class="band" data-b="mb"><h3>The Moody Blues</h3><p>El prólogo del prog sinfónico: orquesta por accidente en 1967, Mellotron después, misticismo pop siempre. Siete discos con la misma fórmula, decreciente en interés y creciente en ventas.</p></div>
+    <div class="band" data-b="pf"><h3>Pink Floyd</h3><p>De la psicodelia de Barrett (67-68) a la experimentación sin rumbo (69-72) al conceptualismo maduro de Waters (73-79). La banda que mejor entendió que el concepto debe oírse sin leer nada.</p></div>
+    <div class="band" data-b="kc"><h3>King Crimson</h3><p>Fundó el género en 1969 y lo abandonó dos veces. Etapas: sinfónica con Sinfield (69-71), improvisadora con Bruford/Wetton (73-74). Fripp como único eje; Red como testamento.</p></div>
+    <div class="band" data-b="gen"><h3>Genesis</h3><p>Teatro pastoral inglés. Etapas: formación (69-70), la banda clásica con Gabriel (71-74), transición con Collins (76-77), pop (78-80). Su virtud diferencial: letras que narran de verdad.</p></div>
+    <div class="band" data-b="yes"><h3>Yes</h3><p>La arquitectura sonora como fin. Ascenso (69-70), edad de oro (71-72), exceso (73-74), repliegue digno (77-80). Voces extraordinarias, letras vacías: la banda más física y menos literaria del género.</p></div>
+    <div class="band" data-b="elp"><h3>Emerson, Lake &amp; Palmer</h3><p>Virtuosismo como espectáculo. Cinco años de gloria (70-74), tres de descomposición (77-78). El emblema de todo lo que el punk vino a demoler, en parte con razón.</p></div>
+    <div class="band" data-b="jt"><h3>Jethro Tull</h3><p>Folk, blues y sarcasmo. Etapas: blues (68), consolidación (69-71), conceptual (72-73), repliegue (74-76), folk-rock (77-79). Thick as a Brick: la parodia que superó a lo parodiado.</p></div>
+    <div class="band" data-b="vdgg"><h3>Van der Graaf Generator</h3><p>El ala existencialista: saxo y órgano en vez de guitarras, Peter Hammill como letrista mayor del género. Dos vidas (69-71, 75-77), cero éxito británico, idolatría en Italia.</p></div>
+    <div class="band" data-b="gg"><h3>Gentle Giant</h3><p>Contrapunto real y polifonía renacentista: el ala académica, con Kerry Minnear como compositor formado. Cima 72-75, claudicación pop 77-80. Los más respetados y los menos escuchados.</p></div>
+    <div class="band" data-b="car"><h3>Caravan</h3><p>El Canterbury melódico: órgano fuzz, humor suave, canciones. Cima absoluta en 1971, declive amable después. La cara accesible de una escena que solía preferir lo difícil.</p></div>
+    <div class="band" data-b="sm"><h3>Soft Machine</h3><p>El otro polo de Canterbury: del dadaísmo psicodélico de Wyatt al jazz eléctrico instrumental. Cada dos discos es otra banda; Third (1970) es el documento central de la escena.</p></div>
+    <div class="band" data-b="cam"><h3>Camel</h3><p>Lirismo instrumental sin teatro. Cima 74-76 con la formación original; dilución progresiva después. The Snow Goose es su identidad entera en un solo disco.</p></div>
+    <div class="band" data-b="mo"><h3>Mike Oldfield</h3><p>El multiinstrumentista solitario: minimalismo aprendido de Bedford, ejecutado por capas. Trilogía inicial (73-75) intocable; después, repetición y giro pop.</p></div>
+    <div class="band" data-b="app"><h3>The Alan Parsons Project</h3><p>No es una banda: es un estudio con dos autores (Parsons produce, Woolfson escribe) y personal contratado. Prog llegando tarde, salvado por una producción superior a la de casi todos sus contemporáneos.</p></div>
+    <div class="band" data-b="ap"><h3>Anthony Phillips</h3><p>El fundador que se fue de Genesis en 1970 y reapareció en 1977 convertido en compositor de cámara pastoral. Carrera de culto, financiada a pulso, sin un solo gesto comercial que le haya funcionado.</p></div>
+    <div class="band" data-b="rush"><h3>Rush</h3><p>La herencia canadiense: tomaron el prog inglés y lo volvieron tocable en estadios. De imitadores de Zeppelin (74) a 2112 (76) a la síntesis perfecta de Moving Pictures (81) y la reinvención sintética de los 80. Cuarenta años sin un solo cambio de formación desde Peart.</p></div>
+    <div class="band" data-b="sup"><h3>Supertramp</h3><p>Prog-pop con dos compositores en tensión permanente (Davies el amargo, Hodgson el luminoso). De la quiebra financiada por un mecenas a Breakfast in America: la salida pop mejor ejecutada del género.</p></div>
+    <div class="band" data-b="elo"><h3>Electric Light Orchestra</h3><p>Nacieron para continuar el barroco de los Beatles con chelos y terminaron siendo la mejor máquina pop de fines de los setenta. Su credencial prog es temprana y parcial: Eldorado.</p></div>
+    <div class="band" data-b="foc"><h3>Focus</h3><p>Holanda en el mapa: Akkerman y van Leer, virtuosismo de conservatorio con humor absurdo. La prueba de que el prog continental podía competir en las listas anglosajonas.</p></div>
+    <div class="band" data-b="ren"><h3>Renaissance</h3><p>Dos bandas con el mismo nombre: la de Relf y McCarty (ex Yardbirds, 69-71) y la sinfónica de Annie Haslam (72-79), que es la que importa: piano, orquesta y una voz de tres octavas.</p></div>
+    <div class="band" data-b="str"><h3>Strawbs</h3><p>Del folk con Sandy Denny al prog eléctrico con Mellotron. Cima 72-75 (Grave New World, Bursting at the Seams); Wakeman pasó por aquí antes de Yes: la red, otra vez.</p></div>
+    <div class="band" data-b="ca"><h3>Curved Air</h3><p>Violín eléctrico, sintetizador VCS3 y Sonja Kristina al frente en un género de varones. Semillero improbable: de aquí salieron Eddie Jobson y Stewart Copeland.</p></div>
+    <div class="band" data-b="bjh"><h3>Barclay James Harvest</h3><p>El prog sinfónico de clase obrera de Oldham: Mellotron, melodía y la etiqueta cruel de «los Moody Blues de los pobres», que convirtieron en chiste propio. Enormes en Alemania, invisibles en casa.</p></div>
+    <div class="band" data-b="sh"><h3>Steve Hackett (solista)</h3><p>La carrera que Genesis no le dejó tener adentro. Voyage of the Acolyte (75, con dos Genesis de sesión) fue el puente; Spectral Mornings, el destino. Del neoprog de los 80 en adelante, medio género le debe.</p></div>
+  </div>
+</div></section>
+
+<section class="block"><div class="wrap">
+  <h2>La red</h2>
+  <p class="sub">Las personas y lugares que conectan proyectos entre sí. Esto es lo que pediste ver: el género fue un pueblo chico.</p>
+  <div class="net">
+    <div class="node"><span class="tag">Ingeniero / Productor</span><h3>Eddy Offord</h3><p>Ingeniero y coproductor simultáneo de Yes y ELP en Advision: Tarkus, The Yes Album, Fragile, Close to the Edge. El sonido de dos gigantes salió de las mismas manos y la misma sala.</p></div>
+    <div class="node"><span class="tag">Productor</span><h3>David Hitchcock</h3><p>Produjo In the Land of Grey and Pink y Cunning Stunts (Caravan), Foxtrot (Genesis, 72) y The Snow Goose (Camel, 75). Tres bandas distintas, un mismo nombre repetido en los créditos de sus cimas.</p></div>
+    <div class="node"><span class="tag">Arreglador</span><h3>David Bedford</h3><p>Arreglador de Kevin Ayers, mentor de Oldfield en The Whole World, orquestador de The Snow Goose y autor de la versión orquestal de Tubular Bells. El puente entre la academia y el prog.</p></div>
+    <div class="node"><span class="tag">Ingeniero / Productor</span><h3>Tom Newman</h3><p>Coprodujo Tubular Bells en The Manor y luego grabó The Geese &amp; the Ghost desde su estudio flotante en el Támesis. Especialista en discos hechos sin dinero.</p></div>
+    <div class="node"><span class="tag">Ingeniero → Autor</span><h3>Alan Parsons</h3><p>Abbey Road con los Beatles → ingeniero de The Dark Side of the Moon → su propio Project. El único caso del género donde el ingeniero se convirtió en la marca.</p></div>
+    <div class="node"><span class="tag">Baterista</span><h3>Bill Bruford</h3><p>Yes (68-72) → se va tras Close to the Edge a King Crimson (72-74) → gira de Genesis en 1976 junto a Collins → UK. El músico que siempre eligió interés sobre dinero.</p></div>
+    <div class="node"><span class="tag">Bajista / Cantante</span><h3>Greg Lake</h3><p>King Crimson (69) → funda ELP (70), pero vuelve a cantar casi todo In the Wake of Poseidon ya estando fuera. Produjo los primeros ELP él mismo.</p></div>
+    <div class="node"><span class="tag">Bajista / Cantante</span><h3>John Wetton</h3><p>Family → King Crimson (72-74) → Roxy Music → UK (con Bruford) → Asia (81, con Howe de Yes, Palmer de ELP y Downes de Yes/Buggles). La red entera en una sola carrera.</p></div>
+    <div class="node"><span class="tag">Baterista / Cantante</span><h3>Phil Collins</h3><p>Genesis desde 1970, Brand X en paralelo, batería y voz en The Geese &amp; the Ghost y en el debut solista de Steve Hackett. El sesionista más ocupado de esta red antes de ser estrella.</p></div>
+    <div class="node"><span class="tag">Hermanos</span><h3>Steve y John Hackett</h3><p>Steve: guitarrista de Genesis 71-77. John: flautista en Voyage of the Acolyte y en God If I Saw Her Now de Phillips. La familia como circuito de sesión.</p></div>
+    <div class="node"><span class="tag">Bajista / Cantante</span><h3>Richard Sinclair</h3><p>Caravan (68-72) → Hatfield and the North → Camel (77-78). La voz que une el Canterbury melódico con el Camel tardío.</p></div>
+    <div class="node"><span class="tag">Pianista invitado</span><h3>Keith Tippett</h3><p>Jazzista libre que Fripp injertó en Poseidon, Lizard e Islands. La puerta por donde el free jazz entró a King Crimson.</p></div>
+    <div class="node"><span class="tag">Ilustrador</span><h3>Roger Dean</h3><p>Logo y paisajes de Yes, el pulpo embotellado de Octopus (Gentle Giant), luego Asia. No confundir con Roger Deakins, el director de fotografía: solo comparten casi-apellido.</p></div>
+    <div class="node"><span class="tag">Estudio de diseño</span><h3>Hipgnosis</h3><p>Storm Thorgerson y Aubrey Powell: tapas de Pink Floyd (el prisma, los hombres en llamas), Genesis 76-78, y media discografía británica de la década.</p></div>
+    <div class="node"><span class="tag">Sello / Mecenas</span><h3>Charisma · Tony Stratton-Smith</h3><p>El sello que bancó a Genesis y Van der Graaf cuando no vendían nada. Sin Stratton-Smith, la mitad de este mapa no existe.</p></div>
+    <div class="node"><span class="tag">Estudios</span><h3>Advision · Trident · Abbey Road · The Manor</h3><p>Los cuatro nodos físicos: Advision (Yes, ELP, Gentle Giant), Trident (Genesis, Queen), Abbey Road (Beatles, Floyd, APP), The Manor (Branson: Tubular Bells, y el modelo de estudio residencial).</p></div>
+    <div class="node"><span class="tag">Letrista</span><h3>Peter Sinfield</h3><p>Letrista fundador de King Crimson (69-71) → productor del debut de Roxy Music → letras inglesas para PFM en Manticore → letras de ELP en Works. El exportador oficial del idioma prog; terminó escribiendo hits pop en los ochenta, que es su chiste final.</p></div>
+    <div class="node"><span class="tag">Tecladista</span><h3>Dave Stewart</h3><p>Egg → Hatfield and the North → National Health → Bruford (la banda). El eje instrumental de todo el Canterbury tardío; en los ochenta tuvo un nº 1 británico de pop con Barbara Gaskin, porque esta historia siempre remata así.</p></div>
+    <div class="node"><span class="tag">Sello</span><h3>Virgin Records</h3><p>Fundado sobre Tubular Bells (V2001) y poblado de inmediato con Gong, Faust (The Faust Tapes a 49 peniques), Tangerine Dream y Hillage: durante tres años, el sello fue literalmente un mapa de este documento. Branson vendió todo a EMI en 1992; el imperio empezó aquí.</p></div>
+    <div class="node"><span class="tag">Sello / Mecenas</span><h3>Manticore</h3><p>El sello de ELP, bautizado por la criatura que mata a Tarkus. Distribuyó a PFM y a Banco en el mundo anglosajón: la puerta de entrada del prog italiano, con Sinfield de traductor. Ninguna otra banda del género montó una aduana cultural propia.</p></div>
+  </div>
+</div></section>
+
+<main id="tiempo"><div class="wrap">
+  <h2>Línea de tiempo · 1966–presente</h2>
+  <p class="sub">Era clásica (1966–1980) año por año con fichas individuales; continuación (1981–hoy) por bloques de época. Filtrá por banda arriba.</p>
+
+  <div class="year"><span class="ylabel">1966</span>
+    <article class="al" data-b="npr"><span class="bar"></span><div><h4>Revolver <em>The Beatles</em></h4><p>El umbral: el estudio como instrumento y «Tomorrow Never Knows» como semilla de toda la psicodelia inglesa. No es conceptual; es el permiso técnico.</p></div><span class="c">UK 1 · US 1</span></article>
+    <article class="al" data-b="who"><span class="bar"></span><div><h4>A Quick One <em>The Who</em></h4><p>Contiene la primera «mini-ópera» («A Quick One While He's Away», 9 minutos): el ensayo directo de Tommy. El resto, pop mod desigual.</p></div><span class="c">UK 4</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1967</span>
+    <article class="al" data-b="npr"><span class="bar"></span><div><h4>Sgt. Pepper's Lonely Hearts Club Band <em>The Beatles</em></h4><p>El disco que legitimó el álbum como obra unitaria. Su concepto real es delgado (la banda ficticia dura dos canciones); su influencia fue total. Sin esto no hay industria dispuesta a financiar Tommy ni Tarkus.</p></div><span class="c">UK 1 · US 1</span></article>
+    <article class="al" data-b="npr"><span class="bar"></span><div><h4>Magical Mystery Tour <em>The Beatles</em></h4><p>Sobras psicodélicas muy superiores a la película que las justificaba. «I Am the Walrus» como método: el sinsentido cantado con total convicción.</p></div><span class="c">US 1</span></article>
+    <article class="al" data-b="who"><span class="bar"></span><div><h4>The Who Sell Out <em>The Who</em></h4><p>Pop art radial: jingles reales de Radio London, publicidad como canción, elegía involuntaria a las piratas recién clausuradas. «I Can See for Miles» adentro. Ya discutido en detalle.</p></div><span class="c">UK 13 · US 48</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>Days of Future Passed <em>The Moody Blues</em></h4><p>Nació como demo estéreo para Deram con orquesta obligada por contrato y terminó fundando el prog sinfónico. «Nights in White Satin». El accidente más influyente del género.</p></div><span class="c">UK 27 · US 3</span></article>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>The Piper at the Gates of Dawn <em>Pink Floyd</em></h4><p>Barrett en estado puro: psicodelia de cuento infantil inglés con improvisación espacial. Todavía no es prog; es la materia prima.</p></div><span class="c">UK 6</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1968</span>
+    <article class="al" data-b="npr"><span class="bar"></span><div><h4>S.F. Sorrow <em>The Pretty Things</em></h4><p>La primera ópera rock completa: nacimiento, guerra, duelo y locura de un solo personaje. Llegó un año antes que Tommy y no la escuchó casi nadie. La prueba de que el mérito histórico y el impacto son cosas distintas.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="npr"><span class="bar"></span><div><h4>The Village Green Preservation Society <em>The Kinks</em></h4><p>Concepto pastoral: la Inglaterra de pueblo que desaparecía, cantada sin ironía. Fracaso comercial absoluto en su momento, canon indiscutido después.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="npr"><span class="bar"></span><div><h4>Ogdens' Nut Gone Flake <em>Small Faces</em></h4><p>Lado B narrado por Stanshall... no: por Stanley Unwin y su idioma inventado, contando un cuento absurdo. Lata de tabaco como portada circular. El concepto como juguete.</p></div><span class="c">UK 1</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>In Search of the Lost Chord <em>The Moody Blues</em></h4><p>Fuera la orquesta, adentro el Mellotron de Pinder: la solución barata que definió el sonido de todo el género. Misticismo de divulgación («Om», Timothy Leary).</p></div><span class="c">UK 5 · US 23</span></article>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>A Saucerful of Secrets <em>Pink Floyd</em></h4><p>La transición exacta: Barrett sale, Gilmour entra, y el tema título anticipa la arquitectura por secciones de todo lo que harían después.</p></div><span class="c">UK 9</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>This Was <em>Jethro Tull</em></h4><p>Blues con flauta, con Mick Abrahams todavía al mando. Título honesto: Anderson ya sabía que esto «era», no «es».</p></div><span class="c">UK 10</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>Caravan <em>Caravan</em></h4><p>Canterbury fundacional junto a Soft Machine (ambas salen de los Wilde Flowers). Psicodelia suave con el órgano ya en el centro.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>The Soft Machine <em>Soft Machine</em></h4><p>Dadaísmo psicodélico grabado en Nueva York durante la gira con Hendrix. Wyatt cantando sobre métrica impar como si fuera pop.</p></div><span class="c">—</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1969</span>
+    <article class="al" data-b="npr"><span class="bar"></span><div><h4>Abbey Road <em>The Beatles</em></h4><p>El medley del lado B es proto-prog operativo: suite construida por ensamblaje de fragmentos, exactamente el método de «Supper's Ready» tres años antes. Parsons de asistente en la sala.</p></div><span class="c">UK 1 · US 1</span></article>
+    <article class="al" data-b="npr"><span class="bar"></span><div><h4>Arthur (Or the Decline and Fall of the British Empire) <em>The Kinks</em></h4><p>Ópera para un especial de TV que la TV canceló. Clase obrera, imperio y desencanto: la letra social que el prog casi nunca quiso escribir, salvo Genesis y Quadrophenia.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="who"><span class="bar"></span><div><h4>Tommy <em>The Who</em></h4><p>La ópera rock canónica: trauma, mesianismo y abandono como alegoría de Meher Baba. Trama con agujeros, impacto total. Ya discutido en detalle.</p></div><span class="c">UK 2 · US 4</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>On the Threshold of a Dream <em>The Moody Blues</em></h4><p>La fórmula asentada y su primer nº 1 británico. Bella, previsible, idéntica a sí misma.</p></div><span class="c">UK 1 · US 20</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>To Our Children's Children's Children <em>The Moody Blues</em></h4><p>Concepto espacial inspirado en la llegada a la Luna, inaugurando su sello Threshold. Su disco más cohesivo; el que defendería ante un escéptico.</p></div><span class="c">UK 2 · US 14</span></article>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>More <em>Pink Floyd</em></h4><p>Banda sonora menor con momentos («Cymbaline»). Interesa como registro de una banda buscando qué ser sin Barrett.</p></div><span class="c">UK 9</span></article>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>Ummagumma <em>Pink Floyd</em></h4><p>Mitad directo esencial, mitad experimentos solistas que ni ellos defienden. El documento del rumbo perdido.</p></div><span class="c">UK 5 · US 74</span></article>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>In the Court of the Crimson King <em>King Crimson</em></h4><p>El acta fundacional: Mellotron, paranoia, «21st Century Schizoid Man» y «Epitaph». Todo lo que el género fue durante cinco años está aquí primero. La banda se desintegró de inmediato.</p></div><span class="c">UK 5 · US 28</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>From Genesis to Revelation <em>Genesis</em></h4><p>Adolescentes producidos por Jonathan King como unos Bee Gees con orquesta encima. Curiosidad arqueológica; la banda reniega de él con razón.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Yes <em>Yes</em></h4><p>Covers ampliados y entusiasmo vocal. La identidad está a medio formar; el bajo de Squire ya no.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Stand Up <em>Jethro Tull</em></h4><p>Anderson toma el control total y aparece el Tull real: folk, jazz y Bach («Bourée»). Nº 1 británico con portada desplegable de muñecos.</p></div><span class="c">UK 1 · US 20</span></article>
+    <article class="al" data-b="vdgg"><span class="bar"></span><div><h4>The Aerosol Grey Machine <em>Van der Graaf Generator</em></h4><p>Debut que era un disco solista de Hammill reconvertido en disco de banda por enredo contractual. Embrionario.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>Volume Two <em>Soft Machine</em></h4><p>Suite absurda y virtuosa con Hugh Hopper ya adentro. El humor dadá de Wyatt sostenido sobre escritura seria: la esencia Canterbury.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="ren"><span class="bar"></span><div><h4>Renaissance <em>Renaissance</em></h4><p>Fundada por Keith Relf y Jim McCarty al salir de los Yardbirds: folk-clásico embrionario, otra banda que la que vendría.</p></div><span class="c">UK 60 s.d.</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Strawbs <em>Strawbs</em></h4><p>Folk con cuerdas; Sandy Denny acababa de irse a Fairport Convention. Prehistoria elegante.</p></div><span class="c">—</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1970</span>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>Atom Heart Mother <em>Pink Floyd</em></h4><p>Suite orquestal con coro que la propia banda repudió después («un montón de basura», Waters). Primer nº 1 y callejón sin salida a la vez.</p></div><span class="c">UK 1 · US 55</span></article>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>In the Wake of Poseidon <em>King Crimson</em></h4><p>El remake de crisis: banda disuelta, Lake cantando ya fuera, estructura calcada del debut. Ya discutido. «Cat Food» como única pista del futuro.</p></div><span class="c">UK 4 · US 31</span></article>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>Lizard <em>King Crimson</em></h4><p>Jazz orquestado impenetrable, con Jon Anderson de Yes invitado en la suite. El más difícil de amar de la etapa Sinfield; Fripp mismo tardó décadas en reconciliarse con él.</p></div><span class="c">UK 26 · US 113</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>Trespass <em>Genesis</em></h4><p>El molde pastoral/dramático aparece («The Knife»). Último disco de Anthony Phillips, cuya salida casi disuelve la banda. Éxito solo en Bélgica e Italia.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Time and a Word <em>Yes</em></h4><p>Orquesta que estorba y una banda peleándose con ella. Banks se va antes de la publicación. Ensayo fallido pero necesario.</p></div><span class="c">UK 45</span></article>
+    <article class="al" data-b="elp"><span class="bar"></span><div><h4>Emerson, Lake &amp; Palmer <em>ELP</em></h4><p>El supergrupo se presenta: Moog, Bartók electrificado y «Lucky Man» de contrabando. La plantilla del virtuosismo como espectáculo.</p></div><span class="c">UK 4 · US 18</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Benefit <em>Jethro Tull</em></h4><p>Oscuro, eléctrico, subvalorado. El puente directo hacia Aqualung.</p></div><span class="c">UK 3 · US 11</span></article>
+    <article class="al" data-b="vdgg"><span class="bar"></span><div><h4>The Least We Can Do Is Wave to Each Other <em>Van der Graaf Generator</em></h4><p>La banda real aparece: saxo de Jackson y órgano de Banton ocupando el lugar de las guitarras. «Refugees» como su lado tierno, que existía.</p></div><span class="c">UK 47</span></article>
+    <article class="al" data-b="vdgg"><span class="bar"></span><div><h4>H to He, Who Am the Only One <em>Van der Graaf Generator</em></h4><p>Ciencia, soledad y el primer cameo de Fripp. El sonido VdGG completo: agresión y filosofía en el mismo compás.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>Gentle Giant <em>Gentle Giant</em></h4><p>Debut con manifiesto impreso: expandir las fronteras de la música popular a riesgo de volverse muy impopulares. Cumplieron ambas cláusulas. Producción de Tony Visconti —el de Bowie y T. Rex—, también en el siguiente.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>If I Could Do It All Over Again, I'd Do It All Over You <em>Caravan</em></h4><p>El sonido Canterbury definido: órgano con fuzz, ingenio verbal, ligereza que disimula la complejidad.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>Third <em>Soft Machine</em></h4><p>Doble instrumental: cuatro caras, cuatro mundos, y «Moon in June» como último bastión del Wyatt cantante. El documento central de toda la escena de Canterbury.</p></div><span class="c">UK 18</span></article>
+    <article class="al" data-b="sup"><span class="bar"></span><div><h4>Supertramp <em>Supertramp</em></h4><p>Debut financiado por un mecenas millonario holandés (Stanley Miesegaes). No lo compró casi nadie; el mecenas aguantó un disco más.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="foc"><span class="bar"></span><div><h4>In and Out of Focus <em>Focus</em></h4><p>Debut holandés: Akkerman y van Leer se encuentran; el sonido todavía no.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="ca"><span class="bar"></span><div><h4>Air Conditioning <em>Curved Air</em></h4><p>El primer picture-disc de la historia como truco de lanzamiento; violín de Darryl Way, Sonja Kristina al frente. Top 10 británico de entrada.</p></div><span class="c">UK 8</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Dragonfly <em>Strawbs</em></h4><p>Folk de cámara; el último disco antes del giro eléctrico.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Just a Collection of Antiques and Curios <em>Strawbs</em></h4><p>En vivo en el Queen Elizabeth Hall con un Rick Wakeman pre-Yes robándose las reseñas al piano.</p></div><span class="c">UK 27</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>Barclay James Harvest <em>Barclay James Harvest</em></h4><p>Debut con orquesta propia de gira: la ambición instalada antes que el presupuesto.</p></div><span class="c">—</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1971</span>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>Meddle <em>Pink Floyd</em></h4><p>«Echoes» ocupa un lado entero y es donde nace el Floyd maduro: construcción larga con destino emocional, no con destino técnico.</p></div><span class="c">UK 3 · US 70</span></article>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>Islands <em>King Crimson</em></h4><p>Frágil, irregular, con momentos de belleza rara. Fin de la era Sinfield; Fripp echa a todos y empieza de nuevo.</p></div><span class="c">UK 30 · US 76</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>Nursery Cryme <em>Genesis</em></h4><p>Entran Collins y Hackett: la formación clásica. Violencia victoriana con croquet («The Musical Box»). Fracasa en casa, triunfa en Italia: dato que salvó a la banda.</p></div><span class="c">UK 39 (en 1974)</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>The Yes Album <em>Yes</em></h4><p>Entra Howe y nace el Yes real: «Starship Trooper», «Yours Is No Disgrace». Offord en la consola. Todo lo anterior queda como prehistoria.</p></div><span class="c">UK 4 · US 40</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Fragile <em>Yes</em></h4><p>Llega Wakeman y llega «Roundabout». Las viñetas solistas son relleno confeso (disco hecho a apuro por deudas), pero el material grupal es de primera. Primera tapa de Roger Dean.</p></div><span class="c">UK 7 · US 4</span></article>
+    <article class="al" data-b="elp"><span class="bar"></span><div><h4>Tarkus <em>ELP</em></h4><p>El armadillo-tanque: suite de 20 minutos que casi rompe la banda antes de existir, más un lado B de bocetos. Ya discutido en detalle.</p></div><span class="c">UK 1 · US 9</span></article>
+    <article class="al" data-b="elp"><span class="bar"></span><div><h4>Pictures at an Exhibition <em>ELP</em></h4><p>Mussorgsky electrificado en vivo: la tesis entera de la banda en 40 minutos. O te parece una profanación o una fiesta; no hay término medio y eso era el punto.</p></div><span class="c">UK 3 · US 10</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Aqualung <em>Jethro Tull</em></h4><p>Himnos contra la religión organizada y retratos de marginales. Anderson insiste en que no es conceptual; nadie le creyó nunca, y de esa irritación nació el disco siguiente.</p></div><span class="c">UK 4 · US 7</span></article>
+    <article class="al" data-b="vdgg"><span class="bar"></span><div><h4>Pawn Hearts <em>Van der Graaf Generator</em></h4><p>«A Plague of Lighthouse-Keepers»: 23 minutos de existencialismo marítimo. Nada en las listas británicas y nº 1 en Italia, donde los recibían como a los Beatles. Su cumbre.</p></div><span class="c">— UK · 1 Italia</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>Acquiring the Taste <em>Gentle Giant</em></h4><p>El título es el aviso: su disco más experimental, hecho para adquirirle el gusto. Instrumentación de conservatorio sobre rock que no busca agradar.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>In the Land of Grey and Pink <em>Caravan</em></h4><p>La obra maestra del Canterbury melódico: «Nine Feet Underground» ocupa un lado y no sobra un minuto. Producción de Hitchcock, un año antes de Foxtrot. Vendió poco; hoy es canon.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>Fourth <em>Soft Machine</em></h4><p>Jazz eléctrico puro, ya sin canto. Wyatt se va después: la banda pierde el humor y gana abstracción, y esa fue la disyuntiva de todo Canterbury.</p></div><span class="c">UK 32</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>The Electric Light Orchestra (No Answer) <em>ELO</em></h4><p>El plan de Roy Wood: continuar donde «I Am the Walrus» quedó. Chelos crudos, caos hermoso, y el título americano nacido de un recado telefónico mal anotado.</p></div><span class="c">UK 32 · US 196</span></article>
+    <article class="al" data-b="sup"><span class="bar"></span><div><h4>Indelibly Stamped <em>Supertramp</em></h4><p>Segundo intento fallido; el mecenas se retira y la banda se disuelve de hecho. Nada aquí anticipa lo que viene.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="foc"><span class="bar"></span><div><h4>Moving Waves <em>Focus</em></h4><p>«Hocus Pocus»: yodel, flauta y el riff más improbable en conquistar la radio americana. El prog continental entra al mercado anglo por la puerta grande.</p></div><span class="c">UK 2 · US 8</span></article>
+    <article class="al" data-b="ren"><span class="bar"></span><div><h4>Illusion <em>Renaissance</em></h4><p>El puente: la formación original se deshace mientras lo graba. Editado primero solo en Alemania.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>From the Witchwood <em>Strawbs</em></h4><p>Wakeman se va a Yes al terminarlo, reclutado tras una reseña elogiosa: la red operando en tiempo real.</p></div><span class="c">UK 39</span></article>
+    <article class="al" data-b="ca"><span class="bar"></span><div><h4>Second Album <em>Curved Air</em></h4><p>«Back Street Luv» llega al top 5 de singles: prog con hit, rareza absoluta del año.</p></div><span class="c">UK 11</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>Once Again <em>Barclay James Harvest</em></h4><p>«Mockingbird», su clásico perenne: Mellotron pastoral en estado puro.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>...And Other Short Stories <em>Barclay James Harvest</em></h4><p>Tercer disco con orquesta a cuestas; bello y deficitario.</p></div><span class="c">—</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1972</span>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>Obscured by Clouds <em>Pink Floyd</em></h4><p>Banda sonora subvalorada, seca y directa, grabada en pausas de la gestación de Dark Side. El ensayo general que nadie mira.</p></div><span class="c">UK 6 · US 46</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>Foxtrot <em>Genesis</em></h4><p>«Supper's Ready» y «Get 'Em Out by Friday»: el año en que el concepto sí se ejecuta. El vestido rojo y la cabeza de zorro en Dublín cambian el destino comercial de la banda. Ya discutido.</p></div><span class="c">UK 12</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Close to the Edge <em>Yes</em></h4><p>La cima del género según este documento: dieciocho minutos que justifican su duración, ensamblados con navaja por Offord. Bruford se va al terminar, rumbo a Crimson. Ya discutido.</p></div><span class="c">UK 4 · US 3</span></article>
+    <article class="al" data-b="elp"><span class="bar"></span><div><h4>Trilogy <em>ELP</em></h4><p>Su disco más musical y menos agresivo: «From the Beginning», Copland adaptado. El ELP que casi convence a los que no los soportan.</p></div><span class="c">UK 2 · US 5</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Thick as a Brick <em>Jethro Tull</em></h4><p>La parodia del álbum conceptual —un solo tema, letra atribuida a un niño ficticio, portada-periódico de doce páginas— que terminó siendo el mejor álbum conceptual. Nº 1 en EE.UU.: el chiste que nadie leyó como chiste.</p></div><span class="c">UK 5 · US 1</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>Seventh Sojourn <em>The Moody Blues</em></h4><p>Nº 1 americano y agotamiento elegante. Después, cinco años de silencio: la fórmula ya no daba más y tuvieron la lucidez de notarlo.</p></div><span class="c">UK 5 · US 1</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>Every Good Boy Deserves Favour <em>The Moody Blues</em> · 1971</h4><p>(Corresponde a 1971; listado aquí por compactación de la etapa final.) La fórmula en piloto automático de lujo. Nº 1 UK, nº 2 US.</p></div><span class="c">UK 1 · US 2</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>A Question of Balance <em>The Moody Blues</em> · 1970</h4><p>(Corresponde a 1970.) Simplificado a propósito para poder tocarse en vivo. El más rockero del ciclo.</p></div><span class="c">UK 1 · US 3</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>Three Friends <em>Gentle Giant</em></h4><p>Concepto real: tres amigos de escuela separados por la clase social — el obrero, el artista, el oficinista. La conciencia de clase que el prog casi siempre esquivó.</p></div><span class="c">US 197</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>Octopus <em>Gentle Giant</em></h4><p>Ocho piezas, ocho patas: Rabelais, R.D. Laing y una fuga vocal que es literalmente un nudo. Cima de artesanía, último disco de Phil Shulman. Ya discutido.</p></div><span class="c">s.d. · US ~170</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>Waterloo Lily <em>Caravan</em></h4><p>Giro jazz divisivo con Steve Miller (el pianista inglés, no el americano). Los fans lo discuten desde hace cincuenta años; la banda lo corrigió al disco siguiente.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>Fifth <em>Soft Machine</em></h4><p>Sin Wyatt: abstracción fría y competente. El nombre sigue; el espíritu ya es otro.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="ren"><span class="bar"></span><div><h4>Prologue <em>Renaissance</em></h4><p>La banda real empieza: Annie Haslam al frente, cero miembros originales. El título es literal.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Grave New World <em>Strawbs</em></h4><p>El salto: folk-rock eléctrico con órgano y Mellotron de Blue Weaver. Su disco más ambicioso y su entrada al top 15.</p></div><span class="c">UK 11 · US 191</span></article>
+    <article class="al" data-b="ca"><span class="bar"></span><div><h4>Phantasmagoria <em>Curved Air</em></h4><p>El último de la formación clásica antes del éxodo general.</p></div><span class="c">UK 20</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>Baby James Harvest <em>Barclay James Harvest</em></h4><p>La orquesta los estaba fundiendo; cierre agotado de la primera etapa.</p></div><span class="c">—</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1973</span>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>The Dark Side of the Moon <em>Pink Floyd</em></h4><p>El concepto (presión, tiempo, dinero, locura) ejecutado sin un minuto de desperdicio y audible sin leer nada. Parsons en la consola. El techo comercial de toda esta historia.</p></div><span class="c">UK 2 · US 1</span></article>
+    <article class="al" data-b="who"><span class="bar"></span><div><h4>Quadrophenia <em>The Who</em></h4><p>Jimmy, los mods y las cuatro personalidades: el sistema de temas recurrentes más riguroso del conceptualismo rock. Producción tormentosa, gira desastrosa, reputación creciente. Ya discutido.</p></div><span class="c">UK 2 · US 2</span></article>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>Larks' Tongues in Aspic <em>King Crimson</em></h4><p>Renacimiento total: Bruford, Wetton, Muir, Cross. Metal de cámara e improvisación; nada que ver con la era Mellotron. La segunda fundación de la banda.</p></div><span class="c">UK 20 · US 61</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>Selling England by the Pound <em>Genesis</em></h4><p>El equilibrio perfecto entre letra, guitarra y teatro: «Firth of Fifth», «The Cinema Show». Si hay que elegir un solo Genesis, es este.</p></div><span class="c">UK 3 · US 70</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Tales from Topographic Oceans <em>Yes</em></h4><p>Cuatro caras sobre una nota al pie de un libro de yoga. Nº 1 británico y el límite del género tocado con las dos manos: Wakeman lo detestó y se fue. El disco que el punk hubiera inventado si no existiera.</p></div><span class="c">UK 1 · US 6</span></article>
+    <article class="al" data-b="elp"><span class="bar"></span><div><h4>Brain Salad Surgery <em>ELP</em></h4><p>Giger en la portada, «Karn Evil 9» adentro: el pico absoluto y el borde del abismo en el mismo disco. Después de esto, solo quedaba la caricatura.</p></div><span class="c">UK 2 · US 11</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>A Passion Play <em>Jethro Tull</em></h4><p>La jugada de Thick as a Brick repetida sin el humor. La crítica británica lo ejecutó en plaza pública; nº 1 americano igual. Mejor de lo que dijo su prensa, peor que su modelo.</p></div><span class="c">UK 13 · US 1</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>For Girls Who Grow Plump in the Night <em>Caravan</em></h4><p>Regreso al molde con la viola de Geoffrey Richardson como color nuevo. El último Caravan plenamente vigente.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>Six <em>Soft Machine</em></h4><p>Mitad directo, mitad estudio; Karl Jenkins asciende al mando (sí, el futuro autor de Adiemus: la historia tiene humor).</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>Seven <em>Soft Machine</em></h4><p>Transición pulida hacia el fusion pleno. Correcto, olvidable.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>Camel <em>Camel</em></h4><p>Debut competente sin identidad plena: los materiales están, el punto de vista todavía no.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Tubular Bells <em>Mike Oldfield</em></h4><p>Un adolescente, veinte instrumentos, dieciséis pistas y el tiempo muerto de The Manor. Fundó Virgin y, vía El exorcista, conquistó América por accidente. Ya discutido.</p></div><span class="c">UK 1 · US 3</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>ELO 2 <em>ELO</em></h4><p>Wood se fue a los meses de fundar la banda; Lynne toma el mando. «Roll Over Beethoven» con Beethoven citado adentro: la declaración de método.</p></div><span class="c">UK 35 · US 62</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>On the Third Day <em>ELO</em></h4><p>Transición: el formato canción va ganándole terreno al experimento.</p></div><span class="c">US 52</span></article>
+    <article class="al" data-b="foc"><span class="bar"></span><div><h4>Focus 3 <em>Focus</em></h4><p>Doble con «Sylvia»: el pico comercial del prog continental en el mundo anglosajón.</p></div><span class="c">UK 6 · US 35</span></article>
+    <article class="al" data-b="ren"><span class="bar"></span><div><h4>Ashes Are Burning <em>Renaissance</em></h4><p>El molde clásico completo: piano de Tout, orquesta y la voz de tres octavas de Haslam.</p></div><span class="c">US 171</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Bursting at the Seams <em>Strawbs</em></h4><p>«Part of the Union», himno sindical convertido en hit número 2 de singles: su techo comercial, y la grieta que partió a la banda en dos.</p></div><span class="c">UK 2 · US 121</span></article>
+    <article class="al" data-b="ca"><span class="bar"></span><div><h4>Air Cut <em>Curved Air</em></h4><p>Entra un Eddie Jobson de dieciocho años, futuro Roxy Music, UK y Zappa: otro nodo de la red debutando aquí.</p></div><span class="c">—</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1974</span>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>Starless and Bible Black <em>King Crimson</em></h4><p>Mitad directo disimulado como estudio, áspero y arriesgado. «Fracture» como examen final de guitarra.</p></div><span class="c">UK 28 · US 64</span></article>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>Red <em>King Crimson</em></h4><p>El testamento: denso, exacto, sin un gesto de más. Fripp disolvió la banda antes de que saliera. Probablemente el disco del género que mejor envejeció.</p></div><span class="c">UK 45 · US 66</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>The Lamb Lies Down on Broadway <em>Genesis</em></h4><p>Doble surrealista de Gabriel sobre Rael en el inframundo neoyorquino: la ruptura de la banda en forma de disco. Letra impuesta por uno, música compuesta por los otros cuatro; se nota y a la vez funciona.</p></div><span class="c">UK 10 · US 41</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Relayer <em>Yes</em></h4><p>Moraz por Wakeman y «The Gates of Delirium»: su disco más violento, la guerra de Tolstói en 22 minutos. La corrección de rumbo tras el exceso topográfico.</p></div><span class="c">UK 4 · US 5</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>War Child <em>Jethro Tull</em></h4><p>Repliegue a canciones tras la paliza crítica. Cuerdas, sarcasmo, oficio; ambición en pausa.</p></div><span class="c">UK 14 · US 2</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>The Power and the Glory <em>Gentle Giant</em></h4><p>Concepto sobre la corrupción del poder, su disco más filoso. Salió el año de Watergate; la coincidencia les convenía y no era casual.</p></div><span class="c">US 78</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>In a Glass House <em>Gentle Giant</em> · 1973</h4><p>(Corresponde a 1973.) Concepto sobre fragilidad y culpa; tan «poco comercial» que Columbia se negó a editarlo en EE.UU. Insignia de honor involuntaria.</p></div><span class="c">— (sin edición US)</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>Mirage <em>Camel</em></h4><p>«Lady Fantasy»: la banda encuentra su voz — lirismo instrumental sin teatro ni misticismo. El punto de partida real.</p></div><span class="c">— UK · US 149</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Hergest Ridge <em>Mike Oldfield</em></h4><p>El refugio rural tras la fama no pedida. Nº 1 británico… destronado por su propio Tubular Bells: resumen perfecto de su problema.</p></div><span class="c">UK 1</span></article>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Rush <em>Rush</em></h4><p>Debut zeppeliniano con John Rutsey en batería; Neil Peart llega semanas después de la publicación y con él llegará el prog.</p></div><span class="c">US 105</span></article>
+    <article class="al" data-b="sup"><span class="bar"></span><div><h4>Crime of the Century <em>Supertramp</em></h4><p>El renacimiento total: banda nueva, producción de Ken Scott (ingeniero de los Beatles y de Bowie: la red), concepto sobre encierro y cordura. Su obra mayor.</p></div><span class="c">UK 4 · US 38</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>Eldorado <em>ELO</em></h4><p>Su álbum conceptual pleno —un soñador tipo Walter Mitty huyendo a mundos de fantasía— y su primera orquesta real en vez de sobregrabados. La credencial que los mete en este mapa.</p></div><span class="c">US 16</span></article>
+    <article class="al" data-b="foc"><span class="bar"></span><div><h4>Hamburger Concerto <em>Focus</em></h4><p>Variaciones sobre Brahms con movimientos bautizados como puntos de cocción de hamburguesa. El humor como método serio.</p></div><span class="c">UK 20 · US 66</span></article>
+    <article class="al" data-b="ren"><span class="bar"></span><div><h4>Turn of the Cards <em>Renaissance</em></h4><p>El tono oscurece: «Mother Russia», sobre Solzhenitsyn. América empieza a responder.</p></div><span class="c">US 94</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Hero and Heroine <em>Strawbs</em></h4><p>Giro oscuro y mellotrónico tras la fractura; el Reino Unido los suelta y América los adopta.</p></div><span class="c">UK 35 · US 94</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>Everyone Is Everybody Else <em>Barclay James Harvest</em></h4><p>Sin orquesta y mejor que nunca: su disco más sólido, el que defendería ante un escéptico. Certificado plata en UK sin haber entrado en listas: fenómeno de fondo de catálogo.</p></div><span class="c">—</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1975</span>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>Wish You Were Here <em>Pink Floyd</em></h4><p>La elegía a Barrett y mi elección como mejor disco del género en su año, con el argumento ya dado: la narrativa está en la música, no en el paratexto.</p></div><span class="c">UK 1 · US 1</span></article>
+    <article class="al" data-b="who"><span class="bar"></span><div><h4>The Who by Numbers <em>The Who</em></h4><p>Townshend confesional y cansado: el anti-concepto. Subvalorado precisamente por no fingir grandeza.</p></div><span class="c">UK 7 · US 8</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Minstrel in the Gallery <em>Jethro Tull</em></h4><p>Acústico y ácido, grabado en exilio fiscal en Montecarlo: Anderson mirando su propio divorcio con cuerdas y navaja. Medio redescubierto con los años.</p></div><span class="c">UK 20 · US 7</span></article>
+    <article class="al" data-b="vdgg"><span class="bar"></span><div><h4>Godbluff <em>Van der Graaf Generator</em></h4><p>Regreso feroz en formato ajustado: cuatro temas, cero grasa. Mi candidato alternativo de 1975 si el criterio es intensidad.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>Free Hand <em>Gentle Giant</em></h4><p>Su mejor equilibrio entre rigor y golpe: el disco técnicamente más sofisticado de 1975, como ya argumenté, y su techo comercial americano.</p></div><span class="c">US 48</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>Cunning Stunts <em>Caravan</em></h4><p>El contrapeto del título envejeció mejor que el disco, otra vez con Hitchcock en la producción. Su única entrada real en listas a ambos lados del Atlántico; el declive amable empieza aquí.</p></div><span class="c">UK 50 · US 124</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>Bundles <em>Soft Machine</em></h4><p>Allan Holdsworth en guitarra: fusion brillante que ya no es Soft Machine en ningún sentido salvo el legal.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>The Snow Goose <em>Camel</em></h4><p>Gallico sin palabras, Bedford en la orquesta, pleito de derechos en la tapa. Su identidad entera en un disco. Ya discutido en detalle.</p></div><span class="c">UK 22 · US 162</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Ommadawn <em>Mike Oldfield</em></h4><p>Percusión africana, gaitas y duelo por su madre: su disco más emocional y, para buena parte de la crítica y para él mismo, el mejor de los tres grandes.</p></div><span class="c">UK 4</span></article>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Fly by Night <em>Rush</em></h4><p>Entra Peart: fantasía, métrica impar y letras con biblioteca. El Rush reconocible empieza aquí.</p></div><span class="c">US 113</span></article>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Caress of Steel <em>Rush</em></h4><p>Suites fallidas y gira en picada (la «Down the Tubes Tour», según ellos mismos). La disquera pide rendición comercial; ellos responderán con lo contrario.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="sup"><span class="bar"></span><div><h4>Crisis? What Crisis? <em>Supertramp</em></h4><p>Armado con sobras del anterior bajo presión de gira: correcto, menor, y ellos lo admiten.</p></div><span class="c">UK 20 · US 44</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>Face the Music <em>ELO</em></h4><p>«Evil Woman»: el hit como nueva unidad de medida. El prog queda atrás sin drama.</p></div><span class="c">US 8</span></article>
+    <article class="al" data-b="ren"><span class="bar"></span><div><h4>Scheherazade and Other Stories <em>Renaissance</em></h4><p>La suite de 24 minutos sobre Las mil y una noches: su obra mayor y su argumento definitivo.</p></div><span class="c">US 48</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Ghosts <em>Strawbs</em></h4><p>El par americano de Hero and Heroine; su última entrada en Billboard.</p></div><span class="c">— UK · US 47</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Nomadness <em>Strawbs</em></h4><p>Adelgazado, sin Hudson ni Ford; la inercia empieza.</p></div><span class="c">US 147</span></article>
+    <article class="al" data-b="foc"><span class="bar"></span><div><h4>Mother Focus <em>Focus</em></h4><p>Pop suave y anónimo; Akkerman camino a la salida.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="ca"><span class="bar"></span><div><h4>Midnight Wire <em>Curved Air</em></h4><p>Regreso reformado, sin el brillo de la primera vida.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>Time Honoured Ghosts <em>Barclay James Harvest</em></h4><p>Grabado en Estados Unidos; el culto crece despacio y en silencio.</p></div><span class="c">UK 32</span></article>
+    <article class="al" data-b="sh"><span class="bar"></span><div><h4>Voyage of the Acolyte <em>Steve Hackett</em></h4><p>El tarot en clave Genesis, con Collins y Rutherford de sesión: el disco solista que precipitó las tensiones que lo sacarían de la banda dos años después.</p></div><span class="c">UK 26</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1976</span>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>A Trick of the Tail <em>Genesis</em></h4><p>Collins canta y el mundo descubre que la banda sobrevivía sin Gabriel. Excelente y un grado más suave: el primer paso de una pendiente larga.</p></div><span class="c">UK 3 · US 31</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>Wind &amp; Wuthering <em>Genesis</em></h4><p>El último disco plenamente prog: romanticismo de Banks a pleno. Hackett se va al terminar, harto de que le recorten espacio.</p></div><span class="c">UK 7 · US 26</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Too Old to Rock 'n' Roll: Too Young to Die! <em>Jethro Tull</em></h4><p>Concepto sobre un rockero envejecido que la crítica leyó como autobiografía; Anderson lo negó. Flojo dentro de su catálogo, e irónico hasta en eso.</p></div><span class="c">UK 25 · US 14</span></article>
+    <article class="al" data-b="vdgg"><span class="bar"></span><div><h4>Still Life <em>Van der Graaf Generator</em></h4><p>El par contemplativo de Godbluff: la inmortalidad como condena («Still Life»). Hammill en su cima como letrista.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="vdgg"><span class="bar"></span><div><h4>World Record <em>Van der Graaf Generator</em></h4><p>Irregular, con destellos. Tres discos en dos años: la segunda vida se quemó rápido.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>Interview <em>Gentle Giant</em></h4><p>Concepto meta sobre la entrevista de prensa. Ingenioso en el papel, cansado en el surco: el declive empieza.</p></div><span class="c">US 137</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>Blind Dog at St. Dunstans <em>Caravan</em></h4><p>Pop amable con prog residual. Nada vergonzoso, nada necesario.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>Softs <em>Soft Machine</em></h4><p>Etheridge por Holdsworth; fusion de sesión, correcto y anónimo.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>Moonmadness <em>Camel</em></h4><p>El par cantado de Snow Goose y el último con la formación original, con un tema-retrato por cada músico: el dispositivo de Quadrophenia en clave instrumental. Para muchos fans, su verdadera cima; entiendo el argumento aunque no lo comparto.</p></div><span class="c">UK 15 · US 118</span></article>
+    <article class="al" data-b="app"><span class="bar"></span><div><h4>Tales of Mystery and Imagination <em>The Alan Parsons Project</em></h4><p>Poe adaptado con orquesta de Andrew Powell y vocalistas rotativos; Orson Welles llegaría en la remezcla del 87. Prog tardío salvado por producción superior. Ya discutido.</p></div><span class="c">— UK · US 38</span></article>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>2112 <em>Rush</em></h4><p>La apuesta contra la disquera, ganada: suite distópica libertaria (Ayn Rand acreditada, para incomodidad posterior de Peart) que los salvó del abismo. El prog encuentra su público adolescente americano.</p></div><span class="c">US 61</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>A New World Record <em>ELO</em></h4><p>La máquina pop perfecta ya montada; el chelo como decoración de lujo.</p></div><span class="c">UK 6 · US 5</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Deep Cuts <em>Strawbs</em></h4><p>AOR con acento americano: la deriva asumida.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="ca"><span class="bar"></span><div><h4>Airborne <em>Curved Air</em></h4><p>Con Stewart Copeland en batería —futuro Police y futuro esposo de Kristina—: la red del prog desembocando en la new wave.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>Octoberon <em>Barclay James Harvest</em></h4><p>El molde sinfónico pulido; su mejor posición británica hasta entonces.</p></div><span class="c">UK 19 · US 174</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1977</span>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>Animals <em>Pink Floyd</em></h4><p>Orwell reescrito con rabia de clase: cerdos, perros y ovejas. La respuesta al punk publicada mientras el punk sucedía, y más furiosa que casi todo el punk.</p></div><span class="c">UK 2 · US 3</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Going for the One <em>Yes</em></h4><p>Wakeman vuelve, el formato se ajusta, «Awaken» justifica todo. Nº 1 británico en pleno año punk: más digno de lo que la época quiso admitir.</p></div><span class="c">UK 1 · US 8</span></article>
+    <article class="al" data-b="elp"><span class="bar"></span><div><h4>Works Volume 1 <em>ELP</em></h4><p>Tres caras solistas más una grupal, con orquesta propia de gira que los fundió económicamente. La banda ya no existe adentro del disco; el «Fanfare» de Copland como último gran gesto.</p></div><span class="c">UK 9 · US 12</span></article>
+    <article class="al" data-b="elp"><span class="bar"></span><div><h4>Works Volume 2 <em>ELP</em></h4><p>Sobras etiquetadas como volumen. El título hace el chiste solo.</p></div><span class="c">UK 20 · US 37</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Songs from the Wood <em>Jethro Tull</em></h4><p>Giro folk pleno y renacimiento: la Inglaterra rural como refugio del punk. Primera parte de una trilogía campestre.</p></div><span class="c">UK 13 · US 8</span></article>
+    <article class="al" data-b="vdgg"><span class="bar"></span><div><h4>The Quiet Zone / The Pleasure Dome <em>Van der Graaf</em></h4><p>Sin Jackson, con violín: otra banda con casi el mismo nombre. Nerviosa, casi post-punk antes del post-punk; Lydon era fan confeso de Hammill.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>The Missing Piece <em>Gentle Giant</em></h4><p>Mitad intento pop-punk, mitad viejo GG: crisis de identidad documentada en vivo. El manifiesto de 1970 empieza a ser papel mojado.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>Better by Far <em>Caravan</em></h4><p>Producción de Rupert Hine, canciones apenas justas. El título es más optimista que el contenido.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>Rain Dances <em>Camel</em></h4><p>Entra Richard Sinclair desde el Canterbury: giro suave, elegante, ya no del todo prog. Brian Eno pasa por un tema.</p></div><span class="c">UK 20 · US 136</span></article>
+    <article class="al" data-b="app"><span class="bar"></span><div><h4>I Robot <em>The Alan Parsons Project</em></h4><p>Asimov sin licencia (de ahí el título sin coma). Su mejor disco: el concepto hombre-máquina servido por el estudio, no por la pretensión.</p></div><span class="c">UK 30 · US 9</span></article>
+    <article class="al" data-b="ap"><span class="bar"></span><div><h4>The Geese &amp; the Ghost <em>Anthony Phillips</em></h4><p>Música de cámara pastoral con Rutherford y Collins, grabada sin contrato en una barcaza y una sala de estar. Publicada el año exacto en que nadie quería oírla. Ya discutido.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>A Farewell to Kings <em>Rush</em></h4><p>«Xanadu» sobre Coleridge, grabado en Gales: el trío canadiense sonando más inglés que los ingleses, el año en que los ingleses abandonaban.</p></div><span class="c">UK 22 · US 33</span></article>
+    <article class="al" data-b="sup"><span class="bar"></span><div><h4>Even in the Quietest Moments... <em>Supertramp</em></h4><p>«Give a Little Bit» y «Fool's Overture» en el mismo disco: la balanza pop/prog en su punto de equilibrio exacto.</p></div><span class="c">UK 12 · US 16</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>Out of the Blue <em>ELO</em></h4><p>Doble monumental escrito en tres semanas y media en un chalet suizo; «Mr. Blue Sky» como Sgt. Pepper de bolsillo.</p></div><span class="c">UK 4 · US 4</span></article>
+    <article class="al" data-b="ren"><span class="bar"></span><div><h4>Novella <em>Renaissance</em></h4><p>El molde repetido con menos chispa; la fórmula empieza a pesar.</p></div><span class="c">US 46</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Burning for You <em>Strawbs</em></h4><p>Producción pulida, identidad en fuga.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>Gone to Earth <em>Barclay James Harvest</em></h4><p>Incluye «Poor Man's Moody Blues»: la respuesta-parodia a la crítica que los bautizó así. Convertir el insulto en repertorio: dignidad de clase obrera.</p></div><span class="c">UK 30</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1978</span>
+    <article class="al" data-b="who"><span class="bar"></span><div><h4>Who Are You <em>The Who</em></h4><p>Irregular, con un tema título enorme. Moon muere tres semanas después de la publicación; el disco quedó como despedida sin quererlo.</p></div><span class="c">UK 6 · US 2</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>Octave <em>The Moody Blues</em></h4><p>Regreso tras cinco años; Pinder se va a mitad de camino y con él el Mellotron, es decir, la identidad. Vendió bien igual: la marca ya era autónoma de la música.</p></div><span class="c">UK 6 · US 13</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>...And Then There Were Three... <em>Genesis</em></h4><p>El trío: canciones más cortas, «Follow You Follow Me» como primer hit real. La transición al pop, ejecutada con oficio y sin pedir disculpas.</p></div><span class="c">UK 3 · US 14</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Tormato <em>Yes</em></h4><p>Descomposición audible: sonido chillón, ideas cortas, tomate en la tapa como profecía autocumplida.</p></div><span class="c">UK 8 · US 10</span></article>
+    <article class="al" data-b="elp"><span class="bar"></span><div><h4>Love Beach <em>ELP</em></h4><p>Obligación contractual grabada en Bahamas, portada de catálogo de veraneo. Indefendible, y ellos fueron los primeros en decirlo. Así terminan los imperios: por contrato.</p></div><span class="c">UK 48 · US 55</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Heavy Horses <em>Jethro Tull</em></h4><p>Elegía a los caballos de tiro y al mundo rural que se extinguía. Par del anterior y quizá superior: Anderson escribiendo sobre lo que ama en vez de contra lo que odia.</p></div><span class="c">UK 19 · US 20</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>Giant for a Day <em>Gentle Giant</em></h4><p>El intento pop sin coartada. De la fuga vocal de Knots a esto en seis años: la curva de rendición más triste del género.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Incantations <em>Mike Oldfield</em></h4><p>Doble hipnótico: el minimalismo ya sin sorpresa pero con la ejecución más fina de su carrera. Última obra larga de la etapa clásica.</p></div><span class="c">UK 14</span></article>
+    <article class="al" data-b="app"><span class="bar"></span><div><h4>Pyramid <em>The Alan Parsons Project</em></h4><p>Piramidología, que era moda esotérica del momento. Delgado: el método del Project sin un tema que lo merezca.</p></div><span class="c">UK 49 · US 26</span></article>
+    <article class="al" data-b="ap"><span class="bar"></span><div><h4>Wise After the Event <em>Anthony Phillips</em></h4><p>Canta él mismo contra su propia voluntad (el sello exigía voces). Arreglos ricos, incomodidad audible: un compositor obligado a ser artista.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>Breathless <em>Camel</em></h4><p>Giro pop asumido; Bardens anuncia su salida antes de la gira. Fin de la sociedad fundadora.</p></div><span class="c">UK 26 · US 134</span></article>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Hemispheres <em>Rush</em></h4><p>Cierre del ciclo mitológico: tan agotador de grabar que juraron no volver a hacer un disco así. Cumplieron.</p></div><span class="c">UK 14 · US 47</span></article>
+    <article class="al" data-b="ren"><span class="bar"></span><div><h4>A Song for All Seasons <em>Renaissance</em></h4><p>«Northern Lights» les regala un top 10 británico de singles: el pico tardío e inesperado.</p></div><span class="c">UK 35 · US 58</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Deadlines <em>Strawbs</em></h4><p>Cierre de era antes del largo silencio; el título, otra vez, lo dice todo.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="foc"><span class="bar"></span><div><h4>Focus con Proby <em>Focus</em></h4><p>Con P. J. Proby cantando: el final más extraño posible para la primera vida de la banda.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>XII <em>Barclay James Harvest</em></h4><p>Último con Woolly Wolstenholme, el corazón mellotrónico del grupo.</p></div><span class="c">UK 31</span></article>
+    <article class="al" data-b="sh"><span class="bar"></span><div><h4>Please Don't Touch <em>Steve Hackett</em></h4><p>Primer disco ya fuera de Genesis, con invitados americanos (Richie Havens, Randy Crawford): buscando voz propia por ensayo y error.</p></div><span class="c">UK 38</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1979</span>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>The Wall <em>Pink Floyd</em></h4><p>Ópera rock de Waters sobre el aislamiento: monumental, monomaníaca, con la banda reducida a empleados de una visión. El álbum conceptual devorándose a la banda que lo hace: cierre perfecto de la década.</p></div><span class="c">UK 3 · US 1</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Stormwatch <em>Jethro Tull</em></h4><p>Cierre sombrío de la trilogía rural, marcado por la enfermedad y muerte del bajista John Glascock. Fin de era en todos los sentidos.</p></div><span class="c">UK 27 · US 22</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>I Can See Your House from Here <em>Camel</em></h4><p>Identidad diluida entre pop y restos sinfónicos; Nude (1981) cerraría la etapa con más dignidad.</p></div><span class="c">UK 45</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Platinum <em>Mike Oldfield</em></h4><p>Giro pop asumido: caras cortas, covers, otra carrera empezando dentro del mismo nombre.</p></div><span class="c">UK 24</span></article>
+    <article class="al" data-b="app"><span class="bar"></span><div><h4>Eve <em>The Alan Parsons Project</em></h4><p>Concepto «sobre las mujeres» que envejeció exactamente tan mal como suena. Producción intachable al servicio de una idea floja.</p></div><span class="c">US 13</span></article>
+    <article class="al" data-b="ap"><span class="bar"></span><div><h4>Sides <em>Anthony Phillips</em></h4><p>Mitad pop forzado por el sello, mitad instrumental propio: el compromiso partido literalmente en dos caras.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="ap"><span class="bar"></span><div><h4>Private Parts &amp; Pieces <em>Anthony Phillips</em></h4><p>Sobras íntimas de guitarra y piano que fundan una serie que duraría décadas. Su formato natural, encontrado por descarte.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="sup"><span class="bar"></span><div><h4>Breakfast in America <em>Supertramp</em></h4><p>El pop perfecto que el prog llevaba adentro: cuatro hits, nº 1 americano, millones vendidos. Ya casi no es prog, y esa es exactamente la historia que este año cuenta.</p></div><span class="c">UK 3 · US 1</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>Discovery <em>ELO</em></h4><p>Disco-ELO («Disco? Very!», bromeaba la prensa). Primer nº 1 británico; el prog es ya un recuerdo de otra década.</p></div><span class="c">UK 1 · US 5</span></article>
+    <article class="al" data-b="ren"><span class="bar"></span><div><h4>Azure d'Or <em>Renaissance</em></h4><p>Sintetizadores tímidos, identidad diluida; el molde ya no da.</p></div><span class="c">UK 73 · US 125</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>Eyes of the Universe <em>Barclay James Harvest</em></h4><p>Invisibles en casa, gigantes en Alemania: al año siguiente tocarían gratis junto al Reichstag de Berlín ante una multitud estimada en más de 150.000 personas (las cifras varían según la fuente).</p></div><span class="c">—</span></article>
+    <article class="al" data-b="sh"><span class="bar"></span><div><h4>Spectral Mornings <em>Steve Hackett</em></h4><p>Su clásico solista: la guitarra como la voz que en Genesis le racionaban.</p></div><span class="c">UK 22</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">1980</span>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>Duke <em>Genesis</em></h4><p>El mejor disco de la etapa trío: pop con restos de ambición y una suite escondida en el orden de los temas. Primer nº 1 británico; la década siguiente empieza aquí.</p></div><span class="c">UK 1 · US 11</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Drama <em>Yes</em></h4><p>Yes sin Anderson ni Wakeman, con los dos Buggles adentro. Mucho mejor de lo que esa frase permite esperar: tenso, moderno, renegado por los fans durante décadas.</p></div><span class="c">UK 2 · US 18</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>A <em>Jethro Tull</em></h4><p>Era un disco solista de Anderson con Eddie Jobson (ex Roxy/UK) y salió como Tull por decisión del sello: sintetizadores, banda despedida, era nueva.</p></div><span class="c">UK 25 · US 30</span></article>
+    <article class="al" data-b="gg"><span class="bar"></span><div><h4>Civilian <em>Gentle Giant</em></h4><p>Rock plano de despedida. Se disolvieron enseguida, sin nostalgia ni reuniones: al menos el final fue tan honesto como el manifiesto inicial.</p></div><span class="c">US 137</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>The Album <em>Caravan</em></h4><p>Cuando el título de tu disco es «El Álbum», el diagnóstico está hecho.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>QE2 <em>Mike Oldfield</em></h4><p>Pop de estudio con Phil Collins de sesión en batería: hasta el final, la red es la misma.</p></div><span class="c">UK 27</span></article>
+    <article class="al" data-b="app"><span class="bar"></span><div><h4>The Turn of a Friendly Card <em>The Alan Parsons Project</em></h4><p>El juego y el azar como metáfora, con hits reales («Games People Play»). El Project encuentra su forma comercial definitiva justo al cerrar la ventana de este mapa.</p></div><span class="c">UK 38 · US 13</span></article>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Permanent Waves <em>Rush</em></h4><p>La new wave asimilada sin rendición: «The Spirit of Radio». El prog aprendiendo a ser conciso, que era la única salida digna disponible.</p></div><span class="c">UK 3 · US 4</span></article>
+    <article class="al" data-b="sh"><span class="bar"></span><div><h4>Defector <em>Steve Hackett</em></h4><p>Techo comercial solista. Buena parte del neoprog de los ochenta sale de este catálogo.</p></div><span class="c">UK 9</span></article>
+  </div>
+
+  <div class="note" style="margin:34px 0 26px"><b>La continuación (1981–presente):</b> fichas individuales para los discos con peso narrativo; bloques de etapa que nombran el resto del catálogo de cada artista. Discografía completa en títulos, jerarquizada en tratamiento. Charts de esta sección aún sin verificar salvo indicación.</div>
+
+  <div class="year"><span class="ylabel">81–83</span>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Moving Pictures <em>Rush · 1981</em></h4><p>«Tom Sawyer», «YYZ», «Limelight»: la síntesis exacta de ambición y concisión. El disco de prog más vendido de los ochenta sin dejar de ser prog.</p></div><span class="c">UK 3 · US 3</span></article>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>Discipline <em>King Crimson · 1981</em></h4><p>Tercera fundación: Belew, Levin, gamelán eléctrico y new wave cerebral. Otra banda con el mismo nombre, y esta vez con razón.</p></div><span class="c">UK 41 · US 45</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>Time <em>ELO · 1981</em></h4><p>Concepto de ciencia ficción —un hombre secuestrado hacia 2095— y regreso tardío de ELO al álbum conceptual, ahora en sintetizador. Culto creciente desde entonces.</p></div><span class="c">UK 1 · US 16</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>Abacab <em>Genesis · 1981</em></h4><p>Autoproducidos, cortan toda grasa prog; los bronces de Earth, Wind &amp; Fire en un disco de Genesis como declaración de época.</p></div><span class="c">UK 1 · US 7</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>Long Distance Voyager <em>Moody Blues · 1981</em></h4><p>Nº 1 americano: la marca sobrevive al Mellotron. «The Voice» como nuevo idioma FM.</p></div><span class="c">UK 7 · US 1</span></article>
+    <article class="al" data-b="who"><span class="bar"></span><div><h4>Face Dances <em>The Who · 1981</em></h4><p>Primer disco sin Moon (Kenney Jones en su lugar); «You Better You Bet». Competente; el fuego, ausente. It's Hard (82, UK 11/US 8) repitió el diagnóstico y los disolvió por primera vez.</p></div><span class="c">UK 2 · US 4</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>Nude <em>Camel · 1981</em></h4><p>Concepto sobre el soldado japonés que siguió peleando décadas después de la guerra (el caso Onoda): el último gran Camel de la línea clásica.</p></div><span class="c">UK 34</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>Land of Cockayne <em>Soft Machine · 1981</em></h4><p>Jazz-pop de sesión con Jack Bruce: el nombre tocando fondo con elegancia. Última parada en 37 años.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>Beat <em>King Crimson · 1982</em></h4><p>Concepto sobre la generación beat (Kerouac); el único Crimson hecho por encargo de continuidad. Menor, con momentos.</p></div><span class="c">UK 39 · US 52</span></article>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Signals <em>Rush · 1982</em></h4><p>«Subdivisions»: los sintetizadores al mando, los solos en retirada. La división eterna de sus fans se inaugura aquí.</p></div><span class="c">UK 3 · US 10</span></article>
+    <article class="al" data-b="sup"><span class="bar"></span><div><h4>...Famous Last Words... <em>Supertramp · 1982</em></h4><p>«It's Raining Again» y despedida: Hodgson se va al terminar. Fin de la tensión que los hacía funcionar.</p></div><span class="c">UK 6 · US 5</span></article>
+    <article class="al" data-b="app"><span class="bar"></span><div><h4>Eye in the Sky <em>Alan Parsons Project · 1982</em></h4><p>El hit definitivo, precedido por «Sirius», banda sonora eterna de estadios deportivos. El Project en su punto comercial exacto.</p></div><span class="c">UK 27 · US 7</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Five Miles Out <em>Mike Oldfield · 1982</em></h4><p>El pánico real en una avioneta convertido en single. Oldfield entra al formato canción.</p></div><span class="c">UK 7</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>The Broadsword and the Beast <em>Jethro Tull · 1982</em></h4><p>Vikingos y sintetizadores conviviendo mejor de lo que suena.</p></div><span class="c">UK 27 · US 19</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>The Single Factor <em>Camel · 1982</em></h4><p>Pop impuesto por contrato mientras Latimer pleiteaba con su exmanager. Stationary Traveller (84, UK 57), sobre el Muro de Berlín, cerraría la etapa Decca con más dignidad.</p></div><span class="c">UK 57</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>Back to Front <em>Caravan · 1982</em></h4><p>La formación original reunida sin chispa; después, trece años de silencio.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>The Final Cut <em>Pink Floyd · 1983</em></h4><p>Réquiem de Waters por la posguerra británica y por la propia banda: Gilmour degradado a empleado, Wright ya despedido. Floyd deja de existir de hecho.</p></div><span class="c">UK 1 · US 6</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>Genesis <em>Genesis · 1983</em></h4><p>«Mama» y «Home by the Sea»: el pop oscuro como nuevo hábitat natural del trío.</p></div><span class="c">UK 1 · US 9</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>90125 <em>Yes · 1983</em></h4><p>Trevor Rabin más Trevor Horn: «Owner of a Lonely Heart», nº 1 de singles americano. Yes convertido en otra cosa brillante; los fans siguen discutiendo si eso es elogio.</p></div><span class="c">UK 16 · US 5</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Crises <em>Mike Oldfield · 1983</em></h4><p>«Moonlight Shadow» con Maggie Reilly: el ermitaño instrumental reconvertido en autor de hits europeos. Discovery (84, UK 15) estiró la fórmula.</p></div><span class="c">UK 6</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>Secret Messages <em>ELO · 1983</em></h4><p>Recortado de doble a sencillo por la crisis del vinilo: el imperio achicándose en tiempo real.</p></div><span class="c">UK 4 · US 36</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>The Present <em>Moody Blues · 1983</em></h4><p>La fórmula ochentera ya sin sorpresa.</p></div><span class="c">UK 15 · US 26</span></article>
+    <article class="al" data-b="ap"><span class="bar"></span><div><h4>Etapa 1981–presente <em>Anthony Phillips</em></h4><p>1984 (81, electrónico), Invisible Men (83), Tarka (88, con Harry Williamson), Slow Dance (90, orquestal), Field Day (2005), Seventh Heaven (2012), Strings of Light (2019) y la serie Private Parts &amp; Pieces II–XII (1980–2016): el catálogo íntimo más constante del género, publicado casi sin público y sin una sola queja registrada.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="ren"><span class="bar"></span><div><h4>Etapa 1981–2013 <em>Renaissance</em></h4><p>Camera Camera (81) y Time-Line (83): persiguiendo la new wave con la vocalista menos indicada para eso. Silencio largo, y regresos dignos con Tuscany (2001) y Symphony of Light (2013).</p></div><span class="c">s.d.</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">84–89</span>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Grace Under Pressure <em>Rush · 1984</em></h4><p>Frío y ansioso —guerra fría literal—: su mejor disco de la era del sintetizador. Power Windows (85, UK 9/US 10), Hold Your Fire (87, UK 10/US 13) y Presto (89, US 16) completan la etapa.</p></div><span class="c">UK 5 · US 10</span></article>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>Three of a Perfect Pair <em>King Crimson · 1984</em></h4><p>Lado accesible y lado experimental declarados en la portada. Fripp apaga la luz por otra década.</p></div><span class="c">UK 30 · US 58</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Under Wraps <em>Jethro Tull · 1984</em></h4><p>Electrónico total; la voz de Anderson colapsa en la gira y nunca vuelve a ser la misma.</p></div><span class="c">UK 18 · US 76</span></article>
+    <article class="al" data-b="app"><span class="bar"></span><div><h4>Ammonia Avenue <em>Alan Parsons Project · 1984</em></h4><p>«Don't Answer Me», nostalgia Spector con video animado: el techo británico del Project. Vulture Culture (85), Stereotomy (86) y Gaudí (87, US 57) agotaron el método; Woolfson se fue al teatro musical y murió en 2009.</p></div><span class="c">UK 4 · US 15</span></article>
+    <article class="al" data-b="sup"><span class="bar"></span><div><h4>Brother Where You Bound <em>Supertramp · 1985</em></h4><p>Sin Hodgson: el tema título de dieciséis minutos, con Gilmour invitado, demuestra que Davies también sabía ser prog cuando quería.</p></div><span class="c">UK 20 · US 21</span></article>
+    <article class="al" data-b="elp"><span class="bar"></span><div><h4>Emerson, Lake &amp; Powell <em>ELP · 1986</em></h4><p>La sigla salvada por casting (Cozy Powell): un disco digno, una gira deficitaria. El epílogo noventero —Black Moon (92), In the Hot Seat (94)— fue de más a mucho menos; Emerson y Lake murieron con meses de diferencia en 2016.</p></div><span class="c">US 23</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>Invisible Touch <em>Genesis · 1986</em></h4><p>Cinco top-5 americanos del mismo disco. El pop total, con «Land of Confusion» y «Domino» guardando la conciencia y el músculo.</p></div><span class="c">UK 1 · US 3</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>The Other Side of Life <em>Moody Blues · 1986</em></h4><p>«Your Wildest Dreams»: los Moody como acto de nostalgia MTV, y funcionó. Sur la Mer (88, UK 21/US 38) repitió la receta.</p></div><span class="c">UK 24 · US 9</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>Balance of Power <em>ELO · 1986</em></h4><p>Despedida encogida y sin chelos; Lynne se va a producir a media historia del rock (Harrison, Orbison, Petty, los Wilburys).</p></div><span class="c">UK 9 · US 49</span></article>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>A Momentary Lapse of Reason <em>Pink Floyd · 1987</em></h4><p>Gilmour reconstruye la marca sin Waters, pleito legal mediante: estadios llenos, canciones a medias.</p></div><span class="c">UK 3 · US 3</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Big Generator <em>Yes · 1987</em></h4><p>El 90125 repetido con esfuerzo y sin milagro; Anderson se fugará a ABWH.</p></div><span class="c">UK 17 · US 15</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Crest of a Knave <em>Jethro Tull · 1987</em></h4><p>El Grammy de hard rock/metal 1989 ganado contra Metallica: el chiste que persigue a ambos desde entonces. Rock Island (89, UK 18/US 56) y Catfish Rising (91) continuaron el pulso.</p></div><span class="c">UK 19 · US 32</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Etapa 1987–1991 <em>Mike Oldfield</em></h4><p>Islands (87), Earth Moving (89), Heaven's Open (91, cantando él mismo como portazo a Virgin) y en el medio la joya escondida: Amarok (90), una hora continua y anticomercial a propósito, con un insulto a Branson en morse. Su obra maestra secreta.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="sh"><span class="bar"></span><div><h4>Etapa 1981–1994 <em>Steve Hackett</em></h4><p>Cured (81), Highly Strung (83), el acústico Bay of Kings (83), Till We Have Faces (84), el supergrupo GTR con Steve Howe (86, US 11), Momentum (88), Guitar Noir (93), Blues with a Feeling (94): década y media errática buscando mercado con la guitarra intacta.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Etapa 1987–2009 <em>Strawbs</em></h4><p>Don't Say Goodbye (87), Ringing Down the Years (91), Heartbreak Hill (grabado en 78, editado en 95), Blue Angel (03), Déjà Fou (04), The Broken Hearted Bride (08), Dancing to the Devil's Beat (09): la segunda vida de Cousins, artesanal, continua e invisible para las listas.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="bjh"><span class="bar"></span><div><h4>Etapa 1981–1997 <em>Barclay James Harvest</em></h4><p>Turn of the Tide (81), Ring of Changes (83), Victims of Circumstance (84), Face to Face (87), Welcome to the Show (90), Caught in the Light (93), River of Dreams (97): AOR sinfónico pulido, con el concierto gratuito de Berlín (1980, multitud estimada en más de 150.000) como cima simbólica. Luego la banda se partió en dos BJH legales; North (2013), de la facción de John Lees, fue el mejor epílogo posible.</p></div><span class="c">s.d.</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">90–99</span>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Union <em>Yes · 1991</em></h4><p>Ocho miembros, dos bandas (Yes + Anderson Bruford Wakeman Howe) pegadas por la disquera. «Onion», lo bautizó Wakeman. Talk (94, UK 20/US 33) cerró la era Rabin con más dignidad que éxito.</p></div><span class="c">UK 7 · US 15</span></article>
+    <article class="al" data-b="gen"><span class="bar"></span><div><h4>We Can't Dance <em>Genesis · 1991</em></h4><p>El último con Collins: «No Son of Mine», y todavía un tema de diez minutos escondido adentro. Calling All Stations (97, UK 2/US 54), con Ray Wilson, probó que Europa seguía y América no.</p></div><span class="c">UK 1 · US 4</span></article>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Roll the Bones <em>Rush · 1991</em></h4><p>El regreso al top 3 americano; Counterparts (93, US 2) y Test for Echo (96, US 5) confirmaron que el público nunca se había ido.</p></div><span class="c">UK 10 · US 3</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Tubular Bells II <em>Mike Oldfield · 1992</em></h4><p>La secuela literal con Warner: nº 1 y concierto en el castillo de Edimburgo. La nostalgia como negocio fundacional; Songs of Distant Earth (94), Voyager (96), Tubular Bells III (98, UK 4), Guitars y The Millennium Bell (99) completan la década.</p></div><span class="c">UK 1</span></article>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>The Division Bell <em>Pink Floyd · 1994</em></h4><p>Sobre la incomunicación, apropiadamente. «High Hopes» como cierre real de la historia, se supiera o no entonces.</p></div><span class="c">UK 1 · US 1</span></article>
+    <article class="al" data-b="kc"><span class="bar"></span><div><h4>THRAK <em>King Crimson · 1995</em></h4><p>El doble trío: cuarta fundación, ferozmente física. The ConstruKction of Light (2000) y The Power to Believe (2003) —metal industrial de cámara— cierran el catálogo de estudio del nombre.</p></div><span class="c">UK 58 s.d.</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>Roots to Branches <em>Jethro Tull · 1995</em></h4><p>Escalas orientales y flauta madura: su último disco plenamente ambicioso. J-Tull Dot Com (99) y el disco navideño (2003) administraron el resto.</p></div><span class="c">UK 20</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>Harbour of Tears <em>Camel · 1996</em></h4><p>La emigración irlandesa como concepto: Latimer independiente (Camel Productions) y en su mejor década tardía. Dust and Dreams (91, sobre Steinbeck) la había abierto; Rajaz (99) es el Camel más puro desde los setenta.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>The Battle of Hastings <em>Caravan · 1995</em></h4><p>Regreso amable con Pye Hastings como único timón; The Unauthorised Breakfast Item (2003) y Paradise Filter (2013) lo continuaron sin ruido.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Open Your Eyes <em>Yes · 1997</em></h4><p>Hecho a apuro y mejor olvidado, incluso por ellos; The Ladder (99) y Magnification (2001, con orquesta) lo mejoraron sin que nadie mirara.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="mb"><span class="bar"></span><div><h4>Strange Times <em>Moody Blues · 1999</em></h4><p>Cierre digno; December (2003) fue el punto final real. Al Salón de la Fama recién en 2018, con décadas de desdén crítico encima.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="sup"><span class="bar"></span><div><h4>Some Things Never Change <em>Supertramp · 1997</em></h4><p>Davies administrando la marca con oficio; Slow Motion (2002) cerró el catálogo. La reunión con Hodgson nunca llegó.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="sh"><span class="bar"></span><div><h4>Genesis Revisited <em>Steve Hackett · 1996</em></h4><p>El pivote que lo cambió todo: descubrir que custodiar el catálogo de su ex banda era a la vez su mejor negocio y su mejor argumento. Darktown (99) mantuvo la obra propia en paralelo.</p></div><span class="c">—</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">00–13</span>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Vapor Trails <em>Rush · 2002</em></h4><p>El regreso tras las tragedias personales de Peart; crudo hasta el defecto (lo remezclaron en 2013). Snakes &amp; Arrows (2007, US 3) consolidó la tercera vida.</p></div><span class="c">US 6</span></article>
+    <article class="al" data-b="cam"><span class="bar"></span><div><h4>A Nod and a Wink <em>Camel · 2002</em></h4><p>Dedicado a Bardens, muerto ese año. Cierre sereno del catálogo: nada nuevo desde entonces, giras y salud mediante.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Etapa 2002–2008 <em>Mike Oldfield</em></h4><p>Tr3s Lunas (2002), Tubular Bells 2003 (regrabación), Light + Shade (2005), Music of the Spheres (2008): experimentos de plataforma, regrabaciones y neoclásica; el catálogo como territorio a readministrar.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="vdgg"><span class="bar"></span><div><h4>Present <em>Van der Graaf Generator · 2005</em></h4><p>Regreso a cuatro tras 27 años; Jackson se va después y el trío se vuelve la nueva identidad: Trisector (2008), A Grounding in Numbers (2011), ALT (2012).</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="who"><span class="bar"></span><div><h4>Endless Wire <em>The Who · 2006</em></h4><p>Primer disco en 24 años, con mini-ópera adentro: los viejos hábitos. Entwistle había muerto en 2002; quedaba la mitad del cuerpo original.</p></div><span class="c">UK 9 · US 7</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Fly from Here <em>Yes · 2011</em></h4><p>Benoît David cantando material de los Buggles ampliado por Horn y Downes: el círculo de Drama cerrado treinta años después.</p></div><span class="c">UK 30</span></article>
+    <article class="al" data-b="sh"><span class="bar"></span><div><h4>Genesis Revisited II <em>Steve Hackett · 2012</em></h4><p>Más alto en listas que casi todo su catálogo propio: el pivote consolidado en institución. Out of the Tunnel's Mouth (2009) y Beyond the Shrouded Horizon (2011) sostenían la obra nueva.</p></div><span class="c">UK 24</span></article>
+    <article class="al" data-b="rush"><span class="bar"></span><div><h4>Clockwork Angels <em>Rush · 2012</em></h4><p>Ópera steampunk final: el círculo de 2112 cerrado con canas. Último disco de estudio; Peart murió en 2020 y con él la banda.</p></div><span class="c">UK 21 · US 2</span></article>
+    <article class="al" data-b="foc"><span class="bar"></span><div><h4>Etapa 2002–presente <em>Focus</em></h4><p>Van Leer revivió la marca: Focus 8 (2002), 9 (2006), X (2012), 11 (2018) y 12 (2024). Artesanía fiel para el circuito de culto; «Hocus Pocus» sigue pagando las cuentas.</p></div><span class="c">—</span></article>
+  </div>
+
+  <div class="year"><span class="ylabel">14–hoy</span>
+    <article class="al" data-b="pf"><span class="bar"></span><div><h4>The Endless River <em>Pink Floyd · 2014</em></h4><p>Sobras ambientales de Division Bell reelaboradas como despedida a Wright: réquiem instrumental de la marca. (El single «Hey Hey Rise Up» de 2022, por Ucrania, quedó como coda.)</p></div><span class="c">UK 1 · US 3</span></article>
+    <article class="al" data-b="yes"><span class="bar"></span><div><h4>Heaven &amp; Earth <em>Yes · 2014</em></h4><p>El último con Chris Squire, muerto en 2015: el único que había estado en absolutamente todo. The Quest (2021) y Mirror to the Sky (2023) continúan la marca-institución con Howe al mando, para bien y para mal.</p></div><span class="c">UK 20 · US 26</span></article>
+    <article class="al" data-b="ca"><span class="bar"></span><div><h4>North Star <em>Curved Air · 2014</em></h4><p>Regreso discreto de Sonja Kristina: en este mapa, el catálogo vivo es la excepción.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="elo"><span class="bar"></span><div><h4>Alone in the Universe <em>Jeff Lynne's ELO · 2015</em></h4><p>El regreso que Zoom (2001) mereció y no tuvo: Wembley agotado, la marca reivindicada. From Out of Nowhere (2019, UK 1) confirmó.</p></div><span class="c">UK 4 · US 23</span></article>
+    <article class="al" data-b="vdgg"><span class="bar"></span><div><h4>Do Not Disturb <em>Van der Graaf Generator · 2016</em></h4><p>Pensado como despedida serena, sin drama. Hammill sigue solista, incansable, con el catálogo paralelo más grande e inflexible de todo este documento.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="mo"><span class="bar"></span><div><h4>Return to Ommadawn <em>Mike Oldfield · 2017</em></h4><p>El regreso al método artesanal de una sola persona por capas: su mejor disco en décadas y, hasta hoy, el último. Man on the Rocks (2014) lo precedió en modo banda.</p></div><span class="c">UK 4</span></article>
+    <article class="al" data-b="str"><span class="bar"></span><div><h4>Settlement <em>Strawbs · 2021</em></h4><p>Cousins octogenario grabando en pandemia; The Ferryman's Curse (2017) lo había precedido con más brío. La constancia como forma final del folk.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="sm"><span class="bar"></span><div><h4>Hidden Details <em>Soft Machine · 2018</em></h4><p>El nombre vuelve tras 37 años vía Soft Machine Legacy: fusion británica digna con Etheridge de nexo. Other Doors (2023) lo continúa.</p></div><span class="c">—</span></article>
+    <article class="al" data-b="who"><span class="bar"></span><div><h4>WHO <em>The Who · 2019</em></h4><p>Townshend y Daltrey como marca consciente de serlo, y mejor de lo necesario. La media banda que queda sigue siendo más Who que muchos enteros.</p></div><span class="c">UK 3 · US 2</span></article>
+    <article class="al" data-b="sh"><span class="bar"></span><div><h4>Etapa 2015–presente <em>Steve Hackett</em></h4><p>Wolflight (2015), The Night Siren (2017), At the Edge of Light (2019, UK 17), Surrender of Silence (2021), The Circus and the Nightwhale (2024): la tercera edad más productiva del género, girando Seconds Out y Foxtrot enteros en paralelo. El custodio activo del legado Genesis.</p></div><span class="c">s.d.</span></article>
+    <article class="al" data-b="jt"><span class="bar"></span><div><h4>The Zealot Gene <em>Jethro Tull · 2022</em></h4><p>Primer Tull en 19 años; RökFlöte (2023) y Curious Ruminant (2025) lo siguieron a ritmo anual. Anderson imparable, aunque la voz ya no lo acompañe; la honestidad obliga a decir ambas cosas.</p></div><span class="c">UK 9</span></article>
+    <article class="al" data-b="car"><span class="bar"></span><div><h4>It's None of Your Business <em>Caravan · 2021</em></h4><p>El Canterbury melódico aún respira: humor intacto, ambición jubilada. Está bien así.</p></div><span class="c">—</span></article>
+  </div>
+</div></main>
+
+<section class="block"><div class="wrap">
+  <h2>Herederos</h2>
+  <p class="sub">Lo que este mapa engendró después de 1980. Tratamiento completo en la Fase 4.</p>
+  <div class="net">
+    <div class="node"><span class="tag">Supergrupo</span><h3>Asia</h3><p>Wetton (Crimson) + Howe (Yes) + Palmer (ELP) + Downes (Yes/Buggles): los currículums del prog convertidos en AOR nº 1 americano durante nueve semanas (Asia, 1982; «Heat of the Moment»). La red entera cobrando dividendos, para escándalo de la crítica y deleite de la radio.</p></div>
+    <div class="node"><span class="tag">Neoprog</span><h3>Marillion</h3><p>De Script for a Jester's Tear (83, UK 7) a Misplaced Childhood (85, UK 1, «Kayleigh»): la descendencia directa del Genesis de Gabriel que nunca se avergonzó de serlo. Con Hogarth desde el 89, pioneros mundiales del crowdfunding (Anoraknophobia, 2001) y todavía en forma: F.E.A.R. (2016, UK 4), An Hour Before It's Dark (2022, UK 2).</p></div>
+    <div class="node"><span class="tag">Escena</span><h3>El neoprog británico</h3><p>IQ, Pallas, Pendragon, Twelfth Night: el circuito de clubes que mantuvo el idioma vivo durante los ochenta hostiles, cuando decir «prog» era mala palabra en la prensa inglesa.</p></div>
+    <div class="node"><span class="tag">Custodio</span><h3>Steven Wilson · Porcupine Tree</h3><p>De banda inventada como broma privada a heredero formal del género — y como remezclador oficial de King Crimson, Yes, Jethro Tull, Gentle Giant y Caravan, literalmente el custodio sonoro de este mapa. El puente entre este documento y el presente.</p></div>
+    <div class="node"><span class="tag">Ramas</span><h3>Prog metal y art-pop</h3><p>Dream Theater, Tool y Opeth por la rama metálica; Radiohead por la del art-rock: dos linajes que siguen discutiendo con este mapa aunque rara vez lo nombren. Fase 4.</p></div>
+  </div>
+</div></section>
+
+<section class="block"><div class="wrap">
+  <h2>Fronteras</h2>
+  <p class="sub">Las escenas hermanas, ahora con tratamiento completo: discografías clásicas nombradas título por título. Charts solo donde hay confianza alta; el resto, sin número antes que con número inventado.</p>
+  <div class="net">
+    <div class="node"><span class="tag">Canterbury profundo</span><h3>Robert Wyatt</h3><p>Tras la caída que lo dejó parapléjico en 1973: Rock Bottom (74), obra mayor fuera de todo género, producida por Nick Mason —la red— y hecha de duelo, amor y humor en partes iguales. Ruth Is Stranger Than Richard (75), y su single de «I'm a Believer» en el top 30 británico como broma seria. Después, a su ritmo: Old Rottenhat (85), Dondestan (91), Shleep (97), Cuckooland (2003), Comicopera (2007) y retiro anunciado sin drama. Antes, Matching Mole (72) y su Little Red Record (72) como puente desde Soft Machine.</p></div>
+    <div class="node"><span class="tag">Canterbury profundo</span><h3>Hatfield and the North</h3><p>Hatfield and the North (74) y The Rotters' Club (75): la cima del Canterbury de segunda generación. Richard Sinclair (ex Caravan, futuro Camel) en voz y bajo, Dave Stewart en teclados, las Northettes haciendo coros celestiales sobre métricas imposibles. Dos discos, cero éxito, canon absoluto.</p></div>
+    <div class="node"><span class="tag">Canterbury profundo</span><h3>National Health</h3><p>La continuación de Hatfield con más músculo: National Health (78), Of Queues and Cures (78) y el póstumo D.S. al Coda (82), homenaje a Alan Gowen tras su muerte. Dave Stewart otra vez al centro; el Canterbury terminando en cámara instrumental pura mientras el punk ardía afuera.</p></div>
+    <div class="node"><span class="tag">Canterbury profundo</span><h3>Gong</h3><p>Daevid Allen, fundador expulsado de Soft Machine por un visado vencido, montó en Francia la mitología del planeta Gong: la trilogía Radio Gnome —Flying Teapot (73), Angel's Egg (73), You (74)— es psicodelia de duendes con músicos temibles. Tras la salida de Allen, Shamal (76) y Gazeuse! (76) derivaron al fusion de Pierre Moerlen. Primer catálogo de Virgin junto a Oldfield: la red otra vez.</p></div>
+    <div class="node"><span class="tag">Canterbury profundo</span><h3>Egg · Steve Hillage · Kevin Ayers</h3><p>Egg (Egg 70, The Polite Force 71, The Civil Surface 74): el laboratorio de compases de Dave Stewart. Hillage, su compañero de Uriel, se fue a Gong y luego a una carrera solista con Fish Rising (75), L (76, UK 10, producido por Todd Rundgren), Motivation Radio (77) y Green (78). Y Kevin Ayers —el dandy de Soft Machine— con Joy of a Toy (69), Shooting at the Moon (70, con un Oldfield adolescente al bajo y Bedford en teclados: la incubadora de Tubular Bells), Whatevershebringswesing (71) y Bananamour (73).</p></div>
+    <div class="node"><span class="tag">Prog italiano</span><h3>Premiata Forneria Marconi (PFM)</h3><p>Storia di un minuto (72) y Per un amico (72): el sinfónico italiano en su punto más alto de entrada. Manticore —el sello de ELP— los exportó con letras inglesas de Peter Sinfield: Photos of Ghosts (73) y The World Became the World (74) entraron en Billboard, cosa que ningún otro grupo continental del género logró desde Italia. Chocolate Kings (75) y Jet Lag (77) cerraron la era clásica endureciendo el sonido.</p></div>
+    <div class="node"><span class="tag">Prog italiano</span><h3>Banco del Mutuo Soccorso</h3><p>Banco del Mutuo Soccorso (72), Darwin! (72) e Io sono nato libero (73): la trilogía fundacional, con Francesco Di Giacomo —la voz más grande del género, literal y figuradamente— y los hermanos Nocenzi en teclados duales. También ficharon por Manticore para el mercado anglo (Banco, 75). Darwin!: un álbum conceptual sobre la evolución; la ambición italiana no pedía permiso.</p></div>
+    <div class="node"><span class="tag">Prog italiano</span><h3>Le Orme · Area · los demás</h3><p>Le Orme: Collage (71), Uomo di pezza (72), Felona e Sorona (73, cuya versión inglesa tradujo Peter Hammill: la red hasta en Venecia) y Contrappunti (74). Area: Arbeit macht frei (73), Caution Radiation Area (74) y Crac! (75), con Demetrio Stratos llevando la voz humana a donde nadie más quiso ir — jazz radical y política sin anestesia. Y la constelación de un-solo-disco-legendario: Museo Rosenbach (Zarathustra, 73), Il Balletto di Bronzo (Ys, 72), más Osanna y los Concerto Grosso de New Trolls con orquesta.</p></div>
+    <div class="node"><span class="tag">Alemania</span><h3>Can</h3><p>Monster Movie (69), Tago Mago (71), Ege Bamyasi (72), Future Days (73): la respuesta alemana a la misma pregunta (¿qué hacer tras la psicodelia?) por el camino opuesto al inglés — repetición, trance y edición de cinta en vez de complejidad escrita. Czukay venía de estudiar con Stockhausen; el rock que influyó en más gente que casi todo este mapa junto, vendiendo una fracción.</p></div>
+    <div class="node"><span class="tag">Alemania</span><h3>Tangerine Dream · Klaus Schulze</h3><p>De Electronic Meditation (70) y el doble abismal Zeit (72) a Phaedra (74, UK 15) y Rubycon (75, UK 12) en Virgin —el sello de Tubular Bells, otra vez—: secuenciadores como catedrales. Schulze en paralelo (Timewind, 75; Mirage, 77) fundando la escuela berlinesa. De aquí sale media música electrónica posterior.</p></div>
+    <div class="node"><span class="tag">Alemania</span><h3>Faust · Neu! · Amon Düül II · Kraftwerk</h3><p>Faust (71, vinilo transparente) y el recopilatorio The Faust Tapes vendido a 49 peniques por Virgin como caballo de Troya comercial. Neu! (72) y Neu! 75: el motorik como minimalismo bailable. Amon Düül II: Phallus Dei (69), Yeti (70), Tanz der Lemminge (71), la comuna hecha sonido. Y Kraftwerk saliendo del kraut hacia otra cosa con Autobahn (74, UK 4/US 5): el punto exacto donde esta historia se convierte en la siguiente.</p></div>
+    <div class="node"><span class="tag">Jazz fusion</span><h3>Weather Report · Mahavishnu Orchestra · Return to Forever</h3><p>Fusion, no prog: viene del jazz eléctrico de Miles Davis, no del rock. Weather Report de Weather Report (71) a Heavy Weather (77, US 30); Mahavishnu con The Inner Mounting Flame (71) y Birds of Fire (73, US 15); Return to Forever con Romantic Warrior (76). Comparten virtuosismo y suites, no estética ni público; Bruford y Holdsworth orbitaron ambos mundos y son el puente real.</p></div>
+  </div>
+</div></section>
+
+<footer><div class="wrap">
+  <p><b>Hoja de ruta.</b> <b>Hecho:</b> era clásica 1966–1980 (26 artistas, 208 discos de estudio en fichas individuales), continuación 1981–presente completa, red de conexiones, herederos, y las tres escenas hermanas —Canterbury profundo, Italia, Alemania— con discografías clásicas nombradas título por título. Verificados contra fuentes: DSOTM, King Crimson, Camel, Caravan, Jethro Tull, Gentle Giant, Moody Blues (etapa central), ELO, Rush, Strawbs y Barclay James Harvest. <b>Pendiente:</b> verificación de los 15 artistas restantes y de la continuación; charts de las escenas hermanas; y la red como grafo interactivo navegable. · Agosto 2026</p>
+</div></footer>
+
+<script>
+function filt(b){
+  document.querySelectorAll('.al').forEach(function(a){a.style.display=(b==='all'||a.dataset.b===b)?'':'none';});
+  document.querySelectorAll('.chip').forEach(function(c){c.classList.toggle('on',c.dataset.b===b);});
+  document.querySelectorAll('.year').forEach(function(y){
+    var vis=[].some.call(y.querySelectorAll('.al'),function(a){return a.style.display!=='none';});
+    y.style.display=vis?'':'none';
+  });
+}
+</script>
+</body>
+</html>

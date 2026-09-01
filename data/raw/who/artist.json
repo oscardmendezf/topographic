@@ -1,0 +1,1791 @@
+{
+  "disambiguation": "",
+  "type": "Group",
+  "relations": [
+    {
+      "direction": "backward",
+      "attributes": [],
+      "end": "1964-10",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "High Numbers, The",
+        "id": "d567451e-e266-4947-b04d-1c1a2ec7d845",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "The High Numbers"
+      },
+      "target-credit": "",
+      "begin": "1964-10",
+      "attribute-ids": {},
+      "type": "artist rename",
+      "target-type": "artist",
+      "type-id": "9752bfdf-13ca-441a-a8bc-18928c600c73",
+      "ended": true
+    },
+    {
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "instrumental supporting musician",
+      "begin": "2022",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "ended": false,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5755b029-d5a9-4908-bae3-c6c694a83860",
+        "sort-name": "Marshall, Emily",
+        "disambiguation": "",
+        "country": "US",
+        "name": "Emily Marshall"
+      },
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+        "type": "Orchestra",
+        "sort-name": "Heart of England Philharmonic Orchestra",
+        "id": "aa1bb8af-4edb-421b-8571-fa2bfdd29012",
+        "disambiguation": "touring with The Who",
+        "country": "GB",
+        "name": "Heart of England Philharmonic Orchestra"
+      },
+      "attribute-ids": {},
+      "type": "instrumental supporting musician",
+      "begin": null,
+      "target-type": "artist",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "ended": false
+    },
+    {
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "harmonica": "63e37f1a-30b6-4746-8a49-dfb55be3cdd1",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1964-02",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "name": "Roger Daltrey",
+        "disambiguation": "",
+        "country": "GB",
+        "id": "3896a59d-3058-4797-94b7-864bc58ccd98",
+        "sort-name": "Daltrey, Roger",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "guitar",
+        "harmonica",
+        "lead vocals",
+        "original",
+        "percussion"
+      ]
+    },
+    {
+      "begin": "1964-02",
+      "type": "member of band",
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [
+        "guitar",
+        "keyboard",
+        "lead vocals",
+        "original",
+        "synthesizer"
+      ],
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "disambiguation": "of The Who",
+        "country": "GB",
+        "name": "Pete Townshend",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Townshend, Pete",
+        "id": "fb147b8f-0144-4418-acaa-90b2d9779840"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "end": "1964",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "8425adaf-e8d4-4189-839d-a9fdfab55f4b",
+        "sort-name": "Sandom, Doug",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Doug Sandom",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "begin": "1964"
+    },
+    {
+      "begin": "1964",
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-values": {},
+      "end": "1978",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e64bf907-c90f-4cf1-bd0c-81593b42d4d9",
+        "sort-name": "Moon, Keith",
+        "disambiguation": "drummer",
+        "country": "GB",
+        "name": "Keith Moon"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "French horn": "f9abcd44-52d6-4424-b3a0-67f003bbbf3d",
+        "trumpet": "1c8f9780-2f16-4891-b66d-bb7aa0820dbd",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1964",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "2002",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "name": "John Entwistle",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "384d6827-3b17-43bc-acf6-92e618b8ec83",
+        "sort-name": "Entwistle, John"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar",
+        "French horn",
+        "keyboard",
+        "lead vocals",
+        "original",
+        "synthesizer",
+        "trumpet"
+      ]
+    },
+    {
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "de4e47e4-d92e-4d50-b429-9423d53d8456",
+        "sort-name": "Jones, Kenney",
+        "disambiguation": "drummer for Small Faces, Faces, and The Who",
+        "country": "GB",
+        "name": "Kenney Jones"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1985",
+      "target-credit": "",
+      "begin": "1978",
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist"
+    },
+    {
+      "begin": "1979",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "2011",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "John “Rabbit” Bundrick",
+        "country": "US",
+        "disambiguation": "",
+        "id": "f3329a19-7c51-48df-9e38-8dec999db949",
+        "sort-name": "Bundrick, John “Rabbit”",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": "1996",
+      "type": "member of band",
+      "attribute-ids": {
+        "mandolin": "37fa9bb5-d5d7-4b0f-aa4d-531339ba9c32",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "name": "Simon Townshend",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Townshend, Simon",
+        "id": "2efac2d7-e5ad-4e7b-87c9-ef678fbbaaab",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1997",
+      "target-credit": "",
+      "attributes": [
+        "additional",
+        "background vocals",
+        "guitar",
+        "mandolin"
+      ],
+      "direction": "backward"
+    },
+    {
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "begin": "1996",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "additional",
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Starkey, Zak",
+        "id": "fa6d1fab-dc90-4e76-bdf9-28e06d1010ff",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Zak Starkey",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "2025-04-15"
+    },
+    {
+      "artist": {
+        "name": "Pino Palladino",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "0dfd6aab-9056-4764-89b0-80bee7c9f998",
+        "sort-name": "Palladino, Pino",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [
+        "additional",
+        "bass guitar"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": "2002",
+      "type": "member of band",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "begin": "2002",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "mandolin": "37fa9bb5-d5d7-4b0f-aa4d-531339ba9c32",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "direction": "backward",
+      "attributes": [
+        "additional",
+        "background vocals",
+        "guitar",
+        "mandolin"
+      ],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Simon Townshend",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "2efac2d7-e5ad-4e7b-87c9-ef678fbbaaab",
+        "sort-name": "Townshend, Simon",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "2012",
+      "target-credit": "",
+      "artist": {
+        "id": "eda9fe06-30bc-48cb-ac24-91298cf235f6",
+        "sort-name": "Gold, Loren",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Loren Gold",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [
+        "additional",
+        "keyboard"
+      ],
+      "direction": "backward"
+    },
+    {
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "member of band",
+      "begin": "2012",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "additional",
+        "keyboard"
+      ],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "name": "Frank Simes",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Simes, Frank",
+        "id": "eff10f94-f1a7-4114-8955-e2c8c1b16590"
+      }
+    },
+    {
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "begin": "2012",
+      "target-credit": "",
+      "artist": {
+        "name": "Chris Stainton",
+        "disambiguation": "keyboard player, session musician and songwriter",
+        "country": "GB",
+        "id": "1e66dc54-c636-470e-b21b-f997d0b3e20f",
+        "sort-name": "Stainton, Chris",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [
+        "additional",
+        "keyboard"
+      ],
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "additional",
+        "drums (drum set)"
+      ],
+      "target-credit": "",
+      "end": "2025-05-18",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "fa6d1fab-dc90-4e76-bdf9-28e06d1010ff",
+        "sort-name": "Starkey, Zak",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Zak Starkey",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "begin": "2025-04-19",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {}
+    },
+    {
+      "target-type": "artist",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "attribute-ids": {},
+      "type": "tribute",
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Amazing Journey",
+        "id": "ed9a2326-9ee4-4833-8793-0951d77100a0",
+        "disambiguation": "US group w/ Mike Portnoy",
+        "country": "US",
+        "name": "Amazing Journey"
+      },
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "id": "cc3bc577-4aac-4a92-a89b-04d1dc3e70a9",
+        "sort-name": "Substitute",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "name": "Substitute",
+        "country": "BE",
+        "disambiguation": "Belgian The Who tribute band"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "backward",
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-type": "artist",
+      "type": "tribute",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-type": "artist",
+      "begin": null,
+      "type": "tribute",
+      "attribute-ids": {},
+      "artist": {
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Substitute: Tales From The Who",
+        "id": "015dbb68-6213-457f-9897-18222dc53aa4",
+        "disambiguation": "",
+        "country": "US",
+        "name": "Substitute: Tales From The Who"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Who’s Best",
+        "country": null,
+        "disambiguation": "tribute to The Who",
+        "id": "fef04166-d45c-440e-9539-16ac5ad3b8ef",
+        "sort-name": "Who’s Best",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {},
+      "type": "tribute",
+      "begin": null,
+      "target-type": "artist",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Who’s Who",
+        "id": "593948a2-f925-4f7f-9e94-9a597dd0a45f",
+        "country": "US",
+        "disambiguation": "The Who tribute band",
+        "name": "Who’s Who"
+      },
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type": "tribute",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "target-type": "artist"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "allmusic",
+      "url": {
+        "id": "8a9e0c0f-91cd-4e52-bca1-64783c358d5c",
+        "resource": "https://www.allmusic.com/artist/mn0000577627"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846"
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "bandsintown",
+      "url": {
+        "id": "fe3d955c-0337-4bd9-aa68-d38c569d4266",
+        "resource": "https://www.bandsintown.com/a/554"
+      }
+    },
+    {
+      "target-credit": "",
+      "end": "2020-11-19",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "ended": true,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+        "id": "f6130ea0-9757-400b-8084-3466547c03bc"
+      },
+      "type": "BBC Music page",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "http://www.connollyco.com/discography/who/",
+        "id": "32516f1e-3b73-4366-acf5-5d0538d637ea"
+      },
+      "type": "discography page",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "begin": null,
+      "type": "discography page",
+      "url": {
+        "resource": "http://www.thewho.info/Discography.htm",
+        "id": "74106eee-3d87-408d-9e1a-57524ecaf012"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/196766",
+        "id": "e21bcffb-d7c1-475a-ae50-9305e37e5a73"
+      },
+      "type": "discogs",
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w",
+        "id": "1437410f-7b3e-4b12-9631-98043b210721"
+      },
+      "type": "free streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.deezer.com/artist/817",
+        "id": "de7ae00a-a635-47b8-a226-52e580bb50ae"
+      },
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "image",
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:Who_-_1975.jpg",
+        "id": "bd13dd07-346f-477d-b88a-d3938218158b"
+      },
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "IMDb",
+      "url": {
+        "resource": "https://www.imdb.com/name/nm1277963/",
+        "id": "ecd9b338-a9a5-43f2-b58f-472221278f04"
+      },
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "begin": null,
+      "url": {
+        "id": "c08476fa-5441-414c-9a51-bbda243369b7",
+        "resource": "https://www.last.fm/music/The+Who"
+      },
+      "type": "last.fm",
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "a2e67c04-ad6d-4133-ae56-d909ded50f3c",
+        "resource": "https://genius.com/artists/The-who"
+      },
+      "type": "lyrics"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "type": "lyrics",
+      "url": {
+        "id": "740c55ed-4603-4602-af35-50baab8c2eb8",
+        "resource": "https://muzikum.eu/en/the-who/lyrics"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "4e586aac-ecfd-401e-9182-36437d699ee4",
+        "resource": "https://www.musixmatch.com/artist/The-Who"
+      },
+      "type": "lyrics",
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "ended": false,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "target-type": "url",
+      "url": {
+        "id": "51b9f228-1687-4fdb-b3b1-0cb02d3e18f2",
+        "resource": "https://myspace.com/thewho"
+      },
+      "type": "myspace",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-type": "url",
+      "begin": null,
+      "type": "official homepage",
+      "url": {
+        "resource": "https://www.thewho.com/",
+        "id": "db76f897-36ca-4001-a7ea-d5bbf5d84df1"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "6b1977ff-f773-429d-9dc2-1d008ad91809",
+        "resource": "http://id.loc.gov/authorities/names/n80008161"
+      },
+      "type": "other databases",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "url": {
+        "resource": "https://adp.library.ucsb.edu/names/350776",
+        "id": "848856b6-7556-43ef-9bac-efe498e170aa"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13907463t",
+        "id": "bc7da0b4-6060-4996-bc31-9a3e3b2d10a8"
+      },
+      "type": "other databases"
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://d-nb.info/gnd/2064255-6",
+        "id": "182a9330-db34-47f1-a1cb-06b32c7ae281"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7Tpx7gh97tRkvKGkPF",
+        "id": "58da771c-be7d-4478-b954-442034300cbb"
+      },
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "url": {
+        "id": "c1099ecb-36e8-435e-9810-3bd480aadde1",
+        "resource": "https://imvdb.com/n/the-who"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "type": "other databases",
+      "url": {
+        "id": "32f21e0f-9561-4c32-9b6c-25e4d8d642ab",
+        "resource": "https://musicmoz.org/Bands_and_Artists/W/Who,_The/"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "id": "923b4379-8e56-41f3-80d5-9186acca941f",
+        "resource": "http://snaccooperative.org/ark:/99166/w6m378k1"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "type": "other databases",
+      "url": {
+        "id": "ef7143f4-5072-41e1-80d6-85f9a2fba14d",
+        "resource": "https://rateyourmusic.com/artist/the-who"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.45cat.com/artist/the-who",
+        "id": "58b55bbf-63d9-4d24-9807-e20c6dfcf4e9"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.metalmusicarchives.com/artist/the-who",
+        "id": "29ba60a7-42fb-42c6-bc5b-cf791723e0cd"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "3f9d70ef-8293-4e8a-b0b3-bd22b06a2c85",
+        "resource": "https://www.musik-sammler.de/artist/the-who/"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=3091",
+        "id": "589be5ea-1935-41b6-85ee-12ba191c3899"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/The_Who",
+        "id": "7a457732-1b10-4b9f-886b-9f079478f69c"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.whosampled.com/The-Who/",
+        "id": "35386881-1d20-46f7-b469-c8d4607d41e9"
+      },
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": true,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "url": {
+        "id": "b42938fb-d0db-4e87-8f0d-431b47a13ba6",
+        "resource": "https://play.google.com/store/music/artist?id=Abgv75ooaxh2yn5b7gsowhv2dc4"
+      },
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "end": "2020-10-12",
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "145fc178-5e0a-49b6-82fe-0ee25b759df2",
+        "resource": "https://itunes.apple.com/gb/artist/id61499"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "url": {
+        "id": "ad19848e-80ec-41fd-abda-281fbbeb6f0b",
+        "resource": "https://mora.jp/artist/118473/"
+      },
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/61499",
+        "id": "9b888a84-a80b-4ca9-8ae5-d71f4cfc7797"
+      },
+      "type": "purchase for download",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "ザ・フー",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/274208",
+        "id": "2fbd070f-0d72-40f6-9490-31a03d3f86ed"
+      },
+      "type": "purchase for download",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "https://uk.7digital.com/artist/the-who",
+        "id": "b4a67d04-0f58-4fec-aae3-0f892225312e"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104220",
+        "id": "6f32407c-9207-4d1a-9948-0d6c88aa3eb3"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-who/45964",
+        "id": "6faa44d6-5364-4b62-a4ff-f1e6a38625e7"
+      },
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "begin": null,
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/535",
+        "id": "14c0e8e0-09b8-4dfa-aee1-675a7e16ec69"
+      },
+      "type": "secondhandsongs",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "url": {
+        "id": "88a877f9-39ad-4cc0-9016-083510226a65",
+        "resource": "https://www.setlist.fm/setlists/the-who-bd6bd2a.html"
+      },
+      "type": "setlistfm",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "url": {
+        "resource": "https://twitter.com/thewho",
+        "id": "cb5749c4-8f07-460c-be4a-9bbda3b2e635"
+      },
+      "attribute-ids": {},
+      "begin": "2009-05-20",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.facebook.com/thewho",
+        "id": "ac2398eb-559d-46fb-a3b3-37cb7945cb36"
+      },
+      "type": "social network"
+    },
+    {
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.instagram.com/officialthewho/",
+        "id": "1a9bbbbe-9478-4b1b-9414-db7f752ce055"
+      },
+      "type": "social network",
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "social network",
+      "url": {
+        "resource": "https://www.threads.com/@officialthewho",
+        "id": "a4914ca5-b313-4787-8afa-8ce77fcaa5ff"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "social network",
+      "url": {
+        "resource": "https://www.tiktok.com/@officialthewho",
+        "id": "4caa6de6-e52c-40e2-bbff-7c10b29f7c14"
+      },
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "type": "social network",
+      "url": {
+        "id": "11ad203a-d9e4-4db0-95b6-c89633020d7b",
+        "resource": "https://www.instagram.com/thewho/"
+      },
+      "attribute-ids": {},
+      "ended": true,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.songkick.com/artists/69685",
+        "id": "1de14986-89a2-4c27-89fd-af463af3bdb1"
+      },
+      "type": "songkick",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "soundcloud",
+      "url": {
+        "resource": "https://soundcloud.com/thewho",
+        "id": "d735b640-b101-4286-b6c5-73b709ba3d62"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://us.napster.com/artist/the-who",
+        "id": "4330144b-cc9c-4c6c-8527-8fd75526731f"
+      },
+      "type": "streaming",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": true,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": "2022-06-08",
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "resource": "https://music.amazon.co.uk/artists/B00GAMSTKU",
+        "id": "a41dc9ac-5c73-4db0-96bf-5984e1657cae"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/61499",
+        "id": "9b888a84-a80b-4ca9-8ae5-d71f4cfc7797"
+      },
+      "type": "streaming",
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://tidal.com/artist/24915",
+        "id": "c779883c-17f7-40c6-9f69-46341d6e76ab"
+      },
+      "type": "streaming"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "begin": null,
+      "type": "streaming",
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104220",
+        "id": "6f32407c-9207-4d1a-9948-0d6c88aa3eb3"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "url": {
+        "id": "6faa44d6-5364-4b62-a4ff-f1e6a38625e7",
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-who/45964"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "VIAF",
+      "url": {
+        "id": "ae31c7bf-824b-4162-b320-ebc9ec5e8c53",
+        "resource": "http://viaf.org/viaf/146811951"
+      },
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "type": "wikidata",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q93346",
+        "id": "1913aff3-005e-4e49-ad8e-ca4e74f64bac"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "TheWhoVEVO",
+      "type": "youtube",
+      "url": {
+        "id": "b82b5da7-1f96-4823-bcf8-d12c25b0dbc2",
+        "resource": "https://www.youtube.com/channel/UCq8x90UTaVXcNHuWa6OQgjA"
+      },
+      "attribute-ids": {},
+      "begin": "2009-05-11",
+      "target-type": "url",
+      "ended": false,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0"
+    },
+    {
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "2c21249a-27ba-415a-9e3c-cd6c05956275",
+        "resource": "https://music.youtube.com/channel/UCUtwj-3S97bj3lYDVxDKtlQ"
+      },
+      "type": "youtube music",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    }
+  ],
+  "ipis": [],
+  "aliases": [
+    {
+      "ended": false,
+      "type-id": null,
+      "locale": null,
+      "primary": null,
+      "name": "Who",
+      "end": null,
+      "type": null,
+      "sort-name": "Who",
+      "begin": null
+    },
+    {
+      "type": "Artist name",
+      "sort-name": "ザ・フー",
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "locale": "ja",
+      "primary": true,
+      "end": null,
+      "name": "ザ・フー"
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "area": {
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "type-id": null,
+    "type": null,
+    "sort-name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "begin-area": {
+    "type": null,
+    "type-id": null,
+    "sort-name": "London",
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "disambiguation": "Greater London",
+    "name": "London"
+  },
+  "isnis": [
+    "0000000123373203"
+  ],
+  "gender": null,
+  "id": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+  "sort-name": "Who, The",
+  "life-span": {
+    "end": null,
+    "begin": "1964-02",
+    "ended": false
+  },
+  "country": "GB",
+  "name": "The Who",
+  "end-area": null
+}

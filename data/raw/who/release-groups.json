@@ -1,0 +1,3265 @@
+{
+  "release-group-count": 236,
+  "release-groups": [
+    {
+      "secondary-type-ids": [],
+      "id": "00c3da9f-309b-3f78-ba23-6a753fd6313d",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1965-12-03",
+      "title": "My Generation"
+    },
+    {
+      "title": "The Who Collection",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1985-10-04",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "01b5499d-9832-40f0-ba27-25bdd1b2f298"
+    },
+    {
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Lo mejor de The Who",
+      "id": "0384ec08-cee2-42de-afb9-a788f472f611",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2008-04-01",
+      "title": "Amazing Journey: The Story of the Who",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "09625409-310f-3c05-9152-7ab91a01acd9",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "first-release-date": "1970-05-16",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Live at Leeds",
+      "id": "0ba3b960-9b4b-3191-bcc5-1e51169e5955",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "id": "0d1ac15a-0a66-4255-a618-d61db0a2c3bd",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2009-12-21",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Greatest Hits"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "0e587339-406a-3d21-8678-73e46e250379",
+      "title": "Tommy",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1969-05-23"
+    },
+    {
+      "id": "11b1e2ff-6ce8-34d2-8166-abc067e86aa8",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1996-10-29",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Live at the Isle of Wight Festival 1970"
+    },
+    {
+      "title": "Who Are You",
+      "first-release-date": "1978-08-18",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "12f22673-c7f7-384d-a0ab-c92530890302",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "Pop History, Vol. 4",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1970",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "13bb2354-2c09-4315-9902-e6bbd3c216c9"
+    },
+    {
+      "title": "Who’s Missing",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1985-11-30",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "1784f236-0c32-35cd-a4a7-3ac99076c429"
+    },
+    {
+      "first-release-date": "1988",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "The Who Collection",
+      "id": "17fad19d-47c7-4490-a097-ad9743364e1a",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "id": "1865453d-3e87-4265-afe1-7111b9054066",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1989",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Live at The Fillmore East 1968"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "18e457c3-9deb-43f7-8039-13907d5bb737",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1977",
+      "title": "The Who, The Bee Gees, Joe Cocker, Procol Harum"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "192efe7b-2d38-3dd0-b985-59cb8ce99c05",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The Who",
+      "first-release-date": "1980",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "1a52e917-e480-3483-a777-10dc29d8a87a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1990-02-28",
+      "title": "Join Together"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "1f9f3059-0b2b-4d1c-abd3-447a6e836e16",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1981",
+      "title": "Phases"
+    },
+    {
+      "id": "2424f772-7773-341c-86cf-c50f8f179362",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2001",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Live at the Royal Albert Hall"
+    },
+    {
+      "title": "Two’s Missing",
+      "first-release-date": "1987-04-11",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2514f4fa-7ea2-3bc1-943e-e5d5462eaf89",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "29e94eeb-a2a0-37a1-9619-c9fa9d9674f3",
+      "title": "Live",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1991"
+    },
+    {
+      "title": "The Who",
+      "first-release-date": "1997",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2ccf474a-e8f8-37d2-acc9-574384aa84b7",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2002-06-11",
+      "title": "The Ultimate Collection",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "2dd77597-2fc8-3965-bef0-e4bf5500012d",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2f600ce8-a112-388e-8d86-874be0f91853",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Who’s Greatest Hits",
+      "first-release-date": "1983-05-08",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "first-release-date": "2004-05-03",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "First Singles Box",
+      "id": "386b6ca1-694f-3412-a2d4-503a28367676",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "Icon 2",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2011-04-05",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "42cefa8f-8bc8-466d-8df4-a333361f2a68"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "4613f646-8a09-46a1-981b-76d7d45a6fcd",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The Reaction Singles",
+      "first-release-date": "2015-08-14",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "id": "475af630-84df-3243-9888-c03c67d54d1a",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1966-12-03",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "A Quick One"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "488ae361-9c07-47cc-82b2-60755325ecd0",
+      "title": "Magic Bus / My Generation",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1976"
+    },
+    {
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "4ceb5e8e-34f8-4008-86b7-c4ff4a79bcea",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Live & Alive",
+      "first-release-date": "2003",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "4f5eb17a-af5d-3acf-911d-5de4f3e8b9da",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "London 29·03·04",
+      "first-release-date": "2004-03-29",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "title": "1968-04-06: Live at the Fillmore East: New York, NY, USA",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2001",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "5575aeba-0dd3-3ab3-a160-8b2adbfab26d"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "5599642b-1dcd-4382-a4e9-8bce8d8fc7c1",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "2002-08-28: Live at Columbus, Ohio, USA",
+      "first-release-date": "2002",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "5dd804eb-0c24-3daf-8dfe-6373080cb6b8",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2000",
+      "title": "The Who Live: The Blues to the Bush 1999"
+    },
+    {
+      "title": "A Quick One (Happy Jack) / The Who Sell Out",
+      "first-release-date": "1973",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "60d556d0-eeae-4cc2-8287-3518f9c61866",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "60f9782d-f382-3136-88e8-5088df5be69e",
+      "title": "The Who by Numbers",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1975-10-18"
+    },
+    {
+      "secondary-type-ids": [],
+      "id": "634b1ad8-9be3-348e-bf1e-5456aabdfc77",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1981-03-16",
+      "title": "Face Dances"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "66d634e1-1201-32e1-aa6e-fdc6df8438ec",
+      "title": "Live: Irvine 2002",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2002-09"
+    },
+    {
+      "id": "67898886-90bd-3c37-a407-432e3680e872",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1982-09-04",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "It’s Hard"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2002",
+      "title": "2002-09-24: Xcel Energy Center, St. Paul, MN, USA",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "67c70bdf-e2fb-497f-9858-b961839bea61",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "686e32d6-c4f5-4c1c-80fd-7e6241b43671",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The Track Record Singles 67–73",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "title": "The 25 Best Songs",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2017-05-22",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "695529d9-c850-4abc-b791-eef521d680e8"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "6ca44914-48f0-33a7-abf3-35113e263a46",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1979-06-09",
+      "title": "The Kids Are Alright"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "74c78f51-013a-4985-b2d7-58f56b20468c",
+      "title": "WHO",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2019-11-22"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2012-11-16",
+      "title": "The Studio Albums",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "75239486-53c1-4d92-b66b-fcfcbadc1d8f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "id": "78ddcf4b-13a8-4d7a-a30f-86fa5f73b206",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1997",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Wild Collection"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "795e1b71-098d-371d-b694-918f4c5f49fd",
+      "title": "BBC Sessions",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2000-02-14"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "7cf4e03b-bc9a-33fc-8b38-706f5c3ea35b",
+      "title": "Who’s Last",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1984"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7da029ae-7349-3342-8baa-bcf7de7cedd6",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "20th Century Masters: The Millennium Collection: The Best of The Who",
+      "first-release-date": "1999-04-13",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "7f2aaa5c-89f9-4e96-a7c3-59560c97a078",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2006",
+      "title": "Who’s Better, Who’s Best"
+    },
+    {
+      "title": "Meaty Beaty Big and Bouncy",
+      "first-release-date": "1971-10-30",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "83dbefb5-920d-38bb-b614-3ba0311fbd79",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "id": "844c1dc4-2daf-4c08-982a-9f098e8dc3f2",
+      "secondary-type-ids": [
+        "22a628ad-c082-3c4f-b1b6-d41665107b88"
+      ],
+      "secondary-types": [
+        "Soundtrack"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1975-03",
+      "primary-type": "Album",
+      "disambiguation": "1975 Ken Russell film",
+      "title": "Tommy"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1983",
+      "title": "Rarities, Volume 1: “1966–1968”",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "84bd87a8-c3da-4f1c-b132-1b9f35dd5064",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2026-04-03",
+      "title": "Who’s Breakthroughs",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "8cce66b1-9c7a-44dd-9011-d819b5432c2f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "8de1ccaa-f405-440d-a269-1162d0b01192",
+      "title": "The Who at Kilburn",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1977"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2011",
+      "title": "ICON",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "8e71c839-d6f4-4871-bccf-7e67645f8c2e",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2009",
+      "title": "Who Are You / The Kids Are Alright",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "8f30d48a-67f6-496f-bc1c-d7d1b90c5789",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1968-04",
+      "title": "I’m a Boy",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "9291d8d2-753e-4074-95f7-9cdd88564c74",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "first-release-date": "1971-08-14",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Who’s Next",
+      "id": "9584e28b-66a7-3846-8d52-b3008a283539",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "9620c4e1-1a4c-49a0-8bb9-846703cfe27d",
+      "title": "Mountain View, California July 3, 2002",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2002"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "9734974e-bb10-3d80-a76f-28c2d73480e2",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2004-03-30",
+      "title": "Then and Now"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "9a11fb7c-3bdd-3eb2-ad00-38e0e315edcb",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1968-09-14",
+      "title": "Magic Bus: The Who on Tour"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1973-11-16",
+      "title": "Quadrophenia",
+      "secondary-type-ids": [],
+      "id": "9b191575-fa1f-3531-bff5-121782318972",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": []
+    },
+    {
+      "secondary-type-ids": [
+        "22a628ad-c082-3c4f-b1b6-d41665107b88",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "9ebb37b6-ff5c-4481-bd0d-5089afb3fc9b",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Soundtrack",
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2005",
+      "title": "Tommy and Quadrophenia Live With Special Guests"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "a652d5e8-3957-4123-a62f-946c28fd2f4f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2018",
+      "title": "The Origins"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "a68596f2-ed14-40aa-8325-2d65c0735064",
+      "title": "’64–’74 / The Best of the Last Ten Years",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1975"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2025-04-04",
+      "title": "The Best Of",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "a71e0c44-7913-4bab-a9d9-17fc4c63ab05",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "a8a6ab45-09d4-4305-b166-abf059bc9a5a",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Exciting The Who",
+      "first-release-date": "2007-02-07",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "first-release-date": "1967-12-16",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "The Who Sell Out",
+      "id": "aa02a102-f7b5-3584-8d21-bd9c560effb6",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "aa3c3050-8555-3ccc-9970-9c53bfb8d8e7",
+      "title": "Thirty Years of Maximum R&B",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1994-07-05"
+    },
+    {
+      "first-release-date": "2004",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Rarities 1966–1972, Vol. I / Rarities 1970–1973, Vol. II",
+      "id": "ac82e783-52b8-3370-95f7-9144f61a7401",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "2002-08-25: Live at Noblesville, Indiana, USA",
+      "first-release-date": "2002-08-25",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "af5ea325-cc8f-3b1f-a2f9-396191f944b7",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "id": "b0c62b9d-482e-49c4-8db8-97a518aecff8",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2010-01-19",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Greatest Hits Live"
+    },
+    {
+      "id": "b8d03af0-5681-459d-9608-cbc2c1035f7a",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1970",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Backtrack Fourteen: The Ox"
+    },
+    {
+      "first-release-date": "1984-11-01",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "The Singles",
+      "id": "b93e0fb1-d91c-3550-8450-26751385aab5",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "bac31e28-dece-30c8-9b72-e35d1ba1c59d",
+      "title": "Live: Las Vegas Nevada",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2002-09-14"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2011-01-03",
+      "title": "Who’s Missing / Two’s Missing",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "c14a2944-c53d-4f33-91b8-aa3e72d0ce9b",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "id": "c96cfe52-1821-3946-965c-79279cf4c1a4",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1996-08-01",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "My Generation – The Very Best of The Who"
+    },
+    {
+      "title": "London 24·03·04",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2004-03-24",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "cacd2579-2365-3525-b83c-f84ec30ff5e2"
+    },
+    {
+      "title": "Opus Collection",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2012",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "cb825e4a-beb8-404d-b202-f0da1feaf5d4"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "d4af6d87-60c6-414f-853a-eab5c9bb5836",
+      "title": "Maximum As & Bs",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2017-10-27"
+    },
+    {
+      "first-release-date": "1981-09-11",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Hooligans",
+      "id": "d4c049de-69da-3114-9458-4428427226d6",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "id": "d63cb099-a10d-445d-8ae6-4956d431c691",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1976",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "The Story of The Who"
+    },
+    {
+      "first-release-date": "1983",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Rarities, Volume 2: “1970–1973”",
+      "id": "daadd4bf-aa91-45e1-a5e3-64e875af53bc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "dff47971-e98b-4c83-a2f9-abf75938f138",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Best of the Sixties",
+      "first-release-date": "1982",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "title": "Woodstock 1969",
+      "first-release-date": "1975",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "e1a5af00-82d4-479a-ba09-bf764e825f2f",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "e28d9e84-3b39-4a8a-beaa-67c08ae80ede",
+      "title": "The Best of the Who",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1997"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1968",
+      "title": "Direct Hits",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "e77d6142-5b2a-322a-a33e-7119f3367efd",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "ecc6176a-ce14-3dfc-921c-c2267664c3c0",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1974-10-12",
+      "title": "Odds & Sods"
+    },
+    {
+      "title": "2002-07-31: Madison Square Garden, New York, NY, USA",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2002",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "ed7292fd-95ff-3089-ab18-8b7c3acc0020"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "f05d4cb7-bef7-3615-8ade-d45a7a6baa05",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1988-11-14",
+      "title": "Who’s Better, Who’s Best"
+    },
+    {
+      "id": "f0665d38-1497-3d36-847e-d23e804394e9",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2004-03-25",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "London 25·03·04"
+    },
+    {
+      "title": "Who’s Best Kept Secrets",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2026-08-07",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "f7283854-42b9-4b3b-bf9d-17ef268c9635"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "f8a01e48-82a6-4b25-9000-5f4184ed0cbc",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1975",
+      "title": "The Who"
+    },
+    {
+      "id": "f9a56554-350a-44f3-b042-993e1b5650de",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1982",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Greatest Hits"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "fb69a40d-46d3-3aaa-bb68-f2fee91d2f25",
+      "title": "London 22·03·04",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2004-03-22"
+    },
+    {
+      "id": "fcd56d87-95b6-34e1-aee7-20b6b6b6dfe9",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2006-10-27",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Endless Wire"
+    },
+    {
+      "first-release-date": "2012-05-28",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Pinball Wizard: The Collection",
+      "id": "fcec534d-be69-4bfd-927c-82e5d4db2d62",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1993-07-13",
+      "title": "Tommy: Original Broadway Cast Recording",
+      "secondary-type-ids": [
+        "22a628ad-c082-3c4f-b1b6-d41665107b88"
+      ],
+      "id": "fd099f3b-34aa-335c-b6df-351240d3a9f5",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Soundtrack"
+      ]
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2020",
+      "title": "Essential",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "fdeb2f13-c356-49ee-90ab-c9684bbff0d9",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "title": "The Who Hits 50!",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2014-10-27",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "ff3ecb43-dea3-45e3-a2e9-a6496c1f1759"
+    },
+    {
+      "title": "Tommy Live",
+      "first-release-date": "1989",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "01ee5a0e-ae87-44e2-806b-8b42bc987005",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "title": "2007: Rotterdam, NL 05.06.07",
+      "first-release-date": "2007",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "02c2b9bf-795c-42bb-81b6-90f47acb7002",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "title": "Tales From The Who",
+      "first-release-date": "1973",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "02c9b9fe-275f-4f1b-b868-1f71674ae9f2",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "title": "The Who Hits 50: 2016‐05‐17 Portland",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2016",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "03974b9a-a317-4e97-b5b0-5282de0ee5da"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ],
+      "id": "043f092b-b1a2-44ed-a53c-6bdaa853e73d",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation",
+        "Demo"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1996",
+      "title": "Music Must Change: The Pete Townshend Demos for the Who Are You Album"
+    },
+    {
+      "id": "052f670d-f10f-49df-b68f-0d63459e18f3",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2016",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "The Fall 1969 Soundboard Tapes, Vol. 5 – Acetates"
+    },
+    {
+      "title": "1966‐10‐25 Stockholm",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1966-10-25",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "071a5ffd-bfde-4f08-a245-b9fd36a1e2b6"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "0f3f670a-f1e7-4632-b3ea-6b5ba6c01710",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1995",
+      "title": "Pure Rock Theatre"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "0fb38360-296f-43ab-a5a5-c1f17b1653ad",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Live in Hyde Park",
+      "first-release-date": "2015-11-20",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1999",
+      "title": "Eternal Mods",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "0fd2bae1-795b-4e13-b36d-9790dcc37bfa",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "1113306b-b54e-47af-bd05-36c64b3f90d7",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1992",
+      "title": "Alone & Together Live in Concert 1986"
+    },
+    {
+      "id": "12b1f7ec-5fef-4a9c-9425-62e3e767593f",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1974",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Live at Charlton 1974"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "12c12b26-d7fd-3923-a278-921c4abc0153",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2006-10-03",
+      "title": "Live From Toronto"
+    },
+    {
+      "first-release-date": "2006-08-01",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Hyde Park U.K. 02.07.06",
+      "id": "17fd663a-5364-3f26-b8b1-32998d8366c6",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "id": "1de88297-ea4b-4432-a8fc-fb4f553fd8bc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2020-04-10",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Transmission Impossible"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2023-03-30",
+      "title": "The Who With Orchestra: Live at Wembley",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "1fd0ebdd-a16d-45c4-85fd-087b8083f844",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "214c2b2d-c4c7-4129-bc9d-0a178fb75fac",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2015",
+      "title": "2015‐06‐23: 3Arena, Dublin, Ireland"
+    },
+    {
+      "id": "285acc34-c746-47db-9b92-1aedda0ad45d",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2020-08-12",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "The Singles Collected 1964–68"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2025-08-22",
+      "title": "Live at the Oval 1971",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "29a2ace2-62bb-42b5-87bb-0383589c7725",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "2bd59ed4-58fd-44bd-9814-e16d4afea98c",
+      "title": "Two Originals",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2001"
+    },
+    {
+      "title": "Who’s Next",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2023-09-13",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "2c56c32d-f66c-4e26-bb6b-caed0e0cffa4"
+    },
+    {
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2d496f2b-0f79-4176-a242-59c547cecf49",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "The Fall 1969 Soundboard Tapes, Vol. 4 – Electric Factory",
+      "first-release-date": "2016",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "34a044ca-9ab5-4586-84ac-c05514a8b770",
+      "title": "Live in Amsterdam",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1989"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "3f592f22-45fe-383b-a97c-b195fb3baff1",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1976",
+      "title": "Who Put the Boot in 1976 (live at Swansea City Football Ground)"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2015-02-24",
+      "title": "2004‐08‐04: Maui, HI, USA",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "3f948291-36dd-4032-9b91-516a667afd5c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "41c09dac-df87-4659-9102-171a694eded8",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "2007-06-06: Palais Omnisports Paris-Bercy, Paris, France",
+      "first-release-date": "2007",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "4355aef1-e11e-499b-b2c4-2fef9dc77130",
+      "secondary-type-ids": [],
+      "title": "Remembers The High Numbers",
+      "first-release-date": "1999",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "title": "Live USA",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1989",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "43b91a0f-db62-4c63-b281-08da00d0330a"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "452b2cfc-751e-466f-b1fc-042418955da0",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Dangerous",
+      "first-release-date": "1993",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "title": "Live > Birmingham 07-06-04",
+      "first-release-date": "2004-06-07",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "47438875-10f0-3c83-b95e-f0c66800983d",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "48aed006-18ba-41ec-b930-1e9b1b07b044",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Fresno, CA 02.25.07",
+      "first-release-date": "2007",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "title": "Live in Texas ’75",
+      "first-release-date": "2012-10-05",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "49731c61-b5f5-413b-9093-fe74dc3f2ad0",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "first-release-date": "2022",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Largo 1973",
+      "id": "4e29b7a3-69db-4817-ab1b-b4d8466114a9",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "2007‐06‐26: Wembley Arena, London, England, UK",
+      "first-release-date": "2007",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "52005026-c125-4a48-9bd1-bad1c1ba847c",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "title": "Audiobiography",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "54462ecd-6a64-4c80-a8cc-de17f252d845"
+    },
+    {
+      "title": "Melbourne 31.07.04",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2004-08",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "5b7e7e97-11b8-4ff3-abf6-0d143ee69bda"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "5d3aff76-85f8-4806-b1bf-b334210d5e4e",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2007",
+      "title": "2007-06-19: König Pilsener Arena, Oberhausen, Germany"
+    },
+    {
+      "first-release-date": "1989",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Who Meet The Animals",
+      "id": "5e26a1da-a25b-4dd0-b8d7-41e6132cb13c",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "2016",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "The Fall 1969 Soundboard Tapes – Some Lo‐Fi Extra’s",
+      "id": "5f3a3379-34e2-4dce-b18b-24f8fae35992",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "6050c10a-e688-4a60-9645-63198bd601cd",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Isle of Wight 12·06·04",
+      "first-release-date": "2004-06-12",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "67d8d3cb-d5ce-4b47-977d-fe07d9295e98",
+      "title": "Live in Amsterdam",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2020-07-28"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "68a0c75e-8871-47d1-b3b6-468464e68f63",
+      "title": "Live Maple Leaf Gardens",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1982-12-16"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2020-04-21",
+      "title": "Loud Vibration Land: Amsterdam Broadcast, 1969",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "68da0148-8524-46df-9d85-94e894e61406",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "first-release-date": "1993",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "\"See Me, Feel Me\"",
+      "id": "6de49d1c-abf8-42d2-b847-fea9cc0a7d71",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "6ea1896a-bedd-4813-a11e-217de753402d",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "1989‐06‐30 – Giants Stadium",
+      "first-release-date": "1989-06-30",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1971",
+      "title": "Live Collector’s Item",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "703b8f0a-bd10-4aa6-b7fa-52465267d791",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1979-09-14",
+      "title": "MSG 9/14/79",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "720b9c83-95fe-44e8-b54e-78476e4b5ea4",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "title": "Soccer Rock",
+      "first-release-date": "1990",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "723ec067-396b-3203-8761-d3d80a702af9",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "77f55ab4-6b24-4ac3-af74-78dee3c9c934",
+      "title": "2007‐06‐01: Liberty Stadium, Swansea, Wales, UK",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2007"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "7bb8e7c7-6452-37a3-9ef8-1b7a451d68a9",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "",
+      "title": "The 1969 Soundboard Tapes, Volume 1"
+    },
+    {
+      "first-release-date": "1990",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "From Lifehouse to Leeds",
+      "id": "7d96da6c-6514-4a59-8e3a-109c613b0b8b",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "id": "7ea33f4e-a926-43ed-9016-c35255de1dfd",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2014-05-16",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "2002‐08‐03: Madison Square Garden, New York, NY, USA"
+    },
+    {
+      "first-release-date": "2006",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "New York, NY 09.18.06",
+      "id": "82e99b75-eaf1-4611-b633-aacd4331ba51",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "The Fall 1969 Soundboard Tapes, Vol. 2 - Capitol Theater",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2016",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "86ea9e66-76e4-4fb4-8dca-c7bf7e7ea3a6"
+    },
+    {
+      "id": "8726d94e-0f9f-48e3-89fd-7b38f28205f5",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1989-06-23",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "CNE Stadium Toronto 6/23/89"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "8d5eabd7-47d9-3f79-8efd-b20f13334ba2",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "30th Anniversary Sampler",
+      "first-release-date": "",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "9043be63-b5b0-4e98-9e1d-8fb74d648e6d",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "2002‐09‐21: American Airlines Center, Dallas, TX, USA",
+      "first-release-date": "2014-05-13",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "first-release-date": "1993",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Lifehouse Live",
+      "id": "907d653b-aae0-4e9c-a008-43370d23216b",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "952f83bf-b02d-4c15-950e-4f48796235b8",
+      "title": "Dublin, Eire 08.07.06",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2006"
+    },
+    {
+      "title": "Sings My Generation / Sell Out",
+      "first-release-date": "2000",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "97545521-0075-4a33-8028-926859a9cf62",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "title": "Live at CNE Stadium Toronto, Ontario 9 October 1982",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1982-10-09",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "9762a440-ceb2-4250-9e4d-aa019aeedb8f"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2006",
+      "title": "2006‐12‐08: Xcel Energy Center, St. Paul, MN, USA",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "9a65b563-7eb9-4554-a2a4-64a5fc46340a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "title": "Who's Lost",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "9d2a5e0f-968c-3af2-a973-fa2e5e270715",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "title": "Lyon, FR – 17.07.06",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2006-07-17",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "9e997d58-d528-40d6-b85a-9a215fb72160"
+    },
+    {
+      "first-release-date": "2006-11-25",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "The Who 2006: Philadelphia, PA 11.25.06",
+      "id": "a3621d13-e901-4238-a0fb-7ddb050815cd",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "a404e28c-ab67-34ea-965b-58a19a02c60a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2004",
+      "title": "Sydney 28·07·04"
+    },
+    {
+      "title": "Tommy: Live at the Royal Albert Hall",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2017-10-13",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "a60088b7-a353-4f3e-b305-b733e1fbb3d3"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1974",
+      "title": "Who’s Zoo",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "aa35760d-4ca7-44be-aff7-9a59b45b4ebb",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "title": "2015‐06‐21: Odyssey Arena, Belfast, Northern Ireland, UK",
+      "first-release-date": "2015",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "ac16bfbf-6d8e-490a-b2bf-276e4f70a433",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "acec7b1c-12b4-348d-aef3-9f74f9611751",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "2007‐06‐23: Knowsley Hall, Prescot, England, UK",
+      "first-release-date": "2007-06-23",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "b1f5d62c-705b-4357-abfb-2a169a50d0aa",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2018-04-20",
+      "title": "Live at the Fillmore East 1968"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "b2c4ac3c-1387-4c01-b1bc-d43642aa1aaf",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2017-06-02",
+      "title": "Live at the Isle of Wight 2004 Festival"
+    },
+    {
+      "first-release-date": "1991",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "My Generation",
+      "id": "b2e77472-77ba-4371-9374-df2ce87d9a90",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "Thirty Years of Maximum R&B Live",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2009-05-08",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "b35d9271-5e86-44a7-997a-52e5998f3998"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2006",
+      "title": "New York, NY 09.19.06",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "b571ba5e-8e1a-4fb5-8952-432eeccb99f7",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "title": "Who’s Back",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1988",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "b792926a-16a9-4125-b9ec-eb5bee6f2011"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "bd923e14-e0db-4fb7-8fc0-a1525e737203",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1975-11-20",
+      "title": "Houston 11/20/75"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "bec30368-d532-497d-a417-819f991ed3fe",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Live at Eden Project 25/07/2023",
+      "first-release-date": "2026-05-29",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "c6d4fe46-69de-4ccc-a530-6dd0edc321c6",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1972",
+      "title": "Closer to Queen Mary"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "c6de3ca8-7654-3195-a28e-8ed8871bf01a",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "It's Face Demos",
+      "first-release-date": "",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "first-release-date": "2004-09-13",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Live in Boston",
+      "id": "c7f3ccde-0fa9-4add-a25a-c6e9548d0a00",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "Live at Hull 1970",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2012-11-19",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "caec30e3-d4c6-45bd-85d8-31b314780dee"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "cc5e0c8b-1ce9-4552-83ca-f2d30d8f8196",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2004",
+      "title": "Cardiff 10.06.04"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "d1f59644-111e-4bed-a3af-c957573610fc",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2020-10-24",
+      "title": "A Quick Live One"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "d64f6240-ceaa-4468-94e5-c01fab96b0bd",
+      "title": "2007-05-16: Pavilhão Atlântico, Lisbon, Portugal",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2007"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "d6b6d6b4-4176-425a-aa53-b708bb737231",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Next Sessions",
+      "first-release-date": "2002",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "d6c54c7c-7d2b-4979-80ba-875f4660087f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1996",
+      "title": "Alternate Rarities"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "d7f91321-2014-4c52-b9aa-a25db4f3ba53",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2015",
+      "title": "The Who Hits 50: 04‐15‐2015 Tampa"
+    },
+    {
+      "first-release-date": "2018-10-24",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Live Washington DC 1973",
+      "id": "dcaf3f37-0962-4698-b584-ae5337060a60",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "Live at Shea Stadium 1982",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2015-06-29",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "e089f0a9-b5db-431d-a511-d4b41ead0396"
+    },
+    {
+      "id": "e42b1949-d23b-4c8c-902d-6e2b31358fa2",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2016",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "The Fall 1969 Soundboard Tapes, Vol. 1 – State University of N.Y."
+    },
+    {
+      "title": "2006-11-10: Las Vegas, NV, USA",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2006-11-10",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "e9b53cb7-d241-3ad9-932a-ce1a94d9f10e"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "ed7fcf97-5a14-4d2f-a640-886f4040e84a",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Who's on First?",
+      "first-release-date": "1976",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "ee0bfe42-3ce3-4b28-b79f-21ba4a29dced",
+      "title": "Quadrophenia: Live in London",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2014-06-06"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2022",
+      "title": "Sleep on the Beach",
+      "secondary-type-ids": [],
+      "id": "f0828e91-057b-4322-9d43-61500bc2ea79",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": []
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2005",
+      "title": "1964–1968: Under Review",
+      "secondary-type-ids": [
+        "66b8a13e-43ff-3ac0-ac6c-73659d3817c6"
+      ],
+      "id": "f09a359d-965e-4da7-a6e6-873943bafd7d",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Spokenword"
+      ]
+    },
+    {
+      "title": "Back to the Who 51: Oberhausen 09‐10‐2016",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2016",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "f1eefef9-d86f-4484-932f-0aff09ba5308"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "f430528a-6f4c-485d-a4e2-80ca3f442bb5",
+      "title": "2007-06-29: Marlay Park, Dublin, Ireland",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2007"
+    },
+    {
+      "title": "Instant Party: The Complete UK & US Singles Collection",
+      "first-release-date": "",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "fbe6854b-8718-4ac7-8fa9-765b93682b13",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "fc36d16c-faae-46df-8a65-b62209039259",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1993",
+      "title": "Magic Bus"
+    },
+    {
+      "title": "Back at the Fillmore (New York broadcast 1969)",
+      "first-release-date": "2016",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "03f13292-1ecd-4bc6-a580-8c599b16eb0e",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "id": "06651201-da37-3072-8c89-61535a9530b3",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Bridge School Benefit XIII, 10"
+    },
+    {
+      "first-release-date": "",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "1996 “Quadrophenia” World Tour",
+      "id": "067a534f-c3df-43e8-b6fb-2cd5df36cca7",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "id": "10a8578f-e29c-4d73-a3e1-b540045399de",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2011-01-03",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Live"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "1acc3313-49de-4728-8d05-2e83ffec77d5",
+      "title": "Danish Treat",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1998"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "1fa43541-266f-41c4-b4c5-882f59a1e226",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2017",
+      "title": "1976‐06‐12: Vetch Field, Swansea, Wales"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "31320be1-c169-427c-8451-62811f617d69",
+      "title": "Last Stand With Keith Moon",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1994"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "",
+      "title": "1980‐06‐24 – Sports Arena, Los Angeles, CA",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "4cff8baa-7d65-4b08-bd93-110a6400ce46",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "57081f6a-e9a2-482d-be7a-ad8dfd858872",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1993",
+      "title": "San Francisco 1971"
+    },
+    {
+      "title": "Winter Time Trip (1969)",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1999",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "5bfbaa64-ff56-3bc6-9614-9a0d0cef857b"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "61b5bea7-adcf-3e47-8c86-4b018ba79b05",
+      "title": "BBC Sessions 1967–1968",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": ""
+    },
+    {
+      "id": "64b856b3-22bb-480e-886d-e4b251f4488e",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2018-01-23",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Woodstock Festival 1969: The Full Broadcast"
+    },
+    {
+      "id": "6d43a4b7-4d64-3699-a5b0-23465e164718",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2005-11-18",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "The Complete Amsterdam 1969"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7163810e-3472-3a9e-9714-f10756f46ff7",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Fillmore East",
+      "first-release-date": "",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "7cb3dc51-5484-4a7d-8cb1-624939797bb3",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2014",
+      "title": "2014‐12‐11: Echo Arena, Liverpool, England"
+    },
+    {
+      "id": "7ec13e5f-d981-411f-b1d6-2295ac28b17d",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2016",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Tanglewood 1970"
+    },
+    {
+      "title": "View From a Backstage Pass",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2007",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "80fdbfe1-d5ca-340b-b8bc-ee9d3b61bed3"
+    },
+    {
+      "first-release-date": "2002",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "A Birthday Bash at MSG",
+      "id": "865029f0-834a-365d-86c2-bc2be980ce6e",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "1997-06-14: House of Blues, Chicago, IL, USA",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "873260e1-e670-3089-a9cb-e353196cdf91"
+    },
+    {
+      "title": "1981-03-28: Rockpalast, Essen, Germany",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "8f7ea513-a416-3250-a82c-85486a92e244"
+    },
+    {
+      "first-release-date": "2023-07-14",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "2023‐07‐12: O2 Arena, London, UK",
+      "id": "8f8ed52a-f0ef-48ec-81bc-9f255db59fc8",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "91bbcf2a-60d2-4728-aba7-4740dfec202d",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "The Young Vic Rehearsals",
+      "first-release-date": "2017",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "926158c0-aa1b-4652-a952-3bd0e3dc6270",
+      "title": "Gutter Punks at a Warehouse",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1998"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2000",
+      "title": "Maximum Acoustic",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "9ab70b55-5bcf-3203-b345-a1b4d256007e",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "9e69ff02-1310-3d6f-a887-94f580aca4a5",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "",
+      "title": "1997-07-26: Deer Creek Amphitheatre, Indianapolis, IN, USA"
+    },
+    {
+      "id": "9eef976b-1d2c-492c-9db7-b6e16e349327",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "1969‐10‐22: Fillmore East, New York, NY, USA"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1993",
+      "title": "Tommy’s Generation",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "a7293289-e157-46e9-a238-c1876f8b533b",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "title": "1973‐12‐04: The Spectrum, Philadelphia, PA",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2022-12-22",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "ae09f8d0-50d7-436c-b91e-f2a9145b4f48"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "b9257fe8-45fa-4e73-9d21-f832e9b99e37",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "",
+      "title": "1971‐07‐31: Forest Hills Tennis Stadium, Flushing, NY, USA"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "c1fb6ecb-15a3-4ade-8f0b-47cd1ab75c6c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2013",
+      "title": "Live at Tanglewood, 1970"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "",
+      "title": "1970-07-07: Tommy Live at Tanglewood: Stockbridge, Massachusetts, USA",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "c9e0aec5-2351-4150-b6aa-af90adc576f2",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "e43dbe10-3cc7-3be0-8129-33e13b9a9aad",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "1973-11-20: Our Drummers Out Cold: Cow Palace, San Francisco, CA, USA",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "f2f62e82-52c3-4201-835a-19f8df701cde",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Young Vic Blues",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "id": "fb74599f-a97d-340c-88be-2a3ec2fb433f",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "High Numbered (More BBC and TV Sessions 1965-1970)"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "fd7de0e0-68ba-4761-b054-53ca7434c46f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1994-01",
+      "title": "Sparks on the Bay"
+    },
+    {
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "1974‐02‐24: Sports Palais, Lyon, France",
+      "id": "fdc62b05-53a9-4e20-b187-449d96edee80",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    }
+  ]
+}

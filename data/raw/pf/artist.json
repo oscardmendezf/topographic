@@ -1,0 +1,4232 @@
+{
+  "end-area": null,
+  "gender": null,
+  "country": "GB",
+  "gender-id": null,
+  "aliases": [
+    {
+      "begin": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "sort-name": "Floyd",
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "name": "Floyd",
+      "type": "Search hint",
+      "primary": null
+    },
+    {
+      "name": "Pink Floid",
+      "type": "Search hint",
+      "primary": null,
+      "begin": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "sort-name": "Pink Floid",
+      "end": null,
+      "ended": false,
+      "locale": null
+    },
+    {
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "begin": null,
+      "sort-name": "Pink Floyd",
+      "end": null,
+      "locale": "en",
+      "ended": false,
+      "name": "Pink Floyd",
+      "type": "Artist name",
+      "primary": true
+    },
+    {
+      "type": "Search hint",
+      "primary": null,
+      "name": "The Pink Floyd",
+      "sort-name": "The Pink Floyd",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null,
+      "locale": null,
+      "ended": false,
+      "end": null
+    },
+    {
+      "end": null,
+      "ended": false,
+      "locale": "ja",
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "sort-name": "ピンク・フロイド",
+      "name": "ピンク・フロイド",
+      "type": "Artist name",
+      "primary": true
+    },
+    {
+      "name": "핑크 플로이드",
+      "type": "Artist name",
+      "primary": true,
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "sort-name": "핑크 플로이드",
+      "end": null,
+      "ended": false,
+      "locale": "ko"
+    }
+  ],
+  "id": "83d91898-7763-47d7-b03b-b92132375c47",
+  "life-span": {
+    "ended": true,
+    "end": "2014",
+    "begin": "1965"
+  },
+  "isnis": [
+    "0000000109397559"
+  ],
+  "relations": [
+    {
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": "1977",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "ended": true,
+      "artist": {
+        "disambiguation": "guitarist",
+        "name": "Snowy White",
+        "type": "Person",
+        "id": "e3593976-7ab7-4961-96e9-55b171412db5",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "White, Snowy",
+        "country": "GB"
+      },
+      "end": "1977",
+      "source-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "artist": {
+        "name": "Snowy White",
+        "type": "Person",
+        "disambiguation": "guitarist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "White, Snowy",
+        "country": "GB",
+        "id": "e3593976-7ab7-4961-96e9-55b171412db5"
+      },
+      "end": "1977",
+      "ended": true,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "begin": "1977",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "guitar"
+      ]
+    },
+    {
+      "attributes": [
+        "guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "name": "Scott Page",
+        "disambiguation": "instruments for Pink Floyd/Supertramp",
+        "sort-name": "Page, Scott",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "30932250-dca2-47bf-a8b3-a2b8aa05c4d9"
+      },
+      "end": "1989",
+      "ended": true,
+      "begin": "1987",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "instrumental supporting musician"
+    },
+    {
+      "attributes": [
+        "saxophone"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "begin": "1987",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "name": "Scott Page",
+        "disambiguation": "instruments for Pink Floyd/Supertramp",
+        "country": "US",
+        "sort-name": "Page, Scott",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "30932250-dca2-47bf-a8b3-a2b8aa05c4d9"
+      },
+      "end": "1989",
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ],
+      "source-credit": "",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "begin": "1987",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "end": null,
+      "artist": {
+        "id": "c6e89016-d3cb-4272-9945-de0ec123645e",
+        "country": "GB",
+        "sort-name": "Pratt, Guy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Guy Pratt"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "instrumental supporting musician",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": null,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "Dick Parry",
+        "type": "Person",
+        "id": "5bb61f52-7168-43d7-b910-2fa9500cb71b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Parry, Dick"
+      },
+      "ended": true,
+      "source-credit": "",
+      "attributes": [
+        "saxophone"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "original"
+      ],
+      "source-credit": "",
+      "ended": true,
+      "artist": {
+        "id": "12327d75-47d5-45d9-84c2-3760b9210c17",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Barrett, Syd",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Syd Barrett",
+        "type": "Person"
+      },
+      "end": "1968-04",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1965",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "ended": true,
+      "end": "1981",
+      "artist": {
+        "type": "Person",
+        "name": "Richard Wright",
+        "disambiguation": "Pink Floyd keyboardist",
+        "country": "GB",
+        "sort-name": "Wright, Richard",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "6f7e36da-79d8-4219-990d-8e9224d04ebc"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1965",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [
+        "keyboard",
+        "lead vocals",
+        "original"
+      ],
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "sort-name": "Waters, Roger",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "0f50beab-d77d-4f0f-ac26-0b87d3e9b11b",
+        "type": "Person",
+        "name": "Roger Waters",
+        "disambiguation": ""
+      },
+      "end": "1985",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1965",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar",
+        "lead vocals",
+        "original"
+      ],
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "of Pink Floyd",
+        "name": "Nick Mason",
+        "type": "Person",
+        "id": "d6c37074-0155-46a3-8af2-338a4f625afc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Mason, Nick"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1965",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)",
+        "original",
+        "percussion"
+      ]
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968-02-18",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "slide guitar": "41d2c709-81e2-415c-9456-a0a3d14f48bd"
+      },
+      "artist": {
+        "id": "1dce970e-34bc-48b2-ab51-48d87544a4c2",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Gilmour, David",
+        "country": "GB",
+        "disambiguation": "Pink Floyd",
+        "name": "David Gilmour",
+        "type": "Person"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "slide guitar"
+      ]
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "keyboard",
+        "lead vocals"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1987",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "type": "Person",
+        "name": "Richard Wright",
+        "disambiguation": "Pink Floyd keyboardist",
+        "country": "GB",
+        "sort-name": "Wright, Richard",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "6f7e36da-79d8-4219-990d-8e9224d04ebc"
+      },
+      "end": "2008-09-15",
+      "ended": true
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Floyd Council",
+        "id": "e07e43ca-96a5-4bf7-8bb4-11348628b0a2",
+        "country": "US",
+        "sort-name": "Council, Floyd",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "1af24726-5b1f-4b07-826e-5351723f504b",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "named after artist"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "7570d536-f435-4f5b-9ae3-465138ab3ae4",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Anderson, Pink",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Pink Anderson",
+        "type": "Person"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "1af24726-5b1f-4b07-826e-5351723f504b",
+      "begin": null,
+      "direction": "forward",
+      "type": "named after artist",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "type": "named after artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "country": "SE",
+        "sort-name": "Pung Floyd",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "8c01dabf-bf0f-4459-818a-7fb7cdb97cf8",
+        "type": "Group",
+        "name": "Pung Floyd",
+        "disambiguation": ""
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "1af24726-5b1f-4b07-826e-5351723f504b",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "begin": "2005",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "PE",
+        "sort-name": "Big Pink",
+        "id": "00471912-5718-4349-b97a-1f937c109f06",
+        "name": "Big Pink",
+        "type": "Group",
+        "disambiguation": "Peruvian Pink Floyd tribute band"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": "2005",
+      "attribute-ids": {},
+      "artist": {
+        "id": "b9774956-3089-4fc2-a77e-8437b9e63a57",
+        "country": "IT",
+        "sort-name": "Pink Floyd Legend",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Italian Pink Floyd tribute",
+        "type": "Group",
+        "name": "Pink Floyd Legend"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "2008",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "artist": {
+        "type": "Group",
+        "name": "Pigs: Canada’s Most Authentic Pink Floyd Tribute",
+        "disambiguation": "",
+        "sort-name": "Pigs: Canada’s Most Authentic Pink Floyd Tribute",
+        "country": "CA",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "3d96795c-eb12-462c-904c-48380e3e08f3"
+      },
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "begin": "2011",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "id": "26fb7b2c-2d71-41c3-8953-390dbf962636",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "US",
+        "sort-name": "Trilogy Tribute Tour",
+        "disambiguation": "classic rock cover performances",
+        "name": "Trilogy Tribute Tour",
+        "type": "Group"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "country": "CA",
+        "sort-name": "Floydium",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "6ec4e0e1-e431-43ff-8ecc-9b07245f661f",
+        "type": "Group",
+        "name": "Floydium",
+        "disambiguation": ""
+      },
+      "end": null,
+      "ended": false,
+      "begin": "2012",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute"
+    },
+    {
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": "2014-07-26",
+      "attribute-ids": {},
+      "artist": {
+        "id": "8fef52ab-c2a4-4393-a5c7-292f5d60a5e4",
+        "country": "US",
+        "sort-name": "Live Pink Floyd",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Kansas City, MO live Pink Floyd tribute",
+        "type": "Group",
+        "name": "Wish They Were Here"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "artist": {
+        "disambiguation": "Pink Floyd tribute band",
+        "type": "Group",
+        "name": "Eclipse‐Chicago",
+        "id": "0e846081-a04f-4e06-8102-43090b0caac7",
+        "country": "US",
+        "sort-name": "Eclipse‐Chicago",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": "2016",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "5e5c2ff5-5600-4b34-9a2f-20776ebc3512",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Elements of Floyd : A tribute to the music of Pink Floyd",
+        "country": "CH",
+        "disambiguation": "Swiss Pink Floyd tribute",
+        "name": "Elements of Floyd : A tribute to the music of Pink Floyd",
+        "type": "Group"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": "2018",
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "7pf2p",
+        "type": "Group",
+        "id": "a2a4f0a8-dea5-45e5-837c-375d3f6a802d",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "7pf2p",
+        "country": "TR"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "name": "Absolutely Floyd",
+        "type": "Group",
+        "disambiguation": "Dutch Pink Floyd cover band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "NL",
+        "sort-name": "Absolutely Floyd",
+        "id": "c94d7829-7723-49bd-a38c-7d39f362dc63"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "All Floyd",
+        "type": "Group",
+        "id": "5bfe72bd-6882-4c56-b685-a73cb4321c80",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "All Floyd",
+        "country": "GB"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "83c9e25e-8852-4e9d-9964-b8bae1440dfe",
+        "country": "PL",
+        "sort-name": "Another Pink Floyd",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "type": "Group",
+        "name": "Another Pink Floyd"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null
+    },
+    {
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Any Colour",
+        "country": "US",
+        "id": "5bd66468-4da9-4e3c-8bb0-96b113e6a774",
+        "name": "Any Colour",
+        "type": "Group",
+        "disambiguation": "Athens, OH Pink Floyd tribute"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "ATOM Pink Floyd",
+        "country": "BR",
+        "id": "7daa3dfc-f8d6-4c5a-904b-0d1eb6e7d956",
+        "name": "ATOM Pink Floyd",
+        "type": "Group",
+        "disambiguation": ""
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "artist": {
+        "name": "The Australian Pink Floyd Show",
+        "type": "Group",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Australian Pink Floyd Show, The",
+        "country": "AU",
+        "id": "1814cbfc-131d-473f-a6e7-7208a25a69c1"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "Belgian Pink Floyd tribute",
+        "name": "Be Floyd",
+        "type": "Group",
+        "id": "6d6944d2-7e63-473e-a2e9-162877b64f67",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Be Floyd",
+        "country": "BE"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "US",
+        "sort-name": "Beyond the Wall",
+        "id": "84670caf-6146-402f-a485-f9df099e2c57",
+        "name": "Beyond the Wall",
+        "type": "Group",
+        "disambiguation": "Pink Floyd tribute band"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "artist": {
+        "type": "Group",
+        "name": "Blue Floyd",
+        "disambiguation": "Pink Floyd cover band",
+        "country": null,
+        "sort-name": "Blue Floyd",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "aeb02190-d1f6-44a7-8b85-caf03f4c50b9"
+      },
+      "end": null,
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "sort-name": "Breathe – The Pink Floyd Experience",
+        "country": "IE",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "8a6d31c6-9db1-4d67-9275-ded7cd07331c",
+        "type": "Group",
+        "name": "Breathe – The Pink Floyd Experience",
+        "disambiguation": "Irish Pink Floyd tribute band"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "sort-name": "Brit Floyd",
+        "id": "e9e93250-b122-4d4c-b48c-4d4f67a19ba2",
+        "name": "Brit Floyd",
+        "type": "Group",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "artist": {
+        "id": "b32609b0-d91e-4227-a7c5-998facfe8741",
+        "country": "US",
+        "sort-name": "Celtic Pink Floyd",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "type": "Group",
+        "name": "Celtic Pink Floyd"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "sort-name": "Continuous Signal – A Pink Floyd Affair",
+        "country": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "af2c385c-488b-4521-96d5-9d03df564871",
+        "type": "Group",
+        "name": "Continuous Signal – A Pink Floyd Affair",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "type": "Group",
+        "name": "The Croatian Pink Floyd Show",
+        "id": "e5935797-75d3-403d-9eb4-f2126dc2d2c6",
+        "country": "HR",
+        "sort-name": "Croatian Pink Floyd Show, The",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "UK, Wolverhampton based Pink Floyd tribute band",
+        "name": "Darkside – The Pink Floyd Show",
+        "type": "Group",
+        "id": "92a1f58d-76f2-4e83-acd8-c6fc72983d23",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Darkside – The Pink Floyd Show",
+        "country": "GB"
+      }
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "end": null,
+      "artist": {
+        "id": "f3adefe8-b6f4-4f21-a109-81b8a1273bc6",
+        "country": null,
+        "sort-name": "Darkside of Pink Floyd, The",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "type": "Group",
+        "name": "The Darkside of Pink Floyd"
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "sort-name": "E.S.P",
+        "id": "6140e50b-09c7-46af-89e5-801e816ab813",
+        "name": "E.S.P",
+        "type": "Group",
+        "disambiguation": "Pink Floyd tribute"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward"
+    },
+    {
+      "end": null,
+      "artist": {
+        "disambiguation": "German Pink Floyd cover band",
+        "name": "Echoes",
+        "type": "Group",
+        "id": "aef7b38b-88bb-4320-a54a-9348db2a2c7d",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Echoes",
+        "country": "DE"
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "country": "US",
+        "sort-name": "Echoes of Pink Floyd",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "736a50aa-2d24-40d7-9c59-1b764afd3036",
+        "type": "Group",
+        "name": "Echoes of Pink Floyd",
+        "disambiguation": "American Pink Floyd tribute band"
+      }
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "disambiguation": "Australian Pink Floyd tribute band",
+        "type": "Group",
+        "name": "Echoes of Pink Floyd",
+        "id": "28f563b1-6189-4e64-8455-12e6c0e5ae9e",
+        "sort-name": "Echoes of Pink Floyd",
+        "country": "AU",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "ES",
+        "sort-name": "Echoes of Pink Floyd",
+        "id": "4fa93271-b46a-4ea0-b604-3e394f65c860",
+        "name": "Echoes of Pink Floyd",
+        "type": "Group",
+        "disambiguation": "Pink Floyd tribute from Barcelona, Spain"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "Pink Floyd tribute band",
+        "name": "Echoes of Pompeii",
+        "type": "Group",
+        "id": "f19fc763-c4a7-43bc-a3c6-87d834b2800d",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Echoes of Pompeii",
+        "country": "US"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "FR",
+        "sort-name": "Echoes: A Tribute to Pink Floyd",
+        "id": "1bcfef13-430d-406b-88b1-832daab03727",
+        "name": "Echoes: A Tribute to Pink Floyd",
+        "type": "Group",
+        "disambiguation": "tribute band from Montpellier, France"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "Washington D.C.’s premier Pink Floyd tribute band",
+        "type": "Group",
+        "name": "Echoes: A Tribute to Pink Floyd",
+        "id": "02095f26-8f14-4e61-8610-78828f1d0f4e",
+        "sort-name": "Echoes: A Tribute to Pink Floyd",
+        "country": "US",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "end": null,
+      "artist": {
+        "id": "9ddccd52-6414-4534-965d-765a32154d78",
+        "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+        "country": "AU",
+        "sort-name": "Eclipse – Pink Floyd Orchestrated",
+        "disambiguation": "",
+        "name": "Eclipse – Pink Floyd Orchestrated",
+        "type": "Orchestra"
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "artist": {
+        "sort-name": "Eclipse Chicago",
+        "country": "US",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "acd85801-6ce6-493c-a8c5-ba325deb6793",
+        "type": "Group",
+        "name": "Eclipse Chicago",
+        "disambiguation": "Chicago Pink Floyd tribute band"
+      },
+      "end": null,
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "id": "bdd7f1e2-6807-468c-bce0-2a308ece87e2",
+        "sort-name": "Eclipse: The Pink Floyd Story",
+        "country": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Canada",
+        "type": "Group",
+        "name": "Eclipse: The Pink Floyd Story"
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "type": "Group",
+        "name": "The End",
+        "disambiguation": "Pink Floyd tribute band from Argentina",
+        "sort-name": "End, The",
+        "country": "AR",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "b3e7d8dc-f9d5-48f8-8ae2-c932408eaf80"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "id": "cd9938cb-88ac-47e0-b1bb-7d7c5973672a",
+        "country": "BE",
+        "sort-name": "Floyd",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Belgian Pink Floyd tribute",
+        "type": "Group",
+        "name": "F·L·O·Y·D"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "Austrian Pink Floyd tribute band",
+        "type": "Group",
+        "name": "Floyd Division",
+        "id": "4194206a-a718-4a9c-83ad-55ee88f07246",
+        "country": "AT",
+        "sort-name": "Floyd Division",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "end": null,
+      "artist": {
+        "type": "Group",
+        "name": "The Floyd Effect",
+        "disambiguation": "Pink Floyd tribute band",
+        "sort-name": "Floyd Effect, The",
+        "country": "GB",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "cd99a7f2-89f3-411a-837f-61636c7175c7"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "artist": {
+        "type": null,
+        "name": "Floyd Factor",
+        "disambiguation": "Canada's Finest Pink Floyd, Since 2006. For Floyd fans, by Floyd fans.",
+        "sort-name": "Floyd Factor",
+        "country": null,
+        "type-id": null,
+        "id": "0fdca199-400a-467e-85a1-787ebbbdc944"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type": "Group",
+        "name": "Floyd in the Flesh",
+        "disambiguation": "",
+        "sort-name": "Floyd in the Flesh",
+        "country": "GB",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "b4b9b7fc-df58-4f21-80a3-3c65aa12cdd8"
+      },
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "artist": {
+        "disambiguation": "Italian Pink Floyd tribute",
+        "name": "Floyd Machine",
+        "type": "Group",
+        "id": "0f9b3387-5235-469b-8036-36b56a3e7401",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Floyd Machine",
+        "country": "IT"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "BE",
+        "sort-name": "Floyd Matters",
+        "id": "0cdb6ed0-b2d7-4b4a-ad89-3f13d028dc58",
+        "name": "Floyd Matters",
+        "type": "Group",
+        "disambiguation": "Belgian Pink Floyd tribute band"
+      },
+      "end": null,
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Floyd Memory",
+        "country": "CA",
+        "id": "c982e9b2-628d-46d0-a854-2c0fee50904c",
+        "name": "Floyd Memory",
+        "type": "Group",
+        "disambiguation": "Canadian Pink Floyd tribute band"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "artist": {
+        "id": "edf5544f-ff48-4d37-9dd4-bacb4ce5bdea",
+        "country": "US",
+        "sort-name": "Floyd Nation",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Pink Floyd tribute band",
+        "type": "Group",
+        "name": "Floyd Nation"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "artist": {
+        "sort-name": "Floyd Pink Band",
+        "country": "US",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "9564b30c-2097-4bae-90ca-7b5b3df4d44f",
+        "type": "Group",
+        "name": "Floyd Pink",
+        "disambiguation": "Paramus, NJ Pink Floyd tribute band"
+      },
+      "end": null,
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "The Floyd",
+        "type": "Group",
+        "disambiguation": "tribute to Pink Floyd",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Floyd, The",
+        "country": "FR",
+        "id": "67f2c3f0-a6f2-47e1-9389-f92cf274377f"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "FR",
+        "sort-name": "French Floyd",
+        "id": "400c7183-38b1-41ff-9b32-56907aa9b626",
+        "name": "French Floyd",
+        "type": "Group",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute"
+    },
+    {
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "disambiguation": "all‐stars cover David Gilmour’s Pink Floyd",
+        "type": "Group",
+        "name": "The Gilmour Project",
+        "id": "6ff03bf4-44f8-4554-94b8-602df299c067",
+        "sort-name": "Gilmour Project, The",
+        "country": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "name": "The Great Gig in the Sky",
+        "type": "Group",
+        "disambiguation": "Australian Pink Floyd tribute band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Great Gig in the Sky, The",
+        "country": "AU",
+        "id": "639adfb5-bcb0-42b7-bfb3-b2c7b5b5651e"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Great Gig, The",
+        "country": "PT",
+        "id": "60b0520e-c815-438a-983e-098695152a39",
+        "name": "The Great Gig",
+        "type": "Group",
+        "disambiguation": "Pink Floyd tribute"
+      },
+      "end": null,
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "end": null,
+      "artist": {
+        "sort-name": "Gunner’s Dream, The",
+        "country": "SE",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "7b3f7994-3ee9-4f1e-91d7-e7f0d3aed7df",
+        "type": "Group",
+        "name": "The Gunner’s Dream",
+        "disambiguation": "Swedish Pink Floyd cover band"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "In the Flesh: Echoes of Pink Floyd",
+        "type": "Group",
+        "id": "139cb70b-0eb3-4fe1-9792-3108a937d983",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "In the Flesh: Echoes of Pink Floyd",
+        "country": null
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "artist": {
+        "sort-name": "Into the Floyd",
+        "country": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "cecc93c7-06c8-46f7-a77f-aeb402ab74d1",
+        "type": "Group",
+        "name": "Into the Floyd",
+        "disambiguation": ""
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "335fda5c-b273-49b6-baab-5e9f91042a00",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "BE",
+        "sort-name": "Kind of Pink",
+        "disambiguation": "Belgian Pink Floyd tribute w/ Philippe Laloy",
+        "name": "Kind of Pink",
+        "type": "Group"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f"
+    },
+    {
+      "ended": false,
+      "artist": {
+        "disambiguation": "Pink Floyd cover band",
+        "type": "Group",
+        "name": "Lunatic",
+        "id": "2d73478d-e4ba-47c3-98ef-ed8008b9769c",
+        "sort-name": "Lunatic",
+        "country": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Magical Mystery Band, The",
+        "country": "DE",
+        "id": "601d8052-ab18-436e-ba09-7dae3655ec24",
+        "name": "The Magical Mystery Band",
+        "type": "Group",
+        "disambiguation": "tribute to The Beatles and Pink Floyd"
+      },
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward"
+    },
+    {
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "Nick Mason’s Saucerful of Secrets",
+        "type": "Group",
+        "id": "4339111e-4b64-4a3e-bf95-53f2a4095cd8",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "sort-name": "Mason, Nick, Saucerful of Secrets"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "NO",
+        "sort-name": "Nordic Floyd Show, The",
+        "id": "bb937192-82df-473d-a17e-c421aba62184",
+        "name": "The Nordic Floyd Show",
+        "type": "Group",
+        "disambiguation": "Norwegian Pink Floyd tribute band"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "artist": {
+        "disambiguation": "",
+        "type": null,
+        "name": "Obscured By Pink",
+        "id": "d7d07ded-0fc3-4737-bbcc-b82fa46918cb",
+        "country": null,
+        "sort-name": "Obscured By Pink",
+        "type-id": null
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Outside the Original",
+        "type": "Group",
+        "id": "8da1fdfc-f49a-42c2-b1ff-47bb34d63eb8",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Outside the Original",
+        "country": "GB"
+      },
+      "end": null,
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "Pink Floyd cover band from Sweden",
+        "type": "Group",
+        "name": "P‐Floyd",
+        "id": "8dd098bf-5cdd-4f2b-ae35-b591a725a402",
+        "sort-name": "P‐Floyd",
+        "country": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "artist": {
+        "name": "PFX The Pink Floyd Experience",
+        "type": "Group",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "PFX The Pink Floyd Experience",
+        "country": "CA",
+        "id": "46262e74-e167-4978-b30a-9ecfe8ff27df"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "artist": {
+        "name": "Pig Floyd",
+        "type": "Group",
+        "disambiguation": "Pink Floyd tribute band, Florida",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Pig Floyd",
+        "country": "US",
+        "id": "34c1120a-63af-44b3-b50e-c8f733ef001f"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "country": "BR",
+        "sort-name": "Pink Floyd Experience",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "4b5488d3-fea7-4575-87eb-93fc10c500d4",
+        "type": "Group",
+        "name": "Pink Floyd Experience",
+        "disambiguation": "Brazilian Pink Floyd tribute band from São Paulo"
+      },
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "artist": {
+        "type": "Group",
+        "name": "a Pink Floyd experience",
+        "disambiguation": "Belgian tribute to Pink Floyd",
+        "country": "BE",
+        "sort-name": "Pink Floyd experience, a",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "4c5c18fd-43b9-4cec-957d-adf7393f1afd"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "New Zealand Pink Floyd tribute act",
+        "name": "The Pink Floyd Experience",
+        "type": "Group",
+        "id": "d9352cab-24c6-4e13-9bd7-1c4d3ea9f360",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "NZ",
+        "sort-name": "Pink Floyd Experience, The"
+      },
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "bb18344d-e9f0-441a-9984-6566a84613bc",
+        "country": "US",
+        "sort-name": "Pink Floyd Experience, The",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "American Pink Floyd tribute act",
+        "type": "Group",
+        "name": "The Pink Floyd Experience"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Pink Floyd History",
+        "country": "IT",
+        "id": "29e4de23-3a55-4c69-a299-5ff3ed0c6c6a",
+        "name": "Pink Floyd History",
+        "type": "Group",
+        "disambiguation": "Italian Pink Floyd tribute band"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "type": "Group",
+        "name": "Pink Floyd Live",
+        "disambiguation": "Chilean Pink Floyd tribute",
+        "sort-name": "Pink Floyd Live",
+        "country": "CL",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "9a824a85-f1ac-4b89-9bdd-04c0bed13eba"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "country": "CA",
+        "sort-name": "Pink Floyd Niagara",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "47dbfe88-67ec-48a4-9c7a-7921681a52a8",
+        "type": "Group",
+        "name": "Pink Floyd Niagara",
+        "disambiguation": "Canadian Pink Floyd tribute band"
+      },
+      "ended": false
+    },
+    {
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "a7e5d0ad-5244-4144-9764-b7040423debe",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Pink Floyd Project",
+        "country": "DK",
+        "disambiguation": "Danish Pink Floyd cover band",
+        "name": "Pink Floyd Project",
+        "type": "Group"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "artist": {
+        "id": "06918e65-42d3-49c3-be43-09619d99eb06",
+        "type-id": null,
+        "sort-name": "Pink Floyd Project, The",
+        "country": null,
+        "disambiguation": "Dutch Pink Floyd tribute",
+        "name": "The Pink Floyd Project",
+        "type": null
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "54271f51-902b-48f7-8df2-a9506f05f624",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "NL",
+        "sort-name": "Pink Floyd Sound, The",
+        "disambiguation": "Dutch Pink Floyd cover band",
+        "name": "The Pink Floyd Sound",
+        "type": "Group"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "Chicago area Pink Floyd tribute band",
+        "name": "Pink Freud",
+        "type": "Group",
+        "id": "3123f935-97b4-4205-863e-ab56e5037e04",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "US",
+        "sort-name": "Pink Freud"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "artist": {
+        "disambiguation": "Dutch Pink Floyd tribute band",
+        "name": "Pink Project",
+        "type": "Group",
+        "id": "c920aadc-0820-4c31-937b-0f03f0e59d52",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "NL",
+        "sort-name": "Pink Project"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "country": "IT",
+        "sort-name": "Pink’s One",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "ee578ee1-4ac7-4c32-923e-e462aef0eaa5",
+        "type": "Group",
+        "name": "Pink’s One",
+        "disambiguation": "Pink Floyd tribute band"
+      },
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "artist": {
+        "type": "Group",
+        "name": "Pinked Floyd",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Pinked Floyd",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "2f4d4171-180b-40ab-be9f-72ef27146f75"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "artist": {
+        "id": "d262121c-4e0f-4f3a-b6fe-ae22a40c2eb1",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Pitt Floyd",
+        "country": null,
+        "disambiguation": "tribute band from Pittsburgh",
+        "name": "Pitt Floyd",
+        "type": "Group"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Project Pink",
+        "country": "US",
+        "id": "95ccf7f7-cead-4e63-8e0a-564f711459ec",
+        "name": "Project Pink",
+        "type": "Group",
+        "disambiguation": "Pink Floyd tribute band from Green Bay, WI"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "country": "DE",
+        "sort-name": "Pulse",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "4f61c02e-604c-4bf5-9ac3-2c4d62bacfe6",
+        "type": "Group",
+        "name": "Pulse",
+        "disambiguation": "German Pink Floyd cover band"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "c4a2ddce-2313-4281-a749-a2e7633cced6",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "SE",
+        "sort-name": "Pünk Flöyd",
+        "disambiguation": "Pink Floyd tribute from Sweden",
+        "name": "Pünk Flöyd",
+        "type": "Group"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "type": null,
+        "name": "Pure Floyd",
+        "id": "d0b3c133-0a53-4500-a473-eb7d1e382ee8",
+        "country": null,
+        "sort-name": "Pure Floyd",
+        "type-id": null
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute"
+    },
+    {
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "country": null,
+        "sort-name": "Saucerful of Secrets, A",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "67f132cc-4aa2-4a0d-9617-15441c551409",
+        "type": "Group",
+        "name": "A Saucerful of Secrets",
+        "disambiguation": "Dutch Pink Floyd tribute act"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "artist": {
+        "id": "8684ec45-482f-4b58-be74-d3e0fff79c51",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Scottish Pink Floyd",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "The Scottish Pink Floyd",
+        "type": "Group"
+      },
+      "end": null
+    },
+    {
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "SoCal tribute band",
+        "type": "Group",
+        "name": "Shine On, The Live Pink Floyd Experience",
+        "id": "9a7c71a2-d3a8-4af8-bbaf-ec6528dba734",
+        "country": "US",
+        "sort-name": "Shine On, The Live Pink Floyd Experience",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "Punk Floyd",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Skiye",
+        "type": "Other",
+        "id": "4fe5401b-d8c3-4757-ae58-571a226547fb",
+        "type-id": "ac897045-5043-3294-969b-187360e45d86",
+        "country": "US",
+        "sort-name": "Skiye"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "sort-name": "So Floyd",
+        "country": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "15c5adec-8fdd-494f-a2cb-7cc1d805fe11",
+        "type": "Group",
+        "name": "So Floyd",
+        "disambiguation": "tribute to Pink Floyd"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "artist": {
+        "id": "dc381d89-6582-496d-887a-1f770de8bb1f",
+        "sort-name": "Speak Floyd",
+        "country": "RO",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Romanian Pink Floyd tribute",
+        "type": "Group",
+        "name": "Speak Floyd"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "artist": {
+        "sort-name": "speak to me",
+        "country": "DE",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "7c607665-1e84-4098-a4ff-e32a24103572",
+        "type": "Group",
+        "name": "speak to me",
+        "disambiguation": "Pink Floyd tribute"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "end": null,
+      "artist": {
+        "sort-name": "Symphonic of Pink Floyd",
+        "country": "ES",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "a503630a-954f-475b-96fb-54c21e3fd226",
+        "type": "Group",
+        "name": "Symphonic of Pink Floyd",
+        "disambiguation": "Pink Floyd tribute band"
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "The Other Side (Pink Floyd Live Experience)",
+        "type": "Group",
+        "disambiguation": "Pink Floyd tribute band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "ES",
+        "sort-name": "The Other Side (Pink Floyd Live Experience)",
+        "id": "b5b6b0b0-55ab-42e7-a0fa-102e40ff0c75"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "country": "US",
+        "sort-name": "Think Floyd",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "c0920cb6-1655-492f-9838-6855fa0dca3b",
+        "type": "Group",
+        "name": "Think Floyd",
+        "disambiguation": "US Pink Floyd tribute"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "end": null,
+      "artist": {
+        "name": "Think Floyd",
+        "type": "Group",
+        "disambiguation": "UK Pink Floyd tribute",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "sort-name": "Think Floyd",
+        "id": "9ea96e2c-e22d-461f-824a-da49bc62594c"
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type": "Group",
+        "name": "Think Floyd USA",
+        "disambiguation": "Chicago area Pink Floyd tribute band",
+        "country": "US",
+        "sort-name": "Think Floyd USA",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "c5cbaf81-03ed-4efc-b4a7-367c9916cfbf"
+      },
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "type": "Group",
+        "name": "Think Pink Floyd",
+        "id": "ee4604b7-cb2d-473a-be8b-d41b83738d2b",
+        "sort-name": "Think Pink Floyd",
+        "country": "US",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null
+    },
+    {
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "artist": {
+        "country": null,
+        "sort-name": "THINK:EXP",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "f15ea7e1-c150-4c68-9361-3ead76e2b873",
+        "type": "Group",
+        "name": "THINK:EXP",
+        "disambiguation": ""
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "id": "8c09ffba-a4f3-48a5-9b48-035b0c85a4c5",
+        "sort-name": "Tributo Pink Floyd Experience",
+        "country": "BR",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "type": "Group",
+        "name": "Tributo Pink Floyd Experience"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "artist": {
+        "id": "c7f22bfc-4f28-4ae4-9029-f3302e0e0eba",
+        "type-id": null,
+        "sort-name": "True Pink Floyd, The",
+        "country": null,
+        "disambiguation": "",
+        "name": "The True Pink Floyd",
+        "type": null
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "UK Pink Floyd Experience",
+        "country": "GB",
+        "id": "d02ca3bd-ab3a-482f-a08a-46a3d687b70c",
+        "name": "UK Pink Floyd Experience",
+        "type": "Group",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "tribute",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "type": "vocal supporting musician",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {
+        "other vocals": "dog howls"
+      },
+      "direction": "backward",
+      "attribute-ids": {
+        "other vocals": "c359be96-620a-435c-bd25-2eb0ce81a22e"
+      },
+      "begin": "1971-12-13",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "ended": true,
+      "artist": {
+        "id": "7d2e4392-c00e-482d-ae7a-c6b84da44706",
+        "type-id": "ac897045-5043-3294-969b-187360e45d86",
+        "country": "FR",
+        "sort-name": "Nobs",
+        "disambiguation": "dog owned by Madonna Bouglione",
+        "name": "Nobs",
+        "type": "Other"
+      },
+      "end": "1971-12-20",
+      "source-credit": "",
+      "attributes": [
+        "other vocals"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "vocal supporting musician",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": null,
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "disambiguation": "1970s female vocal trio",
+        "name": "Blackberries",
+        "type": "Group",
+        "id": "69091ffa-0127-4433-ab77-40e4dffd9ad5",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Blackberries",
+        "country": "US"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [
+        "background vocals"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "d8a04c1c-08a2-4b83-b061-4dcf7dec03a3",
+        "resource": "https://www.allmusic.com/artist/mn0000346336"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "direction": "forward",
+      "type": "allmusic",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "7d4ff232-921b-4acb-8932-2e6ea08b100a",
+        "resource": "https://www.bandsintown.com/a/260"
+      },
+      "ended": false,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "bandsintown"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "BBC Music page",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "ended": true,
+      "end": "2020-11-19",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/83d91898-7763-47d7-b03b-b92132375c47",
+        "id": "ee48963c-35f9-4321-bf8d-c89de5872b7c"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://pf-db.com/",
+        "id": "c5bff5b1-6801-46ed-8d69-1437a52dc4f2"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discography page",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "b8430323-30b2-4fe5-8d67-bc3d0718bd59",
+        "resource": "https://pinkfloydhyperbase.dk/"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discography page",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discography page",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.pf-roio.de/",
+        "id": "9ec677cc-637d-4059-a650-4320ce21d111"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discography page",
+      "url": {
+        "id": "c95ddd37-d059-4be9-8ad0-a36104e8daa3",
+        "resource": "http://www.pinkfloydarchives.com/DiscTOC.htm"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.discogs.com/artist/45467",
+        "id": "b0bbbe4b-967f-4124-87bb-163cf83d3ec3"
+      },
+      "type": "discogs",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "fanpage",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "begin": null,
+      "ended": true,
+      "end": null,
+      "url": {
+        "resource": "http://www.pinkfloydfan.net/",
+        "id": "d6160636-694c-4400-96af-4f402b70e747"
+      }
+    },
+    {
+      "ended": true,
+      "url": {
+        "resource": "http://www.pinkfloydonline.com/",
+        "id": "91c51aad-7b11-4644-8a2a-4c23706db63e"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "direction": "forward",
+      "type": "fanpage",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "e99374fd-0f61-4fb2-9be6-6b76fd341a99",
+        "resource": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.deezer.com/artist/860",
+        "id": "dee0d342-d802-4c23-bfa4-fdbc42d57449"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "245d369a-1909-43e0-8901-8b264aea07e5",
+        "resource": "https://commons.wikimedia.org/wiki/File:PinkFloyd1973_retouched.jpg"
+      },
+      "end": null,
+      "type": "image",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "IMDb",
+      "url": {
+        "resource": "https://www.imdb.com/name/nm0969139/",
+        "id": "9c6be3b2-d0b5-4213-adf7-5c17ae811917"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "type": "last.fm",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.last.fm/music/Pink+Floyd",
+        "id": "e89d27be-3d23-45fe-979e-9faf62ee87af"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "f9caf8c7-0c6c-4acf-9662-2fcb1f9ab528",
+        "resource": "https://genius.com/artists/Pink-floyd"
+      },
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://muzikum.eu/en/pink-floyd/lyrics",
+        "id": "8ee2744a-a849-4885-a910-2b6101ce20d4"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "lyrics"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "lyrics",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-ids": {},
+      "url": {
+        "id": "6c19adaa-7bf7-4867-88bd-87a6ca3204c4",
+        "resource": "https://www.musixmatch.com/artist/Pink-Floyd"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "ended": false,
+      "url": {
+        "id": "7d06dcfd-0dd8-4a8c-97d6-621498f16a37",
+        "resource": "https://myspace.com/pinkfloyd"
+      },
+      "end": null,
+      "type": "myspace",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "official homepage",
+      "end": null,
+      "url": {
+        "resource": "https://www.pinkfloyd.com/",
+        "id": "09fbca8d-af08-4cb4-8ce5-072af469755f"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": true,
+      "end": "2025-12-17",
+      "url": {
+        "id": "05d9daaa-36f5-48ef-865d-8bf75d218c14",
+        "resource": "https://jaxsta.com/profile/37b283db-dcbb-41a9-bc92-24981b1eabdd"
+      }
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n82000561",
+        "id": "358fd2cc-4c7b-467f-af46-4bd90a9f60b5"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139058178",
+        "id": "8bab390d-66fc-45d8-bb23-d0b384d9873e"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "d5c7b686-827e-4bf2-a22a-d0ebb8c8bf64",
+        "resource": "https://d-nb.info/gnd/1214989-5"
+      },
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "id": "8d53029d-7be4-4720-b3fb-ad38789d6769",
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7YMcdpcm4j3PHHmFWt"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "https://imvdb.com/n/pink-floyd",
+        "id": "42145403-2e04-453a-a787-e2edefdde75c"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "url": {
+        "id": "576dfbf0-a54f-41bf-b42e-66e7d539b36a",
+        "resource": "https://musicmoz.org/Bands_and_Artists/P/Pink_Floyd/"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://nla.gov.au/nla.party-1232118",
+        "id": "ca62ef6b-838d-482b-bf72-4331e855a987"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "14c89e8b-e166-412a-9d7f-7d714dee1154",
+        "resource": "https://openlibrary.org/works/OL2741598A"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "http://soundtrackcollector.com/composer/3910/",
+        "id": "4eead0dc-7837-4e94-b990-6305372cc479"
+      },
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/pink-floyd",
+        "id": "6186dbba-09db-4753-a4fd-d1ebe2f59045"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "url": {
+        "resource": "https://www.45cat.com/artist/pink-floyd",
+        "id": "8a8721bb-f7ba-4cff-86e3-1eab8a993ebf"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.livefans.jp/artists/35461",
+        "id": "a07d67d0-7e2c-4b39-a5b8-cf9440716283"
+      }
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "5d957259-37ac-42cd-a95c-ed4d5f52dbf3",
+        "resource": "https://www.musik-sammler.de/artist/pink-floyd/"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases"
+    },
+    {
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "fde04a3a-313a-43d4-9ebb-1bdb87a1bc70",
+        "resource": "https://www.muziekweb.nl/Link/M00000086786/POPULAR/"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=364",
+        "id": "b8489f4d-f1e2-4840-9fb2-c5a8695df5ce"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Pink_Floyd",
+        "id": "05f23a4e-bcf0-490b-8b05-e99e32b8fa73"
+      },
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "653a666c-fd1f-4dfc-b3b8-3d9cc09b9b2e",
+        "resource": "https://www.whosampled.com/Pink-Floyd/"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases"
+    },
+    {
+      "ended": true,
+      "end": "2020-10-12",
+      "url": {
+        "resource": "https://play.google.com/store/music/artist?id=Axgzvbfqg22bldaiqzpf2up3uny",
+        "id": "47b194e0-c91b-41a2-8f79-e10da142e439"
+      },
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "url": {
+        "resource": "https://mora.jp/artist/579953/",
+        "id": "a21d16d6-c24f-4e3a-9d48-8b530bf0dfb1"
+      },
+      "end": null,
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/487143",
+        "id": "f1d8603f-7c07-41b0-b5d4-3ca5a3ae86c8"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://music.bugs.co.kr/artist/34055",
+        "id": "5c73386c-31d3-4060-ac68-da3fc682fa74"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "3522d1a6-dd27-47f0-8864-673166f63533",
+        "resource": "https://open.qobuz.com/artist/38324"
+      },
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/503612",
+        "id": "b06a58c5-e2ea-44bb-9a38-cc9ee23adc9c"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://uk.7digital.com/artist/pink-floyd",
+        "id": "64036375-d342-43c0-a89a-2fe75f051f09"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "url": {
+        "id": "23a0e912-456d-409b-885d-a40869fceb2e",
+        "resource": "https://www.junodownload.com/artists/Pink+Floyd/releases/"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104130",
+        "id": "471dd851-5cb8-42a0-b42b-9f4d8b09d4fd"
+      },
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "url": {
+        "id": "9ac9f3a9-9a67-4e83-b54e-ad37a6f3620e",
+        "resource": "https://www.microsoft.com/en-gb/store/music/artist/pink-floyd/d6670000-0200-11db-89ca-0019b92a3933"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.qobuz.com/gb-en/interpreter/pink-floyd/38324",
+        "id": "6d150884-055a-4ae1-9a0f-da6299e4ab03"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "1ce16c9f-358f-4f04-8983-bbc069016589",
+        "resource": "https://itunes.apple.com/gb/artist/id487143"
+      },
+      "ended": true,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "e35f89b8-92a2-4078-8baa-d1221391068e",
+        "resource": "https://www.amazon.com/-/e/B000APVN38"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for mail-order"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "purchase for mail-order",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.cdjapan.co.jp/person/700182629",
+        "id": "d2166da9-f7e2-489f-a82e-8c9aa8a32a61"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "secondhandsongs",
+      "end": null,
+      "url": {
+        "id": "54517163-7132-4587-a0de-68a9d5b8421b",
+        "resource": "https://secondhandsongs.com/artist/560"
+      },
+      "ended": false,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "setlistfm",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "url": {
+        "id": "29705d79-4f09-4f42-9257-d9174a75234d",
+        "resource": "https://www.setlist.fm/setlists/pink-floyd-13d6adc5.html"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "https://twitter.com/PinkFloyd",
+        "id": "91c7b4b9-25a3-49c3-9c02-ae21f0b42857"
+      },
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "social network",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "1fb058b0-ae70-47c9-8181-517524b67d89",
+        "resource": "https://www.facebook.com/pinkfloyd"
+      },
+      "type": "social network",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.instagram.com/pinkfloyd/",
+        "id": "ad414140-5b91-4e38-ba5f-2a8a65d99717"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "social network",
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "1f2d5469-f57d-4ac8-9d3d-9314a197b58e",
+        "resource": "https://www.threads.com/@pinkfloyd"
+      },
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "social network",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.tiktok.com/@pinkfloyd",
+        "id": "1453143c-70f9-4442-ae14-33b78d3ac074"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "social network",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "songkick",
+      "url": {
+        "resource": "https://www.songkick.com/artists/400904",
+        "id": "75787906-317f-4b10-8826-44adfffddf86"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "soundcloud",
+      "url": {
+        "id": "873c9cc2-5edd-4c65-bc52-cc8ca2d44a9f",
+        "resource": "https://soundcloud.com/officialpinkfloyd"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "url": {
+        "resource": "https://music.amazon.co.uk/artists/B001E3CM0S",
+        "id": "38b09d79-01af-42d6-a13c-fbf3ab7b525a"
+      },
+      "end": null,
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://music.apple.com/co/artist/487143",
+        "id": "6e2f3846-52d7-49f6-ae11-6a71f8de823d"
+      },
+      "ended": false
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "f1d8603f-7c07-41b0-b5d4-3ca5a3ae86c8",
+        "resource": "https://music.apple.com/gb/artist/487143"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "5c73386c-31d3-4060-ac68-da3fc682fa74",
+        "resource": "https://music.bugs.co.kr/artist/34055"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "direction": "forward",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "3522d1a6-dd27-47f0-8864-673166f63533",
+        "resource": "https://open.qobuz.com/artist/38324"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "7774bf62-aff2-46ac-82c8-e3665c39ee46",
+        "resource": "https://tidal.com/artist/9706"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104130",
+        "id": "471dd851-5cb8-42a0-b42b-9f4d8b09d4fd"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.qobuz.com/gb-en/interpreter/pink-floyd/38324",
+        "id": "6d150884-055a-4ae1-9a0f-da6299e4ab03"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "url": {
+        "resource": "http://viaf.org/viaf/120713567",
+        "id": "7d6a118f-0688-4caa-bc6b-5a21998eea2e"
+      },
+      "end": null,
+      "type": "VIAF",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "ffcce356-db91-4607-81a0-a59cdf976a44",
+        "resource": "https://www.wikidata.org/wiki/Q2306"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "direction": "forward",
+      "type": "wikidata",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "0e5d9f10-25f8-4e7c-aa77-eadde57c2a1f",
+        "resource": "https://www.youtube.com/channel/UCY2qt3dw2TQJxvBrDiYGHdQ"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "youtube"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "youtube music",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "c00d0d74-1ac6-4399-ad5d-dd005dabeeef",
+        "resource": "https://music.youtube.com/channel/UCO6LS_5W7vqG9mALDNzSFug"
+      }
+    }
+  ],
+  "sort-name": "Pink Floyd",
+  "begin-area": {
+    "disambiguation": "Greater London",
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "type-id": null,
+    "name": "London",
+    "sort-name": "London",
+    "type": null
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "",
+  "ipis": [],
+  "area": {
+    "sort-name": "England",
+    "type-id": null,
+    "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+    "type": null,
+    "iso-3166-2-codes": [
+      "GB-ENG"
+    ],
+    "name": "England",
+    "disambiguation": ""
+  },
+  "type": "Group",
+  "name": "Pink Floyd"
+}

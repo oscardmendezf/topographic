@@ -1,0 +1,3374 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "end-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "type": null,
+    "disambiguation": "Greater London",
+    "sort-name": "London",
+    "name": "London",
+    "type-id": null
+  },
+  "type": "Group",
+  "sort-name": "Electric Light Orchestra",
+  "country": "GB",
+  "gender-id": null,
+  "name": "Electric Light Orchestra",
+  "relations": [
+    {
+      "target-type": "artist",
+      "direction": "forward",
+      "type": "founder",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "6ed4bfc4-0a0d-44c0-b025-b7fc4d900b67",
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "country": "GB",
+        "name": "Electric Light Orchestra Part II",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Electric Light Orchestra Part II",
+        "type": "Group",
+        "id": "14f388de-2532-469d-ae92-1c6453e9f39d"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "artist": {
+        "country": "GB",
+        "name": "Roy Wood",
+        "disambiguation": "multi-instrumentalist singer-songwriter, The Move, ELO & Wizzard",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Wood, Roy",
+        "type": "Person",
+        "id": "9b39603c-0bdf-4697-86d2-fdd3498b4c0e"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true,
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1970",
+      "attributes": [
+        "original"
+      ],
+      "end": "1972",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "name": "Bev Bevan",
+        "country": "GB",
+        "disambiguation": "English rock drummer",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "83cf78c3-c802-4d7e-aed6-65a354dbfdb0",
+        "type": "Person",
+        "sort-name": "Bevan, Bev"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "ended": true,
+      "begin": "1970",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "attribute-credits": {},
+      "end": "1983",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "begin": "1970",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "original"
+      ],
+      "end": "1986",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "id": "372304d0-5e6a-4030-bc2b-09bdb0ee8abb",
+        "type": "Person",
+        "sort-name": "Lynne, Jeff",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Jeff Lynne",
+        "country": "GB"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true
+    },
+    {
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Craig, Andy",
+        "type": "Person",
+        "id": "bb87661c-2a85-427a-ae1d-52881309af2a",
+        "country": "GB",
+        "name": "Andy Craig",
+        "disambiguation": "cellist for ELO"
+      },
+      "ended": true,
+      "attribute-credits": {},
+      "attributes": [
+        "cello"
+      ],
+      "end": "1972-07",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1971-10",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b8025edf-50c1-4c3e-87d1-e67a1df12104",
+        "type": "Person",
+        "sort-name": "Woolam, Steve",
+        "name": "Steve Woolam",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "ended": true,
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1971",
+      "attribute-credits": {},
+      "end": "1971",
+      "attributes": [
+        "violin"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "artist": {
+        "country": "GB",
+        "name": "Bill Hunt",
+        "disambiguation": "UK keyboards, horn player",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hunt, Bill",
+        "type": "Person",
+        "id": "f9fd59fa-6f3f-4c07-88c7-7fab476f8932"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "type": "member of band",
+      "begin": "1971",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1972",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1972",
+      "attribute-credits": {},
+      "attributes": [
+        "cello"
+      ],
+      "type": "member of band",
+      "begin": "1972",
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": true,
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      },
+      "artist": {
+        "disambiguation": "",
+        "name": "Hugh McDowell",
+        "country": "GB",
+        "id": "36629144-ea7f-4005-8d40-19dd326ce59b",
+        "sort-name": "McDowell, Hugh",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "artist": {
+        "disambiguation": "UK violinist",
+        "country": "GB",
+        "name": "Wilfred Gibson",
+        "type": "Person",
+        "sort-name": "Gibson, Wilfred",
+        "id": "33a21b86-1068-496a-9856-d5b662f9e7a8",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "ended": true,
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1972",
+      "type": "member of band",
+      "attributes": [
+        "violin"
+      ],
+      "attribute-credits": {},
+      "end": "1973",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": "1973",
+      "attributes": [
+        "cello"
+      ],
+      "begin": "1972",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      },
+      "artist": {
+        "type": "Person",
+        "sort-name": "Walker, Colin",
+        "id": "de007e70-c59f-4a1a-b87d-32cb2fdc9aa1",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "English Cellist that was a member of ELO",
+        "country": "GB",
+        "name": "Colin Walker"
+      },
+      "ended": true
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f7cbda7e-ce24-4220-bb3e-fbb35a30ac15",
+        "sort-name": "Edwards, Mike",
+        "type": "Person",
+        "name": "Mike Edwards",
+        "country": "GB",
+        "disambiguation": "English Cellist that was a member of ELO"
+      },
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      },
+      "ended": true,
+      "type": "member of band",
+      "begin": "1972",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "1975",
+      "attributes": [
+        "cello"
+      ],
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "name": "Richard Tandy",
+        "country": "GB",
+        "disambiguation": "keyboardist for Electric Light Orchestra",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3c206a25-7a9f-4529-aa35-36ab1a041d7f",
+        "type": "Person",
+        "sort-name": "Tandy, Richard"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "1986",
+      "attributes": [
+        "keyboard"
+      ],
+      "type": "member of band",
+      "begin": "1972",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Michael d’Albuquerque",
+        "type": "Person",
+        "sort-name": "d’Albuquerque, Michael",
+        "id": "6f854ec5-1b95-43b4-aace-69055839ed69",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1973",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "end": "1974",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "name": "Mik Kaminski",
+        "country": "GB",
+        "id": "512c6f66-6880-472c-9679-3c599c45c1dd",
+        "type": "Person",
+        "sort-name": "Kaminski, Mik",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "type": "member of band",
+      "begin": "1973",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "violin"
+      ],
+      "end": "1979"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1973",
+      "attribute-credits": {},
+      "attributes": [
+        "cello"
+      ],
+      "end": "1979",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "36629144-ea7f-4005-8d40-19dd326ce59b",
+        "sort-name": "McDowell, Hugh",
+        "type": "Person",
+        "name": "Hugh McDowell",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1981",
+      "attributes": [],
+      "begin": "1974",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Louis Clark",
+        "type": "Person",
+        "sort-name": "Clark, Louis",
+        "id": "6d7af416-da1d-4b2c-aa94-8ca43a6dfb34",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "sort-name": "Groucutt, Kelly",
+        "id": "0b5e4999-b701-4814-b3bf-fc1ac08204f6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Kelly Groucutt"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "ended": true,
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1974",
+      "attribute-credits": {},
+      "end": "1983",
+      "attributes": [
+        "background vocals",
+        "bass guitar",
+        "lead vocals"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1975",
+      "type": "member of band",
+      "end": "1979",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "name": "Melvyn Gale",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "23f3b687-1d3e-48f7-945e-1e626afb9367",
+        "sort-name": "Gale, Melvyn",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1981",
+      "type": "member of band",
+      "attributes": [
+        "acoustic guitar",
+        "background vocals",
+        "synthesizer"
+      ],
+      "attribute-credits": {},
+      "end": "1982",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "name": "Dave Morgan",
+        "country": "GB",
+        "disambiguation": "UK rock bassist/vocalist, member of Magnum",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "55127649-55c2-440c-8685-b42d903db26f",
+        "type": "Person",
+        "sort-name": "Morgan, Dave"
+      },
+      "attribute-ids": {
+        "acoustic guitar": "00beaf8e-a781-431c-8130-7c2871696b7d",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "ended": true
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "512c6f66-6880-472c-9679-3c599c45c1dd",
+        "sort-name": "Kaminski, Mik",
+        "type": "Person",
+        "name": "Mik Kaminski",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "ended": true,
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1981",
+      "type": "member of band",
+      "attribute-credits": {},
+      "end": "1986",
+      "attributes": [
+        "violin"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1983",
+      "attributes": [],
+      "end": "1986",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Clark, Louis",
+        "id": "6d7af416-da1d-4b2c-aa94-8ca43a6dfb34",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Louis Clark"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "end": "1986",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1985",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Bevan, Bev",
+        "type": "Person",
+        "id": "83cf78c3-c802-4d7e-aed6-65a354dbfdb0",
+        "country": "GB",
+        "name": "Bev Bevan",
+        "disambiguation": "English rock drummer"
+      }
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "acoustic guitar": "00beaf8e-a781-431c-8130-7c2871696b7d"
+      },
+      "artist": {
+        "sort-name": "Morgan, Dave",
+        "type": "Person",
+        "id": "55127649-55c2-440c-8685-b42d903db26f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK rock bassist/vocalist, member of Magnum",
+        "country": "GB",
+        "name": "Dave Morgan"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-credits": {},
+      "end": "1986",
+      "attributes": [
+        "acoustic guitar"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1986"
+    },
+    {
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "db64fcee-35ef-494e-9a9f-47ccbc2943c8",
+        "type": "Person",
+        "sort-name": "Smith, Martin",
+        "name": "Martin Smith",
+        "country": "GB",
+        "disambiguation": "UK musician, producer and engineer, b. 1945"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": "1986",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1986",
+      "type": "member of band"
+    },
+    {
+      "ended": true,
+      "artist": {
+        "id": "4bc65e4f-1989-4718-8b25-90a01efa9606",
+        "type": "Person",
+        "sort-name": "Bissonette, Gregg",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "US jazz & rock drummer",
+        "name": "Gregg Bissonette",
+        "country": "US"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2000",
+      "attribute-credits": {},
+      "end": "2001",
+      "attributes": [
+        "background vocals",
+        "drums (drum set)"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2000",
+      "attributes": [
+        "original"
+      ],
+      "end": "2001",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "country": "GB",
+        "name": "Jeff Lynne",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Lynne, Jeff",
+        "id": "372304d0-5e6a-4030-bc2b-09bdb0ee8abb"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true
+    },
+    {
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "id": "3c206a25-7a9f-4529-aa35-36ab1a041d7f",
+        "sort-name": "Tandy, Richard",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "keyboardist for Electric Light Orchestra",
+        "name": "Richard Tandy",
+        "country": "GB"
+      },
+      "ended": true,
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-credits": {},
+      "end": "2001",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2000",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      },
+      "artist": {
+        "country": "US",
+        "name": "Peggy Baldwin",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Baldwin, Peggy",
+        "type": "Person",
+        "id": "a80e0b0c-6fb5-4a87-bc00-7f5b79cead93"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "2001",
+      "attribute-credits": {},
+      "attributes": [
+        "cello"
+      ],
+      "begin": "2001",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [],
+      "end": "2001",
+      "begin": "2001",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Matt Bissonette",
+        "country": "US",
+        "id": "93c429bd-e2cc-4a20-87d5-e626ad4e8dc5",
+        "sort-name": "Bissonette, Matt",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": "2001",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "2001",
+      "type": "member of band",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "keyboardist, arranger, orchestrator and conductor",
+        "name": "Marc Mann",
+        "country": "US",
+        "id": "37f8cddf-0a79-493d-88fa-ed2f27f88a28",
+        "type": "Person",
+        "sort-name": "Mann, Marc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "begin": "2001",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "cello"
+      ],
+      "end": "2001",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "4e28b92b-f6f9-414c-8f8f-bbb7c98fad27",
+        "type": "Person",
+        "sort-name": "O’Brien, Sarah",
+        "name": "Sarah O’Brien",
+        "country": "US",
+        "disambiguation": "cellist"
+      },
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      },
+      "ended": true
+    },
+    {
+      "artist": {
+        "country": "US",
+        "name": "Rosie Vela",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Vela, Rosie",
+        "id": "5ab05c8c-abd3-49ca-9846-deed7113a322"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "ended": true,
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2001",
+      "end": "2001",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": "2014",
+      "attributes": [
+        "violin"
+      ],
+      "type": "member of band",
+      "begin": "2013",
+      "target-type": "artist",
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "artist": {
+        "type": "Person",
+        "sort-name": "Allen, Chereene",
+        "id": "854885dd-254b-4250-b80b-376b9489ff2d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Chereene Allen"
+      },
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "2013",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "end": "2014",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "disambiguation": "UK singer/songwriter, member of 10cc",
+        "country": "GB",
+        "name": "Mick Wilson",
+        "sort-name": "Wilson, Mick",
+        "type": "Person",
+        "id": "60fb4890-3d3f-445d-99ee-021adc2b84aa",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      }
+    },
+    {
+      "begin": "2013",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "percussion"
+      ],
+      "end": "2014",
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "name": "Mick Wilson",
+        "country": "GB",
+        "disambiguation": "UK singer/songwriter, member of 10cc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "60fb4890-3d3f-445d-99ee-021adc2b84aa",
+        "sort-name": "Wilson, Mick",
+        "type": "Person"
+      },
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "2014",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "begin": "2013",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "country": "GB",
+        "name": "Mick Wilson",
+        "disambiguation": "UK singer/songwriter, member of 10cc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Wilson, Mick",
+        "type": "Person",
+        "id": "60fb4890-3d3f-445d-99ee-021adc2b84aa"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "end": "2014",
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "2014",
+      "type": "member of band",
+      "ended": true,
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "name": "Marc Mann",
+        "country": "US",
+        "disambiguation": "keyboardist, arranger, orchestrator and conductor",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "37f8cddf-0a79-493d-88fa-ed2f27f88a28",
+        "sort-name": "Mann, Marc",
+        "type": "Person"
+      }
+    },
+    {
+      "type": "member of band",
+      "begin": "2014",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "2014",
+      "attributes": [
+        "guitar"
+      ],
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "keyboardist, arranger, orchestrator and conductor",
+        "country": "US",
+        "name": "Marc Mann",
+        "type": "Person",
+        "sort-name": "Mann, Marc",
+        "id": "37f8cddf-0a79-493d-88fa-ed2f27f88a28",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "ended": true
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "disambiguation": "keyboardist, arranger, orchestrator and conductor",
+        "country": "US",
+        "name": "Marc Mann",
+        "sort-name": "Mann, Marc",
+        "type": "Person",
+        "id": "37f8cddf-0a79-493d-88fa-ed2f27f88a28",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "2014",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "2014",
+      "type": "member of band"
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "type": "Person",
+        "sort-name": "Smith, Bernie",
+        "id": "7306b7ff-e1c4-4b30-8eed-f315c85bf786",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Bernie Smith"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": "2017",
+      "attributes": [
+        "keyboard"
+      ],
+      "type": "member of band",
+      "begin": "2014",
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "ended": true,
+      "artist": {
+        "disambiguation": "keyboardist for Electric Light Orchestra",
+        "country": "GB",
+        "name": "Richard Tandy",
+        "sort-name": "Tandy, Richard",
+        "type": "Person",
+        "id": "3c206a25-7a9f-4529-aa35-36ab1a041d7f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "2014",
+      "type": "member of band",
+      "attribute-credits": {},
+      "end": "2024-05-01",
+      "attributes": [
+        "keyboard"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "ended": false,
+      "artist": {
+        "type": "Person",
+        "sort-name": "Byrne, Marcus",
+        "id": "309eb11d-976d-45c6-b2b5-2b8b9092a72d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": null,
+        "name": "Marcus Byrne"
+      },
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2014",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "piano"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "2014",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "id": "309eb11d-976d-45c6-b2b5-2b8b9092a72d",
+        "sort-name": "Byrne, Marcus",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Marcus Byrne",
+        "country": null
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      }
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a18029f1-f700-4e1f-bdb3-2e17488e3d66",
+        "type": "Person",
+        "sort-name": "Hepburn, Donavan",
+        "name": "Donavan Hepburn",
+        "country": null,
+        "disambiguation": "UK Drummer"
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "type": "member of band",
+      "begin": "2014",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type": "member of band",
+      "begin": "2014",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "lead vocals"
+      ],
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Hornal, Iain",
+        "id": "d4b0f526-2a07-47a7-aa56-d850b90556df",
+        "country": null,
+        "name": "Iain Hornal",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "name": "Iain Hornal",
+        "sort-name": "Hornal, Iain",
+        "type": "Person",
+        "id": "d4b0f526-2a07-47a7-aa56-d850b90556df",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "background vocals"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2014"
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "percussion"
+      ],
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2014",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "artist": {
+        "disambiguation": "",
+        "name": "Iain Hornal",
+        "country": null,
+        "id": "d4b0f526-2a07-47a7-aa56-d850b90556df",
+        "type": "Person",
+        "sort-name": "Hornal, Iain",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "2014",
+      "type": "member of band",
+      "ended": false,
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "d4b0f526-2a07-47a7-aa56-d850b90556df",
+        "sort-name": "Hornal, Iain",
+        "type": "Person",
+        "name": "Iain Hornal",
+        "country": null,
+        "disambiguation": ""
+      }
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "372304d0-5e6a-4030-bc2b-09bdb0ee8abb",
+        "sort-name": "Lynne, Jeff",
+        "type": "Person",
+        "name": "Jeff Lynne",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "attributes": [
+        "original"
+      ],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "2014",
+      "type": "member of band",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "artist": {
+        "id": "72b2bb5b-ae78-4b23-b4b3-ca7abe708a79",
+        "sort-name": "McDonald, Milton",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Milton McDonald",
+        "country": "GB"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type": "member of band",
+      "begin": "2014",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ]
+    },
+    {
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "McDonald, Milton",
+        "type": "Person",
+        "id": "72b2bb5b-ae78-4b23-b4b3-ca7abe708a79",
+        "country": "GB",
+        "name": "Milton McDonald",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type": "member of band",
+      "begin": "2014",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type": "member of band",
+      "begin": "2014",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "background vocals"
+      ],
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "name": "Melanie Lewis-McDonald",
+        "sort-name": "Melanie Lewis-McDonald",
+        "type": "Person",
+        "id": "08d65d12-c6bd-4194-8adf-fa901ac8a83d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      }
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2014",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "percussion"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Melanie Lewis-McDonald",
+        "id": "08d65d12-c6bd-4194-8adf-fa901ac8a83d",
+        "country": null,
+        "name": "Melanie Lewis-McDonald",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "ended": false
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2014",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "name": "Lee Pomeroy",
+        "country": "GB",
+        "disambiguation": "English bass/guitar player, has collaborated with the band Archive",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5974410b-6f32-4eed-b502-3b9027da8640",
+        "type": "Person",
+        "sort-name": "Pomeroy, Lee"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": "2014",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "sort-name": "Pomeroy, Lee",
+        "type": "Person",
+        "id": "5974410b-6f32-4eed-b502-3b9027da8640",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "English bass/guitar player, has collaborated with the band Archive",
+        "country": "GB",
+        "name": "Lee Pomeroy"
+      },
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "id": "add96e3b-d07a-4e7d-bd14-2bab358ba521",
+        "sort-name": "Stevens, Mike",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK producer/saxophonist/keyboardist/guitarist/vocalist/flutist",
+        "name": "Mike Stevens",
+        "country": "GB"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "background vocals"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2014"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "guitar"
+      ],
+      "type": "member of band",
+      "begin": "2014",
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": false,
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "type": "Person",
+        "sort-name": "Stevens, Mike",
+        "id": "add96e3b-d07a-4e7d-bd14-2bab358ba521",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK producer/saxophonist/keyboardist/guitarist/vocalist/flutist",
+        "country": "GB",
+        "name": "Mike Stevens"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "cello"
+      ],
+      "type": "member of band",
+      "begin": "2016",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      },
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Jess Cox",
+        "sort-name": "Cox, Jess",
+        "type": "Person",
+        "id": "98a15d96-1d6f-4d34-b90c-3f2000b28e32",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "begin": "2016",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "cello"
+      ],
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Langley, Amy",
+        "id": "8f18ed7b-d037-4687-9e0a-655240370c5e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Amy Langley"
+      },
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      },
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [
+        "violin"
+      ],
+      "attribute-credits": {},
+      "end": null,
+      "type": "member of band",
+      "begin": "2016",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "artist": {
+        "id": "2ea82aaa-1188-4c6a-8057-bc9323a99686",
+        "type": "Person",
+        "sort-name": "Langley, Rosie",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Rosie Langley",
+        "country": "GB"
+      }
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "4197ff9c-8fc7-4a03-b698-478225027b26",
+        "type": "Person",
+        "sort-name": "Turner, Steve",
+        "name": "Steve Turner",
+        "country": "GB",
+        "disambiguation": "UK session musician"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "ended": false,
+      "begin": "2017",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "end": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Webb, Jo",
+        "id": "b98bccf4-f966-4e81-994a-0d9fde115d8e",
+        "country": null,
+        "name": "Jo Webb",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "ended": false,
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "2017",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "type": "member of band",
+      "begin": "2017",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "acoustic guitar"
+      ],
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Webb, Jo",
+        "id": "b98bccf4-f966-4e81-994a-0d9fde115d8e",
+        "country": null,
+        "name": "Jo Webb",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "acoustic guitar": "00beaf8e-a781-431c-8130-7c2871696b7d"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b98bccf4-f966-4e81-994a-0d9fde115d8e",
+        "type": "Person",
+        "sort-name": "Webb, Jo",
+        "name": "Jo Webb",
+        "country": null,
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "type": "member of band",
+      "begin": "2017",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": null,
+      "type": "tribute",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "artist",
+        "type": "Group",
+        "id": "b474afd6-c689-4841-a133-33d078b064d7",
+        "country": "US",
+        "name": "ELnO",
+        "disambiguation": "Minneapolis E.L.O. tribute band"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "tribute",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "country": "US",
+        "name": "Atomic Light Orchestra",
+        "disambiguation": "Maryland‐based tribute to the music of ELO and The Traveling Wilburys",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Atomic Light Orchestra",
+        "id": "57d5f0b1-608e-48a2-8363-60dfd8007106"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "d58d7af0-794f-44ee-b633-411a7b6a3617",
+        "sort-name": "Electric Light Orchestra Tribute",
+        "type": "Group",
+        "name": "Electric Light Orchestra Tribute",
+        "country": "AU",
+        "disambiguation": "Australian ELO tribute band"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attributes": [],
+      "end": null,
+      "type": "tribute",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "type": "tribute",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "id": "d2f6d0de-892c-425b-8a59-04919a1f5253",
+        "type": "Group",
+        "sort-name": "Electric Lynne Orchestra",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "name": "Electric Lynne Orchestra",
+        "country": "US"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "type": "tribute",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "name": "ELO Encounter",
+        "country": "GB",
+        "id": "5ae19afb-b083-47a9-91db-ca53252458a8",
+        "type": "Group",
+        "sort-name": "ELO Encounter",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "artist": {
+        "country": null,
+        "name": "The ELO Experience",
+        "disambiguation": "ELO tribute",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "ELO Experience, The",
+        "type": "Group",
+        "id": "d38b1a45-8e3d-46ab-bc35-526b5c89f9ea"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "type": "tribute",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "66ab6b98-4ecd-43e2-9d3d-aa466293716f",
+        "type": "Group",
+        "sort-name": "Evil Woman - The American ELO",
+        "name": "Evil Woman - The American ELO",
+        "country": "US",
+        "disambiguation": "Virginia Beach, VA ELO tribute"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "tribute",
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Explosive Light Orchestra",
+        "country": "GB",
+        "id": "d3e71ebd-464f-46e9-9fbf-652c0ccdebaf",
+        "type": "Group",
+        "sort-name": "Explosive Light Orchestra",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "tribute",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attributes": [],
+      "end": null,
+      "type": "tribute",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Rockaria",
+        "id": "4d2f5978-cd4d-4705-97ba-62e53b792d61",
+        "country": "AR",
+        "name": "Rockaria",
+        "disambiguation": ""
+      }
+    },
+    {
+      "begin": null,
+      "type": "tribute",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type": "Group",
+        "sort-name": "Strange Magic: Tribute to ELO",
+        "id": "09c97198-1e53-4735-9701-b9a90648ead8",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "country": "US",
+        "name": "Strange Magic: Tribute to ELO"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "artist": {
+        "sort-name": "Turn to Stone: A Tribute to ELO",
+        "type": "Group",
+        "id": "c139fd80-96f7-4ed0-8519-1cf02f4b705e",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "country": "US",
+        "name": "Turn to Stone: A Tribute to ELO"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "tribute",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f"
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000163229",
+        "id": "dbae1f61-a21e-4067-9523-9fc96ddfe3f9"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "type": "allmusic",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null
+    },
+    {
+      "url": {
+        "resource": "https://www.bandsintown.com/a/11304212",
+        "id": "287ff357-9b38-4e04-ab29-bad05579d5c5"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "bandsintown",
+      "target-credit": "",
+      "source-credit": "Jeff Lynne’s ELO"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "6d98fd88-84a7-49c0-bedc-bacf1e57d0d1",
+        "resource": "https://www.bandsintown.com/a/50515"
+      },
+      "ended": false,
+      "type": "bandsintown",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/0c502791-4ee9-4c5f-9696-0602b721ff3b",
+        "id": "7dc5cd81-bc44-49ef-8202-57b289522fae"
+      },
+      "attribute-ids": {},
+      "ended": true,
+      "attributes": [],
+      "end": "2020-11-19",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "BBC Music page",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/112154",
+        "id": "3e59c927-11d0-44d3-948e-a44bf8750591"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "discogs"
+    },
+    {
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "fanpage",
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://web.archive.org/web/19971210220854/http://lib.nmsu.edu/staff/clandt/rockaria/elomain.html",
+        "id": "1855c7ba-e35c-4a86-8982-df7f03244ff7"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "fanpage",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "resource": "https://web.archive.org/web/19981203112622/http://www.hk.super.net/~bluesky/",
+        "id": "e4fc3bec-6f3a-4a77-a62d-ce8090b903a7"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "type": "free streaming",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "714edd0c-4907-4cb7-9e3b-9dc31c3a7f6e",
+        "resource": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "8e946366-491b-4e67-bdc9-ed3686dd3a10",
+        "resource": "https://www.deezer.com/artist/207"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "free streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "source-credit": "Jeff Lynne’s ELO",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "free streaming",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.deezer.com/artist/8904994",
+        "id": "5ed3acf3-f519-45ac-8bb1-e3246f7d55ae"
+      }
+    },
+    {
+      "url": {
+        "id": "4ce6c41b-59c8-4b56-bd9d-c9ec9dc58b3c",
+        "resource": "https://www.imdb.com/name/nm1570672/"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "IMDb",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "last.fm",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "fef64481-c79a-4a0d-9254-18b90f78c8da",
+        "resource": "https://www.last.fm/music/Electric+Light+Orchestra"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "lyrics",
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://muzikum.eu/en/122-5464/electric-light-orchestra/lyrics.html",
+        "id": "bce621b7-839e-4b7d-b138-766ecb281b3e"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "lyrics",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://genius.com/artists/Electric-light-orchestra",
+        "id": "6604daea-6d7d-4014-a714-29a02bc612df"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "lyrics",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.musixmatch.com/artist/Electric-Light-Orchestra",
+        "id": "efde095f-b043-420f-ace7-21cd1ab1cf79"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://myspace.com/electriclightorchestra",
+        "id": "45685c2c-9baf-48ca-b720-1b55d56083d5"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type": "myspace",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://jefflynneselo.com/",
+        "id": "cd538ebd-fe28-4541-93ff-e3f445aa4116"
+      },
+      "attribute-ids": {},
+      "source-credit": "Jeff Lynne's ELO",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "official homepage",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "official homepage",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.elo.biz/",
+        "id": "106fb6ef-d3b3-40c1-906e-d4055688cd1e"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n91094651",
+        "id": "04166c4b-e2c3-46b7-b1af-1955b2900950"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "9348ca97-577b-4024-887f-7e94bb349b82",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13903179d"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://d-nb.info/gnd/1217781-7",
+        "id": "19a2ee08-deac-445d-b393-c7364717374b"
+      },
+      "ended": false,
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://imvdb.com/n/electric-light-orchestra",
+        "id": "dad25c03-68c6-46c4-9272-4f0ef1022818"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://nla.gov.au/nla.party-1122386",
+        "id": "6f4f287b-3e4f-40e8-a55b-148edf8478a3"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/electric_light_orchestra",
+        "id": "5ee68386-11bc-4186-83cf-c40b2e33076b"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "438e4270-88f8-4f40-9d66-cf8495965026",
+        "resource": "https://www.45cat.com/artist/electric-light-orchestra"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "0fa8d996-a400-49cd-a3ab-9981cc8d58d3",
+        "resource": "https://www.musik-sammler.de/artist/electric-light-orchestra/"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "50d1846f-4976-417c-921a-531d11bd9ea4",
+        "resource": "https://www.muziekweb.nl/Link/M00000060715/POPULAR/"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=2259",
+        "id": "0c664b17-cabc-4506-bf05-f854d17989ff"
+      }
+    },
+    {
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "end": null,
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Electric_Light_Orchestra",
+        "id": "7ff0f917-7c09-40c9-97fc-e4dc41e44ad1"
+      },
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type": "other databases",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "url": {
+        "id": "306a9dc0-d8a6-4cbf-8f5d-6de087fb787f",
+        "resource": "https://www.whosampled.com/Electric-Light-Orchestra/"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "206e88f5-1eec-4523-9468-c28e23d3ad6c",
+        "resource": "https://www.worldcat.org/identities/lccn-n91094651"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": true,
+      "attribute-ids": {},
+      "url": {
+        "id": "42fa444e-f77a-43b2-b341-69fe4266d8a5",
+        "resource": "https://play.google.com/store/music/artist?id=Ast364wv3rufz6bupcms7cbaaem"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "end": "2020-10-12",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "purchase for download"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://play.google.com/store/music/artist?id=Avkf326fesa2prh5nog6h45eky4",
+        "id": "921efd59-1a5b-4f11-9571-a064189efe79"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": "2020-10-12",
+      "attributes": [],
+      "begin": null,
+      "type": "purchase for download",
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "57c9687d-d962-47b3-8fbb-a4cf958d0f41",
+        "resource": "https://mora.jp/artist/146930/"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "purchase for download",
+      "source-credit": "Electric Light Orchestra (Elo)",
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://mora.jp/artist/1712/",
+        "id": "cefe1a32-895f-4243-a9fc-a933275dfc92"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "purchase for download",
+      "attributes": [],
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "source-credit": "ELECTRIC LIGHT ORCHESTRA",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "529ef46d-480b-473f-a9c9-bc94cd424b1d",
+        "resource": "https://mora.jp/artist/570738/"
+      },
+      "target-credit": "",
+      "source-credit": "Electric Light Orchestra",
+      "type": "purchase for download",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": [],
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "purchase for download",
+      "end": null,
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "source-credit": "Jeff Lynne’s ELO",
+      "target-credit": "",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/1041200236",
+        "id": "a828bee5-a33e-4c4a-873a-045252af208c"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "4b6ebb91-e5ee-46bc-b1f6-5db8e5b24701",
+        "resource": "https://music.apple.com/gb/artist/471528"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "purchase for download",
+      "source-credit": "Electric Light Orchestra",
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "purchase for download",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://music.bugs.co.kr/artist/45016",
+        "id": "78baf162-ed79-4d15-82de-b3d05518b334"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://open.qobuz.com/artist/122906",
+        "id": "c8f9c976-f760-40d5-aefc-c7369333dca0"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "type": "purchase for download",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "purchase for download",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "70d9938e-097b-4f88-ae58-0cf4f1714acd",
+        "resource": "https://www.junodownload.com/artists/Electric+Light+Orchestra/"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "ec211a9e-9db4-41d7-93ad-99e9c521bc75",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/electric-light-orchestra/122906"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attributes": [],
+      "type": "purchase for download",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "1d567240-55a8-4469-b898-238238a6f516",
+        "resource": "https://mora.jp/artist/785662/"
+      },
+      "ended": true,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "purchase for download",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.7digital.com/artist/electric-light-orchestra",
+        "id": "0101c927-232e-44e3-9ec7-e8e4b2c433f5"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attributes": [],
+      "type": "purchase for download",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type": "purchase for download",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": [],
+      "end": null,
+      "ended": true,
+      "attribute-ids": {},
+      "url": {
+        "id": "e1013c3d-8976-4b8c-a02b-30a901a94acc",
+        "resource": "https://www.onkyomusic.com/GB/artist/electric-light-orchestra"
+      }
+    },
+    {
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "purchase for mail-order",
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "b2dfcca6-28de-46a3-ac09-42c56bf5b110",
+        "resource": "https://www.amazon.com/-/e/B000APBB9O"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "end": null,
+      "attributes": [],
+      "type": "secondhandsongs",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/1752",
+        "id": "c2d71d33-c05d-4f13-9156-f8e41cd3f4cf"
+      },
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "setlistfm",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/electric-light-orchestra-63d6be6b.html",
+        "id": "06d68785-3d92-4177-9124-e24235236bba"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "951cce13-cffc-46be-8df6-87fa813dbbc5",
+        "resource": "https://www.setlist.fm/setlists/jeff-lynnes-elo-53c83b61.html"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "type": "setlistfm",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-values": {}
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://twitter.com/JeffLynnesELO",
+        "id": "acf351d2-f195-4aa4-96d8-9701068e4291"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "Jeff Lynne’s ELO",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "social network",
+      "end": null,
+      "attributes": [],
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "social network",
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.facebook.com/ElectricLightOrchestra",
+        "id": "00e5a352-758c-479e-9e43-db53723cba57"
+      }
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.instagram.com/jefflynneselo/",
+        "id": "19e4e7b3-cbae-493a-b440-b7ae8bb3cde9"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "Jeff Lynne’s ELO",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "social network",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "url": {
+        "resource": "https://www.songkick.com/artists/8659244",
+        "id": "32b12b6e-98e9-416a-9aa3-3025d07fb35b"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "type": "songkick",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "soundcloud",
+      "end": null,
+      "attributes": [],
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "0b0098dc-6371-4c08-bc1e-c160da109bd5",
+        "resource": "https://soundcloud.com/electric-light-orchestra"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "streaming",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "0dc83b90-cfc1-4e24-8aaf-4f61d4f852f1",
+        "resource": "https://music.amazon.com/artists/B015KPV9AO"
+      }
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "type": "streaming",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "Jeff Lynne’s ELO",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/1041200236",
+        "id": "a828bee5-a33e-4c4a-873a-045252af208c"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "4b6ebb91-e5ee-46bc-b1f6-5db8e5b24701",
+        "resource": "https://music.apple.com/gb/artist/471528"
+      },
+      "source-credit": "Electric Light Orchestra",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "streaming",
+      "attributes": [],
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "78baf162-ed79-4d15-82de-b3d05518b334",
+        "resource": "https://music.bugs.co.kr/artist/45016"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.qobuz.com/artist/122906",
+        "id": "c8f9c976-f760-40d5-aefc-c7369333dca0"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://tidal.com/artist/3723239",
+        "id": "5fe9d93e-c24b-432f-a590-00dcb6de6dbf"
+      },
+      "ended": false,
+      "begin": null,
+      "type": "streaming",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "4b1002b1-b8f8-4f42-bcc0-f5155494d885",
+        "resource": "https://www.amazon.co.uk/gp/product/B001EE0KTC"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "streaming"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "ec211a9e-9db4-41d7-93ad-99e9c521bc75",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/electric-light-orchestra/122906"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "streaming",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "attributes": [],
+      "type": "streaming",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "ec3a4e9c-8c31-4baa-a228-bcd1a299f447",
+        "resource": "https://us.napster.com/artist/electric-light-orchestra"
+      },
+      "ended": true
+    },
+    {
+      "url": {
+        "resource": "http://viaf.org/viaf/143700107",
+        "id": "8577cf92-b7aa-44d7-a0d6-2da5944885e1"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "VIAF",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q218255",
+        "id": "b83ae920-4d38-4447-9786-f50bf0cdcb4b"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "wikidata",
+      "begin": null,
+      "source-credit": "Jeff Lynne's ELO",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCnN3zukXBgI86ao_epE9ZZg",
+        "id": "9c9a656c-39fa-421e-8543-5544ddb9d949"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "youtube",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "id": "9511356b-ad37-4f84-a8f1-1e19d5f8d6d4",
+        "resource": "https://music.youtube.com/channel/UCk87V2lvXb6AMZXkLY3_phQ"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "youtube music",
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": ""
+    }
+  ],
+  "gender": null,
+  "ipis": [],
+  "isnis": [
+    "0000000120345231"
+  ],
+  "area": {
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "sort-name": "United Kingdom",
+    "type": null,
+    "name": "United Kingdom",
+    "disambiguation": ""
+  },
+  "id": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
+  "life-span": {
+    "begin": "1970",
+    "ended": true,
+    "end": "2025-07-13"
+  },
+  "begin-area": {
+    "disambiguation": "",
+    "name": "Birmingham",
+    "sort-name": "Birmingham",
+    "type": null,
+    "id": "226c4dca-ef2a-4d4b-ba25-4118d116557a",
+    "type-id": null,
+    "iso-3166-2-codes": [
+      "GB-BIR"
+    ]
+  },
+  "aliases": [
+    {
+      "end": null,
+      "type-id": null,
+      "begin": null,
+      "type": null,
+      "sort-name": "E. L. O.",
+      "name": "E. L. O.",
+      "ended": false,
+      "primary": null,
+      "locale": null
+    },
+    {
+      "locale": null,
+      "primary": null,
+      "ended": false,
+      "name": "E.L.O",
+      "begin": null,
+      "type": null,
+      "sort-name": "E.L.O",
+      "type-id": null,
+      "end": null
+    },
+    {
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "end": null,
+      "sort-name": "E.L.O.",
+      "begin": null,
+      "type": "Artist name",
+      "primary": null,
+      "locale": null,
+      "ended": false,
+      "name": "E.L.O."
+    },
+    {
+      "sort-name": "ELO",
+      "begin": null,
+      "type": null,
+      "type-id": null,
+      "end": null,
+      "locale": null,
+      "primary": null,
+      "ended": false,
+      "name": "ELO"
+    },
+    {
+      "ended": false,
+      "name": "Electric Light Orchestra ELO",
+      "locale": null,
+      "primary": null,
+      "sort-name": "Electric Light Orchestra ELO",
+      "begin": null,
+      "type": "Search hint",
+      "end": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e"
+    },
+    {
+      "ended": false,
+      "name": "Jeff Lynne's ELO",
+      "locale": null,
+      "primary": null,
+      "type": "Artist name",
+      "begin": null,
+      "sort-name": "Jeff Lynne's ELO",
+      "end": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    },
+    {
+      "end": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "type": "Search hint",
+      "begin": null,
+      "sort-name": "Jeff Lynne's Elo",
+      "ended": false,
+      "name": "Jeff Lynne's Elo",
+      "locale": null,
+      "primary": null
+    },
+    {
+      "type-id": null,
+      "end": null,
+      "sort-name": "The Electric Light Orchestra",
+      "type": null,
+      "begin": null,
+      "primary": null,
+      "locale": null,
+      "ended": false,
+      "name": "The Electric Light Orchestra"
+    },
+    {
+      "begin": null,
+      "type": null,
+      "sort-name": "エレクトリック・ライト・オーケストラ",
+      "end": null,
+      "type-id": null,
+      "name": "エレクトリック・ライト・オーケストラ",
+      "ended": false,
+      "locale": null,
+      "primary": null
+    }
+  ],
+  "disambiguation": "British rock group"
+}

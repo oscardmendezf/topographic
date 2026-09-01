@@ -1,0 +1,1998 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "ipis": [],
+  "aliases": [
+    {
+      "name": "Jethrp Tull",
+      "end": null,
+      "primary": null,
+      "locale": null,
+      "ended": false,
+      "type-id": null,
+      "begin": null,
+      "sort-name": "Jethrp Tull",
+      "type": null
+    },
+    {
+      "ended": false,
+      "type-id": null,
+      "locale": null,
+      "primary": null,
+      "name": "Jetro Tull",
+      "end": null,
+      "type": null,
+      "sort-name": "Jetro Tull",
+      "begin": null
+    },
+    {
+      "begin": null,
+      "sort-name": "Tull",
+      "type": null,
+      "end": null,
+      "name": "Tull",
+      "locale": null,
+      "primary": null,
+      "type-id": null,
+      "ended": false
+    },
+    {
+      "type": "Artist name",
+      "sort-name": "ジェ入ロ",
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "primary": true,
+      "locale": "ja",
+      "end": null,
+      "name": "ジェ入ロ"
+    }
+  ],
+  "relations": [
+    {
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "begin": "1967-11",
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "electric guitar",
+        "original"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1968-11",
+      "artist": {
+        "sort-name": "Abrahams, Mick",
+        "id": "88503676-d31b-458f-80a7-c38d758688b2",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Mick Abrahams",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "source-credit": ""
+    },
+    {
+      "begin": "1967-11",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar",
+        "original"
+      ],
+      "attribute-values": {},
+      "end": "1970-12",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Cornick, Glenn",
+        "id": "d7546c3b-8e41-41bf-a046-d2c366d3568c",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Glenn Cornick"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Bunker, Clive",
+        "id": "727640ec-95f5-4d0e-82c0-ab334c20a3ac",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Clive Bunker"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1971-05",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "direction": "backward",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1967-11"
+    },
+    {
+      "begin": "1967",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "mandolin": "37fa9bb5-d5d7-4b0f-aa4d-531339ba9c32",
+        "harmonica": "63e37f1a-30b6-4746-8a49-dfb55be3cdd1",
+        "acoustic guitar": "00beaf8e-a781-431c-8130-7c2871696b7d",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [
+        "acoustic guitar",
+        "flute",
+        "harmonica",
+        "lead vocals",
+        "mandolin",
+        "original"
+      ],
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "12fffb1f-39af-4efe-9426-92e05bb651d1",
+        "sort-name": "Anderson, Ian",
+        "disambiguation": "of Jethro Tull",
+        "country": "GB",
+        "name": "Ian Anderson"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "begin": "1968-12",
+      "attribute-ids": {
+        "acoustic guitar": "00beaf8e-a781-431c-8130-7c2871696b7d",
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87",
+        "recorder": "3cf4c0c9-160a-4d73-9243-7d0e0df17050"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [
+        "acoustic guitar",
+        "electric guitar",
+        "recorder"
+      ],
+      "end": "2011",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Martin Barre",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "6c68bf5a-88cb-4b46-ac06-306b327b03e1",
+        "sort-name": "Barre, Martin"
+      },
+      "target-credit": ""
+    },
+    {
+      "attributes": [
+        "guitar"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Tony Iommi",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Iommi, Tony",
+        "id": "e5fa0175-2e93-4ca7-90c3-33f239381252"
+      },
+      "end": "1969-01",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "1968",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {
+        "organ": "55a37f4f-39a4-45a7-851d-586569985519",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "type": "member of band",
+      "begin": "1970-04",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "organ",
+        "piano",
+        "synthesizer"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "16d9683a-6e64-4163-a56a-fa351d56b13d",
+        "sort-name": "Evan, John",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "John Evan"
+      },
+      "end": "1980-06",
+      "attribute-values": {}
+    },
+    {
+      "begin": "1971-01",
+      "attribute-ids": {
+        "treble recorder / alto recorder": "1a625158-8e67-49b4-9dd5-fa6a0208bdcf",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [
+        "bass guitar",
+        "treble recorder / alto recorder"
+      ],
+      "end": "1975-12",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Hammond Hammond, Jeffrey",
+        "id": "bf2fdd63-37ff-4263-a32c-2833dc43a780",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jeffrey Hammond Hammond",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1980-06",
+      "artist": {
+        "name": "Barriemore Barlow",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "ab99a5a7-26cb-42e8-abbd-9eebb6c2d40a",
+        "sort-name": "Barlow, Barriemore",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1971-05"
+    },
+    {
+      "begin": "1975-12",
+      "type": "member of band",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ],
+      "direction": "backward",
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "John Glascock",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "301986e2-cfb6-436a-8178-124b13c11d8e",
+        "sort-name": "Glascock, John"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1979-08",
+      "target-credit": ""
+    },
+    {
+      "begin": "1976-10",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [
+        "keyboard",
+        "saxophone"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Palmer, Dee",
+        "id": "e54203ac-f4ee-4970-a54f-78993f8b91a1",
+        "disambiguation": "aka David Palmer, of Jethro Tull",
+        "country": "GB",
+        "name": "Dee Palmer"
+      },
+      "end": "1980-06",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1979-08",
+      "attribute-ids": {
+        "mandolin": "37fa9bb5-d5d7-4b0f-aa4d-531339ba9c32",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "58a6aa14-9c27-42d1-8667-859892cb3a29",
+        "sort-name": "Pegg, Dave",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Dave Pegg"
+      },
+      "end": "1995",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "bass guitar",
+        "mandolin"
+      ],
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Craney, Mark",
+        "id": "8006ec85-aed2-499a-b3d8-1b02cac9782b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Mark Craney",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "end": "1981-05",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1980-06",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "begin": "1980-06",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1981-05",
+      "artist": {
+        "name": "Eddie Jobson",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "824dcca4-d658-41b3-95c5-07d0d183b5c6",
+        "sort-name": "Jobson, Eddie",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "violin"
+      ]
+    },
+    {
+      "begin": "1981-06",
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Conway, Gerry",
+        "id": "cf0fe6db-86a8-48c9-89c1-b8dd26f712f0",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Gerry Conway"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1983",
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "member of band",
+      "begin": "1981-06",
+      "target-credit": "",
+      "end": "1987",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Vettese, Peter-John",
+        "id": "33c63780-77b2-47dd-9098-9432b1e9ea66",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Peter-John Vettese",
+        "country": "GB",
+        "disambiguation": "British keyboardist, songwriter, arranger and record producer"
+      },
+      "direction": "backward",
+      "attributes": [
+        "keyboard"
+      ]
+    },
+    {
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1982",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "name": "Paul Burgess",
+        "disambiguation": "UK rock drummer",
+        "country": "GB",
+        "id": "78da9bf1-8429-4003-89a2-5c5efa63da7b",
+        "sort-name": "Burgess, Paul",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1983"
+    },
+    {
+      "end": "1991",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "de28c0d5-12c9-42c2-a392-49a556e0c888",
+        "sort-name": "Perry, Doane",
+        "disambiguation": "",
+        "country": "US",
+        "name": "Doane Perry"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1984",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band"
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1988-01",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "member of band",
+      "end": "1991",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "035b180f-0a7c-4454-b862-8d68bd2178c5",
+        "sort-name": "Allcock, Maartin",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Maartin Allcock"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "keyboard"
+      ]
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)",
+        "keyboard"
+      ],
+      "target-credit": "",
+      "end": "1993",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Dave Mattacks",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Mattacks, Dave",
+        "id": "88eedc67-59e4-4054-ba12-823542088a9e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "begin": "1992",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {}
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "2006",
+      "artist": {
+        "name": "Andrew Giddings",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "e167a5fc-778e-44ec-a4dd-d3f1b5d61558",
+        "sort-name": "Giddings, Andrew",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "accordion",
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "accordion": "bdf08ac2-b9c2-4391-85e5-9a7716bdd690",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1992"
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "begin": "1994",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "de28c0d5-12c9-42c2-a392-49a556e0c888",
+        "sort-name": "Perry, Doane",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Doane Perry",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ]
+    },
+    {
+      "artist": {
+        "disambiguation": "Bass guitarist",
+        "country": "GB",
+        "name": "Jonathan Noyce",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Noyce, Jonathan",
+        "id": "d1b05469-8012-4030-b47f-f5653d624ca9"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "2006",
+      "target-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": "1995",
+      "type": "member of band",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "begin": "2006",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "type": "member of band",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "da425855-131b-4034-9bbc-99c92bbd8331",
+        "sort-name": "Goodier, David",
+        "disambiguation": "Jethro Tull bassist",
+        "country": "GB",
+        "name": "David Goodier"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar"
+      ]
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "accordion": "bdf08ac2-b9c2-4391-85e5-9a7716bdd690"
+      },
+      "type": "member of band",
+      "begin": "2006",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "UK keyboardist, pianist and conductor",
+        "name": "John O’Hara",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "O’Hara, John",
+        "id": "7d53fcb9-4189-4bb1-a8cb-9fd29d1b87c1"
+      },
+      "end": null,
+      "attribute-values": {},
+      "attributes": [
+        "accordion",
+        "keyboard",
+        "piano"
+      ],
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "artist": {
+        "name": "Anna Phoebe",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Phoebe, Anna",
+        "id": "1dd8ad82-84f7-4e24-98b7-8d9db2a0f76d",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "violin"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "target-type": "artist",
+      "begin": "2007",
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "type": "member of band"
+    },
+    {
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": null,
+      "type": "member of band",
+      "attribute-ids": {},
+      "artist": {
+        "id": "ef43b433-5f3b-4478-adc7-fa5dad5a81e8",
+        "sort-name": "Hammond, Scott",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Scott Hammond",
+        "country": null,
+        "disambiguation": "English rock drummer, born 4 June 1973 in Bristol"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "id": "e6c537dc-0776-47e9-8e52-38a30d515f04",
+        "sort-name": "Williams, Tony",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Tony Williams",
+        "disambiguation": "bass",
+        "country": "GB"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "bass"
+      ],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "begin": null
+    },
+    {
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "8e608ed8-5066-49a0-87b6-48cedd186d80",
+        "sort-name": "GanzTull",
+        "disambiguation": "Danish Jethro Tull tribute band",
+        "country": "DK",
+        "name": "GanzTull"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-type": "artist",
+      "begin": null,
+      "type": "tribute",
+      "attribute-ids": {}
+    },
+    {
+      "type": "tribute",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "id": "a6158292-3a1a-45df-a28f-43d7836ea952",
+        "sort-name": "Mother Goose",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Mother Goose",
+        "country": null,
+        "disambiguation": "Jethro Tull tribute band from Sweden"
+      },
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "allmusic",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000850692",
+        "id": "38ba5ad0-1d49-4be6-9a0e-fb776ff4b966"
+      },
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "target-type": "url",
+      "type": "bandsintown",
+      "url": {
+        "resource": "https://www.bandsintown.com/a/45836",
+        "id": "3beb0af3-c4cf-4cca-8b00-3c62b67a9de3"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "ended": true,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "BBC Music page",
+      "url": {
+        "id": "de3c1759-d43f-425c-ad44-56b3b7da541a",
+        "resource": "https://www.bbc.co.uk/music/artists/ece57992-dc2e-4f67-a269-fa43626c1a3d"
+      },
+      "end": "2020-11-19",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "discography page",
+      "url": {
+        "id": "7a02a09b-d59a-4c83-99e9-0778cd5b0547",
+        "resource": "https://www.collecting-tull.com/"
+      },
+      "target-type": "url",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.electrocutas.co.uk/albumhub.htm",
+        "id": "7ce912a7-aaf3-4514-b1c0-284a8dec0b60"
+      },
+      "type": "discography page",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "discogs",
+      "url": {
+        "resource": "https://www.discogs.com/artist/30122",
+        "id": "66bd877a-104f-40fc-97f8-56b82cdd3afc"
+      },
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "5c982efa-942d-4119-9b68-94d76583b68d",
+        "resource": "https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R"
+      },
+      "type": "free streaming"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "free streaming",
+      "url": {
+        "resource": "https://www.deezer.com/artist/2888",
+        "id": "73e04034-6f5e-4811-b392-b3514de2aea4"
+      }
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "f7f2eae4-29c0-4ac9-998b-6c75dea03d9b",
+        "resource": "https://commons.wikimedia.org/wiki/File:Ian_Anderson_in_concert.jpg"
+      },
+      "type": "image",
+      "begin": null,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "ended": false,
+      "attribute-ids": {},
+      "type": "IMDb",
+      "url": {
+        "id": "58936c9f-7f26-4ec9-aa58-363dcd64e75b",
+        "resource": "https://www.imdb.com/name/nm1432618/"
+      },
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.last.fm/music/Jethro+Tull",
+        "id": "66d4af9c-85cc-40ec-84a4-b3257991018b"
+      },
+      "type": "last.fm",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://genius.com/artists/Jethro-tull",
+        "id": "53d8c0d3-3f9d-47d6-8218-f5cbf74dac40"
+      },
+      "type": "lyrics",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "lyrics",
+      "url": {
+        "resource": "https://muzikum.eu/en/jethro-tull/lyrics",
+        "id": "0353c566-75c4-430e-9777-6d2eddf95c16"
+      }
+    },
+    {
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://jethrotull.com/",
+        "id": "c928773c-4747-4f61-9f27-e62df473b98b"
+      },
+      "type": "official homepage",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.j-tull.com/",
+        "id": "873f2e73-2120-46ac-bb9e-4f9235952898"
+      },
+      "type": "official homepage",
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": true,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "type": "other databases",
+      "url": {
+        "id": "4a0d7ace-02af-4206-bb0a-6c93b42e03c9",
+        "resource": "http://id.loc.gov/authorities/names/n88661101"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13904227p",
+        "id": "99416583-7a1c-40a4-9556-fc7694579e5c"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://d-nb.info/gnd/2127328-5",
+        "id": "1cb2d366-a4bb-4080-8589-0209e229410b"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7QX7gdBrBjBtvDgghR",
+        "id": "8adb6fd7-fd46-45c8-a654-c4b764233128"
+      },
+      "type": "other databases",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "15932236-c622-4aa9-8e4a-d85527acd533",
+        "resource": "https://imvdb.com/n/jethro-tull"
+      }
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://musicmoz.org/Bands_and_Artists/J/Jethro_Tull/",
+        "id": "48cb2c42-f384-426d-956c-943dfcd89730"
+      },
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "url": {
+        "id": "49bc945f-93f0-4f81-a6ce-9dc297280bfd",
+        "resource": "https://nla.gov.au/nla.party-1092254"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/jethro-tull",
+        "id": "424fd932-8368-4e82-af8e-2b318992d457"
+      },
+      "type": "other databases",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "74266dcf-d3ff-4b4a-bdc4-3cf4a2ccb666",
+        "resource": "https://www.45cat.com/artist/jethro-tull"
+      },
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "id": "5b216b5b-4304-4adc-8861-3193e00be823",
+        "resource": "https://www.musik-sammler.de/artist/jethro-tull/"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.muziekweb.nl/Link/M00000082710/POPULAR/",
+        "id": "e2eac53f-8f66-4d00-8a4e-56eff9da12f6"
+      },
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "6d076692-6133-4098-9726-7409846bc983",
+        "resource": "https://www.progarchives.com/artist.asp?id=418"
+      },
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "354ff43b-73a5-4033-ac19-000b0f83feb5",
+        "resource": "https://www.spirit-of-rock.com/en/band/Jethro_Tull"
+      },
+      "type": "other databases",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "https://www.whosampled.com/Jethro-Tull/",
+        "id": "5ef7d626-445d-4351-b66e-ede0a403600c"
+      },
+      "type": "other databases",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "2020-10-12",
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": true,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "https://play.google.com/store/music/artist?id=Aiaxrz75s7hcyay4wx2gzbkox2e",
+        "id": "120f6ca1-5ba8-4070-8719-1330c23528ac"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://itunes.apple.com/gb/artist/id44596725",
+        "id": "8183b6d4-e62e-41c1-a39f-e69a0f7ba579"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "purchase for download",
+      "url": {
+        "id": "445bb6b2-910e-4b22-9107-ab47c7fa23fc",
+        "resource": "https://mora.jp/artist/268906/all"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "id": "b20c0834-b758-4861-af93-71a02bbf890f",
+        "resource": "https://music.apple.com/gb/artist/44596725"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+    },
+    {
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "5fe44b82-80c4-423c-9edb-9eba0cf304ce",
+        "resource": "https://open.qobuz.com/artist/39214"
+      },
+      "type": "purchase for download",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "url": {
+        "id": "ceb03a84-b829-4971-88b7-d1e80b22aa59",
+        "resource": "https://uk.7digital.com/artist/jethro-tull"
+      },
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104064",
+        "id": "5232171a-12e8-48e3-abc7-713764591ad2"
+      },
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.qobuz.com/gb-en/interpreter/jethro-tull/39214",
+        "id": "209e6115-e499-4867-bfdc-6731cc8cdcef"
+      },
+      "type": "purchase for download"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "resource": "https://www.cdjapan.co.jp/person/700217056",
+        "id": "58dc2f05-b329-4b3a-a8e7-e216246776cc"
+      },
+      "type": "purchase for mail-order",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "ended": false,
+      "attribute-ids": {},
+      "type": "secondhandsongs",
+      "url": {
+        "id": "01e6d349-99c2-4f0c-ac57-d8a05921d113",
+        "resource": "https://secondhandsongs.com/artist/193"
+      },
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "3b752ff8-7820-4475-b35b-c73a42571314",
+        "resource": "https://www.setlist.fm/setlists/jethro-tull-3d6b523.html"
+      },
+      "type": "setlistfm",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "resource": "https://twitter.com/jethrotull",
+        "id": "f3815958-76a8-4c5f-a529-ea005ffcf5e2"
+      },
+      "type": "social network",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-type": "url",
+      "type": "social network",
+      "url": {
+        "id": "a8075ce5-aca4-4c61-820e-26280f07a1a1",
+        "resource": "https://www.facebook.com/officialjethrotull"
+      },
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "url": {
+        "resource": "https://www.instagram.com/jethrotull_/",
+        "id": "f6dfbeee-8030-45a3-90fc-d69c713d556f"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.threads.com/@jethrotull_",
+        "id": "01db22b2-d9a3-4a15-a2b6-148a23693b6e"
+      },
+      "type": "social network",
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "type": "social network",
+      "url": {
+        "resource": "https://www.tiktok.com/@jethrotullofficial",
+        "id": "7282d0ca-e817-4991-b251-a3a2859206ff"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "eb60bf02-5ab6-4db9-a189-7c4ff85ee3c4",
+        "resource": "https://www.songkick.com/artists/111953"
+      },
+      "type": "songkick",
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "target-type": "url",
+      "begin": null,
+      "type": "soundcloud",
+      "url": {
+        "resource": "https://soundcloud.com/jethrotullmusic",
+        "id": "3e335c15-f8ab-41f9-8417-b73d1342c554"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "url": {
+        "id": "e00a8aff-fc10-467b-95a6-55ad442deb6c",
+        "resource": "https://music.amazon.com/artists/B001EHNGBI"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/44596725",
+        "id": "b20c0834-b758-4861-af93-71a02bbf890f"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "type": "streaming",
+      "url": {
+        "resource": "https://open.qobuz.com/artist/39214",
+        "id": "5fe44b82-80c4-423c-9edb-9eba0cf304ce"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "streaming",
+      "url": {
+        "resource": "https://tidal.com/artist/10597",
+        "id": "28548f43-2079-430c-93f3-f276a4d53417"
+      },
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "type": "streaming",
+      "url": {
+        "id": "5232171a-12e8-48e3-abc7-713764591ad2",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104064"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "attribute-ids": {},
+      "type": "streaming",
+      "url": {
+        "resource": "https://www.qobuz.com/gb-en/interpreter/jethro-tull/39214",
+        "id": "209e6115-e499-4867-bfdc-6731cc8cdcef"
+      },
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "ticketing",
+      "url": {
+        "resource": "https://www.ticketmaster.com/artist/735387",
+        "id": "1f760254-0146-46a2-8fa0-661cca222459"
+      },
+      "target-type": "url",
+      "type-id": "34beaf28-cbdd-4bf7-bc41-e7de18135245",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/153722667",
+        "id": "c048905e-0788-4db1-860d-722659a8dce6"
+      },
+      "type": "VIAF",
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q192353",
+        "id": "2f54a65c-f0c8-471c-9cc6-ecb0c6ca1c36"
+      },
+      "type": "wikidata"
+    },
+    {
+      "ended": false,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-type": "url",
+      "type": "youtube",
+      "url": {
+        "id": "75e4669a-7ce4-412f-bae6-ca08569ed024",
+        "resource": "https://www.youtube.com/channel/UCyZe0Uc78q7aEA7bFKtZ-oA"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "target-type": "url",
+      "begin": null,
+      "type": "youtube music",
+      "url": {
+        "resource": "https://music.youtube.com/channel/UC7sFWdsZTzfR507dbonTlyQ",
+        "id": "187ec77f-97c0-4037-9db1-943764a3ed7f"
+      },
+      "attribute-ids": {}
+    }
+  ],
+  "type": "Group",
+  "disambiguation": "",
+  "life-span": {
+    "begin": "1967-12",
+    "end": null,
+    "ended": false
+  },
+  "country": "GB",
+  "end-area": null,
+  "name": "Jethro Tull",
+  "isnis": [
+    "0000000123374070"
+  ],
+  "gender": null,
+  "id": "ece57992-dc2e-4f67-a269-fa43626c1a3d",
+  "sort-name": "Jethro Tull",
+  "area": {
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "type": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "sort-name": "United Kingdom"
+  },
+  "begin-area": {
+    "name": "Luton",
+    "disambiguation": "",
+    "iso-3166-2-codes": [
+      "GB-LUT"
+    ],
+    "sort-name": "Luton",
+    "id": "fce4afff-8d49-4f1f-977a-10edbe839331",
+    "type": null,
+    "type-id": null
+  }
+}

@@ -1,0 +1,3077 @@
+{
+  "end-area": null,
+  "gender": null,
+  "gender-id": null,
+  "country": "GB",
+  "aliases": [
+    {
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "begin": null,
+      "type-id": null,
+      "sort-name": "King Crimson, with Jon Anderso",
+      "name": "King Crimson, with Jon Anderso",
+      "primary": null,
+      "type": null
+    },
+    {
+      "name": "King Krimson",
+      "type": null,
+      "primary": null,
+      "begin": null,
+      "type-id": null,
+      "sort-name": "King Krimson",
+      "end": null,
+      "ended": false,
+      "locale": null
+    },
+    {
+      "type": "Artist name",
+      "primary": true,
+      "name": "キング・クリムゾン",
+      "sort-name": "キング・クリムゾン",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "begin": null,
+      "locale": "ja",
+      "ended": false,
+      "end": null
+    }
+  ],
+  "isnis": [
+    "0000000123245914"
+  ],
+  "life-span": {
+    "end": "2021",
+    "ended": true,
+    "begin": "1968-11-30"
+  },
+  "id": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "disambiguation": "Greater London",
+    "type-id": null,
+    "name": "London",
+    "sort-name": "London",
+    "type": null
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "artist rename",
+      "direction": "backward",
+      "begin": "1969-01-13",
+      "type-id": "9752bfdf-13ca-441a-a8bc-18928c600c73",
+      "attribute-ids": {},
+      "end": "1969-01-13",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Giles, Giles & Fripp",
+        "country": "GB",
+        "id": "f8434a81-5900-418b-9441-34d279a723ac",
+        "name": "Giles, Giles & Fripp",
+        "type": "Group",
+        "disambiguation": ""
+      },
+      "ended": true
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1969-12",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Giles, Michael",
+        "id": "df54c3d8-9f86-47d9-8891-4d17d4bd7949",
+        "name": "Michael Giles",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "begin": "1968-11-30",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)",
+        "original",
+        "percussion"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "background vocals",
+        "original"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "1969-12",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Michael Giles",
+        "id": "df54c3d8-9f86-47d9-8891-4d17d4bd7949",
+        "sort-name": "Giles, Michael",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968-11-30"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968-11-30",
+      "ended": true,
+      "artist": {
+        "id": "901b1b4d-3894-4589-b97e-112092f87d87",
+        "country": "GB",
+        "sort-name": "McDonald, Ian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK multi‐instrumentalist, formerly of King Crimson and Foreigner",
+        "type": "Person",
+        "name": "Ian McDonald"
+      },
+      "end": "1969-12",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1968-11-30",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "country": "GB",
+        "sort-name": "McDonald, Ian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "901b1b4d-3894-4589-b97e-112092f87d87",
+        "type": "Person",
+        "name": "Ian McDonald",
+        "disambiguation": "UK multi‐instrumentalist, formerly of King Crimson and Foreigner"
+      },
+      "end": "1969-12",
+      "ended": true,
+      "source-credit": "",
+      "attributes": [
+        "background vocals",
+        "original"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1968-11-30",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "McDonald, Ian",
+        "id": "901b1b4d-3894-4589-b97e-112092f87d87",
+        "name": "Ian McDonald",
+        "type": "Person",
+        "disambiguation": "UK multi‐instrumentalist, formerly of King Crimson and Foreigner"
+      },
+      "end": "1969-12",
+      "ended": true,
+      "source-credit": "",
+      "attributes": [
+        "flute",
+        "original"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [
+        "original",
+        "saxophone"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "name": "Ian McDonald",
+        "disambiguation": "UK multi‐instrumentalist, formerly of King Crimson and Foreigner",
+        "sort-name": "McDonald, Ian",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "901b1b4d-3894-4589-b97e-112092f87d87"
+      },
+      "end": "1969-12",
+      "ended": true,
+      "begin": "1968-11-30",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "begin": "1968-11-30",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "mellotron": "3715ab17-124b-4011-b324-d2bb2cd46f6b",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "id": "901b1b4d-3894-4589-b97e-112092f87d87",
+        "sort-name": "McDonald, Ian",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK multi‐instrumentalist, formerly of King Crimson and Foreigner",
+        "type": "Person",
+        "name": "Ian McDonald"
+      },
+      "end": "1969-12",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "mellotron",
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar",
+        "lead vocals",
+        "original"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "name": "Greg Lake",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Lake, Greg",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "6e2fdea5-8960-46ec-8a05-41b7eec3b2a9"
+      },
+      "end": "1970",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968-11-30"
+    },
+    {
+      "ended": true,
+      "end": "1971",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Sinfield, Peter",
+        "id": "186e2b86-4824-4c90-83f0-fe97808caa9a",
+        "name": "Peter Sinfield",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "begin": "1968-11-30",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "original",
+        "synthesizer"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "name": "Robert Fripp",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Fripp, Robert",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "898b645e-eed2-490a-8ce2-0e7a4d2d5bc8"
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968-11-30",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "mellotron": "3715ab17-124b-4011-b324-d2bb2cd46f6b"
+      },
+      "begin": "1968-11-30",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "id": "898b645e-eed2-490a-8ce2-0e7a4d2d5bc8",
+        "sort-name": "Fripp, Robert",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Robert Fripp"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [
+        "mellotron",
+        "original"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "flute",
+        "saxophone"
+      ],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970-03-21",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49",
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "end": "1972-05-20",
+      "artist": {
+        "sort-name": "Collins, Mel",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "67b08fdc-ee07-4f93-957e-8ade23cf6ac8",
+        "type": "Person",
+        "name": "Mel Collins",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "begin": "1970-03-21",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Mel Collins",
+        "id": "67b08fdc-ee07-4f93-957e-8ade23cf6ac8",
+        "sort-name": "Collins, Mel",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1972-05-20",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "mellotron"
+      ],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1970-03-21",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "mellotron": "3715ab17-124b-4011-b324-d2bb2cd46f6b"
+      },
+      "artist": {
+        "id": "67b08fdc-ee07-4f93-957e-8ade23cf6ac8",
+        "country": "GB",
+        "sort-name": "Collins, Mel",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Mel Collins"
+      },
+      "end": "1972-05-20",
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "end": "1970-11-10",
+      "artist": {
+        "name": "Gordon Haskell",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Haskell, Gordon",
+        "id": "9ffd031f-df96-4b92-bcf8-4dd5c95c4474"
+      },
+      "ended": true
+    },
+    {
+      "end": "1970-11-10",
+      "artist": {
+        "disambiguation": "",
+        "name": "Gordon Haskell",
+        "type": "Person",
+        "id": "9ffd031f-df96-4b92-bcf8-4dd5c95c4474",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Haskell, Gordon"
+      },
+      "ended": true,
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "ended": true,
+      "end": "1970",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Giles, Peter",
+        "country": "GB",
+        "id": "cc5c4ed1-31b5-4a96-b2b1-b82785991c1c",
+        "name": "Peter Giles",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "Andy McCullough",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "1970",
+      "artist": {
+        "disambiguation": "",
+        "name": "Andy McCulloch",
+        "type": "Person",
+        "id": "bc81f989-a353-4772-8be6-188b14fd1dd4",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "McCulloch, Andy",
+        "country": "GB"
+      },
+      "ended": true
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971-04-24",
+      "ended": true,
+      "end": "1972-05-20",
+      "artist": {
+        "sort-name": "Burrell, Boz",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "8a051afa-9a05-402e-a2bb-32c877c812ee",
+        "type": "Person",
+        "name": "Boz Burrell",
+        "disambiguation": "English musician"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals"
+      ]
+    },
+    {
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1971-04-24",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "artist": {
+        "id": "8a051afa-9a05-402e-a2bb-32c877c812ee",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Burrell, Boz",
+        "disambiguation": "English musician",
+        "name": "Boz Burrell",
+        "type": "Person"
+      },
+      "end": "1972-05-20",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "background vocals"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "begin": "1971-04-24",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1972-05-20",
+      "artist": {
+        "id": "ea83ce9e-fd58-4bb1-b977-75c0f52e607b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Wallace, Ian",
+        "country": "GB",
+        "disambiguation": "drummer, ex‐King Crimson",
+        "name": "Ian Wallace",
+        "type": "Person"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971-04-24",
+      "ended": true,
+      "end": "1972-05-20",
+      "artist": {
+        "id": "ea83ce9e-fd58-4bb1-b977-75c0f52e607b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Wallace, Ian",
+        "country": "GB",
+        "disambiguation": "drummer, ex‐King Crimson",
+        "name": "Ian Wallace",
+        "type": "Person"
+      }
+    },
+    {
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972-07-22",
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Jamie Muir",
+        "id": "80cd8905-3f04-4c57-a282-1e8546cbf8f3",
+        "sort-name": "Muir, Jamie",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1973-02-10",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {
+        "percussion": "percussion and allsorts"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "percussion"
+      ],
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972-07-22",
+      "ended": true,
+      "artist": {
+        "country": "GB",
+        "sort-name": "Muir, Jamie",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "80cd8905-3f04-4c57-a282-1e8546cbf8f3",
+        "type": "Person",
+        "name": "Jamie Muir",
+        "disambiguation": ""
+      },
+      "end": "1973-02-10",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward"
+    },
+    {
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972-07-22",
+      "ended": true,
+      "artist": {
+        "disambiguation": "King Crimson violinist",
+        "name": "David Cross",
+        "type": "Person",
+        "id": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Cross, David"
+      },
+      "end": "1974-07-08",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "violin"
+      ],
+      "source-credit": ""
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "mellotron": "3715ab17-124b-4011-b324-d2bb2cd46f6b"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972-07-22",
+      "ended": true,
+      "artist": {
+        "id": "fc183d05-8ef9-4e41-8e22-f815fd3800ea",
+        "country": "GB",
+        "sort-name": "Cross, David",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "King Crimson violinist",
+        "type": "Person",
+        "name": "David Cross"
+      },
+      "end": "1974-07-08",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "mellotron"
+      ]
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "country": "GB",
+        "sort-name": "Wetton, John",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "50bfd9b9-b5a5-4f25-ad19-b0b129d14267",
+        "type": "Person",
+        "name": "John Wetton",
+        "disambiguation": ""
+      },
+      "end": "1974-09-28",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1972-07-22",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "begin": "1972-07-22",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1974-09-28",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Wetton, John",
+        "id": "50bfd9b9-b5a5-4f25-ad19-b0b129d14267",
+        "name": "John Wetton",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [
+        "percussion"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1972-07-22",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "end": "1997",
+      "artist": {
+        "type": "Person",
+        "name": "Bill Bruford",
+        "disambiguation": "",
+        "sort-name": "Bruford, Bill",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "0211756e-139e-4b4c-a721-9ee9db363f12"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "ended": true,
+      "end": "1997",
+      "artist": {
+        "id": "0211756e-139e-4b4c-a721-9ee9db363f12",
+        "sort-name": "Bruford, Bill",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Bill Bruford"
+      },
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972-07-22",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "background vocals"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1981",
+      "ended": true,
+      "artist": {
+        "id": "1fd8a385-ab08-418e-afc1-cb85f8e96b3f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Levin, Tony",
+        "disambiguation": "US rock bassist/Chapman stick player",
+        "name": "Tony Levin",
+        "type": "Person"
+      },
+      "end": "1999",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward"
+    },
+    {
+      "end": "1999",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Levin, Tony",
+        "country": "US",
+        "id": "1fd8a385-ab08-418e-afc1-cb85f8e96b3f",
+        "name": "Tony Levin",
+        "type": "Person",
+        "disambiguation": "US rock bassist/Chapman stick player"
+      },
+      "ended": true,
+      "begin": "1981",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "end": "1999",
+      "artist": {
+        "name": "Tony Levin",
+        "type": "Person",
+        "disambiguation": "US rock bassist/Chapman stick player",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Levin, Tony",
+        "id": "1fd8a385-ab08-418e-afc1-cb85f8e96b3f"
+      },
+      "attribute-ids": {
+        "Chapman stick": "f5f66443-cb91-4845-a02e-207b33bf67f2"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1981",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [
+        "Chapman stick"
+      ],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "electric guitar",
+        "lead vocals"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "name": "Adrian Belew",
+        "disambiguation": "",
+        "country": "US",
+        "sort-name": "Belew, Adrian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "73c3f499-60e2-44e1-81dd-7fe2191461fa"
+      },
+      "end": "2013",
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1981"
+    },
+    {
+      "begin": "1994",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "end": "2003",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Trey Gunn",
+        "id": "13eae59b-8c61-4406-b6a3-ce1b17b821a8",
+        "sort-name": "Gunn, Trey",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": "2003",
+      "artist": {
+        "id": "13eae59b-8c61-4406-b6a3-ce1b17b821a8",
+        "country": "US",
+        "sort-name": "Gunn, Trey",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Trey Gunn"
+      },
+      "ended": true,
+      "begin": "1994",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "source-credit": "",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "2003",
+      "artist": {
+        "id": "13eae59b-8c61-4406-b6a3-ce1b17b821a8",
+        "country": "US",
+        "sort-name": "Gunn, Trey",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Trey Gunn"
+      },
+      "attribute-ids": {
+        "Chapman stick": "f5f66443-cb91-4845-a02e-207b33bf67f2"
+      },
+      "begin": "1994",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [
+        "Chapman stick"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {
+        "Warr guitar": "1e49948d-7522-4444-aa5d-633dfbeffb1f"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1994",
+      "ended": true,
+      "end": "2003",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Gunn, Trey",
+        "id": "13eae59b-8c61-4406-b6a3-ce1b17b821a8",
+        "name": "Trey Gunn",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "Warr guitar"
+      ],
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Pat Mastelotto",
+        "id": "6e24095a-881c-4296-8ce3-e4faec4c1b9a",
+        "sort-name": "Mastelotto, Pat",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1994",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "Pat Mastelotto",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Mastelotto, Pat",
+        "country": "US",
+        "id": "6e24095a-881c-4296-8ce3-e4faec4c1b9a"
+      },
+      "attribute-ids": {
+        "electronic drum set": "174d408c-2e3c-4dd6-aeee-3583ea9b206e"
+      },
+      "begin": "1994",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "electronic drum set"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "artist": {
+        "id": "1fd8a385-ab08-418e-afc1-cb85f8e96b3f",
+        "sort-name": "Levin, Tony",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "US rock bassist/Chapman stick player",
+        "type": "Person",
+        "name": "Tony Levin"
+      },
+      "ended": false,
+      "begin": "2004",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "background vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "disambiguation": "US rock bassist/Chapman stick player",
+        "type": "Person",
+        "name": "Tony Levin",
+        "id": "1fd8a385-ab08-418e-afc1-cb85f8e96b3f",
+        "sort-name": "Levin, Tony",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": null,
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "begin": "2004",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2004",
+      "attribute-ids": {
+        "Chapman stick": "f5f66443-cb91-4845-a02e-207b33bf67f2"
+      },
+      "artist": {
+        "id": "1fd8a385-ab08-418e-afc1-cb85f8e96b3f",
+        "country": "US",
+        "sort-name": "Levin, Tony",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "US rock bassist/Chapman stick player",
+        "type": "Person",
+        "name": "Tony Levin"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "Chapman stick"
+      ]
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "type": "Person",
+        "name": "Gavin Harrison",
+        "disambiguation": "Porcupine Tree / King Crimson",
+        "sort-name": "Harrison, Gavin",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "60ac8ed5-bff9-41ed-bc5e-b889fd5cbd1d"
+      },
+      "end": null,
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "2007",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attributes": [
+        "percussion"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Harrison, Gavin",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "60ac8ed5-bff9-41ed-bc5e-b889fd5cbd1d",
+        "type": "Person",
+        "name": "Gavin Harrison",
+        "disambiguation": "Porcupine Tree / King Crimson"
+      },
+      "end": null,
+      "ended": false,
+      "begin": "2007",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "2013-09-06",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "id": "f40bf2d1-1da5-4146-96ab-865242554a66",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Rieflin, Bill",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Bill Rieflin",
+        "type": "Person"
+      },
+      "end": "2016-03-06",
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "background vocals"
+      ],
+      "source-credit": "",
+      "ended": true,
+      "artist": {
+        "country": "US",
+        "sort-name": "Rieflin, Bill",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f40bf2d1-1da5-4146-96ab-865242554a66",
+        "type": "Person",
+        "name": "Bill Rieflin",
+        "disambiguation": ""
+      },
+      "end": "2016-03-06",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2013-09-06",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [
+        "percussion"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": "2016-03-06",
+      "artist": {
+        "sort-name": "Rieflin, Bill",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f40bf2d1-1da5-4146-96ab-865242554a66",
+        "type": "Person",
+        "name": "Bill Rieflin",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "begin": "2013-09-06",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "name": "Bill Rieflin",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Rieflin, Bill",
+        "id": "f40bf2d1-1da5-4146-96ab-865242554a66"
+      },
+      "end": "2016-03-06",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2013-09-06",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "keyboard"
+      ]
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "flute",
+        "saxophone"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2013",
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "end": null,
+      "artist": {
+        "id": "67b08fdc-ee07-4f93-957e-8ade23cf6ac8",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Collins, Mel",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Mel Collins",
+        "type": "Person"
+      },
+      "ended": false
+    },
+    {
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "2013",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "disambiguation": "English musician, currently with King Crimson",
+        "name": "Jakko Jakszyk",
+        "type": "Person",
+        "id": "f8ab0fb6-c1b0-4e78-9648-8c4fa8030b68",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Jakszyk, Jakko",
+        "country": "GB"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "guitar"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2013",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "f8ab0fb6-c1b0-4e78-9648-8c4fa8030b68",
+        "sort-name": "Jakszyk, Jakko",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "English musician, currently with King Crimson",
+        "type": "Person",
+        "name": "Jakko Jakszyk"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2016-03-07",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "name": "Jeremy Stacey",
+        "disambiguation": "",
+        "sort-name": "Stacey, Jeremy",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "de60b516-4c29-41da-b6a5-48f5727ce912"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "percussion"
+      ],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2016-03-07",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "artist": {
+        "type": "Person",
+        "name": "Jeremy Stacey",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Stacey, Jeremy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "de60b516-4c29-41da-b6a5-48f5727ce912"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2016-03-07",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "country": "GB",
+        "sort-name": "Stacey, Jeremy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "de60b516-4c29-41da-b6a5-48f5727ce912",
+        "type": "Person",
+        "name": "Jeremy Stacey",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "keyboard"
+      ]
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2017",
+      "ended": true,
+      "artist": {
+        "disambiguation": "Seattle based musician, composer, teacher",
+        "type": "Person",
+        "name": "Chris Gibson",
+        "id": "d6d9573a-dc5a-4728-b491-cec880873ebe",
+        "sort-name": "Gibson, Chris",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "2017",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "keyboard"
+      ]
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "mellotron"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Rieflin, Bill",
+        "id": "f40bf2d1-1da5-4146-96ab-865242554a66",
+        "name": "Bill Rieflin",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "2018",
+      "ended": true,
+      "begin": "2017",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "mellotron": "3715ab17-124b-4011-b324-d2bb2cd46f6b"
+      }
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "2017",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "id": "f40bf2d1-1da5-4146-96ab-865242554a66",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Rieflin, Bill",
+        "disambiguation": "",
+        "name": "Bill Rieflin",
+        "type": "Person"
+      },
+      "end": "2018"
+    },
+    {
+      "direction": "backward",
+      "type": "subgroup",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "1998-07-08",
+      "artist": {
+        "id": "74a2ff82-992b-4696-b603-c6f747bec2b7",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "ProjeKct 2",
+        "country": null,
+        "disambiguation": "",
+        "name": "ProjeKct Two",
+        "type": "Group"
+      },
+      "attribute-ids": {},
+      "begin": "1997-11-19",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "subgroup",
+      "direction": "backward",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "begin": "1997-12-01",
+      "attribute-ids": {},
+      "artist": {
+        "name": "ProjeKct One",
+        "type": "Group",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "ProjeKct 1",
+        "country": "GB",
+        "id": "164765fe-22bb-4a3c-8643-67c8af245d46"
+      },
+      "end": "1997-12-04",
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "subgroup",
+      "end": "1998-11-02",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "ProjeKct Four",
+        "country": "GB",
+        "id": "75e06a90-dcaf-4bc2-9bc5-abe6a300dfdc",
+        "name": "ProjeKct Four",
+        "type": "Group",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "begin": "1998-10-23",
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "begin": "1999-03-21",
+      "attribute-ids": {},
+      "artist": {
+        "sort-name": "ProjeKct Three",
+        "country": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "43da6916-ba67-48cb-b875-4936adde20dd",
+        "type": "Group",
+        "name": "ProjeKct Three",
+        "disambiguation": ""
+      },
+      "end": "1999-03-25",
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "subgroup",
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "id": "c1fb4936-e47a-4a52-b1eb-f3f1606a1d4b",
+        "country": "GB",
+        "sort-name": "ProjeKct X",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "type": "Group",
+        "name": "ProjeKct X"
+      },
+      "end": "2000",
+      "ended": true,
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "begin": "1999",
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "subgroup",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "subgroup",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "type": "Group",
+        "name": "21st Century Schizoid Band",
+        "id": "ac200a8a-fbb0-4b0d-a592-5077feb4efb5",
+        "country": "GB",
+        "sort-name": "21st Century Schizoid Band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": "2004",
+      "attribute-ids": {},
+      "begin": "2002",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e"
+    },
+    {
+      "direction": "backward",
+      "type": "subgroup",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "2003-03-03",
+      "artist": {
+        "sort-name": "ProjeKct Three",
+        "country": null,
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "43da6916-ba67-48cb-b875-4936adde20dd",
+        "type": "Group",
+        "name": "ProjeKct Three",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "begin": "2003-03-03",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "subgroup",
+      "direction": "backward",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "begin": "2006-10-02",
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": null,
+        "sort-name": "ProjeKct 6",
+        "id": "7e2466e5-b279-452d-ad01-b5875361d4dd",
+        "name": "ProjeKct Six",
+        "type": "Group",
+        "disambiguation": ""
+      },
+      "end": "2006-10-08",
+      "ended": true
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "subgroup",
+      "direction": "backward",
+      "begin": "2011-09",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "attribute-ids": {},
+      "end": "2014",
+      "artist": {
+        "id": "37abc279-f281-4543-8e98-8fd0510b65b4",
+        "sort-name": "Crimson ProjeKCt, The",
+        "country": "US",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "type": "Group",
+        "name": "The Crimson ProjeKCt"
+      },
+      "ended": true,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "id": "aff74a2c-de0c-487d-b7fd-24caea74047d",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "BEAT",
+        "country": "US",
+        "disambiguation": "King Crimson ProjeKct",
+        "name": "BEAT",
+        "type": "Group"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "begin": "2023",
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "subgroup",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "artist": {
+        "country": "US",
+        "sort-name": "Elephant TalKc",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "f2d5795e-5d29-4641-9a7d-ddcc5fb9298e",
+        "type": "Group",
+        "name": "Elephant TalKc",
+        "disambiguation": "Boston-based King Crimson cover band"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute"
+    },
+    {
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "name": "Kcrimsonick",
+        "type": "Group",
+        "disambiguation": "Italian King Crimson cover band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "IT",
+        "sort-name": "Kcrimsonick",
+        "id": "c4089295-6e44-41fc-a722-c26b89870338"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "artist": {
+        "type": "Group",
+        "name": "Outside the Original",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Outside the Original",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "8da1fdfc-f49a-42c2-b1ff-47bb34d63eb8"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "end": null,
+      "artist": {
+        "name": "Thrak",
+        "type": "Group",
+        "disambiguation": "Dutch King Crimson cover band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "NL",
+        "sort-name": "Thrak",
+        "id": "782e7e7f-65b0-46d8-ad80-74573e9244b7"
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "disambiguation": "American King Crimson tribute band",
+        "name": "Thrak",
+        "type": "Group",
+        "id": "a8fd4707-145b-4f0b-b78a-3d4ba0cd7ac3",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Thrak",
+        "country": "US"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "allmusic",
+      "url": {
+        "id": "3b151ade-4b7f-42fa-ab22-249628811a6b",
+        "resource": "https://www.allmusic.com/artist/mn0000076057"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "bandsintown",
+      "direction": "forward",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "131b8a38-8d9a-4e54-a54f-ee321f07613b",
+        "resource": "https://www.bandsintown.com/a/26700"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "BBC Music page",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+        "id": "f834ec74-6d8f-4df9-996a-9c0b59d8140e"
+      },
+      "end": "2020-11-19",
+      "ended": true,
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "type": "discography page",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "ended": true,
+      "end": null,
+      "url": {
+        "id": "65098fe1-dc98-4261-b630-cf3aebdc08ac",
+        "resource": "http://members2.jcom.home.ne.jp/0440581501/kcnojp.html"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "type": "discography page",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "url": {
+        "resource": "http://www.elephant-talk.com/discog/fripp/indexk.html",
+        "id": "9d3b569b-2c22-47e4-a9ec-536a75222bf1"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/70828",
+        "id": "c49db7c7-1c00-4574-8e95-a98eb6f97c3b"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discogs",
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "d36fd223-a69f-433b-bae6-ef6d5921e9e0",
+        "resource": "https://www.elephant-talk.com/"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "direction": "forward",
+      "type": "fanpage",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "d055ca62-7d06-4c9e-b9bb-919118d37ea3",
+        "resource": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "type": "free streaming",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "free streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.deezer.com/artist/1994",
+        "id": "e8c3c424-b2bd-44cd-9678-5ecd4ac8c60a"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:King_Crimson_-_Dour_Festival_2003_(01).jpg#file",
+        "id": "b22b6125-4a2f-4638-bcd5-048b9aaa0513"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "image"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "75c7eec7-8d72-4611-80bc-c82d6c4c8066",
+        "resource": "https://www.theaudiodb.com/images/media/artist/thumb/qsvttw1366226540.jpg"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "direction": "forward",
+      "type": "image",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "822bfa76-2264-4294-bd2c-053b19b3bd57",
+        "resource": "https://www.imdb.com/name/nm1072743/"
+      },
+      "type": "IMDb",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "last.fm",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false,
+      "url": {
+        "id": "50bc0ab4-f0f2-4fcc-ae40-678c37740e7f",
+        "resource": "https://www.last.fm/music/King+Crimson"
+      },
+      "end": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "51cbbf35-6e13-44cb-9e51-a62836e86bfd",
+        "resource": "https://genius.com/artists/King-crimson"
+      },
+      "type": "lyrics",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {},
+      "url": {
+        "id": "d8cc7158-5a11-4cc9-819f-2a4377dd27cc",
+        "resource": "https://www.dgmlive.com/"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "official homepage",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n85044006",
+        "id": "d1070146-dd52-4887-b8f5-eb43f767c41b"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "a69ca59f-c6cb-4076-b042-d6d4f5d9b364",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139044068"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "https://d-nb.info/gnd/5047765-1",
+        "id": "4f8ceba8-2ce3-480a-a642-147007dcd38d"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7Kb9K6wFKFkk6qPQY6",
+        "id": "ea20c76b-db2a-4675-9398-859afcd06f39"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "url": {
+        "id": "93036082-6c0a-46bb-a997-9bcc32eb2509",
+        "resource": "https://imvdb.com/n/king-crimson"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "https://musicmoz.org/Bands_and_Artists/K/King_Crimson/",
+        "id": "a4002c7b-f33a-4d7a-92ac-c9cc478ef100"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://nla.gov.au/nla.party-1101070",
+        "id": "a3210329-e6bb-439d-a577-8c2c616420dc"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "id": "dcf973ff-6c4a-4db1-a40c-327210e081aa",
+        "resource": "https://rateyourmusic.com/artist/king-crimson"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.45cat.com/artist/king-crimson",
+        "id": "4f412328-9977-4bd5-8f91-079a5523022f"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "4ec47bd9-13e0-457e-96e9-bd4dacb8a8fb",
+        "resource": "https://www.jazzmusicarchives.com/artist/king-crimson"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "096d232a-82fe-4bb1-ab2d-7f259d41cc00",
+        "resource": "https://www.metalmusicarchives.com/artist/king-crimson"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases"
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "url": {
+        "id": "407f18e1-67e1-455b-b10b-801c62e4f1a9",
+        "resource": "https://www.musik-sammler.de/artist/king-crimson/"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=191",
+        "id": "61463cd5-9712-4811-91c9-ff576acf263b"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/King_Crimson",
+        "id": "b679fdab-5304-4e6d-88f1-9ca3fae57108"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.whosampled.com/King-Crimson/",
+        "id": "041aca10-f588-45de-a2a6-6e7a4013844a"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "end": "2020-10-12",
+      "url": {
+        "resource": "https://play.google.com/store/music/artist?id=A26ikjqx5aqquroiuil2icys2du",
+        "id": "80c8cf46-d335-4343-a838-a4551a0ac616"
+      },
+      "ended": true,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download"
+    },
+    {
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://itunes.apple.com/gb/artist/id627204",
+        "id": "21020ed1-a864-43f3-b4fe-88b93c48d551"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "69429218-8e8e-4614-9475-626355d6f1a7",
+        "resource": "https://music.apple.com/gb/artist/627204"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://open.qobuz.com/artist/1191678",
+        "id": "40a0411d-8735-4275-b6f4-937ed4768260"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://uk.7digital.com/artist/king-crimson",
+        "id": "a81049f9-8267-41d4-9aad-dddcce007e16"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104134",
+        "id": "5d273f08-1a39-4229-86c3-46c6436d59dc"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "e437073f-3038-417d-a414-fe1948a9a54c",
+        "resource": "https://www.qobuz.com/us-en/interpreter/king-crimson/1191678"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "secondhandsongs",
+      "url": {
+        "id": "82a6d639-383e-489c-85f6-f002a9652dc6",
+        "resource": "https://secondhandsongs.com/artist/372"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attribute-ids": {}
+    },
+    {
+      "type": "setlistfm",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "2b6c5039-d329-4c59-82e3-7dbb9ae18455",
+        "resource": "https://www.setlist.fm/setlists/king-crimson-1bd6b568.html"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "social network",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "021f6177-e6f8-42d6-9d79-94ed55672e91",
+        "resource": "https://twitter.com/dgmhq"
+      },
+      "end": null
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "https://www.facebook.com/kingcrimsonofficial",
+        "id": "533ada97-ebbf-4c49-81ae-42e642f22553"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "social network",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "social network",
+      "url": {
+        "resource": "https://www.instagram.com/kingcrimsonhq/",
+        "id": "7920b801-bd0b-4b00-96b3-48bc54f0fc0d"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "social network",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.threads.com/@kingcrimsonhq",
+        "id": "c6e25edd-4c37-4365-8558-b793877844df"
+      }
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "songkick",
+      "url": {
+        "resource": "https://www.songkick.com/artists/315745",
+        "id": "4cb85a6b-3465-4051-84c5-af17621b923f"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type": "soundcloud",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "e42afd51-86c2-4006-95df-db8f04fa73be",
+        "resource": "https://soundcloud.com/king-crimson-official"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "end": null,
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/627204",
+        "id": "69429218-8e8e-4614-9475-626355d6f1a7"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.qobuz.com/artist/1191678",
+        "id": "40a0411d-8735-4275-b6f4-937ed4768260"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://tidal.com/artist/3888180",
+        "id": "3cbf7d57-31b8-4186-bc3f-c469de78da69"
+      },
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104134",
+        "id": "5d273f08-1a39-4229-86c3-46c6436d59dc"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "e437073f-3038-417d-a414-fe1948a9a54c",
+        "resource": "https://www.qobuz.com/us-en/interpreter/king-crimson/1191678"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "VIAF",
+      "end": null,
+      "url": {
+        "resource": "http://viaf.org/viaf/142046990",
+        "id": "82ff8a8b-e416-4f5f-b304-a7967c7a65b0"
+      },
+      "ended": false,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q189382",
+        "id": "9fd384ee-0c9b-4ec5-8fb6-31f2cc40c788"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikidata",
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "200dc6c7-dbd1-4996-8a25-2047eb9e28c7",
+        "resource": "https://www.youtube.com/channel/UCBxEf1UWDjbIEoh2MAQR7zQ"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "youtube",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "youtube music",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "09aece47-8f77-4d58-ba7c-31f323780060",
+        "resource": "https://music.youtube.com/channel/UCXRfLRK3qq6aMo33p-UK7xw"
+      },
+      "attribute-ids": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "begin": null
+    }
+  ],
+  "sort-name": "King Crimson",
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "name": "United Kingdom"
+  },
+  "disambiguation": "",
+  "ipis": [],
+  "name": "King Crimson",
+  "type": "Group"
+}

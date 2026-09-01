@@ -1,0 +1,869 @@
+{
+  "gender-id": null,
+  "country": "GB",
+  "relations": [
+    {
+      "begin": null,
+      "type": "is person",
+      "direction": "forward",
+      "target-type": "artist",
+      "type-id": "dd9886f2-1dfe-4270-97db-283f6839a666",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Bombadil",
+        "id": "38e2ff64-8018-4810-aeea-f9422d017bda",
+        "country": null,
+        "name": "Bombadil",
+        "disambiguation": "pseudonym of Barclay James Harvest"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "begin": "1966",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [],
+      "end": "1988",
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "71ebb76a-d019-4a60-8b9d-edfa7635d919",
+        "sort-name": "Holyrod, Les",
+        "type": "Person",
+        "name": "Les Holyrod",
+        "country": null,
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1966",
+      "type": "member of band",
+      "end": "1997",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "0993d1f6-043b-4f14-ad40-cd54bf0001f5",
+        "type": "Person",
+        "sort-name": "Holroyd, Les",
+        "name": "Les Holroyd",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "attribute-ids": {}
+    },
+    {
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Stuart “Woolly” Wolstenholme",
+        "type": "Person",
+        "sort-name": "Wolstenholme, Stuart “Woolly”",
+        "id": "28eae8c7-a32f-4ec9-80d9-bf6600b13259",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "ended": true,
+      "begin": null,
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "end": "1979",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [],
+      "end": "1997",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a329134f-ec05-4e8a-8f59-be855929ba6b",
+        "sort-name": "Lees, John",
+        "type": "Person",
+        "name": "John Lees",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1997",
+      "attributes": [],
+      "type": "member of band",
+      "begin": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Pritchard, Mel",
+        "type": "Person",
+        "id": "dfcdafc6-1677-41fb-a6b2-e8839554d900",
+        "country": "GB",
+        "name": "Mel Pritchard",
+        "disambiguation": ""
+      },
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [
+        "original"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": null,
+      "type": "member of band",
+      "ended": false,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "name": "Barclay James Harvest featuring Les Holroyd",
+        "country": "GB",
+        "disambiguation": "UK progressive rock band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "13513ef0-8347-408a-83af-4195afb8fe38",
+        "sort-name": "Holroyd, Les, Barclay James Harvest",
+        "type": "Group"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "id": "919d36f6-87db-4b83-bda1-032ac5774734",
+        "type": "Group",
+        "sort-name": "Lees, John, Barclay James Harvest",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "name": "John Lees’ Barclay James Harvest",
+        "country": "GB"
+      },
+      "target-credit": "John Lees’ Barclay James Harvest",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Holroyd, Les, Barclay James Harvest",
+        "id": "13513ef0-8347-408a-83af-4195afb8fe38",
+        "country": "GB",
+        "name": "Barclay James Harvest featuring Les Holroyd",
+        "disambiguation": "UK progressive rock band"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "subgroup",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "artist": {
+        "name": "John Lees’ Barclay James Harvest",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "919d36f6-87db-4b83-bda1-032ac5774734",
+        "sort-name": "Lees, John, Barclay James Harvest",
+        "type": "Group"
+      },
+      "attribute-ids": {},
+      "target-credit": "John Lees’ Barclay James Harvest",
+      "source-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": null,
+      "type": "subgroup",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e"
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "allmusic",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000125465",
+        "id": "b82664df-b444-4d18-8cf2-8b5e4a25d97d"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "begin": null,
+      "type": "bandsintown",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "313b51a7-a1b1-40f6-bb09-286ddd7dec0b",
+        "resource": "https://www.bandsintown.com/a/2671159"
+      },
+      "ended": false
+    },
+    {
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "discogs",
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "ea1ca48f-5848-4e15-845f-0dfbbe58d82b",
+        "resource": "https://www.discogs.com/artist/260370"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "15e80365-37ce-4311-9588-3c8ec57e5aeb",
+        "resource": "https://open.spotify.com/artist/2pVMD4bFwl4AyoYyyo51Qg"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "free streaming",
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "type": "free streaming",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "9d35eac3-9f03-4e3a-bdf0-36f73fd78d71",
+        "resource": "https://www.deezer.com/artist/3328"
+      },
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "last.fm",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.last.fm/music/Barclay+James+Harvest",
+        "id": "b006a862-dac3-4b26-8b9e-a5ba8a966387"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "ae3b1b71-c34e-47c1-94fa-773f3a21c921",
+        "resource": "http://muzikum.eu/en/122-7189/barclay-james-harvest/lyrics.html"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "lyrics",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://genius.com/artists/Barclay-james-harvest",
+        "id": "39af76b7-a002-410e-bd8e-28133cfc88da"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "end": null,
+      "attributes": [],
+      "type": "lyrics",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "type": "official homepage",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.bjharvest.co.uk/",
+        "id": "a6df97b3-21a0-405a-99f3-c23b4cdeb788"
+      },
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n92081528",
+        "id": "8f98cf4c-b6ef-49d1-a374-56d0f11c8436"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13901812k",
+        "id": "d3a3a8fb-925f-486d-9b53-3f693294c5cc"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "a9698512-8bfd-43d4-81f6-ec8c74a3c422",
+        "resource": "https://d-nb.info/gnd/5528753-0"
+      }
+    },
+    {
+      "url": {
+        "id": "d37de30a-7a68-42bd-b90e-c904cb030f6e",
+        "resource": "https://rateyourmusic.com/artist/barclay-james-harvest"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type": "other databases",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "end": null,
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.45cat.com/artist/barclay-james-harvest",
+        "id": "2118a6e5-f041-4d38-9d46-4cc6fb6be229"
+      }
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "0f755525-8ab4-43a7-af90-564638f04652",
+        "resource": "https://www.musik-sammler.de/artist/barclay-james-harvest/"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "aff34e40-ec8a-4be2-af92-4d6b7185b843",
+        "resource": "https://www.progarchives.com/artist.asp?id=655"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "e28eddfd-200e-4eeb-be82-9251c5c4e2ba",
+        "resource": "https://www.spirit-of-rock.com/en/band/Barclay_James_Harvest"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "39a14dec-12ee-470a-b690-deb1f2370def",
+        "resource": "https://www.whosampled.com/Barclay-James-Harvest/"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-n92081528",
+        "id": "06f9d725-e762-4ffe-9a76-f6e9817678d0"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type": "other databases",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "type": "purchase for download",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "611759b3-f3ed-4830-8bac-5c70acd08f60",
+        "resource": "https://www.qobuz.com/us-en/interpreter/barclay-james-harvest/66856"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attributes": [],
+      "end": null,
+      "type": "secondhandsongs",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/14833",
+        "id": "c85744ad-1714-498a-91fb-099cebdfa40e"
+      },
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "setlistfm",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "id": "378f59c1-a455-4f50-bcb3-b14457b55699",
+        "resource": "https://www.setlist.fm/setlists/barclay-james-harvest-13d605c5.html"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "adba03e2-71af-47da-a7a7-7328d6321ad0",
+        "resource": "https://www.songkick.com/artists/281471"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attributes": [],
+      "end": null,
+      "type": "songkick",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "79251e0d-9980-40df-8e39-4f99fb81452d",
+        "resource": "https://music.apple.com/us/artist/8040229"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "streaming",
+      "attributes": [],
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "d857dab6-1fe1-4572-80fa-b7ac87884f17",
+        "resource": "https://tidal.com/artist/30468"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "611759b3-f3ed-4830-8bac-5c70acd08f60",
+        "resource": "https://www.qobuz.com/us-en/interpreter/barclay-james-harvest/66856"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "66f8a373-64cf-476a-9657-e4b88c01f775",
+        "resource": "http://viaf.org/viaf/126807231"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "VIAF",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "wikidata",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "2d940640-d9c3-42b3-9d45-eef25215fe73",
+        "resource": "https://www.wikidata.org/wiki/Q807957"
+      }
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "8813a6f8-e52e-4933-9c98-4119078bf1ab",
+        "resource": "https://music.youtube.com/channel/UCxsvLR-jbqittQWltYUVgNg"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "youtube music",
+      "begin": null
+    }
+  ],
+  "name": "Barclay James Harvest",
+  "gender": null,
+  "ipis": [],
+  "end-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Barclay James Harvest",
+  "type": "Group",
+  "begin-area": {
+    "name": "Oldham",
+    "disambiguation": "",
+    "iso-3166-2-codes": [
+      "GB-OLD"
+    ],
+    "type-id": null,
+    "id": "5ece266c-b45e-4191-b158-6e19317da091",
+    "type": null,
+    "sort-name": "Oldham"
+  },
+  "aliases": [
+    {
+      "end": null,
+      "type-id": null,
+      "begin": null,
+      "type": null,
+      "sort-name": "BJH",
+      "name": "BJH",
+      "ended": false,
+      "locale": null,
+      "primary": null
+    },
+    {
+      "begin": null,
+      "type": null,
+      "sort-name": "Barclay James",
+      "end": null,
+      "type-id": null,
+      "name": "Barclay James",
+      "ended": false,
+      "locale": null,
+      "primary": null
+    },
+    {
+      "sort-name": "Barclay James Harest",
+      "begin": null,
+      "type": null,
+      "type-id": null,
+      "end": null,
+      "locale": null,
+      "primary": null,
+      "ended": false,
+      "name": "Barclay James Harest"
+    },
+    {
+      "end": null,
+      "type-id": null,
+      "sort-name": "Barclay James Harverst",
+      "begin": null,
+      "type": null,
+      "ended": false,
+      "name": "Barclay James Harverst",
+      "locale": null,
+      "primary": null
+    },
+    {
+      "locale": null,
+      "primary": null,
+      "ended": false,
+      "name": "Barclay Jamest Harvest",
+      "begin": null,
+      "type": null,
+      "sort-name": "Barclay Jamest Harvest",
+      "type-id": null,
+      "end": null
+    },
+    {
+      "locale": null,
+      "primary": null,
+      "ended": false,
+      "name": "Barcley James Harvest",
+      "sort-name": "Barcley James Harvest",
+      "type": null,
+      "begin": null,
+      "type-id": null,
+      "end": null
+    }
+  ],
+  "disambiguation": "",
+  "area": {
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "sort-name": "United Kingdom",
+    "type": null,
+    "name": "United Kingdom",
+    "disambiguation": ""
+  },
+  "isnis": [
+    "0000000121092686"
+  ],
+  "life-span": {
+    "begin": "1966",
+    "ended": false,
+    "end": null
+  },
+  "id": "3ab1e5df-cd3b-479e-a756-3f326cea5572"
+}

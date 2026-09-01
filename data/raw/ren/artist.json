@@ -1,0 +1,1443 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "country": "GB",
+  "life-span": {
+    "begin": "1969",
+    "end": "2002",
+    "ended": true
+  },
+  "disambiguation": "progressive rock band from England",
+  "isnis": [
+    "0000000110899660"
+  ],
+  "name": "Renaissance",
+  "gender-id": null,
+  "area": {
+    "disambiguation": "",
+    "type": null,
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom"
+  },
+  "end-area": null,
+  "relations": [
+    {
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1969",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Cennamo, Louis",
+        "id": "a388e5e2-4abb-4c9b-af1b-d28403f4346c",
+        "name": "Louis Cennamo",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "end": "1970",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "1970",
+      "target-credit": "",
+      "artist": {
+        "name": "John Hawken",
+        "sort-name": "Hawken, John",
+        "id": "ece76f0e-b19c-4b71-986b-215e42a94630",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [],
+      "begin": "1969",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1969",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1970",
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "name": "Jim McCarty",
+        "sort-name": "McCarty, Jim",
+        "id": "ba900218-68b3-434d-8552-989d8441bba3",
+        "type": "Person",
+        "disambiguation": "UK drummer, Yardbirds member",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1969",
+      "attribute-ids": {},
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "end": "1970",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Jane Relf",
+        "id": "4229f2b2-2989-4225-8256-f8c8115c3cdd",
+        "sort-name": "Relf, Jane"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1969",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Keith Relf",
+        "sort-name": "Relf, Keith",
+        "id": "d87650ec-2dc4-49a1-846d-9f76f7970f82"
+      },
+      "target-credit": "",
+      "end": "1970",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {},
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "end": "1971",
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Crowe, Terry",
+        "id": "8993493f-7609-4011-84af-c70243dcd9db",
+        "name": "Terry Crowe"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "1980",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Tout, John",
+        "id": "89037d55-0eff-47b7-9bd1-878d7ac57ffc",
+        "name": "John Tout"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "attribute-ids": {},
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "guitarist / songwriter for the group Renaissance",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Michael Dunford",
+        "sort-name": "Dunford, Michael",
+        "id": "dd6b4317-7068-42d1-8d8b-9ddaf470641b"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1987",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971-01-01",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": true,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1987",
+      "type": "member of band",
+      "artist": {
+        "name": "Annie Haslam",
+        "id": "cd4c480c-a26c-4e71-ab0c-b6dce7c9a06d",
+        "sort-name": "Haslam, Annie",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "target-credit": ""
+    },
+    {
+      "begin": "1972",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "end": "1980",
+      "target-credit": "",
+      "artist": {
+        "id": "c3ceeb97-0bc1-497a-b219-e404ad0ad0cc",
+        "sort-name": "Sullivan, Terry",
+        "name": "Terry Sullivan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward"
+    },
+    {
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1972",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1984",
+      "type": "member of band",
+      "artist": {
+        "name": "Jon Camp",
+        "sort-name": "Camp, Jon",
+        "id": "7b21108c-555f-4e59-98de-e358d5a281ca",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": ""
+    },
+    {
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1981",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Barron, Peter",
+        "id": "d36d07d6-8032-4451-ba6d-fa800f6aecf1",
+        "name": "Peter Barron",
+        "type": "Person",
+        "country": null,
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "end": "1983",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "attribute-ids": {},
+      "begin": "1981",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "UK pianist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Peter Gosling",
+        "sort-name": "Gosling, Peter",
+        "id": "d3ec56eb-1c06-40b7-a4ce-fae94b70a294"
+      },
+      "end": "1983",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1983",
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "Porcupine Tree / King Crimson",
+        "name": "Gavin Harrison",
+        "id": "60ac8ed5-bff9-41ed-bc5e-b889fd5cbd1d",
+        "sort-name": "Harrison, Gavin"
+      },
+      "attributes": [],
+      "begin": "1983",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": true
+    },
+    {
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "begin": "1983",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "target-credit": "",
+      "artist": {
+        "name": "Mike Taylor",
+        "id": "60525a23-ab2a-4cbe-be2c-d3fe3d0ccdc4",
+        "sort-name": "Taylor, Mike",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "type": "Person",
+        "disambiguation": "ex-Renaissance keyboardist"
+      },
+      "type": "member of band",
+      "end": "1983",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1984",
+      "target-type": "artist",
+      "ended": true,
+      "attributes": [],
+      "end": "1987",
+      "type": "member of band",
+      "artist": {
+        "id": "cc7faf09-c7bd-4f57-a1f5-ea23467928de",
+        "sort-name": "Rudd, Raphael",
+        "name": "Raphael Rudd",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": null,
+        "disambiguation": ""
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "1987",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "DesCarfino, Charles",
+        "id": "f7cb465a-a987-4304-8661-5ccfe2d46d59",
+        "name": "Charles DesCarfino"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1985",
+      "attribute-ids": {},
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "1987",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "type": "Person",
+        "disambiguation": "",
+        "id": "820c50a8-d239-48ea-96c7-54624964f09c",
+        "sort-name": "Lampariello, Mark",
+        "name": "Mark Lampariello"
+      },
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1985",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1998",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "2001",
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Alex Caird",
+        "sort-name": "Caird, Alex",
+        "id": "4d09d3b4-e52e-4863-b5bf-f4219cda3573"
+      }
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "2002",
+      "artist": {
+        "name": "Michael Dunford",
+        "sort-name": "Dunford, Michael",
+        "id": "dd6b4317-7068-42d1-8d8b-9ddaf470641b",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "guitarist / songwriter for the group Renaissance",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1998",
+      "attribute-ids": {},
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "2002",
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Annie Haslam",
+        "sort-name": "Haslam, Annie",
+        "id": "cd4c480c-a26c-4e71-ab0c-b6dce7c9a06d"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1998",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "begin": "1998",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Terry Sullivan",
+        "sort-name": "Sullivan, Terry",
+        "id": "c3ceeb97-0bc1-497a-b219-e404ad0ad0cc"
+      },
+      "type": "member of band",
+      "end": "2002",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "begin": "1999",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "target-credit": "",
+      "artist": {
+        "name": "Mickey Simmonds",
+        "sort-name": "Simmonds, Mickey",
+        "id": "cefd5029-6c8e-49fe-bbd8-ae620e545692",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "end": "2002",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "artist": {
+        "name": "Rave Tesar",
+        "sort-name": "Tesar, Rave",
+        "id": "4d1e1bcb-6f28-4c75-8850-14a0787aecde",
+        "type": "Person",
+        "disambiguation": "",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "2002",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "2001",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "artist",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": null,
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Traversa, Leo",
+        "id": "032a023c-5c4a-4208-bf8e-14657a0e5ff5",
+        "name": "Leo Traversa",
+        "disambiguation": "bass player",
+        "type": "Person",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": ""
+    },
+    {
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-ids": {},
+      "begin": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000887619",
+        "id": "4a41230e-726c-4f9d-be6b-6fd3f6bdf695"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "allmusic",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "bandcamp",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "url": {
+        "resource": "https://renaissancetouring.bandcamp.com/",
+        "id": "e0b7e97f-6df2-4561-bd8e-d7bab44c10cb"
+      },
+      "target-type": "url"
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "fb988001-330e-4d25-8d37-4378c5c2eb78",
+        "resource": "https://www.bandsintown.com/a/69530"
+      },
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "type": "bandsintown",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "end": "2020-11-19",
+      "type": "BBC Music page",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/874aec28-dfa7-4a73-a3fa-8212f769754d",
+        "id": "c179485d-8221-48da-b200-12f8b47164df"
+      },
+      "target-type": "url",
+      "ended": true,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://www.jtl.us/nlightsweb/lib/rendisc.htm",
+        "id": "e9f53f4c-6da0-422c-94ce-7d15a5ea6e36"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "discography page",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.discogs.com/artist/311028",
+        "id": "e721a1ea-ac71-49e2-afe1-1bac9cf35d05"
+      },
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "discogs",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.jtl.us/nlightsweb/",
+        "id": "8efd4c9b-eb32-47e7-9d06-d16af4a0f7ed"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attributes": [],
+      "target-credit": "",
+      "type": "fanpage",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "free streaming",
+      "attributes": [],
+      "url": {
+        "id": "503d9f99-d504-4994-8a3f-fe93acb7e7d6",
+        "resource": "https://open.spotify.com/artist/4MERAVAHX04B50JOnasmWf"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "attributes": [],
+      "url": {
+        "resource": "https://www.deezer.com/artist/64346",
+        "id": "275ee92e-1998-4ba2-bb99-6b2cb94303f2"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "free streaming"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "type": "IMDb",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "id": "50bf4fb7-8225-427e-b1bb-596f3b5e2fd5",
+        "resource": "https://www.imdb.com/name/nm1553302/"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "0cfaa478-dd2e-4639-8592-90f1ea637e0f",
+        "resource": "https://www.last.fm/music/Renaissance"
+      },
+      "attributes": [],
+      "type": "last.fm",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "15321289-5343-4c4d-8b75-e01fb874c8ca",
+        "resource": "https://genius.com/artists/Renaissance"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attributes": [],
+      "target-credit": "",
+      "type": "lyrics",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://myspace.com/renaissanceofficial",
+        "id": "6a5deb96-d8fd-4b5a-994a-f4dfe16ab9e4"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "myspace",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://renaissancetouring.com/",
+        "id": "48de7d79-00cd-4a99-8617-298a34e4fb40"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "official homepage",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n92102535",
+        "id": "a11734bb-8d86-412e-8f4c-b1253e3c9440"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "url": {
+        "id": "6e69972b-ffac-4ec6-9483-36c67a357113",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13992266z"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "afde9a15-c297-43eb-b0be-d6b18500e4f7",
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7TcDm9bkmKBpXp9gCF"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "other databases",
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "130350b1-e7de-407c-bb7a-ce1aa6bd6d59",
+        "resource": "https://rateyourmusic.com/artist/renaissance"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.45cat.com/artist/renaissance",
+        "id": "8169aaac-5e7b-4d6a-a425-580c63f11a16"
+      },
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "id": "663ff70b-e62b-4f2d-8f32-f4cfeaef72de",
+        "resource": "https://www.musik-sammler.de/artist/renaissance/"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=603",
+        "id": "31f83ea1-432a-42fa-816a-35e4b4f082aa"
+      },
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "url": {
+        "id": "ca7d2ee5-8f89-40c8-a1f0-cdc17cf8369e",
+        "resource": "https://www.spirit-of-rock.com/en/band/Renaissance"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.whosampled.com/Renaissance/",
+        "id": "76dfdd7a-544f-4627-b1c6-9e1f8419c956"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "type": "purchase for download",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "url": {
+        "resource": "https://mora.jp/artist/141777/",
+        "id": "20d3b627-417d-45e7-9f9e-9140f9a48b5b"
+      },
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "type": "purchase for download",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "bda8c1f3-2913-40ad-9840-69299d54d671",
+        "resource": "https://music.apple.com/gb/artist/1139738909"
+      },
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "purchase for download",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "4f42dee2-fa8b-4262-bd6e-725c066c7f2b",
+        "resource": "https://music.apple.com/gb/artist/7229173"
+      }
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "purchase for download",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/270101",
+        "id": "c4d5f9de-62e9-482a-8d97-9d51bc82eec7"
+      }
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/707353",
+        "id": "76a10738-b24f-4174-b9d5-3755f08ff82f"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "ルネッサンス",
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "resource": "https://uk.7digital.com/artist/renaissance",
+        "id": "7971d29b-669a-4ea1-acd5-304d0e612c53"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "purchase for download",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "purchase for download",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "a5e6fbec-34e8-48cd-ac6b-47e941edcfe7",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104488"
+      }
+    },
+    {
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "505b1006-f084-4be5-8143-93a96c2088a9",
+        "resource": "https://www.qobuz.com/us-en/interpreter/renaissance/224817"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/34326",
+        "id": "0510b8e8-0732-46a0-a118-a3bb0042a63f"
+      },
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "secondhandsongs",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/renaissance-23d6acfb.html",
+        "id": "21f57fe0-cafc-4c4c-aad8-5e6ac12df209"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "setlistfm",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "url": {
+        "resource": "https://twitter.com/MysticAndMuse",
+        "id": "e1589e31-23f9-4009-8ceb-2da210f858bf"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "social network",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "social network",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "68931a5a-3578-4089-8276-1706cfc2b60f",
+        "resource": "https://www.facebook.com/RenaissanceTouring"
+      }
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "songkick",
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "url": {
+        "id": "331be3e5-0c92-4ac0-8146-98bafa3c4393",
+        "resource": "https://www.songkick.com/artists/443410"
+      },
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "streaming",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "url": {
+        "id": "bda8c1f3-2913-40ad-9840-69299d54d671",
+        "resource": "https://music.apple.com/gb/artist/1139738909"
+      },
+      "ended": false
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "begin": null,
+      "url": {
+        "id": "4f42dee2-fa8b-4262-bd6e-725c066c7f2b",
+        "resource": "https://music.apple.com/gb/artist/7229173"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "streaming",
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "url": {
+        "id": "a5da61f7-1e68-4368-a22e-b54062f2b550",
+        "resource": "https://tidal.com/artist/13385"
+      },
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104488",
+        "id": "a5e6fbec-34e8-48cd-ac6b-47e941edcfe7"
+      },
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "end": null,
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/renaissance/224817",
+        "id": "505b1006-f084-4be5-8143-93a96c2088a9"
+      },
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "end": null,
+      "type": "VIAF",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-ids": {},
+      "begin": null,
+      "url": {
+        "resource": "http://viaf.org/viaf/311024447",
+        "id": "37c0e9ee-4643-44c8-abf9-481057b14bdc"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "type": "wikidata",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "15680832-85c8-4ae5-9835-69e4193c87e3",
+        "resource": "https://www.wikidata.org/wiki/Q1065943"
+      },
+      "target-type": "url",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "type": "youtube",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCxTBysdf1rZis2eaqC-chIQ",
+        "id": "3ed3793a-2ee4-45d8-b15a-a580e9ff1e07"
+      },
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attributes": []
+    },
+    {
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCliLx_tk1R6YXHliVggKb6A",
+        "id": "5dccded0-d42c-4d1c-9902-dd2ca8e76745"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "youtube music",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    }
+  ],
+  "type": "Group",
+  "begin-area": {
+    "id": "fe92d6d6-4f35-4a0e-a48a-b802ae9cdaf4",
+    "sort-name": "Surrey",
+    "name": "Surrey",
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "iso-3166-2-codes": [
+      "GB-SRY"
+    ]
+  },
+  "gender": null,
+  "id": "874aec28-dfa7-4a73-a3fa-8212f769754d",
+  "sort-name": "Renaissance",
+  "aliases": [
+    {
+      "ended": false,
+      "end": null,
+      "primary": true,
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name",
+      "name": "ルネッサンス",
+      "locale": "ja",
+      "sort-name": "ルネッサンス"
+    }
+  ],
+  "ipis": []
+}

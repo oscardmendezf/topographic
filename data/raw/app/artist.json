@@ -1,0 +1,1226 @@
+{
+  "isnis": [
+    "0000000106648340"
+  ],
+  "id": "f98711e5-06f7-43ed-8239-da0f61a9c460",
+  "life-span": {
+    "begin": "1975",
+    "ended": true,
+    "end": "1987"
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "id": "48d08ee1-db45-4566-bb1d-c47ab6dbaf98",
+    "type-id": null,
+    "sort-name": "Westminster",
+    "disambiguation": "",
+    "name": "Westminster",
+    "iso-3166-2-codes": [
+      "GB-WSM"
+    ],
+    "type": null
+  },
+  "relations": [
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "collaboration",
+      "direction": "backward",
+      "type-id": "75c09861-6857-4ec0-9729-84eefde7fc86",
+      "begin": "1977",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "artist": {
+        "id": "cf910ada-fdd0-4d9f-a280-0bf2e2e98667",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Zakatek, Lenny",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Lenny Zakatek",
+        "type": "Person"
+      },
+      "end": "1987",
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "additional"
+      ],
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "country": "GB",
+        "sort-name": "Bairnson, Ian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "cd5a063f-2fd2-4271-956c-56678df04db5",
+        "type": "Person",
+        "name": "Ian Bairnson",
+        "disambiguation": ""
+      },
+      "end": null,
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "type-id": "75c09861-6857-4ec0-9729-84eefde7fc86",
+      "begin": null,
+      "direction": "backward",
+      "type": "collaboration",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "additional"
+      ],
+      "source-credit": "",
+      "type-id": "75c09861-6857-4ec0-9729-84eefde7fc86",
+      "begin": null,
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "artist": {
+        "id": "474cb90a-e945-44da-8f21-ca979abb8819",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Powell, Andrew",
+        "country": "GB",
+        "disambiguation": "producer, arranger & conductor",
+        "name": "Andrew Powell",
+        "type": "Person"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "collaboration",
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": null,
+      "artist": {
+        "sort-name": "Parsons, Alan",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9774cfd1-8862-42bd-919e-156c31f079b4",
+        "type": "Person",
+        "name": "Alan Parsons",
+        "disambiguation": "of The Alan Parsons Project"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "acoustic guitar": "00beaf8e-a781-431c-8130-7c2871696b7d",
+        "vocoder": "1d04494c-a06b-409e-9a95-bde7a94860dd",
+        "eponymous": "15eea3b8-5655-43c8-b2c2-dd03c901a79b"
+      },
+      "source-credit": "",
+      "attributes": [
+        "acoustic guitar",
+        "bass",
+        "eponymous",
+        "flute",
+        "keyboard",
+        "lead vocals",
+        "original",
+        "vocoder"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "name": "Chris Rainbow",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Rainbow, Chris",
+        "id": "8557005a-6846-4820-930a-610e6b65d4df"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "keyboard",
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Woolfson, Eric",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ec86bda4-d460-4b54-be6e-94ae45e0dfab",
+        "type": "Person",
+        "name": "Eric Woolfson",
+        "disambiguation": ""
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0001176481",
+        "id": "f9919065-603c-4af2-8462-a5e9302f27aa"
+      },
+      "type": "allmusic",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "bandsintown",
+      "direction": "forward",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "e6816d9a-f6d6-422a-a236-debfe390952a",
+        "resource": "https://www.bandsintown.com/a/65511"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "end": "2020-11-19",
+      "url": {
+        "id": "145093aa-885a-48d8-8e86-79317d42949c",
+        "resource": "https://www.bbc.co.uk/music/artists/f98711e5-06f7-43ed-8239-da0f61a9c460"
+      },
+      "ended": true,
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "BBC Music page",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discography page",
+      "direction": "forward",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "ce473280-f705-4dfa-a79e-99271ab19335",
+        "resource": "http://www.roadkill.com/~wesc/apdsctxt.html"
+      },
+      "end": "2013",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.discogs.com/artist/66916",
+        "id": "179bbe27-0ae6-4339-ac4b-3c8bd72423ea"
+      },
+      "end": null,
+      "type": "discogs",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming",
+      "url": {
+        "id": "4acc9fff-6d2e-4a84-befb-7a8629f0fad6",
+        "resource": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/3702",
+        "id": "ebe83120-95d7-4034-bfb3-5a176c6b1cc6"
+      },
+      "type": "free streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "IMDb",
+      "end": null,
+      "url": {
+        "id": "44aa4691-6ced-4f18-8682-752c16498c7e",
+        "resource": "https://www.imdb.com/name/nm1721338/"
+      },
+      "ended": false,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "7f41b4ef-a11e-4936-b048-ddf5e8530c9c",
+        "resource": "https://www.last.fm/music/The+Alan+Parsons+Project"
+      },
+      "end": null,
+      "type": "last.fm",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://genius.com/artists/The-alan-parsons-project",
+        "id": "97bb96c0-15de-4a10-b0e7-e1ac7aca377c"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "direction": "forward",
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "cc928800-9665-40f6-b351-02c181646c7f",
+        "resource": "https://muzikum.eu/en/the-alan-parsons-project/lyrics"
+      },
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "official homepage",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.the-alan-parsons-project.com/",
+        "id": "03c61cef-681a-4e51-aedf-a2c9136dc7d3"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "c0948896-8c27-450d-ae61-109c498eed15",
+        "resource": "http://id.loc.gov/authorities/names/n88638380"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139056678",
+        "id": "2ab385ef-0840-4da4-9319-4c6233ecc7f0"
+      },
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://d-nb.info/gnd/5075883-4",
+        "id": "71066433-9697-4b51-81e7-7508f982eaeb"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QH7Jmq4h99qCYjgFv67VK9t",
+        "id": "719fd4b0-c897-4934-988b-887a699ec159"
+      },
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "ff505472-1d6a-41d5-9132-7819b61a3bf3",
+        "resource": "https://imvdb.com/n/the-alan-parsons-project"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "831ef97a-6982-436d-9f4a-cf6d7e285726",
+        "resource": "https://nla.gov.au/nla.party-1009105"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "6de735f2-5ef2-4f60-9662-554bfe86eed5",
+        "resource": "https://rateyourmusic.com/artist/the-alan-parsons-project"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "947655ad-047b-4504-8795-85c27c14eb20",
+        "resource": "https://www.45cat.com/artist/the-alan-parsons-project"
+      },
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "94075800-7f10-4e52-ac7d-f5c83eab79b5",
+        "resource": "https://www.musik-sammler.de/artist/2769/"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "1d64ad58-c443-46ab-8d17-c62c3a1fdce2",
+        "resource": "https://www.progarchives.com/artist.asp?id=286"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/The_Alan_Parsons_Project",
+        "id": "f5826d64-fc39-4634-a0f5-55476f69e9f1"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.whosampled.com/The-Alan-Parsons-Project/",
+        "id": "36605a9c-c196-4b7b-aee8-fd8538bc1459"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://itunes.apple.com/gb/artist/id13525",
+        "id": "f894b7cd-dc62-4803-b519-dd2ed8d9d07b"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "8badbc50-b768-46f9-97a8-6ddd435a646a",
+        "resource": "https://mora.jp/artist/208420/"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/13525",
+        "id": "f034586c-d80b-4db4-8600-976c75bb1135"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://open.qobuz.com/artist/122909",
+        "id": "3090a22c-1e73-42bf-8c10-0bfef130a8fd"
+      },
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/623568",
+        "id": "b2b498b0-c080-4280-9301-74229a037542"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "アラン・パーソンズ・プロジェクト"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "url": {
+        "id": "8da48b20-e2b2-483b-8491-fbc94b8c27b4",
+        "resource": "https://ototoy.jp/_/default/a/876889"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "76527462-1941-420c-8b74-1ac60dc59872",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=1760499"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-alan-parsons-project/122909",
+        "id": "4d6674a4-ae77-4c76-ae58-dbfd25c86958"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "secondhandsongs",
+      "url": {
+        "id": "49099b5a-69bc-4b86-ba69-513685252bad",
+        "resource": "https://secondhandsongs.com/artist/53649"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/alan-parsons-live-project-bf00906.html",
+        "id": "fec5922c-2a64-468a-ba31-128cd38936d6"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "setlistfm",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "social network",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://twitter.com/theofficialapp",
+        "id": "5ffd3cd2-9f29-48cf-b3b3-088caf232474"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.facebook.com/TheAlanParsonsProject",
+        "id": "70082da2-aaad-4c54-bdd2-bb1b6cd21dbd"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "direction": "forward",
+      "type": "social network",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "url": {
+        "id": "e6602291-7c45-43b0-89f7-e3cffe53ccf3",
+        "resource": "https://www.instagram.com/officialalanparsonsproject/"
+      },
+      "end": null,
+      "type": "social network",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.threads.com/@officialalanparsonsproject",
+        "id": "8bd91600-cd97-4d31-84f2-3f1bf5aff5c7"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "social network",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "social network",
+      "end": null,
+      "url": {
+        "id": "e61d8596-1be7-4bda-aeb7-2d0892fa6c72",
+        "resource": "https://www.tiktok.com/@thealanparsonsproject"
+      },
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "ended": false,
+      "url": {
+        "resource": "https://www.songkick.com/artists/483492",
+        "id": "50a42339-5a31-4832-a693-5f210c716167"
+      },
+      "end": null,
+      "type": "songkick",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/13525",
+        "id": "f034586c-d80b-4db4-8600-976c75bb1135"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "url": {
+        "id": "3090a22c-1e73-42bf-8c10-0bfef130a8fd",
+        "resource": "https://open.qobuz.com/artist/122909"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://tidal.com/artist/2214",
+        "id": "6048223b-d746-4961-92a1-92d596f83b88"
+      },
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "end": null,
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=1760499",
+        "id": "76527462-1941-420c-8b74-1ac60dc59872"
+      },
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "4d6674a4-ae77-4c76-ae58-dbfd25c86958",
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-alan-parsons-project/122909"
+      },
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "http://viaf.org/viaf/137932026",
+        "id": "291c1733-9d3e-4e66-b1d3-1fcbbc846112"
+      },
+      "end": null,
+      "type": "VIAF",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q533478",
+        "id": "2ff50a0f-aac8-4b6c-bd13-19c4cb48745f"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "direction": "forward",
+      "type": "wikidata",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "type": "youtube",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "db811450-8028-4d8f-9bbf-67bbee929d16",
+        "resource": "https://www.youtube.com/channel/UCOANtcwoFl_Hm02fMWVIgGg"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "ef886756-dd9e-461b-ae00-2d5c6c1c1a2b",
+        "resource": "https://music.youtube.com/channel/UCvb0RGY80J8LSG1kIwNSXHA"
+      },
+      "ended": false,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "youtube music",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    }
+  ],
+  "sort-name": "Parsons, Alan, Project, The",
+  "area": {
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "type": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ]
+  },
+  "ipis": [],
+  "disambiguation": "",
+  "name": "The Alan Parsons Project",
+  "type": "Group",
+  "end-area": null,
+  "country": "GB",
+  "gender-id": null,
+  "gender": null,
+  "aliases": [
+    {
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null,
+      "sort-name": "(Alan Parsons Project)",
+      "end": null,
+      "locale": null,
+      "ended": false,
+      "name": "(Alan Parsons Project)",
+      "type": "Search hint",
+      "primary": null
+    },
+    {
+      "locale": null,
+      "ended": false,
+      "end": null,
+      "sort-name": "APP",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null,
+      "primary": null,
+      "type": "Search hint",
+      "name": "APP"
+    },
+    {
+      "primary": null,
+      "type": "Search hint",
+      "name": "Alan Parson Project",
+      "sort-name": "Alan Parson Project",
+      "begin": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "ended": false,
+      "locale": null,
+      "end": null
+    },
+    {
+      "end": null,
+      "locale": null,
+      "ended": false,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null,
+      "sort-name": "Alan Parson Projects",
+      "name": "Alan Parson Projects",
+      "type": "Search hint",
+      "primary": null
+    },
+    {
+      "end": null,
+      "ended": false,
+      "locale": "en",
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "sort-name": "Alan Parsons Project",
+      "name": "Alan Parsons Project",
+      "type": "Artist name",
+      "primary": false
+    },
+    {
+      "type": "Search hint",
+      "primary": null,
+      "name": "Alan Parson’s Project",
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "sort-name": "Alan Parson’s Project",
+      "begin": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e"
+    },
+    {
+      "primary": null,
+      "type": "Search hint",
+      "name": "TAPP",
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "sort-name": "TAPP",
+      "begin": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e"
+    },
+    {
+      "sort-name": "The APP",
+      "begin": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "primary": null,
+      "type": "Search hint",
+      "name": "The APP"
+    },
+    {
+      "sort-name": "The Alan Parson Project",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null,
+      "locale": null,
+      "ended": false,
+      "end": null,
+      "type": "Search hint",
+      "primary": null,
+      "name": "The Alan Parson Project"
+    },
+    {
+      "name": "The Aland Parsons Project",
+      "primary": null,
+      "type": "Search hint",
+      "end": null,
+      "locale": null,
+      "ended": false,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null,
+      "sort-name": "The Aland Parsons Project"
+    },
+    {
+      "name": "アラン・パーソンズ・プロジェクト",
+      "type": "Artist name",
+      "primary": true,
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "sort-name": "アラン・パーソンズ・プロジェクト",
+      "end": null,
+      "ended": false,
+      "locale": "ja"
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "release-group-count": 53,
+  "release-groups": [
+    {
+      "first-release-date": "2001-11-27",
+      "primary-type": "Album",
+      "title": "The Rhythm & Blues Years",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "03528497-bf62-472d-9576-f4757535d183"
+    },
+    {
+      "first-release-date": "2020-09-25",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "Bare as Bone, Bright as Blood",
+      "primary-type": "Album",
+      "id": "0804c340-8c61-45bd-89e1-ec296eb4ac4a"
+    },
+    {
+      "first-release-date": "1995",
+      "id": "0e913559-0744-39bc-b66c-c107c78a657f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Unrepentant: The Anthology",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "first-release-date": "2002-09-30",
+      "id": "145423b2-5485-329d-a335-3215a02c9efc",
+      "primary-type": "Album",
+      "title": "The BBC Sessions",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "title": "S.F.Sorrow Live At Abbey Road",
+      "primary-type": "Album",
+      "id": "17b375f6-2254-4f96-8677-9ffc98a3e7c1",
+      "first-release-date": "2003"
+    },
+    {
+      "first-release-date": "1990",
+      "id": "1811ffce-d561-3284-8589-f93231db8a12",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "title": "Electric Banana",
+      "primary-type": "Album"
+    },
+    {
+      "id": "1a50467e-b104-3706-b8a6-802f5782a27f",
+      "primary-type": "Album",
+      "title": "Balboa Island",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2007-08-07"
+    },
+    {
+      "id": "1b2af5b1-06fd-436e-a6b8-977fa4cd8c15",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Live at the BBC",
+      "first-release-date": "2015-04-24"
+    },
+    {
+      "primary-type": "Album",
+      "title": "Midnight to 6",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "1f33a82f-1040-3f3c-9d58-292cceebfd23",
+      "first-release-date": "1994"
+    },
+    {
+      "id": "20796232-0679-40cf-852e-db492b6f26d4",
+      "disambiguation": "",
+      "title": "A Whiter Shade of Dirty Water",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "1994"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "title": "The Pretty Things 1967-1971",
+      "primary-type": "Album",
+      "id": "291131ff-df6e-3ab0-9449-11f0548b4550",
+      "first-release-date": "1983"
+    },
+    {
+      "primary-type": "Album",
+      "title": "Singles A’s & B’s",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2db8074e-43cb-428a-96f7-b67dfaccdee0",
+      "first-release-date": "1977"
+    },
+    {
+      "first-release-date": "",
+      "id": "2f4da01b-abfe-47d8-baff-4762fb49eec7",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Phillipe De Barge",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "id": "307d5b80-5ede-3576-8f11-fd75982bf3cd",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "Emotions",
+      "primary-type": "Album",
+      "first-release-date": "1967-05"
+    },
+    {
+      "first-release-date": "1987",
+      "disambiguation": "",
+      "title": "Out of the Island",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "id": "356347cc-3945-3c39-9151-b0c5e44831f7"
+    },
+    {
+      "first-release-date": "2000",
+      "id": "35e13bcb-3c50-3ffc-a61d-b0e0929ebcd6",
+      "title": "Latest Writs the Best of… Greatest Hits",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "id": "3a66c05c-64af-4046-b3ad-620f43ed6c58",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The Vintage Years",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1976"
+    },
+    {
+      "id": "3eb73504-5ac4-34a5-8e3d-e937866c4f07",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "title": "More Electric Banana",
+      "primary-type": "Album",
+      "first-release-date": "1990"
+    },
+    {
+      "first-release-date": "1973-01",
+      "primary-type": "Album",
+      "title": "Freeway Madness",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "432e049d-d994-35b7-b05a-d75c4c37ea6b"
+    },
+    {
+      "first-release-date": "1980-08",
+      "id": "46d2f53f-eefe-3a3b-9226-04058d0c35da",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Cross Talk",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "2015-07-10",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "title": "The Sweet Pretty Things (Are in Bed Now, of Course)",
+      "disambiguation": "",
+      "id": "4fd930f5-23ac-42e1-bf54-f4bf0ce9894b"
+    },
+    {
+      "first-release-date": "1998",
+      "id": "5aacb676-9e0b-4970-a812-ebc51613eb04",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "title": "Resurrection",
+      "primary-type": "Album"
+    },
+    {
+      "id": "6450e0b5-afc3-4453-a70f-a5db3d40b72f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "title": "Attention! The Pretty Things! Vol. 2",
+      "primary-type": "Album",
+      "first-release-date": "1976"
+    },
+    {
+      "first-release-date": "1985",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Closed Restaurant Blues",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "658f20b7-f5ae-43d5-8452-163429b18a6d"
+    },
+    {
+      "first-release-date": "2014-11-23",
+      "id": "67e17eb4-b9af-4b00-aae1-9da19e30675c",
+      "disambiguation": "",
+      "title": "Live at Rockpalast",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ]
+    },
+    {
+      "title": "The Pretty Things / Philippe DeBarge",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "id": "6f3b7455-7260-4011-84bd-4300c59d89bb",
+      "first-release-date": "1969"
+    },
+    {
+      "first-release-date": "2015-02-23",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Bouquets From a Cloudy Sky",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "72ad0fda-68bf-4f5d-b46e-255e78916d3e"
+    },
+    {
+      "first-release-date": "1990",
+      "id": "79d847d5-aeb6-345a-8ba7-5783847a22e4",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "London Live Torpedo"
+    },
+    {
+      "id": "7d4c283d-e980-4bb8-b7a9-60a21e4e43f3",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "title": "Stereo Pop Special-85",
+      "primary-type": "Album",
+      "first-release-date": "1974-12"
+    },
+    {
+      "first-release-date": "2018",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Singapore Silk Torpedo Live at the BBC & Other Broadcasts",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7e5a83c5-4303-4e84-a163-e963b30383a4"
+    },
+    {
+      "first-release-date": "2001",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "The Psychedelic Years 1966–1970",
+      "id": "8b54d950-6e1f-3cdc-be4e-5c11f5ddd5f1"
+    },
+    {
+      "first-release-date": "2016",
+      "id": "8d70c1a1-79fd-4f8f-a399-8201a6ed02b2",
+      "disambiguation": "",
+      "title": "Amsterdam 1969",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "first-release-date": "1992-06-23",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Get a Buzz: The Best of the Fontana Years",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "92b79ebd-be1a-3c85-bd6b-c3382be8c0d3"
+    },
+    {
+      "first-release-date": "1968-12",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "S.F. Sorrow",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "93181a2a-e241-3856-be77-e3c6885884f6"
+    },
+    {
+      "first-release-date": "2004",
+      "id": "958f5179-7cd1-4205-a84d-ec2f190db688",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Still Unrepentant",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "title": "Attention! The Pretty Things!",
+      "disambiguation": "",
+      "id": "99887855-3795-43fe-b538-ec6f931af0b5",
+      "first-release-date": "1976"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "title": "The Electric Banana Sessions",
+      "primary-type": "Album",
+      "id": "a021194a-4a64-47c4-b1f4-768f186eb9e6",
+      "first-release-date": "2011"
+    },
+    {
+      "first-release-date": "1974-01-01",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Silk Torpedo",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "a32b01ad-7629-347d-835b-cad0a3bfdf12"
+    },
+    {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "title": "The Pretty Things",
+      "disambiguation": "",
+      "id": "ae51716e-7bd2-31b9-80f9-a235b924468f",
+      "first-release-date": "1965-03-12"
+    },
+    {
+      "first-release-date": "1975",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "S.F. Sorrow / Parachute",
+      "id": "b178557d-61e9-44f1-8c92-125ce16b14c9"
+    },
+    {
+      "first-release-date": "2014",
+      "primary-type": "Album",
+      "title": "Live at the 100 Club",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "b4c56741-00e0-4724-8c22-eeadb731f79a"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Savage Eye",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "bb6c8d49-1479-32e2-ad03-e2449d868022",
+      "first-release-date": "1975-12"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Greatest Hits",
+      "id": "bc80a09a-8c7c-4c66-b2ee-157139d47a55",
+      "first-release-date": "2017-10-13"
+    },
+    {
+      "first-release-date": "1999",
+      "title": "…Rage Before Beauty",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "c215ced9-703c-3931-a9e4-b7f7435aa580"
+    },
+    {
+      "first-release-date": "2013-05-21",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "title": "Introducing The Pretty Things",
+      "disambiguation": "",
+      "id": "c2e2c90a-ad3b-4a63-bd75-6b8c0f287356"
+    },
+    {
+      "first-release-date": "1997",
+      "id": "c4017cb1-129d-37f6-924a-3febace49683",
+      "title": "The EP Collection... Plus",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "title": "Rarities",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "cbb4213e-be73-4310-ad1a-d60645ce3773",
+      "first-release-date": "2008"
+    },
+    {
+      "id": "d1cee626-059d-4de1-9343-f9cc964acb03",
+      "primary-type": "Album",
+      "title": "Live at the Heartbreak Hotel",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1984"
+    },
+    {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "title": "Get the Picture?",
+      "disambiguation": "",
+      "id": "d3364626-3058-310f-a024-a17ed0fe9767",
+      "first-release-date": "1965-12"
+    },
+    {
+      "id": "de71d891-b67f-4feb-a78c-e634bb09ce24",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "From the Other Side",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2026-04-18"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Come See Me: The Very Best of The Pretty Things",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "e488e04d-f8c7-3ddc-afcd-0c97a670ee65",
+      "first-release-date": "2004-04-20"
+    },
+    {
+      "first-release-date": "1970-06",
+      "id": "eae379b2-e01b-376a-99ce-c81b0d6761d3",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Parachute",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "id": "f196a756-7d15-48a9-93d7-5132755af32c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The Pretty Things / Get the Picture?",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2011-10-24"
+    }
+  ]
+}

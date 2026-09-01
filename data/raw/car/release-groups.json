@@ -1,0 +1,829 @@
+{
+  "release-group-count": 64,
+  "release-groups": [
+    {
+      "secondary-types": [],
+      "first-release-date": "2003",
+      "title": "The Unauthorised Breakfast Item",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "01e95c8c-ff4d-382d-9c17-2139c95e175e",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "id": "0409ff07-820f-46aa-8cf6-f389efe13d1c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "2004",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Grey Pink & Gold"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "2003",
+      "title": "Live UK Tour 1975",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "05100065-aeee-4d64-b857-07e0baace9b3",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "07adf72c-d12a-4108-abe3-e37a9f69e7ff",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "If You Get on the Road You've Got to Take Me",
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "2025-01-01"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "118c866f-2785-30cd-8065-c56fb288cd0f",
+      "title": "Travelling Man",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "1998-03-04",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-types": [],
+      "first-release-date": "2023-05-07",
+      "title": "Amougies",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "1b7d84fe-5cd8-4fde-841f-9a6e4443bd3d",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "1991",
+      "title": "With an Ear to the Ground",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "1d0e64f4-6eed-3ea0-ad91-44c3cb400d84",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "1fc59a3f-4223-4123-90d4-85f499671b0c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The HTD Years",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "2000-10-30"
+    },
+    {
+      "title": "BBC Radio 1 Live in Concert",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "first-release-date": "1991",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "20b67fdf-b77f-3220-9fdb-b105246ff86d"
+    },
+    {
+      "title": "The Show of Our Lives",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "1981",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2199f6cb-20c5-4826-83da-8092b035b78b"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "22fe42cb-d635-449e-afac-ab1a4430f460",
+      "title": "Travelling Ways: The HTD Anthology",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "2001-01-01"
+    },
+    {
+      "first-release-date": "1974-04-19",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Caravan & The New Symphonia",
+      "id": "23dbe98a-bf24-3026-b968-b3c82b493d14",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "id": "26188eb0-7d5f-3474-857a-ab4a99d04973",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1982-07",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "title": "Back to Front"
+    },
+    {
+      "title": "In the Land of Grey and Pink",
+      "secondary-type-ids": [],
+      "first-release-date": "1971-04-08",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "291c5ab1-5c4e-3898-993c-0416f9b38a65"
+    },
+    {
+      "title": "Cool Water",
+      "secondary-type-ids": [],
+      "first-release-date": "1995-10-17",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2a1ec523-b3ec-35af-a5bf-93b7fb3d0ca1"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2c420728-01e6-4fe4-8863-ff533eb0f8a2",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2013-12-20",
+      "secondary-types": [],
+      "title": "Paradise Filter",
+      "secondary-type-ids": []
+    },
+    {
+      "first-release-date": "2014",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Caravan Live at Rosfest Gettysburg USA",
+      "id": "2e8102dd-142f-464d-8d93-9c203fe703bb",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "30ef725e-8fb6-3483-a310-dd8df3678beb",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "first-release-date": "1980-11",
+      "title": "The Album",
+      "secondary-type-ids": []
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "3428f274-371c-3f4e-b66e-9f0c1e999b09",
+      "title": "Better by Far",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "1977"
+    },
+    {
+      "secondary-types": [],
+      "first-release-date": "1975",
+      "title": "Cunning Stunts",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "3524edd0-241a-3238-a596-02a27eb28c86",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "first-release-date": "1997",
+      "secondary-types": [
+        "Live"
+      ],
+      "title": "Canterbury Comes to London: Live From the Astoria",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "38a52953-3d0a-3072-89e0-fd1dbd814e12",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "3b5be335-0f6e-349e-be93-050073ecc142",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1994",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The Best of Caravan: Canterbury Tales",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Back on the Tracks",
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "1998",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "47726422-c662-4c4e-8f52-6b376cce9016",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "2012-04-03",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "The European Tour 2011: Live at Shepherds Bush Empire 8th October 2011",
+      "id": "4f1ccb98-589b-4c80-baa1-a9478e071ce2",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "5c618831-9698-3a74-8979-22b03d2b40e7",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Looking Back",
+      "first-release-date": "1988",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "first-release-date": "1976-11",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Canterbury Tales: The Best of Caravan",
+      "id": "5e2e1b3b-6a33-40b9-83e3-03f839f85641",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "6fab23e2-dcda-49b6-a7f2-89cc7d7d0077",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2014-02-24",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The Back Catalogue Songs",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7209c430-93b3-4089-8581-fda7bde5a0f6",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2001-07-23",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Travelling Ways",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "7b4c1cc7-3a42-46e4-ba89-572506774a7f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The World Is Yours: The Anthology 1968–1976",
+      "first-release-date": "2010-03-22",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7fb4020e-cfd9-3d68-874b-d6e8fbf6b510",
+      "primary-type": "Album",
+      "disambiguation": "1974-09-01: Fairfield Halls, Croydon, Surrey, UK",
+      "first-release-date": "1980",
+      "secondary-types": [
+        "Live"
+      ],
+      "title": "The Best of Caravan “Live”",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "title": "The Battle of Hastings",
+      "secondary-type-ids": [],
+      "first-release-date": "1995",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "821e3abf-acce-379e-ab9a-69a23f63f730"
+    },
+    {
+      "first-release-date": "2016",
+      "secondary-types": [
+        "Live"
+      ],
+      "title": "A Hunting We Shall Go: Live in 1974",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "847db7ec-d02c-4bda-9e2a-3104645842ad",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "first-release-date": "2003-01-24",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "A Night’s Tale: Live in the USA",
+      "id": "8ac7fb3a-90aa-47e7-ad57-0106e7e6a74b",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "first-release-date": "1991",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Songs & Signs",
+      "id": "8c053203-4cac-36a5-9598-e0b219896519",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "1976",
+      "title": "Surprise Supplies",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "8c20cbdf-66b1-3316-917c-9f3ed00226e5",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "title": "If I Could Do It All Over Again, I’d Do It All Over You",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "1970-09-04",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "8cf5e0fc-2728-3269-9ab9-64e9e38f5633"
+    },
+    {
+      "first-release-date": "2019-09-06",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "The Decca / Deram Years (An Anthology) 1970–1975",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "90f9d002-855b-4dd1-a163-b01fd110a77d",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "94f17d1f-2bce-3f12-b077-96ece584bbd3",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "1998",
+      "title": "Songs for Oblivion Fishermen",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "956ccd49-3c70-45cf-a0a3-ce04e0d8e683",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "2012",
+      "title": "All Over You and You Too",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "2021-08-20",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Who Do You Think We Are?",
+      "id": "96fdc86b-0dca-41bd-8cd1-7faaa9f5d6c4",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "1993-12-22",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Canterbury Sound",
+      "id": "9a13b491-c117-4feb-8154-b9b3e7bb6e95",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "9bfc78e7-4e54-4380-91fd-9b82cbbe7869",
+      "title": "Place of My Own: The Collection",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "2014-03-31"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "2003-07-21",
+      "title": "Nowhere to Hide",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "a0f7a823-9c6e-323a-b6d9-2a5a324b390f",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Green Bottles for Marjorie: The Lost BBC Sessions",
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "2002",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "b3be32d2-a38d-3dd1-9673-a700141aa263",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "",
+      "title": "Canterbury Everywhere",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "b6f047e8-83b0-36f2-85df-e52d38877d2a",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [],
+      "first-release-date": "2021-10-08",
+      "secondary-type-ids": [],
+      "title": "It’s None of Your Business",
+      "id": "bcc3b47a-27b6-444d-8b2c-e879d293667e",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "c0122d29-d919-38ab-b9d0-9a0aae7b45cb",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "title": "All Over You",
+      "first-release-date": "1996",
+      "secondary-types": []
+    },
+    {
+      "title": "Ether Way",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "first-release-date": "1998",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "c88add25-f22c-3825-a63b-507488dbff4e"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "2002",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Nearfest 2002",
+      "id": "cb712b8f-8e29-4c1b-ab95-5d4b25eb276a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [],
+      "first-release-date": "1973",
+      "secondary-type-ids": [],
+      "title": "For Girls Who Grow Plump in the Night",
+      "id": "cb851b6d-30c2-3cf3-81ad-9a20a232e050",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "ce85a3e3-bafb-42ab-9113-984ea4ba199e",
+      "title": "Recorded Live in Concert at Metropolis Studios, London",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "first-release-date": "2012-08-14",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "The Show of Our Lives: Live at the BBC 1968–1975",
+      "first-release-date": "2007",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "d841d17a-c5fc-3d6f-9eda-b7efc944135c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "1992",
+      "title": "Live",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "e1f991ea-020b-38d0-a7bc-3a0f957330ef",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "e35d7261-dcc5-3f89-a0eb-52c967879b99",
+      "title": "The Best of Caravan",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "1990",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "first-release-date": "1999-11-01",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The Canterbury Collection",
+      "id": "e740b3f9-5b9b-40d9-8982-f3965ba6a93c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "id": "e9152550-531f-38dc-aa03-e063b9dfc312",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2000-06-20",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "title": "All Over You… Too"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "edb03358-7ba9-416e-87ac-68423aa4d9d9",
+      "title": "With Strings Attached",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "2003-08-11"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The Show of Our Lives",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "1998-10-19",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "ee8a2f79-250d-41cb-be20-06d3a438e8c7",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "2000-07-31",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Where but for Caravan Would I?",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "f4e45af6-bbf3-3e04-926b-df24506ef610",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-types": [],
+      "first-release-date": "1969-03",
+      "secondary-type-ids": [],
+      "title": "Caravan",
+      "id": "f5ee86bf-e172-3514-856f-ee47f3d21bec",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "id": "f9c83a65-73c5-3955-a081-ba73e15a77bc",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "first-release-date": "1976",
+      "secondary-type-ids": [],
+      "title": "Blind Dog at St. Dunstans"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "From the Land of Grey and Pink",
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "2017",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "fb0e87b6-c17a-49c1-87f8-56a39a0c020c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "1972-05",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "title": "Waterloo Lily",
+      "id": "fd4ce682-00e7-32af-9253-c1347f57d0d6",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Headloss",
+      "first-release-date": "1999-09-13",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "ff5a51c8-2d7f-4e8e-a2b4-4c960066cb61",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    }
+  ]
+}

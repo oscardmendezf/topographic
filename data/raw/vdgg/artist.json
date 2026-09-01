@@ -1,0 +1,1218 @@
+{
+  "aliases": [
+    {
+      "sort-name": "Van der Graaf",
+      "begin": null,
+      "type-id": null,
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "type": null,
+      "primary": null,
+      "name": "Van der Graaf"
+    },
+    {
+      "type-id": null,
+      "begin": null,
+      "sort-name": "VdGG",
+      "end": null,
+      "locale": null,
+      "ended": false,
+      "name": "VdGG",
+      "type": null,
+      "primary": null
+    }
+  ],
+  "country": "GB",
+  "gender-id": null,
+  "gender": null,
+  "end-area": null,
+  "name": "Van der Graaf Generator",
+  "type": "Group",
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "sort-name": "United Kingdom",
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "type": null
+  },
+  "ipis": [],
+  "disambiguation": "",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "disambiguation": "",
+    "type": null,
+    "iso-3166-2-codes": [
+      "GB-MAN"
+    ],
+    "name": "Manchester",
+    "id": "852531bf-3410-401f-b432-9c3157a386b9",
+    "sort-name": "Manchester",
+    "type-id": null
+  },
+  "sort-name": "Van der Graaf Generator",
+  "relations": [
+    {
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1967",
+      "ended": true,
+      "artist": {
+        "id": "6caab8ca-b4d3-42e1-ac37-ae524243d710",
+        "sort-name": "Pearne, Nick",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Nick Pearne"
+      },
+      "end": "1968",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "artist": {
+        "id": "81e84159-2d98-4165-87a0-51739438fcc3",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Smith, Judge",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Judge Smith",
+        "type": "Person"
+      },
+      "end": "1968",
+      "attribute-ids": {},
+      "begin": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1967",
+      "attribute-ids": {},
+      "end": "1972-08-09",
+      "artist": {
+        "disambiguation": "English singer‐songwriter",
+        "name": "Peter Hammill",
+        "type": "Person",
+        "id": "3b972356-4410-4858-ab9c-6e3c3cf76609",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Hammill, Peter"
+      },
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "end": "1969-08",
+      "artist": {
+        "id": "9e908773-f63a-4989-a8f3-0af9dcacd861",
+        "country": "GB",
+        "sort-name": "Ellis, Keith Ian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Keith Ian Ellis"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968",
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": "1972-08-09",
+      "artist": {
+        "sort-name": "Banton, Hugh",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a4210337-8d51-496f-a8e3-02bf69fe4c54",
+        "type": "Person",
+        "name": "Hugh Banton",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "begin": "1968",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968",
+      "ended": true,
+      "end": "1972-08-09",
+      "artist": {
+        "disambiguation": "drums",
+        "type": "Person",
+        "name": "Guy Evans",
+        "id": "b200ab1b-4d89-4c31-8388-5fc1c658d969",
+        "country": "GB",
+        "sort-name": "Evans, Guy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "1969-09",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "country": "GB",
+        "sort-name": "Potter, Nic",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "1331620d-9c52-4c3c-9976-e0e89ebbf3c1",
+        "type": "Person",
+        "name": "Nic Potter",
+        "disambiguation": ""
+      },
+      "end": "1970-08",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1969-09",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Jackson, David",
+        "id": "a2c4fb6b-0118-4cf3-93ab-3b7a96e5b2c3",
+        "name": "David Jackson",
+        "type": "Person",
+        "disambiguation": "UK progressive rock saxophonist, flautist & composer"
+      },
+      "end": "1972-08-09",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "id": "a4210337-8d51-496f-a8e3-02bf69fe4c54",
+        "sort-name": "Banton, Hugh",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Hugh Banton"
+      },
+      "end": "1976-12",
+      "ended": true,
+      "begin": "1975-01",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": "1976-12",
+      "artist": {
+        "sort-name": "Evans, Guy",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b200ab1b-4d89-4c31-8388-5fc1c658d969",
+        "type": "Person",
+        "name": "Guy Evans",
+        "disambiguation": "drums"
+      },
+      "ended": true,
+      "begin": "1975-01",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "1976-12",
+      "artist": {
+        "country": "GB",
+        "sort-name": "Hammill, Peter",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3b972356-4410-4858-ab9c-6e3c3cf76609",
+        "type": "Person",
+        "name": "Peter Hammill",
+        "disambiguation": "English singer‐songwriter"
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975-01"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "end": "1976-12",
+      "artist": {
+        "id": "a2c4fb6b-0118-4cf3-93ab-3b7a96e5b2c3",
+        "country": "GB",
+        "sort-name": "Jackson, David",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK progressive rock saxophonist, flautist & composer",
+        "type": "Person",
+        "name": "David Jackson"
+      },
+      "attribute-ids": {},
+      "begin": "1975-01",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "begin": "1977-01",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "end": "1978-07",
+      "artist": {
+        "type": "Person",
+        "name": "Guy Evans",
+        "disambiguation": "drums",
+        "country": "GB",
+        "sort-name": "Evans, Guy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b200ab1b-4d89-4c31-8388-5fc1c658d969"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "Van der Graaf"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "Van der Graaf",
+      "artist": {
+        "sort-name": "Hammill, Peter",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3b972356-4410-4858-ab9c-6e3c3cf76609",
+        "type": "Person",
+        "name": "Peter Hammill",
+        "disambiguation": "English singer‐songwriter"
+      },
+      "end": "1978-07",
+      "ended": true,
+      "begin": "1977-01",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "Van der Graaf",
+      "begin": "1977-01",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "name": "Nic Potter",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Potter, Nic",
+        "id": "1331620d-9c52-4c3c-9976-e0e89ebbf3c1"
+      },
+      "end": "1978-07",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "name": "Graham Smith",
+        "type": "Person",
+        "disambiguation": "violinist String Driven Thing/Van der Graaf",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Smith, Graham",
+        "country": null,
+        "id": "8c892998-0091-40da-8067-db36c2c5a52d"
+      },
+      "end": "1978-07",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1977-01",
+      "source-credit": "Van der Graaf",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "Van der Graaf",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "1978-07",
+      "artist": {
+        "id": "69b33d19-62d3-415b-b3d7-0d8ab6412cc3",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Dickie, Chas",
+        "disambiguation": "",
+        "name": "Chas Dickie",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "begin": "1977-08",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "2004",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "name": "David Jackson",
+        "type": "Person",
+        "disambiguation": "UK progressive rock saxophonist, flautist & composer",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Jackson, David",
+        "country": "GB",
+        "id": "a2c4fb6b-0118-4cf3-93ab-3b7a96e5b2c3"
+      },
+      "end": "2005-11",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Banton, Hugh",
+        "country": "GB",
+        "id": "a4210337-8d51-496f-a8e3-02bf69fe4c54",
+        "name": "Hugh Banton",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": "2004",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "2004",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "type": "Person",
+        "name": "Guy Evans",
+        "disambiguation": "drums",
+        "sort-name": "Evans, Guy",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b200ab1b-4d89-4c31-8388-5fc1c658d969"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "2004",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "id": "3b972356-4410-4858-ab9c-6e3c3cf76609",
+        "country": "GB",
+        "sort-name": "Hammill, Peter",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "English singer‐songwriter",
+        "type": "Person",
+        "name": "Peter Hammill"
+      },
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "type": "allmusic",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "e2d4f152-466b-4ab2-8048-ea8bd5ea064f",
+        "resource": "https://www.allmusic.com/artist/mn0000257544"
+      },
+      "attribute-ids": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "ended": false,
+      "url": {
+        "id": "54356dab-12b9-4b2e-8842-e6bea5651c94",
+        "resource": "https://www.bandsintown.com/a/49214"
+      },
+      "end": null,
+      "type": "bandsintown",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "attribute-ids": {},
+      "end": "2020-11-19",
+      "url": {
+        "id": "951b7fef-e5b7-4637-8d0d-c2d48ab49c4e",
+        "resource": "https://www.bbc.co.uk/music/artists/b892f72d-05e2-4ff7-b863-3d5dec6331fd"
+      },
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "BBC Music page",
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "ceaaeeb9-4abd-46f6-bdc5-f60df79c4c72",
+        "resource": "https://www.discogs.com/artist/308690"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "direction": "forward",
+      "type": "discogs",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "515020ad-e3ae-45cb-b514-bda36e847db4",
+        "resource": "https://www.vandergraafgenerator.co.uk/"
+      },
+      "type": "fanpage",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "ee6a860e-e2bc-4fe0-87c8-a53ccdf722bf",
+        "resource": "https://open.spotify.com/artist/02frazNrWgZCxUEf4UTfHt"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "direction": "forward",
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "id": "44378296-1cef-40df-bdfb-80a7462eab53",
+        "resource": "https://www.deezer.com/artist/5154"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.imdb.com/name/nm2208532/",
+        "id": "fe3057d7-0d6f-456f-943f-b0b4cb43be10"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "IMDb",
+      "direction": "forward"
+    },
+    {
+      "type": "last.fm",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false,
+      "url": {
+        "id": "b5e8d7fd-ed1a-4fdc-825d-1bfbade1338b",
+        "resource": "https://www.last.fm/music/Van+der+Graaf+Generator"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://genius.com/artists/Van-der-graaf-generator",
+        "id": "838f4c11-d680-4883-977d-5a3de9bc4bd6"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "direction": "forward",
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "34d48996-b563-4b78-b0db-f50937591803",
+        "resource": "https://muzikum.eu/en/van-der-graaf-generator/lyrics"
+      },
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "direction": "forward",
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://myspace.com/nutteralert",
+        "id": "ade4682a-a3e3-46b8-a0bd-078f175bd39c"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "myspace",
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "515020ad-e3ae-45cb-b514-bda36e847db4",
+        "resource": "https://www.vandergraafgenerator.co.uk/"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "official homepage",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "id": "494ec21b-4794-4c84-baf6-d31f19dbb375",
+        "resource": "http://id.loc.gov/authorities/names/n93004138"
+      },
+      "end": null,
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139072758",
+        "id": "bc60933f-d2a9-4d51-8094-36def941533e"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "99bef5ff-9230-4c0a-bdc5-30e62b3c282c",
+        "resource": "https://d-nb.info/gnd/10289189-8"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "3e3dccef-56f4-4cfa-9426-06186cd7cc3a",
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7T64wykqywJhFHBTB6"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/van-der-graaf-generator",
+        "id": "62a0e5e3-be2b-4a60-8692-9788c8dfa8a4"
+      },
+      "end": null
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.45cat.com/artist/van-der-graaf",
+        "id": "d7644f90-c4cb-47b6-830e-3321d453a91f"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "Van der Graaf",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/van-der-graaf/",
+        "id": "db62ae1a-3493-41c6-9f74-7d409782bad1"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "id": "77858b3c-1f3b-4f4d-ac96-a078b1b65976",
+        "resource": "https://www.musik-sammler.de/artist/van-der-graaf-generator/"
+      },
+      "end": null,
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=343",
+        "id": "28a4b069-44b4-46c0-8708-15835655657f"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "902aa8c3-9bb5-4d6c-b3bf-1787821c4a6f",
+        "resource": "https://www.spirit-of-rock.com/en/band/Van_Der_Graaf_Generator"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "f22079b9-8536-4d6e-a93b-c35e51e81952",
+        "resource": "https://www.whosampled.com/Van-Der-Graaf-Generator/"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://itunes.apple.com/gb/artist/id13743816",
+        "id": "c7db7fd5-450e-47c0-8f67-3411b568bbd2"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "id": "2c890798-20e9-4e53-b52b-46ef57e649af",
+        "resource": "https://music.apple.com/gb/artist/13743816"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "url": {
+        "id": "35aaf1fe-c08c-4e43-985c-70bd7cfc5255",
+        "resource": "https://www.qobuz.com/us-en/interpreter/van-der-graaf-generator/118667"
+      },
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "secondhandsongs",
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/43055",
+        "id": "674529cc-c2ea-4fa1-8fa6-6ca20274e3be"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/van-der-graaf-generator-bd6b52e.html",
+        "id": "f9dd1bc2-d1b3-4e0b-b5c8-ded40804581f"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "direction": "forward",
+      "type": "setlistfm",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "url": {
+        "resource": "https://www.facebook.com/vandergraafgeneratorband",
+        "id": "7af175dd-7b03-48ec-ba50-1671ef0e96a2"
+      },
+      "end": null,
+      "type": "social network",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "songkick",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.songkick.com/artists/7470",
+        "id": "d282dc73-12c4-4cae-bb80-2518c0764842"
+      },
+      "end": null
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "2c890798-20e9-4e53-b52b-46ef57e649af",
+        "resource": "https://music.apple.com/gb/artist/13743816"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "096a1c6b-8efc-458c-b871-4a93fc018a6d",
+        "resource": "https://tidal.com/artist/3505274"
+      },
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "35aaf1fe-c08c-4e43-985c-70bd7cfc5255",
+        "resource": "https://www.qobuz.com/us-en/interpreter/van-der-graaf-generator/118667"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "VIAF",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "http://viaf.org/viaf/153578666",
+        "id": "c7bf5fea-724b-49f6-8bee-b2acdbca5395"
+      },
+      "attribute-ids": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q752170",
+        "id": "bf6684fd-efed-4174-99c7-fdfebc740b06"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikidata",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "youtube music",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "5c5dc28a-f341-419f-bef2-01adabfd05c2",
+        "resource": "https://music.youtube.com/channel/UCpGyjAC0hF8XF6AxGOzopgQ"
+      },
+      "end": null
+    }
+  ],
+  "isnis": [
+    "0000000121886179"
+  ],
+  "id": "b892f72d-05e2-4ff7-b863-3d5dec6331fd",
+  "life-span": {
+    "end": "1978-07",
+    "ended": true,
+    "begin": "1967"
+  }
+}

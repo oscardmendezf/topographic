@@ -1,0 +1,2098 @@
+{
+  "area": {
+    "type": null,
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "ipis": [],
+  "disambiguation": "",
+  "name": "Supertramp",
+  "type": "Group",
+  "isnis": [
+    "0000000115035028"
+  ],
+  "life-span": {
+    "begin": "1969",
+    "end": null,
+    "ended": true
+  },
+  "id": "d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "type": null,
+    "sort-name": "London",
+    "type-id": null,
+    "name": "London",
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "disambiguation": "Greater London"
+  },
+  "sort-name": "Supertramp",
+  "relations": [
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1969",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1970",
+      "artist": {
+        "type": "Person",
+        "name": "Keith Baker",
+        "disambiguation": "drummer",
+        "sort-name": "Baker, Keith",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "abf2ca9f-c09d-462c-9551-bae8eea95052"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1969",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "id": "c7673c66-c984-450d-8d04-10e9fb2e91ed",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Palmer‐James, Richard",
+        "country": "GB",
+        "disambiguation": "guitarist and lyricist",
+        "name": "Richard Palmer‐James",
+        "type": "Person"
+      },
+      "end": "1971",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward"
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1969",
+      "ended": true,
+      "end": "1983",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Roger Hodgson",
+        "id": "210bf857-3387-4a7e-9301-7eb9c66800d6",
+        "country": "GB",
+        "sort-name": "Hodgson, Roger",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ]
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "1988",
+      "artist": {
+        "disambiguation": "UK keyboardist, member of Supertramp",
+        "name": "Rick Davies",
+        "type": "Person",
+        "id": "886b3be4-c93b-4085-85b0-b73ce2817246",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Davies, Rick",
+        "country": "GB"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1969",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1971",
+      "artist": {
+        "name": "Robert Millar",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Millar, Robert",
+        "id": "1fc31d99-1848-44e5-b1ed-c7f3745225a8"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "attribute-ids": {},
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "name": "Dave Winthrop",
+        "disambiguation": "",
+        "country": "US",
+        "sort-name": "Winthrop, Dave",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ef87f549-5dc6-4e5a-9c59-3763f0d9ca0a"
+      },
+      "end": "1973",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "id": "fe3f1bac-e7dd-483b-8255-7ede18e66cfc",
+        "sort-name": "Farrell, Frank",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK rock bassist, vocalist and songwriter",
+        "type": "Person",
+        "name": "Frank Farrell"
+      },
+      "end": "1972",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": "1971",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1973",
+      "artist": {
+        "id": "9dd30aa4-28da-4547-8ee4-4507790b4804",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Currie, Kevin",
+        "disambiguation": "British drummer",
+        "name": "Kevin Currie",
+        "type": "Person"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "end": "1988",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Thomson, Dougie",
+        "id": "f608b2e9-5527-4a3d-aafc-5a5f3e9694b7",
+        "name": "Dougie Thomson",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972",
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": "1988",
+      "artist": {
+        "name": "John Helliwell",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Helliwell, John",
+        "id": "5dfc4ce9-2405-43c4-8480-9e73451d47e7"
+      },
+      "ended": true,
+      "begin": "1973",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "end": "1988",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Siebenberg, Bob",
+        "id": "8437ae1b-ca42-4540-9020-0ce8e0bceb6e",
+        "name": "Bob Siebenberg",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "begin": "1973",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "additional"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1983",
+      "artist": {
+        "id": "ceebabd7-e51b-4cee-8204-89fefc8584ed",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Mandel, Fred",
+        "country": "CA",
+        "disambiguation": "",
+        "name": "Fred Mandel",
+        "type": "Person"
+      },
+      "ended": true,
+      "begin": "1983",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      }
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "additional"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "1986",
+      "artist": {
+        "type": "Person",
+        "name": "Scott Page",
+        "disambiguation": "instruments for Pink Floyd/Supertramp",
+        "sort-name": "Page, Scott",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "30932250-dca2-47bf-a8b3-a2b8aa05c4d9"
+      },
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "begin": "1983",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "additional"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1984",
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "name": "Marty Walsh",
+        "type": "Person",
+        "id": "c4e0ae4a-cd41-491d-98ff-6ee924ec5fbf",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Walsh, Marty",
+        "country": "US"
+      },
+      "end": "1988",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "additional"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "sort-name": "Verheyen, Carl",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "904ed1e9-4e2c-4d26-a819-3f138fec16ad",
+        "type": "Person",
+        "name": "Carl Verheyen",
+        "disambiguation": ""
+      },
+      "end": "1986",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "begin": "1985",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hart, Mark",
+        "country": "US",
+        "id": "96977b08-ffea-4500-b6e9-718e38f426ce",
+        "name": "Mark Hart",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1988",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1985",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      }
+    },
+    {
+      "ended": true,
+      "end": "1988",
+      "artist": {
+        "disambiguation": "US keyboardist/woodwind player",
+        "type": "Person",
+        "name": "Brad Cole",
+        "id": "ed0cd2d5-a936-4234-99be-3c64033bd20a",
+        "sort-name": "Cole, Brad",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "begin": "1986",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "additional"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1987",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "artist": {
+        "id": "e5b1ead1-f259-4189-b332-02ba5dd14598",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Reid, Steve",
+        "disambiguation": "percussionist for The Rippingtons",
+        "name": "Steve Reid",
+        "type": "Person"
+      },
+      "end": "1988",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional"
+      ]
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": "1996",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "sort-name": "Walsh, Tom",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "94381904-cf9d-4475-a7e0-cfd0618ea795",
+        "type": "Person",
+        "name": "Tom Walsh",
+        "disambiguation": "UK drummer for Supertramp"
+      },
+      "end": "1997",
+      "ended": true,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1996",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "country": "GB",
+        "sort-name": "Davies, Rick",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "886b3be4-c93b-4085-85b0-b73ce2817246",
+        "type": "Person",
+        "name": "Rick Davies",
+        "disambiguation": "UK keyboardist, member of Supertramp"
+      },
+      "end": "2002"
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": "2002",
+      "artist": {
+        "id": "96977b08-ffea-4500-b6e9-718e38f426ce",
+        "country": "US",
+        "sort-name": "Hart, Mark",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Mark Hart"
+      },
+      "ended": true,
+      "begin": "1996",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "begin": "1996",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "2002",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "John Helliwell",
+        "id": "5dfc4ce9-2405-43c4-8480-9e73451d47e7",
+        "country": "GB",
+        "sort-name": "Helliwell, John",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "2002",
+      "artist": {
+        "disambiguation": "",
+        "name": "Cliff Hugo",
+        "type": "Person",
+        "id": "20674f5f-3c5d-4fb7-857a-adc1d8fe25f6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Hugo, Cliff"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1996",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "id": "8437ae1b-ca42-4540-9020-0ce8e0bceb6e",
+        "country": "US",
+        "sort-name": "Siebenberg, Bob",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Bob Siebenberg"
+      },
+      "end": "2002",
+      "ended": true,
+      "begin": "1996",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "end": "2002",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Thornburg, Lee",
+        "country": "US",
+        "id": "67ef517a-a83e-4aa9-9848-140b2de3025a",
+        "name": "Lee Thornburg",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "begin": "1996",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "sort-name": "Verheyen, Carl",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "904ed1e9-4e2c-4d26-a819-3f138fec16ad",
+        "type": "Person",
+        "name": "Carl Verheyen",
+        "disambiguation": ""
+      },
+      "end": "2002",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1996"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "sort-name": "Siebenberg, Jesse",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "59b7d001-e6e5-4fcf-b755-dfb3e6bac4c4",
+        "type": "Person",
+        "name": "Jesse Siebenberg",
+        "disambiguation": ""
+      },
+      "end": "2002",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1997"
+    },
+    {
+      "attribute-ids": {},
+      "begin": "2010",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "eea7f2c0-2d3c-427e-b97e-7ae952aeb271",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Dixon, Gabe",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Gabe Dixon",
+        "type": "Person"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2010",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "5dfc4ce9-2405-43c4-8480-9e73451d47e7",
+        "sort-name": "Helliwell, John",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "John Helliwell"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": "2010",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Hugo, Cliff",
+        "id": "20674f5f-3c5d-4fb7-857a-adc1d8fe25f6",
+        "name": "Cliff Hugo",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": null,
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2010",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "id": "4aebcf1e-e9e0-4571-8b37-c5c456dd1066",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Miller, Cassie",
+        "disambiguation": "",
+        "name": "Cassie Miller",
+        "type": "Person"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "8437ae1b-ca42-4540-9020-0ce8e0bceb6e",
+        "sort-name": "Siebenberg, Bob",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Bob Siebenberg"
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2010"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "2010",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Jesse Siebenberg",
+        "type": "Person",
+        "id": "59b7d001-e6e5-4fcf-b755-dfb3e6bac4c4",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Siebenberg, Jesse",
+        "country": "US"
+      },
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "2010",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "Lee Thornburg",
+        "type": "Person",
+        "id": "67ef517a-a83e-4aa9-9848-140b2de3025a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Thornburg, Lee",
+        "country": "US"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": "2010",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "id": "904ed1e9-4e2c-4d26-a819-3f138fec16ad",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Verheyen, Carl",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Carl Verheyen",
+        "type": "Person"
+      },
+      "end": null,
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": "2010",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "end": null,
+      "artist": {
+        "sort-name": "Davies, Rick",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "886b3be4-c93b-4085-85b0-b73ce2817246",
+        "type": "Person",
+        "name": "Rick Davies",
+        "disambiguation": "UK keyboardist, member of Supertramp"
+      },
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "d452f826-1b13-4d2a-8f2a-4dbba87572dc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Padilla, Pablo",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Pablo Padilla",
+        "type": "Person"
+      }
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "artist": {
+        "name": "Cannon Ball",
+        "type": "Group",
+        "disambiguation": "Belgian Supertramp tribute group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "BE",
+        "sort-name": "Cannon Ball",
+        "id": "d64efc9d-e544-4a12-9bcd-5a2c8a6cd5ed"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "type": "Group",
+        "name": "Covertramp",
+        "id": "b35c2a58-ee34-46a3-993a-2050e76e9d44",
+        "country": null,
+        "sort-name": "Covertramp",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "tribute",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type": "Group",
+        "name": "Crisis What Crisis",
+        "disambiguation": "Supertramp tribute band",
+        "sort-name": "Crisis What Crisis",
+        "country": "CA",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "23e87375-9dc2-40cb-a970-42c64d6ac0a0"
+      },
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "German Supertramp cover band",
+        "name": "Dreamer",
+        "type": "Group",
+        "id": "f5caa14b-a910-4aba-ba0e-8e5c89400455",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "DE",
+        "sort-name": "Dreamer"
+      },
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "Dreamer – The Supertramp Experience",
+        "type": null,
+        "id": "3e951fd1-632f-41f6-808e-2e8b4a5f2c3d",
+        "type-id": null,
+        "sort-name": "Dreamer – The Supertramp Experience",
+        "country": null
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "artist": {
+        "disambiguation": "Supertramp tribute band in Seattle",
+        "type": "Group",
+        "name": "PseudoTramp",
+        "id": "31881d49-6b9f-45df-85ca-ccbaea157e0b",
+        "country": "US",
+        "sort-name": "PseudoTramp",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "sort-name": "Supertramp Tribute Band, The",
+        "country": "US",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "1b7c76d7-c1ff-4189-a0e2-08c01029fa56",
+        "type": "Group",
+        "name": "The Supertramp Tribute Band",
+        "disambiguation": ""
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "type": "tribute",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "allmusic",
+      "direction": "forward",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000033666",
+        "id": "d346503f-d8e3-4378-a01e-9a6483b2411b"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "aa163ca9-c875-46ec-bb53-907e2272a797",
+        "resource": "https://www.bandsintown.com/a/239311"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "direction": "forward",
+      "type": "bandsintown",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "BBC Music page",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "2020-11-19",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8",
+        "id": "22fd63a9-aa94-48de-84fa-4122225cdf69"
+      },
+      "attribute-ids": {},
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "ended": true,
+      "url": {
+        "id": "c415b63a-d4ae-4682-9170-5a5073e06ff5",
+        "resource": "https://www.breakfastinspain.com/index.php/supertramp-biography"
+      },
+      "end": null,
+      "type": "biography",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.discogs.com/artist/251517",
+        "id": "123bb6b3-737d-4eb6-9b4e-a75d49fc51cf"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "direction": "forward",
+      "type": "discogs",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx",
+        "id": "83049772-1288-4256-a8c1-11c9c001f1f8"
+      },
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "free streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "9e196581-409e-44ba-ad08-8fe202894f24",
+        "resource": "https://www.deezer.com/artist/3128"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "53151498-d88f-4c22-a5a9-b21140c456a6",
+        "resource": "https://www.imdb.com/name/nm3075461/"
+      },
+      "end": null,
+      "type": "IMDb",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "last.fm",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.last.fm/music/Supertramp",
+        "id": "c166b88c-ad85-4b0d-8e79-296c082954cc"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "lyrics",
+      "url": {
+        "resource": "https://genius.com/artists/Supertramp",
+        "id": "8c8895c7-4135-4266-afed-484f63e80120"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "d436c1e9-82a4-423e-895d-bfc563b1aa01",
+        "resource": "https://muzikum.eu/en/supertramp/lyrics"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-ids": {},
+      "url": {
+        "id": "08926a0b-514c-4bc0-918a-7b5f4772e42e",
+        "resource": "https://www.musixmatch.com/artist/Supertramp"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "lyrics",
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "myspace",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "attribute-ids": {},
+      "url": {
+        "id": "795521d3-f9a3-42f4-8149-7b0e0901774f",
+        "resource": "https://myspace.com/supertrampofficial"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "official homepage",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://supertramp.com/",
+        "id": "af8e5837-2181-41db-b2a1-a24e95c7caa0"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n91071631",
+        "id": "49494c22-d9a6-4033-8abf-7879f440525b"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "id": "31fdc2f8-cff5-4d3e-b46d-e629509b1d1b",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13906847f"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "9e472b66-3128-4af4-8f5b-8b4c074396e4",
+        "resource": "https://d-nb.info/gnd/5068327-5"
+      },
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "44f06837-ee6d-45a3-8e4c-1d1bf207759c",
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7YBhM4Kc7QQr94gKM6"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://imvdb.com/n/supertramp",
+        "id": "4408631c-4b86-4fa0-8dc6-2b2f71e303d6"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "ab1a23f7-78f1-443f-bc8e-1230ea07ae6b",
+        "resource": "https://musicmoz.org/Bands_and_Artists/S/Supertramp/"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "8348ec2e-ab06-4be5-9816-3746e90b8ab3",
+        "resource": "https://rateyourmusic.com/artist/supertramp"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.45cat.com/artist/supertramp",
+        "id": "5bd47b6d-9b85-4435-9ef7-c414d894f206"
+      },
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/supertramp/",
+        "id": "982e84e6-1026-4ef2-ae1e-3e5e80a4d615"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "11c0be75-9aab-4805-9931-2a0225ece9c1",
+        "resource": "https://www.progarchives.com/artist.asp?id=324"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Supertramp",
+        "id": "68fc7a23-08ed-47b1-9024-107c83ff5250"
+      },
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "https://www.whosampled.com/Supertramp/",
+        "id": "36f973c0-5d76-4a35-8904-a7af873cde64"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": true,
+      "end": "2020-10-12",
+      "url": {
+        "id": "f577a76c-6cd3-4414-98fd-f1b23854194a",
+        "resource": "https://play.google.com/store/music/artist?id=Aue77v5p7xuushxaf3ypl6oq2g4"
+      },
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "76bf892c-c42b-468f-b666-8e867b78b669",
+        "resource": "https://itunes.apple.com/gb/artist/id43246"
+      },
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://mora.jp/artist/213367/",
+        "id": "464dbafc-e1be-4c00-98b3-e7251ed646c7"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "0276365b-a1cd-428f-940a-8df667e8e273",
+        "resource": "https://music.apple.com/gb/artist/43246"
+      },
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "url": {
+        "id": "57ae5adc-be1a-4039-b505-291ad500304b",
+        "resource": "https://music.bugs.co.kr/artist/35228"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "スーパートランプ",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "7f67aa5d-325d-4588-a5e3-13d3d5afa68c",
+        "resource": "https://ototoy.jp/_/default/a/283999"
+      },
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "1ff05d30-4024-4d3f-a43f-b9341d824e2d",
+        "resource": "https://uk.7digital.com/artist/supertramp"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.junodownload.com/artists/Supertramp/releases/",
+        "id": "0b97cfdf-a53b-4388-90d8-0a1c2b0f7ff3"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104661",
+        "id": "fb7ca69c-3261-4c8b-bbd0-08f3c3f39a95"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "00b11d2c-4332-47a5-ae8e-10e81eb28977",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/supertramp/50242"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for mail-order",
+      "end": null,
+      "url": {
+        "resource": "https://www.cdjapan.co.jp/person/700234709",
+        "id": "94746433-fa11-42a7-bef5-59e1d3939907"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/2683",
+        "id": "ffb59374-9446-41ee-b47f-67b8950859e0"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "begin": null,
+      "direction": "forward",
+      "type": "secondhandsongs",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/supertramp-63d6beef.html",
+        "id": "fabf31ce-78d5-4b44-8b7a-61086862938e"
+      },
+      "attribute-ids": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "begin": null,
+      "direction": "forward",
+      "type": "setlistfm",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "social network",
+      "url": {
+        "id": "03dd5187-4f14-4af1-979d-e220baa449b3",
+        "resource": "https://www.facebook.com/pages/Supertramp/106822866016700"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "109303ee-4ea8-47ca-8b9b-814e791af86e",
+        "resource": "https://www.songkick.com/artists/420142"
+      },
+      "ended": false,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "songkick"
+    },
+    {
+      "url": {
+        "resource": "https://us.napster.com/artist/supertramp",
+        "id": "e1f73675-ff5f-4d21-ac10-b98abd99c3eb"
+      },
+      "end": "2022-06-08",
+      "ended": true,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://music.amazon.co.uk/artists/B001E7B71Y",
+        "id": "87b97083-baa5-4f7e-bdb2-0e27ee036da5"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "url": {
+        "id": "0276365b-a1cd-428f-940a-8df667e8e273",
+        "resource": "https://music.apple.com/gb/artist/43246"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "end": null,
+      "url": {
+        "resource": "https://music.bugs.co.kr/artist/35228",
+        "id": "57ae5adc-be1a-4039-b505-291ad500304b"
+      },
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://tidal.com/artist/29952",
+        "id": "45b25abf-5db9-4285-bf6a-a3cead9bbc12"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "fb7ca69c-3261-4c8b-bbd0-08f3c3f39a95",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104661"
+      },
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "direction": "forward",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "00b11d2c-4332-47a5-ae8e-10e81eb28977",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/supertramp/50242"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "00636e00-a67e-44cd-9a23-84eda4e72475",
+        "resource": "http://viaf.org/viaf/127773590"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "direction": "forward",
+      "type": "VIAF",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q176457",
+        "id": "1c23127c-0025-47fe-a48d-3f1edd46ff91"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikidata",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "SupertrampVEVO",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "youtube",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCuD7geq8bM0VYQAzW1J-3_Q",
+        "id": "535b46b3-88fc-443f-8fc0-7f736ba7b6f4"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "youtube music",
+      "end": null,
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCpS0hJ21amjA5eBApEOiIFw",
+        "id": "c49a621d-c8cc-43a8-b1af-d9d86d6174a3"
+      },
+      "ended": false,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    }
+  ],
+  "aliases": [
+    {
+      "end": "1970",
+      "ended": true,
+      "locale": "en",
+      "begin": "1969",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "sort-name": "Daddy",
+      "name": "Daddy",
+      "primary": false,
+      "type": "Artist name"
+    },
+    {
+      "type": null,
+      "primary": null,
+      "name": "Supetramp",
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "sort-name": "Supetramp",
+      "begin": null,
+      "type-id": null
+    },
+    {
+      "sort-name": "スーパートランプ",
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "locale": "ja",
+      "end": null,
+      "type": "Artist name",
+      "primary": true,
+      "name": "スーパートランプ"
+    },
+    {
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "sort-name": "슈퍼트램프",
+      "end": null,
+      "ended": false,
+      "locale": "ko",
+      "name": "슈퍼트램프",
+      "type": "Artist name",
+      "primary": true
+    }
+  ],
+  "end-area": null,
+  "country": "GB",
+  "gender-id": null,
+  "gender": null
+}

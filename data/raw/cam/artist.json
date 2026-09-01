@@ -1,0 +1,1504 @@
+{
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1971"
+  },
+  "id": "94b7a39b-f3cc-4796-90dd-b1786a62877e",
+  "area": {
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type": null,
+    "sort-name": "United Kingdom",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ]
+  },
+  "isnis": [
+    "0000000110183806"
+  ],
+  "disambiguation": "UK prog rock band",
+  "aliases": [],
+  "begin-area": {
+    "type-id": null,
+    "name": "Guildford",
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "Guildford",
+    "id": "f63466fa-e170-4262-840e-85eaab2d454f"
+  },
+  "sort-name": "Camel",
+  "type": "Group",
+  "end-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "ipis": [],
+  "gender": null,
+  "relations": [
+    {
+      "artist": {
+        "disambiguation": "Rock bassist, ex-member of Camel",
+        "country": null,
+        "name": "Doug Ferguson",
+        "sort-name": "Ferguson, Doug",
+        "type": "Person",
+        "id": "9e536582-4311-49c6-8620-2c3c72a6a398",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "ended": true,
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1971",
+      "attribute-credits": {},
+      "end": "1976",
+      "attributes": [
+        "electric bass guitar",
+        "original"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "name": "Peter Bardens",
+        "country": "GB",
+        "disambiguation": "founding member of the British progressive rock group Camel",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9acc6f40-2e31-412c-b1ca-a09a10d5047a",
+        "type": "Person",
+        "sort-name": "Bardens, Peter"
+      },
+      "attribute-ids": {
+        "organ": "55a37f4f-39a4-45a7-851d-586569985519",
+        "mellotron": "3715ab17-124b-4011-b324-d2bb2cd46f6b",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "ended": true,
+      "type": "member of band",
+      "begin": "1971",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1978",
+      "attribute-credits": {},
+      "attributes": [
+        "mellotron",
+        "organ",
+        "original",
+        "piano",
+        "synthesizer"
+      ],
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)",
+        "original",
+        "percussion"
+      ],
+      "attribute-credits": {},
+      "end": "1981",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1971",
+      "ended": true,
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "disambiguation": "Chrysanthemums, Camel, The Bevis Frond",
+        "country": "GB",
+        "name": "Andy Ward",
+        "type": "Person",
+        "sort-name": "Ward, Andy",
+        "id": "ed832760-86aa-4e28-9e1c-a9c947f5fbff",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87",
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "recorder": "3cf4c0c9-160a-4d73-9243-7d0e0df17050",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "name": "Andrew Latimer",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "40a85fd4-497d-4c44-97e6-e3be777bb8ec",
+        "type": "Person",
+        "sort-name": "Latimer, Andrew"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "electric guitar",
+        "flute",
+        "lead vocals",
+        "original",
+        "recorder"
+      ],
+      "end": null,
+      "begin": "1971",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "country": "GB",
+        "name": "Mel Collins",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Collins, Mel",
+        "type": "Person",
+        "id": "67b08fdc-ee07-4f93-957e-8ade23cf6ac8"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1979",
+      "attributes": [],
+      "begin": "1977",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "begin": "1977",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1979",
+      "attributes": [],
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Sinclair, Richard",
+        "type": "Person",
+        "id": "cdc2328b-626c-46ec-89fe-d6dd265f458b",
+        "country": "GB",
+        "name": "Richard Sinclair",
+        "disambiguation": ""
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "sort-name": "Schelhaas, Jan",
+        "type": "Person",
+        "id": "ca9efe5b-8d2b-4bd5-a350-8b35943effc0",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": null,
+        "name": "Jan Schelhaas"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1981",
+      "attributes": [],
+      "begin": "1978",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Watkins, Kit",
+        "id": "c9c01dec-8f02-4311-83a6-642f2069bc64",
+        "country": "US",
+        "name": "Kit Watkins",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "end": "1982",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1979"
+    },
+    {
+      "begin": "1979",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "background vocals",
+        "electric bass guitar",
+        "lead vocals"
+      ],
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9416da8b-faa9-4050-8782-bd431a51c38f",
+        "type": "Person",
+        "sort-name": "Bass, Colin",
+        "name": "Colin Bass",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "ended": false
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1984",
+      "attributes": [],
+      "type": "member of band",
+      "begin": "1984",
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "78da9bf1-8429-4003-89a2-5c5efa63da7b",
+        "sort-name": "Burgess, Paul",
+        "type": "Person",
+        "name": "Paul Burgess",
+        "country": "GB",
+        "disambiguation": "UK rock drummer"
+      },
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": "1984",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1984",
+      "type": "member of band",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "Dutch keyboardist",
+        "country": "NL",
+        "name": "Ton Scherpenzeel",
+        "sort-name": "Scherpenzeel, Ton",
+        "type": "Person",
+        "id": "10a09092-97d7-41aa-b495-c81689de1a14",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [],
+      "end": "1992",
+      "type": "member of band",
+      "begin": "1991",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Burgess, Paul",
+        "id": "78da9bf1-8429-4003-89a2-5c5efa63da7b",
+        "country": "GB",
+        "name": "Paul Burgess",
+        "disambiguation": "UK rock drummer"
+      }
+    },
+    {
+      "begin": "2000",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [],
+      "end": "2015-04-27",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "Canadian Artists, Member of Nathan Mahl",
+        "country": "CA",
+        "name": "Guy LeBlanc",
+        "type": "Person",
+        "sort-name": "LeBlanc, Guy",
+        "id": "f34f9c19-3253-4ecc-9493-bb6ad6ee7d66",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "begin": "2016",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "sort-name": "Jones, Peter",
+        "type": "Person",
+        "id": "a37342d1-0405-4457-a7a8-ff9ce6473780",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Tiger Moth Tales",
+        "country": "GB",
+        "name": "Peter Jones"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "synthesizer"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2016",
+      "ended": false,
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "artist": {
+        "disambiguation": "Tiger Moth Tales",
+        "name": "Peter Jones",
+        "country": "GB",
+        "id": "a37342d1-0405-4457-a7a8-ff9ce6473780",
+        "type": "Person",
+        "sort-name": "Jones, Peter",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "country": "GB",
+        "name": "Peter Jones",
+        "disambiguation": "Tiger Moth Tales",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Jones, Peter",
+        "id": "a37342d1-0405-4457-a7a8-ff9ce6473780"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "end": null,
+      "begin": "2016",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "alto saxophone"
+      ],
+      "end": null,
+      "type": "member of band",
+      "begin": "2016",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-ids": {
+        "alto saxophone": "9c977091-b27a-4a0e-b54e-b5ab89420e22"
+      },
+      "artist": {
+        "disambiguation": "Tiger Moth Tales",
+        "name": "Peter Jones",
+        "country": "GB",
+        "id": "a37342d1-0405-4457-a7a8-ff9ce6473780",
+        "sort-name": "Jones, Peter",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "attribute-credits": {},
+      "end": null,
+      "begin": "2016",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "disambiguation": "Tiger Moth Tales",
+        "name": "Peter Jones",
+        "country": "GB",
+        "id": "a37342d1-0405-4457-a7a8-ff9ce6473780",
+        "sort-name": "Jones, Peter",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "ended": false,
+      "artist": {
+        "sort-name": "Clement, Denis",
+        "type": "Person",
+        "id": "e1307663-4c3b-4ebd-9061-adba53c0fb47",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": null,
+        "name": "Denis Clement"
+      },
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": null,
+      "attribute-credits": {},
+      "attributes": [
+        "percussion"
+      ],
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": null,
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e1307663-4c3b-4ebd-9061-adba53c0fb47",
+        "type": "Person",
+        "sort-name": "Clement, Denis",
+        "name": "Denis Clement",
+        "country": null,
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "type": "member of band",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "id": "a2930d99-e1c9-4ec8-a0f6-3c27136c4744",
+        "sort-name": "Paton, David",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "of Pilot",
+        "name": "David Paton",
+        "country": "GB"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "artist": {
+        "id": "8557005a-6846-4820-930a-610e6b65d4df",
+        "sort-name": "Rainbow, Chris",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Chris Rainbow",
+        "country": "GB"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": null,
+      "type": "member of band",
+      "end": null,
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Stuart Tosh",
+        "country": "GB",
+        "id": "cb44df12-a954-4494-a17a-9155b93fd684",
+        "sort-name": "Tosh, Stuart",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000943268",
+        "id": "b98f2c74-7a53-4acb-871a-3708ae301007"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type": "allmusic",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "BBC Music page",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "attribute-values": {},
+      "attributes": [],
+      "end": "2020-11-19",
+      "ended": true,
+      "url": {
+        "id": "f6d4ed62-c9a8-444a-a6d6-ae2e4f289919",
+        "resource": "https://www.bbc.co.uk/music/artists/94b7a39b-f3cc-4796-90dd-b1786a62877e"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type": "discogs",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.discogs.com/artist/140646",
+        "id": "7ffd93a8-ca4b-464a-94be-9260afeb204b"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.magenta.co.il/camel/",
+        "id": "0f219dda-0468-4585-a5fc-92d0b5fe5117"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "fanpage",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "free streaming",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "1c469022-1f2b-4606-8e41-b1199ec74c9a",
+        "resource": "https://open.spotify.com/artist/3Uz6jx81OY2J5K8Z4wmy2P"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "url": {
+        "id": "c76d2de1-39e9-467d-9938-4f5f06c82653",
+        "resource": "https://www.deezer.com/artist/12826"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "free streaming",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "IMDb",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.imdb.com/name/nm1961879/",
+        "id": "5e4fe9c1-5e7f-43ea-b099-6a323311e5b8"
+      },
+      "ended": false
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "last.fm",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.last.fm/music/Camel",
+        "id": "dff1af5a-8135-4adf-be0c-59159ad3ec70"
+      },
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "lyrics",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://muzikum.eu/en/122-6923/camel/lyrics.html",
+        "id": "bc76c2af-53bf-4902-acf9-61f8704b0801"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "lyrics",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://genius.com/artists/Camel",
+        "id": "db089c43-4f76-4b2a-b5b1-b15d664192ad"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type": "lyrics",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.musixmatch.com/artist/Camel",
+        "id": "31dc0e3a-2416-4ef0-b415-87c5e842b9f6"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "type": "official homepage",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "http://www.camelproductions.com/",
+        "id": "182d19b9-d8ec-485b-ab97-af33f8b90dc7"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "url": {
+        "id": "6d709aa4-8723-4f84-8887-1673a13f0f92",
+        "resource": "http://id.loc.gov/authorities/names/n94066904"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "200fe344-b560-4030-a478-91172b0417ea",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13902241r"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "url": {
+        "id": "f2643e00-b8dc-46e1-a02b-3648625857c2",
+        "resource": "https://d-nb.info/gnd/5239725-7"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://musicmoz.org/Bands_and_Artists/C/Camel/",
+        "id": "8b43599d-1c1b-460c-9a20-10492b98d916"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "id": "57a25165-bdce-419e-9955-85fdbd9bf0c0",
+        "resource": "https://rateyourmusic.com/artist/camel"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "resource": "https://www.45cat.com/artist/camel",
+        "id": "1f02f5ce-f25e-495a-8da9-cd0d0aa84877"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/camel/",
+        "id": "ddd1eca5-a704-4465-b115-19c152b346e9"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.muziekweb.nl/Link/M00000017997/POPULAR/",
+        "id": "ca51cd69-dd60-4cdf-8074-9e30610d64e6"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=50",
+        "id": "9b375eeb-43e4-4647-9a91-9a5656771c25"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "9eaee284-04b2-4690-b065-597ecf6c51ba",
+        "resource": "https://www.spirit-of-rock.com/en/band/Camel"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.whosampled.com/Camel/",
+        "id": "c3e926bd-a427-4130-98a7-82034bed0e37"
+      },
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-n94066904",
+        "id": "02b9f461-f87c-4f59-8eaa-7b0bec92d71c"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "attributes": [],
+      "end": "2020-10-12",
+      "type": "purchase for download",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "76b8d7d8-8c7b-48ab-809e-b9831a4262ff",
+        "resource": "https://play.google.com/store/music/artist?id=Aqviezmydf2b4x6qhjqfqx6xk4i"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://itunes.apple.com/us/artist/id2584590",
+        "id": "0aa668b7-f85a-42e3-8279-12eaed81eb47"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "purchase for download",
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "purchase for download",
+      "attributes": [],
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://mora.jp/artist/294303/",
+        "id": "9dc11558-3150-48f4-a93c-fd9c93707eaa"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "purchase for download",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/2584590",
+        "id": "6accaf60-16b9-4715-80fa-6b536cc4698c"
+      },
+      "ended": false
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "purchase for download",
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://music.apple.com/us/artist/2584590",
+        "id": "1d546d11-9249-47a3-a643-d2aedee506c1"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "purchase for download",
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.7digital.com/artist/camel-(1)",
+        "id": "10d1e26e-cfce-41cb-9308-10d5dc5a1596"
+      },
+      "ended": false
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "purchase for download",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.qobuz.com/gb-en/interpreter/camel/392313",
+        "id": "2c535fe6-e2b1-4f77-a46d-ba26cdf45c94"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "purchase for mail-order",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "5e523970-8fb5-4c5c-ab47-6d6bdf066792",
+        "resource": "https://www.cdjapan.co.jp/person/700185948"
+      },
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/98628",
+        "id": "83472bf8-0c93-46a1-afb0-ab68e7e03631"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "secondhandsongs",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "setlistfm",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/camel-13d6b52d.html",
+        "id": "754f9c26-b025-4ce0-9ad9-474c444836e2"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://twitter.com/camel_andylat",
+        "id": "9d4cb15a-a97b-4208-91c4-61f8330c2d9f"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "social network",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "social network",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "8adcfa37-cd91-4468-99a3-79a70a73bf02",
+        "resource": "https://www.facebook.com/Camel-Band-419562134853848"
+      },
+      "ended": false
+    },
+    {
+      "type": "songkick",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "6cdf556e-1d98-47da-b20b-7785ee0f354f",
+        "resource": "https://www.songkick.com/artists/116727"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type": "streaming",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "end": "2022-06-08",
+      "attributes": [],
+      "ended": true,
+      "url": {
+        "id": "51b4c4d7-f237-42e2-bb46-2fcdf5d76868",
+        "resource": "https://us.napster.com/artist/camel"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "ec8c6a29-b865-4818-9c56-5015624f48df",
+        "resource": "https://music.amazon.com/artists/B001GJG8SM"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/2584590",
+        "id": "6accaf60-16b9-4715-80fa-6b536cc4698c"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://music.apple.com/us/artist/2584590",
+        "id": "1d546d11-9249-47a3-a643-d2aedee506c1"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "streaming"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "streaming",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "7fe18f90-0d01-4cc3-acd8-e175d835cf0a",
+        "resource": "https://tidal.com/artist/30431"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "streaming",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "id": "2c535fe6-e2b1-4f77-a46d-ba26cdf45c94",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/camel/392313"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "b01252a0-d75a-4086-baa4-2777182e2f9d",
+        "resource": "http://viaf.org/viaf/154461646"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "VIAF",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "id": "e31e73da-2536-4333-8e95-b6e79aeb0604",
+        "resource": "https://www.wikidata.org/wiki/Q612471"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "wikidata",
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCspmlozehtbKJznjSKU_PCQ",
+        "id": "3dcd54be-fce9-4514-b293-1fe84df34941"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "type": "youtube",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "4a6b0279-fae7-4cd9-8d7d-9dbded5b4f80",
+        "resource": "https://music.youtube.com/channel/UC4p2hVcKHkxiYvwjrBbogvQ"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "youtube music",
+      "direction": "forward",
+      "target-type": "url"
+    }
+  ],
+  "name": "Camel",
+  "gender-id": null,
+  "country": "GB"
+}

@@ -1,0 +1,1349 @@
+{
+  "life-span": {
+    "begin": "1953-05-15",
+    "ended": false,
+    "end": null
+  },
+  "id": "a1684a49-feaa-4150-b758-d9412fc59f12",
+  "isnis": [
+    "0000000121225610"
+  ],
+  "area": {
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type": null,
+    "sort-name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "disambiguation": "",
+  "begin-area": {
+    "disambiguation": "",
+    "name": "Reading",
+    "id": "9f11c5cc-b4b5-4589-8476-bc863930caa7",
+    "type": null,
+    "sort-name": "Reading",
+    "iso-3166-2-codes": [
+      "GB-RDG"
+    ],
+    "type-id": null
+  },
+  "aliases": [
+    {
+      "locale": null,
+      "primary": null,
+      "ended": false,
+      "name": "M. Oldfield",
+      "begin": null,
+      "type": null,
+      "sort-name": "M. Oldfield",
+      "type-id": null,
+      "end": null
+    },
+    {
+      "primary": null,
+      "locale": null,
+      "ended": false,
+      "name": "Michael Gordon Oldfield",
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "end": null,
+      "begin": null,
+      "type": "Legal name",
+      "sort-name": "Oldfield, Michael Gordon"
+    },
+    {
+      "sort-name": "Oldfield, Michael",
+      "type": null,
+      "begin": null,
+      "type-id": null,
+      "end": null,
+      "primary": null,
+      "locale": null,
+      "name": "Michael Oldfield",
+      "ended": false
+    },
+    {
+      "name": "N OLDFIELD MICHAEL GORDO",
+      "ended": false,
+      "primary": null,
+      "locale": null,
+      "end": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "type": "Search hint",
+      "begin": null,
+      "sort-name": "N OLDFIELD MICHAEL GORDO"
+    },
+    {
+      "ended": false,
+      "name": "Oldfield",
+      "primary": null,
+      "locale": null,
+      "begin": null,
+      "type": null,
+      "sort-name": "Oldfield",
+      "end": null,
+      "type-id": null
+    },
+    {
+      "end": null,
+      "type-id": null,
+      "sort-name": "Oldfield, Mike",
+      "begin": null,
+      "type": null,
+      "ended": false,
+      "name": "Oldfield, Mike",
+      "locale": null,
+      "primary": null
+    },
+    {
+      "type-id": null,
+      "end": null,
+      "sort-name": "Oldfield Group, The Mike",
+      "type": null,
+      "begin": null,
+      "primary": null,
+      "locale": null,
+      "ended": false,
+      "name": "The Mike Oldfield Group"
+    },
+    {
+      "ended": false,
+      "name": "マイク・オールドフィールド",
+      "primary": false,
+      "locale": "ja",
+      "type": "Artist name",
+      "begin": null,
+      "sort-name": "マイク・オールドフィールド",
+      "end": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    }
+  ],
+  "sort-name": "Oldfield, Mike",
+  "type": "Person",
+  "end-area": null,
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "gender": "Male",
+  "ipis": [
+    "00047039093",
+    "00077497524"
+  ],
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "country": "GB",
+  "relations": [
+    {
+      "ended": false,
+      "artist": {
+        "country": "NO",
+        "name": "Anita Hegerland",
+        "disambiguation": "Norwegian singer",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Hegerland, Anita",
+        "id": "84739a63-ccf4-436d-bbbe-383a57064acf"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "type": "involved with",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "fd3927ba-fd51-4fa9-bcc2-e83637896fe8",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "ended": true,
+      "artist": {
+        "disambiguation": "first wife of Mike Oldfield",
+        "name": "Diana Fuller",
+        "country": null,
+        "id": "f0caf92d-4aa9-4ec1-89cc-e6ad5f72b673",
+        "sort-name": "Fuller, Diana",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "type": "married",
+      "begin": "1978",
+      "direction": "forward",
+      "target-type": "artist",
+      "type-id": "b2bf7a5d-2da6-4742-baf4-e38d8a7ad029",
+      "attribute-values": {},
+      "attributes": [],
+      "end": "1978"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "b2bf7a5d-2da6-4742-baf4-e38d8a7ad029",
+      "attribute-values": {},
+      "end": "1986",
+      "attributes": [],
+      "type": "married",
+      "begin": "1979",
+      "direction": "forward",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "wife of Mike Oldfield",
+        "country": null,
+        "name": "Sally Cooper",
+        "sort-name": "Cooper, Sally",
+        "type": "Person",
+        "id": "1115ba23-176c-4d3e-bf26-6aff80bff6e2",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "third wife of Mike Oldfield",
+        "country": null,
+        "name": "Fanny Vandekerckhove",
+        "sort-name": "Vandekerckhove, Fanny",
+        "type": "Person",
+        "id": "be6369b7-4a28-4da8-b1a8-a8572a0e7381",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "b2bf7a5d-2da6-4742-baf4-e38d8a7ad029",
+      "end": "2013",
+      "attributes": [],
+      "begin": "2002",
+      "type": "married",
+      "target-type": "artist",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1969",
+      "attributes": [],
+      "end": "1971",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Ayers, Kevin & The Whole World",
+        "id": "730127f0-727e-4c9c-8c9a-bf1da90ffae9",
+        "country": "GB",
+        "name": "Kevin Ayers & The Whole World",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "name": "Manor Choir",
+        "country": null,
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "62ca65b5-1e12-4700-9680-37b8c72e3cba",
+        "sort-name": "Manor Choir",
+        "type": "Group"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "artist",
+      "begin": null,
+      "type": "member of band",
+      "attributes": [],
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "name": "The Sallyangie",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "63cf1df4-5f93-4688-afde-8b241975bd8f",
+        "sort-name": "Sallyangie, The",
+        "type": "Group"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Greta Hegerland-Oldfield",
+        "country": null,
+        "id": "d2bccb9d-5213-42e2-86fc-7d80cb5ae40f",
+        "sort-name": "Hegerland-Oldfield, Greta",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": false,
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "parent",
+      "direction": "forward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "parent",
+      "target-type": "artist",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "name": "Molly Oldfield",
+        "sort-name": "Oldfield, Molly",
+        "type": "Person",
+        "id": "06e0b054-4f20-4ffb-bf60-7275ae947485",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Oldfield, Luke",
+        "type": "Person",
+        "id": "3031aa56-183c-4b59-b1ab-66d02c69872d",
+        "country": null,
+        "name": "Luke Oldfield",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "attributes": [],
+      "end": null,
+      "type": "parent",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3b838db4-8302-4838-b9d7-921f77695287",
+        "sort-name": "Oldfield, Sally",
+        "type": "Person",
+        "name": "Sally Oldfield",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "b42b7966-b904-449e-b8f9-8c7297b863d0",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "sibling",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "65e81187-96bc-497f-b2e4-f7a9d37113ea",
+        "type": "Person",
+        "sort-name": "Oldfield, Terry",
+        "name": "Terry Oldfield",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "type-id": "b42b7966-b904-449e-b8f9-8c7297b863d0",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "sibling",
+      "begin": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Cross, Tim",
+        "type": "Person",
+        "id": "935a9c22-fefd-4998-bf65-02af30226a3f",
+        "country": "GB",
+        "name": "Tim Cross",
+        "disambiguation": "UK keyboardist and producer"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type": "supporting musician",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "attributes": [],
+      "end": null,
+      "source-credit": "The Mike Oldfield Group",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Fenn, Rick",
+        "type": "Person",
+        "id": "e3f414ed-55bb-4b18-a4fd-6cc3379e3840",
+        "country": "GB",
+        "name": "Rick Fenn",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": null,
+      "type": "supporting musician",
+      "source-credit": "The Mike Oldfield Group",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "2c10248b-df8a-41be-acef-83c1e76baaaf",
+        "sort-name": "Frye, Mike",
+        "type": "Person",
+        "name": "Mike Frye",
+        "country": null,
+        "disambiguation": ""
+      },
+      "target-credit": "",
+      "source-credit": "The Mike Oldfield Group",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "supporting musician",
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "country": "GB",
+        "name": "Morris Pert",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Pert, Morris",
+        "id": "d91cc38d-a8ef-4daa-a848-a8efd50bb9ca"
+      },
+      "ended": false,
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "supporting musician",
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "The Mike Oldfield Group",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Maggie Reilly",
+        "country": "GB",
+        "id": "656ad517-b741-47ba-845a-e6ea223d8b39",
+        "sort-name": "Reilly, Maggie",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "attributes": [],
+      "end": null,
+      "type": "supporting musician",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "The Mike Oldfield Group"
+    },
+    {
+      "ended": false,
+      "artist": {
+        "disambiguation": "Mike Oldfield tribute band",
+        "name": "Tubular Tribute",
+        "country": "ES",
+        "id": "39029661-2e6a-4d7c-b24d-eef790543ae9",
+        "type": "Group",
+        "sort-name": "Tubular Tribute",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "tribute",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "attributes": [],
+      "end": null,
+      "type": "vocal supporting musician",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "name": "Luke Spiller",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "bbce9c58-673f-4905-a052-020fa90af633",
+        "sort-name": "Spiller, Luke",
+        "type": "Person"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000489520",
+        "id": "f23fd745-68bc-48b5-ba41-f6e9a2c7d613"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "type": "allmusic",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "end": "2020-11-19",
+      "attributes": [],
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "BBC Music page",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/a1684a49-feaa-4150-b758-d9412fc59f12",
+        "id": "49b6cd38-03cc-4839-b96b-8b766b03edd6"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "discogs",
+      "ended": false,
+      "url": {
+        "id": "050b412e-8559-4d2a-a7fc-cbdc1782160e",
+        "resource": "https://www.discogs.com/artist/18666"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "fd0892c7-d06e-417b-aaa5-523ee90dd04f",
+        "resource": "http://tubular.net/"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "end": null,
+      "attributes": [],
+      "type": "fanpage",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "0a94e27a-fcf3-4faf-8683-3c5675f3150f",
+        "resource": "http://www.mikeoldfield.org/"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "fanpage"
+    },
+    {
+      "type": "fanpage",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "e99edc1e-4d15-4fb2-af54-54a4208df68d",
+        "resource": "http://www.amadian.net/"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn",
+        "id": "a6b3bb4c-8c98-48bc-a391-0c882d78f74c"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "free streaming",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "type": "free streaming",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.deezer.com/artist/990",
+        "id": "62dd12b5-3b4c-4c26-a7cc-1afbe9c1e678"
+      },
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "image",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "8b28af92-93bc-4b8a-993f-ba567844052b",
+        "resource": "https://commons.wikimedia.org/wiki/File:Mike_Oldfield_by_Alexander_Schweigert_2.jpg"
+      }
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "IMDb",
+      "end": null,
+      "attributes": [],
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "71e25ce7-842e-445c-8543-0674898e2cce",
+        "resource": "https://www.imdb.com/name/nm0646131/"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "type": "last.fm",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.last.fm/music/Mike+Oldfield",
+        "id": "42d25460-05bf-4e98-8e12-eaed7c90e872"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "type": "lyrics",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "41f20430-41f4-419e-85af-9cc7ba84ad73",
+        "resource": "http://muzikum.eu/en/122-5454/mike-oldfield/lyrics.html"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "lyrics",
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://genius.com/artists/Mike-oldfield",
+        "id": "8013c06d-a031-4a46-ba32-09761ba4ce51"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://myspace.com/michaeloldfield",
+        "id": "ae6aa541-8281-4731-b078-0c3b93c810bd"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "myspace",
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "official homepage",
+      "end": "2009",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "7d3427b9-617f-41c0-b65d-9ab837eb578e",
+        "resource": "http://www.mikeoldfield.com/"
+      },
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "official homepage",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://mikeoldfieldofficial.com/",
+        "id": "9abe7e9c-cd4c-445e-bcd8-1b6e3de4f463"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/nr89009927",
+        "id": "87ab4756-8436-4635-a77c-bbbd99b7b994"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type": "other databases",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "url": {
+        "id": "b7dc736e-7830-4a5d-a600-cd45d0cc5323",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb138980869"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "resource": "https://d-nb.info/gnd/119287846",
+        "id": "7cb7ace4-1c99-4976-be6a-fc1883128ad0"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "2ab4de0f-1a97-4318-824f-e349ea95101a",
+        "resource": "https://ibdb.com/person.php?id=84092"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "id": "c48345cb-7d5c-4e07-bc7f-09202140af25",
+        "resource": "https://imvdb.com/n/mike-oldfield"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "01608404-1d5b-4e4f-a978-48ca67aa239a",
+        "resource": "https://musicmoz.org/Bands_and_Artists/O/Oldfield,_Mike/"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "url": {
+        "id": "a843ee60-8ec0-47ca-9cd8-572ba8c7894d",
+        "resource": "http://snaccooperative.org/ark:/99166/w6bk4ntx"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type": "other databases",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://nla.gov.au/nla.party-1161331",
+        "id": "e34774ba-74c7-4405-a0c2-e71596317055"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "88440436-169e-4309-8a86-af66c6ff7ecf",
+        "resource": "https://openlibrary.org/works/OL5900113A"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/mike-oldfield",
+        "id": "1f1da1d4-fffa-4c7a-8746-a69f3f801c06"
+      },
+      "ended": false
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.45cat.com/artist/mike-oldfield",
+        "id": "f5b7a4b4-11d5-4191-85ae-9d8cbbb4b03b"
+      },
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/mike-oldfield/",
+        "id": "240ca6e9-99df-4dd5-9bc6-9ed5007ce811"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-nr89009927/",
+        "id": "8d891732-f37d-4fd7-8922-7e05786c3853"
+      },
+      "ended": false,
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "def92a97-2dde-4d6c-bac5-033795291708",
+        "resource": "https://itunes.apple.com/artist/id259271"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "purchase for download",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "d291e87b-8254-4049-b88d-30c9ca0309e0",
+        "resource": "https://www.qobuz.com/us-en/interpreter/mike-oldfield/15786"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "purchase for download",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "url": {
+        "id": "2c01ea65-aeb3-4862-97df-9a18b80069f7",
+        "resource": "https://secondhandsongs.com/artist/1031"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "type": "secondhandsongs",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://twitter.com/gordenmikefield",
+        "id": "7c17c655-acc5-4654-a914-0213ef1b7f36"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "type": "social network",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "0737582a-f89c-46ab-9e27-b7ffa2637550",
+        "resource": "https://www.facebook.com/MikeOldfieldOfficial"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "type": "social network",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.songkick.com/artists/486950",
+        "id": "f7666a35-8c22-4768-abfa-3d0ee22b9c58"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "songkick",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58"
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "soundcloud",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "1bcf0bcd-b5bf-4c14-886b-d97075289c90",
+        "resource": "https://soundcloud.com/mikeoldfieldofficial"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "f2ece922-5231-4848-9fa0-2c2a6e4c2fa9",
+        "resource": "https://music.apple.com/gb/artist/259271"
+      },
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://tidal.com/artist/9683",
+        "id": "ca2eec71-8e53-4299-8b82-04fdd0233846"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "type": "streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/mike-oldfield/15786",
+        "id": "d291e87b-8254-4049-b88d-30c9ca0309e0"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "0bbfedcb-7f09-4420-8a82-fad349451112",
+        "resource": "https://vgmdb.net/artist/16901"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "vgmdb",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "0af15ab3-c615-46d6-b95b-a5fcd2a92ed9",
+      "attributes": [],
+      "end": null
+    },
+    {
+      "url": {
+        "resource": "http://viaf.org/viaf/17408408",
+        "id": "3e980f7e-7a1e-424c-952c-a0cf47e7169c"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "VIAF",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q3008",
+        "id": "86030c22-e1bb-4a9b-a267-76e5a990b5d0"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "wikidata",
+      "begin": null
+    },
+    {
+      "url": {
+        "resource": "https://www.youtube.com/user/MikeOldfieldVEVO",
+        "id": "f8b2fe85-7f73-4857-ac1a-958b0e1e6c9e"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "youtube",
+      "attributes": [],
+      "end": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": ""
+    }
+  ],
+  "name": "Mike Oldfield"
+}
