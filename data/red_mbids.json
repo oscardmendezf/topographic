@@ -1,0 +1,276 @@
+{
+  "eddy-offord": {
+    "estado": "ok",
+    "mbid": "6efaac60-7f0a-420e-aca4-8b92de1ab021",
+    "mb_name": "Eddy Offord",
+    "disambiguation": "",
+    "score": 100,
+    "candidatos": [
+      {
+        "mbid": "6efaac60-7f0a-420e-aca4-8b92de1ab021",
+        "name": "Eddy Offord",
+        "dis": "",
+        "score": 100
+      }
+    ],
+    "entidad": "artist"
+  },
+  "david-hitchcock": {
+    "estado": "ok",
+    "mbid": "cb996f02-cf08-4bd8-94c3-d7624c806c25",
+    "mb_name": "David Hitchcock",
+    "disambiguation": "producer and engineer, Decca Records",
+    "score": 100,
+    "candidatos": [
+      {
+        "mbid": "cb996f02-cf08-4bd8-94c3-d7624c806c25",
+        "name": "David Hitchcock",
+        "dis": "producer and engineer, Decca Records",
+        "score": 100
+      }
+    ],
+    "entidad": "artist"
+  },
+  "david-bedford": {
+    "estado": "ok",
+    "mbid": "9ce57631-2ee4-4203-a801-cd205cf5d57c",
+    "mb_name": "David Bedford",
+    "disambiguation": "composer",
+    "score": 100,
+    "candidatos": [
+      {
+        "mbid": "9ce57631-2ee4-4203-a801-cd205cf5d57c",
+        "name": "David Bedford",
+        "dis": "composer",
+        "score": 100
+      },
+      {
+        "mbid": "8a27f80e-7dfa-46cd-9adb-b718b5b0426a",
+        "name": "David Bedford",
+        "dis": "Producer for Caleb in the Cables",
+        "score": 91
+      }
+    ],
+    "entidad": "artist"
+  },
+  "tom-newman": {
+    "estado": "ok",
+    "mbid": "4591edc2-73a2-4361-950d-f8e219e63e16",
+    "mb_name": "Tom Newman",
+    "disambiguation": "producer, guitarist",
+    "score": 100,
+    "candidatos": [
+      {
+        "mbid": "4591edc2-73a2-4361-950d-f8e219e63e16",
+        "name": "Tom Newman",
+        "dis": "producer, guitarist",
+        "score": 100
+      }
+    ],
+    "entidad": "artist"
+  },
+  "keith-tippett": {
+    "estado": "ok",
+    "mbid": "8bc128be-1d17-41c5-a863-33d4d3eb36d2",
+    "mb_name": "Keith Tippett",
+    "disambiguation": "",
+    "score": 100,
+    "candidatos": [
+      {
+        "mbid": "8bc128be-1d17-41c5-a863-33d4d3eb36d2",
+        "name": "Keith Tippett",
+        "dis": "",
+        "score": 100
+      },
+      {
+        "mbid": "a45ad178-9a8b-44cb-864e-2a45a9938a99",
+        "name": "Keith Tippett's Ark",
+        "dis": "",
+        "score": 81
+      },
+      {
+        "mbid": "a91c83eb-d6d1-4dd7-bbb9-121117839e86",
+        "name": "Keith Tippett Septet",
+        "dis": "",
+        "score": 81
+      },
+      {
+        "mbid": "14e58726-7448-4a77-b992-80b07e305c82",
+        "name": "The Keith Tippett Group",
+        "dis": "",
+        "score": 79
+      }
+    ],
+    "entidad": "artist"
+  },
+  "roger-dean": {
+    "estado": "ok",
+    "mbid": "b4688936-9f2a-4adb-93c4-1b7bbb924af1",
+    "mb_name": "Roger Dean",
+    "disambiguation": "English designer",
+    "score": 99,
+    "candidatos": [
+      {
+        "mbid": "d007536e-5822-4b49-a4b0-2a741fe8c3c4",
+        "name": "Roger Dean",
+        "dis": "British-Australian musician, academic, biochemist and cognitive scientist",
+        "score": 100
+      },
+      {
+        "mbid": "01f33468-21dc-49b3-996a-76da29dc5579",
+        "name": "Roger Dean",
+        "dis": "Blues guitar player",
+        "score": 99
+      },
+      {
+        "mbid": "b4688936-9f2a-4adb-93c4-1b7bbb924af1",
+        "name": "Roger Dean",
+        "dis": "English designer",
+        "score": 99
+      },
+      {
+        "mbid": "f9c90870-4b96-4f29-954a-463be84dc5d4",
+        "name": "Roger Dean Young & The Tin Cup",
+        "dis": "",
+        "score": 81
+      }
+    ],
+    "entidad": "artist"
+  },
+  "dave-stewart": {
+    "estado": "ok",
+    "mbid": "c7b11c65-595f-4238-893b-36be934ebda9",
+    "mb_name": "Dave Stewart",
+    "disambiguation": "Canterbury keyboardist, not the Eurythmics’ Dave Stewart",
+    "score": 93,
+    "candidatos": [
+      {
+        "mbid": "183da50a-b033-408e-862b-cab1c2425cff",
+        "name": "Dave Stewart",
+        "dis": "UK guitarist/singer for Eurythmics",
+        "score": 100
+      },
+      {
+        "mbid": "c7b11c65-595f-4238-893b-36be934ebda9",
+        "name": "Dave Stewart",
+        "dis": "Canterbury keyboardist, not the Eurythmics’ Dave Stewart",
+        "score": 93
+      },
+      {
+        "mbid": "77c20400-148e-4631-ab76-f7d49528642c",
+        "name": "Dave Stewart",
+        "dis": "Street musician playing mostly in Sweden",
+        "score": 87
+      },
+      {
+        "mbid": "d4922b12-74c0-4626-b563-2edde5b9010b",
+        "name": "Dave Stewart",
+        "dis": "graphic design",
+        "score": 80
+      }
+    ],
+    "entidad": "artist"
+  },
+  "hipgnosis": {
+    "estado": "ok",
+    "mbid": "fd1a4572-59ca-40f2-8f55-b82be28bb0ff",
+    "mb_name": "Hipgnosis",
+    "disambiguation": "UK art design group",
+    "score": 95,
+    "candidatos": [
+      {
+        "mbid": "82f59d54-597d-4e55-8175-6b7ae5a52d4f",
+        "name": "Hipgnosis",
+        "dis": "polish rock group",
+        "score": 100
+      },
+      {
+        "mbid": "fd1a4572-59ca-40f2-8f55-b82be28bb0ff",
+        "name": "Hipgnosis",
+        "dis": "UK art design group",
+        "score": 95
+      }
+    ],
+    "entidad": "artist"
+  },
+  "virgin-records": {
+    "estado": "ok",
+    "mbid": "49b58bdb-3d74-40c6-956a-4c4b46115c9c",
+    "mb_name": "Virgin",
+    "disambiguation": "worldwide imprint of Virgin Records Ltd. and all its subsidiaries",
+    "score": 100,
+    "candidatos": [
+      {
+        "mbid": "49b58bdb-3d74-40c6-956a-4c4b46115c9c",
+        "name": "Virgin",
+        "dis": "worldwide imprint of Virgin Records Ltd. and all its subsidiaries",
+        "score": 100
+      },
+      {
+        "mbid": "7689c51f-e09e-4e85-80d0-b95a9e23d216",
+        "name": "Virgin Music",
+        "dis": "a J-Pop division of Universal Music Japan, 2014–present. Do not use for VMLAS/VMG or for American/European music!",
+        "score": 74
+      },
+      {
+        "mbid": "aeae98ea-d990-4312-a3ec-e27b04a2715f",
+        "name": "Virgin Classics",
+        "dis": "absorbed into Erato since 2013-07-19",
+        "score": 73
+      },
+      {
+        "mbid": "7c439400-a83c-48bc-9042-2041711c9599",
+        "name": "Virgin Records",
+        "dis": "J-Pop / Japanese domestic artist roster under UNIVERSAL MUSIC JAPAN's Virgin Music division (previously EMI Music Japan / Toshiba EMI). Do not use for international artists!",
+        "score": 72
+      }
+    ],
+    "entidad": "label"
+  },
+  "manticore": {
+    "estado": "ok",
+    "mbid": "d6b9de78-87e0-4a78-a684-b5b14231e229",
+    "mb_name": "Manticore",
+    "disambiguation": "",
+    "score": 100,
+    "candidatos": [
+      {
+        "mbid": "d6b9de78-87e0-4a78-a684-b5b14231e229",
+        "name": "Manticore",
+        "dis": "",
+        "score": 100
+      },
+      {
+        "mbid": "5eee88a6-f033-409e-8b73-7fcaac0fc740",
+        "name": "Manticore Recordings",
+        "dis": "",
+        "score": 61
+      },
+      {
+        "mbid": "40faec6a-db46-4b41-8976-d56385f41823",
+        "name": "Manticore Millionerds",
+        "dis": "",
+        "score": 56
+      },
+      {
+        "mbid": "6f1c9169-3530-4d97-b79a-b9100718903a",
+        "name": "Manticore Vaults",
+        "dis": "",
+        "score": 56
+      }
+    ],
+    "entidad": "label"
+  },
+  "charisma-tony-stratton-smith": {
+    "estado": "compuesto",
+    "mbid": null
+  },
+  "advision-trident-abbey-road-the-manor": {
+    "estado": "compuesto",
+    "mbid": null
+  },
+  "steve-y-john-hackett": {
+    "estado": "compuesto",
+    "mbid": null
+  }
+}

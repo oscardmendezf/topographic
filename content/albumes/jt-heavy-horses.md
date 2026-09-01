@@ -1,0 +1,14 @@
+---
+tipo: "album"
+slug: "jt-heavy-horses"
+titulo: "Heavy Horses"
+artista: "Jethro Tull"
+artista_slug: "jt"
+anio_ficha: 1978
+mb_rgid: "08dcf82b-d418-3800-9427-b4aabc6a64d3"
+primer_lanzamiento: "1978-04-10"
+charts_texto: "UK 19 · US 20"
+charts_estado: "verificado"
+---
+
+Elegía a los caballos de tiro y al mundo rural que se extinguía. Par del anterior y quizá superior: Anderson escribiendo sobre lo que ama en vez de contra lo que odia.
