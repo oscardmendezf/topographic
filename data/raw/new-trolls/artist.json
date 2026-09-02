@@ -1,0 +1,587 @@
+{
+  "gender-id": null,
+  "country": "IT",
+  "gender": null,
+  "end-area": null,
+  "aliases": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": null,
+  "relations": [
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1967",
+      "ended": true,
+      "end": "1972",
+      "artist": {
+        "type": "Person",
+        "name": "Giorgio D'Adamo",
+        "disambiguation": "",
+        "country": "IT",
+        "sort-name": "D'Adamo, Giorgio",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "82a3c32f-cbb9-402f-b65e-ad89b23af49a"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar",
+        "original"
+      ],
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "artist": {
+        "disambiguation": "drummer",
+        "type": "Person",
+        "name": "Gianni Belleno",
+        "id": "aa9399b7-c5c2-4abc-8186-9ababddd765f",
+        "country": "IT",
+        "sort-name": "Belleno, Gianni",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1991",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1967",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "bass guitar",
+        "original"
+      ],
+      "target-type": "artist",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "IT",
+        "sort-name": "D'Adamo, Giorgio",
+        "id": "82a3c32f-cbb9-402f-b65e-ad89b23af49a",
+        "name": "Giorgio D'Adamo",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1980",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1975",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "IT",
+        "sort-name": "Belloni, Ricky",
+        "id": "cddc6ea0-eb8d-40f9-bc40-a88cca0fdcf6",
+        "name": "Ricky Belloni",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "country": "IT",
+        "sort-name": "De Piscopo, Tullio",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f5a2a32e-3fbb-46c9-b34d-dca87250aa47",
+        "type": "Person",
+        "name": "Tullio De Piscopo",
+        "disambiguation": "Italian drummer, percussionist and singer"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "name": "Vittorio De Scalzi",
+        "disambiguation": "multi-instrumentalist, songwriter and singer",
+        "sort-name": "De Scalzi, Vittorio",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "08df71eb-9e58-4248-a2fe-128ddc40bb6e"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ]
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "id": "a4948e41-3b0a-4b05-8baa-78d116cba0fc",
+        "sort-name": "Di Palo, Nico",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Nico Di Palo"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": null,
+      "artist": {
+        "disambiguation": "Italian singer and keyboard player",
+        "name": "Giorgio Usai",
+        "type": "Person",
+        "id": "c0267d6c-3502-465d-8d80-c4256fd7a7cc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Usai, Giorgio",
+        "country": null
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "allmusic",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000337685",
+        "id": "8d28e03e-0544-4ab1-86da-5f804ebc14c1"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "biography",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "e1c19048-e9b9-4514-aad8-fbad8a6909d1",
+        "resource": "http://rockfaces.ru/n/newtrolls.htm"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "blog",
+      "url": {
+        "id": "1149bb29-3a9c-4f6a-b7ea-a94262c89e9e",
+        "resource": "http://www.newtrolls.eu/"
+      },
+      "end": null,
+      "ended": true,
+      "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discogs",
+      "direction": "forward",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "439a5fad-fe47-413c-9c2e-f63634d7e952",
+        "resource": "https://www.discogs.com/artist/560713"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://open.spotify.com/artist/5RN8L3RHQZ87m7gNWUyFmu",
+        "id": "47783077-cc36-4d16-a616-ac093d27cf5e"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/15491",
+        "id": "4a71bbcb-5932-4c3b-a987-baa9b5340d6a"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://myspace.com/newtrollsofficial",
+        "id": "74312fcd-9f09-456a-8aee-3a91ab89fe1c"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "direction": "forward",
+      "type": "myspace",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "http://www.newtrolls.it/",
+        "id": "c817afce-a7af-433b-a966-964cb57a1f1a"
+      },
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "official homepage",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "id": "f36bb6b1-749a-473c-8972-82af5945188d",
+        "resource": "http://id.loc.gov/authorities/names/no2011050541"
+      },
+      "end": null,
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "id": "9a4d0316-9f67-4ae4-8a62-bd1f40cb1ab8",
+        "resource": "https://rateyourmusic.com/artist/new_trolls"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.45cat.com/artist/new-trolls",
+        "id": "bf4f0b49-b23c-40c8-9659-17689298f440"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "7d38b18f-6e0c-4d00-a7a9-dbfc3d075331",
+        "resource": "https://www.progarchives.com/artist.asp?id=583"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "31369fd1-7107-4385-a3a1-e8d7145e42ab",
+        "resource": "https://www.worldcat.org/identities/lccn-no2011050541"
+      },
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://itunes.apple.com/us/artist/id27019400",
+        "id": "d88e650b-285a-4104-8658-b531c71ca2bf"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "setlistfm",
+      "end": null,
+      "url": {
+        "id": "f72f9bce-7d74-428e-ae82-de053bf1c054",
+        "resource": "https://www.setlist.fm/setlists/new-trolls-53d7a399.html"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "020d56b4-8270-47ca-a658-af1511e6fc9f",
+        "resource": "https://www.songkick.com/artists/392149"
+      },
+      "ended": false,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "songkick",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "VIAF",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "http://viaf.org/viaf/151392481",
+        "id": "9e5d269a-0f4a-4067-9d33-6674216548af"
+      }
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikidata",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q654537",
+        "id": "93e2e444-75e6-431c-a14f-4ad142b109ab"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCc3YrUfAlJXt8JHwqPQ5Dqg",
+        "id": "136e57e0-dcaa-416e-80d5-5b4bb33783f3"
+      },
+      "type": "youtube music",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    }
+  ],
+  "sort-name": "New Trolls",
+  "isnis": [
+    "0000000106726089"
+  ],
+  "id": "26731107-6ed9-4c1d-98d1-a2ec3f5becbc",
+  "life-span": {
+    "begin": "1967",
+    "ended": true,
+    "end": "1997"
+  },
+  "name": "New Trolls",
+  "type": "Group",
+  "area": {
+    "disambiguation": "",
+    "name": "Italy",
+    "type": null,
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "IT"
+    ],
+    "sort-name": "Italy"
+  },
+  "disambiguation": "",
+  "ipis": []
+}

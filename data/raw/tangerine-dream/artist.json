@@ -1,0 +1,1824 @@
+{
+  "gender": null,
+  "country": "DE",
+  "gender-id": null,
+  "end-area": null,
+  "aliases": [
+    {
+      "type": null,
+      "primary": null,
+      "name": "Franke, Froese, Schmoelling",
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "sort-name": "Franke, Froese, Schmoelling",
+      "begin": null,
+      "type-id": null
+    },
+    {
+      "end": null,
+      "locale": null,
+      "ended": false,
+      "type-id": null,
+      "begin": null,
+      "sort-name": "Tangeine Dream",
+      "name": "Tangeine Dream",
+      "primary": null,
+      "type": null
+    },
+    {
+      "locale": null,
+      "ended": false,
+      "end": null,
+      "sort-name": "Tangerine Dream with Turner, Kathleen",
+      "type-id": null,
+      "begin": null,
+      "type": null,
+      "primary": null,
+      "name": "Tangerine Dream with Kathleen Turner"
+    },
+    {
+      "name": "タンジェリン・ドリーム",
+      "type": "Artist name",
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "begin": null,
+      "sort-name": "タンジェリン・ドリーム",
+      "end": null,
+      "locale": "ja",
+      "ended": false
+    },
+    {
+      "sort-name": "탠저린 드림",
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "ended": false,
+      "locale": "ko",
+      "end": null,
+      "type": "Artist name",
+      "primary": true,
+      "name": "탠저린 드림"
+    }
+  ],
+  "relations": [
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "artistic director",
+      "artist": {
+        "id": "706e6afe-2111-4cf0-91b2-fbc2143dec0c",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Quaeschning, Thorsten",
+        "disambiguation": "",
+        "name": "Thorsten Quaeschning",
+        "type": "Person"
+      },
+      "end": null,
+      "ended": false,
+      "begin": "2015",
+      "type-id": "ab666dde-bd85-4ac2-a209-165eaf4146a0",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "begin": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "1969",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hapshash, Lanse",
+        "country": "DE",
+        "id": "ea855b0c-cf71-4602-b710-42dd31d56877",
+        "name": "Lanse Hapshash",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1969",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Volker Hombach",
+        "id": "026dc864-4ec4-4688-bd1f-404b74c4db25",
+        "sort-name": "Hombach, Volker",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1967",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "end": "1969",
+      "artist": {
+        "id": "4e4030fa-b910-4168-a651-1bf525aa41cc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Prince, Charlie",
+        "disambiguation": "German vocalist",
+        "name": "Charlie Prince",
+        "type": "Person"
+      },
+      "ended": true,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "id": "610a62e8-541b-42e4-a3fe-8dd595be93a8",
+        "country": "DE",
+        "sort-name": "Froese, Edgar",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Edgar Froese"
+      },
+      "end": "2015",
+      "ended": true,
+      "begin": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "source-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1968",
+      "attribute-ids": {},
+      "artist": {
+        "id": "6f5d3c5c-63ae-462d-ae5f-3c3ceda19eed",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Herkenberg, Kurt",
+        "disambiguation": "",
+        "name": "Kurt Herkenberg",
+        "type": "Person"
+      },
+      "end": "1969",
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1969-09",
+      "ended": true,
+      "end": "1970",
+      "artist": {
+        "type": "Person",
+        "name": "Conrad Schnitzler",
+        "disambiguation": "German experimental electronic musician",
+        "country": "DE",
+        "sort-name": "Schnitzler, Conrad",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "69f20d99-1e04-4a18-aa6b-d31cd5331267"
+      }
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": "1969",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Jolliffe, Steve",
+        "country": "GB",
+        "id": "129710cf-c4d8-4f2c-a09a-c9700eae7406",
+        "name": "Steve Jolliffe",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1969",
+      "ended": true,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": "1969",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "German electronic musician",
+        "name": "Klaus Schulze",
+        "type": "Person",
+        "id": "2e710b0c-6ff3-4c21-87d5-16ebbbca212c",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Schulze, Klaus"
+      },
+      "end": "1970",
+      "ended": true
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "ended": true,
+      "end": "1972",
+      "artist": {
+        "name": "Steve Schroyder",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Schroyder, Steve",
+        "country": "DE",
+        "id": "fda80813-fcc3-427e-8dbc-6b2bc1aef9ed"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "attribute-ids": {},
+      "artist": {
+        "id": "bcd4d5a5-635c-4f93-b01d-a00a138f947e",
+        "country": "DE",
+        "sort-name": "Baumann, Peter",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "member of Berlin Express & Tangerine Dream",
+        "type": "Person",
+        "name": "Peter Baumann"
+      },
+      "end": "1977",
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "attribute-ids": {},
+      "artist": {
+        "country": "DE",
+        "sort-name": "Franke, Christopher",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c3a7d505-6ff3-45dc-a45b-b2fb6e39ad1a",
+        "type": "Person",
+        "name": "Christopher Franke",
+        "disambiguation": "German musician, formerly with Tangerine Dream"
+      },
+      "end": "1987",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "name": "Michael Hoenig",
+        "disambiguation": "",
+        "sort-name": "Hoenig, Michael",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3215500f-f03e-4adf-94fe-5ca842e17f5b"
+      },
+      "end": "1975-04-02",
+      "attribute-ids": {},
+      "begin": "1975-02",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1977",
+      "ended": true,
+      "end": "1978",
+      "artist": {
+        "type": "Person",
+        "name": "Steve Jolliffe",
+        "disambiguation": "",
+        "sort-name": "Jolliffe, Steve",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "129710cf-c4d8-4f2c-a09a-c9700eae7406"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1978",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Krüger, Klaus",
+        "country": "DE",
+        "id": "d1d75773-5ead-4f4a-b17d-1c9b170e3056",
+        "name": "Klaus Krüger",
+        "type": "Person",
+        "disambiguation": "briefly a member of Tangerine Dream"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1978",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1986",
+      "artist": {
+        "country": "DE",
+        "sort-name": "Schmoelling, Johannes",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "761e3ff1-7b7e-4ff7-86c9-9ee06d5ecfb3",
+        "type": "Person",
+        "name": "Johannes Schmoelling",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1979-12",
+      "attribute-ids": {}
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "1986",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1990",
+      "artist": {
+        "disambiguation": "Austrian score composer",
+        "type": "Person",
+        "name": "Paul Haslinger",
+        "id": "4c03129a-8d3f-464c-90a8-418ed6bfcd00",
+        "sort-name": "Haslinger, Paul",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1989",
+      "artist": {
+        "id": "ee70b0a1-77b2-4833-add6-6edfe6efda54",
+        "country": "DE",
+        "sort-name": "Wadephul, Ralf",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Ralf Wadephul"
+      },
+      "ended": true,
+      "begin": "1988",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": "2006",
+      "artist": {
+        "disambiguation": "",
+        "name": "Jerome Froese",
+        "type": "Person",
+        "id": "14f6120f-d770-4e3c-a9b6-dc12ade09452",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Froese, Jerome"
+      },
+      "ended": true,
+      "begin": "1989",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "country": "AT",
+        "sort-name": "Spa, Linda",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "fe37b36b-a60b-41b7-8040-9b9686db0234",
+        "type": "Person",
+        "name": "Linda Spa",
+        "disambiguation": ""
+      },
+      "end": "1996",
+      "attribute-ids": {},
+      "begin": "1991",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "begin": "1992",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "end": "1997",
+      "artist": {
+        "sort-name": "Perica, Zlatko",
+        "country": "CH",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "662bb78b-fba0-4738-88c4-ab0c55ba4786",
+        "type": "Person",
+        "name": "Zlatko Perica",
+        "disambiguation": "Slädu"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2001",
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "name": "Iris Camaa",
+        "type": "Person",
+        "id": "66b78df3-c027-49b3-9af6-b271ccf4ee7a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "XE",
+        "sort-name": "Camaa, Iris"
+      },
+      "end": "2014",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "2014",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "AT",
+        "sort-name": "Spa, Linda",
+        "id": "fe37b36b-a60b-41b7-8040-9b9686db0234",
+        "name": "Linda Spa",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2005",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "name": "Thorsten Quaeschning",
+        "disambiguation": "",
+        "sort-name": "Quaeschning, Thorsten",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "706e6afe-2111-4cf0-91b2-fbc2143dec0c"
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2005",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "name": "Bernhard Beibl",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Beibl, Bernhard",
+        "id": "0418b2a7-3564-4481-9515-6f8fd74e31db"
+      },
+      "end": "2014",
+      "attribute-ids": {},
+      "begin": "2006",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "cello",
+        "violin"
+      ],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "c8e589cf-1e8c-437e-82c4-082c235cc2b4",
+        "sort-name": "Yamane, Hoshiko",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Hoshiko Yamane"
+      },
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357",
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2011",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "2020",
+      "artist": {
+        "country": "DE",
+        "sort-name": "Schnauss, Ulrich",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "29f6333a-b4c8-4416-8fdf-598bcef1122a",
+        "type": "Person",
+        "name": "Ulrich Schnauss",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2014",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2020-06-09",
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Paul Frick",
+        "type": "Person",
+        "id": "38c434e6-d4e4-4811-9e01-abf264b4b913",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Frick, Paul",
+        "country": "DE"
+      },
+      "end": null,
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "da82d694-d7eb-4fa5-8c50-ab0eaf23abca",
+        "resource": "https://www.allmusic.com/artist/mn0000002411"
+      },
+      "ended": false,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "allmusic",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "bandcamp",
+      "url": {
+        "resource": "https://tangerinedream.bandcamp.com/",
+        "id": "ad68016e-229d-4bd1-8b40-189a911634bb"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "301c8891-7ab5-49fe-8aa7-557bd1b01827",
+        "resource": "https://tangerinedreamofficial.bandcamp.com/"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "bandcamp",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "bandsintown",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.bandsintown.com/a/12666",
+        "id": "d2548ee8-8fd9-42fb-a7d9-76ec363e6750"
+      },
+      "attribute-ids": {},
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "begin": null
+    },
+    {
+      "ended": true,
+      "end": "2020-11-19",
+      "url": {
+        "id": "4a318f30-c847-436c-97b5-7a3d89ce6360",
+        "resource": "https://www.bbc.co.uk/music/artists/23d8426c-18c7-46e6-a51d-7395bd43c641"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "direction": "forward",
+      "type": "BBC Music page",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.voices-in-the-net.de/",
+        "id": "ca79b7df-4ff9-431f-9a7a-3613d6972e1b"
+      },
+      "type": "discography page",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.discogs.com/artist/10343",
+        "id": "a9622027-51c2-43fa-b887-27a96cccd8ea"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discogs"
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl",
+        "id": "6c801277-65fb-465c-b402-47bdb3dbf8e9"
+      },
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "free streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/1151",
+        "id": "e3a99e4e-8825-41ee-97b9-8694de77388a"
+      }
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "97294570-7cbc-4776-9ee2-4edf65ce99d0",
+        "resource": "https://commons.wikimedia.org/wiki/File:Tangerine-dream-ebw-2.jpg"
+      },
+      "ended": false,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "image"
+    },
+    {
+      "type": "IMDb",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "2ac16d65-281a-4f72-97ca-034ec75e8b58",
+        "resource": "https://www.imdb.com/name/nm1725839/"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.last.fm/music/Tangerine+Dream",
+        "id": "1e6839ba-d2b9-4f5c-865b-23929614809e"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "last.fm",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://genius.com/artists/Tangerine-dream",
+        "id": "f00d88b3-e100-42fb-86e9-2f6f6b71a706"
+      },
+      "end": null,
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "id": "659546e3-cb13-4345-a43a-36313aad472c",
+        "resource": "https://www.tangerinedreammusic.com/"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "official homepage"
+    },
+    {
+      "ended": true,
+      "url": {
+        "resource": "https://www.tangerinedream-music.com/",
+        "id": "e511b280-1990-467b-bec0-201fb0aa7b8c"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "direction": "forward",
+      "type": "official homepage",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": true,
+      "url": {
+        "resource": "http://www.tangerinedream.org/",
+        "id": "3520b7d2-e990-42bc-bf14-4e786748acc2"
+      },
+      "end": null,
+      "type": "official homepage",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/nr89003935",
+        "id": "e77c9d80-b1a4-4d61-a569-c01ee5a85181"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139069184",
+        "id": "2bd46e20-de15-4302-9a27-ebb6629ee6f3"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "6b72f956-e64b-4510-93f3-563ed1aa8796",
+        "resource": "https://d-nb.info/gnd/5508171-X"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp83kG9Y8K9dgBHT3Vxt",
+        "id": "dd783aef-b3d5-40d9-9118-3c23e38f46f5"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://musicmoz.org/Bands_and_Artists/T/Tangerine_Dream/",
+        "id": "bc56a60b-edf1-4c54-bda9-26bb557048ea"
+      },
+      "ended": false
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "ac185b15-be46-4e1a-a2e3-f9a27fb8635d",
+        "resource": "https://nla.gov.au/nla.party-1130469"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/tangerine-dream",
+        "id": "f0d97dd6-dc1a-4ad8-9e0c-f94d865f06ef"
+      },
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "url": {
+        "id": "ee407870-c21e-487f-a3dc-37b85319709a",
+        "resource": "https://www.45cat.com/artist/tangerine-dream"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/tangerine-dream/",
+        "id": "c566c650-6b8d-4ea0-af91-71bd318e7492"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "d9ed2cf4-aca4-4b0b-8c92-c9c1a6537075",
+        "resource": "https://www.muziekweb.nl/Link/M00000027912/"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "deebdbae-27d7-421d-9241-e7cf41319ff6",
+        "resource": "https://www.progarchives.com/artist.asp?id=1295"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Tangerine_Dream",
+        "id": "a719e62c-2ef5-4a26-98fc-6eae6b30fd79"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "0f633ec3-2361-480b-ab1d-1ec8bb44c532",
+        "resource": "https://www.whosampled.com/Tangerine-Dream/"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "691c63d7-2f90-44e8-98cc-becb5f2d2501",
+        "resource": "https://de.7digital.com/artist/tangerine-dream"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "https://itunes.apple.com/de/artist/id10507",
+        "id": "d18922d5-4281-4327-90c5-6461071973e0"
+      },
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "3ad43f6a-95e2-4041-9544-cb43eb5dcae2",
+        "resource": "https://mora.jp/artist/246108/"
+      },
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://mora.jp/artist/44797/",
+        "id": "a4131e4f-2adb-45e7-928f-c34b0f5baa40"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "cbb74a47-eaad-466d-95c9-2b457179e4d4",
+        "resource": "https://music.apple.com/de/artist/10507"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://music.bugs.co.kr/artist/47932",
+        "id": "a1eb29f4-52cb-4886-bbe4-2743a02b414b"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "end": null,
+      "url": {
+        "resource": "https://open.qobuz.com/artist/50891",
+        "id": "0596fccc-c1d1-43f5-afe6-c0b48813a454"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "url": {
+        "id": "21862caf-c420-4be1-8e12-af4b52f325e8",
+        "resource": "https://ototoy.jp/_/default/a/488898"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/687076",
+        "id": "5ecb589e-8976-42b5-b328-cf6c3388a9ee"
+      },
+      "end": null,
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "タンジェリン・ドリーム"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.beatport.com/artist/tangerine-dream/111738",
+        "id": "95931242-433c-476d-906e-db1f3bc77ce9"
+      },
+      "ended": false
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "d32182b0-7225-4947-84a3-dadf58e58585",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104963"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "ac0a4336-f1c2-49e3-9876-8af5b6a69c3a",
+        "resource": "https://www.qobuz.com/de-de/interpreter/tangerine-dream/50891"
+      },
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "type": "secondhandsongs",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "8bb7a9c2-f1e5-4388-9977-ff3d309c1a70",
+        "resource": "https://secondhandsongs.com/artist/13046"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "setlistfm",
+      "direction": "forward",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "55641f6b-6152-4133-89f2-f89615d63b54",
+        "resource": "https://www.setlist.fm/setlists/tangerine-dream-3d6956f.html"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.facebook.com/TANGERINEDREAM.OFFICIAL",
+        "id": "8ad159f4-ae6e-441a-bae3-f8436f324ebe"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "social network",
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.instagram.com/tangerinedreamq/",
+        "id": "387fa7db-a198-4a63-af1e-c19d51e7ba92"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "social network",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.songkick.com/artists/16746",
+        "id": "d5ed7102-6deb-464f-be6d-27e01862b9b5"
+      },
+      "type": "songkick",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "2d90cda0-84aa-48bb-9ccd-95efeccc1562",
+        "resource": "https://soundcloud.com/tangerinedreamofficial2015"
+      },
+      "attribute-ids": {},
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "begin": null,
+      "direction": "forward",
+      "type": "soundcloud",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "cbb74a47-eaad-466d-95c9-2b457179e4d4",
+        "resource": "https://music.apple.com/de/artist/10507"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "cf9137e7-cdce-42d6-a1a5-5b60c61ba7c4",
+        "resource": "https://music.apple.com/gb/artist/10507"
+      }
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "resource": "https://music.bugs.co.kr/artist/47932",
+        "id": "a1eb29f4-52cb-4886-bbe4-2743a02b414b"
+      },
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "0596fccc-c1d1-43f5-afe6-c0b48813a454",
+        "resource": "https://open.qobuz.com/artist/50891"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://tidal.com/artist/4352",
+        "id": "9b0b6e79-0299-4e61-b582-be2e100b889d"
+      },
+      "end": null,
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104963",
+        "id": "d32182b0-7225-4947-84a3-dadf58e58585"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.qobuz.com/de-de/interpreter/tangerine-dream/50891",
+        "id": "ac0a4336-f1c2-49e3-9876-8af5b6a69c3a"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://vgmdb.net/artist/14876",
+        "id": "c96127e6-6cde-4c7b-a5fc-b1551230c140"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "0af15ab3-c615-46d6-b95b-a5fcd2a92ed9",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "vgmdb"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "VIAF",
+      "direction": "forward",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/133850915",
+        "id": "1769763d-0380-48b1-a7e1-6ca18e0ebf1f"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikidata",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q153616",
+        "id": "79dbf907-483b-4097-8c4f-22aa50318369"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "ce9030b6-8937-426b-9ed0-1f2dde158fcf",
+        "resource": "https://www.youtube.com/channel/UC4_FcTax65mwCulnRcelfhQ"
+      },
+      "attribute-ids": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "begin": null,
+      "direction": "forward",
+      "type": "youtube",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "type": "youtube music",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "95e8f99c-2e05-4d17-9b1d-1601a86d9afc",
+        "resource": "https://music.youtube.com/@TangerineDreamMusic"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    }
+  ],
+  "sort-name": "Tangerine Dream",
+  "begin-area": {
+    "disambiguation": "",
+    "type": null,
+    "iso-3166-2-codes": [
+      "DE-BE"
+    ],
+    "name": "Berlin",
+    "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+    "sort-name": "Berlin",
+    "type-id": null
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "id": "23d8426c-18c7-46e6-a51d-7395bd43c641",
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1967-09"
+  },
+  "isnis": [
+    "0000000122708091"
+  ],
+  "type": "Group",
+  "name": "Tangerine Dream",
+  "ipis": [],
+  "disambiguation": "",
+  "area": {
+    "type": null,
+    "name": "Germany",
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "DE"
+    ],
+    "sort-name": "Germany",
+    "type-id": null,
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "release-group-count": 7,
+  "release-groups": [
+    {
+      "title": "En vivo Teatro Coliseo 1975",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2022-04-29",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "id": "096abd20-5daa-4c57-bf8b-c130d2d9d72e",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1975-09",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "329c99df-ed65-3a59-991c-c51e1760a1d7",
+      "title": "Durazno sangrando"
+    },
+    {
+      "id": "6b0627c5-e547-4c5e-b237-27bfa007fd2b",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "2020-09-02",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Obras Cumbres"
+    },
+    {
+      "title": "Durazno sangrando / El jardín de los presentes",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "872e52b8-d4fa-3e93-ab12-38d2b2a61e1a",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [],
+      "id": "9c229166-7a0a-3816-9adf-a9f6ca6408cc",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1974-04",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Invisible"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1976",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "id": "d73500e1-5105-3904-bbaf-ec9ae575c93b",
+      "secondary-type-ids": [],
+      "title": "El jardín de los presentes"
+    },
+    {
+      "title": "Obras cumbres",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2001",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "f1ff9ce6-f9fd-3d15-a294-9746a3ce78d0",
+      "secondary-types": [
+        "Compilation"
+      ]
+    }
+  ]
+}

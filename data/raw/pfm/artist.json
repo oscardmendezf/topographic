@@ -1,0 +1,969 @@
+{
+  "country": "IT",
+  "end-area": null,
+  "sort-name": "Premiata Forneria Marconi",
+  "disambiguation": "Italian progressive rock",
+  "id": "85e65d5f-4d9b-407d-b261-882caa52bff3",
+  "name": "Premiata Forneria Marconi",
+  "life-span": {
+    "end": null,
+    "begin": "1970",
+    "ended": false
+  },
+  "isnis": [
+    "0000000121686353"
+  ],
+  "aliases": [
+    {
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": null,
+      "ended": false,
+      "name": "P.F.M.",
+      "end": null,
+      "begin": null,
+      "sort-name": "P.F.M.",
+      "locale": null
+    },
+    {
+      "ended": false,
+      "name": "PFM",
+      "end": null,
+      "begin": null,
+      "sort-name": "PFM",
+      "locale": null,
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": null
+    }
+  ],
+  "gender-id": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "ipis": [],
+  "type": "Group",
+  "begin-area": {
+    "sort-name": "Milano",
+    "disambiguation": "",
+    "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+    "name": "Milano",
+    "type-id": null,
+    "type": null
+  },
+  "area": {
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "sort-name": "Italy",
+    "iso-3166-1-codes": [
+      "IT"
+    ],
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "name": "Italy"
+  },
+  "gender": null,
+  "relations": [
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": "1974",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "bass",
+        "original"
+      ],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "IT",
+        "type": "Person",
+        "disambiguation": "Italian bassist",
+        "sort-name": "Piazza, Giorgio",
+        "id": "230a6345-6abf-4476-927c-a5ab2a845892",
+        "name": "Giorgio Piazza"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "begin": "1970",
+      "direction": "backward",
+      "attribute-values": {}
+    },
+    {
+      "begin": "1970",
+      "direction": "backward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attribute-values": {},
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "attribute-credits": {},
+      "artist": {
+        "id": "6b10d0f2-f768-4f71-919c-60932f919517",
+        "name": "Flavio Premoli",
+        "disambiguation": "",
+        "sort-name": "Premoli, Flavio",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "IT"
+      },
+      "end": "1980",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "ended": true,
+      "end": "2015-03-15",
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1970",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-values": {},
+      "attributes": [
+        "background vocals",
+        "guitar",
+        "lead vocals",
+        "original"
+      ],
+      "attribute-credits": {},
+      "artist": {
+        "name": "Franco Mussida",
+        "id": "3971d6aa-f737-4407-96c6-93d48fba9402",
+        "disambiguation": "",
+        "sort-name": "Mussida, Franco",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "IT"
+      }
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "begin": "1970",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a817a27d-fa93-41ee-bfe0-6824ccc2d716",
+        "name": "Franz Di Cioccio",
+        "sort-name": "Di Cioccio, Franz",
+        "disambiguation": ""
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "lead vocals",
+        "membranophone",
+        "original",
+        "percussion"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "ended": true,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "end": "1977",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "1971",
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "IT",
+        "type": "Person",
+        "disambiguation": "Italian musician and score composer",
+        "sort-name": "Pagani, Mauro",
+        "id": "9edcf61f-7b06-4b50-9af0-47e03abe2912",
+        "name": "Mauro Pagani"
+      },
+      "attributes": [
+        "flute",
+        "original",
+        "violin"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "artist": {
+        "name": "Patrick Djivas",
+        "id": "5f2dd9b5-b4d2-4dea-b7c8-6f42e279baef",
+        "sort-name": "Djivas, Patrick",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "backward",
+      "begin": "1974",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "type": "member of band",
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "attributes": [
+        "guitar",
+        "lead vocals"
+      ],
+      "attribute-credits": {
+        "guitar": "rhythm"
+      },
+      "artist": {
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Lanzetti, Bernardo",
+        "disambiguation": "",
+        "name": "Bernardo Lanzetti",
+        "id": "e812822c-ea32-4281-af87-c636a2c43cac"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "begin": "1975",
+      "direction": "backward",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": "1979",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "begin": "1976",
+      "direction": "backward",
+      "attribute-values": {},
+      "attributes": [
+        "violin"
+      ],
+      "attribute-credits": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "type": "Person",
+        "disambiguation": "",
+        "sort-name": "Bloch, Gregory",
+        "id": "5eccccea-d751-47b6-9d26-d517eb3b7351",
+        "name": "Gregory Bloch"
+      },
+      "source-credit": "",
+      "end": "1977",
+      "ended": true,
+      "target-type": "artist",
+      "type": "member of band",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-type": "artist",
+      "source-credit": "",
+      "end": "1987",
+      "ended": true,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": "1979",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "IT",
+        "name": "Lucio Fabbri",
+        "id": "1988e6be-dbd7-4c1e-8ee9-ae827c1ab222",
+        "disambiguation": "",
+        "sort-name": "Fabbri, Lucio"
+      },
+      "attributes": []
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1987",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "membranophone"
+      ],
+      "attribute-credits": {
+        "membranophone": "additional"
+      },
+      "artist": {
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Calloni, Walter",
+        "disambiguation": "",
+        "id": "36c28e20-dbee-46f3-9bde-5a1c21de8c8c",
+        "name": "Walter Calloni"
+      },
+      "begin": "1982",
+      "direction": "backward",
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1997",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "IT",
+        "name": "Flavio Premoli",
+        "id": "6b10d0f2-f768-4f71-919c-60932f919517",
+        "disambiguation": "",
+        "sort-name": "Premoli, Flavio"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": "2005",
+      "ended": true,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1998",
+      "direction": "backward",
+      "artist": {
+        "sort-name": "Premoli, Flavio",
+        "disambiguation": "",
+        "id": "6b10d0f2-f768-4f71-919c-60932f919517",
+        "name": "Flavio Premoli",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": "2006",
+      "ended": true,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "attribute-values": {},
+      "begin": "2000",
+      "direction": "backward",
+      "attribute-ids": {},
+      "artist": {
+        "type": "Person",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Lucio Fabbri",
+        "id": "1988e6be-dbd7-4c1e-8ee9-ae827c1ab222",
+        "sort-name": "Fabbri, Lucio",
+        "disambiguation": ""
+      },
+      "attributes": [],
+      "target-type": "artist",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "begin": "2002",
+      "direction": "backward",
+      "attribute-values": {},
+      "attributes": [
+        "membranophone"
+      ],
+      "attribute-credits": {},
+      "artist": {
+        "name": "Piero Monterisi",
+        "id": "af64a0d1-97bf-4b3e-8fd3-3e4ff7a62eca",
+        "sort-name": "Monterisi, Piero",
+        "disambiguation": "",
+        "type": "Person",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "end": "2010",
+      "ended": true,
+      "target-type": "artist",
+      "type": "member of band",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "2015-03-30",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "artist": {
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Sfogli, Marco",
+        "disambiguation": "",
+        "id": "352c7ae2-8fe5-4de5-8e58-6904a6720184",
+        "name": "Marco Sfogli"
+      }
+    },
+    {
+      "attribute-values": {},
+      "begin": "1971",
+      "direction": "forward",
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "IT",
+        "type": "Person",
+        "disambiguation": "Italian musician and score composer",
+        "sort-name": "Pagani, Mauro",
+        "name": "Mauro Pagani",
+        "id": "9edcf61f-7b06-4b50-9af0-47e03abe2912"
+      },
+      "attributes": [],
+      "target-type": "artist",
+      "end": "1971",
+      "ended": true,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "1af24726-5b1f-4b07-826e-5351723f504b",
+      "type": "named after artist"
+    },
+    {
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000299837",
+        "id": "89bdb64a-5389-4b0d-a06f-5a58ac7cb563"
+      },
+      "type": "allmusic",
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "end": "2020-11-19",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "070e34db-81e9-4098-8aff-40fa3c8cbe20",
+        "resource": "https://www.bbc.co.uk/music/artists/85e65d5f-4d9b-407d-b261-882caa52bff3"
+      },
+      "type": "BBC Music page",
+      "target-credit": "",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54"
+    },
+    {
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "target-credit": "",
+      "type": "discography page",
+      "target-type": "url",
+      "url": {
+        "resource": "http://www.pfmpfm.it/discografia/discografia.htm",
+        "id": "37712089-9039-40ea-9445-34ec0ef3a13b"
+      },
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "type": "discogs",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.discogs.com/artist/281856",
+        "id": "d4e61962-e7bc-4849-a4f9-0dbd15708441"
+      },
+      "source-credit": "",
+      "end": null,
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "target-type": "url",
+      "url": {
+        "id": "690c70ee-1479-4b37-a73c-9fdd4e228654",
+        "resource": "https://open.spotify.com/artist/1MD5pgVzlusqGyuSTcTxvu"
+      }
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.deezer.com/artist/3709",
+        "id": "09df4d48-696a-4ec3-b182-30a15f2db0a7"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "type": "free streaming"
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "target-credit": "",
+      "type": "image",
+      "target-type": "url",
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:PFM2.jpg",
+        "id": "ee9f43e3-730f-47ea-bbd1-bd8c5c3bb166"
+      },
+      "source-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "type": "IMDb",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.imdb.com/name/nm7251614/",
+        "id": "8e9e51e8-b855-4c89-93ee-4bd434b3d30a"
+      },
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.last.fm/music/Premiata+Forneria+Marconi",
+        "id": "5ac73fc1-b494-4faa-b1cc-da7eae085af6"
+      },
+      "type": "last.fm",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attributes": [],
+      "url": {
+        "id": "4dcd6750-fcc5-435d-89a3-8bf952927395",
+        "resource": "https://myspace.com/pfmpremiataforneriamarconi"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "target-credit": "",
+      "type": "myspace"
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type": "official homepage",
+      "target-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "http://www.pfmworld.com/",
+        "id": "9bca608e-7c5f-41e2-bf20-9e206809c1e7"
+      },
+      "target-type": "url"
+    },
+    {
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no96010484",
+        "id": "01a08655-d935-4296-97e9-240b3628a955"
+      },
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "type": "other databases",
+      "url": {
+        "id": "2c8efc9b-368f-425d-8044-3d7e2f25fb7e",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb14049187w"
+      },
+      "target-type": "url",
+      "ended": false,
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "end": null,
+      "ended": false,
+      "url": {
+        "id": "4bbd7bd7-7fc6-40e8-aff8-3f400f4d81d2",
+        "resource": "https://rateyourmusic.com/artist/premiata_forneria_marconi"
+      },
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "target-type": "url",
+      "url": {
+        "id": "9c5425b9-3b81-48fb-9576-ebe169d114c5",
+        "resource": "https://www.45cat.com/artist/premiata-forneria-marconi"
+      },
+      "source-credit": "",
+      "end": null,
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "url": {
+        "id": "6e1df598-e765-4063-9332-9e3014c1f2ae",
+        "resource": "https://www.progarchives.com/artist.asp?id=289"
+      },
+      "target-type": "url",
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-no96010484",
+        "id": "4cd2d008-7523-44c4-b5da-f7bc2fd1868e"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "url": {
+        "resource": "https://itunes.apple.com/us/artist/id32994351",
+        "id": "154cad14-573d-4da9-af3a-cdffa06a0284"
+      },
+      "target-type": "url",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/premiata-forneria-marconi-23d6acf7.html",
+        "id": "360794c8-3f07-41ab-97ac-b1360440978a"
+      },
+      "target-type": "url",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "type": "setlistfm",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type": "social network",
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "https://twitter.com/pfmufficiale",
+        "id": "b5d3b21a-db9e-4365-b2a1-361678a259de"
+      },
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "id": "eb1e8714-e5af-4566-be29-ec700d9ffbf3",
+        "resource": "https://www.facebook.com/premiataforneriamarconiofficial"
+      },
+      "source-credit": "",
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-credit": "",
+      "type": "songkick",
+      "url": {
+        "resource": "https://www.songkick.com/artists/183376",
+        "id": "ce2a9969-9e76-4ac4-b114-499699cf1017"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming",
+      "url": {
+        "resource": "https://tidal.com/artist/1646",
+        "id": "c3303e0e-25c5-4b2c-8d9d-726ba67d3836"
+      },
+      "target-type": "url",
+      "end": null,
+      "ended": false,
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "ended": false,
+      "url": {
+        "id": "3958988f-1e89-4c7e-b706-12154953fddf",
+        "resource": "http://viaf.org/viaf/138975034"
+      },
+      "target-type": "url",
+      "type": "VIAF",
+      "target-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460"
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q917450",
+        "id": "84f1ca97-afb5-4066-b393-c11a8d4a4ee7"
+      },
+      "target-type": "url",
+      "type": "wikidata",
+      "target-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "attributes": []
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "relations": [
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Lello Brandi",
+        "type": "Person",
+        "id": "81c6349e-8fdb-43c3-8a00-3f7e487d148d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Brandi, Lello"
+      },
+      "end": "1975",
+      "ended": true,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "name": "Elio D'Anna",
+        "type": "Person",
+        "id": "ad6a5739-14c6-4189-b3dd-2f005d8e736f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "D'Anna, Elio",
+        "country": null
+      },
+      "end": "1975",
+      "attribute-ids": {},
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Massimo Guarino",
+        "type": "Person",
+        "id": "3435d935-2f40-4a0d-8e2a-f49478730bf9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Guarino, Massimo"
+      },
+      "end": "1979",
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "IT",
+        "sort-name": "Rustici, Danilo",
+        "id": "5148efb3-b54d-41c0-b49b-88c05732cb65",
+        "name": "Danilo Rustici",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "2003",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "fc56b7af-15ab-41af-b10e-5b3a7c724400",
+        "sort-name": "Vairetti Irvin Luca",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Irvin Luca Vairetti"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "begin": "2005",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "background vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Vairetti Irvin Luca",
+        "country": "IT",
+        "id": "fc56b7af-15ab-41af-b10e-5b3a7c724400",
+        "name": "Irvin Luca Vairetti",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2005",
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [
+        "synthesizer"
+      ],
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Vairetti, Lino",
+        "id": "bf14de2e-8b44-4918-b07c-82399dfb2ccd",
+        "name": "Lino Vairetti",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {
+        "harmonica": "63e37f1a-30b6-4746-8a49-dfb55be3cdd1"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Vairetti, Lino",
+        "country": null,
+        "id": "bf14de2e-8b44-4918-b07c-82399dfb2ccd",
+        "name": "Lino Vairetti",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "harmonica"
+      ]
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "Lino Vairetti",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Vairetti, Lino",
+        "id": "bf14de2e-8b44-4918-b07c-82399dfb2ccd"
+      },
+      "attribute-ids": {
+        "acoustic guitar": "00beaf8e-a781-431c-8130-7c2871696b7d"
+      },
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [
+        "acoustic guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Lino Vairetti",
+        "type": "Person",
+        "id": "bf14de2e-8b44-4918-b07c-82399dfb2ccd",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Vairetti, Lino",
+        "country": null
+      },
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "allmusic",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000644888",
+        "id": "6210dd45-f4d0-4107-9482-c19c90677d12"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "url": {
+        "id": "83b7e758-dd02-48c3-bf09-2093a41c53e9",
+        "resource": "https://www.discogs.com/artist/836392"
+      },
+      "end": null,
+      "type": "discogs",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-ids": {},
+      "url": {
+        "id": "0c5ed2be-4c26-41cc-9720-963b82df0872",
+        "resource": "https://www.last.fm/music/Osanna"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "last.fm",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "aaafaea9-9adc-492a-9e87-14fd79355659",
+        "resource": "https://myspace.com/osannamusic"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "myspace",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "official homepage",
+      "url": {
+        "resource": "http://www.osanna.20m.com/",
+        "id": "b9f89e49-e28c-4944-a2cf-89088bca5898"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "official homepage",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "http://www.osanna.it/",
+        "id": "ea28a26f-2770-44e5-86ee-d32c4769140e"
+      },
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "url": {
+        "id": "4e14c6ba-597c-4f64-93ea-a656053904e1",
+        "resource": "https://rateyourmusic.com/artist/osanna"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "6d23c150-2390-4822-8b82-24e7fe31cfca",
+        "resource": "https://www.45cat.com/artist/osanna"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "b794ed3c-96e9-46c6-bc8e-cfd7a9cc15e4",
+        "resource": "https://www.progarchives.com/artist.asp?id=276"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "setlistfm",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/osanna-73d61251.html",
+        "id": "8f5b8ceb-1720-428c-9aec-de90388f3d3c"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "def5aed5-80ec-4d6c-ab02-29e3aa1fdf89",
+        "resource": "https://www.songkick.com/artists/506169"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "songkick"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "wikidata",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "f1355d7d-5e1e-472c-879b-daf5b2e34d15",
+        "resource": "https://www.wikidata.org/wiki/Q1055329"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+    }
+  ],
+  "sort-name": "Osanna",
+  "begin-area": {
+    "id": "86fbdd3c-aaac-4aed-916a-b361f7e1a8de",
+    "disambiguation": "",
+    "name": "Napoli",
+    "type-id": null,
+    "sort-name": "Napoli",
+    "type": null
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "id": "a0423a4c-0ac4-4131-a61b-c4604d226de7",
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1971"
+  },
+  "isnis": [
+    "0000000469530325"
+  ],
+  "type": "Group",
+  "name": "Osanna",
+  "disambiguation": "",
+  "ipis": [],
+  "area": {
+    "name": "Italy",
+    "type": null,
+    "disambiguation": "",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "IT"
+    ],
+    "sort-name": "Italy",
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add"
+  },
+  "gender": null,
+  "country": "IT",
+  "gender-id": null,
+  "end-area": null,
+  "aliases": []
+}

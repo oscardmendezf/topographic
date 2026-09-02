@@ -1,0 +1,87 @@
+{
+  "release-group-count": 7,
+  "release-groups": [
+    {
+      "title": "Il re del castello",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1990",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "11a948eb-0271-4f1a-8cbb-72279bbc6d96"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "285e012b-733a-39db-8df5-4b36d5842917",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1999",
+      "title": "Trys"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1972",
+      "title": "Ys",
+      "secondary-type-ids": [],
+      "id": "620f81ca-3e87-390a-a6ad-ad8fdc1018e3",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": []
+    },
+    {
+      "id": "ab7bf48d-5c17-48ba-a080-6d23878ac72f",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2023-05-04",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Lemures"
+    },
+    {
+      "first-release-date": "2016-03-04",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Cuma 2016 D.C.",
+      "id": "ae146ac0-9572-4815-90c5-0fa58130a32b",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "ae98806a-5247-3c39-8355-b6892935c107",
+      "title": "Sirio 2222",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1970"
+    },
+    {
+      "title": "Rarities 1970",
+      "first-release-date": "2020-12-21",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "cf440038-f2b5-4c78-a208-089c54bc9da0",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    }
+  ]
+}

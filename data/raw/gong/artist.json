@@ -1,0 +1,4868 @@
+{
+  "country": "FR",
+  "id": "5927990e-34bb-493f-b5da-b7b28d43698f",
+  "type": "Group",
+  "gender": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "sort-name": "Gong",
+  "area": {
+    "iso-3166-1-codes": [
+      "FR"
+    ],
+    "name": "France",
+    "sort-name": "France",
+    "disambiguation": "",
+    "type": null,
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "type-id": null
+  },
+  "disambiguation": "progressive/psychedelic rock band",
+  "isnis": [
+    "0000000123374572"
+  ],
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1966"
+  },
+  "end-area": null,
+  "ipis": [],
+  "aliases": [
+    {
+      "name": "ゴング",
+      "primary": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "end": null,
+      "ended": false,
+      "type": "Artist name",
+      "locale": "ja",
+      "sort-name": "ゴング",
+      "begin": null
+    },
+    {
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "end": null,
+      "ended": false,
+      "type": "Artist name",
+      "locale": "ko",
+      "begin": null,
+      "sort-name": "공",
+      "name": "공",
+      "primary": true
+    }
+  ],
+  "relations": [
+    {
+      "artist": {
+        "id": "a3f81661-42e6-4e6b-8485-82b83a6beedd",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Causse, François",
+        "disambiguation": "French drummer and percussionist",
+        "country": "FR",
+        "name": "François Causse"
+      },
+      "end": "1980",
+      "ended": true,
+      "attributes": [
+        "percussion"
+      ],
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1978",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1967",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "end": "1968",
+      "ended": true,
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "artist": {
+        "name": "Daevid Allen",
+        "disambiguation": "",
+        "country": "AU",
+        "sort-name": "Allen, Daevid",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "ended": true,
+      "end": "1968",
+      "artist": {
+        "name": "Daevid Allen",
+        "sort-name": "Allen, Daevid",
+        "disambiguation": "",
+        "country": "AU",
+        "type": "Person",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1967",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attributes": [
+        "original"
+      ],
+      "end": "1968",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "d0024ab4-eb8e-4e16-a4cf-e322efd9ec3d",
+        "type": "Person",
+        "disambiguation": "",
+        "country": null,
+        "sort-name": "Baum, Ziska",
+        "name": "Ziska Baum"
+      },
+      "target-type": "artist",
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1967",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1967",
+      "direction": "backward",
+      "target-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "sort-name": "Smyth, Gilli",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "219c937b-9396-49cf-b834-d38ef3df685a",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Gilli Smyth"
+      },
+      "attributes": [
+        "original"
+      ],
+      "end": "1968",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "artist": {
+        "name": "Loren Standlee",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "0f4b8456-1929-4179-87fa-9a0e3fdda54f",
+        "type": "Person",
+        "disambiguation": "",
+        "country": null,
+        "sort-name": "Standlee, Loren"
+      },
+      "end": "1968",
+      "ended": true,
+      "attributes": [
+        "flute",
+        "original"
+      ],
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {}
+    },
+    {
+      "artist": {
+        "sort-name": "Houari, Rachid",
+        "disambiguation": "first drummer of Gong",
+        "country": null,
+        "id": "7f25a371-5295-4f24-b286-96288b39df34",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Rachid Houari"
+      },
+      "attributes": [
+        "percussion"
+      ],
+      "ended": true,
+      "end": "1971",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1969",
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "1971",
+      "ended": true,
+      "artist": {
+        "name": "Rachid Houari",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7f25a371-5295-4f24-b286-96288b39df34",
+        "type": "Person",
+        "country": null,
+        "disambiguation": "first drummer of Gong",
+        "sort-name": "Houari, Rachid"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "begin": "1969",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1969",
+      "direction": "backward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "sort-name": "Smyth, Gilli",
+        "disambiguation": "",
+        "country": "GB",
+        "type": "Person",
+        "id": "219c937b-9396-49cf-b834-d38ef3df685a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Gilli Smyth"
+      },
+      "attributes": [
+        "original"
+      ],
+      "end": "1973",
+      "ended": true
+    },
+    {
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "end": "1975",
+      "ended": true,
+      "artist": {
+        "name": "Daevid Allen",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "country": "AU",
+        "disambiguation": "",
+        "sort-name": "Allen, Daevid"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "direction": "backward",
+      "begin": "1969",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "sort-name": "Allen, Daevid",
+        "disambiguation": "",
+        "country": "AU",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Daevid Allen"
+      },
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "ended": true,
+      "end": "1975",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1969",
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "begin": "1969",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attributes": [
+        "flute"
+      ],
+      "ended": true,
+      "end": "1976",
+      "artist": {
+        "sort-name": "Malherbe, Didier",
+        "disambiguation": "",
+        "country": "FR",
+        "type": "Person",
+        "id": "1c3f761d-c679-4b68-abba-8ff2cf140e2a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Didier Malherbe"
+      },
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      }
+    },
+    {
+      "artist": {
+        "name": "Didier Malherbe",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "1c3f761d-c679-4b68-abba-8ff2cf140e2a",
+        "country": "FR",
+        "disambiguation": "",
+        "sort-name": "Malherbe, Didier"
+      },
+      "ended": true,
+      "end": "1976",
+      "attributes": [
+        "saxophone"
+      ],
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1969",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Pyle, Pip",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "19ed89d3-30aa-4f66-8992-822a48e8aa6c",
+        "type": "Person",
+        "name": "Pip Pyle"
+      },
+      "end": "1971",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1971",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "begin": "1971",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "ended": true,
+      "end": "1973",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "artist": {
+        "name": "Christian Tritsch",
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Tritsch, Christian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "47d84975-68c6-4987-8127-d3cd4207f25d",
+        "type": "Person"
+      }
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "name": "Charles Hayward",
+        "disambiguation": "English drummer, cfr. This Heat",
+        "country": "GB",
+        "sort-name": "Hayward, Charles",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "2df40bc7-b7bc-4fed-8c47-819a4cc9b496"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "1972",
+      "ended": true,
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1972",
+      "direction": "backward"
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1972",
+      "direction": "backward",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "7c6101d5-a0c2-4ec6-a31b-e1c84c0f1d6e",
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Poole, Mac",
+        "name": "Mac Poole"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "1972",
+      "ended": true
+    },
+    {
+      "direction": "backward",
+      "begin": "1972",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "target-credit": "",
+      "attributes": [],
+      "end": "1972",
+      "ended": true,
+      "artist": {
+        "sort-name": "Stewart, Diane",
+        "country": null,
+        "disambiguation": "",
+        "id": "93bdb0f7-6244-457d-83e4-e7a8a68b8bc0",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Diane Stewart"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "1972",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "artist": {
+        "name": "Rob Tait",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "c4f4e9fc-90b8-4e99-ad76-36bc601f26ee",
+        "disambiguation": "",
+        "country": null,
+        "sort-name": "Tait, Rob"
+      },
+      "end": "1972",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "1972",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "artist": {
+        "sort-name": "Allan, Laurie",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "id": "34fea4c5-8151-45df-8563-a289f994f341",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Laurie Allan"
+      },
+      "attributes": [
+        "percussion"
+      ],
+      "end": "1973",
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "begin": "1972",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "1973",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "34fea4c5-8151-45df-8563-a289f994f341",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Allan, Laurie",
+        "name": "Laurie Allan"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "ended": true,
+      "end": "1973",
+      "artist": {
+        "type": "Person",
+        "id": "551d9210-8894-4d24-8517-4c3f36c66ac6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Moze, Francis",
+        "country": "FR",
+        "disambiguation": "",
+        "name": "Francis Moze"
+      }
+    },
+    {
+      "attributes": [
+        "piano"
+      ],
+      "ended": true,
+      "end": "1973",
+      "artist": {
+        "sort-name": "Moze, Francis",
+        "country": "FR",
+        "disambiguation": "",
+        "id": "551d9210-8894-4d24-8517-4c3f36c66ac6",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Francis Moze"
+      },
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "begin": "1972",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "name": "Tim Blake",
+        "id": "953dfeff-94a2-44e4-a037-379ded98a6da",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Blake, Tim",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "end": "1975",
+      "ended": true,
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "1972",
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "begin": "1973",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "1973",
+      "ended": true,
+      "artist": {
+        "name": "Rachid Houari",
+        "sort-name": "Houari, Rachid",
+        "disambiguation": "first drummer of Gong",
+        "country": null,
+        "id": "7f25a371-5295-4f24-b286-96288b39df34",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1973",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "sort-name": "Moerlen, Pierre",
+        "disambiguation": "",
+        "country": "FR",
+        "id": "ca4c8408-5d47-4619-bff5-e775c0d1d5b1",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Pierre Moerlen"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "ended": true,
+      "end": "1974"
+    },
+    {
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "name": "Steve Hillage",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "bb0ae0c0-16eb-43df-9f99-7f351c53354a",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Hillage, Steve"
+      },
+      "end": "1975",
+      "ended": true,
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "1973",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "begin": "1973",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "ended": true,
+      "end": "1975",
+      "artist": {
+        "type": "Person",
+        "id": "bb0ae0c0-16eb-43df-9f99-7f351c53354a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hillage, Steve",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Steve Hillage"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "1973",
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "name": "Mireille Bauer",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "c481ad81-d85a-442d-a474-21f8b5eb6d42",
+        "disambiguation": "",
+        "country": "FR",
+        "sort-name": "Bauer, Mireille"
+      },
+      "attributes": [
+        "percussion"
+      ],
+      "end": "1976",
+      "ended": true,
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      }
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1973",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "end": "1976",
+      "ended": true,
+      "artist": {
+        "name": "Mike Howlett",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "40011ecd-075c-4f19-a5a3-bf16e5ff064e",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Howlett, Mike"
+      },
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      }
+    },
+    {
+      "artist": {
+        "name": "Bill Bruford",
+        "id": "0211756e-139e-4b4c-a721-9ee9db363f12",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Bruford, Bill",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "attributes": [],
+      "end": "1974-12",
+      "ended": true,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1974-11",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1974",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "ended": true,
+      "end": "1974",
+      "artist": {
+        "name": "Laurie Allan",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Allan, Laurie",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "34fea4c5-8151-45df-8563-a289f994f341",
+        "type": "Person"
+      }
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "1974",
+      "ended": true,
+      "artist": {
+        "name": "Chris Cutler",
+        "type": "Person",
+        "id": "b8d5c07b-6a7c-4ab7-83b8-8bcc4cb866b6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Cutler, Chris",
+        "country": "GB",
+        "disambiguation": "drummer"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "begin": "1974",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1974",
+      "direction": "backward",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "artist": {
+        "name": "Benoît Möerlen",
+        "disambiguation": "",
+        "country": "FR",
+        "sort-name": "Möerlen, Benoît",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "37b43e61-1c97-46c4-b6a8-ebae450f04f2",
+        "type": "Person"
+      },
+      "attributes": [
+        "percussion"
+      ],
+      "ended": true,
+      "end": "1974"
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "id": "219c937b-9396-49cf-b834-d38ef3df685a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Smyth, Gilli",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Gilli Smyth"
+      },
+      "attributes": [
+        "original"
+      ],
+      "end": "1974",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1974",
+      "direction": "backward",
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1974",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "93bdb0f7-6244-457d-83e4-e7a8a68b8bc0",
+        "type": "Person",
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Stewart, Diane",
+        "name": "Diane Stewart"
+      },
+      "attributes": [],
+      "end": "1974",
+      "ended": true
+    },
+    {
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "1974",
+      "ended": true,
+      "artist": {
+        "name": "Rob Tait",
+        "sort-name": "Tait, Rob",
+        "country": null,
+        "disambiguation": "",
+        "id": "c4f4e9fc-90b8-4e99-ad76-36bc601f26ee",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "direction": "backward",
+      "begin": "1974",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Giraudy, Miquette",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "8470749d-74b1-4456-8861-627b85f81ffb",
+        "name": "Miquette Giraudy"
+      },
+      "end": "1975",
+      "ended": true,
+      "attributes": [
+        "synthesizer"
+      ],
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1974",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "1975",
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "1975",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "name": "Brian Davison",
+        "sort-name": "Davison, Brian",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "40c4e484-c177-4f6c-9e27-f33a6c65aa47",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1975",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "name": "Dave Stewart",
+        "sort-name": "Stewart, Dave",
+        "country": "GB",
+        "disambiguation": "Canterbury keyboardist, not the Eurythmics’ Dave Stewart",
+        "type": "Person",
+        "id": "c7b11c65-595f-4238-893b-36be934ebda9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "1975",
+      "ended": true
+    },
+    {
+      "direction": "backward",
+      "begin": "1975",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "ended": true,
+      "end": "1976",
+      "attributes": [
+        "keyboard"
+      ],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "51d8778d-dd6d-49e9-9f62-c514cd80fe7e",
+        "disambiguation": "",
+        "country": "FR",
+        "sort-name": "Lemoine, Patrice",
+        "name": "Patrice Lemoine"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "ended": true,
+      "end": "1976",
+      "artist": {
+        "name": "Pierre Moerlen",
+        "sort-name": "Moerlen, Pierre",
+        "country": "FR",
+        "disambiguation": "",
+        "type": "Person",
+        "id": "ca4c8408-5d47-4619-bff5-e775c0d1d5b1",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "attributes": [
+        "violin"
+      ],
+      "ended": true,
+      "end": "1976",
+      "artist": {
+        "country": "AR",
+        "disambiguation": "",
+        "sort-name": "Pinchevsky, Jorge",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "337025cc-6e79-4678-b7d6-50fe819fcece",
+        "name": "Jorge Pinchevsky"
+      },
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "end": "1976",
+      "ended": true,
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "52bf3813-a995-4984-a347-6c15214a3a5d",
+        "type": "Person",
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Colley, Sandy",
+        "name": "Sandy Colley"
+      },
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1976",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "end": "1976",
+      "ended": true,
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "artist": {
+        "name": "Francis Moze",
+        "disambiguation": "",
+        "country": "FR",
+        "sort-name": "Moze, Francis",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "551d9210-8894-4d24-8517-4c3f36c66ac6",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "begin": "1976",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "1976",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "artist": {
+        "sort-name": "Moze, Francis",
+        "disambiguation": "",
+        "country": "FR",
+        "id": "551d9210-8894-4d24-8517-4c3f36c66ac6",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Francis Moze"
+      },
+      "end": "1976",
+      "ended": true,
+      "attributes": [
+        "piano"
+      ]
+    },
+    {
+      "direction": "backward",
+      "begin": "1977-05-28",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "end": "1977-05-28",
+      "ended": true,
+      "artist": {
+        "sort-name": "Allen, Daevid",
+        "disambiguation": "",
+        "country": "AU",
+        "type": "Person",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Daevid Allen"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "1977-05-28",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "AU",
+        "sort-name": "Allen, Daevid",
+        "name": "Daevid Allen"
+      },
+      "ended": true,
+      "end": "1977-05-28",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "1977-05-28",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "end": "1977-05-28",
+      "attributes": [
+        "synthesizer"
+      ],
+      "artist": {
+        "name": "Miquette Giraudy",
+        "sort-name": "Giraudy, Miquette",
+        "disambiguation": "",
+        "country": "GB",
+        "id": "8470749d-74b1-4456-8861-627b85f81ffb",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      }
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "1977-05-28",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "end": "1977-05-28",
+      "ended": true,
+      "attributes": [
+        "lead vocals"
+      ],
+      "artist": {
+        "name": "Steve Hillage",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "bb0ae0c0-16eb-43df-9f99-7f351c53354a",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Hillage, Steve"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "begin": "1977-05-28",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "end": "1977-05-28",
+      "ended": true,
+      "artist": {
+        "name": "Steve Hillage",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Hillage, Steve",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "bb0ae0c0-16eb-43df-9f99-7f351c53354a"
+      }
+    },
+    {
+      "artist": {
+        "name": "Mike Howlett",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Howlett, Mike",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "40011ecd-075c-4f19-a5a3-bf16e5ff064e",
+        "type": "Person"
+      },
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "ended": true,
+      "end": "1977-05-28",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1977-05-28",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "sort-name": "Lemoine, Patrice",
+        "country": "FR",
+        "disambiguation": "",
+        "id": "51d8778d-dd6d-49e9-9f62-c514cd80fe7e",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Patrice Lemoine"
+      },
+      "attributes": [
+        "keyboard"
+      ],
+      "ended": true,
+      "end": "1977-05-28",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1977-05-28",
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "1977-05-28",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "attributes": [
+        "flute"
+      ],
+      "ended": true,
+      "end": "1977-05-28",
+      "artist": {
+        "name": "Didier Malherbe",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "1c3f761d-c679-4b68-abba-8ff2cf140e2a",
+        "disambiguation": "",
+        "country": "FR",
+        "sort-name": "Malherbe, Didier"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1977-05-28",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "attributes": [
+        "saxophone"
+      ],
+      "end": "1977-05-28",
+      "ended": true,
+      "artist": {
+        "sort-name": "Malherbe, Didier",
+        "disambiguation": "",
+        "country": "FR",
+        "type": "Person",
+        "id": "1c3f761d-c679-4b68-abba-8ff2cf140e2a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Didier Malherbe"
+      }
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "1977-05-28",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "name": "Pierre Moerlen",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ca4c8408-5d47-4619-bff5-e775c0d1d5b1",
+        "type": "Person",
+        "country": "FR",
+        "disambiguation": "",
+        "sort-name": "Moerlen, Pierre"
+      },
+      "end": "1977-05-28",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ]
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1977-05-28",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Pinchevsky, Jorge",
+        "country": "AR",
+        "disambiguation": "",
+        "type": "Person",
+        "id": "337025cc-6e79-4678-b7d6-50fe819fcece",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jorge Pinchevsky"
+      },
+      "attributes": [
+        "violin"
+      ],
+      "ended": true,
+      "end": "1977-05-28",
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      }
+    },
+    {
+      "attributes": [
+        "original"
+      ],
+      "end": "1977-05-28",
+      "ended": true,
+      "artist": {
+        "name": "Gilli Smyth",
+        "sort-name": "Smyth, Gilli",
+        "disambiguation": "",
+        "country": "GB",
+        "type": "Person",
+        "id": "219c937b-9396-49cf-b834-d38ef3df685a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "1977-05-28",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1987",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {
+        "vibraphone": "799af440-c0e7-4d8f-83d5-ecfee8b25787"
+      },
+      "end": "1989",
+      "ended": true,
+      "attributes": [
+        "vibraphone"
+      ],
+      "artist": {
+        "name": "Stefan Traub",
+        "disambiguation": "",
+        "country": "DE",
+        "sort-name": "Traub, Stefan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "552e11a9-14f0-43a4-ae31-a5cd6d14f895",
+        "type": "Person"
+      }
+    },
+    {
+      "artist": {
+        "name": "Daevid Allen",
+        "type": "Person",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Allen, Daevid",
+        "country": "AU",
+        "disambiguation": ""
+      },
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "end": "1990-04",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "1990-04",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "sort-name": "Allen, Daevid",
+        "disambiguation": "",
+        "country": "AU",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Daevid Allen"
+      },
+      "end": "1990-04",
+      "ended": true,
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1990-04",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "end": "1990-04",
+      "ended": true,
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "artist": {
+        "sort-name": "Bass, Keith the Missile",
+        "country": null,
+        "disambiguation": "",
+        "id": "9c99a576-50ec-497c-975e-f9bb5d69d995",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Keith the Missile Bass"
+      },
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1990-04",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "ended": true,
+      "end": "1990-04",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Lewry, Stephan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "10c59052-7689-40ab-85d1-107ae807bf53",
+        "name": "Stephan Lewry"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1990-04",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1990-04",
+      "direction": "backward",
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "artist": {
+        "id": "1c3f761d-c679-4b68-abba-8ff2cf140e2a",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Malherbe, Didier",
+        "disambiguation": "",
+        "country": "FR",
+        "name": "Didier Malherbe"
+      },
+      "attributes": [
+        "flute"
+      ],
+      "end": "1990-04",
+      "ended": true
+    },
+    {
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "artist": {
+        "sort-name": "Malherbe, Didier",
+        "disambiguation": "",
+        "country": "FR",
+        "id": "1c3f761d-c679-4b68-abba-8ff2cf140e2a",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Didier Malherbe"
+      },
+      "attributes": [
+        "saxophone"
+      ],
+      "end": "1990-04",
+      "ended": true,
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1990-04",
+      "direction": "backward"
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "ended": true,
+      "end": "1990-04",
+      "artist": {
+        "name": "Pip Pyle",
+        "id": "19ed89d3-30aa-4f66-8992-822a48e8aa6c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Pyle, Pip",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "1990-04",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1990-04",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Smyth, Gilli",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "219c937b-9396-49cf-b834-d38ef3df685a",
+        "type": "Person",
+        "name": "Gilli Smyth"
+      },
+      "ended": true,
+      "end": "1990-04",
+      "attributes": [
+        "original"
+      ],
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "1990-04",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "f0e95789-d241-4170-9ee7-43a04d7fd8bf",
+        "country": null,
+        "disambiguation": "keyboard player",
+        "sort-name": "Twink",
+        "name": "Twink"
+      },
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "1990-04",
+      "ended": true
+    },
+    {
+      "attributes": [],
+      "ended": true,
+      "end": "1992",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "049ee1dd-5d00-4c9f-b07d-7cd8e62e3d6f",
+        "disambiguation": "violin, UK",
+        "country": "GB",
+        "sort-name": "Clark, Graham",
+        "name": "Graham Clark"
+      },
+      "attribute-ids": {},
+      "begin": "1991",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Bass, Keith the Missile",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "9c99a576-50ec-497c-975e-f9bb5d69d995",
+        "name": "Keith the Missile Bass"
+      },
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "end": "1994",
+      "ended": true,
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "1992",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1992",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "country": "FR",
+        "disambiguation": "",
+        "sort-name": "Maitra, Shyamal",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "293a0502-1cf5-49eb-8737-19597ccc4491",
+        "type": "Person",
+        "name": "Shyamal Maitra"
+      },
+      "ended": true,
+      "end": "1994",
+      "attributes": [
+        "percussion"
+      ],
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      }
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1992",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "synthesizer"
+      ],
+      "end": "1994",
+      "ended": true,
+      "artist": {
+        "name": "Shyamal Maitra",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "293a0502-1cf5-49eb-8737-19597ccc4491",
+        "type": "Person",
+        "country": "FR",
+        "disambiguation": "",
+        "sort-name": "Maitra, Shyamal"
+      },
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      }
+    },
+    {
+      "artist": {
+        "name": "Pip Pyle",
+        "type": "Person",
+        "id": "19ed89d3-30aa-4f66-8992-822a48e8aa6c",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Pyle, Pip",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "1997",
+      "ended": true,
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1992",
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "end": "2001",
+      "ended": true,
+      "artist": {
+        "sort-name": "Allen, Daevid",
+        "disambiguation": "",
+        "country": "AU",
+        "type": "Person",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Daevid Allen"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "direction": "backward",
+      "begin": "1992",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "sort-name": "Allen, Daevid",
+        "country": "AU",
+        "disambiguation": "",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Daevid Allen"
+      },
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "ended": true,
+      "end": "2001",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1992",
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1992",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "end": "2001",
+      "ended": true,
+      "attributes": [
+        "flute"
+      ],
+      "artist": {
+        "name": "Didier Malherbe",
+        "country": "FR",
+        "disambiguation": "",
+        "sort-name": "Malherbe, Didier",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "1c3f761d-c679-4b68-abba-8ff2cf140e2a"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "1992",
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "name": "Didier Malherbe",
+        "id": "1c3f761d-c679-4b68-abba-8ff2cf140e2a",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Malherbe, Didier",
+        "country": "FR",
+        "disambiguation": ""
+      },
+      "attributes": [
+        "saxophone"
+      ],
+      "end": "2001",
+      "ended": true,
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      }
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "name": "Stephan Lewry",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Lewry, Stephan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "10c59052-7689-40ab-85d1-107ae807bf53",
+        "type": "Person"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "end": "1998",
+      "ended": true,
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1994",
+      "direction": "backward"
+    },
+    {
+      "begin": "1994",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "1999",
+      "ended": true,
+      "artist": {
+        "id": "953dfeff-94a2-44e4-a037-379ded98a6da",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Blake, Tim",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Tim Blake"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      }
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1994",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "artist": {
+        "name": "Mike Howlett",
+        "sort-name": "Howlett, Mike",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "id": "40011ecd-075c-4f19-a5a3-bf16e5ff064e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "2001",
+      "ended": true,
+      "attributes": [
+        "electric bass guitar"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "id": "219c937b-9396-49cf-b834-d38ef3df685a",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Smyth, Gilli",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Gilli Smyth"
+      },
+      "end": "2001",
+      "ended": true,
+      "attributes": [
+        "original"
+      ],
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "1994"
+    },
+    {
+      "artist": {
+        "name": "Pierre Moerlen",
+        "disambiguation": "",
+        "country": "FR",
+        "sort-name": "Moerlen, Pierre",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "ca4c8408-5d47-4619-bff5-e775c0d1d5b1"
+      },
+      "end": "1999",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "1997",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {}
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "1999",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "ended": true,
+      "end": "1999",
+      "artist": {
+        "name": "Mark Hewins",
+        "sort-name": "Hewins, Mark",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "95dd6f6b-452f-44ec-8bb9-a73ebc50aa11",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "end": "2000",
+      "ended": true,
+      "attributes": [
+        "synthesizer"
+      ],
+      "artist": {
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Robson, Mark",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "5691d1f3-4de7-4ae5-84a6-8c38e23604d8",
+        "name": "Mark Robson"
+      },
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "1999",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "1999",
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "2001",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "name": "Chris Taylor",
+        "country": "US",
+        "disambiguation": "drummer for Gong, Roachford & Steve Hillage Band",
+        "sort-name": "Taylor, Chris",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "b3aec929-1bbd-4754-91ce-996f0a9d0dcc"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1999",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "attributes": [
+        "flute"
+      ],
+      "end": "2001",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "166a1d07-62cd-4b26-8021-c339d4cc0894",
+        "type": "Person",
+        "disambiguation": "British saxophonist, flautist and clarinetist",
+        "country": "GB",
+        "sort-name": "Travis, Theo",
+        "name": "Theo Travis"
+      }
+    },
+    {
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "end": "2001",
+      "ended": true,
+      "attributes": [
+        "saxophone"
+      ],
+      "artist": {
+        "name": "Theo Travis",
+        "disambiguation": "British saxophonist, flautist and clarinetist",
+        "country": "GB",
+        "sort-name": "Travis, Theo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "166a1d07-62cd-4b26-8021-c339d4cc0894",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1999",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "synthesizer"
+      ],
+      "end": "2001",
+      "ended": true,
+      "artist": {
+        "name": "Howard Scarr",
+        "id": "510f0cdf-3f52-42b1-a54f-ee917fc867b0",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Scarr, Howard",
+        "disambiguation": "",
+        "country": null
+      },
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "direction": "backward",
+      "begin": "2000",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2000",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "end": "2001",
+      "ended": true,
+      "artist": {
+        "name": "Howard Scarr",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "510f0cdf-3f52-42b1-a54f-ee917fc867b0",
+        "disambiguation": "",
+        "country": null,
+        "sort-name": "Scarr, Howard"
+      }
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "begin": "2003",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true,
+      "end": "2004",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "artist": {
+        "name": "Daevid Allen",
+        "country": "AU",
+        "disambiguation": "",
+        "sort-name": "Allen, Daevid",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440"
+      }
+    },
+    {
+      "artist": {
+        "sort-name": "Allen, Daevid",
+        "disambiguation": "",
+        "country": "AU",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Daevid Allen"
+      },
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "end": "2004",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "2003",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "2003",
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "2004",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Allen, Orlando",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "69b1f2c7-8400-443e-b1f7-27319f04c3d8",
+        "name": "Orlando Allen"
+      }
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "2003",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "artist": {
+        "name": "Dharmawan Bradbridge",
+        "type": "Person",
+        "id": "fe612292-34a7-4b33-80db-5d046596e118",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Bradbridge, Dharmawan",
+        "disambiguation": "",
+        "country": null
+      },
+      "end": "2004",
+      "ended": true,
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      }
+    },
+    {
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "2004",
+      "ended": true,
+      "artist": {
+        "name": "Cotton Casino",
+        "id": "d61f5642-c91c-4c38-9050-e3cd00a40fa2",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Cotton Casino",
+        "disambiguation": "",
+        "country": "JP"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "2003",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2003",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "end": "2004",
+      "attributes": [
+        "guitar"
+      ],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "6cd7b10b-4e0c-462e-a43f-753b48b55a03",
+        "type": "Person",
+        "disambiguation": "Japanese musician, cfr Acid Mothers Temple",
+        "country": "JP",
+        "sort-name": "Kawabata, Makoto",
+        "name": "河端一"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "artist": {
+        "sort-name": "Pollock, Josh",
+        "country": "US",
+        "disambiguation": "guitarist; composer; DJ",
+        "id": "c4609cf5-0b54-44eb-a475-f0760fc0a689",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Josh Pollock"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "end": "2004",
+      "ended": true,
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "2003",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2004",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "end": "2004",
+      "ended": true,
+      "attributes": [
+        "original"
+      ],
+      "artist": {
+        "sort-name": "Smyth, Gilli",
+        "disambiguation": "",
+        "country": "GB",
+        "type": "Person",
+        "id": "219c937b-9396-49cf-b834-d38ef3df685a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Gilli Smyth"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "2004",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "name": "津山篤",
+        "country": "JP",
+        "disambiguation": "Japanese vocalist & multi-instrumentalist",
+        "sort-name": "Tsuyama, Atsushi",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "3284f035-85ea-45ce-be39-9e808d4d1b65"
+      },
+      "end": "2004",
+      "ended": true,
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      }
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "begin": "2004",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "2004",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "name": "吉田達也",
+        "id": "7a82840d-beb5-4819-aed3-6b732332b461",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Yoshida, Tatsuya",
+        "disambiguation": "drummer in Ruins",
+        "country": "JP"
+      }
+    },
+    {
+      "attributes": [],
+      "end": "2006",
+      "ended": true,
+      "artist": {
+        "id": "953dfeff-94a2-44e4-a037-379ded98a6da",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Blake, Tim",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Tim Blake"
+      },
+      "attribute-ids": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2006",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "2006",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "artist": {
+        "name": "Miquette Giraudy",
+        "sort-name": "Giraudy, Miquette",
+        "disambiguation": "",
+        "country": "GB",
+        "type": "Person",
+        "id": "8470749d-74b1-4456-8861-627b85f81ffb",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [
+        "synthesizer"
+      ],
+      "ended": true,
+      "end": "2006",
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "2006",
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "bb0ae0c0-16eb-43df-9f99-7f351c53354a",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Hillage, Steve",
+        "name": "Steve Hillage"
+      },
+      "end": "2006",
+      "ended": true,
+      "attributes": [
+        "lead vocals"
+      ],
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      }
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "ended": true,
+      "end": "2006",
+      "attributes": [
+        "guitar"
+      ],
+      "artist": {
+        "id": "bb0ae0c0-16eb-43df-9f99-7f351c53354a",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hillage, Steve",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Steve Hillage"
+      },
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2006",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "name": "Mike Howlett",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Howlett, Mike",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "40011ecd-075c-4f19-a5a3-bf16e5ff064e"
+      },
+      "end": "2006",
+      "ended": true,
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "2006",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "2006",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "end": "2006",
+      "attributes": [
+        "flute"
+      ],
+      "artist": {
+        "sort-name": "Malherbe, Didier",
+        "country": "FR",
+        "disambiguation": "",
+        "id": "1c3f761d-c679-4b68-abba-8ff2cf140e2a",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Didier Malherbe"
+      },
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      }
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "2006",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "end": "2006",
+      "attributes": [
+        "saxophone"
+      ],
+      "artist": {
+        "sort-name": "Malherbe, Didier",
+        "country": "FR",
+        "disambiguation": "",
+        "type": "Person",
+        "id": "1c3f761d-c679-4b68-abba-8ff2cf140e2a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Didier Malherbe"
+      },
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      }
+    },
+    {
+      "begin": "2006",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "target-credit": "",
+      "end": "2006",
+      "ended": true,
+      "attributes": [
+        "original"
+      ],
+      "artist": {
+        "name": "Gilli Smyth",
+        "id": "219c937b-9396-49cf-b834-d38ef3df685a",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Smyth, Gilli",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "direction": "backward",
+      "begin": "2006",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "end": "2006",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "b3aec929-1bbd-4754-91ce-996f0a9d0dcc",
+        "disambiguation": "drummer for Gong, Roachford & Steve Hillage Band",
+        "country": "US",
+        "sort-name": "Taylor, Chris",
+        "name": "Chris Taylor"
+      },
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "end": "2006",
+      "ended": true,
+      "attributes": [
+        "flute"
+      ],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "166a1d07-62cd-4b26-8021-c339d4cc0894",
+        "type": "Person",
+        "disambiguation": "British saxophonist, flautist and clarinetist",
+        "country": "GB",
+        "sort-name": "Travis, Theo",
+        "name": "Theo Travis"
+      },
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "2006",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist"
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "2006",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "artist": {
+        "id": "166a1d07-62cd-4b26-8021-c339d4cc0894",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Travis, Theo",
+        "disambiguation": "British saxophonist, flautist and clarinetist",
+        "country": "GB",
+        "name": "Theo Travis"
+      },
+      "attributes": [
+        "saxophone"
+      ],
+      "ended": true,
+      "end": "2006"
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "2006",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "AU",
+        "sort-name": "Allen, Daevid",
+        "name": "Daevid Allen"
+      },
+      "end": "2015-03-13",
+      "ended": true,
+      "attributes": [
+        "lead vocals",
+        "original"
+      ]
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "begin": "2006",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "end": "2015-03-13",
+      "ended": true,
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "artist": {
+        "sort-name": "Allen, Daevid",
+        "country": "AU",
+        "disambiguation": "",
+        "type": "Person",
+        "id": "77e112da-5529-44b9-b957-bec3c3105440",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Daevid Allen"
+      }
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "sort-name": "Barley, Fred",
+        "disambiguation": "",
+        "country": null,
+        "type": "Person",
+        "id": "bf0eb847-abb8-4df2-abaf-b6c3bf859b04",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Fred Barley"
+      },
+      "end": "2007",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "2007"
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "begin": "2007",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "end": "2007",
+      "ended": true,
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "artist": {
+        "name": "Gabriel Costa",
+        "sort-name": "Costa, Gabriel",
+        "country": "BR",
+        "disambiguation": "bassist",
+        "type": "Person",
+        "id": "2138e580-3877-4c58-aaca-be6a0a046d4f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "2007",
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "name": "Cotton Casino",
+        "country": "JP",
+        "disambiguation": "",
+        "sort-name": "Cotton Casino",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "d61f5642-c91c-4c38-9050-e3cd00a40fa2"
+      },
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "2007",
+      "ended": true,
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      }
+    },
+    {
+      "begin": "2007",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attributes": [
+        "guitar"
+      ],
+      "end": "2007",
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "id": "46d48be0-ea4d-4101-8860-8eaa19cdaa68",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Golfetti, Fabio",
+        "disambiguation": "guitarist/singer",
+        "country": "BR",
+        "name": "Fabio Golfetti"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "6cd7b10b-4e0c-462e-a43f-753b48b55a03",
+        "type": "Person",
+        "country": "JP",
+        "disambiguation": "Japanese musician, cfr Acid Mothers Temple",
+        "sort-name": "Kawabata, Makoto",
+        "name": "河端一"
+      },
+      "ended": true,
+      "end": "2007",
+      "attributes": [
+        "guitar"
+      ],
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "2007",
+      "direction": "backward"
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2007",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "guitar"
+      ],
+      "end": "2007",
+      "ended": true,
+      "artist": {
+        "name": "Josh Pollock",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c4609cf5-0b54-44eb-a475-f0760fc0a689",
+        "type": "Person",
+        "country": "US",
+        "disambiguation": "guitarist; composer; DJ",
+        "sort-name": "Pollock, Josh"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "direction": "backward",
+      "begin": "2007",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attributes": [
+        "flute"
+      ],
+      "end": "2007",
+      "ended": true,
+      "artist": {
+        "id": "41368def-f9e1-4402-b65f-0c7b0cf6bbdb",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Ringel, Marcelo",
+        "country": "BR",
+        "disambiguation": "saxophonist",
+        "name": "Marcelo Ringel"
+      },
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      }
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": "2007",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "saxophone"
+      ],
+      "end": "2007",
+      "ended": true,
+      "artist": {
+        "name": "Marcelo Ringel",
+        "sort-name": "Ringel, Marcelo",
+        "disambiguation": "saxophonist",
+        "country": "BR",
+        "type": "Person",
+        "id": "41368def-f9e1-4402-b65f-0c7b0cf6bbdb",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "2007",
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "name": "津山篤",
+        "sort-name": "Tsuyama, Atsushi",
+        "country": "JP",
+        "disambiguation": "Japanese vocalist & multi-instrumentalist",
+        "id": "3284f035-85ea-45ce-be39-9e808d4d1b65",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "ended": true,
+      "end": "2007",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      }
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "2007",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "name": "吉田達也",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7a82840d-beb5-4819-aed3-6b732332b461",
+        "type": "Person",
+        "country": "JP",
+        "disambiguation": "drummer in Ruins",
+        "sort-name": "Yoshida, Tatsuya"
+      },
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "begin": "2007",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "2007",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "sort-name": "Smyth, Gilli",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "id": "219c937b-9396-49cf-b834-d38ef3df685a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Gilli Smyth"
+      },
+      "attributes": [
+        "original"
+      ],
+      "end": "2013",
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "2008",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "artist": {
+        "sort-name": "Howlett, Mike",
+        "disambiguation": "",
+        "country": "GB",
+        "type": "Person",
+        "id": "40011ecd-075c-4f19-a5a3-bf16e5ff064e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mike Howlett"
+      },
+      "end": "2009",
+      "ended": true,
+      "attributes": [
+        "electric bass guitar"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "ended": true,
+      "end": "2010",
+      "attributes": [
+        "flute"
+      ],
+      "artist": {
+        "name": "Theo Travis",
+        "country": "GB",
+        "disambiguation": "British saxophonist, flautist and clarinetist",
+        "sort-name": "Travis, Theo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "166a1d07-62cd-4b26-8021-c339d4cc0894",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2008",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "artist": {
+        "type": "Person",
+        "id": "166a1d07-62cd-4b26-8021-c339d4cc0894",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Travis, Theo",
+        "country": "GB",
+        "disambiguation": "British saxophonist, flautist and clarinetist",
+        "name": "Theo Travis"
+      },
+      "attributes": [
+        "saxophone"
+      ],
+      "end": "2010",
+      "ended": true,
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "2008",
+      "direction": "backward"
+    },
+    {
+      "artist": {
+        "name": "Miquette Giraudy",
+        "id": "8470749d-74b1-4456-8861-627b85f81ffb",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Giraudy, Miquette",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "ended": true,
+      "end": "2012",
+      "attributes": [
+        "synthesizer"
+      ],
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "2008",
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attributes": [
+        "lead vocals"
+      ],
+      "ended": true,
+      "end": "2012",
+      "artist": {
+        "type": "Person",
+        "id": "bb0ae0c0-16eb-43df-9f99-7f351c53354a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hillage, Steve",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Steve Hillage"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "2008",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "artist": {
+        "name": "Steve Hillage",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "bb0ae0c0-16eb-43df-9f99-7f351c53354a",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Hillage, Steve"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "ended": true,
+      "end": "2012",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "2008",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "name": "Chris Taylor",
+        "country": "US",
+        "disambiguation": "drummer for Gong, Roachford & Steve Hillage Band",
+        "sort-name": "Taylor, Chris",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "b3aec929-1bbd-4754-91ce-996f0a9d0dcc"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "2012",
+      "ended": true,
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "2008",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "begin": "2009-06-05",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "fretless bass": "96bec768-bee7-4b67-816e-3b4743df98ec"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [
+        "fretless bass"
+      ],
+      "artist": {
+        "name": "Dave Sturt",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "9407fbc8-7bff-4638-ace6-1af138b90526",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Sturt, Dave"
+      }
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "956403a3-d18b-4d48-beb4-11f8efbdfe10",
+        "disambiguation": "saxophonist / flutist",
+        "country": null,
+        "sort-name": "East, Ian",
+        "name": "Ian East"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [
+        "flute"
+      ],
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "2009",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {}
+    },
+    {
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "2009",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "artist": {
+        "id": "956403a3-d18b-4d48-beb4-11f8efbdfe10",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "East, Ian",
+        "disambiguation": "saxophonist / flutist",
+        "country": null,
+        "name": "Ian East"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [
+        "saxophone"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "2014",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "type": "Person",
+        "id": "69b1f2c7-8400-443e-b1f7-27319f04c3d8",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Allen, Orlando",
+        "disambiguation": "",
+        "country": null,
+        "name": "Orlando Allen"
+      },
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2012",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "name": "Fabio Golfetti",
+        "id": "46d48be0-ea4d-4101-8860-8eaa19cdaa68",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Golfetti, Fabio",
+        "country": "BR",
+        "disambiguation": "guitarist/singer"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "end": null,
+      "ended": false,
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": "2012"
+    },
+    {
+      "direction": "backward",
+      "begin": "2014",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "end": null,
+      "ended": false,
+      "attributes": [
+        "percussion"
+      ],
+      "artist": {
+        "sort-name": "Nettles, Cheb",
+        "country": null,
+        "disambiguation": "",
+        "type": "Person",
+        "id": "8514c114-c558-44c0-b48f-086f0e61e018",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Cheb Nettles"
+      },
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      }
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "sort-name": "Nettles, Cheb",
+        "country": null,
+        "disambiguation": "",
+        "type": "Person",
+        "id": "8514c114-c558-44c0-b48f-086f0e61e018",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Cheb Nettles"
+      },
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2014",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "2014",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "name": "Kavus Torabi",
+        "type": "Person",
+        "id": "0def4adf-f659-4ac6-8742-b81f63b64fd9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Torabi, Kavus",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [
+        "guitar"
+      ]
+    },
+    {
+      "artist": {
+        "sort-name": "Cinelu, Mino",
+        "country": "FR",
+        "disambiguation": "",
+        "type": "Person",
+        "id": "04ec3b18-63f3-481c-b820-f1f21775e805",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mino Cinelu"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "name": "Burton Greene",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "6ed828d0-eee9-48ad-98fc-89de5510a0e3",
+        "type": "Person",
+        "disambiguation": "jazz pianist",
+        "country": "US",
+        "sort-name": "Greene, Burton"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": null
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "artist": {
+        "sort-name": "Lozaga, Bon",
+        "disambiguation": "",
+        "country": null,
+        "id": "3ec56389-f650-4afe-a1f9-48d2528e6a91",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Bon Lozaga"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "Charlie Mariano",
+        "sort-name": "Mariano, Charlie",
+        "country": "DE",
+        "disambiguation": "",
+        "type": "Person",
+        "id": "9f7f5005-99da-4f89-aae5-4ae58c82d475",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "target-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "name": "Hansford Rowe",
+        "id": "a12f912f-88ff-494e-b55d-92f423215edf",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Rowe, Hansford",
+        "disambiguation": "",
+        "country": "US"
+      },
+      "attribute-ids": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "name": "Darryl Way",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Way, Darryl",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "a0e996dc-30f9-4f10-ae87-e514e56d43b7"
+      }
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": true,
+      "artist": {
+        "name": "Allan Holdsworth",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "a6396e33-9298-493e-9409-f0e1366b326b",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Holdsworth, Allan"
+      },
+      "attribute-ids": {},
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "type": "subgroup",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Fast Breeder & the Radio Actors",
+        "disambiguation": "Sting and the Radioactors",
+        "country": "GB",
+        "type": "Group",
+        "id": "fbad2195-2aa3-4601-82a7-498efeab3333",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Fast Breeder & the Radio Actors"
+      },
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "subgroup",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "target-type": "artist",
+      "target-credit": "",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "ff9df8dd-9934-48e4-9239-b7f1c341f05f",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "New York Gong",
+        "country": "US",
+        "disambiguation": "",
+        "name": "New York Gong"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "url": {
+        "id": "b5d72c90-c9c1-410e-b28a-1aa42434e9b7",
+        "resource": "https://www.allmusic.com/artist/mn0000949619"
+      },
+      "type": "allmusic",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-type": "url",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "effa1b4e-7cc3-4713-afcc-761a3465c0b0",
+        "resource": "https://gongband.bandcamp.com/"
+      },
+      "type": "bandcamp",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88"
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "url": {
+        "id": "a4386a6a-7dbd-471e-bdf0-304144f1f958",
+        "resource": "https://www.bandsintown.com/a/43220"
+      },
+      "type": "bandsintown",
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/10346",
+        "id": "3046b868-3de2-4374-9159-c0c52cd86fe1"
+      },
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "type": "free streaming",
+      "url": {
+        "id": "ab348053-1b83-461d-a27c-ce2c4e18ac73",
+        "resource": "https://open.spotify.com/artist/47yvARr7dCOKqvjDVwfbf3"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "type": "free streaming",
+      "url": {
+        "id": "45648d70-8571-4dd5-bc10-e0595fe0b84a",
+        "resource": "https://www.deezer.com/artist/2329"
+      },
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "type": "IMDb",
+      "url": {
+        "resource": "https://www.imdb.com/name/nm4748712/",
+        "id": "d27ad0d8-bdfe-401b-8261-7c1bdb32787b"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "url": {
+        "resource": "https://www.last.fm/music/Gong",
+        "id": "d15d106d-18a0-4cf1-aea6-39edc7938279"
+      },
+      "type": "last.fm"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {},
+      "type": "lyrics",
+      "url": {
+        "resource": "https://genius.com/artists/Gong",
+        "id": "28333b77-fb72-4329-8b1e-756035420b44"
+      },
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "url": {
+        "id": "10b80044-5d1a-4823-bf56-0af6ca217ce3",
+        "resource": "https://www.gongband.com/"
+      },
+      "type": "official homepage",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.planetgong.co.uk/",
+        "id": "003d8d0a-a28f-4dee-8d8e-6dc9e46821bc"
+      },
+      "type": "official homepage",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "c4ba5943-760e-402e-a783-fd2f92fa8ca3",
+        "resource": "http://id.loc.gov/authorities/names/nr97020004"
+      },
+      "type": "other databases"
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "id": "65563a62-5db7-4493-9bb9-4d7e60103d1b",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13903741c"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7TtTxpf49y7GTyvFCF",
+        "id": "6f109d24-cc31-436c-8d2f-a3902ee878f1"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "url",
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://imvdb.com/n/gong",
+        "id": "0c7d49c1-48fd-4eb5-ac97-3b38d81ff9ff"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "url"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "id": "f17283da-48d3-4b72-8d15-c8abd4f7c486",
+        "resource": "https://rateyourmusic.com/artist/gong"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "target-type": "url",
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "6c5ad392-ef36-405d-bfac-74a5c7b7ee1e",
+        "resource": "https://www.45cat.com/artist/gong"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-credit": "",
+      "target-type": "url",
+      "type": "other databases",
+      "url": {
+        "id": "5a720430-8f75-49d9-8e6a-fe2e9d1fdedf",
+        "resource": "https://www.jazzmusicarchives.com/artist/gong"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/gong/",
+        "id": "7ebaa7cf-9200-4706-9109-a62ba932d847"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=848",
+        "id": "a2e98250-750b-49cb-bcd6-ab685355674e"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "id": "a119d9ec-8b5b-4784-93f9-0f0fed537b4b",
+        "resource": "https://www.spirit-of-rock.com/en/band/Gong"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "url",
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.whosampled.com/Gong/",
+        "id": "b35c8e62-0621-445e-b7c8-49e14d85dba3"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://mora.jp/artist/207977/",
+        "id": "93c7d46b-c555-4880-abb1-62763eff740c"
+      },
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "31fe09b8-3ace-42dc-b2e5-a711544eb6f3",
+        "resource": "https://music.apple.com/gb/artist/6663678"
+      },
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "id": "42a7eed2-5990-4713-906f-1bb2b3bb6ad4",
+        "resource": "https://music.bugs.co.kr/artist/33733"
+      },
+      "type": "purchase for download",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/304368",
+        "id": "84083787-6f88-4790-9fc3-037ce4f7b5a8"
+      },
+      "type": "purchase for download",
+      "source-credit": "ゴング",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "id": "b34ebe66-6f91-448f-91bd-ae326b589ed7",
+        "resource": "https://uk.7digital.com/artist/gong"
+      },
+      "type": "purchase for download",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "target-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "8c0d4554-9869-427e-875f-7eb495c8e442",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=103985"
+      },
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "id": "86fb91c5-05c0-4cd1-8646-4ad469f92d15",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/gong/73139"
+      },
+      "type": "purchase for download",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/11964",
+        "id": "c1725726-d84f-4823-8042-6a75040248d7"
+      },
+      "type": "secondhandsongs",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/gong-bd6b5b6.html",
+        "id": "380f3e3b-f4a9-4bb4-873e-da1dd043851a"
+      },
+      "type": "setlistfm",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    },
+    {
+      "type": "songkick",
+      "url": {
+        "resource": "https://www.songkick.com/artists/335858",
+        "id": "162372e2-610b-48b6-b3b8-829305cd1080"
+      },
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/6663678",
+        "id": "31fe09b8-3ace-42dc-b2e5-a711544eb6f3"
+      },
+      "type": "streaming",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "id": "42a7eed2-5990-4713-906f-1bb2b3bb6ad4",
+        "resource": "https://music.bugs.co.kr/artist/33733"
+      },
+      "type": "streaming",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "resource": "https://tidal.com/artist/3510426",
+        "id": "098d3fa9-bf16-4d45-9c01-cafb098d9bf3"
+      },
+      "type": "streaming",
+      "target-type": "url",
+      "target-credit": "",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=103985",
+        "id": "8c0d4554-9869-427e-875f-7eb495c8e442"
+      },
+      "type": "streaming",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "id": "86fb91c5-05c0-4cd1-8646-4ad469f92d15",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/gong/73139"
+      },
+      "type": "streaming",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/130895269",
+        "id": "4df03a54-250d-4450-b8e3-fe2a2fac9fd2"
+      },
+      "type": "VIAF",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-type": "url",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "type": "wikidata",
+      "url": {
+        "id": "505619d7-029e-4be2-9957-2f3f0d2fe758",
+        "resource": "https://www.wikidata.org/wiki/Q544024"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "74734ec8-e8ae-4058-99af-82802e9fe84d",
+        "resource": "https://www.youtube.com/channel/UC-eQ1YLIHEDZklYeXJyRdLg"
+      },
+      "type": "youtube",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-type": "url",
+      "target-credit": "",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "url": {
+        "id": "b002cc01-4974-42e2-9c07-b14801b9451f",
+        "resource": "https://music.youtube.com/channel/UC-eQ1YLIHEDZklYeXJyRdLg"
+      },
+      "type": "youtube music",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward"
+    }
+  ],
+  "name": "Gong",
+  "begin-area": {
+    "disambiguation": "",
+    "sort-name": "Paris",
+    "type-id": null,
+    "iso-3166-2-codes": [
+      "FR-75"
+    ],
+    "type": null,
+    "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+    "name": "Paris"
+  }
+}

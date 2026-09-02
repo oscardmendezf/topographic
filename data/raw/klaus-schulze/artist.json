@@ -1,0 +1,761 @@
+{
+  "end-area": null,
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "country": "DE",
+  "gender": "Male",
+  "aliases": [
+    {
+      "locale": null,
+      "ended": false,
+      "end": null,
+      "sort-name": "Schulze, Klaus-Jürgen",
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "begin": null,
+      "primary": null,
+      "type": "Legal name",
+      "name": "Klaus-Jürgen Schulze"
+    }
+  ],
+  "isnis": [
+    "0000000078391428"
+  ],
+  "id": "2e710b0c-6ff3-4c21-87d5-16ebbbca212c",
+  "life-span": {
+    "ended": true,
+    "end": "2022-04-26",
+    "begin": "1947-08-04"
+  },
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "begin-area": {
+    "disambiguation": "",
+    "type": null,
+    "iso-3166-2-codes": [
+      "DE-BE"
+    ],
+    "name": "Berlin",
+    "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+    "sort-name": "Berlin",
+    "type-id": null
+  },
+  "relations": [
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Wahnfried, Richard",
+        "country": null,
+        "id": "f1541a24-3f6b-4176-a3de-1f6560996a93",
+        "name": "Richard Wahnfried",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "dd9886f2-1dfe-4270-97db-283f6839a666",
+      "direction": "forward",
+      "type": "is person",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "dd9886f2-1dfe-4270-97db-283f6839a666",
+      "begin": null,
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "U.S.O.",
+        "country": null,
+        "id": "d1037615-7c17-42a0-b1c4-862b8e9a7c86",
+        "name": "U.S.O.",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": null,
+      "type": "is person",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "DE",
+        "sort-name": "Tangerine Dream",
+        "id": "23d8426c-18c7-46e6-a51d-7395bd43c641",
+        "name": "Tangerine Dream",
+        "type": "Group",
+        "disambiguation": ""
+      },
+      "end": "1970",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1969",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "ended": true,
+      "artist": {
+        "name": "Ash Ra Tempel",
+        "type": "Group",
+        "disambiguation": "German krautrock band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "DE",
+        "sort-name": "Ash Ra Tempel",
+        "id": "7e62de5d-1cc6-4779-a588-8923cf9fe09d"
+      },
+      "end": "1971",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "forward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "US",
+        "sort-name": "Yamashta, Stomu, Go",
+        "id": "31559424-7e17-4670-bef2-5198148a4438",
+        "name": "Stomu Yamashta’s Go",
+        "type": "Group",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1976",
+      "attribute-credits": {},
+      "direction": "forward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [
+        "synthesizer"
+      ],
+      "source-credit": ""
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "krautrock band",
+        "type": "Group",
+        "name": "Eruption",
+        "id": "00744c4b-12df-4814-8575-3a339f19fb8e",
+        "sort-name": "Eruption",
+        "country": "DE",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "type": "Group",
+        "name": "The Dark Side of the Moog",
+        "id": "238639ef-7cb9-4b90-8640-703dba30a117",
+        "country": null,
+        "sort-name": "The Dark Side of the Moog",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "name": "Hello Mr. Klaus",
+        "disambiguation": "electronic music producer",
+        "sort-name": "Hello Mr. Klaus",
+        "country": "VE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c24b31cc-089d-4066-b94f-846304ec05eb"
+      },
+      "attribute-ids": {},
+      "type-id": "1af24726-5b1f-4b07-826e-5351723f504b",
+      "begin": null,
+      "direction": "backward",
+      "type": "named after artist",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "6afc08b4-a61c-4ffb-aabb-0f96fd1c77ff",
+        "resource": "https://www.allmusic.com/artist/mn0000084803"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "allmusic",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "bandcamp",
+      "url": {
+        "id": "b21d499b-d2ff-4e3e-9c7a-50313ea46298",
+        "resource": "https://klausschulze.bandcamp.com/"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "ended": true,
+      "end": "2020-11-19",
+      "url": {
+        "id": "48b684b7-adc5-4c18-8a3e-4ae375281051",
+        "resource": "https://www.bbc.co.uk/music/artists/2e710b0c-6ff3-4c21-87d5-16ebbbca212c"
+      },
+      "type": "BBC Music page",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.discogs.com/artist/10360",
+        "id": "7b607dd7-9bff-4abd-890e-ee4f0f04878b"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discogs"
+    },
+    {
+      "type": "free streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB",
+        "id": "ddd76aab-4ca6-4b8d-90e5-b065ecbac3a5"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming",
+      "end": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/16018",
+        "id": "9051516a-1667-4fe1-b4a1-5c980452c4e8"
+      },
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "0e4c4d68-fe27-4b05-86b2-61f72b89ec59",
+        "resource": "https://commons.wikimedia.org/wiki/File:Schulze_and_Gerard_01.jpg"
+      },
+      "attribute-ids": {},
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "begin": null,
+      "direction": "forward",
+      "type": "image",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "IMDb",
+      "end": null,
+      "url": {
+        "resource": "https://www.imdb.com/name/nm0776573/",
+        "id": "65a070d1-b48f-4216-9b64-e3b49034e78d"
+      },
+      "ended": false,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "last.fm",
+      "url": {
+        "resource": "https://www.last.fm/music/Klaus+Schulze",
+        "id": "9cb5d6b5-ecaa-43b9-a73c-f91aae978657"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "myspace",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "ended": false,
+      "url": {
+        "resource": "https://myspace.com/klausschulze",
+        "id": "95b98cd3-3cf6-4185-88b4-8be8d058e201"
+      },
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "official homepage",
+      "direction": "forward",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "c2143794-3cc6-4e9c-a9ad-b6ae49851952",
+        "resource": "https://www.klaus-schulze.com/"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n82102317",
+        "id": "36fbc3b9-2e01-45e2-bfec-649dd16808d4"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13899564m",
+        "id": "b4700573-c2f2-41e3-8803-b9519097e852"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "830da614-c9df-41c2-b788-42a663a8ab25",
+        "resource": "https://d-nb.info/gnd/118832425"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/klaus-schulze",
+        "id": "a52d15bc-e00c-46de-802f-97bbed55e605"
+      },
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/12792/",
+        "id": "822b3038-9b93-4fb6-ae5b-7ebe498ff509"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "d1ad1fe4-60c1-472c-8758-7c835719e9c2",
+        "resource": "https://www.progarchives.com/artist.asp?id=1613"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.whosampled.com/Klaus-Schulze/",
+        "id": "5ee4265d-2b94-4079-a8bd-795aef0798f6"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "37dde0e9-b91c-4daf-842e-fdfea97cf50a",
+        "resource": "https://www.worldcat.org/identities/lccn-n82102317"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "20a4f41a-70e2-4c84-93ba-dad8b0ff28f4",
+        "resource": "https://secondhandsongs.com/artist/103951"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "secondhandsongs",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/klaus-schulze-13d6955d.html",
+        "id": "6bd5ee46-b027-4df7-a239-645b1104d36e"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "setlistfm",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "songkick",
+      "end": null,
+      "url": {
+        "resource": "https://www.songkick.com/artists/95664",
+        "id": "5cd7925e-0850-4246-bb5a-582bbc7f041b"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "cc64a7b9-9fd8-435a-a13b-c802ab1d9d39",
+        "resource": "https://soundcloud.com/klaus-schulze-official"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "soundcloud",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://music.apple.com/de/artist/4076183",
+        "id": "7b9f0a04-c2b4-4672-9672-6edd9443d45f"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "direction": "forward",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "url": {
+        "id": "61d811f6-59c5-471b-b25e-52540698deb6",
+        "resource": "https://tidal.com/artist/3514645"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "http://viaf.org/viaf/22938501",
+        "id": "4f8dd7c1-a4d0-47e1-a820-a3ef92caf89c"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "direction": "forward",
+      "type": "VIAF",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikidata",
+      "url": {
+        "id": "8b013a41-cfb9-45d9-84cf-b6af235d9740",
+        "resource": "https://www.wikidata.org/wiki/Q168015"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "11c04b07-5f75-464a-a4b7-251352e3ecbd",
+        "resource": "https://music.youtube.com/channel/UCGKJkGmu3GiS-eO9z0hrqCg"
+      },
+      "end": null,
+      "type": "youtube music",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    }
+  ],
+  "sort-name": "Schulze, Klaus",
+  "area": {
+    "iso-3166-1-codes": [
+      "DE"
+    ],
+    "sort-name": "Germany",
+    "type-id": null,
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "type": null,
+    "name": "Germany",
+    "disambiguation": ""
+  },
+  "disambiguation": "German electronic musician",
+  "ipis": [
+    "00064977630",
+    "00076422475"
+  ],
+  "name": "Klaus Schulze",
+  "type": "Person"
+}

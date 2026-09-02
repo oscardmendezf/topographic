@@ -1,0 +1,1373 @@
+{
+ "grupos": [
+  {
+   "id": "eeuu-1",
+   "escena": "eeuu",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "kansas",
+     "catalogo": [
+      {
+       "album_slug": "kansas-kansas",
+       "titulo": "Kansas",
+       "anio": 1974,
+       "mbid": "93a57755-646e-3968-9b8b-f55ce2a7f0d8"
+      },
+      {
+       "album_slug": "kansas-song-for-america",
+       "titulo": "Song for America",
+       "anio": 1975,
+       "mbid": "8d28c139-d7e5-3a6b-90d7-9a8054c58858"
+      },
+      {
+       "album_slug": "kansas-masque",
+       "titulo": "Masque",
+       "anio": 1975,
+       "mbid": "384f829e-3f16-3bb8-8214-e61f5ad19e8a"
+      },
+      {
+       "album_slug": "kansas-leftoverture",
+       "titulo": "Leftoverture",
+       "anio": 1976,
+       "mbid": "bfdf9b55-597b-3270-81c2-3e0f18606d0e"
+      },
+      {
+       "album_slug": "kansas-point-of-know-return",
+       "titulo": "Point of Know Return",
+       "anio": 1977,
+       "mbid": "c71e6754-dbc9-3882-82ce-7d41457d1fb5"
+      },
+      {
+       "album_slug": "kansas-monolith",
+       "titulo": "Monolith",
+       "anio": 1979,
+       "mbid": "f7241a42-bcc9-3151-a716-4be73413bfd3"
+      },
+      {
+       "album_slug": "kansas-audiovisions",
+       "titulo": "Audio‐Visions",
+       "anio": 1980,
+       "mbid": "c8599721-5d49-34c1-94be-7c5e15a5991d"
+      },
+      {
+       "album_slug": "kansas-vinyl-confessions-demos",
+       "titulo": "Vinyl Confessions Demos",
+       "anio": 1981,
+       "mbid": "58092d3e-fe2a-4bc9-8ac3-1b9e3043ed0b"
+      },
+      {
+       "album_slug": "kansas-vinyl-confessions",
+       "titulo": "Vinyl Confessions",
+       "anio": 1982,
+       "mbid": "3d073802-a363-3b16-b34a-87eb0fdb74d6"
+      },
+      {
+       "album_slug": "kansas-drastic-measures",
+       "titulo": "Drastic Measures",
+       "anio": 1983,
+       "mbid": "57f75561-6f44-3f78-895c-0a4d4b42bae5"
+      },
+      {
+       "album_slug": "kansas-power-demos",
+       "titulo": "Power Demos",
+       "anio": 1986,
+       "mbid": "c35f9335-1707-40c1-968a-f9b721e3f026"
+      },
+      {
+       "album_slug": "kansas-power-demos-and-outtakes",
+       "titulo": "Power Demos and Outtakes",
+       "anio": 1986,
+       "mbid": "930e0165-8cae-49a7-af61-7f77d78ee77f"
+      },
+      {
+       "album_slug": "kansas-power",
+       "titulo": "Power",
+       "anio": 1986,
+       "mbid": "2a3b7327-c941-3de4-9706-9b812faa4693"
+      },
+      {
+       "album_slug": "kansas-in-the-spirit-of-things",
+       "titulo": "In the Spirit of Things",
+       "anio": 1988,
+       "mbid": "70e1fd2d-9ec0-3d7c-8ab1-98445668ffeb"
+      },
+      {
+       "album_slug": "kansas-freaks-of-nature",
+       "titulo": "Freaks of Nature",
+       "anio": 1995,
+       "mbid": "3764eb60-6704-32f3-a05a-4338466efcf2"
+      },
+      {
+       "album_slug": "kansas-always-never-the-same",
+       "titulo": "Always Never the Same",
+       "anio": 1998,
+       "mbid": "82904fe0-23ba-3a6b-98eb-3c52c7e9e929"
+      },
+      {
+       "album_slug": "kansas-somewhere-to-elsewhere",
+       "titulo": "Somewhere to Elsewhere",
+       "anio": 2000,
+       "mbid": "d390aacd-2b31-39a6-80f2-e28a40693240"
+      },
+      {
+       "album_slug": "kansas-the-prelude-implicit",
+       "titulo": "The Prelude Implicit",
+       "anio": 2016,
+       "mbid": "f4771516-ccf8-40c3-b082-694a73ebec4e"
+      },
+      {
+       "album_slug": "kansas-the-absence-of-presence",
+       "titulo": "The Absence of Presence",
+       "anio": 2020,
+       "mbid": "4b2fc007-7554-42ac-8d55-d7c9d50d88ea"
+      }
+     ]
+    },
+    {
+     "slug": "styx",
+     "catalogo": [
+      {
+       "album_slug": "styx-styx",
+       "titulo": "Styx",
+       "anio": 1972,
+       "mbid": "ed18d755-486d-3a7d-87ab-95a3378a101e"
+      },
+      {
+       "album_slug": "styx-styx-ii",
+       "titulo": "Styx II",
+       "anio": 1973,
+       "mbid": "bc33142b-e681-34bf-9d8f-13bfca1325fd"
+      },
+      {
+       "album_slug": "styx-the-serpent-is-rising",
+       "titulo": "The Serpent Is Rising",
+       "anio": 1973,
+       "mbid": "3ba07357-b9db-30ea-8a1a-127ecdeea16e"
+      },
+      {
+       "album_slug": "styx-man-of-miracles",
+       "titulo": "Man of Miracles",
+       "anio": 1974,
+       "mbid": "84c058a4-f4ec-32d6-9794-6669a121c237"
+      },
+      {
+       "album_slug": "styx-equinox",
+       "titulo": "Equinox",
+       "anio": 1975,
+       "mbid": "4ba9b7bd-d502-3263-b59c-e1cbb467ac28"
+      },
+      {
+       "album_slug": "styx-crystal-ball",
+       "titulo": "Crystal Ball",
+       "anio": 1976,
+       "mbid": "00ca06f6-437a-3a96-bca8-0dde3e4c6790"
+      },
+      {
+       "album_slug": "styx-the-grand-illusion",
+       "titulo": "The Grand Illusion",
+       "anio": 1977,
+       "mbid": "1b3c2b8a-a81f-3ad7-b6d3-85a946f15623"
+      },
+      {
+       "album_slug": "styx-pieces-of-eight",
+       "titulo": "Pieces of Eight",
+       "anio": 1978,
+       "mbid": "f56fa445-b860-385f-ba4e-72ea214fc2c0"
+      },
+      {
+       "album_slug": "styx-cornerstone",
+       "titulo": "Cornerstone",
+       "anio": 1979,
+       "mbid": "1b433a24-a436-34bb-a456-d3c1d2c377a5"
+      },
+      {
+       "album_slug": "styx-paradise-theatre",
+       "titulo": "Paradise Theatre",
+       "anio": 1981,
+       "mbid": "7f7bae53-22ac-30af-bdcc-2ad7b1c6dabd"
+      },
+      {
+       "album_slug": "styx-kilroy-was-here",
+       "titulo": "Kilroy Was Here",
+       "anio": 1983,
+       "mbid": "8d40e763-9cbf-3cea-a661-f61a1aa1f4ec"
+      },
+      {
+       "album_slug": "styx-edge-of-the-century",
+       "titulo": "Edge of the Century",
+       "anio": 1990,
+       "mbid": "5b4c3435-eed8-3926-801b-ba5336ec636e"
+      },
+      {
+       "album_slug": "styx-brave-new-world",
+       "titulo": "Brave New World",
+       "anio": 1999,
+       "mbid": "ce665a7d-275a-3b18-b8c7-3ebae4a9acb6"
+      },
+      {
+       "album_slug": "styx-cyclorama",
+       "titulo": "Cyclorama",
+       "anio": 2003,
+       "mbid": "3c28fac0-af57-348d-b234-865d9d635bfe"
+      },
+      {
+       "album_slug": "styx-big-bang-theory",
+       "titulo": "Big Bang Theory",
+       "anio": 2005,
+       "mbid": "9e440ff9-b4ee-3c8f-b43a-8d427fcdbace"
+      },
+      {
+       "album_slug": "styx-live-in-chicago-mantra-studio-recordings",
+       "titulo": "Live In Chicago Mantra Studio Recordings",
+       "anio": 2015,
+       "mbid": "339f4dfe-d0b7-4296-b890-2a9775b5e55f"
+      },
+      {
+       "album_slug": "styx-the-mission",
+       "titulo": "The Mission",
+       "anio": 2017,
+       "mbid": "f011f912-99fd-4855-92b0-63ce7eee82f9"
+      },
+      {
+       "album_slug": "styx-crash-of-the-crown",
+       "titulo": "Crash of the Crown",
+       "anio": 2021,
+       "mbid": "75be3a96-dc92-47ef-a959-5cf26079479f"
+      },
+      {
+       "album_slug": "styx-circling-from-above",
+       "titulo": "Circling From Above",
+       "anio": 2025,
+       "mbid": "b455a8da-404d-4f24-b45b-9ab23d9c5ce4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eeuu-2",
+   "escena": "eeuu",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "utopia",
+     "catalogo": [
+      {
+       "album_slug": "utopia-todd-rundgrens-utopia",
+       "titulo": "Todd Rundgren’s Utopia",
+       "anio": 1974,
+       "mbid": "43c8315e-db1e-3524-978b-ee737f61e4d6"
+      },
+      {
+       "album_slug": "utopia-ra",
+       "titulo": "Ra",
+       "anio": 1977,
+       "mbid": "a0e80dca-a34f-3626-b9b5-b1aeefb06359"
+      },
+      {
+       "album_slug": "utopia-oops-wrong-planet",
+       "titulo": "Oops! Wrong Planet",
+       "anio": 1977,
+       "mbid": "42e449bb-96a4-3038-9051-d14b67c9a0b2"
+      },
+      {
+       "album_slug": "utopia-deface-the-music",
+       "titulo": "Deface the Music",
+       "anio": 1980,
+       "mbid": "5ff317bd-536e-3505-b15a-1bac1b327efa"
+      },
+      {
+       "album_slug": "utopia-adventures-in-utopia",
+       "titulo": "Adventures in Utopia",
+       "anio": 1980,
+       "mbid": "086c1b6c-0078-3ad0-8b4a-c1d77d317434"
+      },
+      {
+       "album_slug": "utopia-utopia",
+       "titulo": "Utopia",
+       "anio": 1982,
+       "mbid": "1eebc4b6-2d76-3b7c-b974-61a5e67f6922"
+      },
+      {
+       "album_slug": "utopia-swing-to-the-right",
+       "titulo": "Swing to the Right",
+       "anio": 1982,
+       "mbid": "0088f33b-732f-3f93-bc71-e8ad0460cd95"
+      },
+      {
+       "album_slug": "utopia-oblivion",
+       "titulo": "Oblivion",
+       "anio": 1983,
+       "mbid": "88062055-a435-3663-8239-2ddf9ed2a5ac"
+      },
+      {
+       "album_slug": "utopia-pov",
+       "titulo": "POV",
+       "anio": 1985,
+       "mbid": "b48f713f-7c3d-3b59-b9a2-34b7934de75f"
+      },
+      {
+       "album_slug": "utopia-disco-jets",
+       "titulo": "Disco Jets",
+       "anio": 2012,
+       "mbid": "769b5fce-0073-4059-a38f-567352425ed2"
+      }
+     ]
+    },
+    {
+     "slug": "happy-the-man",
+     "catalogo": [
+      {
+       "album_slug": "happy-the-man-happy-the-man",
+       "titulo": "Happy the Man",
+       "anio": 1977,
+       "mbid": "ca65c2e2-283f-35a2-9a7c-ba32e5f42f05"
+      },
+      {
+       "album_slug": "happy-the-man-crafty-hands",
+       "titulo": "Crafty Hands",
+       "anio": 1978,
+       "mbid": "85bbcce2-2461-3bc2-be88-c2777a24664e"
+      },
+      {
+       "album_slug": "happy-the-man-3rd-better-late",
+       "titulo": "3rd \"Better Late...\"",
+       "anio": 1983,
+       "mbid": "ca3341cd-4d8d-311f-952d-9b03424b08c7"
+      },
+      {
+       "album_slug": "happy-the-man-beginnings",
+       "titulo": "Beginnings",
+       "anio": 1990,
+       "mbid": "bceb0758-3ffe-3f0a-9e01-bb27dd7e662c"
+      },
+      {
+       "album_slug": "happy-the-man-deaths-crown",
+       "titulo": "Death’s Crown",
+       "anio": 1999,
+       "mbid": "860ab642-44f7-37bc-998e-13b980350b19"
+      },
+      {
+       "album_slug": "happy-the-man-the-muse-awakens",
+       "titulo": "The Muse Awakens",
+       "anio": 2004,
+       "mbid": "16341435-eca6-314f-ade4-aa526ac4afc3"
+      }
+     ]
+    },
+    {
+     "slug": "dixie-dregs",
+     "catalogo": [
+      {
+       "album_slug": "dixie-dregs-the-great-spectacular",
+       "titulo": "The Great Spectacular",
+       "anio": 1975,
+       "mbid": "ae8360d3-9d31-3ff5-9933-2ef3a0709705"
+      },
+      {
+       "album_slug": "dixie-dregs-free-fall",
+       "titulo": "Free Fall",
+       "anio": 1977,
+       "mbid": "c4a3a0cb-80f6-347d-8701-3321ec67caf8"
+      },
+      {
+       "album_slug": "dixie-dregs-what-if",
+       "titulo": "What If",
+       "anio": 1978,
+       "mbid": "3d3bd1e1-e4d0-344e-b02a-04feb10479de"
+      },
+      {
+       "album_slug": "dixie-dregs-night-of-the-living-dregs",
+       "titulo": "Night of the Living Dregs",
+       "anio": 1979,
+       "mbid": "f583feb9-ff12-352a-a359-08a8f6618a4b"
+      },
+      {
+       "album_slug": "dixie-dregs-dregs-of-the-earth",
+       "titulo": "Dregs of the Earth",
+       "anio": 1980,
+       "mbid": "67b71746-194a-3940-b7cb-f71d37028c0d"
+      },
+      {
+       "album_slug": "dixie-dregs-unsung-heroes",
+       "titulo": "Unsung Heroes",
+       "anio": 1981,
+       "mbid": "4724fb95-c5f1-3c4d-856e-37207ab8d66c"
+      },
+      {
+       "album_slug": "dixie-dregs-industry-standard",
+       "titulo": "Industry Standard",
+       "anio": 1982,
+       "mbid": "de4e5f35-622e-36ec-87d8-b81d6db83744"
+      },
+      {
+       "album_slug": "dixie-dregs-full-circle",
+       "titulo": "Full Circle",
+       "anio": 1994,
+       "mbid": "f4f6cd8f-a9ca-3769-a716-827616e599e4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "zappa",
+   "escena": "eeuu",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "frank-zappa",
+     "catalogo": [
+      {
+       "album_slug": "frank-zappa-the-boy-wonder-session-tapes",
+       "titulo": "The Boy Wonder Session Tapes",
+       "anio": 1966,
+       "mbid": "63d1ae46-bc78-4507-9686-fef563c1d4ad"
+      },
+      {
+       "album_slug": "frank-zappa-lumpy-gravy",
+       "titulo": "Lumpy Gravy",
+       "anio": 1967,
+       "mbid": "cbb91270-b1cd-4a7b-ace0-b2eff5f3c918"
+      },
+      {
+       "album_slug": "frank-zappa-lumpy-gravy",
+       "titulo": "Lumpy Gravy",
+       "anio": 1968,
+       "mbid": "b70fd4c3-d2f9-3322-8473-2c96f53171fc"
+      },
+      {
+       "album_slug": "frank-zappa-hot-rats",
+       "titulo": "Hot Rats",
+       "anio": 1969,
+       "mbid": "3f974fbd-9db8-3dff-9466-b9ae6fd9146c"
+      },
+      {
+       "album_slug": "frank-zappa-chungas-revenge",
+       "titulo": "Chunga’s Revenge",
+       "anio": 1970,
+       "mbid": "9aae3927-b128-316a-9bf4-1995991c79ec"
+      },
+      {
+       "album_slug": "frank-zappa-waka-jawaka",
+       "titulo": "Waka/Jawaka",
+       "anio": 1972,
+       "mbid": "bd5b70bd-8002-38ed-9f53-c0103aa16da2"
+      },
+      {
+       "album_slug": "frank-zappa-apostrophe",
+       "titulo": "Apostrophe (’)",
+       "anio": 1974,
+       "mbid": "2f3aa511-3270-3bb0-9661-0a7ed7e04be0"
+      },
+      {
+       "album_slug": "frank-zappa-one-size-fits-all",
+       "titulo": "One Size Fits All",
+       "anio": 1975,
+       "mbid": "19b7d4eb-0fe2-318f-a1f5-242a2e731b4b"
+      },
+      {
+       "album_slug": "frank-zappa-zoot-allures",
+       "titulo": "Zoot Allures",
+       "anio": 1976,
+       "mbid": "eb479aeb-0a29-3ea0-a218-9e780841fc6a"
+      },
+      {
+       "album_slug": "frank-zappa-titties-and-beer",
+       "titulo": "Titties and Beer",
+       "anio": 1977,
+       "mbid": "43f9ee2e-3670-4ff6-a2cc-8dd7962d8761"
+      },
+      {
+       "album_slug": "frank-zappa-rubber-slices",
+       "titulo": "Rubber Slices",
+       "anio": 1978,
+       "mbid": "97c6b91d-7561-4960-bb17-8f48fd51e5b4"
+      },
+      {
+       "album_slug": "frank-zappa-studio-tan",
+       "titulo": "Studio Tan",
+       "anio": 1978,
+       "mbid": "abe24cf4-884e-389b-8a1b-cbbad4a09e52"
+      },
+      {
+       "album_slug": "frank-zappa-warts-and-all",
+       "titulo": "Warts and All",
+       "anio": 1979,
+       "mbid": "0f643b4a-4c30-4190-9dbe-512b7c6aab3b"
+      },
+      {
+       "album_slug": "frank-zappa-sleep-dirt",
+       "titulo": "Sleep Dirt",
+       "anio": 1979,
+       "mbid": "816f8907-55f7-36b9-8a66-e83ef7d8613d"
+      },
+      {
+       "album_slug": "frank-zappa-sheik-yerbouti",
+       "titulo": "Sheik Yerbouti",
+       "anio": 1979,
+       "mbid": "c2980035-5ee5-30ff-9fbc-657255fbe4fd"
+      },
+      {
+       "album_slug": "frank-zappa-orchestral-favorites",
+       "titulo": "Orchestral Favorites",
+       "anio": 1979,
+       "mbid": "f0728a7e-8456-3d21-aed0-505cc3bcfc99"
+      },
+      {
+       "album_slug": "frank-zappa-joes-garage-act-i",
+       "titulo": "Joe’s Garage: Act I",
+       "anio": 1979,
+       "mbid": "2cd0a4d2-ec35-35dd-bcae-8310a6fff168"
+      },
+      {
+       "album_slug": "frank-zappa-joes-garage-acts-ii-iii",
+       "titulo": "Joe’s Garage: Acts II & III",
+       "anio": 1979,
+       "mbid": "45ef148d-d8da-3312-8f5e-1386347c85a9"
+      },
+      {
+       "album_slug": "frank-zappa-return-of-the-son-of-shut-up-n-play-yer-guitar",
+       "titulo": "Return of the Son of Shut Up ’n Play Yer Guitar",
+       "anio": 1981,
+       "mbid": "f721c8fc-786b-483c-84c9-11b6069a40df"
+      },
+      {
+       "album_slug": "frank-zappa-shut-up-n-play-yer-guitar",
+       "titulo": "Shut Up ’n Play Yer Guitar",
+       "anio": 1981,
+       "mbid": "bfcb35a9-f8c6-3f75-8f53-05943522bf09"
+      },
+      {
+       "album_slug": "frank-zappa-shut-up-n-play-yer-guitar-some-more",
+       "titulo": "Shut Up ’n Play Yer Guitar Some More",
+       "anio": 1981,
+       "mbid": "85654ae9-b4ed-4090-84a8-e79fdd0eb3af"
+      },
+      {
+       "album_slug": "frank-zappa-you-are-what-you-is",
+       "titulo": "You Are What You Is",
+       "anio": 1981,
+       "mbid": "5cb84f98-6e5b-32bd-bbba-d176ba313092"
+      },
+      {
+       "album_slug": "frank-zappa-ship-arriving-too-late-to-save-a-drowning-witch",
+       "titulo": "Ship Arriving Too Late to Save a Drowning Witch",
+       "anio": 1982,
+       "mbid": "a3b48199-6534-31fe-ac94-0b739221d323"
+      },
+      {
+       "album_slug": "frank-zappa-the-man-from-utopia",
+       "titulo": "The Man From Utopia",
+       "anio": 1983,
+       "mbid": "336be18a-4132-3954-9aa3-c722a3e292ce"
+      },
+      {
+       "album_slug": "frank-zappa-london-symphony-orchestra-vol-i",
+       "titulo": "London Symphony Orchestra, Vol. I",
+       "anio": 1983,
+       "mbid": "e114922e-6a29-3881-94b0-57fdfbc4ba12"
+      },
+      {
+       "album_slug": "frank-zappa-son-of-serious-music",
+       "titulo": "Son of Serious Music",
+       "anio": 1984,
+       "mbid": "2aef3775-c40d-422d-9453-6b679f95d657"
+      },
+      {
+       "album_slug": "frank-zappa-thingfish",
+       "titulo": "Thing‐Fish",
+       "anio": 1984,
+       "mbid": "f3feabe3-2114-3cd8-af00-973003f6b4fb"
+      },
+      {
+       "album_slug": "frank-zappa-boulez-conducts-zappa-the-perfect-stranger",
+       "titulo": "Boulez Conducts Zappa: The Perfect Stranger",
+       "anio": 1984,
+       "mbid": "4d19659e-77cf-3071-a4da-7d9cffba5542"
+      },
+      {
+       "album_slug": "frank-zappa-them-or-us",
+       "titulo": "Them or Us",
+       "anio": 1984,
+       "mbid": "4c8269c2-2772-311c-bda5-533d5117f8b3"
+      },
+      {
+       "album_slug": "frank-zappa-francesco-zappa",
+       "titulo": "Francesco Zappa",
+       "anio": 1984,
+       "mbid": "6236d640-3257-3d91-b853-81fc5017c374"
+      },
+      {
+       "album_slug": "frank-zappa-resolver-brutality",
+       "titulo": "Resolver + Brutality",
+       "anio": 1985,
+       "mbid": "3b6ea887-92cd-3a2f-81c2-3202e1eee93b"
+      },
+      {
+       "album_slug": "frank-zappa-frank-zappa-meets-the-mothers-of-prevention",
+       "titulo": "Frank Zappa Meets the Mothers of Prevention",
+       "anio": 1985,
+       "mbid": "3d973c76-40ed-3bc7-a035-cd2d9cbfb614"
+      },
+      {
+       "album_slug": "frank-zappa-jazz-from-hell",
+       "titulo": "Jazz From Hell",
+       "anio": 1986,
+       "mbid": "db261fa2-7a8e-36e5-b94e-4075c6c09944"
+      },
+      {
+       "album_slug": "frank-zappa-blood-on-the-canvas",
+       "titulo": "Blood on the Canvas",
+       "anio": 1987,
+       "mbid": "f607bcee-2353-4868-a559-f3a41bbc8f0b"
+      },
+      {
+       "album_slug": "frank-zappa-miami-matinee-vol-i",
+       "titulo": "Miami Matinée, Vol. I",
+       "anio": 1987,
+       "mbid": "7506b63e-7615-40b5-a604-f06cf14e724f"
+      },
+      {
+       "album_slug": "frank-zappa-miami-matinee-vol-ii",
+       "titulo": "Miami Matinée, Vol. II",
+       "anio": 1987,
+       "mbid": "2b526b1d-0195-4ef3-935a-b8531aa534fc"
+      },
+      {
+       "album_slug": "frank-zappa-london-symphony-orchestra-vol-ii",
+       "titulo": "London Symphony Orchestra, Vol. II",
+       "anio": 1987,
+       "mbid": "ebd5e4b0-ac9b-33ec-a34a-22aef53d6c78"
+      },
+      {
+       "album_slug": "frank-zappa-donna-you-wanna",
+       "titulo": "Donna You Wanna",
+       "anio": 1992,
+       "mbid": "c1ab3278-9483-4f5f-8345-7579e413d718"
+      },
+      {
+       "album_slug": "frank-zappa-zappa-lutosawski-lupone-part",
+       "titulo": "Zappa / Lutosławski / Lupone / Pärt",
+       "anio": 1994,
+       "mbid": "e90372c7-20dd-407d-aad4-569b56bdda70"
+      },
+      {
+       "album_slug": "frank-zappa-civilization-phaze-iii",
+       "titulo": "Civilization Phaze III",
+       "anio": 1994,
+       "mbid": "635f42a9-cea7-34c0-b625-6fd0db27141c"
+      },
+      {
+       "album_slug": "frank-zappa-just-another-live-album",
+       "titulo": "Just Another Live Album",
+       "anio": 1995,
+       "mbid": "b9f24157-103d-453f-9c17-840cd66a2cc9"
+      },
+      {
+       "album_slug": "frank-zappa-songs-and-dances",
+       "titulo": "Songs and Dances",
+       "anio": 1995,
+       "mbid": "50b6df86-75d2-47cb-bf6f-5ad4988da6d0"
+      },
+      {
+       "album_slug": "frank-zappa-lather",
+       "titulo": "Läther",
+       "anio": 1996,
+       "mbid": "4ef59d1b-3331-3e80-9728-7fef9c11f631"
+      },
+      {
+       "album_slug": "frank-zappa-everything-is-healing-nicely",
+       "titulo": "Everything Is Healing Nicely",
+       "anio": 1999,
+       "mbid": "cceb2da1-cda9-30db-b0ba-efeaa35c1811"
+      },
+      {
+       "album_slug": "frank-zappa-howdy-austin",
+       "titulo": "Howdy Austin",
+       "anio": 2002,
+       "mbid": "97971b7c-e664-451f-b566-1c6e98e3d36f"
+      },
+      {
+       "album_slug": "frank-zappa-chalk-pie",
+       "titulo": "Chalk Pie",
+       "anio": 2003,
+       "mbid": "3e723156-b971-3711-b1be-1a309cd1e277"
+      },
+      {
+       "album_slug": "frank-zappa-the-lost-solos",
+       "titulo": "The Lost Solos",
+       "anio": 2003,
+       "mbid": "a63da013-f597-488e-ba3a-3e2c54b7dda7"
+      },
+      {
+       "album_slug": "frank-zappa-bubble-cream-cheese",
+       "titulo": "Bubble Cream Cheese",
+       "anio": 2004,
+       "mbid": "5d9321b3-bec4-4e64-b303-9419d9bf3c85"
+      },
+      {
+       "album_slug": "frank-zappa-joe-s-domage",
+       "titulo": "Joe's Domage",
+       "anio": 2004,
+       "mbid": "cacadbea-2a30-3ee6-a79f-072c71448a96"
+      },
+      {
+       "album_slug": "frank-zappa-joe-s-demoge",
+       "titulo": "Joe's Demoge",
+       "anio": 2010,
+       "mbid": "70d2457f-5bd5-42a9-82ce-536f00034c01"
+      },
+      {
+       "album_slug": "frank-zappa-greasy-love-songs",
+       "titulo": "Greasy Love Songs",
+       "anio": 2010,
+       "mbid": "374445ff-7b98-41e5-a52a-9da52b120ee1"
+      },
+      {
+       "album_slug": "frank-zappa-congress-shall-make-no-law",
+       "titulo": "“Congress Shall Make No Law…”",
+       "anio": 2010,
+       "mbid": "af9c8cc4-68d0-4258-b2c4-435a959ee63d"
+      },
+      {
+       "album_slug": "frank-zappa-feeding-the-monkies-at-ma-maison",
+       "titulo": "Feeding the Monkies at Ma Maison",
+       "anio": 2011,
+       "mbid": "1dcc73aa-00a8-43bb-8ff5-0faa0c230a22"
+      },
+      {
+       "album_slug": "frank-zappa-halloween-1981",
+       "titulo": "Halloween 1981",
+       "anio": 2012,
+       "mbid": "5713f5fd-e7af-4fd1-88ca-2ffdb723b30b"
+      },
+      {
+       "album_slug": "frank-zappa-joes-camouflage",
+       "titulo": "Joe’s Camouflage",
+       "anio": 2014,
+       "mbid": "33a17e2b-99f9-494a-960a-05039b6a6d86"
+      },
+      {
+       "album_slug": "frank-zappa-perfect-strangers",
+       "titulo": "Perfect Strangers",
+       "anio": 2014,
+       "mbid": "df4e34c3-6bb9-429f-b1c9-f60a31f41865"
+      },
+      {
+       "album_slug": "frank-zappa-dance-me-this",
+       "titulo": "Dance Me This",
+       "anio": 2015,
+       "mbid": "09ec3aaf-3139-4561-9e8f-f1c361ceb787"
+      },
+      {
+       "album_slug": "frank-zappa-the-rare-tapes-broadcast-garden-city-new-york-31-december-1974",
+       "titulo": "The Rare Tapes Broadcast (Garden City, New York 31 December 1974)",
+       "anio": 2016,
+       "mbid": "b5901806-56ba-4d6e-acfa-ed3087fd93b6"
+      },
+      {
+       "album_slug": "frank-zappa-live-at-the-piknik-show-in-uddel-nl-june-18th-1970",
+       "titulo": "Live at the “Piknik” Show in Uddel, NL June 18th, 1970",
+       "anio": 2016,
+       "mbid": "7dac8697-d768-49fd-a1f8-88e0fa04dde7"
+      },
+      {
+       "album_slug": "frank-zappa-zoot-alors",
+       "titulo": "Zoot Alors!",
+       "anio": 2017,
+       "mbid": "ff0e6651-468d-4a59-828c-7b1d1004b8b8"
+      },
+      {
+       "album_slug": "frank-zappa-the-michigan-muffin-man-detroit-broadcast-1976",
+       "titulo": "The Michigan Muffin Man (Detroit broadcast 1976)",
+       "anio": 2021,
+       "mbid": "ed200e7d-4ba5-4dd1-b8ca-973c2ca6270a"
+      },
+      {
+       "album_slug": "frank-zappa-live-new-york-1984",
+       "titulo": "Live… New York 1984",
+       "anio": 2022,
+       "mbid": "691c93ad-0ca1-4c28-bb39-5dc0fa5e0e4e"
+      },
+      {
+       "album_slug": "frank-zappa-funky-nothingness",
+       "titulo": "Funky Nothingness",
+       "anio": 2023,
+       "mbid": "7a991cc0-2df0-40c0-ad0f-d7232071bb43"
+      }
+     ]
+    },
+    {
+     "slug": "mothers-of-invention",
+     "catalogo": [
+      {
+       "album_slug": "mothers-of-invention-freak-out",
+       "titulo": "Freak Out!",
+       "anio": 1966,
+       "mbid": "44895ae9-5c04-3e65-8ead-672d1b24ac84"
+      },
+      {
+       "album_slug": "mothers-of-invention-absolutely-free",
+       "titulo": "Absolutely Free",
+       "anio": 1967,
+       "mbid": "9c191e8c-1fd5-3524-bcc3-c0ac4b0b637a"
+      },
+      {
+       "album_slug": "mothers-of-invention-were-only-in-it-for-the-money",
+       "titulo": "We’re Only in It for the Money",
+       "anio": 1968,
+       "mbid": "6bf4d078-7bc6-32a1-8edf-0ef1bcb7a5df"
+      },
+      {
+       "album_slug": "mothers-of-invention-cruising-with-ruben-the-jets",
+       "titulo": "Cruising With Ruben & the Jets",
+       "anio": 1968,
+       "mbid": "8c795fa5-6b4c-30b5-ac1d-cfdf5de37842"
+      },
+      {
+       "album_slug": "mothers-of-invention-uncle-meat",
+       "titulo": "Uncle Meat",
+       "anio": 1969,
+       "mbid": "cf8759d6-02e4-3ca3-ad10-2a58b5bfb13f"
+      },
+      {
+       "album_slug": "mothers-of-invention-burnt-weeny-sandwich",
+       "titulo": "Burnt Weeny Sandwich",
+       "anio": 1970,
+       "mbid": "5c4de73a-2d05-39c3-9d59-f066840f4a3a"
+      },
+      {
+       "album_slug": "mothers-of-invention-weasels-ripped-my-flesh",
+       "titulo": "Weasels Ripped My Flesh",
+       "anio": 1970,
+       "mbid": "40f3b855-0408-3a28-8abe-0fca7240e934"
+      },
+      {
+       "album_slug": "mothers-of-invention-the-grand-wazoo",
+       "titulo": "The Grand Wazoo",
+       "anio": 1972,
+       "mbid": "0a1c4fcc-fad2-3a4f-ac0f-a732aa30f932"
+      },
+      {
+       "album_slug": "mothers-of-invention-overnite-sensation",
+       "titulo": "Over‐Nite Sensation",
+       "anio": 1973,
+       "mbid": "d4b98ec7-a4af-37e2-ac83-2f7122d23b36"
+      },
+      {
+       "album_slug": "mothers-of-invention-one-size-fits-all",
+       "titulo": "One Size Fits All",
+       "anio": 1975,
+       "mbid": "19b7d4eb-0fe2-318f-a1f5-242a2e731b4b"
+      },
+      {
+       "album_slug": "mothers-of-invention-bubble-cream-cheese",
+       "titulo": "Bubble Cream Cheese",
+       "anio": 2004,
+       "mbid": "5d9321b3-bec4-4e64-b303-9419d9bf3c85"
+      },
+      {
+       "album_slug": "mothers-of-invention-live-at-the-piknik-show-in-uddel-nl-june-18th-1970",
+       "titulo": "Live at the “Piknik” Show in Uddel, NL June 18th, 1970",
+       "anio": 2016,
+       "mbid": "7dac8697-d768-49fd-a1f8-88e0fa04dde7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "argentina",
+   "escena": "latinoamerica",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "crucis",
+     "catalogo": [
+      {
+       "album_slug": "crucis-crucis",
+       "titulo": "Crucis",
+       "anio": 1976,
+       "mbid": "a98188cf-3e5d-3ec1-872c-8143d2c0b5cf"
+      },
+      {
+       "album_slug": "crucis-los-delirios-del-mariscal",
+       "titulo": "Los delirios del mariscal",
+       "anio": 1976,
+       "mbid": "44cc6c1d-be52-30dd-914f-0b14c1cdcb54"
+      }
+     ]
+    },
+    {
+     "slug": "invisible",
+     "catalogo": [
+      {
+       "album_slug": "invisible-invisible",
+       "titulo": "Invisible",
+       "anio": 1974,
+       "mbid": "9c229166-7a0a-3816-9adf-a9f6ca6408cc"
+      },
+      {
+       "album_slug": "invisible-durazno-sangrando",
+       "titulo": "Durazno sangrando",
+       "anio": 1975,
+       "mbid": "329c99df-ed65-3a59-991c-c51e1760a1d7"
+      },
+      {
+       "album_slug": "invisible-el-jardin-de-los-presentes",
+       "titulo": "El jardín de los presentes",
+       "anio": 1976,
+       "mbid": "d73500e1-5105-3904-bbaf-ec9ae575c93b"
+      }
+     ]
+    },
+    {
+     "slug": "la-maquina-de-hacer-pajaros",
+     "catalogo": [
+      {
+       "album_slug": "la-maquina-de-hacer-pajaros-la-maquina-de-hacer-pajaros",
+       "titulo": "La máquina de hacer pájaros",
+       "anio": 1976,
+       "mbid": "de4ff68b-d2fc-323d-85b6-28111fc27601"
+      },
+      {
+       "album_slug": "la-maquina-de-hacer-pajaros-peliculas",
+       "titulo": "Películas",
+       "anio": 1977,
+       "mbid": "e55fef24-6d3e-3636-a746-e954ef3b0152"
+      }
+     ]
+    },
+    {
+     "slug": "mia",
+     "catalogo": [
+      {
+       "album_slug": "mia-transparencias",
+       "titulo": "Transparencias",
+       "anio": 1976,
+       "mbid": "9e50e89b-5628-4326-bef1-40947b56b551"
+      },
+      {
+       "album_slug": "mia-magicos-juegos-del-tiempo",
+       "titulo": "Mágicos juegos del tiempo",
+       "anio": 1977,
+       "mbid": "4ed440d1-e380-43d2-aa1f-208d1ffb380d"
+      },
+      {
+       "album_slug": "mia-cornonstipicum",
+       "titulo": "Cornonstípicum",
+       "anio": 1978,
+       "mbid": "98b21171-5b99-3961-9158-928ac15f8855"
+      }
+     ]
+    },
+    {
+     "slug": "espiritu",
+     "catalogo": [
+      {
+       "album_slug": "espiritu-crisalida",
+       "titulo": "Crisalida",
+       "anio": 1974,
+       "mbid": "dbf1c2e8-4965-3efe-8404-993701c0be67"
+      },
+      {
+       "album_slug": "espiritu-libre-y-natural",
+       "titulo": "Libre y natural",
+       "anio": 1976,
+       "mbid": "5bdb36d9-4212-317e-9e0e-668ea1f58570"
+      },
+      {
+       "album_slug": "espiritu-espiritu-iii",
+       "titulo": "Espíritu III",
+       "anio": 1982,
+       "mbid": "e3f56d23-ba20-419c-8d3b-acbfd9752096"
+      },
+      {
+       "album_slug": "espiritu-espiritu",
+       "titulo": "Espíritu",
+       "anio": 1996,
+       "mbid": "2c4dbc7f-1a28-3f31-9233-e97e79428ac1"
+      },
+      {
+       "album_slug": "espiritu-fronteras-magicas",
+       "titulo": "Fronteras mágicas",
+       "anio": 2003,
+       "mbid": "deaa27a9-06b4-44de-88b4-6598a667ec90"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chile-brasil",
+   "escena": "latinoamerica",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "los-jaivas",
+     "catalogo": [
+      {
+       "album_slug": "los-jaivas-el-volantin",
+       "titulo": "El volantín",
+       "anio": 1971,
+       "mbid": "c9984482-c5a9-315e-8a79-c429cefe363e"
+      },
+      {
+       "album_slug": "los-jaivas-los-jaivas",
+       "titulo": "Los Jaivas",
+       "anio": 1972,
+       "mbid": "6db43973-93a6-4442-bc61-46e0dbe1172c"
+      },
+      {
+       "album_slug": "los-jaivas-los-jaivas",
+       "titulo": "Los Jaivas",
+       "anio": 1975,
+       "mbid": "aaed3b34-5c32-35b2-baaa-59adb7994693"
+      },
+      {
+       "album_slug": "los-jaivas-cancion-del-sur",
+       "titulo": "Canción del sur",
+       "anio": 1977,
+       "mbid": "84d3c04c-aeac-345a-887a-7d7f0bede6c5"
+      },
+      {
+       "album_slug": "los-jaivas-los-suenos-de-america",
+       "titulo": "Los sueños de América",
+       "anio": 1979,
+       "mbid": "a11d4175-51d8-38ba-9c82-59bb8120da0f"
+      },
+      {
+       "album_slug": "los-jaivas-alturas-de-macchu-picchu",
+       "titulo": "Alturas de Macchu Picchu",
+       "anio": 1981,
+       "mbid": "cb1a3247-849c-3696-8afe-c96fe834d729"
+      },
+      {
+       "album_slug": "los-jaivas-aconcagua",
+       "titulo": "Aconcagua",
+       "anio": 1982,
+       "mbid": "f60692b4-6a06-342c-b7e5-17423ee55627"
+      },
+      {
+       "album_slug": "los-jaivas-obras-de-violeta-parra",
+       "titulo": "Obras de Violeta Parra",
+       "anio": 1984,
+       "mbid": "72238093-80e6-33c2-bb90-08de3b68117b"
+      },
+      {
+       "album_slug": "los-jaivas-si-tu-no-estas",
+       "titulo": "Si tú no estás",
+       "anio": 1989,
+       "mbid": "d9c326ef-7536-3c9c-aedc-7b0b8fc9763a"
+      },
+      {
+       "album_slug": "los-jaivas-hijos-de-la-tierra",
+       "titulo": "Hijos de la tierra",
+       "anio": 1995,
+       "mbid": "3f5e5698-6c2c-3510-8eec-7a3e70648392"
+      },
+      {
+       "album_slug": "los-jaivas-trilogia-el-rencuentro",
+       "titulo": "Trilogía: El rencuentro",
+       "anio": 1997,
+       "mbid": "bbc3f081-460a-4045-9158-3ee162190590"
+      },
+      {
+       "album_slug": "los-jaivas-obras-sinfonicas-vol-1-mamalluca",
+       "titulo": "Obras Sinfónicas Vol. 1: Mamalluca",
+       "anio": 1999,
+       "mbid": "5ccadaba-d8d9-3df8-9b53-adc721d38090"
+      },
+      {
+       "album_slug": "los-jaivas-arrebol",
+       "titulo": "Arrebol",
+       "anio": 2001,
+       "mbid": "331ae30f-91a6-3be9-89c2-16c8f4e1a15b"
+      },
+      {
+       "album_slug": "los-jaivas-la-voragine-1-pan-negro",
+       "titulo": "La Vorágine 1: Pan negro",
+       "anio": 2003,
+       "mbid": "abba4b8e-5227-44d5-a326-868b0951cb67"
+      },
+      {
+       "album_slug": "los-jaivas-la-voragine-2-la-reforma",
+       "titulo": "La Vorágine 2: La reforma",
+       "anio": 2003,
+       "mbid": "c7c3b867-f3f6-4cdf-ba01-0087d4a03d75"
+      },
+      {
+       "album_slug": "los-jaivas-la-voragine-3-el-totem",
+       "titulo": "La Vorágine 3: El Tótem",
+       "anio": 2003,
+       "mbid": "8e7f8b3c-345f-423b-b374-440bff2b8200"
+      },
+      {
+       "album_slug": "los-jaivas-la-voragine-4-mucha-inmensidad",
+       "titulo": "La Vorágine 4 Mucha Inmensidad",
+       "anio": 2003,
+       "mbid": "47f9d7f3-707f-4479-928b-b61b605ff334"
+      },
+      {
+       "album_slug": "los-jaivas-la-voragine-5-improvisaciones-1969-1970",
+       "titulo": "La Vorágine 5: Improvisaciones 1969-1970",
+       "anio": 2003,
+       "mbid": "188f1542-ce95-43cc-9905-510ce03fe553"
+      }
+     ]
+    },
+    {
+     "slug": "congreso",
+     "catalogo": [
+      {
+       "album_slug": "congreso-el-congreso",
+       "titulo": "El congreso",
+       "anio": 1971,
+       "mbid": "056c6406-8187-37e2-a869-8b115e4fc04d"
+      },
+      {
+       "album_slug": "congreso-terra-incognita",
+       "titulo": "Terra incógnita",
+       "anio": 1975,
+       "mbid": "c6ead475-a50e-33b6-b851-6f24117c6a72"
+      },
+      {
+       "album_slug": "congreso-congreso",
+       "titulo": "Congreso",
+       "anio": 1977,
+       "mbid": "ce02bec2-1176-3a42-8b98-9ca465928327"
+      },
+      {
+       "album_slug": "congreso-viaje-por-la-cresta-del-mundo",
+       "titulo": "Viaje por la cresta del mundo",
+       "anio": 1981,
+       "mbid": "88e7b87b-530a-3964-bd1a-04d51b0a2bf4"
+      },
+      {
+       "album_slug": "congreso-ha-llegado-carta",
+       "titulo": "Ha llegado carta",
+       "anio": 1982,
+       "mbid": "c001b8cc-7d79-387e-abec-d10946343263"
+      },
+      {
+       "album_slug": "congreso-pajaros-de-arcilla",
+       "titulo": "Pájaros de arcilla",
+       "anio": 1984,
+       "mbid": "204b2b4b-bf19-3278-8d45-2e9c47e3c634"
+      },
+      {
+       "album_slug": "congreso-estoy-que-me-muero",
+       "titulo": "Estoy que me muero...",
+       "anio": 1986,
+       "mbid": "76456584-2e2f-310c-a563-6d6addffe3c5"
+      },
+      {
+       "album_slug": "congreso-para-los-arqueologos-del-futuro",
+       "titulo": "Para los arqueólogos del futuro",
+       "anio": 1989,
+       "mbid": "7997af60-27bd-3522-8ed7-add3fedcfbd0"
+      },
+      {
+       "album_slug": "congreso-aire-puro",
+       "titulo": "Aire puro",
+       "anio": 1990,
+       "mbid": "e7c8b9d6-c475-351f-bd67-6fb51e741029"
+      },
+      {
+       "album_slug": "congreso-la-pichanga-antipoemas",
+       "titulo": "La pichanga, antipoemas",
+       "anio": 1992,
+       "mbid": "9eff488b-a944-487c-b3b9-68f60c923ad7"
+      },
+      {
+       "album_slug": "congreso-los-fuegos-del-hielo",
+       "titulo": "Los fuegos del hielo",
+       "anio": 1992,
+       "mbid": "762a0f5e-ed71-3d4e-b43e-def2b7569ec7"
+      },
+      {
+       "album_slug": "congreso-por-amor-al-viento",
+       "titulo": "Por amor al viento",
+       "anio": 1997,
+       "mbid": "284e798d-8a03-378f-a950-2b122da0b4a8"
+      },
+      {
+       "album_slug": "congreso-la-loca-sin-zapatos",
+       "titulo": "La loca sin zapatos",
+       "anio": 2001,
+       "mbid": "51671021-1183-3b66-8196-3839161ce877"
+      },
+      {
+       "album_slug": "congreso-con-los-ojos-en-la-calle",
+       "titulo": "Con los ojos en la calle",
+       "anio": 2010,
+       "mbid": "86cb83e1-b612-44b3-8472-0202c4bd4b68"
+      },
+      {
+       "album_slug": "congreso-pichanga-profecias-a-falta-de-ecuaciones",
+       "titulo": "Pichanga: Profecías a falta de ecuaciones",
+       "anio": 2013,
+       "mbid": "3037ce49-8a4d-4b45-b9d2-d15d025c8f15"
+      },
+      {
+       "album_slug": "congreso-la-cancion-que-te-debia",
+       "titulo": "La canción que te debía",
+       "anio": 2018,
+       "mbid": "2a85feae-4043-4c36-acb6-58d275282fc1"
+      },
+      {
+       "album_slug": "congreso-l-u-z-d-e-f-l-a-s-h",
+       "titulo": "L U Z D E F L A S H",
+       "anio": 2022,
+       "mbid": "f4b5288c-535e-442f-9c3e-bcb5de338794"
+      }
+     ]
+    },
+    {
+     "slug": "os-mutantes",
+     "catalogo": [
+      {
+       "album_slug": "os-mutantes-os-mutantes",
+       "titulo": "Os Mutantes",
+       "anio": 1968,
+       "mbid": "f3578417-4c90-3891-a2cf-d1eab06cc084"
+      },
+      {
+       "album_slug": "os-mutantes-mutantes",
+       "titulo": "Mutantes",
+       "anio": 1969,
+       "mbid": "e8ee4638-c618-3200-991b-020c97ba2902"
+      },
+      {
+       "album_slug": "os-mutantes-a-divina-comedia-ou-ando-meio-desligado",
+       "titulo": "A divina comédia ou ando meio desligado",
+       "anio": 1970,
+       "mbid": "79e9593d-3d7e-3dfd-8126-794b76d803e8"
+      },
+      {
+       "album_slug": "os-mutantes-jardim-eletrico",
+       "titulo": "Jardim elétrico",
+       "anio": 1971,
+       "mbid": "410dea03-fb37-36a4-8233-66014219cff4"
+      },
+      {
+       "album_slug": "os-mutantes-mutantes-e-seus-cometas-no-pais-do-baurets",
+       "titulo": "Mutantes e seus cometas no país do baurets",
+       "anio": 1972,
+       "mbid": "f6b2cc38-f037-3529-bc72-c09b5bbebbfa"
+      },
+      {
+       "album_slug": "os-mutantes-tudo-foi-feito-pelo-sol",
+       "titulo": "Tudo foi feito pelo sol",
+       "anio": 1974,
+       "mbid": "262ab7e8-236e-393f-adff-12ecc228653d"
+      },
+      {
+       "album_slug": "os-mutantes-a-e-o-z",
+       "titulo": "\"A\" e o \"Z\"",
+       "anio": 1986,
+       "mbid": "5baebed3-fcab-30ec-8eda-1eccf5921b22"
+      },
+      {
+       "album_slug": "os-mutantes-tecnicolor",
+       "titulo": "Tecnicolor",
+       "anio": 1999,
+       "mbid": "4dcdef5b-7e09-3235-87ff-e41d43337e0a"
+      },
+      {
+       "album_slug": "os-mutantes-haih-or-amortecedor",
+       "titulo": "Haih or amortecedor",
+       "anio": 2009,
+       "mbid": "67511a9b-6ca2-4cb3-8102-19a712555d85"
+      },
+      {
+       "album_slug": "os-mutantes-fool-metal-jack",
+       "titulo": "Fool Metal Jack",
+       "anio": 2013,
+       "mbid": "faf32426-53e0-4bc0-86a1-297efd5ea15a"
+      },
+      {
+       "album_slug": "os-mutantes-zzyzx",
+       "titulo": "Zzyzx",
+       "anio": 2020,
+       "mbid": "bf81cdfc-8261-4afa-97e6-d1740a0835f3"
+      }
+     ]
+    },
+    {
+     "slug": "o-terco",
+     "catalogo": [
+      {
+       "album_slug": "o-terco-o-terco",
+       "titulo": "O Têrço",
+       "anio": 1970,
+       "mbid": "8636d7f6-c5b0-4c58-aa3f-e3c476157050"
+      },
+      {
+       "album_slug": "o-terco-terco",
+       "titulo": "Terço",
+       "anio": 1973,
+       "mbid": "7f73bf49-022a-33a5-9f7c-b05521397c27"
+      },
+      {
+       "album_slug": "o-terco-criaturas-da-noite",
+       "titulo": "Criaturas da noite",
+       "anio": 1975,
+       "mbid": "1c6dc521-52a8-3128-b862-1d08fbf0119e"
+      },
+      {
+       "album_slug": "o-terco-casa-encantada",
+       "titulo": "Casa encantada",
+       "anio": 1976,
+       "mbid": "0a5dee93-f88b-33eb-b13b-33ee21dc1376"
+      },
+      {
+       "album_slug": "o-terco-mudanca-de-tempo",
+       "titulo": "Mudança de Tempo",
+       "anio": 1978,
+       "mbid": "7bd233f5-689f-4333-a550-4ebc58d4e19d"
+      },
+      {
+       "album_slug": "o-terco-som-mais-puro",
+       "titulo": "Som mais puro",
+       "anio": 1983,
+       "mbid": "460e30ea-6d1d-423d-9503-c3bc22dad8f7"
+      },
+      {
+       "album_slug": "o-terco-time-travelers",
+       "titulo": "Time Travelers",
+       "anio": 1992,
+       "mbid": "c05fb277-1ceb-33f7-9f7d-7231f12f4481"
+      },
+      {
+       "album_slug": "o-terco-compositores",
+       "titulo": "Compositores",
+       "anio": 1996,
+       "mbid": "74bf4064-ac28-3ac7-826f-1ef9b4c9829e"
+      },
+      {
+       "album_slug": "o-terco-spiral-words",
+       "titulo": "Spiral Words",
+       "anio": 1998,
+       "mbid": "cb9d934c-4e9c-3115-a55b-13c64fa89025"
+      },
+      {
+       "album_slug": "o-terco-tributo-a-raul-seixas",
+       "titulo": "Tributo a Raul Seixas",
+       "anio": 1999,
+       "mbid": "1974814a-2481-3e00-a07f-236a10077744"
+      },
+      {
+       "album_slug": "o-terco-shining-days-summer-nights",
+       "titulo": "Shining Days, Summer Nights",
+       "anio": null,
+       "mbid": "a3834ae9-9b08-4c40-8356-429122a1f7c7"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

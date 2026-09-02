@@ -1,0 +1,2249 @@
+{
+  "isnis": [
+    "0000000115510749"
+  ],
+  "id": "5700dcd4-c139-4f31-aa3e-6382b9af9032",
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1970"
+  },
+  "begin-area": {
+    "type-id": null,
+    "name": "Düsseldorf",
+    "sort-name": "Düsseldorf",
+    "type": null,
+    "disambiguation": "",
+    "id": "03e75281-c3a3-454a-8d78-c85a5415c49e"
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Kraftwerk",
+  "relations": [
+    {
+      "end": "1970",
+      "artist": {
+        "type": "Person",
+        "name": "Andreas Hohmann",
+        "disambiguation": "drummer",
+        "sort-name": "Hohmann, Andreas",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "d17eeb09-9cee-4965-9370-c082b37e780b"
+      },
+      "ended": true,
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "additional",
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "artist": {
+        "id": "52320bb6-2465-4c3c-a7fe-60b093bd55c8",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Lohmann, Thomas",
+        "country": "DE",
+        "disambiguation": "drummer in Kraftwerk",
+        "name": "Thomas Lohmann",
+        "type": "Person"
+      },
+      "end": "1970",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "1971",
+      "artist": {
+        "type": "Person",
+        "name": "Klaus Dinger",
+        "disambiguation": "",
+        "sort-name": "Dinger, Klaus",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7d13df68-5661-45bd-9aad-75a0d7f88091"
+      },
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "drums (drum set)"
+      ]
+    },
+    {
+      "artist": {
+        "disambiguation": "",
+        "name": "Ralf Hütter",
+        "type": "Person",
+        "id": "da3f4766-628e-4da3-a871-014728993157",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hütter, Ralf",
+        "country": "DE"
+      },
+      "end": "1971",
+      "ended": true,
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "additional",
+        "bass guitar"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1971",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Eberhard Kranemann",
+        "id": "b17ed5b1-d965-4b05-ad25-49fd40aa9563",
+        "sort-name": "Kranemann, Eberhard",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "attributes": [
+        "additional",
+        "electric guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "end": "1971",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Nejadépour, Houschäng",
+        "id": "b35bfd08-f4a1-45d1-9799-a7eec65ff66b",
+        "name": "Houschäng Nejadépour",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "additional",
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1971",
+      "artist": {
+        "name": "Peter Schmidt",
+        "type": "Person",
+        "disambiguation": "German Blues musician; Monokel",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Schmidt, Peter",
+        "country": "DE",
+        "id": "12bf35df-1765-4ab3-84b1-20459cf84ae9"
+      },
+      "ended": true,
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1974",
+      "artist": {
+        "type": "Person",
+        "name": "Ralf Hütter",
+        "disambiguation": "",
+        "country": "DE",
+        "sort-name": "Hütter, Ralf",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "da3f4766-628e-4da3-a871-014728993157"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "end": "2008-11",
+      "artist": {
+        "id": "46957dac-b5ff-40a9-a427-ab53bc414f6e",
+        "country": "DE",
+        "sort-name": "Schneider, Florian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "founding member of Kraftwerk",
+        "type": "Person",
+        "name": "Florian Schneider"
+      },
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "background vocals",
+        "original"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "2008-11",
+      "artist": {
+        "name": "Florian Schneider",
+        "type": "Person",
+        "disambiguation": "founding member of Kraftwerk",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Schneider, Florian",
+        "country": "DE",
+        "id": "46957dac-b5ff-40a9-a427-ab53bc414f6e"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "flute",
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "original",
+        "saxophone"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "2008-11",
+      "artist": {
+        "id": "46957dac-b5ff-40a9-a427-ab53bc414f6e",
+        "country": "DE",
+        "sort-name": "Schneider, Florian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "founding member of Kraftwerk",
+        "type": "Person",
+        "name": "Florian Schneider"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970"
+    },
+    {
+      "ended": true,
+      "end": "2008-11",
+      "artist": {
+        "disambiguation": "founding member of Kraftwerk",
+        "name": "Florian Schneider",
+        "type": "Person",
+        "id": "46957dac-b5ff-40a9-a427-ab53bc414f6e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Schneider, Florian",
+        "country": "DE"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "electric guitar",
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "original",
+        "violin"
+      ],
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "id": "46957dac-b5ff-40a9-a427-ab53bc414f6e",
+        "country": "DE",
+        "sort-name": "Schneider, Florian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "founding member of Kraftwerk",
+        "type": "Person",
+        "name": "Florian Schneider"
+      },
+      "end": "2008-11",
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "original",
+        "percussion"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "id": "46957dac-b5ff-40a9-a427-ab53bc414f6e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Schneider, Florian",
+        "country": "DE",
+        "disambiguation": "founding member of Kraftwerk",
+        "name": "Florian Schneider",
+        "type": "Person"
+      },
+      "end": "2008-11",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      }
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "2008-11",
+      "artist": {
+        "id": "46957dac-b5ff-40a9-a427-ab53bc414f6e",
+        "country": "DE",
+        "sort-name": "Schneider, Florian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "founding member of Kraftwerk",
+        "type": "Person",
+        "name": "Florian Schneider"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "original",
+        "synthesizer"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "original",
+        "vocoder"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "vocoder": "1d04494c-a06b-409e-9a95-bde7a94860dd"
+      },
+      "end": "2008-11",
+      "artist": {
+        "name": "Florian Schneider",
+        "type": "Person",
+        "disambiguation": "founding member of Kraftwerk",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Schneider, Florian",
+        "id": "46957dac-b5ff-40a9-a427-ab53bc414f6e"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Ralf Hütter",
+        "type": "Person",
+        "id": "da3f4766-628e-4da3-a871-014728993157",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Hütter, Ralf"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ]
+    },
+    {
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hütter, Ralf",
+        "country": "DE",
+        "id": "da3f4766-628e-4da3-a871-014728993157",
+        "name": "Ralf Hütter",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "original",
+        "synthesizer"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "organ",
+        "original"
+      ],
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "da3f4766-628e-4da3-a871-014728993157",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Hütter, Ralf",
+        "disambiguation": "",
+        "name": "Ralf Hütter",
+        "type": "Person"
+      },
+      "end": null,
+      "attribute-ids": {
+        "organ": "55a37f4f-39a4-45a7-851d-586569985519",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1970",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "bass guitar",
+        "original"
+      ],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "end": null,
+      "artist": {
+        "id": "da3f4766-628e-4da3-a871-014728993157",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Hütter, Ralf",
+        "disambiguation": "",
+        "name": "Ralf Hütter",
+        "type": "Person"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "original",
+        "vocoder"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "Ralf Hütter",
+        "type": "Person",
+        "id": "da3f4766-628e-4da3-a871-014728993157",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Hütter, Ralf"
+      },
+      "ended": false,
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "vocoder": "1d04494c-a06b-409e-9a95-bde7a94860dd",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "1971",
+      "artist": {
+        "type": "Person",
+        "name": "Michael Rother",
+        "disambiguation": "German experimental musician",
+        "country": "DE",
+        "sort-name": "Rother, Michael",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3b4db0d5-97a8-4aa8-a375-9b8c78a56932"
+      },
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "electric guitar"
+      ]
+    },
+    {
+      "begin": "1972",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "name": "Ralf Hütter",
+        "disambiguation": "",
+        "country": "DE",
+        "sort-name": "Hütter, Ralf",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "da3f4766-628e-4da3-a871-014728993157"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "end": null,
+      "artist": {
+        "id": "da3f4766-628e-4da3-a871-014728993157",
+        "sort-name": "Hütter, Ralf",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Ralf Hütter"
+      },
+      "ended": false
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "bass guitar"
+      ],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1973",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "end": "1973",
+      "artist": {
+        "country": null,
+        "sort-name": "Kostic, Plato",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c960bfef-035f-45ec-961c-289888eda9c4",
+        "type": "Person",
+        "name": "Plato Kostic",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "attributes": [
+        "additional",
+        "electric guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Emil Schult",
+        "id": "e47b4862-a587-488f-b7a7-bd329726693d",
+        "country": "DE",
+        "sort-name": "Schult, Emil",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1973",
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "begin": "1973",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "1973",
+      "artist": {
+        "sort-name": "Schult, Emil",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e47b4862-a587-488f-b7a7-bd329726693d",
+        "type": "Person",
+        "name": "Emil Schult",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f",
+        "electric violin": "5f4d4cf9-40fb-494d-8266-747b0289a84d"
+      },
+      "begin": "1973",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [
+        "additional",
+        "electric violin"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1973",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "electronic drum set": "174d408c-2e3c-4dd6-aeee-3583ea9b206e"
+      },
+      "end": "1987",
+      "artist": {
+        "disambiguation": "",
+        "name": "Wolfgang Flür",
+        "type": "Person",
+        "id": "6c29e868-e40a-4ff0-b251-bc383ba88ba4",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Flür, Wolfgang",
+        "country": "DE"
+      },
+      "ended": true,
+      "source-credit": "",
+      "attributes": [
+        "electronic drum set"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "electric guitar"
+      ],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1974",
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "end": "1974",
+      "artist": {
+        "sort-name": "Röder, Klaus",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7bca0cea-265f-41d3-9e04-8a68507b6f25",
+        "type": "Person",
+        "name": "Klaus Röder",
+        "disambiguation": "German electronic musician"
+      },
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "electric violin": "5f4d4cf9-40fb-494d-8266-747b0289a84d"
+      },
+      "begin": "1974",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "disambiguation": "German electronic musician",
+        "type": "Person",
+        "name": "Klaus Röder",
+        "id": "7bca0cea-265f-41d3-9e04-8a68507b6f25",
+        "country": "DE",
+        "sort-name": "Röder, Klaus",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1974",
+      "source-credit": "",
+      "attributes": [
+        "electric violin"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1990",
+      "artist": {
+        "country": "DE",
+        "sort-name": "Bartos, Karl",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "34bfcd5d-a76d-4b31-8022-b5ac04d5801b",
+        "type": "Person",
+        "name": "Karl Bartos",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "vibraphone"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975",
+      "attribute-ids": {
+        "vibraphone": "799af440-c0e7-4d8f-83d5-ecfee8b25787"
+      },
+      "end": "1990",
+      "artist": {
+        "id": "34bfcd5d-a76d-4b31-8022-b5ac04d5801b",
+        "sort-name": "Bartos, Karl",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Karl Bartos"
+      },
+      "ended": true
+    },
+    {
+      "ended": true,
+      "artist": {
+        "country": "DE",
+        "sort-name": "Bartos, Karl",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "34bfcd5d-a76d-4b31-8022-b5ac04d5801b",
+        "type": "Person",
+        "name": "Karl Bartos",
+        "disambiguation": ""
+      },
+      "end": "1990",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1975",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "electronic instruments": "a51219e5-fc36-4427-93a9-743e616c6f0c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1987",
+      "ended": true,
+      "end": "2022-09-02",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Fritz Hilpert",
+        "id": "090d8a25-6271-4e51-b5a5-622cf128c7be",
+        "country": "DE",
+        "sort-name": "Hilpert, Fritz",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "electronic instruments"
+      ]
+    },
+    {
+      "begin": "1991",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "end": "1991",
+      "artist": {
+        "id": "c2d86260-74e5-46a3-bd8b-9ca0a25c8b10",
+        "country": "PT",
+        "sort-name": "Abrantes, Fernando",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Fernando Abrantes"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "additional",
+        "synthesizer"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "electronic instruments"
+      ],
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "electronic instruments": "a51219e5-fc36-4427-93a9-743e616c6f0c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1991",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Henning Schmitz",
+        "id": "cde6ac66-ffdf-4f80-8dda-7a40e7b16972",
+        "sort-name": "Schmitz, Henning",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "name": "Henning Schmitz",
+        "disambiguation": "",
+        "sort-name": "Schmitz, Henning",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "cde6ac66-ffdf-4f80-8dda-7a40e7b16972"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1991",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [
+        "keyboard"
+      ],
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "end": "2012",
+      "artist": {
+        "id": "12cd8934-c85c-4572-ad7b-7e161e401005",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Pfaffe, Stefan",
+        "country": "DE",
+        "disambiguation": "",
+        "name": "Stefan Pfaffe",
+        "type": "Person"
+      },
+      "ended": true,
+      "begin": "2008",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "source-credit": "",
+      "attributes": [
+        "additional"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "type": "Person",
+        "name": "Falk Grieffenhagen",
+        "disambiguation": "",
+        "sort-name": "Grieffenhagen, Falk",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "8e1d04bb-2db0-4d95-bdda-1e605a8b8aef"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2012",
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "",
+        "name": "Georg Bongartz",
+        "type": "Person",
+        "id": "266be859-d91e-4358-89a8-c4c07de8316f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Bongartz, Georg"
+      },
+      "end": null,
+      "ended": false,
+      "begin": "2023-05-18",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "named after artist",
+      "direction": "backward",
+      "type-id": "1af24726-5b1f-4b07-826e-5351723f504b",
+      "begin": null,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "Fictional artist, featured in Grand Theft Auto III",
+        "name": "Scatwerk",
+        "type": "Group",
+        "id": "bb34a805-b956-4114-b5a1-280a59612999",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Scatwerk",
+        "country": "GB"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "supporting musician",
+      "direction": "backward",
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "begin": "1973",
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Niemöller, Barbara",
+        "id": "c47ef06e-34bc-4a15-889f-5e9fdbce21c3",
+        "name": "Barbara Niemöller",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1974",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000104714",
+        "id": "1d4de916-f48e-45b0-9e80-00e7d73c4547"
+      },
+      "ended": false,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "allmusic"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "bandsintown",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "ended": false,
+      "url": {
+        "id": "f2e9713f-179c-4943-8caa-6177a218d297",
+        "resource": "https://www.bandsintown.com/a/26322"
+      },
+      "end": null
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "514c836c-8232-4221-a1e4-c1cae3c1901f",
+        "resource": "http://twingokraftwerk.com/discographymirror/01/kwdiscb.htm"
+      },
+      "end": null,
+      "type": "discography page",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "type": "discogs",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "57e933d0-acbd-43aa-82e6-81289e969f93",
+        "resource": "https://www.discogs.com/artist/4654"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "fafc330f-1b79-4a1a-bd3c-b4ccd79143ce",
+        "resource": "http://kraftwerkfaq.hu/"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "direction": "forward",
+      "type": "fanpage",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "ended": false,
+      "url": {
+        "id": "609f868d-d63d-49f0-a532-2ec968d0f27a",
+        "resource": "http://www.kraftwerk.ru/"
+      },
+      "end": null,
+      "type": "fanpage",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "9572488c-f1f0-4fa2-b647-4df1ed0b716f",
+        "resource": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
+      },
+      "end": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.deezer.com/artist/926",
+        "id": "3a5e271a-ae8c-4be2-96e4-13c8bf83b623"
+      },
+      "end": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "IMDb",
+      "url": {
+        "id": "c823d21e-63f6-4dcf-badd-7245f9155e97",
+        "resource": "https://www.imdb.com/name/nm1436137/"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "last.fm",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.last.fm/music/Kraftwerk",
+        "id": "5798caf0-3589-435b-9ee1-be19741cbced"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "type": "lyrics",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "http://muzikum.eu/en/122-5411/kraftwerk/lyrics.html",
+        "id": "61a07090-a77f-406a-86f4-b6fdec4ba697"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "type": "lyrics",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "89b1b46d-cbea-4ce0-a4b6-eec540ad53f6",
+        "resource": "https://genius.com/artists/Kraftwerk"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "02331a30-dcfb-4fee-8893-0deeea377b80",
+        "resource": "https://myspace.com/kraftwerk"
+      },
+      "end": null,
+      "type": "myspace",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "39aa5c19-b9ba-4ee8-b6d4-fe432e5e0913",
+        "resource": "http://www.kraftwerk.com/"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "official homepage",
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "official homepage",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "http://www.kraftwerk.de/",
+        "id": "18869a91-7c4c-4320-b357-f8c3062d4039"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "8e800c1e-af19-48c6-8872-4337cbf8a714",
+        "resource": "http://id.loc.gov/authorities/names/nr90007336"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "16ed1fa2-3d5c-4362-92ab-de52069002a8",
+        "resource": "http://mvdbase.com/person.php?&id=A5256"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139044811",
+        "id": "49d04c2c-1444-47e0-a433-87445a234070"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://d-nb.info/gnd/2142242-4",
+        "id": "9d39c178-a79f-44aa-905f-2c7abc7800a3"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://imvdb.com/n/kraftwerk",
+        "id": "b047ecc5-10be-42a6-a74f-09928e6899fa"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "url": {
+        "id": "b29ddc49-44b4-43df-bcb4-32493e6bed3a",
+        "resource": "https://musicmoz.org/Bands_and_Artists/K/Kraftwerk/"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "url": {
+        "resource": "https://ra.co/dj/kraftwerk",
+        "id": "55431d4c-f931-405b-a46b-1019108bd99c"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/kraftwerk",
+        "id": "37b71f09-66ef-472e-98bc-5285ee477012"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "id": "6c79bc42-6dd0-4935-b672-0cc1b9eddd78",
+        "resource": "https://www.45cat.com/artist/kraftwerk"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "306d79a0-ef5c-41a4-88c5-4ff2f3ccd098",
+        "resource": "https://www.45cat.com/cdalbum/artist/kraftwerk"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/2259/",
+        "id": "13d4bd2a-3f29-422a-9e3b-286cbf5b1843"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "id": "d04a7357-a955-4842-bc32-fe8cbd3fae16",
+        "resource": "https://www.progarchives.com/artist.asp?id=1589"
+      },
+      "end": null,
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "c7bec9a1-2942-4b7e-b3b4-b980d42c0f11",
+        "resource": "https://www.whosampled.com/Kraftwerk/"
+      },
+      "end": null
+    },
+    {
+      "url": {
+        "id": "7affd308-2afe-4bb6-a051-a6e280d59117",
+        "resource": "https://www.worldcat.org/identities/lccn-nr90007336"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "url": {
+        "id": "2b0f980a-957e-47e8-97af-cbab6b7244d5",
+        "resource": "https://play.google.com/store/music/artist?id=Afu5jfn7wcv7lbtjejxairswufi"
+      },
+      "end": "2020-10-12",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "2c561703-8449-450b-9cd9-5eec2e2b47a8",
+        "resource": "https://itunes.apple.com/de/artist/id553899"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "end": null,
+      "url": {
+        "id": "2bf78ed4-c7e7-496f-a388-2a6faaed954b",
+        "resource": "https://uk.7digital.com/artist/kraftwerk"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {}
+    },
+    {
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.junodownload.com/artists/Kraftwerk/releases/",
+        "id": "0909267b-d065-4b8c-93f5-3a4441617365"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "f7de22e4-e728-413e-a0b4-a511c7169bfd",
+        "resource": "https://www.qobuz.com/us-en/interpreter/kraftwerk/47246"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "purchase for mail-order",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.amazon.com/-/e/B000AQ2MIM",
+        "id": "5b2bfedc-458d-4430-86bf-e7b579db7149"
+      },
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "type": "secondhandsongs",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/482",
+        "id": "d5354364-b12b-4679-b6c1-a9d592d550a2"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "url": {
+        "id": "c80c4b65-ff28-457a-8e67-fa23dcbc08ae",
+        "resource": "https://www.setlist.fm/setlists/kraftwerk-33d65c49.html"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "setlistfm",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "social network",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://twitter.com/kraftwerk",
+        "id": "43ff7bf5-7c96-4d69-86bc-8a5263aec38a"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "type": "social network",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.facebook.com/KraftwerkOfficial",
+        "id": "623a94ef-70da-43b4-aa57-47e6b53fb17b"
+      },
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "a0093e89-e012-40e6-a534-ba23db58f238",
+        "resource": "https://www.instagram.com/kraftwerkofficial/"
+      },
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "direction": "forward",
+      "type": "social network",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "c87cee36-f250-4154-a545-a94f0c953d60",
+        "resource": "https://www.reverbnation.com/kraftwerk81"
+      },
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "direction": "forward",
+      "type": "social network",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "type": "songkick",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "7488b2dc-c71c-446a-8df4-36147e649613",
+        "resource": "https://www.songkick.com/artists/507825"
+      },
+      "attribute-ids": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "type": "soundcloud",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "1c10fc7f-5983-42ea-a3e5-ef67d75c8789",
+        "resource": "https://soundcloud.com/kraftwerkofficial"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "url": {
+        "resource": "https://music.amazon.de/artists/B001Q5CK88",
+        "id": "c8cafd95-2729-46a9-9ad3-06bdb1c6abb6"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/de/artist/553899",
+        "id": "30672f5b-26a3-4c71-8600-0d109c3c0427"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "id": "df2a6bae-8c0e-4af1-a0b0-cbee7ceb2a29",
+        "resource": "https://music.apple.com/gb/artist/553899"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://tidal.com/artist/8903",
+        "id": "ef57c3ca-c5b6-4d04-9090-a1beaa568b67"
+      },
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "f7de22e4-e728-413e-a0b4-a511c7169bfd",
+        "resource": "https://www.qobuz.com/us-en/interpreter/kraftwerk/47246"
+      },
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "http://viaf.org/viaf/158413648",
+        "id": "d5885076-75bd-4c4a-8331-9f81653c7aac"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "direction": "forward",
+      "type": "VIAF",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "wikidata",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "5ac66ee5-fee6-4f52-9edd-1c3e9ead7c04",
+        "resource": "https://www.wikidata.org/wiki/Q44892"
+      },
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "ended": false,
+      "url": {
+        "id": "339617a0-43d4-4289-85e2-7d2e1313c6e0",
+        "resource": "https://www.youtube.com/kraftwerk"
+      },
+      "end": null,
+      "type": "youtube",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "youtube",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "ended": true,
+      "end": null,
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCkVewSfjK_M059iV88kYgiw",
+        "id": "e5c321b2-6671-441a-b33e-92a5101046dd"
+      }
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCNUkEFnPvPsWtzftcd45t1A",
+        "id": "1863ef3f-49d3-4055-83db-c757aea05dfa"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "youtube music"
+    }
+  ],
+  "area": {
+    "name": "Germany",
+    "type": null,
+    "disambiguation": "",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "DE"
+    ],
+    "sort-name": "Germany",
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad"
+  },
+  "ipis": [],
+  "disambiguation": "",
+  "name": "Kraftwerk",
+  "type": "Group",
+  "end-area": null,
+  "gender": null,
+  "gender-id": null,
+  "country": "DE",
+  "aliases": [
+    {
+      "name": "Kraftwerk",
+      "primary": true,
+      "type": "Artist name",
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "sort-name": "Kraftwerk",
+      "end": null,
+      "ended": false,
+      "locale": "de"
+    },
+    {
+      "name": "Kraftwork",
+      "type": null,
+      "primary": null,
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "begin": null,
+      "type-id": null,
+      "sort-name": "Kraftwork"
+    },
+    {
+      "locale": null,
+      "ended": false,
+      "end": null,
+      "sort-name": "kraftverk",
+      "type-id": null,
+      "begin": null,
+      "type": null,
+      "primary": null,
+      "name": "kraftverk"
+    },
+    {
+      "name": "クラフトワーク",
+      "primary": true,
+      "type": null,
+      "end": null,
+      "ended": false,
+      "locale": "ja",
+      "begin": null,
+      "type-id": null,
+      "sort-name": "クラフトワーク"
+    }
+  ]
+}

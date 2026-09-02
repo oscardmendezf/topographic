@@ -1,0 +1,53 @@
+{
+  "release-group-count": 4,
+  "release-groups": [
+    {
+      "title": "Los delirios del mariscal",
+      "secondary-types": [],
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "first-release-date": "1976",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "id": "44cc6c1d-be52-30dd-914f-0b14c1cdcb54"
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Crucis",
+      "id": "a98188cf-3e5d-3ec1-872c-8143d2c0b5cf",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1976"
+    },
+    {
+      "first-release-date": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "da7ad779-0287-408b-8aca-ef6a1b1e708c",
+      "title": "Cronología",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": ""
+    },
+    {
+      "title": "Kronología",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "first-release-date": "1996",
+      "id": "fd23624b-255f-3d84-8eab-8152515ace98"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "artistas": [
+    {
+      "slug": "tangerine-dream",
+      "ficha": "Del ruido libre de Electronic Meditation al abismo del doble Zeit, y de ahí al salto a Virgin —el sello de Tubular Bells, otra vez— con Phaedra y Rubycon: secuenciadores como catedrales. El trayecto de Berlín define un lenguaje electrónico propio dentro de la órbita progresiva. De aquí sale media música electrónica posterior.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "tangerine-dream-electronic-meditation",
+          "analisis": "El punto de partida: improvisación libre y ruido, todavía sin sintetizadores, más krautrock que escuela berlinesa. Documento embrionario de todo lo que vino después.",
+          "estrellas_critica": 3,
+          "critica_nota": "Documento fundacional valorado más por lo que anuncia.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Edición alemana de circulación mínima; objeto de culto.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "tangerine-dream-zeit",
+          "analisis": "El doble abismal: cuatro lados de estatismo cósmico, casi sin pulso ni melodía. Radical hasta para su propio catálogo; hoy se lo lee como cumbre del período pre-Virgin.",
+          "estrellas_critica": 4,
+          "critica_nota": "Divisivo en su día; hoy muy valorado como cumbre radical.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Demasiado extremo para vender; culto puro.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "tangerine-dream-phaedra",
+          "analisis": "El salto a Virgin y la consagración: secuenciadores como catedrales, el sonido berlinés convertido en forma. Punto de referencia de media música electrónica posterior.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon absoluto de la electrónica alemana.",
+          "estrellas_comercial": null,
+          "comercial_nota": null,
+          "charts_texto": "UK 15"
+        },
+        {
+          "album_slug": "tangerine-dream-rubycon",
+          "analisis": "La continuación que perfecciona la fórmula de Phaedra: dos lados, una arquitectura de secuenciadores aún más segura. Para muchos, su disco más logrado.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon; rival de Phaedra como su mejor obra.",
+          "estrellas_comercial": null,
+          "comercial_nota": null,
+          "charts_texto": "UK 12"
+        }
+      ]
+    },
+    {
+      "slug": "klaus-schulze",
+      "ficha": "En paralelo a Tangerine Dream, Schulze funda la escuela berlinesa por cuenta propia: Timewind y Mirage son sus dos pilares de la década. Largas formas electrónicas en solitario, más meditativas que las de sus antiguos compañeros. De aquí también sale media música electrónica posterior.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "klaus-schulze-timewind",
+          "analisis": "La piedra angular de la escuela berlinesa en solitario: dos piezas largas donde el secuenciador respira en lugar de martillar. El disco que define el método Schulze.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon de la escuela berlinesa.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Circulación de culto; su peso es de influencia, no de ventas.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "klaus-schulze-mirage",
+          "analisis": "Electrónica invernal y sin percusión: el Schulze más abstracto y atmosférico. Junto a Timewind, el otro pilar de su década fundacional.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado; favorito de buena parte de su público.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Culto; sin presencia comercial registrable.",
+          "charts_texto": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1432 @@
+{
+  "name": "Can",
+  "end-area": null,
+  "life-span": {
+    "ended": true,
+    "begin": "1968",
+    "end": "1991"
+  },
+  "country": "DE",
+  "gender": null,
+  "isnis": [
+    "000000046027920X"
+  ],
+  "sort-name": "Can",
+  "id": "13501c7d-d181-45ba-af52-5f101d8516a0",
+  "area": {
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "DE"
+    ],
+    "name": "Germany",
+    "type-id": null,
+    "type": null,
+    "sort-name": "Germany",
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad"
+  },
+  "begin-area": {
+    "disambiguation": "",
+    "name": "Köln",
+    "type": null,
+    "type-id": null,
+    "id": "b8a2776a-eedf-48ea-a6f3-1a9070f0b823",
+    "sort-name": "Köln"
+  },
+  "gender-id": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [
+    {
+      "type": null,
+      "sort-name": "カン",
+      "begin": null,
+      "type-id": null,
+      "ended": false,
+      "locale": null,
+      "primary": null,
+      "end": null,
+      "name": "カン"
+    }
+  ],
+  "ipis": [],
+  "relations": [
+    {
+      "end": "1968",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "7f241313-b3a4-45ff-a563-ffdce894c920",
+        "sort-name": "Inner Space, The",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "The Inner Space",
+        "country": "DE",
+        "disambiguation": "pre-Can group"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "type-id": "9752bfdf-13ca-441a-a8bc-18928c600c73",
+      "ended": true,
+      "begin": "1968",
+      "attribute-ids": {},
+      "type": "artist rename"
+    },
+    {
+      "attributes": [
+        "original"
+      ],
+      "direction": "backward",
+      "artist": {
+        "name": "David C. Johnson",
+        "disambiguation": "",
+        "country": "CH",
+        "sort-name": "Johnson, David C.",
+        "id": "e7f09b3a-cb49-40b5-835d-62a8ebadcaf7",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1969",
+      "target-credit": "",
+      "begin": "1968",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist"
+    },
+    {
+      "end": "1970",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Malcolm Mooney",
+        "country": "US",
+        "disambiguation": "",
+        "id": "033b8bc0-7607-45e4-ad84-3d5eb444d3a5",
+        "sort-name": "Mooney, Malcolm",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1968",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "begin": "1968",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "id": "a48cce8c-8632-4e6f-b46f-40139be33ba0",
+        "sort-name": "Czukay, Holger",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Holger Czukay",
+        "disambiguation": "",
+        "country": "DE"
+      },
+      "end": "1977",
+      "attribute-values": {}
+    },
+    {
+      "begin": "1968",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ],
+      "attribute-values": {},
+      "end": "1979",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f8b53105-6547-46e7-9b2e-af65f7ed871c",
+        "sort-name": "Karoli, Michael",
+        "country": "DE",
+        "disambiguation": "",
+        "name": "Michael Karoli"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "end": "1979",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Liebezeit, Jaki",
+        "id": "e779daf9-9481-41c6-a3e9-f1b48aabd829",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jaki Liebezeit",
+        "country": "DE",
+        "disambiguation": ""
+      },
+      "target-credit": "",
+      "begin": "1968",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true
+    },
+    {
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "country": "DE",
+        "disambiguation": "",
+        "name": "Irmin Schmidt",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Schmidt, Irmin",
+        "id": "0e535e75-3dc6-4240-a165-def6b33e938b"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1979",
+      "type": "member of band",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1968",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {}
+    },
+    {
+      "begin": "1970-05",
+      "type": "member of band",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": "1973",
+      "artist": {
+        "sort-name": "Suzuki, Damo",
+        "id": "a932aed9-c542-447a-a105-6b66e3a10b36",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Damo Suzuki",
+        "country": "DE",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1975-11",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": "1975-11",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Tim Hardin",
+        "disambiguation": "",
+        "country": "US",
+        "sort-name": "Hardin, Tim",
+        "id": "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      }
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "attribute-values": {},
+      "end": "1976-03",
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "name": "Thaiga Raj Raja Ratnam",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Ratnam, Thaiga Raj Raja",
+        "id": "b1ad3cfb-0d68-4876-936b-718dbaad0112"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "begin": "1976-01",
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "begin": "1976-03",
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "attribute-values": {},
+      "end": "1976-04",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Magic Michael",
+        "id": "a1e169f2-661b-4638-9e4a-88cd76ca2479",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Magic Michael"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1977",
+      "type": "member of band",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": "1979",
+      "artist": {
+        "sort-name": "Baah, Rebop Kwaku",
+        "id": "7d003695-15bc-43f5-b5f2-c06829c9b8c5",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Rebop Kwaku Baah",
+        "disambiguation": "",
+        "country": "GH"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "id": "2b717240-b391-4fd9-805d-0597a346dda3",
+        "sort-name": "Gee, Rosko",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Rosko Gee",
+        "country": null,
+        "disambiguation": ""
+      },
+      "end": "1979",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1977",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1986",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "end": "1988",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Holger Czukay",
+        "disambiguation": "",
+        "country": "DE",
+        "sort-name": "Czukay, Holger",
+        "id": "a48cce8c-8632-4e6f-b46f-40139be33ba0",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ]
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1986",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1988",
+      "artist": {
+        "sort-name": "Karoli, Michael",
+        "id": "f8b53105-6547-46e7-9b2e-af65f7ed871c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Michael Karoli",
+        "disambiguation": "",
+        "country": "DE"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ]
+    },
+    {
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Liebezeit, Jaki",
+        "id": "e779daf9-9481-41c6-a3e9-f1b48aabd829",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jaki Liebezeit",
+        "disambiguation": "",
+        "country": "DE"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1988",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1986",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {}
+    },
+    {
+      "begin": "1986",
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "attribute-values": {},
+      "end": "1988",
+      "artist": {
+        "sort-name": "Mooney, Malcolm",
+        "id": "033b8bc0-7607-45e4-ad84-3d5eb444d3a5",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Malcolm Mooney",
+        "disambiguation": "",
+        "country": "US"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Schmidt, Irmin",
+        "id": "0e535e75-3dc6-4240-a165-def6b33e938b",
+        "country": "DE",
+        "disambiguation": "",
+        "name": "Irmin Schmidt"
+      },
+      "end": "1988",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "1986",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f8b53105-6547-46e7-9b2e-af65f7ed871c",
+        "sort-name": "Karoli, Michael",
+        "country": "DE",
+        "disambiguation": "",
+        "name": "Michael Karoli"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1991",
+      "attributes": [
+        "original"
+      ],
+      "direction": "backward",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1991"
+    },
+    {
+      "attributes": [
+        "lead vocals"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "name": "Malcolm Mooney",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "033b8bc0-7607-45e4-ad84-3d5eb444d3a5",
+        "sort-name": "Mooney, Malcolm"
+      },
+      "end": "1991",
+      "attribute-values": {},
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type": "member of band",
+      "begin": "1991",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {}
+    },
+    {
+      "begin": "1991",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "end": "1991",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "DE",
+        "name": "Irmin Schmidt",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Schmidt, Irmin",
+        "id": "0e535e75-3dc6-4240-a165-def6b33e938b"
+      },
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000645612",
+        "id": "33a3db6c-219f-4e8a-b44a-08b4c62b628e"
+      },
+      "type": "allmusic",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "9b98db0b-94fe-45c7-a0e1-18f1a8cf6baa",
+        "resource": "https://canofficial.bandcamp.com/"
+      },
+      "type": "bandcamp",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "url": {
+        "id": "7f11551e-1643-49cd-b895-09a3eeb948f6",
+        "resource": "https://www.bbc.co.uk/music/artists/13501c7d-d181-45ba-af52-5f101d8516a0"
+      },
+      "type": "BBC Music page",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": true,
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "2020-11-19",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-type": "url",
+      "type": "discogs",
+      "url": {
+        "id": "290607e8-154c-4b8a-acf8-acd525589b9e",
+        "resource": "https://www.discogs.com/artist/17203"
+      },
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "type": "free streaming",
+      "url": {
+        "id": "5bee51f6-841a-4122-92e7-992953ba280f",
+        "resource": "https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "free streaming",
+      "url": {
+        "id": "3458c5b8-7b3f-409a-8f8b-863c114dbc52",
+        "resource": "https://www.deezer.com/artist/2344"
+      },
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type": "image",
+      "url": {
+        "id": "0c4550c9-db32-4958-a918-ad48d98b7ff5",
+        "resource": "https://commons.wikimedia.org/wiki/File:Can_1972_(Heinrich_Klaffs_Collection_102).jpg"
+      },
+      "begin": null,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "3125e612-5664-42b4-9fab-f522586d8510",
+        "resource": "https://www.imdb.com/name/nm0133453/"
+      },
+      "type": "IMDb",
+      "begin": null
+    },
+    {
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-type": "url",
+      "url": {
+        "id": "05585b5c-ee63-426b-bd4c-73224c2740f3",
+        "resource": "https://www.last.fm/music/Can"
+      },
+      "type": "last.fm",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "type": "lyrics",
+      "url": {
+        "resource": "https://genius.com/artists/Can",
+        "id": "291998e3-e9b2-4d86-aeee-48d8e08aa9a9"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "id": "18035bb5-7279-401d-97df-287bea6efa90",
+        "resource": "https://www.musixmatch.com/artist/Can"
+      },
+      "type": "lyrics",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "official homepage",
+      "url": {
+        "id": "fbcaca47-ebeb-487b-8b32-c9328935ce47",
+        "resource": "http://www.spoonrecords.com/"
+      },
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "0f89b465-d926-4dc4-8720-6843b223f74f",
+        "resource": "http://id.loc.gov/authorities/names/n95075498"
+      },
+      "begin": null
+    },
+    {
+      "url": {
+        "id": "025fc434-01c2-4f84-8d3c-680b2b8f377a",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139022543"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://d-nb.info/gnd/5209599-X",
+        "id": "1c96767b-2d21-447e-920a-748d2a1d7d26"
+      },
+      "type": "other databases"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "fe487a39-9350-4eb7-86e9-6b73a7d3a110",
+        "resource": "https://musicmoz.org/Bands_and_Artists/C/Can/"
+      },
+      "begin": null
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/can",
+        "id": "b4397dfe-6ce5-4378-ac8e-34333d8457c3"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "40a78808-362e-401e-a01e-f480fc1a8089",
+        "resource": "https://www.45cat.com/artist/can"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/can/",
+        "id": "296fcc4b-d6a2-43a0-a734-4a048f9e837f"
+      },
+      "type": "other databases",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "ebac668e-1d15-45c2-accf-6622e9e0eadd",
+        "resource": "https://www.progarchives.com/artist.asp?id=667"
+      },
+      "type": "other databases",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "id": "06e78043-e685-47f4-993e-6fbcd26056cf",
+        "resource": "https://www.spirit-of-rock.com/en/band/Can"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "url": {
+        "id": "cdfeb61c-7409-45b0-822f-e8c099cf2439",
+        "resource": "https://www.whosampled.com/Can/"
+      },
+      "type": "other databases",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-n95075498",
+        "id": "eff75352-3760-4d7c-973e-491baee0ef6f"
+      },
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "url": {
+        "id": "b8e95f4f-85b2-42a5-a15f-53bca32bfdf8",
+        "resource": "https://itunes.apple.com/us/artist/id647564"
+      },
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "1f250ba0-e16c-450a-ac3c-aa3c1afe9fc3",
+        "resource": "https://open.qobuz.com/artist/28025284"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.qobuz.com/artist/69766",
+        "id": "85ae1263-bc55-427f-9283-b3e66d8ce64c"
+      },
+      "type": "purchase for download",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "url": {
+        "id": "8acf11d7-3151-4fa0-b6aa-a8390179c718",
+        "resource": "https://us.7digital.com/artist/can"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "44f31ef7-90bf-4974-882f-8072be5bd67f",
+        "resource": "https://www.qobuz.com/us-en/interpreter/can-12/28025284"
+      },
+      "type": "purchase for download",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "begin": null,
+      "type": "purchase for mail-order",
+      "url": {
+        "resource": "https://www.cdjapan.co.jp/person/349672",
+        "id": "28f694b4-ce50-4be8-bf1d-4a5d3ad2d851"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "id": "eab8b779-27f1-4c92-95dd-8c44f89a92ef",
+        "resource": "https://secondhandsongs.com/artist/17460"
+      },
+      "type": "secondhandsongs",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-type": "url",
+      "begin": null,
+      "type": "setlistfm",
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/can-3d6a15f.html",
+        "id": "3c0088f8-1fec-40cb-9104-71bbe0066982"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "type": "social network",
+      "url": {
+        "id": "e4830e4c-b53f-4ab5-a979-2a9b4bc0a16e",
+        "resource": "https://twitter.com/SpoonRecords"
+      },
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "b8743f4b-6d3c-4464-845b-04ac97a1f22d",
+        "resource": "https://www.facebook.com/officialCan"
+      },
+      "type": "social network",
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.songkick.com/artists/469796",
+        "id": "57ec1f32-8659-4a36-a532-75ccaa449eef"
+      },
+      "type": "songkick",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-type": "url"
+    },
+    {
+      "ended": false,
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "id": "018551e4-9db3-4fa1-984b-2f75a6750195",
+        "resource": "https://soundcloud.com/can-official"
+      },
+      "type": "soundcloud",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "end": "2022-06-08",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": true,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "url": {
+        "id": "2664d646-15c3-4841-9f47-f3cb638dd3d7",
+        "resource": "https://us.napster.com/artist/can"
+      },
+      "type": "streaming",
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "id": "fcf54496-3302-40bb-9817-2b41e318b7c9",
+        "resource": "https://music.amazon.com/artists/B000QKKMXY"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/647564",
+        "id": "6cdd50ca-9eed-4f3c-bcf6-c35bd2671ed7"
+      },
+      "type": "streaming"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/us/artist/647564",
+        "id": "b48f05e9-c004-4ab8-85c7-fe8ff23f9485"
+      },
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "1f250ba0-e16c-450a-ac3c-aa3c1afe9fc3",
+        "resource": "https://open.qobuz.com/artist/28025284"
+      },
+      "type": "streaming",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming",
+      "url": {
+        "resource": "https://open.qobuz.com/artist/69766",
+        "id": "85ae1263-bc55-427f-9283-b3e66d8ce64c"
+      },
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://tidal.com/artist/3544811",
+        "id": "61929efd-e965-4562-b259-be6ff4a5e903"
+      },
+      "type": "streaming",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "44f31ef7-90bf-4974-882f-8072be5bd67f",
+        "resource": "https://www.qobuz.com/us-en/interpreter/can-12/28025284"
+      },
+      "type": "streaming",
+      "begin": null
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "VIAF",
+      "url": {
+        "resource": "http://viaf.org/viaf/312847005",
+        "id": "59a9493e-c1c5-4a27-b00c-e8b2e0435791"
+      },
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q170132",
+        "id": "15a779a6-79d0-4a4b-a185-4a524c3fe31a"
+      },
+      "type": "wikidata",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+    }
+  ],
+  "type": "Group",
+  "disambiguation": "German rock band"
+}

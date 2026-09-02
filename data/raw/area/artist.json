@@ -1,0 +1,829 @@
+{
+  "country": "IT",
+  "life-span": {
+    "ended": true,
+    "begin": "1972",
+    "end": "1999"
+  },
+  "end-area": null,
+  "name": "Area",
+  "begin-area": {
+    "disambiguation": "",
+    "name": "Milano",
+    "type-id": null,
+    "type": null,
+    "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+    "sort-name": "Milano"
+  },
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "sort-name": "Italy",
+    "type-id": null,
+    "type": null,
+    "name": "Italy",
+    "iso-3166-1-codes": [
+      "IT"
+    ],
+    "disambiguation": ""
+  },
+  "id": "74251656-ec30-4052-9386-b00b5be1b74c",
+  "sort-name": "Area",
+  "isnis": [
+    "0000000098341604"
+  ],
+  "gender": null,
+  "ipis": [],
+  "aliases": [
+    {
+      "sort-name": "Demetrio Stratos and the Area",
+      "type": "Search hint",
+      "begin": null,
+      "ended": false,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "name": "Demetrio Stratos and the Area",
+      "end": null,
+      "locale": null,
+      "primary": null
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "disambiguation": "Italian progressive band",
+  "type": "Group",
+  "relations": [
+    {
+      "begin": "1972",
+      "attribute-ids": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "id": "60c59158-f49a-40de-88d7-a166231b35cb",
+        "sort-name": "Gaetano, Leandro",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Leandro Gaetano",
+        "country": null,
+        "disambiguation": ""
+      },
+      "end": "1973",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": "1973",
+      "artist": {
+        "name": "Johnny Lambizzi",
+        "country": null,
+        "disambiguation": "",
+        "id": "6973e28d-782b-4385-af22-15e4f47e1f46",
+        "sort-name": "Lambizzi, Johnny",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "begin": "1972",
+      "type": "member of band",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1972",
+      "attribute-ids": {},
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "IT",
+        "name": "Patrick Djivas",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5f2dd9b5-b4d2-4dea-b7c8-6f42e279baef",
+        "sort-name": "Djivas, Patrick"
+      },
+      "end": "1974",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "end": "1974",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Busnello, Eddie",
+        "id": "c08d83f5-1c4c-4633-8e69-29a6ef711eec",
+        "country": "BE",
+        "disambiguation": "Italo-Belgian prog/jazz saxophonist",
+        "name": "Eddie Busnello"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1973",
+      "attribute-ids": {},
+      "type": "member of band"
+    },
+    {
+      "begin": "1973",
+      "attribute-ids": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "IT",
+        "name": "Paolo Tofani",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "8bb22149-4254-4aa6-802c-23d0be51c744",
+        "sort-name": "Tofani, Paolo"
+      },
+      "end": "1979",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "end": "1993",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Tavolazzi, Ares",
+        "id": "627f048e-b445-4e73-b8a6-54defceb8ce7",
+        "country": "IT",
+        "disambiguation": "",
+        "name": "Ares Tavolazzi"
+      },
+      "target-credit": "",
+      "begin": "1974",
+      "attribute-ids": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true
+    },
+    {
+      "begin": "1979",
+      "attribute-ids": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [],
+      "end": "1980",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Sara Borsarini",
+        "disambiguation": "",
+        "country": null,
+        "id": "aee84a2f-ca3b-4a1f-a165-a0f13c4cbe9d",
+        "sort-name": "Borsarini, Sara",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Guidoboni, Guido",
+        "id": "040e77cd-0e57-4cd7-8f7d-aaf5530674f3",
+        "country": null,
+        "disambiguation": "",
+        "name": "Guido Guidoboni"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1980",
+      "target-credit": "",
+      "begin": "1979",
+      "type": "member of band",
+      "attribute-ids": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "id": "a94aac18-827f-4e84-95f6-01d6e0703542",
+        "sort-name": "Tonolo, Pietro",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Pietro Tonolo",
+        "country": "IT",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1980",
+      "attributes": [],
+      "direction": "backward",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1979"
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Urbani, Massimo",
+        "id": "967ebf18-d8ce-457d-93af-ab0113704096",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Massimo Urbani",
+        "disambiguation": "",
+        "country": "IT"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1980",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1979",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "name": "Larry Nocella",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "155db7be-a525-46d2-bf04-52d96e6bf968",
+        "sort-name": "Nocella, Larry"
+      },
+      "end": "1982",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1980",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "begin": "1993",
+      "type": "member of band",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": "1997",
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "name": "Pietro Condorelli",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "20abc505-ef8b-40b9-9ccb-9332d8de8a18",
+        "sort-name": "Condorelli, Pietro"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "end": "1997",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Paolino Dalla Porta",
+        "country": "IT",
+        "disambiguation": "Italian double bass player and composer",
+        "id": "c184fedc-bbac-44da-89bc-9f0cdeab1a6e",
+        "sort-name": "Dalla Porta, Paolino",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "begin": "1993",
+      "attribute-ids": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1998",
+      "attribute-ids": {},
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "name": "Angela Baggi",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "60fb6de2-90cf-4f32-b800-f4755f491ddf",
+        "sort-name": "Baggi, Angela"
+      },
+      "end": "1999",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "begin": "1998",
+      "type": "member of band",
+      "attribute-ids": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "37eb99d4-bafe-4121-91f7-6d60a3fc05aa",
+        "sort-name": "Micheli, Marco",
+        "disambiguation": "italian double bassist",
+        "country": "IT",
+        "name": "Marco Micheli"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1999",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "type": "member of band",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": "1979",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Stratos, Demetrio",
+        "id": "3f27316a-ab8b-488f-a1c8-0584473a27e5",
+        "country": "GR",
+        "disambiguation": "",
+        "name": "Demetrio Stratos"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": null,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "country": null,
+        "disambiguation": "",
+        "name": "Giulio Capiozzo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "5eb0ab2b-39c6-4c94-98c2-0671e4d4ffff",
+        "sort-name": "Capiozzo, Giulio"
+      }
+    },
+    {
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "artist": {
+        "country": null,
+        "disambiguation": "",
+        "name": "Patrizio Fariselli",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "eb57cfac-1cc0-4455-a6ae-607f96dd9c94",
+        "sort-name": "Fariselli, Patrizio"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "target-type": "url",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "allmusic",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000602307",
+        "id": "f504e060-be75-4d4c-9ba8-a4c91a479698"
+      },
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "http://ondarock.it/italia/area.htm",
+        "id": "eb6bc397-8750-4fd0-b3a6-b2731a3a745b"
+      },
+      "type": "discography page",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "type": "discography page",
+      "url": {
+        "id": "81dba125-a777-4796-82fa-3b0d98320205",
+        "resource": "https://digilander.libero.it/gianni61dgl/areadiscografia.htm"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "discogs",
+      "url": {
+        "resource": "https://www.discogs.com/artist/313917",
+        "id": "b1580d59-f60a-485a-9090-51d3a0805075"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+    },
+    {
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/6o2PxnpsrQ352kwYlEwjvR",
+        "id": "bfcac35d-55fc-4742-94cf-87c35fff1f2f"
+      },
+      "type": "free streaming",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "type": "free streaming",
+      "url": {
+        "id": "3fb662cd-aba4-4112-83d7-28a5572a9e63",
+        "resource": "https://www.deezer.com/artist/62959"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "type": "last.fm",
+      "url": {
+        "id": "95b24bae-1141-4d51-ab84-4362b60b5c1e",
+        "resource": "https://www.last.fm/music/Area"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type": "official homepage",
+      "url": {
+        "resource": "http://www.fariselliproject.com/",
+        "id": "86e60d8c-a937-4630-bf2c-9dc0b2017f8b"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type": "other databases",
+      "url": {
+        "id": "237799ce-cc74-455a-9413-97716271d857",
+        "resource": "http://id.loc.gov/authorities/names/no97010694"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "0eaeecd6-d830-406a-9f81-77427beeac89",
+        "resource": "https://rateyourmusic.com/artist/area"
+      },
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.jazzmusicarchives.com/artist/area",
+        "id": "69653769-d3fa-409d-a41d-be41e70e4052"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=26",
+        "id": "911dc4e6-27ce-4649-8f39-b82b990238fc"
+      },
+      "begin": null
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-no97010694",
+        "id": "9ede91df-8016-4c04-852a-a129e828953c"
+      },
+      "type": "other databases"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://itunes.apple.com/us/artist/id4021872",
+        "id": "6396859e-f939-4d88-b84f-1974830ba490"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "4eabe7b6-d345-4fc3-9dca-2dea1f95917f",
+        "resource": "https://www.setlist.fm/setlists/area-73d61255.html"
+      },
+      "type": "setlistfm"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "songkick",
+      "url": {
+        "resource": "https://www.songkick.com/artists/485178",
+        "id": "b006e5b7-a0d7-4129-b3e5-88208a7567d8"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming",
+      "url": {
+        "id": "ff92c9e0-01e1-4c36-8a97-7c33d807759e",
+        "resource": "https://music.apple.com/it/artist/4021872"
+      },
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "attribute-ids": {},
+      "type": "streaming",
+      "url": {
+        "resource": "https://tidal.com/artist/13806",
+        "id": "2e8e56ef-c898-4b06-adeb-8583974d4b55"
+      },
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "wikidata",
+      "url": {
+        "id": "7f4c7f14-3fba-4122-a97a-8f3f7c0442c5",
+        "resource": "https://www.wikidata.org/wiki/Q2703857"
+      },
+      "begin": null
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "6219f90a-5e8a-4122-8d2e-810f421cc581",
+        "resource": "https://music.youtube.com/channel/UCewXbc9bKBPimavJG2kcqkg"
+      },
+      "type": "youtube music"
+    }
+  ]
+}

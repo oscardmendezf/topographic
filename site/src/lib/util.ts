@@ -12,6 +12,17 @@ export const COLORES: Record<string, string> = {
   app: '#A93F55', ap: '#88A47C', rush: '#B04A5A', sup: '#D9B44A', elo: '#6E9FD4',
   foc: '#58B08A', ren: '#C77E5A', str: '#9C8AA5', ca: '#D9587E', bjh: '#8FA35C',
   sh: '#4FA3A5',
+  // escenas F3 y Américas (un color por escena)
+  canterbury: '#A3A86B', italia: '#D1705B', alemania: '#7FA8C9',
+  eeuu: '#C79B3B', latinoamerica: '#B85FA0',
+};
+
+export const ESCENAS: Record<string, string> = {
+  canterbury: 'Canterbury profundo',
+  italia: 'Prog italiano',
+  alemania: 'Alemania',
+  eeuu: 'Prog estadounidense',
+  latinoamerica: 'Prog latinoamericano',
 };
 
 // Color por tipo de arista (apagados, para fondo oscuro). También son la leyenda.

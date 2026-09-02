@@ -1,0 +1,764 @@
+{
+  "country": "IT",
+  "gender-id": null,
+  "relations": [
+    {
+      "attribute-ids": {},
+      "artist": {
+        "type": "Person",
+        "sort-name": "Nocenzi, Gianni",
+        "id": "ec64108c-9515-4351-877b-e085c2cc18d9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "IT",
+        "name": "Gianni Nocenzi"
+      },
+      "ended": false,
+      "type-id": "6ed4bfc4-0a0d-44c0-b025-b7fc4d900b67",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "founder",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "cc170f95-a888-4da9-868d-81390cf01e54",
+        "sort-name": "Nocenzi, Vittorio",
+        "type": "Person",
+        "name": "Vittorio Nocenzi",
+        "country": "IT",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "founder",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "6ed4bfc4-0a0d-44c0-b025-b7fc4d900b67",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "artist": {
+        "name": "Gianni Nocenzi",
+        "country": "IT",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ec64108c-9515-4351-877b-e085c2cc18d9",
+        "type": "Person",
+        "sort-name": "Nocenzi, Gianni"
+      },
+      "attribute-ids": {
+        "clarinet": "08028095-6dae-4fe0-9f34-284fde19f29b",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true,
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1968",
+      "type": "member of band",
+      "attribute-credits": {
+        "clarinet": "piccolo mi/b"
+      },
+      "attributes": [
+        "clarinet",
+        "keyboard",
+        "original",
+        "piano"
+      ],
+      "end": "1983",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "begin": "1968",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attributes": [
+        "original"
+      ],
+      "ended": false,
+      "artist": {
+        "name": "Vittorio Nocenzi",
+        "country": "IT",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "cc170f95-a888-4da9-868d-81390cf01e54",
+        "type": "Person",
+        "sort-name": "Nocenzi, Vittorio"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type": "member of band",
+      "begin": "1971",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1972",
+      "attributes": [],
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Calderoni, Pierluigi",
+        "id": "f44a6b77-1f2b-4b04-ad20-9c149909ff41",
+        "country": "IT",
+        "name": "Pierluigi Calderoni",
+        "disambiguation": ""
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "end": "2014-02-21",
+      "type": "member of band",
+      "begin": "1971",
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "country": "IT",
+        "name": "Francesco Di Giacomo",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Di Giacomo, Francesco",
+        "id": "15b7ebe1-f785-43f4-bc31-691ee4cb6854"
+      },
+      "ended": true
+    },
+    {
+      "end": "2015-10-03",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1973",
+      "type": "member of band",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "country": "IT",
+        "name": "Rodolfo Maltese",
+        "sort-name": "Maltese, Rodolfo",
+        "type": "Person",
+        "id": "ef3bef44-c041-427f-b5b2-1356b192cefb",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true
+    },
+    {
+      "type": "member of band",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-credits": {},
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ddfd7f8a-84cb-4fc1-9939-1661bc669b79",
+        "type": "Person",
+        "sort-name": "Esseno, Alessandro",
+        "name": "Alessandro Esseno",
+        "country": null,
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "bass"
+      ],
+      "begin": null,
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "D'Angelo, Renato",
+        "id": "b5e08c5c-32a0-4db7-85fc-2b5879080860",
+        "country": null,
+        "name": "Renato D'Angelo",
+        "disambiguation": ""
+      },
+      "ended": true
+    },
+    {
+      "artist": {
+        "disambiguation": "Italian guitarist",
+        "country": null,
+        "name": "Marcello Todaro",
+        "type": "Person",
+        "sort-name": "Todaro, Marcello",
+        "id": "5ed01670-61d6-4d45-a0ec-523b3ba9114e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "acoustic guitar": "00beaf8e-a781-431c-8130-7c2871696b7d"
+      },
+      "ended": true,
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": null,
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "acoustic guitar"
+      ],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": true,
+      "artist": {
+        "name": "Marcello Todaro",
+        "country": null,
+        "disambiguation": "Italian guitarist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5ed01670-61d6-4d45-a0ec-523b3ba9114e",
+        "type": "Person",
+        "sort-name": "Todaro, Marcello"
+      },
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": null,
+      "type": "member of band",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "electric guitar"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "allmusic",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000632020",
+        "id": "d99154bf-ca14-430d-99ba-8295c6e346b8"
+      }
+    },
+    {
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "attribute-values": {},
+      "attributes": [],
+      "end": "2020-11-19",
+      "type": "BBC Music page",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/737b9b0f-170c-42ee-8e73-74865cd682ee",
+        "id": "47554ad7-3f4a-4765-8b31-ce077ec553ae"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "discogs",
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "dc843305-f6ec-4f84-a394-9c7acea375e8",
+        "resource": "https://www.discogs.com/artist/353382"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "free streaming",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "5213bb6e-5f39-4295-8d26-53f3de4e8ef6",
+        "resource": "https://www.deezer.com/artist/77390"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "resource": "https://www.italiamia.com/wp-content/uploads/2016/02/BMS_02-300x242.jpg",
+        "id": "674bbcb9-24ab-483c-8d8e-116270b8e46c"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "image",
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "d85a6c39-f96b-45de-9441-496510f9292c",
+        "resource": "https://www.last.fm/music/Banco+del+Mutuo+Soccorso"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "last.fm",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f"
+    },
+    {
+      "url": {
+        "id": "37d2f71c-a428-4813-85db-42cec8dc1c5c",
+        "resource": "https://myspace.com/bmsbancodelmutuosoccorso"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type": "myspace",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.bancodelmutuosoccorso.it/",
+        "id": "71c198bd-b5aa-493e-bd4b-79eb37a7448c"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type": "official homepage",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n83020588",
+        "id": "39009d73-1761-452d-9362-f243f237dbc1"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "3b1ecf69-2ad8-4f98-a679-ed46556b54e4",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb14481740g"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/banco_del_mutuo_soccorso",
+        "id": "7b377eba-9a48-40bf-89ba-c90bab1d3a89"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "d0355b08-5d80-4706-9c50-6d7a2fc01956",
+        "resource": "https://www.45cat.com/artist/banco"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=36",
+        "id": "1dbc69d0-9684-43fb-ba73-ed8a9954c0c2"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-n83020588",
+        "id": "ef201bc6-7540-404e-9717-cfe8128a6804"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "type": "setlistfm",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "de1fe4d6-9559-4554-8116-71c51a7b0bca",
+        "resource": "https://www.setlist.fm/setlists/banco-del-mutuo-soccorso-6bd61262.html"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "social network",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "2e5d3795-000b-47a3-b62a-785a0286ca09",
+        "resource": "https://twitter.com/BancoOfficial"
+      }
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.facebook.com/Banco-del-Mutuo-Soccorso-Official-113069095557933",
+        "id": "0b71eada-1774-4c81-8c92-3e7a7596d2bb"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "social network"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "social network",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.instagram.com/bancodelmutuosoccorso/",
+        "id": "693e04ff-b59d-4dfe-a875-571270113777"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "songkick",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "0ac97f60-65c8-4590-89d1-d8dffad99ae4",
+        "resource": "https://www.songkick.com/artists/251923"
+      }
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "type": "streaming",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://tidal.com/artist/1909",
+        "id": "21edbf5d-db28-43ac-bc59-9a4253297d46"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "VIAF",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/159711781",
+        "id": "f03a6182-f9ff-41d4-a80d-5ff7fb94c0e7"
+      },
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1619432",
+        "id": "9aa047b7-4f8a-420b-ae73-1ebc927d7f9a"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "wikidata",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "youtube",
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCtlSobBxt2E5bS_2dq2T23Q",
+        "id": "f78a2bab-5f42-4b5c-854f-f5ff6a4d7207"
+      },
+      "attribute-ids": {}
+    }
+  ],
+  "name": "Banco del Mutuo Soccorso",
+  "gender": null,
+  "ipis": [],
+  "end-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Banco del Mutuo Soccorso",
+  "type": "Group",
+  "begin-area": {
+    "name": "Roma",
+    "type-id": null,
+    "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+    "sort-name": "Roma",
+    "disambiguation": "",
+    "type": null
+  },
+  "aliases": [
+    {
+      "name": "Banco",
+      "ended": false,
+      "primary": null,
+      "locale": null,
+      "type": null,
+      "begin": null,
+      "sort-name": "Banco",
+      "end": null,
+      "type-id": null
+    }
+  ],
+  "disambiguation": "",
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "type": null,
+    "sort-name": "Italy",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "IT"
+    ],
+    "disambiguation": "",
+    "name": "Italy"
+  },
+  "isnis": [
+    "0000000106431301"
+  ],
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1968"
+  },
+  "id": "737b9b0f-170c-42ee-8e73-74865cd682ee"
+}

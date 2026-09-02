@@ -1,0 +1,47 @@
+{
+  "artistas": [
+    {
+      "slug": "banco",
+      "ficha": "Pilar del prog italiano junto a PFM y Le Orme, con Francesco Di Giacomo —la voz más grande del género, literal y figuradamente— al frente y los hermanos Nocenzi en teclados duales. Su trilogía fundacional de 1972-73 definió la ambición de la escena: aquella Italia no pedía permiso. Como sus pares, ficharon por Manticore para intentar el salto al mercado anglo.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "banco-banco-del-mutuo-soccorso",
+          "analisis": "Primer capítulo de la trilogía fundacional: los teclados duales de los Nocenzi y la voz de Di Giacomo ya están enteros desde el debut. El prog italiano encontrando su forma propia, no una copia del modelo inglés.",
+          "estrellas_critica": 4,
+          "critica_nota": "Debut muy valorado; abre la trilogía fundacional.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Éxito en Italia; culto fuera de ella.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "banco-darwin",
+          "analisis": "Álbum conceptual sobre la evolución: la ambición italiana no pedía permiso. Cima de la trilogía fundacional y del prog de su país, con Di Giacomo en su registro más imponente.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon del prog italiano; su obra más citada.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Grande en Italia; referencia de culto en el resto.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "banco-io-sono-nato-libero",
+          "analisis": "Cierre de la trilogía fundacional de 1972-73. Los hermanos Nocenzi despliegan su escritura más amplia y Di Giacomo confirma por qué se lo consideraba la voz mayor del género.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon; cierre a la altura de la trilogía.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Éxito doméstico; culto internacional.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "banco-banco",
+          "analisis": "El fichaje por Manticore para el mercado anglo: material anterior rehecho y cantado en inglés. Documento del intento de exportación del prog italiano más que una obra nueva.",
+          "estrellas_critica": 3,
+          "critica_nota": "Mixto; se prefieren las versiones italianas originales.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "El salto al mercado anglo no cuajó.",
+          "charts_texto": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "end-area": null,
+  "country": "GB",
+  "gender-id": null,
+  "gender": null,
+  "aliases": [],
+  "isnis": [
+    "0000000099695332"
+  ],
+  "id": "5af8b5e4-8319-4f4b-9548-6e4e458ee923",
+  "life-span": {
+    "begin": "1971-10",
+    "end": "1972-09",
+    "ended": true
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": null,
+  "relations": [
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "1972-03",
+      "artist": {
+        "name": "David Sinclair",
+        "type": "Person",
+        "disambiguation": "UK folk/rock keyboardist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Sinclair, David",
+        "id": "8135b023-c5da-4e6f-8d1b-50e0269357ca"
+      },
+      "attribute-ids": {},
+      "begin": "1971-10",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "end": "1972-09",
+      "artist": {
+        "id": "52907ce4-28b5-41b8-86db-c4937baa7580",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "MacCormick, Bill",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Bill MacCormick",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "begin": "1971-10",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971-10",
+      "attribute-ids": {},
+      "end": "1972-09",
+      "artist": {
+        "country": "GB",
+        "sort-name": "Miller, Phil",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "68ccb6f8-4f38-4c2b-9d4f-12151138aa80",
+        "type": "Person",
+        "name": "Phil Miller",
+        "disambiguation": "UK Canterbury progressive rock/jazz guitarist"
+      },
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Wyatt, Robert",
+        "id": "9f041c61-f382-4048-a1f1-33105124bb99",
+        "name": "Robert Wyatt",
+        "type": "Person",
+        "disambiguation": "Canterbury scene"
+      },
+      "end": "1972-09",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971-10",
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "id": "c283a258-e09e-4e03-8e3f-235e2383e64d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "NZ",
+        "sort-name": "MacRae, Dave",
+        "disambiguation": "NZ keyboardist",
+        "name": "Dave MacRae",
+        "type": "Person"
+      },
+      "end": "1972-09",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972-03",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB",
+        "sort-name": "Soft Machine",
+        "id": "5193ce6b-a315-4c50-ae49-54e69ffbc988",
+        "name": "Soft Machine",
+        "type": "Group",
+        "disambiguation": "British rock band"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "1af24726-5b1f-4b07-826e-5351723f504b",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "named after artist"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "allmusic",
+      "direction": "forward",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000326133",
+        "id": "a3992d9a-13b0-4995-a7bb-886173500458"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "BBC Music page",
+      "url": {
+        "id": "7849ef8b-70e2-4e7d-a394-b50087f7c996",
+        "resource": "https://www.bbc.co.uk/music/artists/5af8b5e4-8319-4f4b-9548-6e4e458ee923"
+      },
+      "end": "2020-11-19",
+      "ended": true,
+      "begin": null,
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "http://www.progarchives.com/artist.asp?id=236",
+        "id": "892a5262-8f73-468d-b4e2-5502c653eafd"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "begin": null,
+      "direction": "forward",
+      "type": "discography page",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.discogs.com/artist/222802",
+        "id": "aa764343-1c7e-45f7-b347-674ae6198075"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "direction": "forward",
+      "type": "discogs",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.last.fm/music/Matching+Mole",
+        "id": "4fac98c3-0a9c-42e7-8e3e-5ac10c011c81"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "direction": "forward",
+      "type": "last.fm",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/matching-mole",
+        "id": "ee756616-1ee5-4caf-877d-e5935f167a29"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "415ab729-7f81-4177-8b53-f6b085b14c7b",
+        "resource": "https://www.45cat.com/artist/matching-mole"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q942311",
+        "id": "6224b63e-a06d-4af4-8915-4eaf7162bff9"
+      },
+      "type": "wikidata",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    }
+  ],
+  "sort-name": "Matching Mole",
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "sort-name": "United Kingdom",
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "type": null
+  },
+  "ipis": [],
+  "disambiguation": "",
+  "name": "Matching Mole",
+  "type": "Group"
+}

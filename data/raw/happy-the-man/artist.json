@@ -1,0 +1,439 @@
+{
+  "gender": null,
+  "gender-id": null,
+  "country": "US",
+  "end-area": {
+    "id": "2fb5445d-3987-49fe-957a-f730a7acc4a2",
+    "disambiguation": "",
+    "name": "Baltimore",
+    "type-id": null,
+    "type": null,
+    "sort-name": "Baltimore"
+  },
+  "aliases": [],
+  "begin-area": {
+    "sort-name": "Harrisonburg",
+    "type": null,
+    "name": "Harrisonburg",
+    "type-id": null,
+    "disambiguation": "",
+    "id": "4fb3cf81-d45c-4607-aa90-53856d69f5ff"
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "1979",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Kit Watkins",
+        "id": "c9c01dec-8f02-4311-83a6-642f2069bc64",
+        "country": "US",
+        "sort-name": "Watkins, Kit",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "begin": "1972",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "1978",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1979",
+      "artist": {
+        "name": "Coco Roussel",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Roussel, Coco",
+        "id": "293e0621-4e3e-4564-9aea-76604ac19fba"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "name": "David Rosenthal",
+        "disambiguation": "US keyboardist",
+        "country": "US",
+        "sort-name": "Rosenthal, David",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5635436d-9938-42fe-a8bb-2db9efc662e4"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2000",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "Joe Bergamini",
+        "type": "Person",
+        "id": "87ef2ce4-43d0-4c1f-8d87-51efbe5efdb8",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Bergamini, Joe",
+        "country": "US"
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2002",
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "country": null,
+        "sort-name": "Beck, Mike",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "d04b2935-1d4b-436f-8fb2-7dd24a9fcad3",
+        "type": "Person",
+        "name": "Mike Beck",
+        "disambiguation": "American drummer & percussionist"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [
+        "percussion"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "membranophone"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Beck, Mike",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "d04b2935-1d4b-436f-8fb2-7dd24a9fcad3",
+        "type": "Person",
+        "name": "Mike Beck",
+        "disambiguation": "American drummer & percussionist"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      }
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "bass"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Kennell, Rick",
+        "id": "42d39db5-ecf9-4d18-ac34-e13f7a4746e2",
+        "name": "Rick Kennell",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      }
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "Ron Riddle",
+        "type": "Person",
+        "id": "b59eb993-89fa-4132-b717-e8645e7ea815",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Riddle, Ron",
+        "country": "US"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "Stanley Whitaker",
+        "type": "Person",
+        "id": "f5989109-2062-45e7-a944-f52c9160b639",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Whitaker, Stanley",
+        "country": null
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Frank Wyatt",
+        "id": "fe5a8f8e-8272-431a-bef6-935db827bcf2",
+        "sort-name": "Wyatt, Frank",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discogs",
+      "direction": "forward",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "f7fe11fc-6565-40e3-9f3d-16249336070d",
+        "resource": "https://www.discogs.com/artist/1004953"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "official homepage",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "a18f8948-daea-4665-8362-ed7907a61809",
+        "resource": "http://www.happytheman.com/"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no98016499",
+        "id": "e0127710-b908-44bd-b6fa-b591376d00a3"
+      },
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb14051368f",
+        "id": "5a9cd168-0e1f-4246-a7e8-ab1733ea0121"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "3fb2796e-6675-4d52-be1c-c33a8a343153",
+        "resource": "https://d-nb.info/gnd/320638367"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/happy_the_man",
+        "id": "5a0d1fa6-7627-4e25-a0c3-2c4ae58db7b0"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "id": "6e4709cd-a139-492c-876c-3192983d04b0",
+        "resource": "https://www.worldcat.org/identities/lccn-no98016499"
+      },
+      "end": null
+    },
+    {
+      "type": "wikidata",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "d688e0ce-e7b0-463b-81dc-e529be8113e5",
+        "resource": "https://www.wikidata.org/wiki/Q1765940"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    }
+  ],
+  "sort-name": "Happy the Man",
+  "isnis": [
+    "0000000122849767"
+  ],
+  "life-span": {
+    "ended": true,
+    "end": "2005",
+    "begin": "1972"
+  },
+  "id": "ee30663b-8922-48de-b6bc-3bbdfa65dd8b",
+  "name": "Happy the Man",
+  "type": "Group",
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "sort-name": "United States",
+    "disambiguation": "",
+    "name": "United States",
+    "type": null
+  },
+  "ipis": [],
+  "disambiguation": ""
+}

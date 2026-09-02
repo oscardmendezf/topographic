@@ -1,0 +1,79 @@
+{
+  "release-group-count": 6,
+  "release-groups": [
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "11e545f8-5d87-4cab-81a0-5729ec2ff755",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2008",
+      "title": "Archivos MIA (1974–1985)"
+    },
+    {
+      "title": "En vivo",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "1c466796-2889-456e-bb92-56cfd4af98e4",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "title": "Mágicos juegos del tiempo",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1977",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "4ed440d1-e380-43d2-aa1f-208d1ffb380d"
+    },
+    {
+      "title": "Cornonstípicum",
+      "first-release-date": "1978",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "98b21171-5b99-3961-9158-928ac15f8855",
+      "secondary-type-ids": []
+    },
+    {
+      "first-release-date": "1976",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Transparencias",
+      "id": "9e50e89b-5628-4326-bef1-40947b56b551",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "1979",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Conciertos",
+      "id": "b003164a-ec03-4c51-960d-ad196016d81c",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    }
+  ]
+}

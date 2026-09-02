@@ -1,0 +1,2462 @@
+{
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "type": "Person",
+  "id": "e20747e7-55a4-452e-8766-7b985585082d",
+  "gender": "Male",
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "country": "US",
+  "name": "Frank Zappa",
+  "relations": [
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "6ed4bfc4-0a0d-44c0-b025-b7fc4d900b67",
+      "type": "founder",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "name": "The Mothers of Invention",
+        "type": "Group",
+        "id": "fe98e268-4ddd-441b-95a0-b219375f9ae4",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Mothers of Invention, The",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1976",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "ended": true,
+      "end": null,
+      "artist": {
+        "name": "Ray White",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "b4570e55-a8f9-4950-a6fe-538b315771c0",
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "White, Ray"
+      }
+    },
+    {
+      "end": "1980-12",
+      "ended": true,
+      "attributes": [
+        "keyboard"
+      ],
+      "artist": {
+        "name": "Bob Harris",
+        "country": "US",
+        "disambiguation": "keyboards/trumpet player and vocalist, worked for Frank Zappa in Sep–Dec 1980",
+        "sort-name": "Harris, Bob",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "775c5b3b-5caf-46c1-8f40-d0cf43100485"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "instrumental supporting musician",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "begin": "1980-09",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {
+        "keyboard": "keyboards"
+      },
+      "target-type": "artist"
+    },
+    {
+      "attributes": [
+        "trumpet"
+      ],
+      "end": "1980-12",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "775c5b3b-5caf-46c1-8f40-d0cf43100485",
+        "country": "US",
+        "disambiguation": "keyboards/trumpet player and vocalist, worked for Frank Zappa in Sep–Dec 1980",
+        "sort-name": "Harris, Bob",
+        "name": "Bob Harris"
+      },
+      "attribute-ids": {
+        "trumpet": "1c8f9780-2f16-4891-b66d-bb7aa0820dbd"
+      },
+      "type": "instrumental supporting musician",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "direction": "backward",
+      "begin": "1980-09",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "name": "Napoleon Murphy Brock",
+        "sort-name": "Brock, Napoleon Murphy",
+        "country": "US",
+        "disambiguation": "",
+        "id": "fddef795-c4fe-419e-8822-5130cff27b29",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [
+        "saxophone"
+      ],
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "type": "instrumental supporting musician",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {}
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "instrumental supporting musician",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "attributes": [
+        "saxophone"
+      ],
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "5185d168-058b-4093-b886-d7bae2e46444",
+        "country": "US",
+        "disambiguation": "saxophone for acts like Continuum and Frank Zappa",
+        "sort-name": "Carman, Paul",
+        "name": "Paul Carman"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "type": "instrumental supporting musician",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "c4056664-378d-4c22-8402-b6a5c644f0e6",
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Bozzio, Terry",
+        "name": "Terry Bozzio"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "ended": true,
+      "end": null
+    },
+    {
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "instrumental supporting musician",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": null,
+      "ended": true,
+      "artist": {
+        "id": "c3d1bbce-b664-4487-922f-4b3bfb8f73b1",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Wackerman, Chad",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Chad Wackerman"
+      }
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "is person",
+      "type-id": "dd9886f2-1dfe-4270-97db-283f6839a666",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "name": "Kansas J. Kanzus",
+        "sort-name": "Kanzus, Kansas J.",
+        "disambiguation": "",
+        "country": null,
+        "id": "39a3fd0e-16a7-4c2a-9005-c6582c98e3da",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "end": "1993-12-04",
+      "ended": true,
+      "attributes": [],
+      "artist": {
+        "name": "Gail Zappa",
+        "sort-name": "Zappa, Gail",
+        "disambiguation": "",
+        "country": "US",
+        "id": "8d80b699-9eaf-4e37-bbb4-de3a50efdcba",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "type": "married",
+      "type-id": "b2bf7a5d-2da6-4742-baf4-e38d8a7ad029",
+      "begin": "1967-09-21",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "original",
+        "spoken vocals"
+      ],
+      "end": "1975",
+      "ended": true,
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Mothers of Invention, The",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "fe98e268-4ddd-441b-95a0-b219375f9ae4",
+        "name": "The Mothers of Invention"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "spoken vocals": "d3a36e62-a7c4-4eb9-839f-adfebe87ac12"
+      },
+      "begin": "1964",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "name": "Ned and Nelda",
+        "type": "Group",
+        "id": "c14dc975-1b71-45dd-88dd-401442944048",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Ned, Nelda, and",
+        "country": null,
+        "disambiguation": "Frank Zappa and Ray Collins"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "name": "Ruben and the Jets",
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Ruben and the Jets",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "32fbbfeb-7cc5-4310-8326-19238ca78a13"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {},
+      "artist": {
+        "sort-name": "Midnighters, The",
+        "disambiguation": "aka ‘Brian Lord & The Midnighters’",
+        "country": "US",
+        "type": "Group",
+        "id": "b54b7869-cf3a-4d98-8921-6963c611e8dc",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "The Midnighters"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "type": "parent",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Zappa, Ahmet",
+        "disambiguation": "",
+        "country": "US",
+        "type": "Person",
+        "id": "af591d22-e3a7-4978-82f5-c820506917ba",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Ahmet Zappa"
+      },
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "artist": {
+        "name": "Diva Zappa",
+        "sort-name": "Zappa, Diva",
+        "disambiguation": "",
+        "country": null,
+        "type": "Person",
+        "id": "fb1c2448-0bb2-48d4-bdb2-d165081e5272",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "parent",
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "type": "parent",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "name": "Moon Unit Zappa",
+        "id": "c2fd9836-16a9-47a0-b0a7-574f8e3d842f",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Zappa, Moon Unit",
+        "disambiguation": "",
+        "country": "US"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "Dweezil Zappa",
+        "type": "Person",
+        "id": "7f83b479-2030-47c5-937e-d4a8f142f1b1",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Zappa, Dweezil",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "target-type": "artist",
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "parent",
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "type-id": "b42b7966-b904-449e-b8f9-8c7297b863d0",
+      "type": "sibling",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "name": "Bobby Zappa",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "2b6200b3-34a2-4a01-93d8-3bfbf68b996e",
+        "type": "Person",
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Zappa, Bobby"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "1980",
+      "direction": "backward",
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "type": "supporting musician",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "name": "Steve Vai",
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Vai, Steve",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "5e7ccd92-6277-451a-aab9-1efd587c50f3"
+      },
+      "ended": true,
+      "end": "1982",
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "supporting musician",
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "begin": "1987",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "end": "1988",
+      "ended": true,
+      "artist": {
+        "id": "b018a7c2-2f56-4f01-ac7e-ad9b4c73226c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Keneally, Mike",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Mike Keneally"
+      }
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "type": "supporting musician",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "id": "73c3f499-60e2-44e1-81dd-7fe2191461fa",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Belew, Adrian",
+        "disambiguation": "",
+        "country": "US",
+        "name": "Adrian Belew"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "direction": "backward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "supporting musician",
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "target-type": "artist",
+      "target-credit": "",
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "artist": {
+        "sort-name": "Duran, Tony",
+        "country": "US",
+        "disambiguation": "slide guitarist",
+        "type": "Person",
+        "id": "89675a22-a92f-4197-9a3b-1540b764d999",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Tony Duran"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "type": "supporting musician",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "name": "David Ocker",
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Ocker, David",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "fb9749f4-1210-4212-82be-941483064cae"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "type": "supporting musician",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "id": "a1594afa-2f6b-4596-a156-a35853dca691",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Captain Beefheart",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Captain Beefheart"
+      },
+      "ended": true,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": true,
+      "artist": {
+        "name": "Ike Willis",
+        "id": "f976bd1d-9fc8-4b5a-b423-d7fb48a1505d",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Willis, Ike",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "type": "supporting musician",
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "sort-name": "2000Motels",
+        "country": "NL",
+        "disambiguation": "",
+        "id": "f2022dfd-71e5-45b0-b2e5-1cccd05f7d0d",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "2000Motels"
+      },
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute"
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "name": "Acton Zappa",
+        "type": "Group",
+        "id": "815e6b2a-b958-4d7d-b5c7-693843f27152",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Acton Zappa",
+        "disambiguation": "Zappa tribute band",
+        "country": null
+      }
+    },
+    {
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward",
+      "target-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "name": "Aunty Owl",
+        "country": null,
+        "disambiguation": "Zappa tribute band",
+        "sort-name": "Aunty Owl",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "d995673c-2f17-499f-af19-9e769c49a9d3"
+      },
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Bizarre World of Frank Zappa, The",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "8bbc2ad5-7cf6-476e-8db3-2d8842250537",
+        "name": "The Bizarre World of Frank Zappa"
+      },
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "artist": {
+        "country": null,
+        "disambiguation": "a tribute to Frank Zappa",
+        "sort-name": "Cheap Thrills",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "cad4349f-c347-45bd-86c2-e9b1e7903137",
+        "name": "Cheap Thrills"
+      },
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "name": "FiftyII50",
+        "sort-name": "FiftyII50",
+        "disambiguation": "Frank Zappa tribute band",
+        "country": "NL",
+        "type": "Group",
+        "id": "6b38e954-5378-4ac4-8c73-e142a2230b6d",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "target-type": "artist",
+      "target-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "7c17d6ff-d157-417e-ab23-7bda514ffbfb",
+        "country": "FI",
+        "disambiguation": "Finnish tribute group",
+        "sort-name": "Frank Zappa Memorial Pancake Breakfast",
+        "name": "Frank Zappa Memorial Pancake Breakfast"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "sort-name": "Fuchsprellen",
+        "country": null,
+        "disambiguation": "Zappa tribute band",
+        "type": "Group",
+        "id": "8a1d6637-3ab0-45d2-a578-e9c30dc319b9",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Fuchsprellen"
+      }
+    },
+    {
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "2ecab82c-2d1e-437d-85da-b92df7e84d00",
+        "disambiguation": "punk Zappa tribute band",
+        "country": null,
+        "sort-name": "Gabba Zappa Hey!",
+        "name": "Gabba Zappa Hey!"
+      },
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward",
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "Gumbo Variation",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "1a195d34-742c-4783-b1ef-adb8395bdce3",
+        "type": "Group",
+        "disambiguation": "Zappa tribute band",
+        "country": null,
+        "sort-name": "Gumbo Variation"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "Zappa tribute band",
+        "country": null,
+        "sort-name": "London Zappa Collective",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "c4a4c594-d551-42fb-8048-d4ee8a14f596",
+        "name": "London Zappa Collective"
+      },
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "artist": {
+        "name": "The Muffin Men",
+        "id": "79d0e3a5-8726-4ffb-ae03-cdabc0470898",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Muffin Men, The",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "target-type": "artist",
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "sort-name": "Project/Object",
+        "disambiguation": "Frank Zappa tribute band",
+        "country": null,
+        "type": "Group",
+        "id": "cc9338e8-409e-4489-9e5e-847098812cc7",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Project/Object"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "artist": {
+        "name": "Pygmy Twylyte",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "8a11d245-b649-4fb6-91ca-16fda2842b62",
+        "country": "GB",
+        "disambiguation": "Scotland, Play the music of Frank Zappa",
+        "sort-name": "Pygmy Twylyte"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-type": "artist",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-type": "artist",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "name": "Savage Rascals",
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Savage Rascals",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "9ec1fb4d-c5c0-4059-81f5-5e85eeef017c",
+        "type": "Group"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "artist": {
+        "name": "Sinister Sister",
+        "sort-name": "Sinister Sister",
+        "disambiguation": "Belgian Zappa tribute project",
+        "country": "BE",
+        "type": "Group",
+        "id": "c436bfac-f35d-49c1-bbad-fe2257f016e1",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      }
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "attribute-ids": {},
+      "artist": {
+        "name": "String Trash",
+        "sort-name": "String Trash",
+        "disambiguation": "Zappa tribute band",
+        "country": null,
+        "type": "Group",
+        "id": "65db2ccb-e9cb-4bcb-ab7c-e3edce32762b",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": []
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "artist": {
+        "name": "Sul Divano",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "b00d8548-3f48-4fe2-953b-09f073ea7d0b",
+        "type": "Group",
+        "country": "AR",
+        "disambiguation": "",
+        "sort-name": "Sul Divano"
+      }
+    },
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "attribute-ids": {},
+      "artist": {
+        "sort-name": "Tante Tofu",
+        "country": "DE",
+        "disambiguation": "Zappa tribute band",
+        "type": "Group",
+        "id": "682f7e4f-9a17-4503-8acb-5230151c88b3",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Tante Tofu"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "artist": {
+        "country": "CA",
+        "disambiguation": "A Frank Zappa Tribute Band in Toronto, Canada",
+        "sort-name": "The Cosmic Muffin Experience",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "f731e5d9-086d-4e4a-a745-e0f374dfe525",
+        "type": "Group",
+        "name": "The Cosmic Muffin Experience"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "id": "cb0f42ea-fe76-45aa-b251-87338cea0cdc",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Tinsel Town Rebellion Band",
+        "disambiguation": "German rock big band dedicated to the music of Frank Zappa",
+        "country": "DE",
+        "name": "Tinsel Town Rebellion Band"
+      },
+      "attribute-ids": {},
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-type": "artist",
+      "target-credit": ""
+    },
+    {
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "Treacherous Cretins",
+        "id": "1ff077d1-9732-4b62-8acf-d20a7bdb0ca2",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Treacherous Cretins",
+        "country": "GB",
+        "disambiguation": "Zappa tribute band"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": null,
+      "attribute-ids": {},
+      "artist": {
+        "id": "b09f3df4-7634-4cfd-be00-5c42ebff98e2",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Trio Cucamonga",
+        "country": "BE",
+        "disambiguation": "Belgian 1980/90s Zappa tribute trio",
+        "name": "Trio Cucamonga"
+      },
+      "attributes": [],
+      "ended": false,
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "name": "Ugly Radio Rebellion",
+        "sort-name": "Ugly Radio Rebellion",
+        "disambiguation": "",
+        "country": "US",
+        "type": null,
+        "id": "b75a7fef-8027-4f9e-ad9f-1855a9b5c16e",
+        "type-id": null
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "type": "tribute",
+      "target-type": "artist",
+      "target-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "af8113f3-6f61-45c0-aa53-94bae88dc2f8",
+        "disambiguation": "Belgian Zappa tribute",
+        "country": "BE",
+        "sort-name": "Whatchamacallit",
+        "name": "Whatchamacallit"
+      },
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "artist": {
+        "name": "White Beans",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "55ccbb0e-6192-46d4-8df2-fd26058800c1",
+        "disambiguation": "Dutch Zappa tribute band",
+        "country": "NL",
+        "sort-name": "White Beans"
+      },
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "name": "Z3",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "4344af3c-50ab-46c1-876b-541b9d2673b9",
+        "country": null,
+        "disambiguation": "funky takes on Frank Zappa",
+        "sort-name": "Z3"
+      }
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "artist": {
+        "type": "Group",
+        "id": "fcebdabe-319f-4690-8827-c8fac63b1b80",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Zappa Plays Zappa",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Zappa Plays Zappa"
+      },
+      "attribute-ids": {},
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "direction": "backward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "51502cc0-d06d-42e5-99bc-6768e79a7122",
+        "type": "Group",
+        "country": "CA",
+        "disambiguation": "Canadian Frank Zappa tribute",
+        "sort-name": "Zappostrophe’",
+        "name": "Zappostrophe’"
+      },
+      "attribute-ids": {},
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "target-type": "artist",
+      "target-credit": ""
+    },
+    {
+      "attributes": [
+        "background vocals"
+      ],
+      "end": "1974",
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "id": "9072df14-b61e-42e2-b4f4-6bbb7fdb5586",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Turner, Tina",
+        "country": "CH",
+        "disambiguation": "",
+        "name": "Tina Turner"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "type": "vocal supporting musician",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "direction": "backward",
+      "begin": "1973",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "vocal supporting musician",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "begin": "1980-09",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "ended": true,
+      "end": "1980-12",
+      "attributes": [],
+      "artist": {
+        "name": "Bob Harris",
+        "type": "Person",
+        "id": "775c5b3b-5caf-46c1-8f40-d0cf43100485",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Harris, Bob",
+        "disambiguation": "keyboards/trumpet player and vocalist, worked for Frank Zappa in Sep–Dec 1980",
+        "country": "US"
+      }
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "Napoleon Murphy Brock",
+        "id": "fddef795-c4fe-419e-8822-5130cff27b29",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Brock, Napoleon Murphy",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "type": "vocal supporting musician",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "id": "62d9bcc6-f9ec-4183-9976-d42358b7d0ad",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Buxton, Eric",
+        "disambiguation": "",
+        "country": null,
+        "name": "Eric Buxton"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-credit": "",
+      "target-type": "artist",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "type": "vocal supporting musician",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": null
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "artist": {
+        "name": "Robert ‘Frog’ Camarena",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "977056e1-586b-4169-a40e-97520f7c0519",
+        "disambiguation": "",
+        "country": null,
+        "sort-name": "Camarena, Robert ‘Frog’"
+      },
+      "attribute-ids": {},
+      "direction": "backward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "vocal supporting musician",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "target-type": "artist",
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attributes": [
+        "background vocals"
+      ],
+      "artist": {
+        "id": "ee46dba7-a337-4032-8bb9-67376d9a4acd",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Guevara, Ruben",
+        "country": null,
+        "disambiguation": "",
+        "name": "Ruben Guevara"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "begin": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "vocal supporting musician",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e",
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-credits": {}
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "artist": {
+        "name": "Chris Peterson",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "94d25540-dbc2-4175-88f7-1946aa1086c7",
+        "type": "Person",
+        "disambiguation": "supporting vocals for Frank Zappa",
+        "country": null,
+        "sort-name": "Peterson, Chris"
+      },
+      "target-type": "artist",
+      "target-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "vocal supporting musician",
+      "type-id": "610d39a4-3fa0-4848-a8c9-f46d7b5cc02e"
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "4972bc04-6464-4e2a-afe8-e8722814bd81",
+        "resource": "https://www.allmusic.com/artist/mn0000138699"
+      },
+      "type": "allmusic",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "url": {
+        "id": "7cfe86c9-6899-4984-859a-94956a50b5fc",
+        "resource": "https://www.bandsintown.com/a/1709"
+      },
+      "type": "bandsintown",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "type": "BBC Music page",
+      "url": {
+        "id": "493b7c4f-a490-4f77-8e41-063c9a124867",
+        "resource": "https://www.bbc.co.uk/music/artists/e20747e7-55a4-452e-8766-7b985585082d"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "target-type": "url",
+      "ended": true,
+      "end": "2020-11-19",
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "type": "discography page",
+      "url": {
+        "resource": "http://lukpac.org/~handmade/patio/bootlegs/index.html",
+        "id": "bb8186ec-fb30-4c55-a6f7-4b645f3ada7a"
+      },
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "target-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "1a51de18-4f22-4110-a542-590391627edb",
+        "resource": "https://www.discogs.com/artist/92623"
+      },
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "url": {
+        "id": "b0e4f745-3eed-4309-853e-ca24095f0053",
+        "resource": "https://wiki.killuglyradio.com/wiki/Main_Page"
+      },
+      "type": "fanpage",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN",
+        "id": "1e6c60e5-bab5-448a-a925-7853bebbc316"
+      },
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "free streaming",
+      "url": {
+        "resource": "https://www.deezer.com/artist/2167",
+        "id": "0ba79ede-5512-40df-9483-dbd4cb510a90"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "image",
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:The_famous_mustache_and_goatee.jpg",
+        "id": "c9183490-76af-4aeb-baff-864fe1dedfe7"
+      },
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c"
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "type": "IMDb",
+      "url": {
+        "resource": "https://www.imdb.com/name/nm0953261/",
+        "id": "725d455b-f55e-4318-bd99-706de01a3add"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "url": {
+        "id": "8b478137-8fa6-4bbe-86f4-d838e3285b02",
+        "resource": "https://www.last.fm/music/Frank+Zappa"
+      },
+      "type": "last.fm"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "type": "lyrics",
+      "url": {
+        "id": "e06aebd7-8c85-4067-a9e6-295dbb611f8c",
+        "resource": "https://genius.com/artists/Frank-zappa"
+      },
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "4f4dc8f3-d50a-4b65-9440-c462e72e064d",
+        "resource": "https://muzikum.eu/en/frank-zappa/lyrics"
+      },
+      "type": "lyrics",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "url": {
+        "resource": "https://www.zappa.com/",
+        "id": "e2263122-ab2b-4cc4-9c01-0ddbe448fa08"
+      },
+      "type": "official homepage",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n81048026",
+        "id": "e56c2176-bc74-480d-ba45-11c3a5337bfa"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "type": "other databases",
+      "url": {
+        "id": "4ae3afbd-57d4-41b6-b0c7-c1a245fe7042",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139013873"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "id": "a3960135-063a-4952-b1bd-b3efddf3e9a8",
+        "resource": "https://d-nb.info/gnd/118636200"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "other databases",
+      "url": {
+        "id": "bd604bec-3aad-401a-8739-e561cbe6367a",
+        "resource": "https://id.oclc.org/worldcat/entity/E39PBJxCDW6QqxJQYqJfWRRVG3"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "target-type": "url",
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "398184ad-2f8a-424c-af09-24c1567e7251",
+        "resource": "http://snaccooperative.org/ark:/99166/w6dj664m"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "url": {
+        "resource": "https://openlibrary.org/works/OL1002414A",
+        "id": "20dbdeab-faa2-45a0-a4df-450370e5802b"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/frank-zappa",
+        "id": "ad375f86-aaea-4865-80b6-519fc05567d8"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "id": "0ae90da3-5acd-419b-8296-178b80eafc62",
+        "resource": "https://www.45cat.com/artist/frank-zappa"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "id": "e3e83f26-9658-4197-b93a-9d919315ffb0",
+        "resource": "https://www.musik-sammler.de/artist/frank-zappa/"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=1023",
+        "id": "c72a722a-160b-4cb4-a237-f2259962e3e2"
+      }
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Frank_Zappa",
+        "id": "c3f3609d-7a04-4097-8058-4fcb413ef516"
+      },
+      "type": "other databases",
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "other databases",
+      "url": {
+        "id": "f3493899-76f7-422e-ae2f-202de2493f09",
+        "resource": "https://www.whosampled.com/Frank-Zappa/"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://mora.jp/artist/155009/",
+        "id": "c22c70e0-77ad-41a5-806a-f36facbbb29f"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "d405466c-e872-4352-b208-852dc5535bed",
+        "resource": "https://music.apple.com/us/artist/458712"
+      },
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/297256",
+        "id": "8014920a-12b1-4fba-86f5-35d30e195fdd"
+      },
+      "type": "purchase for download",
+      "source-credit": "フランク・ザッパ",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "target-type": "url",
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://us.7digital.com/artist/frank-zappa",
+        "id": "33d6c67e-c6dc-4888-9a60-ae22a998f4fc"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/frank-zappa/22424",
+        "id": "a89016b5-4583-40f3-bb66-6be143050348"
+      },
+      "type": "purchase for download",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "secondhandsongs",
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/6561",
+        "id": "858f09b5-37a7-44dd-a704-e49a7068f8b6"
+      },
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "type": "setlistfm",
+      "url": {
+        "id": "7060bad7-8a71-44c3-b510-f1b817991f51",
+        "resource": "https://www.setlist.fm/setlists/frank-zappa-3d6b52b.html"
+      },
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "url": {
+        "resource": "https://bsky.app/profile/frankzappa.bsky.social",
+        "id": "f9e76699-6aec-43b7-ac3b-4f457566646c"
+      },
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "social network",
+      "url": {
+        "resource": "https://twitter.com/zappa",
+        "id": "aefe0ef8-d073-42a7-8311-5eb0a923f038"
+      },
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "url": {
+        "id": "81771a55-0a29-473f-93a9-1d697b45a019",
+        "resource": "https://www.facebook.com/Zappa"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "url": {
+        "resource": "https://www.instagram.com/zappa/",
+        "id": "f0570732-960b-487f-a290-5c1c21cde599"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "target-credit": "",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.tiktok.com/@zappa",
+        "id": "504fc604-2dea-4c4d-ac1a-178bceb2ca2c"
+      },
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "songkick",
+      "url": {
+        "id": "2a3ae101-73db-4d84-9763-ba3d7696fedd",
+        "resource": "https://www.songkick.com/artists/191953"
+      },
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "url": {
+        "resource": "https://soundcloud.com/frankzappa",
+        "id": "99418c0b-5257-463e-a768-3890f46b3298"
+      },
+      "type": "soundcloud",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "url": {
+        "resource": "https://music.apple.com/us/artist/458712",
+        "id": "d405466c-e872-4352-b208-852dc5535bed"
+      },
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "id": "06389077-f727-453b-85e9-8e80175368c3",
+        "resource": "https://tidal.com/artist/3888317"
+      },
+      "type": "streaming",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "a89016b5-4583-40f3-bb66-6be143050348",
+        "resource": "https://www.qobuz.com/us-en/interpreter/frank-zappa/22424"
+      },
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "url": {
+        "resource": "http://viaf.org/viaf/100234697",
+        "id": "9e7d1405-7ea2-476e-89b1-2d37c833a584"
+      },
+      "type": "VIAF",
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "type": "wikidata",
+      "url": {
+        "id": "48cdd008-85ce-428d-8239-3ca6c8b47945",
+        "resource": "https://www.wikidata.org/wiki/Q127330"
+      },
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "url": {
+        "id": "abd789dc-241d-4a74-a680-a4fa1e6636cc",
+        "resource": "https://www.youtube.com/channel/UCj5ZiBBqpe0Tg4zfKGHEFuQ"
+      },
+      "type": "youtube",
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "type": "youtube music",
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCj-Qb2d6dJJJtNL4rgr3FNw",
+        "id": "b9841d45-7e07-44a1-be4d-450c3766b448"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward"
+    }
+  ],
+  "begin-area": {
+    "id": "2fb5445d-3987-49fe-957a-f730a7acc4a2",
+    "type": null,
+    "name": "Baltimore",
+    "type-id": null,
+    "sort-name": "Baltimore",
+    "disambiguation": ""
+  },
+  "aliases": [
+    {
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "ended": false,
+      "type": "Legal name",
+      "end": null,
+      "locale": null,
+      "sort-name": "Frank Vincent Zappa",
+      "begin": null,
+      "name": "Frank Vincent Zappa",
+      "primary": null
+    },
+    {
+      "type": null,
+      "ended": false,
+      "end": null,
+      "type-id": null,
+      "sort-name": "Frank Zappa & Ensemble Modern",
+      "begin": null,
+      "locale": null,
+      "primary": null,
+      "name": "Frank Zappa & Ensemble Modern"
+    },
+    {
+      "name": "LaMarr Bruister",
+      "primary": null,
+      "ended": false,
+      "end": null,
+      "type": null,
+      "type-id": null,
+      "locale": null,
+      "sort-name": "Bruister, LaMarr",
+      "begin": null
+    },
+    {
+      "locale": null,
+      "sort-name": "Stucco Holmes",
+      "begin": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "type": "Artist name",
+      "ended": false,
+      "end": null,
+      "name": "Stucco Holmes",
+      "primary": null
+    },
+    {
+      "locale": null,
+      "begin": null,
+      "sort-name": "Zappa",
+      "ended": false,
+      "end": null,
+      "type": null,
+      "type-id": null,
+      "name": "Zappa",
+      "primary": null
+    },
+    {
+      "locale": null,
+      "begin": null,
+      "sort-name": "Zappa, Frank",
+      "type-id": null,
+      "type": null,
+      "ended": false,
+      "end": null,
+      "name": "Zappa, Frank",
+      "primary": null
+    },
+    {
+      "name": "フランク・ザッパ",
+      "primary": null,
+      "locale": null,
+      "sort-name": "フランク・ザッパ",
+      "begin": null,
+      "end": null,
+      "ended": false,
+      "type": null,
+      "type-id": null
+    }
+  ],
+  "end-area": {
+    "disambiguation": "",
+    "sort-name": "Los Angeles",
+    "type-id": null,
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+    "type": null,
+    "name": "Los Angeles"
+  },
+  "life-span": {
+    "end": "1993-12-04",
+    "ended": true,
+    "begin": "1940-12-21"
+  },
+  "ipis": [
+    "00033522513",
+    "00070189383",
+    "00077638143"
+  ],
+  "sort-name": "Zappa, Frank",
+  "isnis": [
+    "0000000110792302"
+  ],
+  "area": {
+    "disambiguation": "",
+    "sort-name": "United States",
+    "type-id": null,
+    "type": null,
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "name": "United States"
+  },
+  "disambiguation": "US musician, composer, activist & filmmaker"
+}

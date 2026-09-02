@@ -1,0 +1,201 @@
+{
+  "country": "AR",
+  "end-area": {
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "sort-name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "name": "Argentina"
+  },
+  "disambiguation": "Argentinian prog rock, aka Músicos Independientes Asociados",
+  "sort-name": "M.I.A.",
+  "life-span": {
+    "end": "1980",
+    "begin": "1975",
+    "ended": true
+  },
+  "isnis": [
+    "0000000469699227"
+  ],
+  "id": "b22d45dd-deae-4663-a782-542db02e25cf",
+  "name": "M.I.A.",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [
+    {
+      "sort-name": "MIA",
+      "locale": null,
+      "begin": null,
+      "end": null,
+      "name": "MIA",
+      "ended": false,
+      "primary": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "type": "Search hint"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "name": "Músicos Independientes Asociados",
+      "begin": null,
+      "locale": null,
+      "sort-name": "Músicos Independientes Asociados",
+      "type": "Artist name",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": null
+    }
+  ],
+  "gender-id": null,
+  "type": "Group",
+  "begin-area": {
+    "sort-name": "Argentina",
+    "disambiguation": "",
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "type-id": null,
+    "type": null
+  },
+  "ipis": [],
+  "area": {
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "sort-name": "Argentina",
+    "disambiguation": "",
+    "type": null,
+    "type-id": null
+  },
+  "relations": [
+    {
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "id": "20cde378-18f9-4066-9a0d-d757feffed7a",
+        "name": "Nono Belvis",
+        "disambiguation": "",
+        "sort-name": "Belvis, Nono"
+      }
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "attributes": [
+        "original"
+      ],
+      "artist": {
+        "disambiguation": "",
+        "sort-name": "Vitale, Lito",
+        "name": "Lito Vitale",
+        "id": "800b68a2-7cb8-424f-af00-179e32d3dce0",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "AR",
+        "type": "Person"
+      },
+      "source-credit": "MIA",
+      "end": null,
+      "ended": false,
+      "target-type": "artist",
+      "type": "member of band",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "source-credit": "MIA",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.discogs.com/artist/1983686",
+        "id": "59339632-592d-434a-bd1f-c1707f4a37c8"
+      },
+      "target-type": "url"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "type": "other databases",
+      "target-type": "url",
+      "url": {
+        "id": "bdabaf97-9de9-4a71-9f9e-f8a80c8cc956",
+        "resource": "https://rateyourmusic.com/artist/m_i_a___musicos_independientes_asociados_"
+      },
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "type": "other databases",
+      "target-type": "url",
+      "url": {
+        "id": "97c79952-4083-4483-b00b-2a8bcb627621",
+        "resource": "https://www.rock.com.ar/bios/0/358.shtml"
+      },
+      "source-credit": "MIA",
+      "ended": false,
+      "end": null
+    },
+    {
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "type": "wikidata",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q56318381",
+        "id": "366478f8-2b8a-46a3-9611-1f83344cdcd1"
+      },
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {}
+    }
+  ],
+  "gender": null
+}

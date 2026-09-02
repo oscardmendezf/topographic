@@ -1,17 +1,20 @@
 ---
+import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
-import { u, COLORES, COLORES_ARISTA, NOMBRES_ARISTA } from '../lib/util';
+import { u, COLORES, COLORES_ARISTA, NOMBRES_ARISTA, ESCENAS } from '../lib/util';
 import atlas from '../../../data/atlas.json';
 import grafo from '../../../data/grafo.json';
 
-const artistas = atlas.nodos.artistas;
+const orden = (g: string) => (ESCENAS[g] ? 1 : 0);
+const artistas = [...atlas.nodos.artistas].sort((a, b) => orden(a.grupo) - orden(b.grupo));
+const nFichas = (await getCollection('albumes')).length;
 const nProto = grafo.edges.filter((e) => e.data.estado === 'prototipo').length;
 const nMb = grafo.edges.length - nProto;
 const tiposArista = Object.keys(NOMBRES_ARISTA);
 ---
 <Base titulo="El grafo">
   <header class="page"><div class="wrap">
-    <p class="eyebrow">Fase 1 · Era clásica 1966–1980 · 26 artistas · 208 fichas</p>
+    <p class="eyebrow">1966–hoy · {artistas.length} artistas · {nFichas} fichas · 3 escenas hermanas</p>
     <h1>El Mapa del Prog</h1>
     <p class="lede">El rock progresivo británico como grafo genealógico: artistas, productores,
     ingenieros, diseñadores, sellos y estudios, conectados. Tocá un nodo para explorar sus
@@ -61,12 +64,12 @@ const tiposArista = Object.keys(NOMBRES_ARISTA);
 
   <section class="block"><div class="wrap">
     <h2>Los artistas</h2>
-    <p class="sub">Los 26 del universo Fase 1 (los conceptuales no-prog, como colección y por separado).</p>
+    <p class="sub">El núcleo del prototipo más las escenas hermanas: Canterbury profundo, Italia y Alemania.</p>
     <div class="grid">
       {artistas.map((a) => (
         <a class="card" href={u(`artista/${a.slug}/`)} style={`border-left-color:${COLORES[a.grupo] ?? 'var(--dim)'}`}>
           <h3>{a.nombre}</h3>
-          <p>{a.inicio?.slice(0, 4) ?? 's.d.'}{a.fin ? `–${a.fin.slice(0, 4)}` : '–act.'} · ficha, miembros y discos</p>
+          <p>{a.inicio?.slice(0, 4) ?? 's.d.'}{a.fin ? `–${a.fin.slice(0, 4)}` : '–act.'}{ESCENAS[a.grupo] ? ` · ${ESCENAS[a.grupo]}` : ''}</p>
         </a>
       ))}
     </div>

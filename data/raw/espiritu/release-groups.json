@@ -1,0 +1,83 @@
+{
+  "release-group-count": 7,
+  "release-groups": [
+    {
+      "first-release-date": "1996",
+      "id": "2c4dbc7f-1a28-3f31-9233-e97e79428ac1",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Espíritu"
+    },
+    {
+      "first-release-date": "1976",
+      "id": "5bdb36d9-4212-317e-9e0e-668ea1f58570",
+      "disambiguation": "",
+      "title": "Libre y natural",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Espíritu en vivo - 2004",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "aa117402-b553-4eea-8b81-896d6230786f",
+      "first-release-date": "2005"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "title": "Crisalida",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "dbf1c2e8-4965-3efe-8404-993701c0be67",
+      "first-release-date": "1974"
+    },
+    {
+      "first-release-date": "2003",
+      "id": "deaa27a9-06b4-44de-88b4-6598a667ec90",
+      "primary-type": "Album",
+      "title": "Fronteras mágicas",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "id": "e3f56d23-ba20-419c-8d3b-acbfd9752096",
+      "disambiguation": "",
+      "title": "Espíritu III",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "1982"
+    },
+    {
+      "id": "f979140e-1ef6-3c1f-bb25-e0d253ac281e",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "title": "Live 'En Obras' '82",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1996"
+    }
+  ]
+}

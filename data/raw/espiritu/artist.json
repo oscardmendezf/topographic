@@ -1,0 +1,190 @@
+{
+  "ipis": [],
+  "id": "04040e88-069b-4260-ad8e-ae695ef0ba15",
+  "aliases": [],
+  "sort-name": "Espíritu",
+  "gender": null,
+  "begin-area": {
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "sort-name": "Buenos Aires",
+    "name": "Buenos Aires",
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ]
+  },
+  "relations": [
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1973",
+      "attribute-ids": {},
+      "attributes": [],
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "David Lebón",
+        "sort-name": "Lebón, David",
+        "id": "6e46f85e-9d9b-4079-87e6-eab785300ad7"
+      },
+      "target-credit": "",
+      "end": "1973",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975",
+      "attribute-ids": {},
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Ciro Fogliatta",
+        "sort-name": "Fogliatta, Ciro",
+        "id": "a5c624d8-fc12-4ecc-916d-a914259b4486"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1976"
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "biography",
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "id": "2f0e21a4-43f4-4909-81e5-4b0576d70afc",
+        "resource": "http://www.lahistoriadelrock.com.ar/ban/bane6.html"
+      },
+      "ended": false,
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.discogs.com/artist/2720672",
+        "id": "70c7de74-f1eb-49b3-a356-71b0b69f29be"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discogs",
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "resource": "http://rock.com.ar/artistas/espiritu/",
+        "id": "f96b0587-5904-4496-8412-f5fc0bc53db8"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q5360967",
+        "id": "f8148534-c3cc-460d-aa33-9d27897351c0"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attributes": [],
+      "target-credit": "",
+      "type": "wikidata",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q5360967",
+        "id": "f8148534-c3cc-460d-aa33-9d27897351c0"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikipedia",
+      "end": null
+    }
+  ],
+  "end-area": {
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "sort-name": "Buenos Aires"
+  },
+  "area": {
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "sort-name": "Argentina",
+    "name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ]
+  },
+  "type": "Group",
+  "name": "Espíritu",
+  "gender-id": null,
+  "isnis": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "country": "AR",
+  "life-span": {
+    "begin": "1973",
+    "end": "2013",
+    "ended": true
+  },
+  "disambiguation": "Argentine prog rock band"
+}

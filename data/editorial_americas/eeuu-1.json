@@ -1,0 +1,126 @@
+{
+  "artistas": [
+    {
+      "slug": "kansas",
+      "ficha": "La respuesta más lograda del interior estadounidense al prog británico: violín integrado a la primera línea, guitarras dobles y una vena gospel-rural que nadie en Europa tenía. Sonaban a Yes y Genesis pasados por el granero, con Kerry Livgren componiendo suites y Steve Walsh cantando como frontman de arena. Fueron la prueba de que el prog podía llenar estadios americanos sin acento inglés.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "kansas-kansas",
+          "analisis": "Debut ambicioso y todavía desprolijo: el violín de Robby Steinhardt ya marca la diferencia, pero la banda aún busca el balance entre boogie y suite. Más promesa que logro.",
+          "estrellas_critica": 3,
+          "critica_nota": "Debut apreciado en retrospectiva, irregular en su momento.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "Arranque lento; vendió recién cuando la banda explotó.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "kansas-song-for-america",
+          "analisis": "El salto: el tema título es la primera gran suite americana del grupo, pradera y sinfonismo en un mismo gesto. Acá queda claro que no eran imitadores.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado por el público prog; su primera obra mayor.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Crecimiento sostenido en su mercado, sin hit.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "kansas-masque",
+          "analisis": "Disco de transición, más oscuro y menos celebrado, con la banda puliendo el formato bajo presión de la disquera. Tiene momentos fuertes que anticipan lo que viene.",
+          "estrellas_critica": 3,
+          "critica_nota": "Recepción tibia; defendido por los fieles.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Ventas moderadas, todavía sin despegue.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "kansas-leftoverture",
+          "analisis": "La consagración: Livgren compone casi todo en un rapto y sale el disco que define al prog americano de estadios, con Carry On Wayward Son como himno y Magnum Opus como declaración. Equilibrio exacto entre canción y ambición.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon del prog estadounidense; su obra definitoria.",
+          "estrellas_comercial": 5,
+          "comercial_nota": "Masivo en Estados Unidos; los volvió banda de arenas.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "kansas-point-of-know-return",
+          "analisis": "La secuela a la altura: más comprimido, más melódico, con Dust in the Wind mostrando que también sabían callarse. El pico comercial y el último disco donde la fórmula funciona entera.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado; apenas debajo de Leftoverture en el consenso.",
+          "estrellas_comercial": 5,
+          "comercial_nota": "Su mayor éxito; masivo en su mercado.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "kansas-monolith",
+          "analisis": "Autoproducido y más pesado, con Livgren en plena búsqueda espiritual filtrándose en las letras. Correcto y sólido, pero el impulso creativo ya empieza a ceder.",
+          "estrellas_critica": 3,
+          "critica_nota": "Recepción mixta; el inicio del declive para la crítica.",
+          "estrellas_comercial": 4,
+          "comercial_nota": "Todavía vendía fuerte por inercia del pico.",
+          "charts_texto": null
+        }
+      ]
+    },
+    {
+      "slug": "styx",
+      "ficha": "El caso más nítido de pomp rock: teclados sinfónicos, armonías vocales teatrales y estribillos de radio conviviendo en la misma canción. Nunca fueron prog puro —siempre hubo una balada esperando— pero llevaron los gestos del género al gran público estadounidense como nadie. La tensión entre el sinfonismo de Dennis DeYoung y el rock directo de los guitarristas fue su motor y, al final, su ruina.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "styx-styx-ii",
+          "analisis": "De la etapa temprana en sello chico, el disco que importa: entre órganos y ambición sinfónica aparece Lady, la balada que años después los rescató del anonimato. Documento de una banda buscando su fórmula.",
+          "estrellas_critica": 3,
+          "critica_nota": "Interés mayormente histórico; irregular pero con destellos.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Éxito tardío arrastrado por Lady.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "styx-equinox",
+          "analisis": "El salto de sello y de sonido: producción grande, Suite Madame Blue como su pieza más genuinamente prog. Para muchos, el mejor balance que lograron entre pompa y canción.",
+          "estrellas_critica": 4,
+          "critica_nota": "De lo más respetado de su catálogo entre progresivos.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Ventas sólidas que abrieron la etapa grande.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "styx-crystal-ball",
+          "analisis": "La llegada de Tommy Shaw completa la formación clásica y agrega un tercer compositor. Disco de ajuste más que de cumbre, con el tema título como carta de presentación del recién llegado.",
+          "estrellas_critica": 3,
+          "critica_nota": "Correcto disco de transición; sin consenso de obra mayor.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Rendimiento moderado, previo a la explosión.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "styx-the-grand-illusion",
+          "analisis": "Su disco definitorio: concepto liviano sobre la fama y la apariencia, ejecución impecable, Come Sail Away como síntesis perfecta de balada que muta en despegue sinfónico. El pomp rock en su punto exacto de cocción.",
+          "estrellas_critica": 4,
+          "critica_nota": "Su obra más celebrada; canon del pomp americano.",
+          "estrellas_comercial": 5,
+          "comercial_nota": "Masivo; los instaló definitivamente en las arenas.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "styx-pieces-of-eight",
+          "analisis": "La continuación más rockera y pareja, con Renegade y Blue Collar Man empujando desde el lado de Shaw y Young. Menos ampuloso que su antecesor y quizás mejor disco.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado; para muchos su disco más consistente.",
+          "estrellas_comercial": 5,
+          "comercial_nota": "Otro éxito masivo en su mercado.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "styx-paradise-theatre",
+          "analisis": "El disco conceptual sobre el teatro de Chicago como metáfora del declive americano: la idea es mejor que la ejecución, pero el oficio sostiene todo. Su cima comercial y el último momento de equilibrio antes de la implosión.",
+          "estrellas_critica": 3,
+          "critica_nota": "Recepción dividida; el público lo abrazó más que la crítica.",
+          "estrellas_comercial": 5,
+          "comercial_nota": "Su pico absoluto de ventas en Estados Unidos.",
+          "charts_texto": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "gender-id": null,
+  "country": "BR",
+  "type": "Group",
+  "id": "72c8b231-f53f-4959-bfff-6f604ced8ace",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender": null,
+  "aliases": [],
+  "name": "O Terço",
+  "relations": [
+    {
+      "target-type": "artist",
+      "target-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [
+        "original"
+      ],
+      "artist": {
+        "name": "Sérgio Hinds",
+        "disambiguation": "Brazilian guitarist and vocalist",
+        "country": "BR",
+        "sort-name": "Hinds, Sérgio",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "47d87789-fec0-449a-9c0d-fc3944d4a49c"
+      }
+    },
+    {
+      "artist": {
+        "name": "Flávio Venturini",
+        "sort-name": "Venturini, Flávio",
+        "country": "BR",
+        "disambiguation": "Brazilian singer",
+        "type": "Person",
+        "id": "59560dee-2b3f-4ece-8a07-309e47b08409",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward",
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000394901",
+        "id": "88efa616-017f-455b-a418-a5310bb9e4cc"
+      },
+      "type": "allmusic",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "c04b47bf-fc47-48a6-a30e-a368324f7666",
+        "resource": "https://www.discogs.com/artist/1345178"
+      },
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "bc260b50-4ef1-4588-9f3b-f2981bfcbb18",
+        "resource": "https://open.spotify.com/artist/7uueezfy8NlCLWlJAOQPnk"
+      },
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "type": "free streaming",
+      "url": {
+        "id": "c155d797-4f43-4d45-bd99-743dc455356e",
+        "resource": "https://www.deezer.com/artist/241406"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:O_Ter%C3%A7o,_Sesc_Belenzinho,_S%C3%A3o_Paulo,_oct_2013..jpg",
+        "id": "a58ae3c8-661b-44de-9244-a58d4d03e626"
+      },
+      "type": "image",
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "b8cacacc-a300-466e-9e8d-7538b6940f9b",
+        "resource": "https://www.progarchives.com/artist.asp?id=275"
+      },
+      "type": "other databases",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "846d5057-9a94-4e1b-aa17-e32d82e81d72",
+        "resource": "https://music.apple.com/br/artist/147719888"
+      },
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://tidal.com/artist/10021055",
+        "id": "491c2e35-b8bb-4d24-8907-2b16833da2d8"
+      },
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q7073344",
+        "id": "850ff980-4b5f-417c-91b9-e57f087064c5"
+      },
+      "type": "wikidata",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    }
+  ],
+  "begin-area": {
+    "iso-3166-1-codes": [
+      "BR"
+    ],
+    "name": "Brazil",
+    "disambiguation": "",
+    "sort-name": "Brazil",
+    "type-id": null,
+    "type": null,
+    "id": "f45b47f8-5796-386e-b172-6c31b009a5d8"
+  },
+  "sort-name": "Terço, O",
+  "isnis": [],
+  "area": {
+    "disambiguation": "",
+    "sort-name": "Brazil",
+    "type-id": null,
+    "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+    "type": null,
+    "iso-3166-1-codes": [
+      "BR"
+    ],
+    "name": "Brazil"
+  },
+  "disambiguation": "",
+  "end-area": null,
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1968"
+  },
+  "ipis": []
+}

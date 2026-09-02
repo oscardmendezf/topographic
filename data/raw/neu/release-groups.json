@@ -1,0 +1,141 @@
+{
+  "release-group-count": 11,
+  "release-groups": [
+    {
+      "title": "Neu! 4",
+      "secondary-types": [],
+      "id": "00b1fc46-1588-3022-acc5-a36b2342f123",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1995",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "Neu!",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "00b3e683-47fa-3302-add0-4c0cecc5224e",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1972"
+    },
+    {
+      "secondary-type-ids": [],
+      "id": "34ec11b1-07d4-3a25-a5bf-d43097a91f35",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1975",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Neu! ’75"
+    },
+    {
+      "id": "461cd301-9a9b-47f1-a3b0-4bff86a84da3",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "2010-08-13",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Neu! ’86"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "4ed54b51-6d8c-4342-a6b9-3f4f218eeb35",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1996",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Neu! ’72 Live! In Düsseldorf"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "705df84f-346c-4a99-9e62-00c1f2663089",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2022-09-23",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "50!"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2010-05-06",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "733786ad-7ace-4d81-a56c-49de93b7fe8c",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Vinyl Box"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "7b682550-4193-4b65-88de-d5c4504abd3b",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1982",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Black Forest Gateau"
+    },
+    {
+      "title": "Neu! 2",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1973",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "id": "9ea01d83-e7e9-3445-a1bc-e231ebec635b",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "Neu! Sampler",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2001",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "c89d7b9f-703b-45e8-a74b-908def93cf0b",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "title": "Tribute",
+      "id": "ee007014-35cb-4a1c-9e07-8f11efd4f6a5",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "secondary-types": [
+        "Compilation",
+        "Remix"
+      ],
+      "first-release-date": "2022-09-23",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": ""
+    }
+  ]
+}

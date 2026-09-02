@@ -1,0 +1,716 @@
+{
+  "isnis": [
+    "000000009793917X"
+  ],
+  "life-span": {
+    "begin": "1974",
+    "ended": true,
+    "end": "1986"
+  },
+  "id": "37283116-f2cc-47cb-8806-facd063b564f",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": null,
+  "sort-name": "Utopia",
+  "relations": [
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "type": "Person",
+        "name": "Roger Powell",
+        "disambiguation": "US musician, programmer, and columnist, band \"Utopia\"",
+        "sort-name": "Powell, Roger",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a58fe38f-c956-4453-ab0f-f698bb2fca30"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "Todd Rundgren",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Rundgren, Todd",
+        "id": "1a9a8ca0-ea8e-4e9e-96aa-288155bb2c5d"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "artist": {
+        "id": "6649f78c-d239-4ae5-88a9-9e269a260134",
+        "country": "US",
+        "sort-name": "Schuckett, Ralph",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "keyboard, composer, producer",
+        "type": "Person",
+        "name": "Ralph Schuckett"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "Ralph Schuckett",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "d007a7b1-a4a8-4919-a4c3-f731298c4785",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Siegler, John",
+        "country": "US",
+        "disambiguation": "",
+        "name": "John Siegler",
+        "type": "Person"
+      }
+    },
+    {
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "Kasim Sulton",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Sulton, Kasim",
+        "id": "05fcb8b5-7570-4baf-9a76-6a1c3614db35"
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "John “Willie” Wilcox",
+        "type": "Person",
+        "id": "c32670e0-971a-4505-b4bd-ad45bf60e78e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Wilcox, John “Willie”",
+        "country": "US"
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null
+    },
+    {
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": null,
+      "artist": {
+        "name": "Kevin Ellman",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "sort-name": "Ellman, Kevin",
+        "id": "77392b0c-4b38-42ef-be76-8e5a855fa1c2"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "type": "allmusic",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "e0b42374-019b-495b-8f8b-53ee378d7936",
+        "resource": "https://www.allmusic.com/artist/mn0000837486"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/283981",
+        "id": "55c24309-3d6c-4c2f-a56e-db4ceefc7c85"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discogs",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming",
+      "url": {
+        "resource": "https://open.spotify.com/artist/2AVt92RJvypZ6WIvhNyTej",
+        "id": "b7ed1488-b64b-4dae-83dd-492eb81472e0"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "95c7aef7-2470-4ca8-8567-5094dd84314f",
+        "resource": "https://open.spotify.com/artist/4KSCh8KnwNFUJZdy1tKSmG"
+      },
+      "end": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/82981622",
+        "id": "a1d02c64-82f4-4b80-a04c-e537b945e2a3"
+      },
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "direction": "forward",
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.imdb.com/name/nm3755928/",
+        "id": "26d071c1-0dc5-41fc-9816-fa31fe6af415"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "direction": "forward",
+      "type": "IMDb",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "lyrics",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://genius.com/artists/Utopia",
+        "id": "6778f186-def5-4a1b-81d3-7ec8d4758d06"
+      },
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "122e2a79-f31e-4d66-8593-a4f1c2138714",
+        "resource": "https://www.musixmatch.com/artist/Utopia"
+      },
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "lyrics"
+    },
+    {
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/utopia",
+        "id": "c87bb447-ec45-44e7-849a-d995ee0d3cee"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.45cat.com/artist/utopia",
+        "id": "d42ca702-3a3b-4466-b2aa-d79b176497af"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/utopia/",
+        "id": "ab47b85c-80d0-411e-b8d2-a297a7a3f48e"
+      },
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=797",
+        "id": "c9174635-6883-419c-8192-6998702d54d9"
+      },
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "3df2a80f-b933-4078-9806-0412573db654",
+        "resource": "https://www.spirit-of-rock.com/en/band/Utopia"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "59412b65-a6e8-44ed-b561-bec1841c35f6",
+        "resource": "https://www.whosampled.com/Utopia/"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "6fb1cc1a-cdb8-4088-ba77-b83e8f264c14",
+        "resource": "https://www.worldcat.org/identities/lccn-n95011263"
+      },
+      "end": null
+    },
+    {
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "fd94c1b7-b9ec-4558-a472-ed6f18b9e31b",
+        "resource": "https://open.qobuz.com/artist/62195"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://us.7digital.com/artist/utopia",
+        "id": "44115503-6068-4261-b3b7-efbc1bdb4f9d"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "direction": "forward",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "purchase for mail-order",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "ended": false,
+      "url": {
+        "resource": "https://www.cdjapan.co.jp/person/700171087",
+        "id": "fce3d919-02c5-45e4-823f-01b74dd7b036"
+      },
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/9159",
+        "id": "3d7fa1d4-8bb4-485d-a8a0-36ecb9b75070"
+      },
+      "end": null,
+      "type": "secondhandsongs",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "setlistfm",
+      "url": {
+        "id": "9907ef91-78b7-467b-8c95-93ba6b254d78",
+        "resource": "https://www.setlist.fm/setlists/utopia-53d6b735.html"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "ended": true,
+      "url": {
+        "resource": "https://us.napster.com/artist/utopia",
+        "id": "5d641ee0-0d94-44f8-8fd0-5aac0f182a1f"
+      },
+      "end": "2022-06-08",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "url": {
+        "resource": "https://music.amazon.com/artists/B000QJNPQ6",
+        "id": "f436e6d8-c870-45e7-baa4-8c5d68a01964"
+      },
+      "end": null,
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/us/artist/1167261914",
+        "id": "608aac9d-fa5d-4ba4-b4f8-7101578df8e4"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://open.qobuz.com/artist/62195",
+        "id": "fd94c1b7-b9ec-4558-a472-ed6f18b9e31b"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://tidal.com/artist/19047",
+        "id": "78f06b57-bf44-45d1-acab-50835f4ada5b"
+      },
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null
+    },
+    {
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/264515605",
+        "id": "048026c6-1348-4f41-8a54-af377a057f9f"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "VIAF",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1601575",
+        "id": "7e9c06de-eecf-46a0-a1ec-5cdce683f847"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "type": "wikidata",
+      "attribute-values": {},
+      "target-credit": ""
+    }
+  ],
+  "area": {
+    "type": null,
+    "name": "United States",
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "sort-name": "United States",
+    "type-id": null,
+    "id": "489ce91b-6658-3307-9877-795b68554c98"
+  },
+  "disambiguation": "US progressive rock band led by Todd Rundgren",
+  "ipis": [],
+  "name": "Utopia",
+  "type": "Group",
+  "end-area": null,
+  "gender-id": null,
+  "country": "US",
+  "gender": null,
+  "aliases": [
+    {
+      "name": "Todd Rundgren's Utopia",
+      "type": null,
+      "primary": null,
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "begin": null,
+      "type-id": null,
+      "sort-name": "Utopia, Todd Rundgren's"
+    },
+    {
+      "type": null,
+      "primary": null,
+      "name": "Utopia Todd Rundgren",
+      "locale": null,
+      "ended": false,
+      "end": null,
+      "sort-name": "Utopia Todd Rundgren",
+      "type-id": null,
+      "begin": null
+    }
+  ]
+}

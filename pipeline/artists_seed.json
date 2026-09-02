@@ -29,6 +29,50 @@
     { "slug": "str", "name": "Strawbs", "grupo": "str", "type": "Group", "country": "GB" },
     { "slug": "ca", "name": "Curved Air", "grupo": "ca", "type": "Group", "country": "GB" },
     { "slug": "bjh", "name": "Barclay James Harvest", "grupo": "bjh", "type": "Group", "country": "GB" },
-    { "slug": "sh", "name": "Steve Hackett", "grupo": "sh", "type": "Person", "country": "GB", "disambiguation_hint": "genesis" }
+    { "slug": "sh", "name": "Steve Hackett", "grupo": "sh", "type": "Person", "country": "GB", "disambiguation_hint": "genesis" },
+
+    { "slug": "robert-wyatt", "name": "Robert Wyatt", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Person", "country": "GB", "disambiguation_hint": "soft machine" },
+    { "slug": "matching-mole", "name": "Matching Mole", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Group", "country": "GB" },
+    { "slug": "hatfield", "name": "Hatfield and the North", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Group", "country": "GB" },
+    { "slug": "national-health", "name": "National Health", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Group", "country": "GB" },
+    { "slug": "gong", "name": "Gong", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Group", "disambiguation_hint": "psychedelic" },
+    { "slug": "egg", "name": "Egg", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Group", "country": "GB", "disambiguation_hint": "canterbury" },
+    { "slug": "steve-hillage", "name": "Steve Hillage", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Person", "country": "GB" },
+    { "slug": "kevin-ayers", "name": "Kevin Ayers", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Person", "country": "GB" },
+
+    { "slug": "pfm", "name": "Premiata Forneria Marconi", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
+    { "slug": "banco", "name": "Banco del Mutuo Soccorso", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
+    { "slug": "le-orme", "name": "Le Orme", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
+    { "slug": "area", "name": "Area", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT", "disambiguation_hint": "ital" },
+    { "slug": "museo-rosenbach", "name": "Museo Rosenbach", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
+    { "slug": "il-balletto-di-bronzo", "name": "Il Balletto di Bronzo", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
+    { "slug": "osanna", "name": "Osanna", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
+    { "slug": "new-trolls", "name": "New Trolls", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
+
+    { "slug": "can", "name": "Can", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE", "disambiguation_hint": "krautrock" },
+    { "slug": "tangerine-dream", "name": "Tangerine Dream", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE" },
+    { "slug": "klaus-schulze", "name": "Klaus Schulze", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Person", "country": "DE" },
+    { "slug": "faust", "name": "Faust", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE", "disambiguation_hint": "krautrock" },
+    { "slug": "neu", "name": "Neu!", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE" },
+    { "slug": "amon-duul-ii", "name": "Amon Düül II", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE" },
+    { "slug": "kraftwerk", "name": "Kraftwerk", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE" },
+
+    { "slug": "kansas", "name": "Kansas", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US", "disambiguation_hint": "progressive" },
+    { "slug": "styx", "name": "Styx", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US" },
+    { "slug": "utopia", "name": "Utopia", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US", "disambiguation_hint": "rundgren" },
+    { "slug": "happy-the-man", "name": "Happy the Man", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US" },
+    { "slug": "dixie-dregs", "name": "Dixie Dregs", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US" },
+    { "slug": "frank-zappa", "name": "Frank Zappa", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Person", "country": "US" },
+    { "slug": "mothers-of-invention", "name": "The Mothers of Invention", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US" },
+
+    { "slug": "crucis", "name": "Crucis", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "AR" },
+    { "slug": "invisible", "name": "Invisible", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "AR", "disambiguation_hint": "spinetta" },
+    { "slug": "la-maquina-de-hacer-pajaros", "name": "La Máquina de Hacer Pájaros", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "AR" },
+    { "slug": "mia", "name": "MIA", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "AR", "disambiguation_hint": "argentin" },
+    { "slug": "espiritu", "name": "Espíritu", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "AR" },
+    { "slug": "los-jaivas", "name": "Los Jaivas", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "CL" },
+    { "slug": "congreso", "name": "Congreso", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "CL" },
+    { "slug": "os-mutantes", "name": "Os Mutantes", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "BR" },
+    { "slug": "o-terco", "name": "O Terço", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "BR" }
   ]
 }

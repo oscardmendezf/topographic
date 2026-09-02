@@ -1,0 +1,350 @@
+{
+  "begin-area": {
+    "id": "91f54885-82f1-4c49-9336-35f2c3c48dc1",
+    "disambiguation": "",
+    "sort-name": "Viña del Mar",
+    "type": null,
+    "name": "Viña del Mar",
+    "type-id": null
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "artist": {
+        "sort-name": "Parra, Gabriel",
+        "country": "CL",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b19fce61-1322-40a4-b800-868d3236d5a0",
+        "type": "Person",
+        "name": "Gabriel Parra",
+        "disambiguation": ""
+      },
+      "end": "1988-04-15",
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "membranophone"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "id": "49ab24cc-120c-4ae4-bb34-30e013ba18ea",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "CL",
+        "sort-name": "Parra, Eduardo",
+        "disambiguation": "",
+        "name": "Eduardo Parra",
+        "type": "Person"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "membranophone"
+      ],
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "name": "Juanita Parra",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Parra, Juanita",
+        "country": "CL",
+        "id": "cf15c740-a848-4652-af4c-365941d1c65f"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "allmusic",
+      "direction": "forward",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000345235",
+        "id": "b12e7181-ccbf-4a22-8e57-961520d8e5ae"
+      },
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "type": "discogs",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.discogs.com/artist/1006141",
+        "id": "bac46a6e-9e5a-4b4b-ad12-f297301bce66"
+      },
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "url": {
+        "id": "9709c4a1-6336-499d-add6-46a704e64a71",
+        "resource": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming",
+      "url": {
+        "id": "b12c89f9-50bb-44b0-a03e-1411023fa3e4",
+        "resource": "https://www.deezer.com/artist/245228"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "last.fm",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "17d88b46-d722-4c26-9587-87cb3df597f4",
+        "resource": "https://www.last.fm/music/Los+Jaivas"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/los_jaivas",
+        "id": "28eb73b3-7364-48df-9b89-765c79328739"
+      },
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "353be333-efc9-41b1-b3dc-86c60c42d137",
+        "resource": "http://www.musicapopular.cl/grupo/los-jaivas/"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "1bbaf7b1-1268-41c8-bf3a-a99ed42cd69b",
+        "resource": "https://www.setlist.fm/setlists/los-jaivas-4bd7835a.html"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "setlistfm",
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.facebook.com/losjaivasoficial",
+        "id": "76a65978-d8f7-470b-8c95-b15d969be91f"
+      },
+      "type": "social network",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "288311b6-490d-4eef-b461-1ae6d636db9c",
+        "resource": "https://music.apple.com/gb/artist/85846724"
+      },
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://tidal.com/artist/3516413",
+        "id": "be9b5ff4-889a-4836-8c56-5e3bfb831ebb"
+      },
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1870545",
+        "id": "a008b5ef-4715-4b7c-abb4-182cd52da447"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "type": "wikidata",
+      "attribute-values": {},
+      "target-credit": ""
+    }
+  ],
+  "sort-name": "Jaivas, Los",
+  "isnis": [
+    "0000000114810862"
+  ],
+  "life-span": {
+    "begin": "1963",
+    "ended": false,
+    "end": null
+  },
+  "id": "e3d766c2-aad2-469e-ac94-c90939f4a294",
+  "name": "Los Jaivas",
+  "type": "Group",
+  "area": {
+    "disambiguation": "",
+    "name": "Chile",
+    "type": null,
+    "id": "82d5f4d6-aed4-3ff5-81d1-5363ac6e97a7",
+    "type-id": null,
+    "sort-name": "Chile",
+    "iso-3166-1-codes": [
+      "CL"
+    ]
+  },
+  "ipis": [],
+  "disambiguation": "",
+  "gender": null,
+  "gender-id": null,
+  "country": "CL",
+  "end-area": null,
+  "aliases": [
+    {
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "begin": null,
+      "type-id": null,
+      "sort-name": "Jaivas y Amigos, Los",
+      "name": "Los Jaivas y Amigos",
+      "type": null,
+      "primary": null
+    }
+  ]
+}

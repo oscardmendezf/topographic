@@ -1,0 +1,1409 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "ipis": [],
+  "aliases": [
+    {
+      "begin": null,
+      "type": "Search hint",
+      "sort-name": "Frank Zappa & The Mothers",
+      "locale": null,
+      "primary": null,
+      "name": "Frank Zappa & The Mothers",
+      "end": null,
+      "ended": false,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e"
+    },
+    {
+      "type": "Search hint",
+      "sort-name": "Frank Zappa & The Mothers of Invention",
+      "begin": null,
+      "ended": false,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "locale": null,
+      "primary": null,
+      "name": "Frank Zappa & The Mothers of Invention",
+      "end": null
+    },
+    {
+      "begin": null,
+      "type": "Search hint",
+      "sort-name": "Frank Zappa / The Mothers of Invention",
+      "primary": null,
+      "locale": null,
+      "end": null,
+      "name": "Frank Zappa / The Mothers of Invention",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "sort-name": "Frank Zappa and The Mothers of Invention",
+      "type": "Search hint",
+      "end": null,
+      "name": "Frank Zappa and The Mothers of Invention",
+      "locale": null,
+      "primary": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "ended": false
+    },
+    {
+      "ended": true,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "locale": null,
+      "primary": null,
+      "name": "Ruben & The Jets",
+      "end": "1968",
+      "type": "Artist name",
+      "sort-name": "Ruben & The Jets",
+      "begin": "1968"
+    },
+    {
+      "begin": null,
+      "type": null,
+      "sort-name": "Mothers, The",
+      "primary": null,
+      "locale": null,
+      "end": null,
+      "name": "The Mothers",
+      "type-id": null,
+      "ended": false
+    }
+  ],
+  "type": "Group",
+  "relations": [
+    {
+      "direction": "backward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "e20747e7-55a4-452e-8766-7b985585082d",
+        "sort-name": "Zappa, Frank",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Frank Zappa",
+        "disambiguation": "US musician, composer, activist & filmmaker",
+        "country": "US"
+      },
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "founder",
+      "target-type": "artist",
+      "type-id": "6ed4bfc4-0a0d-44c0-b025-b7fc4d900b67",
+      "ended": false
+    },
+    {
+      "attribute-credits": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": "1964",
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "disambiguation": "",
+        "country": "US",
+        "name": "Jimmy Carl Black",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f6cfb1e8-b823-42aa-8f39-33c764963524",
+        "sort-name": "Black, Jimmy Carl"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1969",
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "direction": "backward"
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1964",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "type": "member of band",
+      "end": "1970-05",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Ray Collins",
+        "disambiguation": "",
+        "country": "US",
+        "id": "93b3f410-d457-432b-9ffc-f578ca4e3c5a",
+        "sort-name": "Collins, Ray",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "lead vocals",
+        "original",
+        "percussion"
+      ]
+    },
+    {
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1964",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "other vocals": "c359be96-620a-435c-bd25-2eb0ce81a22e"
+      },
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Estrada, Roy",
+        "id": "a56ffd42-eb7f-4400-9e8c-47351d03301b",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Roy Estrada"
+      },
+      "end": "1975",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "bass",
+        "original",
+        "other vocals"
+      ],
+      "direction": "backward"
+    },
+    {
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "original",
+        "spoken vocals"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "US musician, composer, activist & filmmaker",
+        "country": "US",
+        "name": "Frank Zappa",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Zappa, Frank",
+        "id": "e20747e7-55a4-452e-8766-7b985585082d"
+      },
+      "end": "1975",
+      "attribute-values": {},
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "spoken vocals": "d3a36e62-a7c4-4eb9-839f-adfebe87ac12"
+      },
+      "type": "member of band",
+      "begin": "1964",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {}
+    },
+    {
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "id": "7c134cc1-a84a-45c7-956a-85938538d1ea",
+        "sort-name": "Mundi, Billy",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Billy Mundi",
+        "disambiguation": "",
+        "country": "US"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1970-05",
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1966-08",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {}
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "woodwind"
+      ],
+      "target-credit": "",
+      "end": "1969-08",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Bunk Gardner",
+        "country": "US",
+        "disambiguation": "",
+        "id": "efa656ce-d16d-497d-b47f-dcb0ad03c7d0",
+        "sort-name": "Gardner, Bunk",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "woodwind": "35df3318-7a89-4601-bccc-4cd27ba062f7"
+      },
+      "type": "member of band",
+      "begin": "1966-11",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {}
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1974",
+      "artist": {
+        "name": "Don Preston",
+        "country": "US",
+        "disambiguation": "piano/keyboards, member of Mothers of Invention",
+        "sort-name": "Preston, Don",
+        "id": "ca979604-be80-4234-9222-ebbbeaaf5a39",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1966-11"
+    },
+    {
+      "begin": "1966",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [
+        "guitar"
+      ],
+      "end": "1966",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "6323c585-8945-40e8-bec1-ac395d663d9b",
+        "sort-name": "Ingber, Elliot",
+        "disambiguation": "",
+        "country": "US",
+        "name": "Elliot Ingber"
+      },
+      "target-credit": ""
+    },
+    {
+      "begin": "1966",
+      "attribute-ids": {
+        "tambourine": "4431f7b0-69a4-49ee-b84f-15dda19fb70c",
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [
+        "saxophone",
+        "tambourine"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Sherwood, Jim “Motorhead”",
+        "id": "02966404-7ae8-42d1-8bc8-d4bfdf261e91",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jim “Motorhead” Sherwood",
+        "disambiguation": "",
+        "country": "US"
+      },
+      "end": "1970-05",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1967-07",
+      "type": "member of band",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "woodwind": "35df3318-7a89-4601-bccc-4cd27ba062f7"
+      },
+      "attribute-values": {},
+      "end": "1973-09",
+      "artist": {
+        "disambiguation": "",
+        "country": "US",
+        "name": "Ian Underwood",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "bd933c91-37d6-4932-9f02-fa8666219af2",
+        "sort-name": "Underwood, Ian"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "guitar",
+        "keyboard",
+        "woodwind"
+      ]
+    },
+    {
+      "source-credit": "",
+      "artist": {
+        "name": "Art Tripp",
+        "country": "US",
+        "disambiguation": "",
+        "id": "3c86ee1b-0913-4cbf-94a1-087b1468f19c",
+        "sort-name": "Tripp, Art",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1969",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1968-03",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "begin": "1968-11",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "guitar"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "US",
+        "name": "Lowell George",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "George, Lowell",
+        "id": "9cd68445-d218-439b-8127-3de4e7df6cdb"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1969-05"
+    },
+    {
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1970-06",
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-credit": "Eddie",
+      "attribute-values": {},
+      "end": "1971-12",
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "name": "Howard Kaylan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Kaylan, Howard",
+        "id": "55e5ab16-6fb3-43f3-b5fb-54e27473027c"
+      },
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "name": "Howard Kaylan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Kaylan, Howard",
+        "id": "55e5ab16-6fb3-43f3-b5fb-54e27473027c"
+      },
+      "end": "1971-12",
+      "attribute-values": {},
+      "target-credit": "Eddie",
+      "attributes": [
+        "background vocals"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1970-06",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "type": "member of band"
+    },
+    {
+      "begin": "1970-06",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [
+        "background vocals"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "id": "b453e663-9573-4890-b82c-9a61e1200ac1",
+        "sort-name": "Volman, Mark",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Mark Volman",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "end": "1971-12",
+      "attribute-values": {},
+      "target-credit": "The Phlorescent Leech / Flo"
+    },
+    {
+      "begin": "1970-06",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "end": "1971-12",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "name": "Mark Volman",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Volman, Mark",
+        "id": "b453e663-9573-4890-b82c-9a61e1200ac1"
+      },
+      "target-credit": "The Phlorescent Leech / Flo"
+    },
+    {
+      "end": "1975-05",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "fd180bc2-7b01-4b07-9597-451e7383f1b4",
+        "sort-name": "Duke, George",
+        "country": "US",
+        "disambiguation": "",
+        "name": "George Duke"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "keyboard",
+        "synthesizer"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1970-06",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "type": "member of band"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "US",
+        "name": "Don “Sugarcane” Harris",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Harris, Don “Sugarcane”",
+        "id": "670de23e-5994-4bf2-b357-20763527ca49"
+      },
+      "end": "1970",
+      "attribute-values": {},
+      "attributes": [
+        "violin"
+      ],
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "type": "member of band",
+      "begin": "1970"
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Simmons, Jeff",
+        "id": "b4614a70-7123-4240-9376-20660623faf6",
+        "disambiguation": "",
+        "country": "US",
+        "name": "Jeff Simmons"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1974-07",
+      "attributes": [
+        "background vocals",
+        "bass",
+        "guitar",
+        "harmonica"
+      ],
+      "direction": "backward",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "harmonica": "63e37f1a-30b6-4746-8a49-dfb55be3cdd1",
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "begin": "1970"
+    },
+    {
+      "attribute-values": {},
+      "end": "1972",
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "name": "Alan Estes",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7b745d8f-0c88-43c9-9a2e-4c2209d6bdc0",
+        "sort-name": "Estes, Alan"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "percussion"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972",
+      "type": "member of band",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      }
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": "1975",
+      "attribute-values": {},
+      "source-credit": "The Mothers",
+      "artist": {
+        "country": "US",
+        "disambiguation": "multi-instrumentalist",
+        "name": "Earle Dumler",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Dumler, Earle",
+        "id": "737a770e-1312-48a9-b7cf-a1e11a68012d"
+      },
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1972",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "type": "member of band",
+      "begin": "1973-02",
+      "target-credit": "",
+      "end": "1973-08",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "country": "FR",
+        "disambiguation": "",
+        "name": "Jean‐Luc Ponty",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "44cd4e2e-0a6a-4cd1-a2a7-e23d9f33df78",
+        "sort-name": "Ponty, Jean‐Luc"
+      },
+      "direction": "backward",
+      "attributes": [
+        "violin"
+      ]
+    },
+    {
+      "begin": "1973-02",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [
+        "percussion"
+      ],
+      "end": "1975-12",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "d299d05e-fadd-4b63-9f56-d9b5412b7b63",
+        "sort-name": "Underwood, Ruth",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Ruth Underwood",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "target-credit": ""
+    },
+    {
+      "attributes": [
+        "marimba"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Underwood, Ruth",
+        "id": "d299d05e-fadd-4b63-9f56-d9b5412b7b63",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Ruth Underwood",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1975-12",
+      "type": "member of band",
+      "attribute-ids": {
+        "marimba": "c436b34a-3017-472d-a003-49a2b24d55da"
+      },
+      "begin": "1973-02",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {}
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1973-02",
+      "type": "member of band",
+      "attribute-ids": {
+        "vibraphone": "799af440-c0e7-4d8f-83d5-ecfee8b25787"
+      },
+      "attribute-values": {},
+      "end": "1975-12",
+      "artist": {
+        "name": "Ruth Underwood",
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Underwood, Ruth",
+        "id": "d299d05e-fadd-4b63-9f56-d9b5412b7b63",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "vibraphone"
+      ]
+    },
+    {
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1973",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "artist": {
+        "id": "d7da91ac-fd70-4541-9d13-8a3c24c5fb7c",
+        "sort-name": "Humphrey, Ralph",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Ralph Humphrey",
+        "disambiguation": "American drummer and teacher",
+        "country": "US"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1974-05"
+    },
+    {
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "trombone": "f6100277-c7b8-4c8d-aa26-d8cd014b6761"
+      },
+      "begin": "1973",
+      "target-credit": "",
+      "artist": {
+        "id": "9704408b-c694-47d1-ad36-7784d425e834",
+        "sort-name": "Fowler, Bruce",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Bruce Fowler",
+        "country": "US",
+        "disambiguation": "trombone, composer, arranger, orchestrator"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1975-05",
+      "attributes": [
+        "trombone"
+      ],
+      "direction": "backward"
+    },
+    {
+      "begin": "1973",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [
+        "bass"
+      ],
+      "direction": "backward",
+      "source-credit": "",
+      "artist": {
+        "name": "Tom Fowler",
+        "country": "US",
+        "disambiguation": "bass",
+        "sort-name": "Fowler, Tom",
+        "id": "cf8f8722-631e-458b-a304-b038bab751ba",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "end": "1975-05",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "sort-name": "The Cosmic Muffin Experience",
+        "id": "f731e5d9-086d-4e4a-a745-e0f374dfe525",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "The Cosmic Muffin Experience",
+        "country": "CA",
+        "disambiguation": "A Frank Zappa Tribute Band in Toronto, Canada"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "type": "tribute",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000405522",
+        "id": "3ffa579f-6033-4903-ae27-5adc00975774"
+      },
+      "type": "allmusic",
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "147785c7-1a5b-4287-a54d-8341d2b7c5e2",
+        "resource": "https://www.discogs.com/artist/286086"
+      },
+      "type": "discogs",
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "id": "14868acb-52c5-450c-8240-950659c96968",
+        "resource": "https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL"
+      },
+      "type": "free streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/2331",
+        "id": "27b63f96-5901-4ac8-a490-7fb50d1252b8"
+      },
+      "type": "free streaming",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.imdb.com/name/nm3438826/",
+        "id": "9308b8d0-b615-4018-83c0-6d2d5713006d"
+      },
+      "type": "IMDb",
+      "begin": null,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "type": "last.fm",
+      "url": {
+        "id": "7a4925b8-412d-4232-b7e2-c2138a6dd84c",
+        "resource": "https://www.last.fm/music/The+Mothers"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "resource": "https://www.last.fm/music/The+Mothers+of+Invention",
+        "id": "12264a1e-2e75-4469-b212-dc8344b9097e"
+      },
+      "type": "last.fm",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-type": "url",
+      "type": "lyrics",
+      "url": {
+        "resource": "https://genius.com/artists/The-mothers-of-invention",
+        "id": "6de282c8-ca06-4547-a1d2-dab8c499bf46"
+      },
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.grandmothersofinvention.com/",
+        "id": "c1ac2abb-8c53-4013-b44c-caa213dc82f3"
+      },
+      "type": "official homepage",
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "url": {
+        "id": "4231bdb3-139e-4a48-a77e-19e4b92f3d0b",
+        "resource": "http://id.loc.gov/authorities/names/n50009539"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb11976304z",
+        "id": "09daea90-f196-4046-b857-f172982138e6"
+      },
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "id": "4a8983da-e880-4607-9480-730e7f6da250",
+        "resource": "https://d-nb.info/gnd/5128280-X"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "43313691-9cb4-46f1-baeb-96eb49070ae2",
+        "resource": "https://rateyourmusic.com/artist/the_mothers_of_invention"
+      },
+      "type": "other databases"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/the-mothers-of-invention/",
+        "id": "1303acd5-0b68-4214-8637-9d58d8d404e7"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/The_Mothers_Of_Invention",
+        "id": "52f49f20-fa73-4427-b284-4697daeb68ed"
+      }
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "cf7d0803-7d4c-4dca-99b8-e80f8b68993d",
+        "resource": "https://www.whosampled.com/The-Mothers-of-Invention/"
+      }
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-n50009539",
+        "id": "6ba1ccf5-18ae-463f-9af4-9a6aa47562e1"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "type": "purchase for download",
+      "url": {
+        "id": "48534e4e-1127-4355-a470-5c1e0dfa7acb",
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-mothers-of-invention/874444"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url"
+    },
+    {
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/the-mothers-of-invention-1bd6a178.html",
+        "id": "7c12ef28-3e7e-42cf-9e05-780fc132241b"
+      },
+      "type": "setlistfm",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "songkick",
+      "url": {
+        "id": "a7062556-79a0-47da-b091-afa36bd81f91",
+        "resource": "https://www.songkick.com/artists/221111"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58"
+    },
+    {
+      "begin": null,
+      "url": {
+        "resource": "https://tidal.com/artist/5938392",
+        "id": "d8f2e7a4-aa60-475e-8472-f49f73982553"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-mothers-of-invention/874444",
+        "id": "48534e4e-1127-4355-a470-5c1e0dfa7acb"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "VIAF",
+      "url": {
+        "resource": "http://viaf.org/viaf/121315622",
+        "id": "6e8c0ec0-a664-4232-9ab8-63e3675b6613"
+      },
+      "target-type": "url",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q530362",
+        "id": "4b4f6a6d-5075-4242-852b-f839c95bfd54"
+      },
+      "type": "wikidata",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url"
+    }
+  ],
+  "disambiguation": "",
+  "country": "US",
+  "life-span": {
+    "ended": true,
+    "begin": "1964",
+    "end": "1975"
+  },
+  "end-area": {
+    "iso-3166-2-codes": [
+      "US-CA"
+    ],
+    "disambiguation": "",
+    "name": "California",
+    "type-id": null,
+    "type": null,
+    "id": "ae0110b6-13d4-4998-9116-5b926287aa23",
+    "sort-name": "California"
+  },
+  "name": "The Mothers of Invention",
+  "isnis": [
+    "000000010805030X"
+  ],
+  "gender": null,
+  "sort-name": "Mothers of Invention, The",
+  "id": "fe98e268-4ddd-441b-95a0-b219375f9ae4",
+  "area": {
+    "name": "United States",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "disambiguation": "",
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "sort-name": "United States",
+    "type": null,
+    "type-id": null
+  },
+  "begin-area": {
+    "name": "Los Angeles",
+    "disambiguation": "",
+    "sort-name": "Los Angeles",
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+    "type-id": null,
+    "type": null
+  }
+}

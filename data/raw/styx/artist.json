@@ -1,0 +1,1167 @@
+{
+  "gender": null,
+  "begin-area": {
+    "name": "Chicago",
+    "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "sort-name": "Chicago"
+  },
+  "relations": [
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1970",
+      "attributes": [],
+      "artist": {
+        "type": "Person",
+        "country": "US",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Curulewski, John",
+        "id": "246075b5-0ab3-4cb3-a3d7-5ad7520b20ae",
+        "name": "John Curulewski"
+      },
+      "target-credit": "",
+      "end": "1975",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1970",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1996-07-16",
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Panozzo, John",
+        "id": "4deb1df7-e92b-4237-8faf-f736fcdcbb13",
+        "name": "John Panozzo",
+        "country": "US",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "ended": true,
+      "begin": "1970",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": "US",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Dennis DeYoung",
+        "sort-name": "DeYoung, Dennis",
+        "id": "9da87628-95a0-4820-93c7-7b1609d9bce7"
+      },
+      "end": "1999",
+      "type": "member of band"
+    },
+    {
+      "ended": false,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "begin": "1970",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "type": "Person",
+        "disambiguation": "",
+        "id": "aba1d23b-6c2c-459c-b4ea-60281d57834e",
+        "sort-name": "Panozzo, Chuck",
+        "name": "Chuck Panozzo"
+      },
+      "type": "member of band",
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "target-type": "artist",
+      "begin": "1970",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "artist": {
+        "id": "1ea11cd7-08ce-4324-b35a-1788e0e4d43e",
+        "sort-name": "Young, James",
+        "name": "James Young",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "US",
+        "disambiguation": "member of Styx, guitarist, singer and songwriter"
+      },
+      "type": "member of band",
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1983",
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "US",
+        "disambiguation": "of Styx",
+        "id": "f468f4ba-53a2-478c-9a25-bcef2cd1eed8",
+        "sort-name": "Shaw, Tommy",
+        "name": "Tommy Shaw"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": true
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "US",
+        "name": "Glen Burtnik",
+        "id": "6f6c13d4-080e-4967-a51e-b4c27133d97f",
+        "sort-name": "Burtnik, Glen"
+      },
+      "target-credit": "",
+      "end": "1991",
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1990"
+    },
+    {
+      "attribute-ids": {},
+      "begin": "1995",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "name": "Tommy Shaw",
+        "id": "f468f4ba-53a2-478c-9a25-bcef2cd1eed8",
+        "sort-name": "Shaw, Tommy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "of Styx",
+        "type": "Person",
+        "country": "US"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": null,
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "US",
+        "disambiguation": "",
+        "id": "ced3bbe4-1413-45ad-bef3-ebc3b17c4c6a",
+        "sort-name": "Sucherman, Todd",
+        "name": "Todd Sucherman"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1996",
+      "target-type": "artist",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1999",
+      "attribute-ids": {},
+      "ended": true,
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "2004",
+      "artist": {
+        "name": "Glen Burtnik",
+        "sort-name": "Burtnik, Glen",
+        "id": "6f6c13d4-080e-4967-a51e-b4c27133d97f",
+        "country": "US",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": ""
+    },
+    {
+      "target-credit": "Lawrence Gowan",
+      "artist": {
+        "sort-name": "Gowan",
+        "id": "fc06a339-d14b-40ea-a87e-4672de5deb0f",
+        "name": "Gowan",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "CA",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "artist",
+      "begin": "1999",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": []
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2004",
+      "attribute-ids": {},
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "end": "2024",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Ricky Phillips",
+        "sort-name": "Phillips, Ricky",
+        "id": "3fcc6bff-389b-46fc-8ca7-e577dd519363"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "ended": false,
+      "begin": "2024",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "Terry Gowan",
+      "artist": {
+        "sort-name": "Gowan, Terence",
+        "id": "c0fb731f-8963-4170-b261-e486b569bfed",
+        "name": "Terence Gowan",
+        "country": null,
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": null,
+      "type": "member of band"
+    },
+    {
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "disambiguation": "",
+        "country": "US",
+        "id": "d5880e54-6722-422f-bb37-80c9faa228e9",
+        "sort-name": "Borrowed Time: A Tribute to Styx",
+        "name": "Borrowed Time: A Tribute to Styx"
+      },
+      "type": "tribute",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f"
+    },
+    {
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Light Up",
+        "id": "94d45208-e47d-4d87-863a-4315db0ce0dd",
+        "name": "Light Up",
+        "type": "Group",
+        "country": "US",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "type": "tribute",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f"
+    },
+    {
+      "end": null,
+      "type": "tribute",
+      "artist": {
+        "disambiguation": "U.S. “arena rock” tribute band",
+        "type": "Group",
+        "country": "US",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Xpedition",
+        "sort-name": "Xpedition",
+        "id": "bd9d8e7a-6fc2-4595-8491-e04cd990a698"
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "allmusic",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000923033",
+        "id": "a652c93f-d1a9-48a4-ac96-93f3dbc2ac18"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846"
+    },
+    {
+      "type": "bandcamp",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "url": {
+        "id": "610cf52d-6475-477b-9ba6-9d9f66479e8f",
+        "resource": "https://styxtheband.bandcamp.com/"
+      },
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.bandsintown.com/a/1819",
+        "id": "fa095fbc-5d4a-41f2-887c-22c0cceb66c8"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "bandsintown",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.discogs.com/artist/218605",
+        "id": "9cf9231e-1024-464a-a159-7b4c79d21264"
+      },
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "discogs",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "0e4a2184-0c93-4275-ba62-b2ac9bea0793",
+        "resource": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "type": "free streaming",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "id": "6b3fe56e-d45d-401f-b7ad-9aeac5a558c0",
+        "resource": "https://www.deezer.com/artist/5660"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "resource": "http://www.pandora.com/styx",
+        "id": "d900f785-c20f-4a3a-a037-8baf792abcea"
+      },
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "free streaming",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "type": "IMDb",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "cf095041-5e2e-45bb-915a-41c441247d58",
+        "resource": "https://www.imdb.com/name/nm1381746/"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "last.fm",
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.last.fm/music/Styx",
+        "id": "91229866-907e-4e93-8e53-e61fb7d04d05"
+      },
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f"
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "lyrics",
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "resource": "https://genius.com/artists/Styx",
+        "id": "8b108157-00b4-4dac-8aad-a8e95fd32d38"
+      },
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "myspace",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "url": {
+        "id": "b8a0a541-a319-45fe-aae7-8e1786665730",
+        "resource": "https://myspace.com/styxtheband"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "url": {
+        "id": "7db5c477-9045-433d-87f6-bb33ab02c86f",
+        "resource": "http://www.styxworld.com/"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "official homepage",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "url": {
+        "id": "4dc330b1-c2e6-4916-89e8-03b6c2b04cb5",
+        "resource": "http://id.loc.gov/authorities/names/n78065248"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13906818v",
+        "id": "d07515a0-42e8-41ad-941a-474a15775d97"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "other databases",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "resource": "https://d-nb.info/gnd/5511704-1",
+        "id": "214e0c5f-f845-43e2-b5a5-9f7d799dde5d"
+      },
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://imvdb.com/n/styx",
+        "id": "1a6859f2-3a5a-4e2f-809d-3eec5986d815"
+      },
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "url": {
+        "resource": "https://musicmoz.org/Bands_and_Artists/S/Styx/",
+        "id": "ed45aaf3-e7ae-4424-ae69-2efd7386bbfa"
+      },
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "other databases"
+    },
+    {
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/styx",
+        "id": "c53194cd-a8a6-482b-8ed6-37306a98fa64"
+      },
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "b2b053fb-1d0e-4e4e-a325-a3d0049deca1",
+        "resource": "https://www.45cat.com/artist/styx"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "1f7ed222-d9ca-4b84-a1fe-f45b3fc3dd3a",
+        "resource": "https://www.musik-sammler.de/artist/styx/"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "70194fdf-6fe3-4b77-8b92-0af4afb25fd2",
+        "resource": "https://www.spirit-of-rock.com/en/band/Styx"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "id": "b98e576f-d15c-4da6-994c-2a183f76ff5d",
+        "resource": "https://www.whosampled.com/Styx/"
+      },
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "type": "other databases",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-n78065248",
+        "id": "d487ba2d-647f-4eda-8572-98ee4649c614"
+      },
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "end": "2020-10-12",
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "url": {
+        "resource": "https://play.google.com/store/music/artist?id=A2k3pvoxq4ajftg7kr56lhbqicm",
+        "id": "525e403a-e6d4-4c92-98fd-a4c7c91f3887"
+      },
+      "ended": true,
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "type": "purchase for download",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "afea213b-80b1-4579-a6ea-5531352668d7",
+        "resource": "https://music.apple.com/us/artist/132659"
+      },
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.7digital.com/artist/styx",
+        "id": "244d2de6-3e34-4f1c-bad2-b3666f0b2e82"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "type": "secondhandsongs",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "73ed3dab-217e-4bd1-82d3-5e5cf019a82d",
+        "resource": "https://secondhandsongs.com/artist/18153"
+      },
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "a9dd3b61-5bd7-4d85-9871-e889c0ffe21d",
+        "resource": "https://www.setlist.fm/setlists/styx-6bd6be3a.html"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "setlistfm",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "type": "social network",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "id": "385dc307-55bd-4ee6-8e0f-ab0ddb24f388",
+        "resource": "https://twitter.com/styxtheband"
+      },
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.facebook.com/styxtheband",
+        "id": "c8d2e6ae-ae6a-4d9e-89c1-1d4960c21b75"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "social network",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "id": "8c840a5e-0b73-4f44-9cfb-14ede56f8439",
+        "resource": "https://www.instagram.com/styxtheband/"
+      },
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "social network",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://www.songkick.com/artists/540471",
+        "id": "49678c2f-1c8e-4aa1-b07e-c38fa6df194e"
+      },
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "songkick",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": "2022-06-08",
+      "type": "streaming",
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "resource": "https://us.napster.com/artist/styx",
+        "id": "4aebc6cc-0414-4100-9b65-432808f57bef"
+      },
+      "ended": true,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "id": "498c3905-f286-443b-8816-a5db74607780",
+        "resource": "https://music.apple.com/fr/artist/132659"
+      },
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "streaming",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/132659",
+        "id": "3fd29926-0a8f-40ea-a2b7-2b7d11430aba"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "streaming"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "type": "streaming",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "id": "afea213b-80b1-4579-a6ea-5531352668d7",
+        "resource": "https://music.apple.com/us/artist/132659"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "10a08263-1938-4915-a93f-6f5e80f57f13",
+        "resource": "https://tidal.com/artist/24876"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "end": null
+    },
+    {
+      "attributes": [],
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "url": {
+        "id": "0b74c2be-e08d-4458-9266-f0f600f2b938",
+        "resource": "http://viaf.org/viaf/145373718"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "VIAF",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "id": "cf7b84ca-7135-4b52-a504-9ff701f4e92e",
+        "resource": "https://www.wikidata.org/wiki/Q590102"
+      },
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "wikidata"
+    },
+    {
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "youtube",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "id": "4eb7f876-68ce-47d2-b1bf-01e433539c9a",
+        "resource": "https://www.youtube.com/channel/UCsxlF68A6nRUYC9xnt6vHdQ"
+      },
+      "target-type": "url",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "begin": "2009-06-03",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "youtube",
+      "target-credit": "",
+      "attributes": [],
+      "begin": "2013-06-19",
+      "attribute-ids": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "url": {
+        "id": "9084265d-3ba8-4246-b457-40b8f2beffa0",
+        "resource": "https://www.youtube.com/channel/UCigTxDNbQ3mIIyZgsTFWLMg"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "attribute-ids": {},
+      "begin": "2015-11-12",
+      "target-type": "url",
+      "url": {
+        "id": "ac6df573-b806-4d92-a607-0ef068c69db2",
+        "resource": "https://music.youtube.com/channel/UCigTxDNbQ3mIIyZgsTFWLMg"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "youtube music",
+      "target-credit": ""
+    }
+  ],
+  "end-area": null,
+  "area": {
+    "sort-name": "United States",
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "name": "United States",
+    "type": null,
+    "disambiguation": "",
+    "type-id": null
+  },
+  "type": "Group",
+  "ipis": [],
+  "id": "835a6d9c-fea0-4a71-ae52-9c4da946433a",
+  "aliases": [],
+  "sort-name": "Styx",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1970"
+  },
+  "disambiguation": "rock band from Chicago",
+  "country": "US",
+  "name": "Styx",
+  "gender-id": null,
+  "isnis": [
+    "0000000106709799"
+  ]
+}

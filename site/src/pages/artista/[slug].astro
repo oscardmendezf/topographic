@@ -4,6 +4,7 @@ import Base from '../../layouts/Base.astro';
 import { u, COLORES, ERAS, estrellas } from '../../lib/util';
 import atlas from '../../../../data/atlas.json';
 import grafo from '../../../../data/grafo.json';
+import geo from '../../../../data/geo.json';
 
 export async function getStaticPaths() {
   const entradas = await getCollection('artistas');
@@ -57,7 +58,8 @@ const conexiones = artista
 <Base titulo={nombre}>
   <header class="page" style={`border-top:4px solid ${COLORES[grupo] ?? 'var(--dim)'}`}><div class="wrap">
     <p class="eyebrow">{artista ? (artista.tipo === 'Person' ? 'Solista' : 'Banda') : 'Colección editorial'}
-      {artista && ` · ${artista.inicio?.slice(0, 4) ?? 's.d.'}${artista.fin ? `–${artista.fin.slice(0, 4)}` : '–act.'}`}</p>
+      {artista && ` · ${artista.inicio?.slice(0, 4) ?? 's.d.'}${artista.fin ? `–${artista.fin.slice(0, 4)}` : '–act.'}`}
+      {artista && (geo as any)[artista.slug]?.lugar && ` · ${(geo as any)[artista.slug].lugar}`}</p>
     <h1>{nombre}</h1>
     {artista && (
       <div class="links-verif">

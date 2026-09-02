@@ -1,0 +1,536 @@
+{
+  "aliases": [],
+  "end-area": null,
+  "gender": null,
+  "gender-id": null,
+  "country": "DE",
+  "disambiguation": "",
+  "ipis": [],
+  "area": {
+    "disambiguation": "",
+    "name": "Germany",
+    "type": null,
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "DE"
+    ],
+    "sort-name": "Germany"
+  },
+  "type": "Group",
+  "name": "Neu!",
+  "life-span": {
+    "begin": "1971",
+    "end": "1975",
+    "ended": true
+  },
+  "id": "adec1fc3-83c1-48f7-9e49-8347ac6d40b0",
+  "isnis": [
+    "0000000111355390"
+  ],
+  "relations": [
+    {
+      "source-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "1975",
+      "artist": {
+        "country": "DE",
+        "sort-name": "Dinger, Klaus",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7d13df68-5661-45bd-9aad-75a0d7f88091",
+        "type": "Person",
+        "name": "Klaus Dinger",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1971",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "id": "3b4db0d5-97a8-4aa8-a375-9b8c78a56932",
+        "sort-name": "Rother, Michael",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "German experimental musician",
+        "type": "Person",
+        "name": "Michael Rother"
+      },
+      "end": "1975",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ]
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "name": "Eberhard Kranemann",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Kranemann, Eberhard",
+        "country": "DE",
+        "id": "b17ed5b1-d965-4b05-ad25-49fd40aa9563"
+      },
+      "end": "1972",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1974-12",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "sort-name": "Dinger, Thomas",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "aca423ea-8f98-42ee-96a9-1e006e574816",
+        "type": "Person",
+        "name": "Thomas Dinger",
+        "disambiguation": ""
+      },
+      "end": "1975-01",
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "name": "Hans Lampe",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Lampe, Hans",
+        "id": "5bc97695-f953-41fa-b56d-2a828ef6fbac"
+      },
+      "end": "1975",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1975",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1985",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "end": "1986",
+      "artist": {
+        "country": "DE",
+        "sort-name": "Dinger, Klaus",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7d13df68-5661-45bd-9aad-75a0d7f88091",
+        "type": "Person",
+        "name": "Klaus Dinger",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ]
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1985",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1986",
+      "artist": {
+        "id": "3b4db0d5-97a8-4aa8-a375-9b8c78a56932",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Rother, Michael",
+        "disambiguation": "German experimental musician",
+        "name": "Michael Rother",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "direction": "forward",
+      "type": "allmusic",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "1d77a99f-af1c-4a62-9ad1-dabfcc4776cc",
+        "resource": "https://www.allmusic.com/artist/mn0000387815"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/12636",
+        "id": "4d69d176-1b04-4075-8364-7e4d658242b4"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discogs",
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "e6eeffe8-3c61-4dc1-be13-f30cbfb027e6",
+        "resource": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.deezer.com/artist/9428",
+        "id": "87b05f64-0f53-4a12-9b85-3e52cf261981"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming",
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "http://www.neu2010.com/",
+        "id": "7925e4a9-a63b-4d32-868d-1b9442944af1"
+      },
+      "ended": false,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "official homepage",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "resource": "https://d-nb.info/gnd/6058724-6",
+        "id": "54d52f0f-7aae-4b30-872d-bd1dc898664d"
+      },
+      "end": null,
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/neu_",
+        "id": "1a93511c-4cb5-4509-97ce-f98b061e6040"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "23764f12-c8d8-41bf-9419-057e7288f330",
+        "resource": "https://www.musik-sammler.de/artist/neu/"
+      },
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "dc105fc2-5312-4f0f-a521-e19f0961999a",
+        "resource": "https://open.qobuz.com/artist/320270"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/neu/320270",
+        "id": "71c92040-2e2b-4eec-817a-e7f3eafb4353"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "songkick",
+      "end": null,
+      "url": {
+        "id": "8491ef21-1dcc-4682-b8f5-4d42d278a35b",
+        "resource": "https://www.songkick.com/artists/562474"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/14793618",
+        "id": "dfa2ef93-bcfd-41b7-8da7-d6e17f3201c0"
+      },
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "end": null,
+      "url": {
+        "resource": "https://open.qobuz.com/artist/320270",
+        "id": "dc105fc2-5312-4f0f-a521-e19f0961999a"
+      },
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "url": {
+        "id": "690a49a5-a386-40ff-9bff-8c3945ddb615",
+        "resource": "https://tidal.com/artist/11089"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "url": {
+        "id": "71c92040-2e2b-4eec-817a-e7f3eafb4353",
+        "resource": "https://www.qobuz.com/us-en/interpreter/neu/320270"
+      },
+      "end": null,
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "VIAF",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "c3e007e1-4a4e-4c75-af6e-dd7348baf693",
+        "resource": "http://viaf.org/viaf/151562350"
+      },
+      "attribute-ids": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "wikidata",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q181874",
+        "id": "080e141d-f701-4922-ada2-e9c73b591693"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+    }
+  ],
+  "sort-name": "Neu!",
+  "begin-area": {
+    "disambiguation": "",
+    "id": "03e75281-c3a3-454a-8d78-c85a5415c49e",
+    "type-id": null,
+    "name": "Düsseldorf",
+    "sort-name": "Düsseldorf",
+    "type": null
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+}

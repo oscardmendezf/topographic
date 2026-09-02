@@ -1,0 +1,67 @@
+{
+  "release-group-count": 5,
+  "release-groups": [
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "24f52f52-cbb0-3658-b426-95780d4cef52",
+      "title": "On the Radio",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2007-01-30"
+    },
+    {
+      "id": "2565cf3e-8698-34de-9ff0-fdf12023a993",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2001-05-22",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Smoke Signals"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1972-04-08",
+      "title": "Matching Mole",
+      "secondary-type-ids": [],
+      "id": "ab6498ea-3048-36a9-b384-b5aff7d52ecd",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": []
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "d6b93867-c43b-33b0-bfc5-cfae6dfbbe83",
+      "title": "March",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2002-09-17"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "ffffce03-b7ca-3686-8da6-0e54c6725c45",
+      "title": "Matching Mole’s Little Red Record",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1972"
+    }
+  ]
+}

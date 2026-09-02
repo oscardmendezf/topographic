@@ -1,0 +1,610 @@
+{
+  "end-area": null,
+  "gender-id": null,
+  "country": "GB",
+  "gender": null,
+  "aliases": [
+    {
+      "begin": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "sort-name": "Hatfield & the North",
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "name": "Hatfield & the North",
+      "type": "Search hint",
+      "primary": null
+    },
+    {
+      "locale": null,
+      "ended": false,
+      "end": null,
+      "sort-name": "Hattfield and the North",
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null,
+      "type": "Search hint",
+      "primary": null,
+      "name": "Hattfield and the North"
+    }
+  ],
+  "life-span": {
+    "ended": true,
+    "end": "1975",
+    "begin": "1972-10"
+  },
+  "id": "18283e97-41ed-40fb-8458-574ae420e405",
+  "isnis": [
+    "000000012158965X"
+  ],
+  "relations": [
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1973-01",
+      "artist": {
+        "name": "David Sinclair",
+        "type": "Person",
+        "disambiguation": "UK folk/rock keyboardist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Sinclair, David",
+        "id": "8135b023-c5da-4e6f-8d1b-50e0269357ca"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972-10",
+      "attribute-ids": {}
+    },
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "1975-06",
+      "artist": {
+        "id": "68ccb6f8-4f38-4c2b-9d4f-12151138aa80",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Miller, Phil",
+        "disambiguation": "UK Canterbury progressive rock/jazz guitarist",
+        "name": "Phil Miller",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972-10",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "name": "Pip Pyle",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Pyle, Pip",
+        "id": "19ed89d3-30aa-4f66-8992-822a48e8aa6c"
+      },
+      "end": "1975-06",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972-10",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "artist": {
+        "id": "cdc2328b-626c-46ec-89fe-d6dd265f458b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Sinclair, Richard",
+        "disambiguation": "",
+        "name": "Richard Sinclair",
+        "type": "Person"
+      },
+      "end": "1975-06",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972-10",
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1973-01",
+      "attribute-ids": {},
+      "artist": {
+        "id": "c7b11c65-595f-4238-893b-36be934ebda9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Stewart, Dave",
+        "country": "GB",
+        "disambiguation": "Canterbury keyboardist, not the Eurythmics’ Dave Stewart",
+        "name": "Dave Stewart",
+        "type": "Person"
+      },
+      "end": "1975-06",
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "end": "1990-03",
+      "artist": {
+        "sort-name": "Domancich, Sophia",
+        "country": "FR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "acd4772d-6f88-4d76-9b71-8cd68d91e734",
+        "type": "Person",
+        "name": "Sophia Domancich",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "begin": "1990-03",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {},
+      "begin": "1990-03",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1990-03",
+      "artist": {
+        "type": "Person",
+        "name": "Phil Miller",
+        "disambiguation": "UK Canterbury progressive rock/jazz guitarist",
+        "sort-name": "Miller, Phil",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "68ccb6f8-4f38-4c2b-9d4f-12151138aa80"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Pip Pyle",
+        "id": "19ed89d3-30aa-4f66-8992-822a48e8aa6c",
+        "country": "GB",
+        "sort-name": "Pyle, Pip",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": "1990-03",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1990-03",
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "1990-03",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1990-03",
+      "artist": {
+        "type": "Person",
+        "name": "Richard Sinclair",
+        "disambiguation": "",
+        "sort-name": "Sinclair, Richard",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "cdc2328b-626c-46ec-89fe-d6dd265f458b"
+      }
+    },
+    {
+      "ended": true,
+      "artist": {
+        "id": "19ed89d3-30aa-4f66-8992-822a48e8aa6c",
+        "country": "GB",
+        "sort-name": "Pyle, Pip",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Pip Pyle"
+      },
+      "end": "2006-08-28",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2005-01",
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2005-01",
+      "attribute-ids": {},
+      "artist": {
+        "id": "27b2d54d-88d1-4bb4-b841-23a71abdefa8",
+        "sort-name": "Maguire, Alex",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK jazz keyboardist",
+        "type": "Person",
+        "name": "Alex Maguire"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "68ccb6f8-4f38-4c2b-9d4f-12151138aa80",
+        "sort-name": "Miller, Phil",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK Canterbury progressive rock/jazz guitarist",
+        "type": "Person",
+        "name": "Phil Miller"
+      },
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2005-01",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "2005-01",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Richard Sinclair",
+        "id": "cdc2328b-626c-46ec-89fe-d6dd265f458b",
+        "country": "GB",
+        "sort-name": "Sinclair, Richard",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000561106",
+        "id": "67bb892a-b980-4b90-a8e3-f8c8d1c1a770"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "allmusic",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "begin": null,
+      "attribute-ids": {},
+      "end": "2019-03-31",
+      "url": {
+        "resource": "http://www.geocities.co.jp/Broadway/6763/hatfields.html",
+        "id": "c412dd5c-dd81-4b1a-8ef0-5d506de21743"
+      },
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discography page",
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "79c87edf-83c2-40fb-add3-1e1aaffbf075",
+        "resource": "http://homepage.ntlworld.com/andymurkin/Resources/MusicRes/Canterbury/Hatfield/Hatfield.html"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discography page",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discogs",
+      "direction": "forward",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "99c96c21-c129-4048-8a5d-05df31051e87",
+        "resource": "https://www.discogs.com/artist/293746"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "type": "fanpage",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "e407396a-8ebc-44ec-8d74-60a77d799d38",
+        "resource": "http://calyx.perso.neuf.fr/hatfield/index.html"
+      },
+      "attribute-ids": {},
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming",
+      "end": null,
+      "url": {
+        "id": "3f494960-2263-4e5e-8020-cb3471e635de",
+        "resource": "https://open.spotify.com/artist/3nYGhK3zYoTm2Yz1KduuUM"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "c282995c-29b6-467f-b121-31a62c5ad84d",
+        "resource": "https://www.deezer.com/artist/4666841"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming"
+    },
+    {
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {},
+      "url": {
+        "id": "6bd2eaa6-7529-4107-9792-1e7e3b2aab62",
+        "resource": "http://www.hatfieldandthenorth.co.uk/"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "official homepage",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/hatfield_and_the_north",
+        "id": "33d00f24-35c5-493f-85e4-2c205cd6426c"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases"
+    },
+    {
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "url": {
+        "id": "7829ac9a-5f2b-443d-99f9-6da8f11d4ecc",
+        "resource": "https://www.45cat.com/artist/hatfield-and-the-north"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=147",
+        "id": "8e46a1da-d64b-4764-a6d1-535a087b1583"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "257c6ab9-bb40-4017-ac4b-9f7114b1b58b",
+        "resource": "https://music.apple.com/gb/artist/15821915"
+      },
+      "type": "purchase for download",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "type": "wikidata",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q972623",
+        "id": "29393d12-070c-4290-9253-24c665fb5bc1"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type": "youtube music",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "083a283a-8ccd-44e9-b858-b855f822dcdb",
+        "resource": "https://music.youtube.com/channel/UCGbgKCbyXwZ97U7Kn21W71g"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    }
+  ],
+  "sort-name": "Hatfield and the North",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": null,
+  "disambiguation": "",
+  "ipis": [],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "sort-name": "United Kingdom",
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "name": "United Kingdom"
+  },
+  "type": "Group",
+  "name": "Hatfield and the North"
+}

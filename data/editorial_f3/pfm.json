@@ -1,0 +1,65 @@
+{
+  "artistas": [
+    {
+      "slug": "pfm",
+      "ficha": "Premiata Forneria Marconi es la puerta de entrada más alta al sinfónico italiano: Storia di un minuto y Per un amico marcaron el nivel desde el debut. Manticore, el sello de ELP, los exportó con letras inglesas de Peter Sinfield, y sus versiones anglo entraron en Billboard — algo que ningún otro grupo continental del género logró desde Italia. Chocolate Kings y Jet Lag cerraron la era clásica endureciendo el sonido.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "pfm-storia-di-un-minuto",
+          "analisis": "El debut que puso al sinfónico italiano en su punto más alto de entrada: lirismo mediterráneo, técnica desbordante y ninguna deuda servil con los modelos ingleses. «Impressioni di settembre» ya es himno desde acá.",
+          "estrellas_critica": 5,
+          "critica_nota": "Debut fundacional del prog italiano; canon inmediato.",
+          "estrellas_comercial": 4,
+          "comercial_nota": "Éxito grande en Italia desde la salida.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "pfm-per-un-amico",
+          "analisis": "El mismo año que el debut y todavía más redondo: la escritura se afina, los arreglos respiran y el grupo suena a escuela propia. Para muchos, la cima del catálogo.",
+          "estrellas_critica": 5,
+          "critica_nota": "Considerado por consenso su obra maestra italiana.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Sólido en Italia; aún sin proyección exterior.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "pfm-photos-of-ghosts",
+          "analisis": "La operación Manticore: material de los dos primeros discos rehecho con letras inglesas de Peter Sinfield. Entró en Billboard, cosa que ningún otro grupo continental del género logró desde Italia; el disco funciona, aunque el original italiano conserva otra temperatura.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado como carta de presentación anglo del grupo.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Entró en Billboard; hito para una banda italiana del género.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "pfm-the-world-became-the-world",
+          "analisis": "Segunda entrega del pacto con Manticore y Sinfield, otra vez con paso por Billboard. Menos sorpresa que Photos of Ghosts, pero el nivel instrumental no baja.",
+          "estrellas_critica": 4,
+          "critica_nota": "Bien recibido; un escalón bajo los discos italianos.",
+          "estrellas_comercial": 3,
+          "comercial_nota": "Repitió entrada en Billboard; presencia real en el mercado anglo.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "pfm-chocolate-kings",
+          "analisis": "Comienzo del cierre de la era clásica: el sonido se endurece, la voz cambia de registro y la mirada apunta a Estados Unidos. Divide a los nostálgicos del lirismo temprano, pero tiene músculo propio.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado como el disco más duro de la era clásica.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "Menor tracción que la etapa Manticore inicial.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "pfm-jet-lag",
+          "analisis": "El punto final de la era clásica, ya en clave de fusion endurecido. Ejecución impecable, identidad diluida: el grupo toca mejor que nunca cosas que ya no son del todo suyas.",
+          "estrellas_critica": 3,
+          "critica_nota": "Recepción mixta; admirado en lo técnico, discutido en dirección.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "Interés comercial en retirada al cerrar la era clásica.",
+          "charts_texto": null
+        }
+      ]
+    }
+  ]
+}

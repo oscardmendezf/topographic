@@ -1,0 +1,1065 @@
+{
+  "gender": null,
+  "gender-id": null,
+  "country": "BR",
+  "end-area": null,
+  "aliases": [
+    {
+      "name": "Mutantes",
+      "type": null,
+      "primary": null,
+      "type-id": null,
+      "begin": null,
+      "sort-name": "Mutantes",
+      "end": null,
+      "locale": null,
+      "ended": false
+    },
+    {
+      "type": null,
+      "primary": null,
+      "name": "Mvtantes",
+      "locale": null,
+      "ended": false,
+      "end": null,
+      "sort-name": "Mvtantes",
+      "type-id": null,
+      "begin": null
+    },
+    {
+      "type-id": null,
+      "begin": null,
+      "sort-name": "O. Mutantes",
+      "end": null,
+      "locale": "en",
+      "ended": false,
+      "name": "O. Mutantes",
+      "primary": false,
+      "type": null
+    },
+    {
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "sort-name": "Os Mvtantes",
+      "begin": null,
+      "type-id": null,
+      "type": null,
+      "primary": null,
+      "name": "Os Mvtantes"
+    }
+  ],
+  "sort-name": "Mutantes, Os",
+  "relations": [
+    {
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals",
+        "original",
+        "percussion"
+      ],
+      "source-credit": "",
+      "end": "1972",
+      "artist": {
+        "country": "BR",
+        "sort-name": "Lee, Rita",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3f962bf0-42a0-45a0-830f-07b66301d35f",
+        "type": "Person",
+        "name": "Rita Lee",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1966",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1966",
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "name": "Arnaldo Baptista",
+        "disambiguation": "",
+        "country": "BR",
+        "sort-name": "Baptista, Arnaldo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "0da51e46-986b-4873-8c06-21cb58b5a498"
+      },
+      "end": "1973",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar",
+        "keyboard",
+        "original"
+      ]
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "original"
+      ],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1966",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Dias, Sérgio",
+        "country": "BR",
+        "id": "43ae163a-43f0-47a7-a54a-090d4304163b",
+        "name": "Sérgio Dias",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1978",
+      "ended": true
+    },
+    {
+      "ended": true,
+      "end": "1971",
+      "artist": {
+        "type": "Person",
+        "name": "Liminha",
+        "disambiguation": "",
+        "country": "BR",
+        "sort-name": "Liminha",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "54911f26-5a6c-4f83-9da1-f1b86039dd2b"
+      },
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "additional": "0a5341f8-3b1d-4f99-a0c6-26b7f4e42c7f"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1969",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [
+        "additional",
+        "bass guitar"
+      ],
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "country": "BR",
+        "sort-name": "Leme, Dinho",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "92c12a51-081a-41df-ab05-a2d7dc5704f6",
+        "type": "Person",
+        "name": "Dinho Leme",
+        "disambiguation": ""
+      },
+      "end": "1973",
+      "ended": true,
+      "begin": "1971",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "source-credit": "",
+      "attributes": [
+        "membranophone"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1974",
+      "artist": {
+        "id": "54911f26-5a6c-4f83-9da1-f1b86039dd2b",
+        "country": "BR",
+        "sort-name": "Liminha",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Liminha"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ]
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-ids": {},
+      "begin": "1973",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Mourão, Túlio",
+        "country": "BR",
+        "id": "005e74fa-672b-4e3b-a408-e3939e3c9dc6",
+        "name": "Túlio Mourão",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "1976"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "membranophone"
+      ],
+      "source-credit": "",
+      "end": "1978",
+      "artist": {
+        "sort-name": "Motta, Rui",
+        "country": "BR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "2dd7e769-54ce-4a24-b8f7-7910dceda3cb",
+        "type": "Person",
+        "name": "Rui Motta",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1973",
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ],
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "name": "Antônio Pedro de Medeiros",
+        "disambiguation": "",
+        "sort-name": "Medeiros, Antônio Pedro de",
+        "country": "BR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "4a5c2fcd-f825-47c1-847e-e869fae68457"
+      },
+      "end": "1976",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1974",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band"
+    },
+    {
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1976",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "end": "1978",
+      "artist": {
+        "id": "f4046ab0-2c2a-4121-8b66-ccadc72a9bec",
+        "sort-name": "Castro, Paulo de",
+        "country": "BR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Paulo de Castro"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1978",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "end": "1978",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Fernando Gama",
+        "id": "d224fb84-c883-4a31-9d71-4d75a1338eb2",
+        "sort-name": "Gama, Fernando",
+        "country": "BR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar",
+        "keyboard",
+        "original"
+      ],
+      "source-credit": "",
+      "ended": true,
+      "end": "2007-09",
+      "artist": {
+        "disambiguation": "",
+        "name": "Arnaldo Baptista",
+        "type": "Person",
+        "id": "0da51e46-986b-4873-8c06-21cb58b5a498",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "BR",
+        "sort-name": "Baptista, Arnaldo"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2006",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2006",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "id": "afc99b75-f453-4123-8bd7-3aeea65cb521",
+        "sort-name": "Duncan, Zélia",
+        "country": "BR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Zélia Duncan"
+      },
+      "end": "2007-09",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals"
+      ]
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2006",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "end": null,
+      "artist": {
+        "disambiguation": "",
+        "name": "Sérgio Dias",
+        "type": "Person",
+        "id": "43ae163a-43f0-47a7-a54a-090d4304163b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "BR",
+        "sort-name": "Dias, Sérgio"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "original"
+      ]
+    },
+    {
+      "attributes": [
+        "membranophone"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Dinho Leme",
+        "type": "Person",
+        "id": "92c12a51-081a-41df-ab05-a2d7dc5704f6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Leme, Dinho",
+        "country": "BR"
+      },
+      "end": null,
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "begin": "2006",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals"
+      ],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2008",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Mendes, Bia",
+        "id": "bbb6e50b-da46-40c8-9dd9-50d4b3b90c7d",
+        "name": "Bia Mendes",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "2013",
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "end": "2013",
+      "artist": {
+        "id": "822df98a-62a3-459b-b5fe-6f466f9647aa",
+        "sort-name": "Recco, Fábio",
+        "country": "BR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Fábio Recco"
+      },
+      "ended": true,
+      "begin": "2008",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2008",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Soul, Simone",
+        "country": "BR",
+        "id": "6e9468aa-2159-4955-8b14-f56beab6809a",
+        "name": "Simone Soul",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "end": "2013",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "percussion"
+      ]
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2008",
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Esmeria Bulgari",
+        "id": "ac806972-e8b6-4eeb-b3ea-b2d8cc71ce1e",
+        "country": "BR",
+        "sort-name": "Bulgari, Esmeria",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals"
+      ]
+    },
+    {
+      "artist": {
+        "name": "Vinícius Junqueira",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "BR",
+        "sort-name": "Junqueira, Vinícius",
+        "id": "ce920ab5-880d-4e0d-bfd0-b08ff62ca97c"
+      },
+      "end": null,
+      "ended": false,
+      "begin": "2008",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2008",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "id": "c246fc54-76aa-4303-b335-0690c0e01188",
+        "sort-name": "Trida, Vitor",
+        "country": "BR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Vitor Trida"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "guitar",
+        "keyboard"
+      ]
+    },
+    {
+      "attributes": [
+        "membranophone"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "name": "Claudio Tchernev",
+        "disambiguation": "",
+        "sort-name": "Tchernev, Claudio",
+        "country": "BR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a6a0ddd4-f257-4f24-8070-6146976e6e76"
+      },
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "begin": "2013",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "582e5adb-28f9-4b95-8431-4cd50bd07b21",
+        "resource": "https://www.allmusic.com/artist/mn0000488378"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "direction": "forward",
+      "type": "allmusic",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "ended": true,
+      "end": "2020-11-19",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/a3212186-5da5-4e84-a935-6952b3e14921",
+        "id": "123b74e2-9893-47d3-88d7-23f03580d233"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "direction": "forward",
+      "type": "BBC Music page",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.discogs.com/artist/15161",
+        "id": "b08667a8-aea3-4b18-aa26-a1758cf5b6a2"
+      },
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "direction": "forward",
+      "type": "discogs",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "id": "85d00b90-518d-4d71-9eb3-e6afd8c0ee30",
+        "resource": "https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "free streaming"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "free streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/110459",
+        "id": "b1057ecd-ed01-44bf-8e05-368d8d43537a"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "455dea90-a25e-4dd0-a155-76af66f3bef5",
+        "resource": "https://genius.com/artists/Os-mutantes"
+      },
+      "end": null,
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "official homepage",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.osmutantes.com.br/",
+        "id": "1d517388-cb6f-47ba-88b4-cb59486165e3"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "official homepage",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "http://www.mutantes.com/",
+        "id": "aef17aed-6b23-477a-ab71-86b29fae852c"
+      },
+      "ended": true,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "d3c0215c-bbee-4922-a1ce-938c6408c433",
+        "resource": "https://rateyourmusic.com/artist/os_mutantes"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "end": null,
+      "url": {
+        "resource": "https://open.qobuz.com/artist/45641",
+        "id": "1e63ebdc-1e77-47e5-b38c-625f977d4b75"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://twitter.com/osmvtantes",
+        "id": "89173eb0-5db0-4bbb-a9be-6de1b73997b5"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "social network",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "type": "social network",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "695bdc78-0393-4da2-aa72-df05a4fed236",
+        "resource": "https://www.facebook.com/osmutantes"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+    },
+    {
+      "type": "social network",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "f984446f-6e19-4961-9da5-df84122f425a",
+        "resource": "https://www.instagram.com/osmutantesbanda/"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.songkick.com/artists/475583",
+        "id": "35a5f654-4a4b-44f1-b2f9-ec2b786b2e41"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "songkick",
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "https://music.apple.com/br/artist/82945",
+        "id": "f5ef55bb-791e-4229-a136-2dd3024febfe"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://open.qobuz.com/artist/45641",
+        "id": "1e63ebdc-1e77-47e5-b38c-625f977d4b75"
+      },
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://tidal.com/artist/25021",
+        "id": "8697e60e-03fc-4aed-a824-e1f67dda43a6"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "direction": "forward",
+      "type": "streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1325248",
+        "id": "652fced5-4d6f-40dc-9fba-a4993621ddc7"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "type": "wikidata",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "youtube",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "ended": false,
+      "url": {
+        "id": "944b86f9-753d-4e0a-b10c-81a2cf4156d5",
+        "resource": "https://www.youtube.com/channel/UCYWiftf497p7kNAmlbJexew"
+      },
+      "end": null
+    }
+  ],
+  "begin-area": {
+    "type": null,
+    "sort-name": "São Paulo",
+    "name": "São Paulo",
+    "type-id": null,
+    "disambiguation": "",
+    "id": "33e0f86c-d709-448d-a484-d55778913af1"
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1966"
+  },
+  "id": "a3212186-5da5-4e84-a935-6952b3e14921",
+  "isnis": [
+    "0000000109452642"
+  ],
+  "type": "Group",
+  "name": "Os Mutantes",
+  "disambiguation": "",
+  "ipis": [],
+  "area": {
+    "iso-3166-1-codes": [
+      "BR"
+    ],
+    "sort-name": "Brazil",
+    "type-id": null,
+    "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+    "type": null,
+    "name": "Brazil",
+    "disambiguation": ""
+  }
+}

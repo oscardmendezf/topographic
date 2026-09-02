@@ -1,0 +1,117 @@
+{
+  "artistas": [
+    {
+      "slug": "egg",
+      "ficha": "El laboratorio de compases de Dave Stewart. Trío organístico salido de Uriel —la banda que compartió con Steve Hillage— que llevó la métrica irregular y el rigor casi académico al corazón de la órbita de Canterbury. Tres discos de estudio le bastaron para dejar una huella desproporcionada a sus ventas.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "egg-egg",
+          "analisis": "Debut del trío: órgano al frente, compases cambiantes y un descaro juvenil que ya apunta al método. El laboratorio de Stewart abre sus puertas.",
+          "estrellas_critica": 4,
+          "critica_nota": "Debut muy valorado dentro del culto canterburiano.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Sin repercusión comercial; público de culto desde el inicio.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "egg-the-polite-force",
+          "analisis": "El experimento en su punto más denso: la escritura métrica de Stewart alcanza aquí su formulación más rigurosa. Para muchos, la obra central del trío.",
+          "estrellas_critica": 4,
+          "critica_nota": "Considerado habitualmente su disco mayor.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Circulación mínima; prestigio muy posterior.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "egg-the-civil-surface",
+          "analisis": "Reunión póstuma para grabar el material que había quedado en el cajón. Menos urgente que sus predecesores, pero cierra el catálogo con coherencia.",
+          "estrellas_critica": 3,
+          "critica_nota": "Recepción mixta; cierre estimable más que esencial.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Edición casi confidencial.",
+          "charts_texto": null
+        }
+      ]
+    },
+    {
+      "slug": "steve-hillage",
+      "ficha": "Compañero de Dave Stewart en Uriel, se fue a Gong antes de emprender carrera solista. Guitarrista cósmico por convicción, tradujo el misticismo lisérgico de su etapa gonguiana a una discografía propia que arrancó con Fish Rising y tocó su techo comercial con L, producido por Todd Rundgren.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "steve-hillage-fish-rising",
+          "analisis": "El despegue solista, grabado con la órbita de Gong todavía cerca: guitarra planeadora y cosmología acuática en suites largas. Su disco más querido por los fieles.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado; el favorito de su público.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "Éxito modesto pero real para un debut de la escena.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "steve-hillage-l",
+          "analisis": "Producido por Todd Rundgren, pule el cosmos de Hillage hasta darle alcance de público general sin traicionarlo. Su momento de mayor visibilidad.",
+          "estrellas_critica": 4,
+          "critica_nota": "Bien recibido; equilibrio logrado entre pulido y misticismo.",
+          "estrellas_comercial": 4,
+          "comercial_nota": "Su pico comercial: el único disco suyo con presencia real en las listas británicas.",
+          "charts_texto": "UK 10"
+        },
+        {
+          "album_slug": "steve-hillage-motivation-radio",
+          "analisis": "Formato más corto y eléctrico, con la mira puesta en la canción antes que en la suite. Divide a los fieles de la etapa anterior.",
+          "estrellas_critica": 3,
+          "critica_nota": "Recepción mixta; el giro al formato canción no convence a todos.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "Mantuvo público, ya sin el empuje de L.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "steve-hillage-green",
+          "analisis": "Cierre de su racha setentera: la guitarra flotante empieza a mirar hacia texturas que anticipan su deriva ambient posterior. Disco de transición mejor considerado con los años.",
+          "estrellas_critica": 3,
+          "critica_nota": "Valoración mixta en su día; revalorizado después.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "Rendimiento discreto al final de la década.",
+          "charts_texto": null
+        }
+      ]
+    },
+    {
+      "slug": "kevin-ayers",
+      "ficha": "El dandy de Soft Machine: dejó la banda tras el primer disco y convirtió la desgana elegante en un género propio. Sus primeros discos solistas son la cara más luminosa y excéntrica de Canterbury, con canciones que esconden vanguardia bajo el encanto; por sus filas pasó un Mike Oldfield adolescente antes de Tubular Bells.",
+      "no_encontrados": [
+        "Shooting at the Moon"
+      ],
+      "albumes": [
+        {
+          "album_slug": "kevin-ayers-joy-of-a-toy",
+          "analisis": "El debut tras salir de Soft Machine: canciones de juguete con doble fondo, entre la nana psicodélica y la ironía de salón. Fija de entrada el personaje del dandy.",
+          "estrellas_critica": 4,
+          "critica_nota": "Debut muy valorado; piedra fundacional de su culto.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Ventas de culto, como casi todo su catálogo.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "kevin-ayers-whatevershebringswesing",
+          "analisis": "El equilibrio más fino entre el crooner indolente y el experimentador: arreglos generosos y su voz de barítono en el centro. Para muchos, su disco más redondo.",
+          "estrellas_critica": 4,
+          "critica_nota": "Citado con frecuencia como su mejor álbum.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Prestigio muy superior a su circulación.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "kevin-ayers-bananamour",
+          "analisis": "El cierre de su primera racha: humor, calipso torcido y guiños a sus pares de la escena sin perder la elegancia perezosa. Última entrega del Ayers esencial.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado; final digno de su etapa dorada.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Sin traducción comercial pese al encanto accesible.",
+          "charts_texto": null
+        }
+      ]
+    }
+  ]
+}

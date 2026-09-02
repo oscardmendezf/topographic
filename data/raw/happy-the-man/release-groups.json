@@ -1,0 +1,107 @@
+{
+  "release-group-count": 9,
+  "release-groups": [
+    {
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "16341435-eca6-314f-ade4-aa526ac4afc3",
+      "secondary-type-ids": [],
+      "title": "The Muse Awakens",
+      "first-release-date": "2004",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2021",
+      "title": "WGTB-FM (Broadcast Edition)",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "25d06295-c43f-454f-9480-5f95f2553dcb",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "6266d9e5-fa87-3411-9bfb-76a29a2e3b0b",
+      "title": "Retrospective",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": ""
+    },
+    {
+      "title": "Crafty Hands",
+      "first-release-date": "1978",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "85bbcce2-2461-3bc2-be88-c2777a24664e",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "Death’s Crown",
+      "first-release-date": "1999",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "860ab642-44f7-37bc-998e-13b980350b19",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "Live",
+      "first-release-date": "1997",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "938cb806-d8e5-3535-a7a5-1152eec03a5f",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "first-release-date": "1990",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Beginnings",
+      "id": "bceb0758-3ffe-3f0a-9e01-bb27dd7e662c",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1983",
+      "title": "3rd \"Better Late...\"",
+      "secondary-type-ids": [],
+      "id": "ca3341cd-4d8d-311f-952d-9b03424b08c7",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": []
+    },
+    {
+      "title": "Happy the Man",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1977",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "ca65c2e2-283f-35a2-9a7c-ba32e5f42f05"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "aliases": [],
+  "name": "Il Balletto di Bronzo",
+  "relations": [
+    {
+      "artist": {
+        "disambiguation": "keyboardist",
+        "country": "IT",
+        "sort-name": "Leone, Gianni",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "541bd03c-fbb6-4e8a-9f8a-40a9d58dde80",
+        "type": "Person",
+        "name": "Gianni Leone"
+      },
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": "1971",
+      "direction": "backward",
+      "target-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "6d12e4ad-2057-4bca-8c16-4212a43a1686",
+        "type": "Person",
+        "disambiguation": "Italian bassist",
+        "country": "IT",
+        "sort-name": "Capozi, Marco",
+        "name": "Marco Capozi"
+      },
+      "end": "2008",
+      "ended": true,
+      "attributes": [
+        "bass"
+      ],
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "begin": "2005",
+      "target-credit": "",
+      "attribute-credits": {},
+      "target-type": "artist"
+    },
+    {
+      "begin": null,
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "target-credit": "",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "artist": {
+        "country": "IT",
+        "disambiguation": "Italian drummer",
+        "sort-name": "Sorrenti, Duilio",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "08c8ff5c-71ad-4644-bb49-f92cce23a351",
+        "type": "Person",
+        "name": "Duilio Sorrenti"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0001313310",
+        "id": "d4333dd0-61f2-48c7-b5bc-8c2c6c894cfa"
+      },
+      "type": "allmusic",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "url": {
+        "id": "d030a55a-bd8f-4c02-990a-8f3fd04da254",
+        "resource": "https://www.discogs.com/artist/1247423"
+      },
+      "type": "discogs",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "fanpage",
+      "url": {
+        "id": "37e56f01-f557-4f19-843a-4628ae053dc8",
+        "resource": "http://www.ballettodibronzo.it/"
+      },
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24"
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "url": {
+        "resource": "https://www.last.fm/music/Il+Balletto+di+Bronzo",
+        "id": "059d840d-a136-45d4-9ef5-2d6a3d954ae3"
+      },
+      "type": "last.fm",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "url": {
+        "id": "d86c7499-0c53-479c-aa6a-9a60d1c39a6c",
+        "resource": "http://www.ballettodibronzo.com/"
+      },
+      "type": "official homepage",
+      "target-type": "url",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "other databases",
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb146156344",
+        "id": "e67e85d0-f079-4660-89de-3c68141fe73f"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "other databases",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/il_balletto_di_bronzo",
+        "id": "01d2291c-012a-45ba-a6aa-ee0727716be3"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=37",
+        "id": "af68d89b-ab27-4a52-8990-262c740ebc2a"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "target-credit": "",
+      "target-type": "url",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "url": {
+        "id": "dcb82d3e-f7d3-4e14-a45f-0f517c9913a9",
+        "resource": "https://www.setlist.fm/setlists/il-balletto-di-bronzo-63d61263.html"
+      },
+      "type": "setlistfm",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "target-type": "url",
+      "type": "social network",
+      "url": {
+        "resource": "https://www.facebook.com/ballettodibronzo",
+        "id": "405b9e95-31bb-4bd2-97e1-7ad29514a44e"
+      },
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "target-type": "url",
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/135202190",
+        "id": "6e1b34b7-9379-4699-9a4a-166a933b9b53"
+      },
+      "type": "VIAF",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460"
+    },
+    {
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "url": {
+        "id": "b1fe9279-120b-4464-962c-1dd1dbedb8ea",
+        "resource": "https://www.wikidata.org/wiki/Q2619600"
+      },
+      "type": "wikidata",
+      "attribute-ids": {},
+      "attributes": [],
+      "end": null,
+      "ended": false
+    }
+  ],
+  "begin-area": {
+    "type-id": null,
+    "id": "86fbdd3c-aaac-4aed-916a-b361f7e1a8de",
+    "type": null,
+    "name": "Napoli",
+    "disambiguation": "",
+    "sort-name": "Napoli"
+  },
+  "sort-name": "Balletto di Bronzo, Il",
+  "isnis": [
+    "000000047108917X"
+  ],
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "type": null,
+    "type-id": null,
+    "sort-name": "Italy",
+    "disambiguation": "",
+    "name": "Italy",
+    "iso-3166-1-codes": [
+      "IT"
+    ]
+  },
+  "disambiguation": "",
+  "end-area": null,
+  "life-span": {
+    "ended": true,
+    "end": "1973",
+    "begin": "1967"
+  },
+  "ipis": [],
+  "gender-id": null,
+  "country": "IT",
+  "type": "Group",
+  "id": "3b290f1d-0b0f-4f2c-b080-d2df6d628f98",
+  "gender": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+}

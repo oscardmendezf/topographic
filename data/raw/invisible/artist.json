@@ -1,0 +1,503 @@
+{
+  "disambiguation": "Argentina 70s rock band created by Spinetta",
+  "relations": [
+    {
+      "direction": "backward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "sort-name": "Lorenzo, Héctor “Pomo”",
+        "id": "f52e3d30-58bd-4f0c-b7a4-4758fe92f2a9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Héctor “Pomo” Lorenzo",
+        "disambiguation": "",
+        "country": "AR"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "member of band",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9be4b04e-96f0-41ee-8553-924f751c1aaa",
+        "sort-name": "Rufino, Machi",
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Machi Rufino"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": null,
+      "type": "member of band",
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Spinetta, Luis Alberto",
+        "id": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Luis Alberto Spinetta",
+        "disambiguation": "“El Flaco”",
+        "country": "AR"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "backward",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000101158",
+        "id": "83f71251-9c37-434c-8048-adff44281411"
+      },
+      "type": "allmusic",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/1910129",
+        "id": "078d1f63-5562-4468-87ea-e3285323e4e8"
+      },
+      "type": "discogs",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false
+    },
+    {
+      "type": "free streaming",
+      "url": {
+        "resource": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1",
+        "id": "c74fd9b4-319a-4c52-8818-1ec4bf5ccd18"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "url": {
+        "resource": "https://www.deezer.com/artist/398655",
+        "id": "846addb3-ad95-4dae-8b5b-bf19d0353905"
+      },
+      "type": "free streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "begin": null,
+      "type": "last.fm",
+      "url": {
+        "resource": "https://www.last.fm/music/Invisible",
+        "id": "692c516f-327d-483a-9c45-27449fa977aa"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "type": "lyrics",
+      "url": {
+        "id": "cbcf547d-c8c3-4aa6-9dba-e4d113f71a0d",
+        "resource": "https://genius.com/artists/Invisible"
+      },
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no98019819",
+        "id": "2d0828f9-685d-42fa-8df7-bed113904b2a"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "id": "ff4779e4-c4fd-4006-97a8-a9ffc9b5e86c",
+        "resource": "https://rateyourmusic.com/artist/invisible"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/invisible/",
+        "id": "64d71f30-50c4-403b-9f6f-9f9168dd5273"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=2507",
+        "id": "98ce6243-a3e0-48d8-b74e-87768576218f"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "f0be3f6b-7e27-47e3-a112-5ff4f2e22c7f",
+        "resource": "https://www.rock.com.ar/artistas/invisible"
+      },
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-no98019819/",
+        "id": "91579ef2-5e69-4896-a060-d8a794b97d9b"
+      },
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "url": {
+        "resource": "https://itunes.apple.com/us/artist/id24836656",
+        "id": "0c4224b7-acb4-4292-995d-0c269531adc2"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "id": "b125a06d-951d-4292-a274-6d072ac714a6",
+        "resource": "https://www.qobuz.com/us-en/interpreter/invisible/192608"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "c4424cfe-888c-4754-8bf1-8bbb6543f19d",
+        "resource": "https://www.setlist.fm/setlists/invisible-3d6398f.html"
+      },
+      "type": "setlistfm",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "https://music.apple.com/us/artist/24836656",
+        "id": "06ea03f5-9d20-4058-a170-db0612f983b2"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "begin": null,
+      "type": "streaming",
+      "url": {
+        "resource": "https://tidal.com/artist/27943338",
+        "id": "d392a272-048d-453d-a510-a88fc46ac14f"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type": "streaming",
+      "url": {
+        "id": "b125a06d-951d-4292-a274-6d072ac714a6",
+        "resource": "https://www.qobuz.com/us-en/interpreter/invisible/192608"
+      },
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null,
+      "url": {
+        "id": "3c9c8dab-9fbd-43f2-b945-738af020410e",
+        "resource": "http://viaf.org/viaf/150028884"
+      },
+      "type": "VIAF",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "type": "wikidata",
+      "url": {
+        "id": "3d49e72e-4d51-4924-8829-b79855245c89",
+        "resource": "https://www.wikidata.org/wiki/Q11683578"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "youtube music",
+      "url": {
+        "id": "346b48ea-8bbd-4d1d-a769-4aec33a36a3b",
+        "resource": "https://music.youtube.com/channel/UCdJIJ6IQY3pJMwnadQFCgpA"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4"
+    }
+  ],
+  "type": "Group",
+  "ipis": [],
+  "aliases": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "begin-area": {
+    "name": "Buenos Aires",
+    "disambiguation": "",
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "sort-name": "Buenos Aires",
+    "type": null,
+    "type-id": null
+  },
+  "area": {
+    "name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "disambiguation": "",
+    "sort-name": "Argentina",
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "type": null,
+    "type-id": null
+  },
+  "sort-name": "Invisible",
+  "id": "41e360e4-c5e1-405c-96ab-73984e825cbf",
+  "isnis": [
+    "0000000100804808"
+  ],
+  "gender": null,
+  "life-span": {
+    "begin": "1973",
+    "end": "1977",
+    "ended": true
+  },
+  "country": "AR",
+  "end-area": {
+    "type": null,
+    "type-id": null,
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "sort-name": "Buenos Aires",
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "disambiguation": "",
+    "name": "Buenos Aires"
+  },
+  "name": "Invisible"
+}

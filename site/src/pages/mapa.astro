@@ -1,0 +1,117 @@
+---
+import Base from '../layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import { u, COLORES, ESCENAS } from '../lib/util';
+import atlas from '../../../data/atlas.json';
+import geo from '../../../data/geo.json';
+
+const albumes = await getCollection('albumes');
+const fichasPor = new Map<string, number>();
+for (const a of albumes) fichasPor.set(a.data.artista_slug, (fichasPor.get(a.data.artista_slug) ?? 0) + 1);
+
+const puntos = atlas.nodos.artistas
+  .filter((a) => (geo as any)[a.slug])
+  .map((a) => {
+    const g = (geo as any)[a.slug];
+    return {
+      slug: a.slug,
+      nombre: a.nombre,
+      grupo: a.grupo,
+      escena: ESCENAS[a.grupo] ?? (a.grupo === 'npr' ? 'Conceptuales no-prog' : 'Núcleo británico y aledaños'),
+      color: COLORES[a.grupo] ?? '#9AA0A8',
+      lugar: g.lugar,
+      lat: g.lat,
+      lon: g.lon,
+      peso: fichasPor.get(a.slug) ?? 1,
+    };
+  });
+const sinGeo = atlas.nodos.artistas.filter((a) => !(geo as any)[a.slug]).map((a) => a.nombre);
+const escenas = [...new Set(puntos.map((p) => p.escena))];
+---
+<Base titulo="El mapa geográfico">
+  <header class="page"><div class="wrap">
+    <p class="eyebrow">Geografía del género · {puntos.length} artistas geolocalizados</p>
+    <h1>De dónde salió esto</h1>
+    <p class="lede">Lugar de formación de cada banda (o de nacimiento del solista), según Wikidata.
+    El calor pondera por cantidad de fichas en el atlas: el prog fue un fenómeno británico con
+    tres focos continentales — Canterbury como pueblo, Italia y Alemania como respuestas propias.</p>
+  </div></header>
+
+  <section class="block"><div class="wrap">
+    <div class="chips" id="filtros-mapa">
+      {escenas.map((e) => (
+        <button class="chip on" data-escena={e}><i style={`background:${puntos.find((p) => p.escena === e)?.color}`}></i>{e}</button>
+      ))}
+      <label class="chip todas"><input type="checkbox" id="ver-calor" checked /> capa de calor</label>
+    </div>
+    <div id="mapa" data-puntos={JSON.stringify(puntos)} data-base={u('/')}></div>
+    {sinGeo.length > 0 && (
+      <p class="sub" style="margin-top:10px">Sin lugar registrado en Wikidata (fuera del mapa): {sinGeo.join(', ')}.</p>
+    )}
+  </div></section>
+</Base>
+
+<style>
+#mapa{height:72vh;min-height:480px;border:1px solid var(--line);background:var(--panel)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.chip{font-family:ui-monospace,monospace;font-size:11px;letter-spacing:.05em;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:5px 11px;cursor:pointer;opacity:.45}
+.chip.on{opacity:1;border-color:#4a5462}
+.chip i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:var(--dim)}
+.chip.todas{opacity:1;color:var(--dim);display:flex;align-items:center;gap:6px}
+:global(.leaflet-popup-content-wrapper),:global(.leaflet-popup-tip){background:#1B212A;color:#E9E2D0;border:1px solid #2A313C}
+:global(.leaflet-popup-content a){color:#D08C2E}
+:global(.leaflet-container){background:#14181D;font:13px Georgia,serif}
+</style>
+
+<script>
+  import L from 'leaflet';
+  import 'leaflet/dist/leaflet.css';
+  // @ts-ignore — plugin sin tipos
+  import 'leaflet.heat';
+
+  const cont = document.getElementById('mapa')!;
+  const puntos = JSON.parse(cont.dataset.puntos!) as any[];
+  const base = cont.dataset.base!;
+
+  const mapa = L.map(cont, { scrollWheelZoom: true, worldCopyJump: true }).setView([50.5, 4], 5);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; OpenStreetMap · &copy; CARTO',
+    maxZoom: 12,
+  }).addTo(mapa);
+
+  const maxPeso = Math.max(...puntos.map((p) => p.peso));
+  // @ts-ignore
+  const calor = (L as any).heatLayer(
+    puntos.map((p) => [p.lat, p.lon, 0.35 + 0.65 * (p.peso / maxPeso)]),
+    { radius: 34, blur: 26, minOpacity: 0.25 },
+  ).addTo(mapa);
+
+  const marcadores = new Map<string, L.CircleMarker>();
+  for (const p of puntos) {
+    const m = L.circleMarker([p.lat, p.lon], {
+      radius: 5 + 7 * (p.peso / maxPeso),
+      color: p.color, weight: 1.5, fillColor: p.color, fillOpacity: 0.55,
+    }).addTo(mapa);
+    m.bindPopup(
+      `<b>${p.nombre}</b><br>${p.lugar ?? ''} · ${p.escena}<br>` +
+      `${p.peso} ficha${p.peso === 1 ? '' : 's'} · <a href="${base}artista/${p.slug}/">abrir ficha →</a>`,
+    );
+    marcadores.set(p.slug, m);
+  }
+
+  // filtros por escena + toggle de calor
+  const chips = [...document.querySelectorAll<HTMLButtonElement>('#filtros-mapa .chip[data-escena]')];
+  const verCalor = document.getElementById('ver-calor') as HTMLInputElement;
+  function aplicar() {
+    const activas = new Set(chips.filter((c) => c.classList.contains('on')).map((c) => c.dataset.escena));
+    const visibles = puntos.filter((p) => activas.has(p.escena));
+    for (const p of puntos) {
+      const m = marcadores.get(p.slug)!;
+      if (activas.has(p.escena)) m.addTo(mapa); else m.removeFrom(mapa);
+    }
+    calor.setLatLngs(visibles.map((p) => [p.lat, p.lon, 0.35 + 0.65 * (p.peso / maxPeso)]));
+    if (verCalor.checked) calor.addTo(mapa); else calor.removeFrom(mapa);
+  }
+  chips.forEach((c) => c.addEventListener('click', () => { c.classList.toggle('on'); aplicar(); }));
+  verCalor.addEventListener('change', aplicar);
+</script>

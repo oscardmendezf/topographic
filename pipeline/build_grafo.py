@@ -53,14 +53,39 @@ def main() -> None:
     slugs_artistas = set()
 
     nodes, edges = [], []
+    mbid_artista = {}
     for a in atlas["nodos"]["artistas"]:
         slugs_artistas.add(a["slug"])
+        mbid_artista[a["mbid"]] = a["slug"]
         nodes.append({"data": {
             "id": f"a:{a['slug']}",
             "slug": a["slug"],
             "label": a["nombre"],
             "tipo": "artista",
             "grupo": a["grupo"],
+        }})
+
+    # solistas del universo que son miembros (según MB) de otros artistas del
+    # universo: Wyatt->Soft Machine, Hillage->Gong, Hackett->Genesis, etc.
+    solistas = {a["mbid"]: a["slug"] for a in atlas["nodos"]["artistas"] if a["tipo"] == "Person"}
+    vistos_a = set()
+    for m in atlas["aristas"]["member_of"]:
+        pslug = solistas.get(m["person_mbid"])
+        if not pslug or m["artist_slug"] not in slugs_artistas or m["artist_slug"] == pslug:
+            continue
+        clave = (pslug, m["artist_slug"])
+        if clave in vistos_a:
+            continue
+        vistos_a.add(clave)
+        rango = f"{m['desde'] or '¿?'}–{m['hasta'] or ('act.' if m['vigente'] else '¿?')}"
+        edges.append({"data": {
+            "id": f"e:a:{pslug}:{m['artist_slug']}:member_of",
+            "source": f"a:{pslug}",
+            "target": f"a:{m['artist_slug']}",
+            "tipo": "member_of",
+            "relacion": "miembro de",
+            "etiqueta": f"{', '.join(m['roles']) or 'miembro'} ({rango})",
+            "estado": "musicbrainz",
         }})
 
     red_por_mbid = {}

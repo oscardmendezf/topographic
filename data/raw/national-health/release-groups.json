@@ -1,0 +1,107 @@
+{
+  "release-group-count": 9,
+  "release-groups": [
+    {
+      "title": "The Northern Lights - Polar Lights",
+      "first-release-date": "1999",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "057c775a-a23b-4f7b-a539-f060298e4f48",
+      "secondary-type-ids": [],
+      "secondary-types": []
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1982",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "id": "0f889b72-619d-31c0-95dd-1f71493c9fd8",
+      "secondary-types": [],
+      "title": "D.S. al Coda"
+    },
+    {
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "22beb5c8-aee3-4077-9680-9a38df0edc1d",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2023-03-31",
+      "title": "The Roundhouse [unedited]"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2005-09-19",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "4df6f47e-e48b-4662-84fa-3eac64e559d4",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "title": "Dreams Wide Awake"
+    },
+    {
+      "title": "Of Queues and Cures",
+      "secondary-type-ids": [],
+      "id": "65a44b60-b11a-3511-9c01-c7c7ff2c4158",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1978-11",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "title": "Playtime",
+      "secondary-types": [
+        "Live"
+      ],
+      "id": "9b6c83b0-513d-34f6-a23b-61e342848651",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2001-01-16",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "National Health",
+      "secondary-types": [],
+      "id": "dd9fdbb3-ba7c-3e07-8a75-12d71068ead9",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1978-02-14",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "1996",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "de751754-5be2-3f95-ae87-f3aebcd5566b",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Missing Pieces"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "f09fdff0-5658-3f6c-b925-a62e7b106623",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1990",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Complete"
+    }
+  ]
+}

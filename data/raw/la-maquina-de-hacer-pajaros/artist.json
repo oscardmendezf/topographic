@@ -1,0 +1,549 @@
+{
+  "begin-area": {
+    "name": "Buenos Aires",
+    "disambiguation": "",
+    "type-id": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "sort-name": "Buenos Aires",
+    "type": null,
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588"
+  },
+  "aliases": [
+    {
+      "name": "La Máquina de Hacer Pajaros",
+      "ended": false,
+      "primary": null,
+      "locale": null,
+      "sort-name": "La Máquina de Hacer Pajaros",
+      "begin": null,
+      "type": null,
+      "end": null,
+      "type-id": null
+    },
+    {
+      "end": null,
+      "type-id": null,
+      "begin": null,
+      "type": null,
+      "sort-name": "La Máquina de hacer Pajaros",
+      "name": "La Máquina de hacer Pajaros",
+      "ended": false,
+      "primary": null,
+      "locale": null
+    }
+  ],
+  "disambiguation": "Argentinian group",
+  "area": {
+    "disambiguation": "",
+    "name": "Argentina",
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "type": null,
+    "sort-name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "type-id": null
+  },
+  "isnis": [
+    "0000000470457751"
+  ],
+  "id": "e40edab2-bf76-4675-b0d9-a8350b4d2564",
+  "life-span": {
+    "begin": "1976",
+    "end": "1977",
+    "ended": true
+  },
+  "country": "AR",
+  "gender-id": null,
+  "name": "La Máquina de Hacer Pájaros",
+  "relations": [
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "type": "Person",
+        "sort-name": "Bazterrica, Gustavo",
+        "id": "3b2486bd-6458-4dfe-8bbf-2fbc64df1233",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Gustavo Bazterrica"
+      },
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Cutaia, Carlos",
+        "id": "0f1586e3-6c11-476a-a27a-cfd8e56ac147",
+        "country": "AR",
+        "name": "Carlos Cutaia",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "member of band",
+      "begin": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "country": "AR",
+        "name": "José Luis Fernández",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Fernández, José Luis",
+        "type": "Person",
+        "id": "2847ff7e-7021-43b3-b3b3-2bdebc60397b"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "sort-name": "García, Charly",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Charly García",
+        "country": "AR"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Moro, Oscar",
+        "type": "Person",
+        "id": "8d9e7192-63f2-4d6f-b003-655bdd142c40",
+        "country": "AR",
+        "name": "Oscar Moro",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attributes": [],
+      "type": "member of band",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "d9dcc31a-f06e-4079-9ae3-fcd318fce743",
+        "sort-name": "Máquina de Hacer Pájaros (Por Fernández / Moro / Spina / Vega), La",
+        "type": "Group",
+        "name": "La Máquina de Hacer Pájaros (Por Fernández / Moro / Spina / Vega)",
+        "country": "AR",
+        "disambiguation": "Celebration project with one original member"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": null,
+      "type": "tribute",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000779457",
+        "id": "58c701aa-3c17-4082-b49b-ade7c279fed6"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attributes": [],
+      "end": null,
+      "type": "allmusic",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://www.discogs.com/artist/2484198",
+        "id": "5097767f-a5d9-449f-91d5-c7d99376951b"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type": "discogs",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "type": "free streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://open.spotify.com/artist/40c6EALi3nTmNeOAS3Eu5h",
+        "id": "b718ddd3-59a9-4e47-ba39-96369b9ac2a2"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "75899bf0-e805-414a-b151-f8df251d01f7",
+        "resource": "https://www.deezer.com/artist/1213174"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "free streaming"
+    },
+    {
+      "url": {
+        "resource": "https://www.last.fm/music/La+M%C3%A1quina+de+Hacer+P%C3%A1jaros",
+        "id": "ffc6595c-3125-4164-b523-de14d954c6d5"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "last.fm",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "lyrics",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "16fa2f9a-43d6-4a58-9aab-857e91a4b2c5",
+        "resource": "https://genius.com/artists/La-maquina-de-hacer-pajaros"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "resource": "http://rock.com.ar/artistas/la-maquina-de-hacer-pajaros",
+        "id": "a22aebd8-a552-4636-9e25-b77b91b316c0"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "7bec0422-f3bf-432a-97b1-0380da5c471b",
+        "resource": "https://rateyourmusic.com/artist/la_maquina_de_hacer_pajaros"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "end": null,
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=815",
+        "id": "30f93b1b-208e-41d7-82e3-0dccd16c1077"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/La_Maquina_de_Hacer_Pajaros",
+        "id": "a17d6dcf-d6ca-4f1a-a002-b9a1a85ac67f"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "793038c2-fd05-41d7-aa1e-39004baf90d5",
+        "resource": "https://www.whosampled.com/La-Maquina-De-Hacer-Pajaros/"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "purchase for download",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/la-maquina-de-hacer-pajaros/192607",
+        "id": "3d75e65c-b13f-4f35-a035-7f4597eeb957"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "setlistfm",
+      "end": null,
+      "attributes": [],
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "1773d4eb-95c1-4874-b1b7-e0df63c2b151",
+        "resource": "https://www.setlist.fm/setlists/la-maquina-de-hacer-pajaros-3d6cd27.html"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "07283224-c6b2-4f83-a294-a1e27e3e2cb6",
+        "resource": "https://soundcloud.com/lamaquinadehacerpajaros"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "soundcloud"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "5964a806-563c-402c-9bca-bc08634b8a96",
+        "resource": "https://music.apple.com/us/artist/321580349"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "streaming",
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://tidal.com/artist/7079275",
+        "id": "c3d9cf8e-551b-4e5a-b8cd-977b349e1d54"
+      },
+      "ended": false,
+      "type": "streaming",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "3d75e65c-b13f-4f35-a035-7f4597eeb957",
+        "resource": "https://www.qobuz.com/us-en/interpreter/la-maquina-de-hacer-pajaros/192607"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "a9a56155-284e-4d4b-82bf-de0d0925d06b",
+        "resource": "https://www.wikidata.org/wiki/Q6464071"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "wikidata"
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "aa4e9c9e-6210-4a6a-a81d-a55ee1a90ffc",
+        "resource": "https://music.youtube.com/channel/UCUA4lCdpzOLqtBPpC9NCHQA"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "youtube music",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4"
+    }
+  ],
+  "gender": null,
+  "ipis": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "end-area": null,
+  "type": "Group",
+  "sort-name": "Máquina de Hacer Pájaros, La"
+}

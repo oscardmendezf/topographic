@@ -1,0 +1,1778 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "end-area": null,
+  "type": "Group",
+  "sort-name": "Kansas",
+  "country": "US",
+  "gender-id": null,
+  "name": "Kansas",
+  "relations": [
+    {
+      "ended": true,
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "artist": {
+        "id": "31bf9535-94be-40dc-bae6-4a8f5c7aab17",
+        "sort-name": "Walsh, Steve",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "original lead singer of Kansas",
+        "name": "Steve Walsh",
+        "country": "US"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1981",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard",
+        "lead vocals",
+        "original",
+        "percussion",
+        "synthesizer"
+      ],
+      "begin": "1973",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "begin": "1973",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "background vocals",
+        "electric bass guitar",
+        "original"
+      ],
+      "attribute-credits": {},
+      "end": "1983",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "id": "0acda0f2-09ab-49fc-b1c8-ad8e534134be",
+        "type": "Person",
+        "sort-name": "Hope, Dave",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Dave Hope",
+        "country": "US"
+      },
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "keyboard",
+        "original",
+        "synthesizer"
+      ],
+      "end": "1983",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1973",
+      "type": "member of band",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ff399892-1aab-44e8-8905-bf8721ce0866",
+        "sort-name": "Livgren, Kerry",
+        "type": "Person",
+        "name": "Kerry Livgren",
+        "country": "US",
+        "disambiguation": ""
+      }
+    },
+    {
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "artist": {
+        "disambiguation": "",
+        "country": "US",
+        "name": "Robby Steinhardt",
+        "type": "Person",
+        "sort-name": "Steinhardt, Robby",
+        "id": "7248732b-52b1-4861-89a1-d19cfb4cd76b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "original",
+        "violin"
+      ],
+      "end": "1983",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1973",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "artist": {
+        "country": "US",
+        "name": "Phil Ehart",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Ehart, Phil",
+        "id": "d8a1c36b-e514-45a2-96cb-48c287b197f0"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "ended": true,
+      "begin": "1973",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)",
+        "original",
+        "percussion"
+      ],
+      "end": "1984",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "country": "US",
+        "name": "Richard Williams",
+        "disambiguation": "guitarist of Kansas",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Williams, Richard",
+        "type": "Person",
+        "id": "2256f694-db0b-40af-91f5-569aa04b584c"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1984",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "type": "member of band",
+      "begin": "1973",
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "name": "John Elefante",
+        "country": "US",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "735bca61-a50c-4ee2-8c02-303d4f2d929c",
+        "type": "Person",
+        "sort-name": "Elefante, John"
+      },
+      "ended": true,
+      "end": "1984",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard",
+        "lead vocals"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1982-01",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "end": "1989",
+      "attributes": [
+        "background vocals",
+        "guitar"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1985",
+      "type": "member of band",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "id": "6f0d1ab4-a0b8-4d59-acda-5fe3b63058f0",
+        "type": "Person",
+        "sort-name": "Morse, Steve",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "American guitarist",
+        "name": "Steve Morse",
+        "country": "US"
+      },
+      "ended": true
+    },
+    {
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "type": "Person",
+        "sort-name": "Walsh, Steve",
+        "id": "31bf9535-94be-40dc-bae6-4a8f5c7aab17",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "original lead singer of Kansas",
+        "country": "US",
+        "name": "Steve Walsh"
+      },
+      "ended": true,
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard",
+        "lead vocals",
+        "percussion",
+        "synthesizer"
+      ],
+      "end": "2014-08-16",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1985",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "drums (drum set)",
+        "percussion"
+      ],
+      "begin": "1985",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "artist": {
+        "disambiguation": "",
+        "country": "US",
+        "name": "Phil Ehart",
+        "sort-name": "Ehart, Phil",
+        "type": "Person",
+        "id": "d8a1c36b-e514-45a2-96cb-48c287b197f0",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "electric bass guitar",
+        "lead vocals"
+      ],
+      "type": "member of band",
+      "begin": "1985",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Greer, Billy",
+        "id": "558942b0-28bf-4c1b-be3c-bd33382c2e7b",
+        "country": "US",
+        "name": "Billy Greer",
+        "disambiguation": ""
+      }
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1985",
+      "type": "member of band",
+      "end": null,
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Williams, Richard",
+        "id": "2256f694-db0b-40af-91f5-569aa04b584c",
+        "country": "US",
+        "name": "Richard Williams",
+        "disambiguation": "guitarist of Kansas"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "ended": false
+    },
+    {
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Hope, Dave",
+        "id": "0acda0f2-09ab-49fc-b1c8-ad8e534134be",
+        "country": "US",
+        "name": "Dave Hope",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "electric bass guitar"
+      ],
+      "end": "1990",
+      "begin": "1990",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "artist": {
+        "id": "ff399892-1aab-44e8-8905-bf8721ce0866",
+        "sort-name": "Livgren, Kerry",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Kerry Livgren",
+        "country": "US"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": "1991",
+      "attributes": [
+        "guitar",
+        "keyboard",
+        "synthesizer"
+      ],
+      "begin": "1990",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1990",
+      "attribute-credits": {},
+      "end": "1997",
+      "attributes": [
+        "background vocals",
+        "keyboard"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "name": "Greg Robert",
+        "country": "US",
+        "id": "da0d2805-fb5f-406e-96a4-94476f757c57",
+        "type": "Person",
+        "sort-name": "Robert, Greg",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      }
+    },
+    {
+      "ended": true,
+      "artist": {
+        "id": "6f0d1ab4-a0b8-4d59-acda-5fe3b63058f0",
+        "sort-name": "Morse, Steve",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "American guitarist",
+        "name": "Steve Morse",
+        "country": "US"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "begin": "1991",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "guitar"
+      ],
+      "end": "1991"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": "1997",
+      "attributes": [
+        "background vocals",
+        "guitar",
+        "violin"
+      ],
+      "begin": "1991",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": true,
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "name": "David Ragsdale",
+        "country": "US",
+        "disambiguation": "violinist for Kansas",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7073be95-820a-4a76-86f5-db52cd1d9308",
+        "type": "Person",
+        "sort-name": "Ragsdale, David"
+      }
+    },
+    {
+      "artist": {
+        "country": "US",
+        "name": "Robby Steinhardt",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Steinhardt, Robby",
+        "type": "Person",
+        "id": "7248732b-52b1-4861-89a1-d19cfb4cd76b"
+      },
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "ended": true,
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1997",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "violin"
+      ],
+      "end": "2006",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "id": "ff399892-1aab-44e8-8905-bf8721ce0866",
+        "sort-name": "Livgren, Kerry",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Kerry Livgren",
+        "country": "US"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "end": "2000",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "keyboard",
+        "synthesizer"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1999"
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2000",
+      "attribute-credits": {},
+      "end": "2000",
+      "attributes": [
+        "background vocals",
+        "electric bass guitar"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "name": "Dave Hope",
+        "country": "US",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "0acda0f2-09ab-49fc-b1c8-ad8e534134be",
+        "type": "Person",
+        "sort-name": "Hope, Dave"
+      },
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "ended": true
+    },
+    {
+      "begin": "2006",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "guitar",
+        "violin"
+      ],
+      "end": "2023-05-22",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "violinist for Kansas",
+        "name": "David Ragsdale",
+        "country": "US",
+        "id": "7073be95-820a-4a76-86f5-db52cd1d9308",
+        "sort-name": "Ragsdale, David",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2014",
+      "end": "2018-12-18",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "keyboard"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "country": "US",
+        "name": "David Manion",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Manion, David",
+        "type": "Person",
+        "id": "2e022b68-184c-41e9-81c7-db50cfb058e5"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard",
+        "lead vocals"
+      ],
+      "end": null,
+      "type": "member of band",
+      "begin": "2014",
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "name": "Ronnie Platt",
+        "country": "US",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5d039a23-8e4c-4f13-8ca2-933ec657a41e",
+        "sort-name": "Platt, Ronnie",
+        "type": "Person"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Rizvi, Zak",
+        "type": "Person",
+        "id": "00119b04-e793-419a-8534-4fb768fc5642",
+        "country": "US",
+        "name": "Zak Rizvi",
+        "disambiguation": "guitarist & engineer"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null,
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "begin": "2016",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "2018-12-19",
+      "type": "member of band",
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "keyboard"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "id": "9d8005c9-1fb2-4fa4-8c82-1e3c77f296fe",
+        "sort-name": "Brislin, Tom",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Tom Brislin",
+        "country": "US"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type": "member of band",
+      "begin": "2023-05-23",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "violin"
+      ],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Joe Deninzon",
+        "country": null,
+        "id": "a2b3f186-46c8-4420-8214-5537ba063920",
+        "type": "Person",
+        "sort-name": "Deninzon, Joe",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      }
+    },
+    {
+      "ended": false,
+      "artist": {
+        "country": null,
+        "name": "Joe Deninzon",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Deninzon, Joe",
+        "type": "Person",
+        "id": "a2b3f186-46c8-4420-8214-5537ba063920"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "begin": "2023-05-23",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "end": null
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "2025-08-20",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "8cdb62f9-eed9-4e5f-9908-2be3faf2f23e",
+        "sort-name": "Bernard, Scott",
+        "type": "Person",
+        "name": "Scott Bernard",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "attribute-values": {},
+      "end": "1973",
+      "attributes": [],
+      "begin": "1969",
+      "type": "subgroup",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "87b50bf4-1d4d-4ed8-b2af-0e10a7c81ada",
+        "sort-name": "White Clover",
+        "type": "Group",
+        "name": "White Clover",
+        "country": null,
+        "disambiguation": "early name for prog rock band Kansas"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "681737f6-c51a-4b6d-85e9-d697beb82b93",
+        "type": "Group",
+        "sort-name": "Know Return",
+        "name": "Know Return",
+        "country": null,
+        "disambiguation": "Kansas tribute"
+      },
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "tribute",
+      "begin": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "artist": {
+        "id": "bd9d8e7a-6fc2-4595-8491-e04cd990a698",
+        "type": "Group",
+        "sort-name": "Xpedition",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "U.S. “arena rock” tribute band",
+        "name": "Xpedition",
+        "country": "US"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": null,
+      "type": "tribute",
+      "end": null,
+      "attributes": [],
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "e8949026-feff-4e74-8207-e07556c4818a",
+        "resource": "https://www.allmusic.com/artist/mn0000303626"
+      },
+      "ended": false,
+      "type": "allmusic",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://kansasband.bandcamp.com/",
+        "id": "ef44b783-25fb-46ea-9937-a623946a9748"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "bandcamp",
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "attributes": [],
+      "end": null,
+      "type": "bandsintown",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.bandsintown.com/a/1466",
+        "id": "77871022-7e9f-4fd8-a2a2-e19f874a4e06"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "discography page",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.babyblaue-seiten.de/band_762.html",
+        "id": "40e837dc-eb9d-4b9c-ab15-50da23874c67"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "e345aec7-ef00-42f1-9b93-3c96da771cf0",
+        "resource": "https://www.discogs.com/artist/254408"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "discogs",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1",
+        "id": "b4a4601d-97bd-4147-afd5-40d5925edd5a"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "free streaming",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "eac1cb9d-0b1f-4874-a8ef-7ec4e38cc8dc",
+        "resource": "https://www.deezer.com/artist/1385"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "free streaming",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "image",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "79b80200-315f-4267-b8f8-40493005dd53",
+        "resource": "https://commons.wikimedia.org/wiki/File:Kansas_1976.JPG"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.imdb.com/name/nm1097675/",
+        "id": "1bf5196f-952f-4979-9b35-91dfaea0b9cd"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "IMDb",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "ea9fa9ee-265c-4929-b9e8-0dbbe9e6ab93",
+        "resource": "https://www.last.fm/music/Kansas"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type": "last.fm",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "lyrics",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "38a07979-52f4-4f86-b0d9-e80685a4de63",
+        "resource": "https://genius.com/artists/Kansas"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "lyrics",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "ad49d261-b29d-4beb-ab42-3c2fac7600b5",
+        "resource": "https://muzikum.eu/en/kansas/lyrics"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://myspace.com/kansas",
+        "id": "e728b5dc-0168-4582-821e-05bfa072a2c5"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "type": "myspace",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "id": "c515e6a7-f1ad-4ab9-8ea6-b63df17bd933",
+        "resource": "https://kansasband.com/"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "official homepage",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n92044654",
+        "id": "dd6b6030-5043-4842-a12e-f13455dfad53"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "dc651a85-cb70-4824-a7d5-876788cf8114",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13934270f"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "f2c5e04e-6fac-4420-8731-3c5b1a44b9b5",
+        "resource": "https://d-nb.info/gnd/5560660-X"
+      },
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/kansas",
+        "id": "ba6baace-5d78-47a5-99a7-205a1458f032"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "aa992b7e-6dca-4fd1-bcc3-e8b7b68d7887",
+        "resource": "https://www.45cat.com/artist/kansas"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "d83939b4-a7bb-4152-97fb-0b8835628914",
+        "resource": "https://www.musik-sammler.de/artist/kansas/"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "9d198f35-2598-44b9-8b99-3f9acbcd6f79",
+        "resource": "https://www.progarchives.com/artist.asp?id=630"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "14949907-71eb-4209-a810-5c8d831f3800",
+        "resource": "https://www.spirit-of-metal.com/en/band/Kansas"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Kansas",
+        "id": "8bde8da0-b687-4005-901c-b8d1993c2622"
+      },
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.whosampled.com/Kansas/",
+        "id": "17739cd2-b11c-470a-aacf-604ad3b2726b"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "48d283de-ef9f-4083-aeea-d4055978d5ef",
+        "resource": "https://www.worldcat.org/identities/lccn-n92044654"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "ended": true,
+      "url": {
+        "id": "44ba9113-7bcc-4afd-a61e-57820bf85720",
+        "resource": "https://itunes.apple.com/us/artist/id460828"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "end": "2019-05-19",
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "purchase for download"
+    },
+    {
+      "begin": null,
+      "type": "purchase for download",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "end": "2020-10-12",
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "85406258-afb3-4007-8dbc-2a3e62d93c05",
+        "resource": "https://play.google.com/store/music/artist?id=Axc7j7iv7ox2pur3cdnif66yqeu"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "url": {
+        "id": "09c08295-3688-4c5c-b253-405aee3b03fa",
+        "resource": "https://music.apple.com/us/artist/460828"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "purchase for download",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://open.qobuz.com/artist/148597",
+        "id": "9b62f64e-2e16-44d8-b0fc-36362d624143"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "type": "purchase for download",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "a3234948-26f2-4c6c-9f99-1dfc55b34efd",
+        "resource": "https://www.qobuz.com/us-en/interpreter/kansas/148597"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attributes": [],
+      "type": "purchase for download",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "secondhandsongs",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/2254",
+        "id": "24203349-d3e6-4027-ac34-ac07c0422c70"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/kansas-bd6b5ea.html",
+        "id": "6dd52e58-733b-4189-a25c-68966bbe0cf2"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "setlistfm",
+      "end": null,
+      "attributes": [],
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "end": null,
+      "attributes": [],
+      "type": "social network",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "0e3fdfe9-3159-443b-bec5-e909044c73bb",
+        "resource": "https://twitter.com/kansasband"
+      }
+    },
+    {
+      "url": {
+        "id": "3500ddf0-753d-4d71-950e-379ea985d735",
+        "resource": "https://www.facebook.com/KansasBand"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "social network",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "015341cc-219e-417e-a505-e9c270ffb71c",
+        "resource": "https://www.instagram.com/kansasband/"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "social network",
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "0dbfc967-d0ec-42fa-9f7a-0b8667259783",
+        "resource": "https://www.songkick.com/artists/336136"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "songkick"
+    },
+    {
+      "url": {
+        "id": "24b09ec1-5756-400d-adaa-43fa420bdf3d",
+        "resource": "https://music.apple.com/gb/artist/460828"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "streaming",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "streaming",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "resource": "https://music.apple.com/us/artist/460828",
+        "id": "09c08295-3688-4c5c-b253-405aee3b03fa"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.qobuz.com/artist/148597",
+        "id": "9b62f64e-2e16-44d8-b0fc-36362d624143"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://tidal.com/artist/862",
+        "id": "688e94a9-8f67-498b-9629-10aea2657b19"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "streaming",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "id": "a3234948-26f2-4c6c-9f99-1dfc55b34efd",
+        "resource": "https://www.qobuz.com/us-en/interpreter/kansas/148597"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "type": "VIAF",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/264201465",
+        "id": "b73b3741-adba-43cd-8cd8-1547d5d9a462"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q204328",
+        "id": "2e1b75dd-ee61-48ed-95e0-9a3ea514ceb9"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "wikidata",
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "youtube",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "7f3aaa47-5d8a-4221-8c1b-5e516624e238",
+        "resource": "https://www.youtube.com/user/kansasVEVO"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "youtube music",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://music.youtube.com/channel/UC5dHcAkq1ju2Obuj17eRBOA",
+        "id": "9cc1da69-d92a-4f7a-9d37-3980828153c1"
+      },
+      "attribute-ids": {}
+    }
+  ],
+  "gender": null,
+  "ipis": [],
+  "area": {
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "sort-name": "United States",
+    "type": null,
+    "name": "United States",
+    "disambiguation": ""
+  },
+  "isnis": [
+    "0000000123750910"
+  ],
+  "id": "69689acf-d9cd-4d20-a972-47db4ed51b1a",
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1973"
+  },
+  "begin-area": {
+    "name": "Topeka",
+    "type-id": null,
+    "id": "7bc72649-a3de-4772-8792-e77cb52d2f95",
+    "sort-name": "Topeka",
+    "type": null,
+    "disambiguation": ""
+  },
+  "aliases": [],
+  "disambiguation": "US prog rock band"
+}

@@ -1,0 +1,56 @@
+{
+  "artistas": [
+    {
+      "slug": "gong",
+      "ficha": "Daevid Allen, fundador expulsado de Soft Machine por un visado vencido, montó en Francia la mitología del planeta Gong. La trilogía Radio Gnome —Flying Teapot, Angel's Egg y You— es psicodelia de duendes sostenida por músicos temibles. Tras la salida de Allen, la banda derivó al fusion de Pierre Moerlen. Fueron parte del primer catálogo de Virgin junto a Oldfield: la red de Canterbury operando otra vez.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "gong-flying-teapot-radio-gnome-invisible-part-1",
+          "analisis": "Arranque de la trilogía Radio Gnome: la mitología del planeta Gong puesta en marcha, entre el chiste cósmico y una banda que toca en serio. Psicodelia de duendes con oficio debajo del disfraz.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado; el manifiesto fundacional de la mitología Gong.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "Visibilidad de sello nuevo (Virgin), pero público esencialmente de culto.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "gong-angels-egg-radio-gnome-invisible-part-2",
+          "analisis": "Segunda entrega de Radio Gnome y la más equilibrada entre delirio y músculo: los músicos temibles —guitarra, saxo, batería— cargan con la fantasía de Allen sin dejarla caer en la broma pura.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado; para muchos el punto justo de la trilogía.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "Circulación de culto dentro del catálogo temprano de Virgin.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "gong-you-radio-gnome-invisible-part-3",
+          "analisis": "Cierre de la trilogía y su cima instrumental: los pasajes largos de trance espacial pesan más que la narrativa de duendes. El disco de Gong que más se cita fuera del círculo de fieles.",
+          "estrellas_critica": 5,
+          "critica_nota": "Cima de la trilogía; clásico reconocido del space-rock.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "Su disco más difundido, siempre dentro de una escala de culto.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "gong-shamal",
+          "analisis": "Primer disco tras la salida de Allen: la mitología se apaga y el grupo deriva hacia el fusion que terminaría de definir Pierre Moerlen. Transición pulcra, con menos personaje y más ejecución.",
+          "estrellas_critica": 3,
+          "critica_nota": "Recepción mixta; transición correcta que pierde la identidad de Allen.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Alcance de culto, ya sin el tirón de la etapa mitológica.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "gong-gazeuse",
+          "analisis": "El fusion de Pierre Moerlen ya sin restos del planeta Gong: percusiones al frente y virtuosismo instrumental como razón de ser. Otro grupo bajo el mismo nombre, y asumido como tal.",
+          "estrellas_critica": 3,
+          "critica_nota": "Apreciado en clave fusion; ajeno al canon psicodélico del grupo.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Público de nicho jazz-rock, sin proyección comercial apreciable.",
+          "charts_texto": null
+        }
+      ]
+    }
+  ]
+}

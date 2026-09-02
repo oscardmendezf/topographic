@@ -263,6 +263,357 @@
   },
   {
    "data": {
+    "id": "a:robert-wyatt",
+    "slug": "robert-wyatt",
+    "label": "Robert Wyatt",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:matching-mole",
+    "slug": "matching-mole",
+    "label": "Matching Mole",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:hatfield",
+    "slug": "hatfield",
+    "label": "Hatfield and the North",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:national-health",
+    "slug": "national-health",
+    "label": "National Health",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:gong",
+    "slug": "gong",
+    "label": "Gong",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:egg",
+    "slug": "egg",
+    "label": "Egg",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:steve-hillage",
+    "slug": "steve-hillage",
+    "label": "Steve Hillage",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:kevin-ayers",
+    "slug": "kevin-ayers",
+    "label": "Kevin Ayers",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:pfm",
+    "slug": "pfm",
+    "label": "Premiata Forneria Marconi",
+    "tipo": "artista",
+    "grupo": "italia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:banco",
+    "slug": "banco",
+    "label": "Banco del Mutuo Soccorso",
+    "tipo": "artista",
+    "grupo": "italia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:le-orme",
+    "slug": "le-orme",
+    "label": "Le Orme",
+    "tipo": "artista",
+    "grupo": "italia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:area",
+    "slug": "area",
+    "label": "Area",
+    "tipo": "artista",
+    "grupo": "italia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:museo-rosenbach",
+    "slug": "museo-rosenbach",
+    "label": "Museo Rosenbach",
+    "tipo": "artista",
+    "grupo": "italia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:il-balletto-di-bronzo",
+    "slug": "il-balletto-di-bronzo",
+    "label": "Il Balletto di Bronzo",
+    "tipo": "artista",
+    "grupo": "italia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:osanna",
+    "slug": "osanna",
+    "label": "Osanna",
+    "tipo": "artista",
+    "grupo": "italia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:new-trolls",
+    "slug": "new-trolls",
+    "label": "New Trolls",
+    "tipo": "artista",
+    "grupo": "italia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:can",
+    "slug": "can",
+    "label": "Can",
+    "tipo": "artista",
+    "grupo": "alemania"
+   }
+  },
+  {
+   "data": {
+    "id": "a:tangerine-dream",
+    "slug": "tangerine-dream",
+    "label": "Tangerine Dream",
+    "tipo": "artista",
+    "grupo": "alemania"
+   }
+  },
+  {
+   "data": {
+    "id": "a:klaus-schulze",
+    "slug": "klaus-schulze",
+    "label": "Klaus Schulze",
+    "tipo": "artista",
+    "grupo": "alemania"
+   }
+  },
+  {
+   "data": {
+    "id": "a:faust",
+    "slug": "faust",
+    "label": "Faust",
+    "tipo": "artista",
+    "grupo": "alemania"
+   }
+  },
+  {
+   "data": {
+    "id": "a:neu",
+    "slug": "neu",
+    "label": "Neu!",
+    "tipo": "artista",
+    "grupo": "alemania"
+   }
+  },
+  {
+   "data": {
+    "id": "a:amon-duul-ii",
+    "slug": "amon-duul-ii",
+    "label": "Amon Düül II",
+    "tipo": "artista",
+    "grupo": "alemania"
+   }
+  },
+  {
+   "data": {
+    "id": "a:kraftwerk",
+    "slug": "kraftwerk",
+    "label": "Kraftwerk",
+    "tipo": "artista",
+    "grupo": "alemania"
+   }
+  },
+  {
+   "data": {
+    "id": "a:kansas",
+    "slug": "kansas",
+    "label": "Kansas",
+    "tipo": "artista",
+    "grupo": "eeuu"
+   }
+  },
+  {
+   "data": {
+    "id": "a:styx",
+    "slug": "styx",
+    "label": "Styx",
+    "tipo": "artista",
+    "grupo": "eeuu"
+   }
+  },
+  {
+   "data": {
+    "id": "a:utopia",
+    "slug": "utopia",
+    "label": "Utopia",
+    "tipo": "artista",
+    "grupo": "eeuu"
+   }
+  },
+  {
+   "data": {
+    "id": "a:happy-the-man",
+    "slug": "happy-the-man",
+    "label": "Happy the Man",
+    "tipo": "artista",
+    "grupo": "eeuu"
+   }
+  },
+  {
+   "data": {
+    "id": "a:dixie-dregs",
+    "slug": "dixie-dregs",
+    "label": "Dixie Dregs",
+    "tipo": "artista",
+    "grupo": "eeuu"
+   }
+  },
+  {
+   "data": {
+    "id": "a:frank-zappa",
+    "slug": "frank-zappa",
+    "label": "Frank Zappa",
+    "tipo": "artista",
+    "grupo": "eeuu"
+   }
+  },
+  {
+   "data": {
+    "id": "a:mothers-of-invention",
+    "slug": "mothers-of-invention",
+    "label": "The Mothers of Invention",
+    "tipo": "artista",
+    "grupo": "eeuu"
+   }
+  },
+  {
+   "data": {
+    "id": "a:crucis",
+    "slug": "crucis",
+    "label": "Crucis",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:invisible",
+    "slug": "invisible",
+    "label": "Invisible",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:la-maquina-de-hacer-pajaros",
+    "slug": "la-maquina-de-hacer-pajaros",
+    "label": "La Máquina de Hacer Pájaros",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:mia",
+    "slug": "mia",
+    "label": "M.I.A.",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:espiritu",
+    "slug": "espiritu",
+    "label": "Espíritu",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:los-jaivas",
+    "slug": "los-jaivas",
+    "label": "Los Jaivas",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:congreso",
+    "slug": "congreso",
+    "label": "Congreso",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:os-mutantes",
+    "slug": "os-mutantes",
+    "label": "Os Mutantes",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:o-terco",
+    "slug": "o-terco",
+    "label": "O Terço",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
     "id": "r:advision-trident-abbey-road-the-manor",
     "slug": "advision-trident-abbey-road-the-manor",
     "label": "Advision · Trident · Abbey Road · The Manor",
@@ -445,6 +796,94 @@
  "edges": [
   {
    "data": {
+    "id": "e:a:ap:gen:member_of",
+    "source": "a:ap",
+    "target": "a:gen",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "guitar, original (1967–1970-07-18)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:sh:gen:member_of",
+    "source": "a:sh",
+    "target": "a:gen",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "guitar (1970-12–1977-10-08)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:kevin-ayers:sm:member_of",
+    "source": "a:kevin-ayers",
+    "target": "a:sm",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "original (1966–1968-11)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:robert-wyatt:sm:member_of",
+    "source": "a:robert-wyatt",
+    "target": "a:sm",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "original (1966–1971-08)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:robert-wyatt:matching-mole:member_of",
+    "source": "a:robert-wyatt",
+    "target": "a:matching-mole",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1971-10–1972-09)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:steve-hillage:gong:member_of",
+    "source": "a:steve-hillage",
+    "target": "a:gong",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "lead vocals (1973–1975)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:klaus-schulze:tangerine-dream:member_of",
+    "source": "a:klaus-schulze",
+    "target": "a:tangerine-dream",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1969–1970)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:frank-zappa:mothers-of-invention:member_of",
+    "source": "a:frank-zappa",
+    "target": "a:mothers-of-invention",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "guitar, lead vocals, original, spoken vocals (1964–1975)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
     "id": "e:greg-lake:kc:member_of",
     "source": "r:greg-lake",
     "target": "a:kc",
@@ -550,6 +989,83 @@
     "tipo": "member_of",
     "relacion": "miembro de",
     "etiqueta": "acoustic guitar, bass, eponymous, flute, keyboard, lead vocals, original, vocoder (¿?–act.)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:richard-sinclair:hatfield:member_of",
+    "source": "r:richard-sinclair",
+    "target": "a:hatfield",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1972-10–1975-06)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:dave-stewart:hatfield:member_of",
+    "source": "r:dave-stewart",
+    "target": "a:hatfield",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1973-01–1975-06)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:dave-stewart:national-health:member_of",
+    "source": "r:dave-stewart",
+    "target": "a:national-health",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1975-07–1978-10)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:bill-bruford:national-health:member_of",
+    "source": "r:bill-bruford",
+    "target": "a:national-health",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1975-10–1976-12)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:bill-bruford:gong:member_of",
+    "source": "r:bill-bruford",
+    "target": "a:gong",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1974-11–1974-12)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:dave-stewart:gong:member_of",
+    "source": "r:dave-stewart",
+    "target": "a:gong",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "keyboard (1975–1975)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:dave-stewart:egg:member_of",
+    "source": "r:dave-stewart",
+    "target": "a:egg",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (¿?–act.)",
     "estado": "musicbrainz"
    }
   },
@@ -935,6 +1451,83 @@
     "tipo": "guested_on",
     "relacion": "invitado de",
     "etiqueta": "John, flauta en God If I Saw Her Now",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:virgin-records:gong:signed_to:35",
+    "source": "r:virgin-records",
+    "target": "a:gong",
+    "tipo": "signed_to",
+    "relacion": "fichó a",
+    "etiqueta": "primer catálogo del sello, junto a Oldfield",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:virgin-records:faust:signed_to:36",
+    "source": "r:virgin-records",
+    "target": "a:faust",
+    "tipo": "signed_to",
+    "relacion": "fichó a",
+    "etiqueta": "The Faust Tapes a 49 peniques como caballo de Troya",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:virgin-records:tangerine-dream:signed_to:37",
+    "source": "r:virgin-records",
+    "target": "a:tangerine-dream",
+    "tipo": "signed_to",
+    "relacion": "fichó a",
+    "etiqueta": "Phaedra y Rubycon en Virgin",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:manticore:pfm:signed_to:38",
+    "source": "r:manticore",
+    "target": "a:pfm",
+    "tipo": "signed_to",
+    "relacion": "fichó a",
+    "etiqueta": "la exportación del prog italiano al mundo anglo",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:manticore:banco:signed_to:39",
+    "source": "r:manticore",
+    "target": "a:banco",
+    "tipo": "signed_to",
+    "relacion": "fichó a",
+    "etiqueta": "Banco (1975) para el mercado anglo",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:peter-sinfield:pfm:wrote_lyrics:40",
+    "source": "r:peter-sinfield",
+    "target": "a:pfm",
+    "tipo": "wrote_lyrics",
+    "relacion": "letras para",
+    "etiqueta": "letras inglesas para los discos en Manticore",
+    "estado": "prototipo"
+   }
+  },
+  {
+   "data": {
+    "id": "e:david-bedford:kevin-ayers:arranged:41",
+    "source": "r:david-bedford",
+    "target": "a:kevin-ayers",
+    "tipo": "arranged",
+    "relacion": "arregló para",
+    "etiqueta": "arreglador de The Whole World",
     "estado": "prototipo"
    }
   }

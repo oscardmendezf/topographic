@@ -1,0 +1,2487 @@
+{
+ "grupos": [
+  {
+   "id": "wyatt",
+   "ficha_prototipo": "Robert Wyatt",
+   "escena": "Canterbury profundo",
+   "texto_fuente": "Tras la caída que lo dejó parapléjico en 1973: Rock Bottom (74), obra mayor fuera de todo género, producida por Nick Mason —la red— y hecha de duelo, amor y humor en partes iguales. Ruth Is Stranger Than Richard (75), y su single de «I'm a Believer» en el top 30 británico como broma seria. Después, a su ritmo: Old Rottenhat (85), Dondestan (91), Shleep (97), Cuckooland (2003), Comicopera (2007) y retiro anunciado sin drama. Antes, Matching Mole (72) y su Little Red Record (72) como puente desde Soft Machine.",
+   "artistas": [
+    {
+     "slug": "robert-wyatt",
+     "catalogo": [
+      {
+       "album_slug": "robert-wyatt-the-end-of-an-ear",
+       "titulo": "The End of an Ear",
+       "anio": 1970,
+       "mbid": "819920d1-d513-3138-ad7e-18e16a224c79"
+      },
+      {
+       "album_slug": "robert-wyatt-rock-bottom",
+       "titulo": "Rock Bottom",
+       "anio": 1974,
+       "mbid": "94a36264-ab82-34b7-ae9d-2320803c4516"
+      },
+      {
+       "album_slug": "robert-wyatt-ruth-is-stranger-than-richard",
+       "titulo": "Ruth Is Stranger Than Richard",
+       "anio": 1975,
+       "mbid": "5ef4a8d5-9f83-3bad-9eae-5990421246bb"
+      },
+      {
+       "album_slug": "robert-wyatt-old-rottenhat",
+       "titulo": "Old Rottenhat",
+       "anio": 1985,
+       "mbid": "d23cdf58-df5f-3b92-a7d0-7583d1cbb76c"
+      },
+      {
+       "album_slug": "robert-wyatt-dondestan",
+       "titulo": "Dondestan",
+       "anio": 1991,
+       "mbid": "8d8f97cc-4843-3322-96d0-df37a76dfa6b"
+      },
+      {
+       "album_slug": "robert-wyatt-millennium-a-civilised-word",
+       "titulo": "Millennium: A Civilised Word",
+       "anio": 1995,
+       "mbid": "5aedd46a-989e-31cf-976e-26669a07c09d"
+      },
+      {
+       "album_slug": "robert-wyatt-the-garden-of-love",
+       "titulo": "The Garden of Love",
+       "anio": 1997,
+       "mbid": "d0896cb3-8769-4df7-b23c-d1f24b184c15"
+      },
+      {
+       "album_slug": "robert-wyatt-shleep",
+       "titulo": "Shleep",
+       "anio": 1997,
+       "mbid": "aa501697-af7b-34c2-9276-03118977f9fe"
+      },
+      {
+       "album_slug": "robert-wyatt-mw3",
+       "titulo": "MW3",
+       "anio": 2000,
+       "mbid": "c5826877-8616-4c21-a7a2-81d79bf7a667"
+      },
+      {
+       "album_slug": "robert-wyatt-m4w",
+       "titulo": "M4W",
+       "anio": 2003,
+       "mbid": "4748274a-ab9a-42cc-8c06-e980c6f5719b"
+      },
+      {
+       "album_slug": "robert-wyatt-solar-flares-burn-for-you",
+       "titulo": "Solar Flares Burn for You",
+       "anio": 2003,
+       "mbid": "aa3ab65a-fac0-3594-bd6b-750e1367be03"
+      },
+      {
+       "album_slug": "robert-wyatt-cuckooland",
+       "titulo": "Cuckooland",
+       "anio": 2003,
+       "mbid": "14a2207a-c7a4-32e9-abbc-279be91bc698"
+      },
+      {
+       "album_slug": "robert-wyatt-musik-rearranging-the-20th-century",
+       "titulo": "musiK / Re‐Arranging the 20th Century",
+       "anio": 2004,
+       "mbid": "4fe85c47-cf46-4043-aec4-ef0551192ce5"
+      },
+      {
+       "album_slug": "robert-wyatt-comicopera",
+       "titulo": "Comicopera",
+       "anio": 2007,
+       "mbid": "7f98ef36-84c9-3e12-bb93-33197e5637af"
+      },
+      {
+       "album_slug": "robert-wyatt-clear-frame",
+       "titulo": "Clear Frame",
+       "anio": 2008,
+       "mbid": "b7dae0c2-0a4a-3e78-a2ea-e40b99cfa762"
+      },
+      {
+       "album_slug": "robert-wyatt-for-the-ghosts-within",
+       "titulo": "For the Ghosts Within",
+       "anio": 2010,
+       "mbid": "dbb3d3e2-82d6-45f0-a78e-159612ca5e77"
+      },
+      {
+       "album_slug": "robert-wyatt-68",
+       "titulo": "’68",
+       "anio": 2013,
+       "mbid": "2215471b-02c8-4f5a-ad18-7cdeb2af8052"
+      },
+      {
+       "album_slug": "robert-wyatt-kitsune-ring-version",
+       "titulo": "KiTsuNe (Ring version)",
+       "anio": 2015,
+       "mbid": "ca6c4156-69cb-4e02-9843-80053309b152"
+      },
+      {
+       "album_slug": "robert-wyatt-kitsune-brian-the-fox",
+       "titulo": "KiTsuNe / Brian the Fox",
+       "anio": 2019,
+       "mbid": "d8041fb1-ba21-4efd-840f-d1699562e525"
+      }
+     ]
+    },
+    {
+     "slug": "matching-mole",
+     "catalogo": [
+      {
+       "album_slug": "matching-mole-matching-moles-little-red-record",
+       "titulo": "Matching Mole’s Little Red Record",
+       "anio": 1972,
+       "mbid": "ffffce03-b7ca-3686-8da6-0e54c6725c45"
+      },
+      {
+       "album_slug": "matching-mole-matching-mole",
+       "titulo": "Matching Mole",
+       "anio": 1972,
+       "mbid": "ab6498ea-3048-36a9-b384-b5aff7d52ecd"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hatfield",
+   "ficha_prototipo": "Hatfield and the North",
+   "escena": "Canterbury profundo",
+   "texto_fuente": "Hatfield and the North (74) y The Rotters' Club (75): la cima del Canterbury de segunda generación. Richard Sinclair (ex Caravan, futuro Camel) en voz y bajo, Dave Stewart en teclados, las Northettes haciendo coros celestiales sobre métricas imposibles. Dos discos, cero éxito, canon absoluto.",
+   "artistas": [
+    {
+     "slug": "hatfield",
+     "catalogo": [
+      {
+       "album_slug": "hatfield-hatfield-and-the-north",
+       "titulo": "Hatfield and the North",
+       "anio": 1973,
+       "mbid": "013c3c70-ff03-3cd6-8907-5c0cfe356b6d"
+      },
+      {
+       "album_slug": "hatfield-the-rotters-club",
+       "titulo": "The Rotters’ Club",
+       "anio": 1975,
+       "mbid": "abe660bf-5486-3eef-a479-643c03bd539d"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "national-health",
+   "ficha_prototipo": "National Health",
+   "escena": "Canterbury profundo",
+   "texto_fuente": "La continuación de Hatfield con más músculo: National Health (78), Of Queues and Cures (78) y el póstumo D.S. al Coda (82), homenaje a Alan Gowen tras su muerte. Dave Stewart otra vez al centro; el Canterbury terminando en cámara instrumental pura mientras el punk ardía afuera.",
+   "artistas": [
+    {
+     "slug": "national-health",
+     "catalogo": [
+      {
+       "album_slug": "national-health-national-health",
+       "titulo": "National Health",
+       "anio": 1978,
+       "mbid": "dd9fdbb3-ba7c-3e07-8a75-12d71068ead9"
+      },
+      {
+       "album_slug": "national-health-of-queues-and-cures",
+       "titulo": "Of Queues and Cures",
+       "anio": 1978,
+       "mbid": "65a44b60-b11a-3511-9c01-c7c7ff2c4158"
+      },
+      {
+       "album_slug": "national-health-d-s-al-coda",
+       "titulo": "D.S. al Coda",
+       "anio": 1982,
+       "mbid": "0f889b72-619d-31c0-95dd-1f71493c9fd8"
+      },
+      {
+       "album_slug": "national-health-missing-pieces",
+       "titulo": "Missing Pieces",
+       "anio": 1996,
+       "mbid": "de751754-5be2-3f95-ae87-f3aebcd5566b"
+      },
+      {
+       "album_slug": "national-health-the-northern-lights-polar-lights",
+       "titulo": "The Northern Lights - Polar Lights",
+       "anio": 1999,
+       "mbid": "057c775a-a23b-4f7b-a539-f060298e4f48"
+      },
+      {
+       "album_slug": "national-health-the-roundhouse-unedited",
+       "titulo": "The Roundhouse [unedited]",
+       "anio": 2023,
+       "mbid": "22beb5c8-aee3-4077-9680-9a38df0edc1d"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gong",
+   "ficha_prototipo": "Gong",
+   "escena": "Canterbury profundo",
+   "texto_fuente": "Daevid Allen, fundador expulsado de Soft Machine por un visado vencido, montó en Francia la mitología del planeta Gong: la trilogía Radio Gnome —Flying Teapot (73), Angel's Egg (73), You (74)— es psicodelia de duendes con músicos temibles. Tras la salida de Allen, Shamal (76) y Gazeuse! (76) derivaron al fusion de Pierre Moerlen. Primer catálogo de Virgin junto a Oldfield: la red otra vez.",
+   "artistas": [
+    {
+     "slug": "gong",
+     "catalogo": [
+      {
+       "album_slug": "gong-magick-brother",
+       "titulo": "Magick Brother",
+       "anio": 1970,
+       "mbid": "05e058ee-c488-33c0-b195-f930460cbd80"
+      },
+      {
+       "album_slug": "gong-camembert-electrique",
+       "titulo": "Camembert électrique",
+       "anio": 1971,
+       "mbid": "9db86543-96f6-345c-afce-4127840932dd"
+      },
+      {
+       "album_slug": "gong-flying-teapot-radio-gnome-invisible-part-1",
+       "titulo": "Flying Teapot: Radio Gnome Invisible, Part 1",
+       "anio": 1973,
+       "mbid": "d79d2651-a4f6-30df-8262-874f08cfe94b"
+      },
+      {
+       "album_slug": "gong-angels-egg-radio-gnome-invisible-part-2",
+       "titulo": "Angel’s Egg: Radio Gnome Invisible, Part 2",
+       "anio": 1973,
+       "mbid": "02d3a807-5f43-456d-9e83-3f7728bd0158"
+      },
+      {
+       "album_slug": "gong-you-radio-gnome-invisible-part-3",
+       "titulo": "You: Radio Gnome Invisible, Part 3",
+       "anio": 1974,
+       "mbid": "6c7b0612-fa00-3311-9422-bc650a025688"
+      },
+      {
+       "album_slug": "gong-shamal",
+       "titulo": "Shamal",
+       "anio": 1975,
+       "mbid": "3c9d256f-c5a5-3bc0-8ee1-553f8f6afe2e"
+      },
+      {
+       "album_slug": "gong-gazeuse",
+       "titulo": "Gazeuse!",
+       "anio": 1976,
+       "mbid": "6f2078a6-958f-3fdb-869c-a002ebdcb9cc"
+      },
+      {
+       "album_slug": "gong-expresso-ii",
+       "titulo": "Expresso II",
+       "anio": 1978,
+       "mbid": "a0792dae-d782-33f2-8654-9fabe0894f8d"
+      },
+      {
+       "album_slug": "gong-je-ne-fum-pas-des-bananes",
+       "titulo": "Je ne fum’ pas des bananes",
+       "anio": 1992,
+       "mbid": "31a1eaff-209d-34a6-9e07-46671d71e3c6"
+      },
+      {
+       "album_slug": "gong-shapeshifter",
+       "titulo": "Shapeshifter",
+       "anio": 1992,
+       "mbid": "8e79eacb-0fc6-37e9-80ca-fa3dc37988e3"
+      },
+      {
+       "album_slug": "gong-zero-to-infinity",
+       "titulo": "Zero to Infinity",
+       "anio": 2000,
+       "mbid": "82cf53b6-8668-3cd7-a676-2686e62d8af6"
+      },
+      {
+       "album_slug": "gong-acid-motherhood",
+       "titulo": "Acid Motherhood",
+       "anio": 2004,
+       "mbid": "1c53aff2-e233-3525-8fdc-a407cec9fc16"
+      },
+      {
+       "album_slug": "gong-2032",
+       "titulo": "2032",
+       "anio": 2009,
+       "mbid": "93721d23-4cd6-4d96-95c3-b3e1c3f7606b"
+      },
+      {
+       "album_slug": "gong-i-see-you",
+       "titulo": "I See You",
+       "anio": 2014,
+       "mbid": "8f08915a-6dc7-40ec-b2e8-1bf64863a334"
+      },
+      {
+       "album_slug": "gong-rejoice-im-dead",
+       "titulo": "Rejoice! I’m Dead!",
+       "anio": 2016,
+       "mbid": "92b6c877-8bac-4fde-8a7e-86495028030a"
+      },
+      {
+       "album_slug": "gong-the-universe-also-collapses",
+       "titulo": "The Universe Also Collapses",
+       "anio": 2019,
+       "mbid": "5720077b-2028-44d5-8b3e-28c46278a4c9"
+      },
+      {
+       "album_slug": "gong-unending-ascending",
+       "titulo": "Unending Ascending",
+       "anio": 2023,
+       "mbid": "92f1decc-0556-42fb-a2db-9a1793229405"
+      },
+      {
+       "album_slug": "gong-bright-spirit",
+       "titulo": "Bright Spirit",
+       "anio": 2026,
+       "mbid": "18d6bb79-c4a6-40cd-82f3-aef4427bbe82"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "egg-hillage-ayers",
+   "ficha_prototipo": "Egg · Steve Hillage · Kevin Ayers",
+   "escena": "Canterbury profundo",
+   "texto_fuente": "Egg (Egg 70, The Polite Force 71, The Civil Surface 74): el laboratorio de compases de Dave Stewart. Hillage, su compañero de Uriel, se fue a Gong y luego a una carrera solista con Fish Rising (75), L (76, UK 10, producido por Todd Rundgren), Motivation Radio (77) y Green (78). Y Kevin Ayers —el dandy de Soft Machine— con Joy of a Toy (69), Shooting at the Moon (70, con un Oldfield adolescente al bajo y Bedford en teclados: la incubadora de Tubular Bells), Whatevershebringswesing (71) y Bananamour (73).",
+   "artistas": [
+    {
+     "slug": "egg",
+     "catalogo": [
+      {
+       "album_slug": "egg-egg",
+       "titulo": "Egg",
+       "anio": 1970,
+       "mbid": "4d33d65f-d9dd-3af0-86c5-7b04f09b0506"
+      },
+      {
+       "album_slug": "egg-the-polite-force",
+       "titulo": "The Polite Force",
+       "anio": 1971,
+       "mbid": "516ebdd8-4666-3478-8c11-ebdc0af436ff"
+      },
+      {
+       "album_slug": "egg-the-civil-surface",
+       "titulo": "The Civil Surface",
+       "anio": 1974,
+       "mbid": "d2737275-6f64-337a-b09c-3fb174701714"
+      },
+      {
+       "album_slug": "egg-the-metronomical-society",
+       "titulo": "The Metronomical Society",
+       "anio": 2007,
+       "mbid": "bbd47401-4b53-4b00-8728-d2099fc2ecf2"
+      }
+     ]
+    },
+    {
+     "slug": "steve-hillage",
+     "catalogo": [
+      {
+       "album_slug": "steve-hillage-space-shanty",
+       "titulo": "Space Shanty",
+       "anio": 1972,
+       "mbid": "b4681d43-92ad-3835-ae40-524c50c8adca"
+      },
+      {
+       "album_slug": "steve-hillage-fish-rising",
+       "titulo": "Fish Rising",
+       "anio": 1975,
+       "mbid": "d846da25-5f03-3ba9-a026-bc601ca27270"
+      },
+      {
+       "album_slug": "steve-hillage-l",
+       "titulo": "L",
+       "anio": 1976,
+       "mbid": "ad1bda9f-3401-3520-a444-5a640a79fec5"
+      },
+      {
+       "album_slug": "steve-hillage-motivation-radio",
+       "titulo": "Motivation Radio",
+       "anio": 1977,
+       "mbid": "a84b6945-4d07-3c5f-b682-c516de4150fd"
+      },
+      {
+       "album_slug": "steve-hillage-green",
+       "titulo": "Green",
+       "anio": 1978,
+       "mbid": "33092e63-6bb0-3f3c-a7da-8886d0b0fe85"
+      },
+      {
+       "album_slug": "steve-hillage-open",
+       "titulo": "Open",
+       "anio": 1979,
+       "mbid": "c4b7b226-6197-37b6-85a8-539be538a014"
+      },
+      {
+       "album_slug": "steve-hillage-rainbow-dome-musick",
+       "titulo": "Rainbow Dome Musick",
+       "anio": 1979,
+       "mbid": "cc67c949-ff5b-3a71-be56-47303cd649a5"
+      },
+      {
+       "album_slug": "steve-hillage-and-not-or",
+       "titulo": "And Not Or",
+       "anio": 1982,
+       "mbid": "a7c54926-ceed-3503-bbdd-3f263bd4812b"
+      },
+      {
+       "album_slug": "steve-hillage-for-to-next",
+       "titulo": "For to Next",
+       "anio": 1982,
+       "mbid": "2a26b220-709f-46bf-8919-411ae645d9d3"
+      },
+      {
+       "album_slug": "steve-hillage-dreamtime-submersible",
+       "titulo": "Dreamtime Submersible",
+       "anio": 2008,
+       "mbid": "10b5868f-fd89-3770-99de-8f74e02d5f69"
+      },
+      {
+       "album_slug": "steve-hillage-the-golden-vibe",
+       "titulo": "The Golden Vibe",
+       "anio": 2019,
+       "mbid": "168cacd5-a9e0-4e80-8c05-a30820670343"
+      }
+     ]
+    },
+    {
+     "slug": "kevin-ayers",
+     "catalogo": [
+      {
+       "album_slug": "kevin-ayers-joy-of-a-toy",
+       "titulo": "Joy of a Toy",
+       "anio": 1969,
+       "mbid": "ca079650-526f-3ffd-9fb2-08d0cf9b233a"
+      },
+      {
+       "album_slug": "kevin-ayers-whatevershebringswesing",
+       "titulo": "Whatevershebringswesing",
+       "anio": 1972,
+       "mbid": "126752ef-b53b-383d-81a7-9d7c25ed13ed"
+      },
+      {
+       "album_slug": "kevin-ayers-bananamour",
+       "titulo": "Bananamour",
+       "anio": 1973,
+       "mbid": "8d8d8ea2-54ac-3fd4-a8b4-7c73d5a040a9"
+      },
+      {
+       "album_slug": "kevin-ayers-the-confessions-of-dr-dream-and-other-stories",
+       "titulo": "The Confessions of Dr. Dream and Other Stories",
+       "anio": 1974,
+       "mbid": "679cb9de-4a5f-3f7a-abe4-d19d099b079a"
+      },
+      {
+       "album_slug": "kevin-ayers-sweet-deceiver",
+       "titulo": "Sweet Deceiver",
+       "anio": 1975,
+       "mbid": "528553a8-6312-3263-aebf-1ff5670af2f9"
+      },
+      {
+       "album_slug": "kevin-ayers-yes-we-have-no-mananas-so-get-your-mananas-today",
+       "titulo": "Yes We Have No Mañanas, so Get Your Mañanas Today",
+       "anio": 1976,
+       "mbid": "dd7b9f70-d409-3bfe-b52d-0d6a71c8f052"
+      },
+      {
+       "album_slug": "kevin-ayers-rainbow-takeaway",
+       "titulo": "Rainbow Takeaway",
+       "anio": 1978,
+       "mbid": "bb5f1888-84c0-37f4-a59f-87903f8e2771"
+      },
+      {
+       "album_slug": "kevin-ayers-that-s-what-you-get-babe",
+       "titulo": "That's What You Get Babe",
+       "anio": 1980,
+       "mbid": "5eeb1e27-9ef7-3890-a8b2-e9dc3ee81fcf"
+      },
+      {
+       "album_slug": "kevin-ayers-diamond-jack-and-the-queen-of-pain",
+       "titulo": "Diamond Jack and the Queen of Pain",
+       "anio": 1983,
+       "mbid": "e87ad471-b21c-413a-b9be-faf9c9dbd0c9"
+      },
+      {
+       "album_slug": "kevin-ayers-deia-vu",
+       "titulo": "Deià...Vu",
+       "anio": 1984,
+       "mbid": "99272598-0039-4325-96ec-613452fd3586"
+      },
+      {
+       "album_slug": "kevin-ayers-as-close-as-you-think",
+       "titulo": "As Close As You Think",
+       "anio": 1986,
+       "mbid": "5da1e3dc-599e-492f-8fc7-3508b36ebed3"
+      },
+      {
+       "album_slug": "kevin-ayers-falling-up",
+       "titulo": "Falling Up",
+       "anio": 1988,
+       "mbid": "ca8393c9-5872-3f06-b4fa-248bb572a7fb"
+      },
+      {
+       "album_slug": "kevin-ayers-still-life-with-guitar",
+       "titulo": "Still Life With Guitar",
+       "anio": 1992,
+       "mbid": "026d7f43-ce3e-3367-b5cc-26ee199dc53f"
+      },
+      {
+       "album_slug": "kevin-ayers-june-1-1974-outtakes",
+       "titulo": "June 1, 1974 Outtakes",
+       "anio": 1996,
+       "mbid": "b5c95678-dc13-4bd7-962e-9d51a76916a9"
+      },
+      {
+       "album_slug": "kevin-ayers-the-garden-of-love",
+       "titulo": "The Garden of Love",
+       "anio": 1997,
+       "mbid": "d0896cb3-8769-4df7-b23c-d1f24b184c15"
+      },
+      {
+       "album_slug": "kevin-ayers-the-unfairground",
+       "titulo": "The Unfairground",
+       "anio": 2007,
+       "mbid": "1ff56f97-8810-376c-9e08-a2e9ec60e6e8"
+      },
+      {
+       "album_slug": "kevin-ayers-what-more-can-i-say",
+       "titulo": "What More Can I Say...",
+       "anio": 2008,
+       "mbid": "fa23582b-d68d-4b3e-b457-9250cdc576d6"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pfm",
+   "ficha_prototipo": "Premiata Forneria Marconi (PFM)",
+   "escena": "Prog italiano",
+   "texto_fuente": "Storia di un minuto (72) y Per un amico (72): el sinfónico italiano en su punto más alto de entrada. Manticore —el sello de ELP— los exportó con letras inglesas de Peter Sinfield: Photos of Ghosts (73) y The World Became the World (74) entraron en Billboard, cosa que ningún otro grupo continental del género logró desde Italia. Chocolate Kings (75) y Jet Lag (77) cerraron la era clásica endureciendo el sonido.",
+   "artistas": [
+    {
+     "slug": "pfm",
+     "catalogo": [
+      {
+       "album_slug": "pfm-storia-di-un-minuto",
+       "titulo": "Storia di un minuto",
+       "anio": 1972,
+       "mbid": "8a3ea51c-ea62-3ebb-9b05-624aec86fae5"
+      },
+      {
+       "album_slug": "pfm-per-un-amico",
+       "titulo": "Per un amico",
+       "anio": 1972,
+       "mbid": "6b2b3082-974b-3e58-b473-a8f19fc60075"
+      },
+      {
+       "album_slug": "pfm-photos-of-ghosts",
+       "titulo": "Photos of Ghosts",
+       "anio": 1973,
+       "mbid": "5431b2bd-15c9-3a8b-9005-239b46739be6"
+      },
+      {
+       "album_slug": "pfm-lisola-di-niente",
+       "titulo": "L’isola di niente",
+       "anio": 1974,
+       "mbid": "24cb061a-8e44-32b8-9f36-41c0befeacc5"
+      },
+      {
+       "album_slug": "pfm-the-world-became-the-world",
+       "titulo": "The World Became the World",
+       "anio": 1974,
+       "mbid": "90601feb-7222-36ef-81fe-24041b67519c"
+      },
+      {
+       "album_slug": "pfm-chocolate-kings",
+       "titulo": "Chocolate Kings",
+       "anio": 1975,
+       "mbid": "f318a78c-d31b-3aaa-825e-6eebb38def94"
+      },
+      {
+       "album_slug": "pfm-jet-lag",
+       "titulo": "Jet Lag",
+       "anio": 1977,
+       "mbid": "9e74407e-513d-3c5b-b7de-515dec92c194"
+      },
+      {
+       "album_slug": "pfm-passpartu",
+       "titulo": "Passpartù",
+       "anio": 1978,
+       "mbid": "251dfb11-d6b4-3417-a506-a2fb7a7b3b56"
+      },
+      {
+       "album_slug": "pfm-suonare-suonare",
+       "titulo": "Suonare suonare",
+       "anio": 1980,
+       "mbid": "4cdccbc3-b1b7-3b63-a6a4-896278f09861"
+      },
+      {
+       "album_slug": "pfm-come-ti-va-in-riva-alla-citta",
+       "titulo": "Come ti va in riva alla città",
+       "anio": 1981,
+       "mbid": "f6c7027d-a05d-3b7d-86fe-c95b1248f259"
+      },
+      {
+       "album_slug": "pfm-pfm-pfm",
+       "titulo": "PFM? PFM!",
+       "anio": 1984,
+       "mbid": "37c2dcdb-86f5-3f69-95a7-35d6da689a93"
+      },
+      {
+       "album_slug": "pfm-miss-baker",
+       "titulo": "Miss Baker",
+       "anio": 1987,
+       "mbid": "f7d8ef6a-0ffe-3be2-a51b-9e8383510f88"
+      },
+      {
+       "album_slug": "pfm-ulisse",
+       "titulo": "Ulisse",
+       "anio": 1997,
+       "mbid": "e974e929-b70d-3354-b140-fb4159f493be"
+      },
+      {
+       "album_slug": "pfm-serendipity",
+       "titulo": "Serendipity",
+       "anio": 2000,
+       "mbid": "422b99f9-65c2-351c-8f0d-301cb6853d0e"
+      },
+      {
+       "album_slug": "pfm-dracula-opera-rock",
+       "titulo": "Dracula: Opera Rock",
+       "anio": 2005,
+       "mbid": "c1107ef0-f332-311c-9e8b-21cfd4322b21"
+      },
+      {
+       "album_slug": "pfm-stati-di-immaginazione",
+       "titulo": "Stati di immaginazione",
+       "anio": 2006,
+       "mbid": "b3971ecd-b730-3e3a-b742-d22364ebbb04"
+      },
+      {
+       "album_slug": "pfm-a-d-2010-la-buona-novella",
+       "titulo": "A.D. 2010 - La buona novella",
+       "anio": 2010,
+       "mbid": "264825dd-c788-40bf-9358-318484d5d0c3"
+      },
+      {
+       "album_slug": "pfm-pfm-in-classic-da-mozart-a-celebration",
+       "titulo": "PFM in Classic: Da Mozart a Celebration",
+       "anio": 2013,
+       "mbid": "7e1d9e2a-51ae-434c-b6a3-306ab7382654"
+      },
+      {
+       "album_slug": "pfm-emotional-tattoos",
+       "titulo": "Emotional Tattoos",
+       "anio": 2017,
+       "mbid": "99ea642d-a038-4f94-b424-218a2d189c6a"
+      },
+      {
+       "album_slug": "pfm-i-dreamed-of-electric-sheep-ho-sognato-pecore-elettriche",
+       "titulo": "I Dreamed of Electric Sheep – Ho sognato pecore elettriche",
+       "anio": 2021,
+       "mbid": "3edd5cda-4991-434e-aa48-ef013ecfa82e"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "banco",
+   "ficha_prototipo": "Banco del Mutuo Soccorso",
+   "escena": "Prog italiano",
+   "texto_fuente": "Banco del Mutuo Soccorso (72), Darwin! (72) e Io sono nato libero (73): la trilogía fundacional, con Francesco Di Giacomo —la voz más grande del género, literal y figuradamente— y los hermanos Nocenzi en teclados duales. También ficharon por Manticore para el mercado anglo (Banco, 75). Darwin!: un álbum conceptual sobre la evolución; la ambición italiana no pedía permiso.",
+   "artistas": [
+    {
+     "slug": "banco",
+     "catalogo": [
+      {
+       "album_slug": "banco-banco-del-mutuo-soccorso",
+       "titulo": "Banco del Mutuo Soccorso",
+       "anio": 1972,
+       "mbid": "559db475-f9f4-36ce-973c-7cdc4f463e6a"
+      },
+      {
+       "album_slug": "banco-darwin",
+       "titulo": "Darwin!",
+       "anio": 1972,
+       "mbid": "de54cbbb-070c-32fe-834e-329c33f6d0af"
+      },
+      {
+       "album_slug": "banco-io-sono-nato-libero",
+       "titulo": "Io sono nato libero",
+       "anio": 1973,
+       "mbid": "af87af37-2612-3885-a0be-43bf04fcebe5"
+      },
+      {
+       "album_slug": "banco-banco",
+       "titulo": "Banco",
+       "anio": 1975,
+       "mbid": "879ae192-47bd-3530-b19e-441c70c11d8b"
+      },
+      {
+       "album_slug": "banco-as-in-a-last-supper",
+       "titulo": "As in a Last Supper",
+       "anio": 1976,
+       "mbid": "33fbc23d-f210-3e7b-939b-3c7897052c11"
+      },
+      {
+       "album_slug": "banco-come-in-unultima-cena",
+       "titulo": "Come in un’ultima cena",
+       "anio": 1976,
+       "mbid": "e9c5a05d-4cb1-3920-9951-2153d688f0d8"
+      },
+      {
+       "album_slug": "banco-di-terra",
+       "titulo": "...di terra",
+       "anio": 1978,
+       "mbid": "9985ba9d-3e4c-364b-8b7f-3c340da36ea1"
+      },
+      {
+       "album_slug": "banco-canto-di-primavera",
+       "titulo": "Canto di primavera",
+       "anio": 1979,
+       "mbid": "2738f4ca-c920-3380-9ba8-5727ce57c28c"
+      },
+      {
+       "album_slug": "banco-urgentissimo",
+       "titulo": "Urgentissimo",
+       "anio": 1980,
+       "mbid": "91717f24-b0c8-3741-9241-c0d6a6dbfd81"
+      },
+      {
+       "album_slug": "banco-buone-notizie",
+       "titulo": "Buone notizie",
+       "anio": 1981,
+       "mbid": "23dee852-d5c5-35c9-b9ed-f21afc8ad993"
+      },
+      {
+       "album_slug": "banco-banco",
+       "titulo": "Banco",
+       "anio": 1983,
+       "mbid": "8ce7b36d-cd5a-3933-890a-063b8e96f9b3"
+      },
+      {
+       "album_slug": "banco-e-via",
+       "titulo": "...e via",
+       "anio": 1985,
+       "mbid": "3383ce63-4641-300e-b0d7-72c4e60bd3b3"
+      },
+      {
+       "album_slug": "banco-donna-plautilla",
+       "titulo": "Donna Plautilla",
+       "anio": 1989,
+       "mbid": "197eac16-24ab-3b52-b047-ea8f56174c0b"
+      },
+      {
+       "album_slug": "banco-non-mettere-le-dita-nel-naso",
+       "titulo": "Non mettere le dita nel naso",
+       "anio": 1990,
+       "mbid": "dbca9795-2e99-4a2c-9afa-4bd788deedd7"
+      },
+      {
+       "album_slug": "banco-b-m-s",
+       "titulo": "B.M.S.",
+       "anio": 1991,
+       "mbid": "5c0efcc9-0eb7-3bee-9147-94081798bf83"
+      },
+      {
+       "album_slug": "banco-darwin",
+       "titulo": "Darwin",
+       "anio": 1991,
+       "mbid": "813c50c5-685d-4ecb-baac-398daf910d1a"
+      },
+      {
+       "album_slug": "banco-il-13",
+       "titulo": "Il 13",
+       "anio": 1994,
+       "mbid": "832c7262-8eb7-3c80-bf6c-5c116d7fafa9"
+      },
+      {
+       "album_slug": "banco-banco-daccusa",
+       "titulo": "Banco d’accusa",
+       "anio": 1996,
+       "mbid": "479d4d8c-2f50-4c30-8cb0-c6dab7c86323"
+      },
+      {
+       "album_slug": "banco-transiberiana",
+       "titulo": "Transiberiana",
+       "anio": 2019,
+       "mbid": "8cd2e525-e131-4684-aa42-0f699635871b"
+      },
+      {
+       "album_slug": "banco-orlando-le-forme-dellamore",
+       "titulo": "Orlando: Le forme dell’amore",
+       "anio": 2022,
+       "mbid": "7d543535-14ae-45c6-8cd8-3d612232d9a1"
+      },
+      {
+       "album_slug": "banco-storie-invisibili",
+       "titulo": "Storie invisibili",
+       "anio": 2025,
+       "mbid": "802cfe82-5951-4019-977c-9a204ec12d4b"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "italia-resto",
+   "ficha_prototipo": "Le Orme · Area · los demás",
+   "escena": "Prog italiano",
+   "texto_fuente": "Le Orme: Collage (71), Uomo di pezza (72), Felona e Sorona (73, cuya versión inglesa tradujo Peter Hammill: la red hasta en Venecia) y Contrappunti (74). Area: Arbeit macht frei (73), Caution Radiation Area (74) y Crac! (75), con Demetrio Stratos llevando la voz humana a donde nadie más quiso ir — jazz radical y política sin anestesia. Y la constelación de un-solo-disco-legendario: Museo Rosenbach (Zarathustra, 73), Il Balletto di Bronzo (Ys, 72), más Osanna y los Concerto Grosso de New Trolls con orquesta.",
+   "artistas": [
+    {
+     "slug": "le-orme",
+     "catalogo": [
+      {
+       "album_slug": "le-orme-ad-gloriam",
+       "titulo": "Ad gloriam",
+       "anio": 1969,
+       "mbid": "78eca235-93f6-3294-a606-0cefae699069"
+      },
+      {
+       "album_slug": "le-orme-collage",
+       "titulo": "Collage",
+       "anio": 1971,
+       "mbid": "0237de8b-2967-313d-b38d-0022d7ce0f5e"
+      },
+      {
+       "album_slug": "le-orme-uomo-di-pezza",
+       "titulo": "Uomo di pezza",
+       "anio": 1972,
+       "mbid": "62dc7fdd-b267-3134-8d86-65f1cce007b1"
+      },
+      {
+       "album_slug": "le-orme-felona-e-sorona",
+       "titulo": "Felona e Sorona",
+       "anio": 1973,
+       "mbid": "f38994d0-fc62-392b-97cd-95527f02c7f4"
+      },
+      {
+       "album_slug": "le-orme-contrappunti",
+       "titulo": "Contrappunti",
+       "anio": 1974,
+       "mbid": "21c23fb5-7b4f-3e2b-8be0-1606dd486374"
+      },
+      {
+       "album_slug": "le-orme-smogmagica",
+       "titulo": "Smogmagica",
+       "anio": 1975,
+       "mbid": "040ed851-a262-317b-bfe1-78d95830cf1f"
+      },
+      {
+       "album_slug": "le-orme-verita-nascoste",
+       "titulo": "Verità nascoste",
+       "anio": 1976,
+       "mbid": "864b6b1f-67f3-31c2-9e81-5471a74e840d"
+      },
+      {
+       "album_slug": "le-orme-storia-o-leggenda",
+       "titulo": "Storia o leggenda",
+       "anio": 1977,
+       "mbid": "6e3565e8-4996-3396-9d5c-c6d23e2b63bd"
+      },
+      {
+       "album_slug": "le-orme-florian",
+       "titulo": "Florian",
+       "anio": 1979,
+       "mbid": "ca845333-a666-3451-bb8e-7f1b8962e0b3"
+      },
+      {
+       "album_slug": "le-orme-piccola-rapsodia-dell-ape",
+       "titulo": "Piccola rapsodia dell'ape",
+       "anio": 1980,
+       "mbid": "f4a78f6c-4bd9-3538-978a-b9dda2e21685"
+      },
+      {
+       "album_slug": "le-orme-venerdi",
+       "titulo": "Venerdì",
+       "anio": 1982,
+       "mbid": "88a9ac1a-ddd7-3041-b9c5-583ec4b4b657"
+      },
+      {
+       "album_slug": "le-orme-orme",
+       "titulo": "Orme",
+       "anio": 1990,
+       "mbid": "7a7110af-8a86-3997-b165-870f73eadead"
+      },
+      {
+       "album_slug": "le-orme-il-fiume",
+       "titulo": "Il fiume",
+       "anio": 1996,
+       "mbid": "2f66263f-1a9b-3c71-8331-87f5a23a9479"
+      },
+      {
+       "album_slug": "le-orme-elementi",
+       "titulo": "Elementi",
+       "anio": 2001,
+       "mbid": "f5528aaa-98cc-30bc-97f1-a94f0fb1ba42"
+      },
+      {
+       "album_slug": "le-orme-l-infinito",
+       "titulo": "L'infinito",
+       "anio": 2004,
+       "mbid": "9a867995-a158-309a-b52e-eea8ab5e6878"
+      },
+      {
+       "album_slug": "le-orme-la-via-della-seta",
+       "titulo": "La via della seta",
+       "anio": 2011,
+       "mbid": "b627ee70-4f8a-471a-84b0-b2756d2f26c3"
+      },
+      {
+       "album_slug": "le-orme-classicorme",
+       "titulo": "ClassicOrme",
+       "anio": 2017,
+       "mbid": "1c8e37a0-fef9-4a8a-8b0c-a61d89e2e9d9"
+      },
+      {
+       "album_slug": "le-orme-sulle-ali-di-un-sogno",
+       "titulo": "Sulle ali di un sogno",
+       "anio": 2019,
+       "mbid": "4ad6f548-6e31-4165-9c3c-0f0ce461161f"
+      },
+      {
+       "album_slug": "le-orme-le-orme-and-friends",
+       "titulo": "Le Orme ...and Friends",
+       "anio": 2023,
+       "mbid": "b741de65-17ef-488b-95f6-b741dd51d213"
+      },
+      {
+       "album_slug": "le-orme-il-leone-e-la-bandiera",
+       "titulo": "Il leone e la bandiera",
+       "anio": 2024,
+       "mbid": "d25821e6-fbf2-41f4-b491-e3f9c936341b"
+      }
+     ]
+    },
+    {
+     "slug": "area",
+     "catalogo": [
+      {
+       "album_slug": "area-arbeit-macht-frei",
+       "titulo": "Arbeit macht frei",
+       "anio": 1973,
+       "mbid": "007fb8f6-cbe9-3769-bdcd-bb695d6dba22"
+      },
+      {
+       "album_slug": "area-caution-radiation-area",
+       "titulo": "Caution Radiation Area",
+       "anio": 1974,
+       "mbid": "70e31796-09e9-3319-ac0c-2bb7453ebf18"
+      },
+      {
+       "album_slug": "area-crac",
+       "titulo": "Crac!",
+       "anio": 1975,
+       "mbid": "f0ba546b-b120-3c3b-ac3e-49e6001e8dbb"
+      },
+      {
+       "album_slug": "area-maledetti-maudits",
+       "titulo": "Maledetti (maudits)",
+       "anio": 1976,
+       "mbid": "5e6658f8-97a6-35b2-aa2e-d3826395f0b1"
+      },
+      {
+       "album_slug": "area-1978-gli-dei-se-ne-vanno-gli-arrabbiati-restano",
+       "titulo": "1978: Gli dei se ne vanno gli arrabbiati restano!",
+       "anio": 1978,
+       "mbid": "a24d5726-20fc-3ed2-95be-f318cd50456f"
+      },
+      {
+       "album_slug": "area-tic-tac",
+       "titulo": "Tic & Tac",
+       "anio": 1980,
+       "mbid": "a57c167a-348f-3111-8e5d-de9cb112a483"
+      },
+      {
+       "album_slug": "area-chernobyl-7991",
+       "titulo": "Chernobyl 7991",
+       "anio": 1997,
+       "mbid": "f2435f24-46dc-3857-9f2d-35f7846f09d4"
+      }
+     ]
+    },
+    {
+     "slug": "museo-rosenbach",
+     "catalogo": [
+      {
+       "album_slug": "museo-rosenbach-zarathustra",
+       "titulo": "Zarathustra",
+       "anio": 1973,
+       "mbid": "c376e6f9-23a5-3f26-abde-843d351c6140"
+      },
+      {
+       "album_slug": "museo-rosenbach-rare-and-unreleased",
+       "titulo": "Rare and Unreleased",
+       "anio": 1992,
+       "mbid": "c59ac8f3-70b8-3089-a93a-273b8128c4b7"
+      },
+      {
+       "album_slug": "museo-rosenbach-exit",
+       "titulo": "Exit",
+       "anio": 2000,
+       "mbid": "58c92bb3-8807-4041-a121-bedd64fb6122"
+      },
+      {
+       "album_slug": "museo-rosenbach-zarathustra-live-in-studio",
+       "titulo": "Zarathustra Live in Studio",
+       "anio": 2012,
+       "mbid": "ed2fe3a5-f60c-479d-9e18-cbb2b3a1eea2"
+      },
+      {
+       "album_slug": "museo-rosenbach-rarities",
+       "titulo": "Rarities",
+       "anio": 2012,
+       "mbid": "43d45dbe-f0bc-4065-a730-1cd7c4d7aff0"
+      }
+     ]
+    },
+    {
+     "slug": "il-balletto-di-bronzo",
+     "catalogo": [
+      {
+       "album_slug": "il-balletto-di-bronzo-sirio-2222",
+       "titulo": "Sirio 2222",
+       "anio": 1970,
+       "mbid": "ae98806a-5247-3c39-8355-b6892935c107"
+      },
+      {
+       "album_slug": "il-balletto-di-bronzo-ys",
+       "titulo": "Ys",
+       "anio": 1972,
+       "mbid": "620f81ca-3e87-390a-a6ad-ad8fdc1018e3"
+      },
+      {
+       "album_slug": "il-balletto-di-bronzo-cuma-2016-d-c",
+       "titulo": "Cuma 2016 D.C.",
+       "anio": 2016,
+       "mbid": "ae146ac0-9572-4815-90c5-0fa58130a32b"
+      },
+      {
+       "album_slug": "il-balletto-di-bronzo-lemures",
+       "titulo": "Lemures",
+       "anio": 2023,
+       "mbid": "ab7bf48d-5c17-48ba-a080-6d23878ac72f"
+      }
+     ]
+    },
+    {
+     "slug": "osanna",
+     "catalogo": [
+      {
+       "album_slug": "osanna-luomo",
+       "titulo": "L’uomo",
+       "anio": 1971,
+       "mbid": "5c4bc383-6e7e-373f-8c95-bcf9907b40ec"
+      },
+      {
+       "album_slug": "osanna-palepoli",
+       "titulo": "Palepoli",
+       "anio": 1973,
+       "mbid": "e01178fa-69ca-3871-bdeb-43956495a1ae"
+      },
+      {
+       "album_slug": "osanna-landscape-of-life",
+       "titulo": "Landscape of Life",
+       "anio": 1974,
+       "mbid": "a62437c7-67e4-4b94-a4c5-48dfd79f2669"
+      },
+      {
+       "album_slug": "osanna-suddance",
+       "titulo": "Suddance",
+       "anio": 1978,
+       "mbid": "01da6a43-ad87-4722-af93-457c6bc80f17"
+      },
+      {
+       "album_slug": "osanna-prog-family",
+       "titulo": "Prog Family",
+       "anio": 2009,
+       "mbid": "a1b57e9b-be33-4127-97d3-ae8dc51ef127"
+      },
+      {
+       "album_slug": "osanna-rosso-rock",
+       "titulo": "Rosso Rock",
+       "anio": 2012,
+       "mbid": "746b47be-0b09-4a54-9281-81ff52711e82"
+      },
+      {
+       "album_slug": "osanna-palepolitana",
+       "titulo": "Palepolitana",
+       "anio": 2015,
+       "mbid": "50f7100f-be20-419d-a1d0-2320715e024e"
+      },
+      {
+       "album_slug": "osanna-il-diedro-del-mediterraneo",
+       "titulo": "Il diedro del Mediterraneo",
+       "anio": 2021,
+       "mbid": "67447f07-6fcb-4fce-b0e7-b7c9013ce033"
+      }
+     ]
+    },
+    {
+     "slug": "new-trolls",
+     "catalogo": [
+      {
+       "album_slug": "new-trolls-senza-orario-senza-bandiera",
+       "titulo": "Senza orario senza bandiera",
+       "anio": 1968,
+       "mbid": "3227cc61-2a43-31d8-a023-7ca0e03af353"
+      },
+      {
+       "album_slug": "new-trolls-searching-for-a-land",
+       "titulo": "Searching for a Land",
+       "anio": 1972,
+       "mbid": "fe84e957-786b-3d8f-9229-5a6368879de4"
+      },
+      {
+       "album_slug": "new-trolls-ut",
+       "titulo": "Ut",
+       "anio": 1972,
+       "mbid": "00b7f813-6ddf-319c-b3d2-00f4827c2c16"
+      },
+      {
+       "album_slug": "new-trolls-concerto-grosso-no-2",
+       "titulo": "Concerto grosso nº 2",
+       "anio": 1976,
+       "mbid": "3e72ffda-c9d6-3c45-aed1-78e5e2e4790f"
+      },
+      {
+       "album_slug": "new-trolls-aldebaran",
+       "titulo": "Aldebaran",
+       "anio": 1978,
+       "mbid": "34650056-1ac0-4e09-81f4-4988af561b34"
+      },
+      {
+       "album_slug": "new-trolls-new-trolls",
+       "titulo": "New Trolls",
+       "anio": 1979,
+       "mbid": "f94ee177-b981-42b9-9a51-45f350091b4c"
+      },
+      {
+       "album_slug": "new-trolls-fs",
+       "titulo": "FS",
+       "anio": 1981,
+       "mbid": "d00d8410-cded-3bd8-b637-78f26c5e664e"
+      },
+      {
+       "album_slug": "new-trolls-america-o-k",
+       "titulo": "America O.K.",
+       "anio": 1983,
+       "mbid": "383b13aa-edfb-4cea-a190-bd89e1f79d5f"
+      },
+      {
+       "album_slug": "new-trolls-concerto-grosso-n-1-e-n-2",
+       "titulo": "Concerto grosso n. 1 e n. 2",
+       "anio": 1989,
+       "mbid": "ad2ee4bd-508a-36f5-958a-8dede6ebc124"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "can",
+   "ficha_prototipo": "Can",
+   "escena": "Alemania",
+   "texto_fuente": "Monster Movie (69), Tago Mago (71), Ege Bamyasi (72), Future Days (73): la respuesta alemana a la misma pregunta (¿qué hacer tras la psicodelia?) por el camino opuesto al inglés — repetición, trance y edición de cinta en vez de complejidad escrita. Czukay venía de estudiar con Stockhausen; el rock que influyó en más gente que casi todo este mapa junto, vendiendo una fracción.",
+   "artistas": [
+    {
+     "slug": "can",
+     "catalogo": [
+      {
+       "album_slug": "can-monster-movie",
+       "titulo": "Monster Movie",
+       "anio": 1969,
+       "mbid": "2a03875e-05c1-3b8f-8b8a-6bdc82f8f412"
+      },
+      {
+       "album_slug": "can-tago-mago",
+       "titulo": "Tago Mago",
+       "anio": 1971,
+       "mbid": "13d08c0e-14e2-30b2-9ad7-5f501761a8ea"
+      },
+      {
+       "album_slug": "can-ege-bamyas",
+       "titulo": "Ege Bamyası",
+       "anio": 1972,
+       "mbid": "a4b405a6-0577-3b77-b46d-06af1b98fbd2"
+      },
+      {
+       "album_slug": "can-future-days",
+       "titulo": "Future Days",
+       "anio": 1973,
+       "mbid": "aa41b178-9f16-3dc4-84b6-e9ad8b5be4b8"
+      },
+      {
+       "album_slug": "can-soon-over-babaluma",
+       "titulo": "Soon Over Babaluma",
+       "anio": 1974,
+       "mbid": "225b41f4-bf87-3b99-95f6-3db2df882dd0"
+      },
+      {
+       "album_slug": "can-landed",
+       "titulo": "Landed",
+       "anio": 1975,
+       "mbid": "38f91cf1-cc22-3ff7-94ae-a721b9e5e283"
+      },
+      {
+       "album_slug": "can-flow-motion",
+       "titulo": "Flow Motion",
+       "anio": 1976,
+       "mbid": "4f19b897-f996-357e-a0a0-605711829e36"
+      },
+      {
+       "album_slug": "can-saw-delight",
+       "titulo": "Saw Delight",
+       "anio": 1977,
+       "mbid": "44d9ce30-b6da-349e-8b43-d4a97ec9cc9b"
+      },
+      {
+       "album_slug": "can-can",
+       "titulo": "Can",
+       "anio": 1978,
+       "mbid": "a58318e7-0893-3484-ab5f-63aa2998bea3"
+      },
+      {
+       "album_slug": "can-out-of-reach",
+       "titulo": "Out of Reach",
+       "anio": 1978,
+       "mbid": "3b29f632-2c69-3b16-a55a-179218df8ee0"
+      },
+      {
+       "album_slug": "can-onlyou",
+       "titulo": "Onlyou",
+       "anio": 1982,
+       "mbid": "810b330f-97ee-4c0a-9bc8-67ea538dd6ca"
+      },
+      {
+       "album_slug": "can-rite-time",
+       "titulo": "Rite Time",
+       "anio": 1989,
+       "mbid": "9ce99438-1c16-30d5-9f06-7cfa351b04ee"
+      },
+      {
+       "album_slug": "can-unopened",
+       "titulo": "Unopened",
+       "anio": 1993,
+       "mbid": "96fcb5fd-79c0-4f55-82a6-187a121cd392"
+      },
+      {
+       "album_slug": "can-zhengzheng-rikang",
+       "titulo": "Zhengzheng Rikang",
+       "anio": 2006,
+       "mbid": "fa615b1f-b158-408e-a324-b53bea542823"
+      },
+      {
+       "album_slug": "can-ogam-ogat",
+       "titulo": "Ogam Ogat",
+       "anio": 2009,
+       "mbid": "1f86d11e-b84d-40c8-b59c-a27d862ac458"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "td-schulze",
+   "ficha_prototipo": "Tangerine Dream · Klaus Schulze",
+   "escena": "Alemania",
+   "texto_fuente": "De Electronic Meditation (70) y el doble abismal Zeit (72) a Phaedra (74, UK 15) y Rubycon (75, UK 12) en Virgin —el sello de Tubular Bells, otra vez—: secuenciadores como catedrales. Schulze en paralelo (Timewind, 75; Mirage, 77) fundando la escuela berlinesa. De aquí sale media música electrónica posterior.",
+   "artistas": [
+    {
+     "slug": "tangerine-dream",
+     "catalogo": [
+      {
+       "album_slug": "tangerine-dream-electronic-meditation",
+       "titulo": "Electronic Meditation",
+       "anio": 1970,
+       "mbid": "a7305321-d4e8-3a81-be61-665dc3bb1dbf"
+      },
+      {
+       "album_slug": "tangerine-dream-alpha-centauri",
+       "titulo": "Alpha Centauri",
+       "anio": 1971,
+       "mbid": "5ecd0499-49a8-3a13-970c-94cda36e523f"
+      },
+      {
+       "album_slug": "tangerine-dream-zeit",
+       "titulo": "Zeit",
+       "anio": 1972,
+       "mbid": "5347b60f-d4a7-3e2f-831a-d5b86d06f8da"
+      },
+      {
+       "album_slug": "tangerine-dream-atem",
+       "titulo": "Atem",
+       "anio": 1973,
+       "mbid": "d6a077da-25fe-3ee0-8433-5d997cbc7247"
+      },
+      {
+       "album_slug": "tangerine-dream-phaedra",
+       "titulo": "Phaedra",
+       "anio": 1974,
+       "mbid": "866c88fa-a18b-3739-9814-2ad215e5e11a"
+      },
+      {
+       "album_slug": "tangerine-dream-rubycon",
+       "titulo": "Rubycon",
+       "anio": 1975,
+       "mbid": "96c98370-1390-33ec-9bc6-ed15e16c3e25"
+      },
+      {
+       "album_slug": "tangerine-dream-stratosfear",
+       "titulo": "Stratosfear",
+       "anio": 1976,
+       "mbid": "542bb617-2848-33be-89bf-e8d3561f0fa4"
+      },
+      {
+       "album_slug": "tangerine-dream-cyclone",
+       "titulo": "Cyclone",
+       "anio": 1978,
+       "mbid": "ab4de2f1-dfb9-3e6b-8e7b-c023a661f788"
+      },
+      {
+       "album_slug": "tangerine-dream-force-majeure",
+       "titulo": "Force Majeure",
+       "anio": 1979,
+       "mbid": "0dd53ff5-9b08-321c-b6c7-485e9fd0e25c"
+      },
+      {
+       "album_slug": "tangerine-dream-tangram",
+       "titulo": "Tangram",
+       "anio": 1980,
+       "mbid": "974e867f-42b0-3a0f-a13d-1b449f701031"
+      },
+      {
+       "album_slug": "tangerine-dream-transfer-blue-night",
+       "titulo": "Transfer Blue Night",
+       "anio": 1981,
+       "mbid": "41abcb01-f8c2-37b3-ae1c-4efca71c0884"
+      },
+      {
+       "album_slug": "tangerine-dream-exit",
+       "titulo": "Exit",
+       "anio": 1981,
+       "mbid": "77dbe266-1be4-3908-b373-4a57213e0081"
+      },
+      {
+       "album_slug": "tangerine-dream-white-eagle",
+       "titulo": "White Eagle",
+       "anio": 1982,
+       "mbid": "c444c39e-c733-3000-9e12-9c37bd78cea1"
+      },
+      {
+       "album_slug": "tangerine-dream-hyperborea",
+       "titulo": "Hyperborea",
+       "anio": 1983,
+       "mbid": "16dfb4c9-0ec2-3e36-bd6c-bf898a09db5f"
+      },
+      {
+       "album_slug": "tangerine-dream-le-parc",
+       "titulo": "Le Parc",
+       "anio": 1985,
+       "mbid": "fe589698-78ef-37e4-95c3-ee2d331bc970"
+      },
+      {
+       "album_slug": "tangerine-dream-green-desert",
+       "titulo": "Green Desert",
+       "anio": 1986,
+       "mbid": "698759a2-f716-3a83-8fca-6fb142d12d5e"
+      },
+      {
+       "album_slug": "tangerine-dream-underwater-sunlight",
+       "titulo": "Underwater Sunlight",
+       "anio": 1986,
+       "mbid": "51ec4604-96ee-31f2-aa41-d8cd3f05cad8"
+      },
+      {
+       "album_slug": "tangerine-dream-tyger",
+       "titulo": "Tyger",
+       "anio": 1987,
+       "mbid": "bcc0d1bd-68d8-3d71-a76e-8313f091002d"
+      },
+      {
+       "album_slug": "tangerine-dream-optical-race",
+       "titulo": "Optical Race",
+       "anio": 1988,
+       "mbid": "1cf6c37c-93f3-33cf-8332-673b49ef739c"
+      },
+      {
+       "album_slug": "tangerine-dream-lily-on-the-beach",
+       "titulo": "Lily on the Beach",
+       "anio": 1989,
+       "mbid": "50824dfc-dd80-3954-a64f-84496b0f6eee"
+      },
+      {
+       "album_slug": "tangerine-dream-melrose",
+       "titulo": "Melrose",
+       "anio": 1990,
+       "mbid": "7db8dfb2-c42d-3706-86cf-b76ad80b17b9"
+      },
+      {
+       "album_slug": "tangerine-dream-quinoa",
+       "titulo": "Quinoa",
+       "anio": 1992,
+       "mbid": "c8c8586f-064b-38de-9562-1ba4a16b48b2"
+      },
+      {
+       "album_slug": "tangerine-dream-rockoon",
+       "titulo": "Rockoon",
+       "anio": 1992,
+       "mbid": "b340c4ce-40c3-3d04-9056-c7b767e3bfc3"
+      },
+      {
+       "album_slug": "tangerine-dream-sound-and-effects",
+       "titulo": "Sound And Effects",
+       "anio": 1992,
+       "mbid": "e7522c33-a1be-4e04-94c2-ed1b6068a7a2"
+      },
+      {
+       "album_slug": "tangerine-dream-turn-of-the-tides",
+       "titulo": "Turn of the Tides",
+       "anio": 1994,
+       "mbid": "8f23d6fb-01d6-3b65-98c0-16d74b57bc9c"
+      },
+      {
+       "album_slug": "tangerine-dream-tyranny-of-beauty",
+       "titulo": "Tyranny of Beauty",
+       "anio": 1995,
+       "mbid": "d97bd0c9-3a74-3783-bfa7-5e4c2fe0bf4a"
+      },
+      {
+       "album_slug": "tangerine-dream-goblins-club",
+       "titulo": "Goblins’ Club",
+       "anio": 1996,
+       "mbid": "51434c83-4021-317f-835d-d3a3cdc75f59"
+      },
+      {
+       "album_slug": "tangerine-dream-ambient-monkeys",
+       "titulo": "Ambient Monkeys",
+       "anio": 1997,
+       "mbid": "5f468e58-cd0a-30a7-a769-ff068f420e47"
+      },
+      {
+       "album_slug": "tangerine-dream-the-hollywood-years-volume-1",
+       "titulo": "The Hollywood Years, Volume 1",
+       "anio": 1998,
+       "mbid": "d27bebcd-e75d-3af0-98be-a71f6b34fd2c"
+      },
+      {
+       "album_slug": "tangerine-dream-the-hollywood-years-volume-2",
+       "titulo": "The Hollywood Years, Volume 2",
+       "anio": 1998,
+       "mbid": "e33daaea-4a8e-3022-a889-22b98f990384"
+      },
+      {
+       "album_slug": "tangerine-dream-mars-polaris",
+       "titulo": "Mars Polaris",
+       "anio": 1999,
+       "mbid": "1f9b9478-ff00-3e50-a2c5-2bc442ac0e6c"
+      },
+      {
+       "album_slug": "tangerine-dream-sonic-render-throbbing-up-polyphony-score",
+       "titulo": "Sonic Render: Throbbing Up Polyphony Score",
+       "anio": 1999,
+       "mbid": "d00b0d5c-b776-3a8d-8ea5-18fa485a968a"
+      },
+      {
+       "album_slug": "tangerine-dream-the-seven-letters-from-tibet",
+       "titulo": "The Seven Letters From Tibet",
+       "anio": 2000,
+       "mbid": "65b9467f-9bc2-35f3-9167-316b84e2bf7a"
+      },
+      {
+       "album_slug": "tangerine-dream-20010512-tangerine-leaves-volume-26-london-2001",
+       "titulo": "2001‐05‐12: Tangerine Leaves, Volume 26: London 2001",
+       "anio": 2003,
+       "mbid": "b3bcd734-a96e-415e-81da-90bb85f07397"
+      },
+      {
+       "album_slug": "tangerine-dream-20010512-tangerine-leaves-volume-27-london-2001",
+       "titulo": "2001‐05‐12: Tangerine Leaves, Volume 27: London 2001",
+       "anio": 2003,
+       "mbid": "ec791dd7-8271-4897-a429-605069e7c1b8"
+      },
+      {
+       "album_slug": "tangerine-dream-purgatorio",
+       "titulo": "Purgatorio",
+       "anio": 2004,
+       "mbid": "08b4580d-b7d7-3233-ae73-c8df2c6c62fe"
+      },
+      {
+       "album_slug": "tangerine-dream-phaedra-2005",
+       "titulo": "Phaedra 2005",
+       "anio": 2005,
+       "mbid": "84a2b5a5-acaa-44b9-b358-7849a3b3bc2c"
+      },
+      {
+       "album_slug": "tangerine-dream-kyoto",
+       "titulo": "Kyoto",
+       "anio": 2005,
+       "mbid": "a012cd2a-ad10-3e98-a463-47b07f1894b0"
+      },
+      {
+       "album_slug": "tangerine-dream-jeanne-darc",
+       "titulo": "Jeanne d’Arc",
+       "anio": 2005,
+       "mbid": "d8c46d9c-8b0e-344a-a4ba-9d5b4b62daed"
+      },
+      {
+       "album_slug": "tangerine-dream-tangerine-dream-plays-tangerine-dream",
+       "titulo": "Tangerine Dream Plays Tangerine Dream",
+       "anio": 2006,
+       "mbid": "13f357ea-98d1-387d-9f38-a6df22e73c97"
+      },
+      {
+       "album_slug": "tangerine-dream-blue-dawn",
+       "titulo": "Blue Dawn",
+       "anio": 2006,
+       "mbid": "2e629755-2e39-3ebc-bb4c-8b3963036962"
+      },
+      {
+       "album_slug": "tangerine-dream-paradiso",
+       "titulo": "Paradiso",
+       "anio": 2006,
+       "mbid": "bf68829e-97b1-44dc-9d0f-74f463f68c95"
+      },
+      {
+       "album_slug": "tangerine-dream-springtime-in-nagasaki",
+       "titulo": "Springtime in Nagasaki",
+       "anio": 2007,
+       "mbid": "b6af19b8-19bd-3be0-8da6-132a27a52dfb"
+      },
+      {
+       "album_slug": "tangerine-dream-madcaps-flaming-duty",
+       "titulo": "Madcap’s Flaming Duty",
+       "anio": 2007,
+       "mbid": "605ecbf5-548b-3494-b68f-a2bd39a38419"
+      },
+      {
+       "album_slug": "tangerine-dream-summer-in-nagasaki",
+       "titulo": "Summer in Nagasaki",
+       "anio": 2007,
+       "mbid": "b1668f73-728b-3a28-ab7b-ab78f88d99cb"
+      },
+      {
+       "album_slug": "tangerine-dream-one-times-one",
+       "titulo": "One Times One",
+       "anio": 2007,
+       "mbid": "00ec5cf0-8dce-3fab-a99a-248ad7cdc892"
+      },
+      {
+       "album_slug": "tangerine-dream-purple-diluvial",
+       "titulo": "Purple Diluvial",
+       "anio": 2008,
+       "mbid": "b622ebe9-345b-48f7-b099-2f8a1bd2fb22"
+      },
+      {
+       "album_slug": "tangerine-dream-views-from-a-red-train",
+       "titulo": "Views From a Red Train",
+       "anio": 2008,
+       "mbid": "71fc3a1e-195b-34ad-9d50-8a6b61bb8dc4"
+      },
+      {
+       "album_slug": "tangerine-dream-hyperborea-2008",
+       "titulo": "Hyperborea 2008",
+       "anio": 2008,
+       "mbid": "263751e3-863f-4292-92c9-8bc8e8fc9918"
+      },
+      {
+       "album_slug": "tangerine-dream-tangram-2008",
+       "titulo": "Tangram 2008",
+       "anio": 2008,
+       "mbid": "1b8ee01c-fd65-4e8e-8431-bd26146fd0de"
+      },
+      {
+       "album_slug": "tangerine-dream-autumn-in-hiroshima",
+       "titulo": "Autumn in Hiroshima",
+       "anio": 2008,
+       "mbid": "63a79a4d-79fb-3b2b-af39-afd37d904400"
+      },
+      {
+       "album_slug": "tangerine-dream-flame",
+       "titulo": "Flame",
+       "anio": 2009,
+       "mbid": "e2a9d320-a7c6-449f-9811-f8d23785bfc9"
+      },
+      {
+       "album_slug": "tangerine-dream-chandra-the-phantom-ferry-part-i",
+       "titulo": "Chandra: The Phantom Ferry, Part I",
+       "anio": 2009,
+       "mbid": "54dd3cd2-5cf6-499e-b62b-05cc73ca8821"
+      },
+      {
+       "album_slug": "tangerine-dream-winter-in-hiroshima",
+       "titulo": "Winter in Hiroshima",
+       "anio": 2009,
+       "mbid": "8b9abf62-687f-4bc4-acf1-053668f67a44"
+      },
+      {
+       "album_slug": "tangerine-dream-the-endless-season",
+       "titulo": "The Endless Season",
+       "anio": 2010,
+       "mbid": "9c906b8f-b19d-40a1-a0e4-8dfdfb066c78"
+      },
+      {
+       "album_slug": "tangerine-dream-under-cover-chapter-one",
+       "titulo": "Under Cover: Chapter One",
+       "anio": 2010,
+       "mbid": "6c2761d1-63a6-4481-b65e-060527d8408a"
+      },
+      {
+       "album_slug": "tangerine-dream-edgar-allan-poes-the-island-of-the-fay",
+       "titulo": "Edgar Allan Poe’s The Island of the Fay",
+       "anio": 2011,
+       "mbid": "062d8588-2267-4ba4-8b98-f7a0a5520714"
+      },
+      {
+       "album_slug": "tangerine-dream-the-angel-of-the-west-window",
+       "titulo": "The Angel of the West Window",
+       "anio": 2011,
+       "mbid": "52187bcc-c635-40aa-96e2-b1d903e78a07"
+      },
+      {
+       "album_slug": "tangerine-dream-the-gate-of-saturn",
+       "titulo": "The Gate of Saturn",
+       "anio": 2011,
+       "mbid": "79a26622-c53b-47ed-b154-aec70fc0d67b"
+      },
+      {
+       "album_slug": "tangerine-dream-mona-da-vinci",
+       "titulo": "Mona da Vinci",
+       "anio": 2011,
+       "mbid": "badfc2be-9a18-4ca0-863b-0d1d72750f4f"
+      },
+      {
+       "album_slug": "tangerine-dream-james-joyce-finnegans-wake",
+       "titulo": "James Joyce: Finnegans Wake",
+       "anio": 2011,
+       "mbid": "0b5aa03c-9f21-455c-a261-db9df1333317"
+      },
+      {
+       "album_slug": "tangerine-dream-machu-picchu",
+       "titulo": "Machu Picchu",
+       "anio": 2012,
+       "mbid": "1052b537-8636-411c-8a38-c0de1ae0102b"
+      },
+      {
+       "album_slug": "tangerine-dream-cruise-to-destiny-topographic-dreamtime",
+       "titulo": "Cruise to Destiny: Topographic Dreamtime",
+       "anio": 2013,
+       "mbid": "915f44d9-11a2-4166-ad4b-e715cea24f2a"
+      },
+      {
+       "album_slug": "tangerine-dream-one-night-in-africa",
+       "titulo": "One Night in Africa",
+       "anio": 2013,
+       "mbid": "227b5798-11e5-4c9d-931d-3c85a140db45"
+      },
+      {
+       "album_slug": "tangerine-dream-franz-kafka-the-castle",
+       "titulo": "Franz Kafka: The Castle",
+       "anio": 2013,
+       "mbid": "e34f5e78-3143-4456-9c92-ad7ac920e4c6"
+      },
+      {
+       "album_slug": "tangerine-dream-chandra-the-phantom-ferry-part-ii",
+       "titulo": "Chandra: The Phantom Ferry, Part II",
+       "anio": 2014,
+       "mbid": "f6fc4de9-c800-43fd-849c-5b53b4bfa143"
+      },
+      {
+       "album_slug": "tangerine-dream-mala-kunia",
+       "titulo": "Mala Kunia",
+       "anio": 2014,
+       "mbid": "3aa4ec8f-81d6-496e-b19f-003cf97ca213"
+      },
+      {
+       "album_slug": "tangerine-dream-quantum-gate",
+       "titulo": "Quantum Gate",
+       "anio": 2017,
+       "mbid": "fadb4b31-523e-4025-b01b-2738f715a074"
+      },
+      {
+       "album_slug": "tangerine-dream-light-flux",
+       "titulo": "Light Flux",
+       "anio": 2017,
+       "mbid": "704ed1dc-ec9e-4dbe-b5e5-9fea5c22a7aa"
+      },
+      {
+       "album_slug": "tangerine-dream-oedipus-tyrannus",
+       "titulo": "Oedipus Tyrannus",
+       "anio": 2019,
+       "mbid": "1b4e239d-1eff-47fa-b53a-efad96b56993"
+      },
+      {
+       "album_slug": "tangerine-dream-recurring-dreams",
+       "titulo": "Recurring Dreams",
+       "anio": 2019,
+       "mbid": "d02eb1ba-00a1-4dcf-bef2-89424943cae8"
+      },
+      {
+       "album_slug": "tangerine-dream-raum",
+       "titulo": "Raum",
+       "anio": 2022,
+       "mbid": "064d4431-fe1d-4a79-a32a-f1ef15f1c137"
+      }
+     ]
+    },
+    {
+     "slug": "klaus-schulze",
+     "catalogo": [
+      {
+       "album_slug": "klaus-schulze-irrlicht",
+       "titulo": "Irrlicht",
+       "anio": 1972,
+       "mbid": "665dc0f3-0ac4-3a08-8e51-2d3b734ae45b"
+      },
+      {
+       "album_slug": "klaus-schulze-cyborg",
+       "titulo": "Cyborg",
+       "anio": 1973,
+       "mbid": "d768c878-9428-36d7-9dcf-1944cd02411c"
+      },
+      {
+       "album_slug": "klaus-schulze-blackdance",
+       "titulo": "Blackdance",
+       "anio": 1974,
+       "mbid": "4d51625e-a291-3d19-9c11-56c9aefa696f"
+      },
+      {
+       "album_slug": "klaus-schulze-picture-music",
+       "titulo": "Picture Music",
+       "anio": 1975,
+       "mbid": "68c45520-a7dd-31a8-b02e-fe355fce491d"
+      },
+      {
+       "album_slug": "klaus-schulze-timewind",
+       "titulo": "Timewind",
+       "anio": 1975,
+       "mbid": "067213bb-4cfd-3376-8087-f9b4e389d154"
+      },
+      {
+       "album_slug": "klaus-schulze-moondawn",
+       "titulo": "Moondawn",
+       "anio": 1976,
+       "mbid": "59691950-e09d-358d-baca-625c284ff1c1"
+      },
+      {
+       "album_slug": "klaus-schulze-mirage",
+       "titulo": "Mirage",
+       "anio": 1977,
+       "mbid": "460c7232-38c7-3404-abf3-8e7adba91df2"
+      },
+      {
+       "album_slug": "klaus-schulze-x",
+       "titulo": "“X”",
+       "anio": 1978,
+       "mbid": "07e21952-9bdf-38d3-a400-5759cf1f7582"
+      },
+      {
+       "album_slug": "klaus-schulze-dune",
+       "titulo": "Dune",
+       "anio": 1979,
+       "mbid": "e4fa7b83-d14a-3093-a17f-ea46ad308cd8"
+      },
+      {
+       "album_slug": "klaus-schulze-dig-it",
+       "titulo": "Dig It",
+       "anio": 1980,
+       "mbid": "6ac14fe3-1e5c-3c82-9fb6-3c5ddd6df869"
+      },
+      {
+       "album_slug": "klaus-schulze-trancefer",
+       "titulo": "Trancefer",
+       "anio": 1981,
+       "mbid": "4c3612e9-6c29-3f92-89d5-890e55442e35"
+      },
+      {
+       "album_slug": "klaus-schulze-audentity",
+       "titulo": "Audentity",
+       "anio": 1983,
+       "mbid": "1873ad76-b43a-33da-a88f-9a6bcc4c53c8"
+      },
+      {
+       "album_slug": "klaus-schulze-transfer-station-blue",
+       "titulo": "Transfer Station Blue",
+       "anio": 1984,
+       "mbid": "188d5543-418b-3574-aac0-13d4f89418c0"
+      },
+      {
+       "album_slug": "klaus-schulze-aphrica",
+       "titulo": "Aphrica",
+       "anio": 1984,
+       "mbid": "ef57a2a0-5002-3b05-98f5-c2c50f589a4b"
+      },
+      {
+       "album_slug": "klaus-schulze-drive-inn",
+       "titulo": "Drive Inn",
+       "anio": 1984,
+       "mbid": "8e5bfda5-3ef7-38f2-b4f0-0684c0726927"
+      },
+      {
+       "album_slug": "klaus-schulze-inter-face",
+       "titulo": "Inter*Face",
+       "anio": 1985,
+       "mbid": "9fa08de6-4623-3068-95e8-d650aab1850b"
+      },
+      {
+       "album_slug": "klaus-schulze-dreams",
+       "titulo": "Dreams",
+       "anio": 1986,
+       "mbid": "11619500-88be-3875-8102-c7f9d4820c6e"
+      },
+      {
+       "album_slug": "klaus-schulze-babel",
+       "titulo": "Babel",
+       "anio": 1987,
+       "mbid": "68f68c72-7714-3a5c-b463-e8106b39ab5c"
+      },
+      {
+       "album_slug": "klaus-schulze-en-trance",
+       "titulo": "En=Trance",
+       "anio": 1988,
+       "mbid": "10df53fd-e881-3ee2-9e44-26373c504d44"
+      },
+      {
+       "album_slug": "klaus-schulze-miditerranean-pads",
+       "titulo": "Miditerranean Pads",
+       "anio": 1990,
+       "mbid": "fb0d8448-8337-3943-b436-97a17f7ace13"
+      },
+      {
+       "album_slug": "klaus-schulze-beyond-recall",
+       "titulo": "Beyond Recall",
+       "anio": 1991,
+       "mbid": "2f53e263-fd8f-3c01-9b51-19e35b6f7916"
+      },
+      {
+       "album_slug": "klaus-schulze-klaus-schulze-goes-classic",
+       "titulo": "Klaus Schulze Goes Classic",
+       "anio": 1994,
+       "mbid": "26814864-0aa0-3b17-a511-1d2244ea9f41"
+      },
+      {
+       "album_slug": "klaus-schulze-totentag",
+       "titulo": "Totentag",
+       "anio": 1994,
+       "mbid": "3ba8a00a-1d91-3e66-b5bf-534efe63d5f5"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog",
+       "titulo": "The Dark Side of the Moog",
+       "anio": 1994,
+       "mbid": "bbab0d52-31fc-3246-8dba-f26f441bd594"
+      },
+      {
+       "album_slug": "klaus-schulze-in-blue",
+       "titulo": "In Blue",
+       "anio": 1995,
+       "mbid": "7ad2eb62-7980-38be-a8c5-d07e7f014f51"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog-ii",
+       "titulo": "The Dark Side of the Moog II",
+       "anio": 1995,
+       "mbid": "a8217bc4-4708-3835-8a54-6df59e48d184"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog-iii",
+       "titulo": "The Dark Side of the Moog III",
+       "anio": 1995,
+       "mbid": "e8abf45e-75f5-3bae-9867-3e231e4d75d1"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog-iv",
+       "titulo": "The Dark Side of the Moog IV",
+       "anio": 1996,
+       "mbid": "4ae0ec42-009c-31c0-a34f-6720f0d18a2d"
+      },
+      {
+       "album_slug": "klaus-schulze-are-you-sequenced",
+       "titulo": "Are You Sequenced?",
+       "anio": 1996,
+       "mbid": "96cf9ee2-1085-3e76-8ec2-2bcbd76f9393"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog-v",
+       "titulo": "The Dark Side of the Moog V",
+       "anio": 1996,
+       "mbid": "549a85cf-086a-3d50-a92b-5a8fc54ec41e"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog-vi",
+       "titulo": "The Dark Side of the Moog VI",
+       "anio": 1997,
+       "mbid": "b91d4ef9-dcd8-31f5-b75d-2110e6b4b8e6"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog-vii",
+       "titulo": "The Dark Side of the Moog VII",
+       "anio": 1998,
+       "mbid": "b183233d-94d4-38f4-b6ed-d574624638a2"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog-viii",
+       "titulo": "The Dark Side of the Moog VIII",
+       "anio": 1999,
+       "mbid": "df26cfaa-5148-3dac-a860-3e8f86f23516"
+      },
+      {
+       "album_slug": "klaus-schulze-contemporary-works-i",
+       "titulo": "Contemporary Works I",
+       "anio": 2000,
+       "mbid": "1612521e-956b-340d-a58c-ad5c6093437d"
+      },
+      {
+       "album_slug": "klaus-schulze-contemporary-works-ii",
+       "titulo": "Contemporary Works II",
+       "anio": 2002,
+       "mbid": "025e07a1-b5c1-3d7e-99bc-0789b5bc6694"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog-ix",
+       "titulo": "The Dark Side of the Moog IX",
+       "anio": 2002,
+       "mbid": "0a647c5e-ab0b-334e-9307-1616a667f2fb"
+      },
+      {
+       "album_slug": "klaus-schulze-thank-you",
+       "titulo": "Thank You",
+       "anio": 2002,
+       "mbid": "0b19af2f-1b56-4fc4-84b4-82815d9ad213"
+      },
+      {
+       "album_slug": "klaus-schulze-ion",
+       "titulo": "Ion",
+       "anio": 2004,
+       "mbid": "8f0320cb-19c2-440d-95f9-6f5ad476f94e"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog-x",
+       "titulo": "The Dark Side of the Moog X",
+       "anio": 2005,
+       "mbid": "45d5c5e4-3cae-36da-9f8e-0c826e8ca84c"
+      },
+      {
+       "album_slug": "klaus-schulze-moonlake",
+       "titulo": "Moonlake",
+       "anio": 2005,
+       "mbid": "9b67263c-b000-3cde-9cc2-69c6c3beaf35"
+      },
+      {
+       "album_slug": "klaus-schulze-kontinuum",
+       "titulo": "Kontinuum",
+       "anio": 2007,
+       "mbid": "eb13b542-426a-3db6-8fa8-c7152f871079"
+      },
+      {
+       "album_slug": "klaus-schulze-the-dark-side-of-the-moog-xi",
+       "titulo": "The Dark Side of the Moog XI",
+       "anio": 2008,
+       "mbid": "ec8cfa1c-9c0f-4651-896f-d9a7cf2e8b96"
+      },
+      {
+       "album_slug": "klaus-schulze-farscape",
+       "titulo": "Farscape",
+       "anio": 2008,
+       "mbid": "9d22e9f8-2444-345f-8e8a-24e6ac747c67"
+      },
+      {
+       "album_slug": "klaus-schulze-come-quietly",
+       "titulo": "Come Quietly",
+       "anio": 2009,
+       "mbid": "91b3c591-f63a-49da-94a6-cd6b425f8020"
+      },
+      {
+       "album_slug": "klaus-schulze-the-schulzeschickert-session",
+       "titulo": "The Schulze‐Schickert Session",
+       "anio": 2013,
+       "mbid": "550d288e-3d4b-4ce1-8e07-e2d7ee8ce7b7"
+      },
+      {
+       "album_slug": "klaus-schulze-shadowlands",
+       "titulo": "Shadowlands",
+       "anio": 2013,
+       "mbid": "3f3b7c93-b87d-4c99-94d6-b2c27234f47d"
+      },
+      {
+       "album_slug": "klaus-schulze-silhouettes",
+       "titulo": "Silhouettes",
+       "anio": 2018,
+       "mbid": "02c6cc6f-7799-4813-b219-662ea51d43a6"
+      },
+      {
+       "album_slug": "klaus-schulze-vat-was-dat",
+       "titulo": "Vat Was Dat",
+       "anio": 2022,
+       "mbid": "0638302e-11c3-41ca-b418-2f6ef7653060"
+      },
+      {
+       "album_slug": "klaus-schulze-deus-arrakis",
+       "titulo": "Deus Arrakis",
+       "anio": 2022,
+       "mbid": "c47d51f4-651c-4158-937f-04314af38a61"
+      },
+      {
+       "album_slug": "klaus-schulze-101-milky-way",
+       "titulo": "101, Milky Way",
+       "anio": 2024,
+       "mbid": "753fd023-579d-4b1a-a694-de17fa9962fc"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kraut-resto",
+   "ficha_prototipo": "Faust · Neu! · Amon Düül II · Kraftwerk",
+   "escena": "Alemania",
+   "texto_fuente": "Faust (71, vinilo transparente) y el recopilatorio The Faust Tapes vendido a 49 peniques por Virgin como caballo de Troya comercial. Neu! (72) y Neu! 75: el motorik como minimalismo bailable. Amon Düül II: Phallus Dei (69), Yeti (70), Tanz der Lemminge (71), la comuna hecha sonido. Y Kraftwerk saliendo del kraut hacia otra cosa con Autobahn (74, UK 4/US 5): el punto exacto donde esta historia se convierte en la siguiente.",
+   "artistas": [
+    {
+     "slug": "faust",
+     "catalogo": [
+      {
+       "album_slug": "faust-faust",
+       "titulo": "Faust",
+       "anio": 1971,
+       "mbid": "cff68c1a-3298-390c-8445-840f8a46bd39"
+      },
+      {
+       "album_slug": "faust-so-far",
+       "titulo": "So Far",
+       "anio": 1972,
+       "mbid": "5eb73318-610f-39dd-ac16-89d88ef1341a"
+      },
+      {
+       "album_slug": "faust-faust-iv",
+       "titulo": "Faust IV",
+       "anio": 1973,
+       "mbid": "75ec1e72-cc7d-37b6-bebd-a1131b578e7b"
+      },
+      {
+       "album_slug": "faust-outside-the-dream-syndicate",
+       "titulo": "Outside the Dream Syndicate",
+       "anio": 1973,
+       "mbid": "b04ef457-0584-42ef-b2fa-374bba9d3726"
+      },
+      {
+       "album_slug": "faust-the-faust-tapes",
+       "titulo": "The Faust Tapes",
+       "anio": 1973,
+       "mbid": "a98fd038-9ef0-4393-8691-85e9db7457b1"
+      },
+      {
+       "album_slug": "faust-faust-v",
+       "titulo": "Faust V",
+       "anio": 1975,
+       "mbid": "0bfead21-fd22-4727-90ef-ca5faf5e8c76"
+      },
+      {
+       "album_slug": "faust-rien",
+       "titulo": "Rien",
+       "anio": 1995,
+       "mbid": "42c52add-dc8f-3736-9141-e716058384cd"
+      },
+      {
+       "album_slug": "faust-you-know-faust",
+       "titulo": "You Know Faust",
+       "anio": 1996,
+       "mbid": "37eb26c0-86a7-3fd8-be70-7221e0097b1d"
+      },
+      {
+       "album_slug": "faust-untitled",
+       "titulo": "[untitled]",
+       "anio": 1996,
+       "mbid": "acdbc510-7eb0-4b81-b037-965c172cd82f"
+      },
+      {
+       "album_slug": "faust-edinburgh-1997",
+       "titulo": "Edinburgh 1997",
+       "anio": 1997,
+       "mbid": "5a2aab84-593e-4a1f-a7c4-6bf529cae196"
+      },
+      {
+       "album_slug": "faust-faust-wakes-nosferatu",
+       "titulo": "Faust Wakes Nosferatu",
+       "anio": 1997,
+       "mbid": "278b40fe-4b7f-361c-923a-b5b41bb3d836"
+      },
+      {
+       "album_slug": "faust-ravvivando",
+       "titulo": "Ravvivando",
+       "anio": 1999,
+       "mbid": "3978cebf-4c8f-3edd-8767-853d3a5cdc71"
+      },
+      {
+       "album_slug": "faust-derbe-respect-alder",
+       "titulo": "Derbe Respect, Alder",
+       "anio": 2004,
+       "mbid": "9646af61-aa8f-38fe-8dcd-61995e44d441"
+      },
+      {
+       "album_slug": "faust-disconnected",
+       "titulo": "Disconnected",
+       "anio": 2007,
+       "mbid": "dfc626ee-83d7-4e82-8d3b-6d0a2598992e"
+      },
+      {
+       "album_slug": "faust-c-est-com-com-complique",
+       "titulo": "C'est com... com... compliqué",
+       "anio": 2009,
+       "mbid": "c3ce0e8a-6bbd-3d23-ae38-cea097ad1c53"
+      },
+      {
+       "album_slug": "faust-schiphorst-2008",
+       "titulo": "Schiphorst 2008",
+       "anio": 2009,
+       "mbid": "954a7c55-d5c0-4c25-a62e-3b50e4ef2102"
+      },
+      {
+       "album_slug": "faust-faust-is-last",
+       "titulo": "Faust Is Last",
+       "anio": 2010,
+       "mbid": "d91d4e73-1336-4b62-b10b-a8e6d26eedf9"
+      },
+      {
+       "album_slug": "faust-john-cage-radio-music",
+       "titulo": "John Cage - Radio Music",
+       "anio": 2010,
+       "mbid": "25224ccc-4a6d-4358-8435-7f7c8117f062"
+      },
+      {
+       "album_slug": "faust-something-dirty",
+       "titulo": "Something Dirty",
+       "anio": 2011,
+       "mbid": "612936da-50a6-4441-a1a0-a571aed542fb"
+      },
+      {
+       "album_slug": "faust-taramul-nicaieri",
+       "titulo": "Tărâmul Nicăieri",
+       "anio": 2014,
+       "mbid": "48f44c8d-ec88-44b0-a046-582e247ef7d0"
+      },
+      {
+       "album_slug": "faust-just",
+       "titulo": "jUSt",
+       "anio": 2014,
+       "mbid": "767fe563-5adf-48b7-9aeb-7c1d57deb0bf"
+      },
+      {
+       "album_slug": "faust-born-in-1951",
+       "titulo": "Born in 1951",
+       "anio": 2015,
+       "mbid": "3281c029-f096-4fe3-b9fa-d7a1040b5cb3"
+      },
+      {
+       "album_slug": "faust-fresh-air",
+       "titulo": "Fresh Air",
+       "anio": 2017,
+       "mbid": "c9b7c58e-204e-46cf-8cb9-fb8c66fcce6d"
+      },
+      {
+       "album_slug": "faust-daumenbruch",
+       "titulo": ",,Daumenbruch''",
+       "anio": 2022,
+       "mbid": "c9c9405e-b7ef-445f-bffa-e5ee45f11b78"
+      },
+      {
+       "album_slug": "faust-punkt",
+       "titulo": "Punkt",
+       "anio": 2022,
+       "mbid": "0971d105-6ed6-4a38-9829-a06c8fec8851"
+      },
+      {
+       "album_slug": "faust-this-is-the-right-path",
+       "titulo": "This Is The Right Path",
+       "anio": 2022,
+       "mbid": "2bf17453-c0b1-4b0e-a88c-bb19b6fe6f7c"
+      },
+      {
+       "album_slug": "faust-blickwinkel-curated-by-zappi-w-diermaier",
+       "titulo": "Blickwinkel (curated by Zappi W. Diermaier)",
+       "anio": 2024,
+       "mbid": "fd79a1d2-cf83-4b3f-a21b-f203932eeab6"
+      },
+      {
+       "album_slug": "faust-live-at-wfmu-fest-oct-1-2009",
+       "titulo": "Live at WFMU Fest, Oct 1 2009",
+       "anio": null,
+       "mbid": "806f11b0-bddb-4e94-ae54-6214730ea5ae"
+      }
+     ]
+    },
+    {
+     "slug": "neu",
+     "catalogo": [
+      {
+       "album_slug": "neu-neu",
+       "titulo": "Neu!",
+       "anio": 1972,
+       "mbid": "00b3e683-47fa-3302-add0-4c0cecc5224e"
+      },
+      {
+       "album_slug": "neu-neu-2",
+       "titulo": "Neu! 2",
+       "anio": 1973,
+       "mbid": "9ea01d83-e7e9-3445-a1bc-e231ebec635b"
+      },
+      {
+       "album_slug": "neu-neu-75",
+       "titulo": "Neu! ’75",
+       "anio": 1975,
+       "mbid": "34ec11b1-07d4-3a25-a5bf-d43097a91f35"
+      },
+      {
+       "album_slug": "neu-neu-4",
+       "titulo": "Neu! 4",
+       "anio": 1995,
+       "mbid": "00b1fc46-1588-3022-acc5-a36b2342f123"
+      },
+      {
+       "album_slug": "neu-neu-86",
+       "titulo": "Neu! ’86",
+       "anio": 2010,
+       "mbid": "461cd301-9a9b-47f1-a3b0-4bff86a84da3"
+      }
+     ]
+    },
+    {
+     "slug": "amon-duul-ii",
+     "catalogo": [
+      {
+       "album_slug": "amon-duul-ii-phallus-dei",
+       "titulo": "Phallus Dei",
+       "anio": 1969,
+       "mbid": "a094de41-518b-3e71-8f67-cb20b51065bd"
+      },
+      {
+       "album_slug": "amon-duul-ii-yeti",
+       "titulo": "Yeti",
+       "anio": 1970,
+       "mbid": "9dc1970e-6e6c-3143-b775-a54197d2c38d"
+      },
+      {
+       "album_slug": "amon-duul-ii-tanz-der-lemminge",
+       "titulo": "Tanz der Lemminge",
+       "anio": 1971,
+       "mbid": "a9aa820e-1ab9-37dc-8888-7da6ae7e012f"
+      },
+      {
+       "album_slug": "amon-duul-ii-carnival-in-babylon",
+       "titulo": "Carnival in Babylon",
+       "anio": 1972,
+       "mbid": "1d848082-e53b-3cd2-9f3b-0488e9ed7c44"
+      },
+      {
+       "album_slug": "amon-duul-ii-wolf-city",
+       "titulo": "Wolf City",
+       "anio": 1972,
+       "mbid": "84743813-9923-37c1-b54b-d7ab0d336c49"
+      },
+      {
+       "album_slug": "amon-duul-ii-vive-la-trance",
+       "titulo": "Vive La Trance",
+       "anio": 1973,
+       "mbid": "6588c3d6-72e2-3df9-863d-8c3c153580d6"
+      },
+      {
+       "album_slug": "amon-duul-ii-hijack",
+       "titulo": "Hijack",
+       "anio": 1974,
+       "mbid": "74105f17-d597-3baa-8fe9-e059f293bdab"
+      },
+      {
+       "album_slug": "amon-duul-ii-made-in-germany",
+       "titulo": "Made in Germany",
+       "anio": 1975,
+       "mbid": "8c31dfc5-6036-3fd0-b603-787255ffaa9b"
+      },
+      {
+       "album_slug": "amon-duul-ii-pyragony-x",
+       "titulo": "Pyragony X",
+       "anio": 1976,
+       "mbid": "8392119c-3082-3eeb-82bf-89517a9c82cb"
+      },
+      {
+       "album_slug": "amon-duul-ii-almost-alive",
+       "titulo": "Almost Alive…",
+       "anio": 1977,
+       "mbid": "19b989ec-29e3-3109-b3c9-3b99e3272e5f"
+      },
+      {
+       "album_slug": "amon-duul-ii-only-human",
+       "titulo": "Only Human",
+       "anio": 1978,
+       "mbid": "f9ae137d-4339-3936-8a38-94da2016ebab"
+      },
+      {
+       "album_slug": "amon-duul-ii-vortex",
+       "titulo": "Vortex",
+       "anio": 1981,
+       "mbid": "ad294746-3148-3cd0-b16a-0fefce436059"
+      },
+      {
+       "album_slug": "amon-duul-ii-hawk-meets-penguin",
+       "titulo": "Hawk Meets Penguin",
+       "anio": 1982,
+       "mbid": "38385032-cdec-4ea2-961a-b2400e9fbdfa"
+      },
+      {
+       "album_slug": "amon-duul-ii-meetings-with-menmachines-inglorious-heroes-of-the-past",
+       "titulo": "Meetings With Menmachines Inglorious Heroes of the Past…",
+       "anio": 1983,
+       "mbid": "7be74343-c825-461e-b53b-4102287daccc"
+      },
+      {
+       "album_slug": "amon-duul-ii-nada-moonshine",
+       "titulo": "Nada Moonshine #",
+       "anio": 1995,
+       "mbid": "cd139364-3420-38a8-b3b2-c084d6f9effe"
+      },
+      {
+       "album_slug": "amon-duul-ii-eternal-flashback",
+       "titulo": "Eternal Flashback",
+       "anio": 1996,
+       "mbid": "b77e356a-0383-49fb-be24-6488cae0205d"
+      },
+      {
+       "album_slug": "amon-duul-ii-kobe-reconstructions",
+       "titulo": "Kobe (Reconstructions)",
+       "anio": 1996,
+       "mbid": "4648436c-f820-4e74-aeda-0d71fa83084a"
+      },
+      {
+       "album_slug": "amon-duul-ii-flawless",
+       "titulo": "Flawless",
+       "anio": 1997,
+       "mbid": "de49a4a1-f0af-3dd6-9a67-ac3378347b09"
+      },
+      {
+       "album_slug": "amon-duul-ii-bee-as-such",
+       "titulo": "Bee as Such",
+       "anio": 2010,
+       "mbid": "4da5a905-1614-4d28-81a8-d172a40c5557"
+      },
+      {
+       "album_slug": "amon-duul-ii-duulirium",
+       "titulo": "Düülirium",
+       "anio": 2014,
+       "mbid": "2c10c69e-4f1f-49ce-9895-843fae7333bd"
+      }
+     ]
+    },
+    {
+     "slug": "kraftwerk",
+     "catalogo": [
+      {
+       "album_slug": "kraftwerk-kraftwerk",
+       "titulo": "Kraftwerk",
+       "anio": 1970,
+       "mbid": "47e62190-67b6-3d37-951c-43eb14894b3e"
+      },
+      {
+       "album_slug": "kraftwerk-kraftwerk-2",
+       "titulo": "Kraftwerk 2",
+       "anio": 1972,
+       "mbid": "b44d78cc-41d7-3f84-b397-4b135a3f7d9d"
+      },
+      {
+       "album_slug": "kraftwerk-ralf-florian",
+       "titulo": "Ralf & Florian",
+       "anio": 1973,
+       "mbid": "6d2f3c22-7f2f-3076-9005-96c6540616f7"
+      },
+      {
+       "album_slug": "kraftwerk-autobahn",
+       "titulo": "Autobahn",
+       "anio": 1974,
+       "mbid": "f73729e8-4501-3088-aa20-44945296036e"
+      },
+      {
+       "album_slug": "kraftwerk-radioaktivitat",
+       "titulo": "Radio‐Aktivität",
+       "anio": 1975,
+       "mbid": "104cc34f-b4f9-3fb1-b2a0-fce32b36ec1f"
+      },
+      {
+       "album_slug": "kraftwerk-trans-europa-express",
+       "titulo": "Trans Europa Express",
+       "anio": 1977,
+       "mbid": "33101a28-ae05-3a69-873c-684e336fe2df"
+      },
+      {
+       "album_slug": "kraftwerk-die-menschmaschine",
+       "titulo": "Die Mensch·Maschine",
+       "anio": 1978,
+       "mbid": "d147e89b-90ca-35b6-9f7b-3e34b8edf63f"
+      },
+      {
+       "album_slug": "kraftwerk-computerwelt",
+       "titulo": "Computerwelt",
+       "anio": 1981,
+       "mbid": "2e58b620-cf80-3b07-a5bc-edabd69ba285"
+      },
+      {
+       "album_slug": "kraftwerk-electric-cafe",
+       "titulo": "Electric Cafe",
+       "anio": 1986,
+       "mbid": "2b04bde9-1bbc-3f6b-b67d-24ad473d8912"
+      },
+      {
+       "album_slug": "kraftwerk-numbers",
+       "titulo": "Numbers",
+       "anio": 1992,
+       "mbid": "e54c0db3-0225-4588-b178-345e43c6330b"
+      },
+      {
+       "album_slug": "kraftwerk-kraftwerk-the-very-best",
+       "titulo": "Kraftwerk: The Very Best",
+       "anio": 1995,
+       "mbid": "89217608-21e2-42ae-89f4-10fe64b008de"
+      },
+      {
+       "album_slug": "kraftwerk-neue-version",
+       "titulo": "Neue Version",
+       "anio": 1999,
+       "mbid": "5389dde6-d416-4845-a550-84d11a032837"
+      },
+      {
+       "album_slug": "kraftwerk-tour-de-france-soundtracks",
+       "titulo": "Tour de France Soundtracks",
+       "anio": 2003,
+       "mbid": "e963cb1e-ec72-303d-9a3f-9fcb89188436"
+      },
+      {
+       "album_slug": "kraftwerk-aerodynamik-expo-2000-remix",
+       "titulo": "Aerodynamik / Expo 2000 Remix",
+       "anio": 2004,
+       "mbid": "450400a1-ece4-401d-9a81-22db640f555e"
+      },
+      {
+       "album_slug": "kraftwerk-deutsche-wertarbeit",
+       "titulo": "Deutsche Wertarbeit",
+       "anio": 2005,
+       "mbid": "46a424c2-1d48-4dfd-993a-695419268a94"
+      },
+      {
+       "album_slug": "kraftwerk-radio-bremen-1971",
+       "titulo": "Radio Bremen 1971",
+       "anio": 2017,
+       "mbid": "d2589899-2661-40d1-bc6c-e934a9392a1a"
+      },
+      {
+       "album_slug": "kraftwerk-the-continental-drift",
+       "titulo": "The Continental Drift",
+       "anio": 2024,
+       "mbid": "9c2358dc-f7e5-48e6-98ab-96c2e1ebccdb"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

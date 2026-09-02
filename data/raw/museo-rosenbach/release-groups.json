@@ -1,0 +1,83 @@
+{
+  "release-group-count": 7,
+  "release-groups": [
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2012-03-15",
+      "title": "Rarities",
+      "secondary-type-ids": [],
+      "id": "43d45dbe-f0bc-4065-a730-1cd7c4d7aff0",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": []
+    },
+    {
+      "first-release-date": "2000",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Exit",
+      "id": "58c92bb3-8807-4041-a121-bedd64fb6122",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1992",
+      "title": "Live '72",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "b451903c-ebb5-4caf-ab6e-1f12a3cf062c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "id": "c376e6f9-23a5-3f26-abde-843d351c6140",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1973-04",
+      "title": "Zarathustra"
+    },
+    {
+      "title": "Rare and Unreleased",
+      "first-release-date": "1992",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "c59ac8f3-70b8-3089-a93a-273b8128c4b7",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "Zarathustra Live in Studio",
+      "first-release-date": "2012",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "ed2fe3a5-f60c-479d-9e18-cbb2b3a1eea2",
+      "secondary-type-ids": []
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2014",
+      "title": "Live in Tokyo",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "ed8a6377-f320-4ff1-b65a-37d3301ce728",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    }
+  ]
+}

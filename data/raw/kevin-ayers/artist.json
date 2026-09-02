@@ -1,0 +1,612 @@
+{
+  "country": "GB",
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "name": "Kevin Ayers",
+  "relations": [
+    {
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "name": "Miss Cinderella",
+        "country": null,
+        "id": "8f438101-dabd-43b8-a4e9-aa15ce6349cc",
+        "type": "Person",
+        "sort-name": "Miss Cinderella",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "begin": "1974",
+      "type": "involved with",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "fd3927ba-fd51-4fa9-bcc2-e83637896fe8",
+      "attributes": [],
+      "end": "1974"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1965-03",
+      "attributes": [],
+      "type": "member of band",
+      "begin": "1964",
+      "target-type": "artist",
+      "direction": "forward",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Wilde Flowers, The",
+        "id": "c469a897-dfd3-43cf-a252-8e364b0c7bb3",
+        "country": "GB",
+        "name": "The Wilde Flowers",
+        "disambiguation": ""
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "begin": "1966",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "original"
+      ],
+      "end": "1968-11",
+      "ended": true,
+      "artist": {
+        "id": "5193ce6b-a315-4c50-ae49-54e69ffbc988",
+        "sort-name": "Soft Machine",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "British rock band",
+        "name": "Soft Machine",
+        "country": "GB"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Kevin Ayers & The Whole World",
+        "country": "GB",
+        "id": "730127f0-727e-4c9c-8c9a-bf1da90ffae9",
+        "type": "Group",
+        "sort-name": "Ayers, Kevin & The Whole World",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "type": "member of band",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "parent",
+      "target-type": "artist",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "id": "ae273062-ab3e-4a35-bcb5-96b3281a4768",
+        "sort-name": "Ayers, Rachel",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Rachel Ayers",
+        "country": null
+      },
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "parent",
+      "target-type": "artist",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Ayers, Galen",
+        "id": "6faf17c1-98ad-4d27-8115-db683acbcf7b",
+        "country": "US",
+        "name": "Galen Ayers",
+        "disambiguation": ""
+      },
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": "1992-05-29",
+      "attribute-values": {},
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "supporting musician",
+      "begin": "1976",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "name": "Ollie Halsall",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5155138f-d56a-445b-ae7a-378e91012294",
+        "type": "Person",
+        "sort-name": "Halsall, Ollie"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "supporting musician",
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "country": "GB",
+        "name": "Zoot Money",
+        "disambiguation": "keyboardist, composer and occasional actor",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Money, Zoot",
+        "type": "Person",
+        "id": "7f67c63e-c5a4-470a-85ce-677f7c6a94a4"
+      }
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "allmusic",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "6f73366e-5cce-4f2a-9764-7fa3a335360c",
+        "resource": "https://www.allmusic.com/artist/mn0000080118"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.discogs.com/artist/45646",
+        "id": "da55b655-fb54-489a-9ecb-8eccbffed2b0"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "discogs",
+      "begin": null
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "http://www.users.globalnet.co.uk/~marwak/index.html",
+        "id": "0b4371a0-21e6-4315-afa5-7611f3a50b2c"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "fanpage",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "free streaming",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "fd18c0b9-ab95-49c4-9da0-5688945cec08",
+        "resource": "https://open.spotify.com/artist/5k5yIvxtsqHqWrRBF3nhSY"
+      }
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.deezer.com/artist/16990",
+        "id": "3a8b706a-f8d5-4d80-9de1-f06040bf77cc"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "free streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "end": null,
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "22825af2-36e6-4d74-a181-049a9146c47c",
+        "resource": "https://commons.wikimedia.org/wiki/File:KevinAyers1974.jpg"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "image",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "890ec339-e63d-4f8e-ade5-87254521bc52",
+        "resource": "https://www.imdb.com/name/nm1146607/"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "IMDb"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "type": "official homepage",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-values": {},
+      "ended": true,
+      "url": {
+        "resource": "http://www.kevin-ayers.com/",
+        "id": "6170db57-1531-4897-86e0-50fe5b9f6841"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "fb0bbce4-d110-4734-a611-846f34ba1b66",
+        "resource": "http://id.loc.gov/authorities/names/n94064827"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13944475x",
+        "id": "7f2fa881-e7ca-4d8c-8ec9-9037eea80685"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://d-nb.info/gnd/134629477",
+        "id": "6a222209-8ecd-4ac6-822e-ce7579b58942"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/kevin_ayers",
+        "id": "66e8efe8-410d-48a1-8ded-e2bb0441c796"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.45cat.com/artist/kevin-ayers",
+        "id": "eb5aa293-886c-4bcb-b338-20df308b7f65"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "url": {
+        "id": "94f29bd1-d73f-45d2-a62a-c653aafecd15",
+        "resource": "https://www.worldcat.org/identities/lccn-n94064827"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attributes": [],
+      "type": "purchase for download",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "25dd58be-2cfd-42b8-9e6b-7e965dd571ba",
+        "resource": "https://open.qobuz.com/artist/198265"
+      },
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "songkick",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "3105515e-aae8-4f8b-8b26-39bc747ec7a9",
+        "resource": "https://www.songkick.com/artists/144849"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.qobuz.com/artist/198265",
+        "id": "25dd58be-2cfd-42b8-9e6b-7e965dd571ba"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "attributes": [],
+      "type": "streaming",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "streaming",
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://tidal.com/artist/56113",
+        "id": "10882ded-ead9-479e-8652-c0877c431271"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "VIAF",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/39567126",
+        "id": "871ccc79-3134-45d0-9227-57d1031bc7c2"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "wikidata",
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q280077",
+        "id": "32f4d104-e5e4-455c-bdd7-3ebfa26db164"
+      },
+      "attribute-ids": {}
+    }
+  ],
+  "gender": "Male",
+  "ipis": [
+    "00041122342"
+  ],
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "end-area": {
+    "id": "22e800c7-1396-4203-b370-61ac9c93af03",
+    "sort-name": "Montolieu",
+    "disambiguation": "",
+    "type": null,
+    "name": "Montolieu",
+    "type-id": null
+  },
+  "type": "Person",
+  "sort-name": "Ayers, Kevin",
+  "begin-area": {
+    "type-id": null,
+    "name": "Herne Bay",
+    "sort-name": "Herne Bay",
+    "disambiguation": "",
+    "type": null,
+    "id": "f05cc5d0-0504-4561-9982-49feaed7f94d"
+  },
+  "aliases": [
+    {
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "end": null,
+      "sort-name": "Ayers, Kevin Cawley",
+      "begin": null,
+      "type": "Legal name",
+      "primary": null,
+      "locale": null,
+      "name": "Kevin Cawley Ayers",
+      "ended": false
+    }
+  ],
+  "disambiguation": "",
+  "area": {
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type": null,
+    "sort-name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "name": "United Kingdom",
+    "disambiguation": ""
+  },
+  "isnis": [
+    "0000000078222667"
+  ],
+  "id": "ad4ba77a-2382-4367-b687-89d38c58e16d",
+  "life-span": {
+    "ended": true,
+    "end": "2013-02-18",
+    "begin": "1944-08-16"
+  }
+}

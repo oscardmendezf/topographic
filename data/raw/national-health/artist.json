@@ -1,0 +1,730 @@
+{
+  "name": "National Health",
+  "end-area": null,
+  "country": "GB",
+  "life-span": {
+    "begin": "1975",
+    "end": "1983",
+    "ended": true
+  },
+  "area": {
+    "type": null,
+    "type-id": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "sort-name": "United Kingdom",
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ]
+  },
+  "begin-area": {
+    "disambiguation": "",
+    "name": "Canterbury",
+    "type": null,
+    "type-id": null,
+    "sort-name": "Canterbury",
+    "id": "36ed2e86-4e30-49eb-8acb-96004ef98fa3"
+  },
+  "gender": null,
+  "isnis": [],
+  "id": "8fab4688-d52e-4be5-a10f-3234014c43fc",
+  "sort-name": "National Health",
+  "aliases": [],
+  "ipis": [],
+  "gender-id": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "",
+  "relations": [
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "1599e3a3-240b-4f4b-805e-aedfdc8c3861",
+        "sort-name": "Lee, Phil",
+        "disambiguation": "guitar, English jazz musician",
+        "country": "GB",
+        "name": "Phil Lee"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1975-12",
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": "1975-07",
+      "type": "member of band",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1975-07",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1977-03",
+      "artist": {
+        "name": "Alan Gowen",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Gowen, Alan",
+        "id": "43e55317-feea-450a-bc66-bb15e9f13e81",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1978-10",
+      "artist": {
+        "name": "Dave Stewart",
+        "country": "GB",
+        "disambiguation": "Canterbury keyboardist, not the Eurythmics’ Dave Stewart",
+        "sort-name": "Stewart, Dave",
+        "id": "c7b11c65-595f-4238-893b-36be934ebda9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1975-07",
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": "1980-03",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Phil Miller",
+        "disambiguation": "UK Canterbury progressive rock/jazz guitarist",
+        "country": "GB",
+        "sort-name": "Miller, Phil",
+        "id": "68ccb6f8-4f38-4c2b-9d4f-12151138aa80",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1975-07",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975-10",
+      "type": "member of band",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": "1976-12",
+      "artist": {
+        "id": "0211756e-139e-4b4c-a721-9ee9db363f12",
+        "sort-name": "Bruford, Bill",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Bill Bruford",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1975",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": "1976-06",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "e310df68-b686-4927-bbe3-214bb023f834",
+        "sort-name": "Campbell, Mont",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mont Campbell",
+        "country": "GB",
+        "disambiguation": ""
+      }
+    },
+    {
+      "attribute-values": {},
+      "end": "1977",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Amanda Parsons",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "7ab56466-73b0-412c-97ca-0c1f218a1ccd",
+        "sort-name": "Parsons, Amanda"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1975",
+      "type": "member of band",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1976-07",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": "1977-12",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Neil Murray",
+        "country": "GB",
+        "disambiguation": "British bass guitar player",
+        "sort-name": "Murray, Neil",
+        "id": "7d0b58b5-88ca-4424-a6e5-21202ac19147",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      }
+    },
+    {
+      "begin": "1977-01",
+      "attribute-ids": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [],
+      "end": "1980-03",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Pip Pyle",
+        "disambiguation": "",
+        "country": "GB",
+        "id": "19ed89d3-30aa-4f66-8992-822a48e8aa6c",
+        "sort-name": "Pyle, Pip",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "name": "John Greaves",
+        "disambiguation": "",
+        "country": "GB",
+        "id": "7bd43b80-65bd-4ae0-a1f0-fd65fb005853",
+        "sort-name": "Greaves, John",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1980-03",
+      "target-credit": "",
+      "begin": "1978-01",
+      "type": "member of band",
+      "attribute-ids": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1979-01",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": "1980-03",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Alan Gowen",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "43e55317-feea-450a-bc66-bb15e9f13e81",
+        "sort-name": "Gowen, Alan"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1981-06",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "id": "7bd43b80-65bd-4ae0-a1f0-fd65fb005853",
+        "sort-name": "Greaves, John",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "John Greaves",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "end": "1981-11",
+      "attribute-values": {}
+    },
+    {
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1981-06",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Miller, Phil",
+        "id": "68ccb6f8-4f38-4c2b-9d4f-12151138aa80",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Phil Miller",
+        "disambiguation": "UK Canterbury progressive rock/jazz guitarist",
+        "country": "GB"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": "1981-11",
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1981-06",
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1981-11",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Pip Pyle",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "19ed89d3-30aa-4f66-8992-822a48e8aa6c",
+        "sort-name": "Pyle, Pip"
+      },
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "end": "1981-11",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "name": "Dave Stewart",
+        "country": "GB",
+        "disambiguation": "Canterbury keyboardist, not the Eurythmics’ Dave Stewart",
+        "sort-name": "Stewart, Dave",
+        "id": "c7b11c65-595f-4238-893b-36be934ebda9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1981-06",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true
+    },
+    {
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1983-08",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Greaves, John",
+        "id": "7bd43b80-65bd-4ae0-a1f0-fd65fb005853",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "John Greaves"
+      },
+      "end": "1983-08",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1983-08",
+      "attribute-ids": {},
+      "type": "member of band",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "UK Canterbury progressive rock/jazz guitarist",
+        "country": "GB",
+        "name": "Phil Miller",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Miller, Phil",
+        "id": "68ccb6f8-4f38-4c2b-9d4f-12151138aa80"
+      },
+      "end": "1983-08",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "attribute-values": {},
+      "end": "1983-08",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Pip Pyle",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "19ed89d3-30aa-4f66-8992-822a48e8aa6c",
+        "sort-name": "Pyle, Pip"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1983-08",
+      "type": "member of band",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "begin": "1983-08",
+      "attribute-ids": {},
+      "type": "member of band",
+      "end": "1983-08",
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c7b11c65-595f-4238-893b-36be934ebda9",
+        "sort-name": "Stewart, Dave",
+        "disambiguation": "Canterbury keyboardist, not the Eurythmics’ Dave Stewart",
+        "country": "GB",
+        "name": "Dave Stewart"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "type": "allmusic",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000862910",
+        "id": "cd2be510-f4a8-49a0-908c-50608b4c2d09"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "50e7c95a-36e6-4326-84ad-758e5ef72afa",
+        "resource": "http://homepage.ntlworld.com/andymurkin/Resources/MusicRes/Canterbury/NatHealth/NatHistory.html"
+      },
+      "type": "discography page",
+      "begin": null,
+      "target-type": "url",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-ids": {},
+      "type": "discogs",
+      "url": {
+        "resource": "https://www.discogs.com/artist/299212",
+        "id": "60995a5f-b7dc-4e06-a193-540673847745"
+      },
+      "begin": null,
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "fanpage",
+      "url": {
+        "resource": "http://calyx.perso.neuf.fr/nathealth/index.html",
+        "id": "6bc65859-7eb0-44f7-9bed-2d163e991018"
+      },
+      "target-type": "url",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "ended": false
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/0ndN9q4oJhj17CwxLJonda",
+        "id": "ca1e760b-1831-4a80-99de-2749b53db344"
+      },
+      "type": "free streaming"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/93395",
+        "id": "8df9c341-55b8-4d8b-9bd7-224d24a0664f"
+      },
+      "type": "free streaming",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "type": "other databases",
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no97011788",
+        "id": "b4526042-cf26-4e19-bf29-333f38344fbb"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "c1a3b217-f441-407e-86fc-de2fa94e229e",
+        "resource": "https://rateyourmusic.com/artist/national_health"
+      },
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/national-health/",
+        "id": "29baf836-02d5-46cf-a181-b03410fb6a90"
+      },
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=257",
+        "id": "d62e9aae-bfc3-4880-b918-d30d9cb6f166"
+      },
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "f30d7a5a-92eb-4f2b-823e-47ca1dbf0ca4",
+        "resource": "https://www.worldcat.org/identities/lccn-no97011788"
+      },
+      "begin": null
+    },
+    {
+      "begin": null,
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/122714021",
+        "id": "bf74fc53-7064-4ba3-988a-2a2717c834fe"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "VIAF",
+      "url": {
+        "resource": "http://viaf.org/viaf/173483722",
+        "id": "723a9a5e-2ff8-46f7-85f7-53c2e23ad430"
+      },
+      "target-type": "url",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url",
+      "begin": null,
+      "type": "wikidata",
+      "url": {
+        "id": "7651f85a-277d-49cc-929b-012bb5929c95",
+        "resource": "https://www.wikidata.org/wiki/Q1031228"
+      },
+      "attribute-ids": {}
+    }
+  ],
+  "type": "Group"
+}

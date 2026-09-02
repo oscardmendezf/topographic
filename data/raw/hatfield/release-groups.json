@@ -1,0 +1,111 @@
+{
+  "release-group-count": 8,
+  "release-groups": [
+    {
+      "secondary-types": [],
+      "first-release-date": "1973",
+      "secondary-type-ids": [],
+      "id": "013c3c70-ff03-3cd6-8907-5c0cfe356b6d",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Hatfield and the North",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "title": "Hattitude",
+      "disambiguation": "Archive recordings 1973-1975, Volume 2",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "2006",
+      "id": "312ae4cb-f160-4531-927a-12076db468e8",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "disambiguation": "",
+      "title": "Live in Nottingham",
+      "primary-type": "Album",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "40d2f729-c8e3-3401-87c0-775ffc9605a3",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2002",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "primary-type": "Album",
+      "title": "Afters",
+      "disambiguation": "",
+      "first-release-date": "2011-02-01",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "44490be3-231e-4674-afac-a634eaba7117",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "7cd220c3-f7f1-406f-91d4-aafae52dc91c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "first-release-date": "2025-11-26",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Live In Japan 2005 (The Rotters' Live)"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Hatwise Choice",
+      "id": "966d4e98-75ad-3fa8-a3df-962a291b57ee",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2005",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "primary-type": "Album",
+      "title": "The Rotters’ Club",
+      "disambiguation": "",
+      "first-release-date": "1975-03-07",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "abe660bf-5486-3eef-a479-643c03bd539d",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "1993",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "f256d811-a643-38f9-bea8-6c6a784c8caf",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Live 1990",
+      "disambiguation": "",
+      "primary-type": "Album"
+    }
+  ]
+}

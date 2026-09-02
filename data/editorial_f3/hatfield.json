@@ -1,0 +1,29 @@
+{
+  "artistas": [
+    {
+      "slug": "hatfield",
+      "ficha": "La cima del Canterbury de segunda generación: Richard Sinclair (ex Caravan, futuro Camel) en voz y bajo, Dave Stewart en teclados, y las Northettes poniendo coros celestiales sobre métricas imposibles. Un supergrupo de la escena que duró lo justo para dejar dos discos de estudio. Cero éxito comercial entonces; canon absoluto hoy.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "hatfield-hatfield-and-the-north",
+          "analisis": "Debut que define el Canterbury de segunda generación: la voz amable de Sinclair y los teclados de Stewart sobre compases que se pliegan sin avisar, con las Northettes flotando encima. Complejidad extrema servida con ligereza, como si no costara nada.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon del Canterbury de segunda generación.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Cero éxito en su momento; disco de culto.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "hatfield-the-rotters-club",
+          "analisis": "El segundo y último: la misma fórmula afinada hasta la cima. Coros celestiales sobre métricas imposibles, humor inglés y escritura de cámara; para muchos, el punto más alto de toda la escena de Canterbury.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon absoluto; cima del Canterbury tardío.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Sin éxito comercial; la banda se disolvió poco después.",
+          "charts_texto": null
+        }
+      ]
+    }
+  ]
+}

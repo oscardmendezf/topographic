@@ -1,0 +1,157 @@
+{
+  "life-span": {
+    "end": "1977",
+    "ended": true,
+    "begin": "1974"
+  },
+  "id": "91c23749-42ba-4f5b-a820-9b8b0cd199fe",
+  "isnis": [],
+  "relations": [
+    {
+      "artist": {
+        "type": "Person",
+        "name": "José Luis Fernández",
+        "disambiguation": "",
+        "sort-name": "Fernández, José Luis",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "2847ff7e-7021-43b3-b3b3-2bdebc60397b"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "name": "Daniel Leonardo Frenkel",
+        "disambiguation": "",
+        "country": "AR",
+        "sort-name": "Frenkel, Daniel Leonardo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a2e3502a-d497-4407-b595-9953fbeb95ca"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "sort-name": "Montesano, Gustavo",
+        "country": "ES",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "eba7c4df-d3b6-44a2-b919-b68b642720f8",
+        "type": "Person",
+        "name": "Gustavo Montesano",
+        "disambiguation": ""
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.discogs.com/artist/1854155",
+        "id": "7636d5d3-63a1-4725-9e8d-a184a7385213"
+      },
+      "end": null,
+      "type": "discogs",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "9f60c5a9-da78-4c27-8700-6824c3bcb348",
+        "resource": "http://rock.com.ar/artistas/crucis"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "wikidata",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "78e0851f-3a4c-4dcc-875d-fc9688a50066",
+        "resource": "https://www.wikidata.org/wiki/Q3698751"
+      },
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null
+    }
+  ],
+  "sort-name": "Crucis",
+  "begin-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "ipis": [],
+  "disambiguation": "",
+  "area": {
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "sort-name": "Argentina",
+    "disambiguation": "",
+    "name": "Argentina",
+    "type": null
+  },
+  "type": "Group",
+  "name": "Crucis",
+  "end-area": null,
+  "gender": null,
+  "country": "AR",
+  "gender-id": null,
+  "aliases": []
+}

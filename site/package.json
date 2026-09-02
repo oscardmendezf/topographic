@@ -11,6 +11,8 @@
   "dependencies": {
     "astro": "^6.3.1",
     "cytoscape": "^3.30.0",
-    "cytoscape-fcose": "^2.2.0"
+    "cytoscape-fcose": "^2.2.0",
+    "leaflet": "^1.9.4",
+    "leaflet.heat": "^0.2.0"
   }
 }

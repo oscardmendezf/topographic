@@ -1,0 +1,805 @@
+{
+  "release-group-count": 62,
+  "release-groups": [
+    {
+      "title": "Angel’s Egg: Radio Gnome Invisible, Part 2",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1973-12-07",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "02d3a807-5f43-456d-9e83-3f7728bd0158"
+    },
+    {
+      "title": "Magick Brother",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1970-03",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "05e058ee-c488-33c0-b195-f930460cbd80"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "06e79780-af2c-40ab-9b63-2e8c3c3ee6af",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2008",
+      "title": "Live at the Gong Family Unconventional Gathering"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "0a206f09-c7d2-35dc-9f63-528a1ccc2210",
+      "title": "Family Jewels",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1998-05-11"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "0dbd83f4-91a7-438b-b3f0-a9f2bba02686",
+      "title": "Glastonbury Fayre ’71",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2002-09-02"
+    },
+    {
+      "title": "Bright Spirit",
+      "first-release-date": "2026-03-13",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "18d6bb79-c4a6-40cd-82f3-aef4427bbe82",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "Acid Motherhood",
+      "first-release-date": "2004-02-16",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "1c53aff2-e233-3525-8fdc-a407cec9fc16",
+      "secondary-type-ids": []
+    },
+    {
+      "id": "1cb05578-5f2a-4ab4-8e05-422386df94b6",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2023-04-22",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Live in Lyon December 14th, 1972"
+    },
+    {
+      "first-release-date": "1995-10-10",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "25th Birthday Party",
+      "id": "1cdd919f-6652-33b0-b627-e7c2d367e06a",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "2000",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "The Best of Gong",
+      "id": "2855b8ea-34ff-39e2-be53-4d726247a08e",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "2000",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Live 2 Infinitea",
+      "id": "2b8ae8c3-730c-36ea-b9ea-6a24765b4230",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "Haunted Chateau",
+      "first-release-date": "1990",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "3156856e-289b-4e6a-af69-3957f9b9006a",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "title": "Je ne fum’ pas des bananes",
+      "first-release-date": "1992",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "31a1eaff-209d-34a6-9e07-46671d71e3c6",
+      "secondary-type-ids": []
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1971",
+      "title": "Soft Machine – Gong",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "339ce43b-b6c9-404e-a7f0-62390145325e",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "id": "35d1d190-7e66-36be-810c-dd6eb46d0612",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "1974‐11‐04: Postaula, Bremen, Germany"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "3a521f2b-1ec8-31e1-a8f3-28b3ed8d942b",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1990-08-13",
+      "title": "Live at Sheffield ’74"
+    },
+    {
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "3c9d256f-c5a5-3bc0-8ee1-553f8f6afe2e",
+      "secondary-type-ids": [],
+      "title": "Shamal",
+      "first-release-date": "1975",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "22a628ad-c082-3c4f-b1b6-d41665107b88"
+      ],
+      "id": "5247be37-9e9b-3e46-a0f2-5da8f727e226",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Soundtrack"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1971-01",
+      "title": "Continental Circus"
+    },
+    {
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "5720077b-2028-44d5-8b3e-28c46278a4c9",
+      "secondary-type-ids": [],
+      "title": "The Universe Also Collapses",
+      "first-release-date": "2019-05-10",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1995",
+      "title": "Camembert éclectique",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ],
+      "id": "688e5d5e-7ab4-4246-8eef-e1f4a9695dbe",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation",
+        "Demo"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "6ab2cda9-63db-3b98-8517-229de6cdfdd7",
+      "title": "Other Side of the Sky: ‘A Collection’",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1999"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "6b735154-4af7-45df-ba5e-31ba89c646dc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Family Box",
+      "first-release-date": "1999",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "6b9b6a9e-660f-49aa-913a-638bbe1da27b",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2006",
+      "title": "Gong in the 70’s"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2004",
+      "title": "Best of Gong",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "6c1e5529-8bdd-34df-abc8-ee8372471a46",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "6c7b0612-fa00-3311-9422-bc650a025688",
+      "secondary-type-ids": [],
+      "title": "You: Radio Gnome Invisible, Part 3",
+      "first-release-date": "1974-10-04",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "title": "Gazeuse!",
+      "first-release-date": "1976",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "6f2078a6-958f-3fdb-869c-a002ebdcb9cc",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "6f5f026b-96fe-402f-b68c-5f10d9ea543a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2015-04-27",
+      "title": "High Above the Subterania Club 2000"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2009",
+      "title": "Soundcheck Preserves",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "7272527c-70ba-4507-a174-2e991ef58f9e",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "72b39f89-5bee-3ceb-9a50-e5293071b5d4",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Live on TV 1990",
+      "first-release-date": "1993",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "76daa426-b3fc-4633-ba8f-fbc6eb67f1e4",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2025-08-09",
+      "title": "Hear the Angels Sing (Live Bremen ’74)"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "78365253-6645-3475-8af5-14d1c2ae91fd",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "The Very Best of Gong",
+      "first-release-date": "1997",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "title": "Shapeshifting in the UK, Vol 1",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1992",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "7d502384-7557-4873-abf4-5851b4946558"
+    },
+    {
+      "secondary-type-ids": [],
+      "id": "82cf53b6-8668-3cd7-a676-2686e62d8af6",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2000-02-28",
+      "title": "Zero to Infinity"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "85328bb5-2cef-3409-b2fd-7559814e624f",
+      "title": "Pre-Modernist Wireless: The Peel Sessions",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1995"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2021-12-10",
+      "title": "Live at Longlaville, 1974",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "887b44f4-5442-437e-ac2f-90def2b5db0d",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "first-release-date": "1992",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Shapeshifter",
+      "id": "8e79eacb-0fc6-37e9-80ca-fa3dc37988e3",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "8f08915a-6dc7-40ec-b2e8-1bf64863a334",
+      "title": "I See You",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2014-11-10"
+    },
+    {
+      "first-release-date": "2016-09-16",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Rejoice! I’m Dead!",
+      "id": "92b6c877-8bac-4fde-8a7e-86495028030a",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-type-ids": [],
+      "id": "92f1decc-0556-42fb-a2db-9a1793229405",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2023-11-03",
+      "title": "Unending Ascending"
+    },
+    {
+      "title": "2032",
+      "first-release-date": "2009-09-21",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "93721d23-4cd6-4d96-95c3-b3e1c3f7606b",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "OK Friends",
+      "first-release-date": "2002-06-03",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "9c2e06af-c7b4-4be6-9e3b-7948b3ff6592",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1971-10",
+      "title": "Camembert électrique",
+      "secondary-type-ids": [],
+      "id": "9db86543-96f6-345c-afce-4127840932dd",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": []
+    },
+    {
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "a0792dae-d782-33f2-8654-9fabe0894f8d",
+      "secondary-type-ids": [],
+      "title": "Expresso II",
+      "first-release-date": "1978-03-03",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "title": "Radio Gnome Invisible",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2002",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "a3915c3e-db44-34b5-9622-63f2ca0b17be"
+    },
+    {
+      "title": "Pulsing Signals",
+      "first-release-date": "2022-02-18",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "a878b0f9-bc57-414a-b818-724d986ab616",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "abbc668b-0f3c-4955-94ea-d59a69373446",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Live in Sherwood Forest ’75",
+      "first-release-date": "2005",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "first-release-date": "1989",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "The Mystery and the History of the Planet Gong",
+      "id": "bcd55362-f46c-44bd-b392-25c96438c032",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "bec28ba3-a465-396c-bbe4-0b8fd579c6bb",
+      "title": "Live au Bataclan 1973",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1990"
+    },
+    {
+      "title": "Gong est mort",
+      "first-release-date": "1977-11-29",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "c231b503-9311-3195-939e-77a09c95d347",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "title": "The Best of Gong",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1995",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "c2791c9b-2f57-4191-b811-23d66b4bb470"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "c575a565-40d2-3ee6-90bd-c1c846fa2c42",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1977-08",
+      "title": "Gong Live etc."
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Remix"
+      ],
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "id": "c606535d-12a2-3883-b119-d00131443a86",
+      "title": "You Remixed",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1997"
+    },
+    {
+      "first-release-date": "1992",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "You Do Have to Give Up Dope!?",
+      "id": "c6a6af57-ccd8-485f-8533-317d70d9be36",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2009",
+      "title": "Live in Brazil 20 November 2007",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "d588292a-2c19-42da-8df8-e0d02f7b756f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "d79d2651-a4f6-30df-8262-874f08cfe94b",
+      "secondary-type-ids": [],
+      "title": "Flying Teapot: Radio Gnome Invisible, Part 1",
+      "first-release-date": "1973-05-25",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "e013217a-917a-3ddf-86e6-6105836bd32b",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Wingful of Eyes: A Retrospective ’75–’78",
+      "first-release-date": "1986",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "id": "e183d306-bf35-364f-b31c-7ce2334d4607",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Live at Mallacoff 1972"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2004",
+      "title": "Magick Invocations",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "e34015dd-4daa-4801-94a4-c705d450c06e",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "first-release-date": "2015-11-13",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Radio Gnome Invisible Trilogy",
+      "id": "e87a1294-d3ce-4f41-b5d1-e421969a61ab",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "e92d75bc-a732-478e-b63b-fb1fa9fecaef",
+      "title": "Love From the Planet Gong (The Virgin Years 1973–75)",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2019-09-27"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "f1ac32c6-064e-4ed0-8d3e-99b7640ffe92",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Opium for the People",
+      "first-release-date": "2006",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "f437abdc-f4ff-4d84-be77-0b985b32a671",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "2005 best of",
+      "first-release-date": "2005",
+      "title": "The Very Best of Gong"
+    }
+  ]
+}

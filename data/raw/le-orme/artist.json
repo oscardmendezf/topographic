@@ -1,0 +1,705 @@
+{
+  "type": "Group",
+  "area": {
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+    "sort-name": "Italy",
+    "name": "Italy",
+    "iso-3166-1-codes": [
+      "IT"
+    ],
+    "type-id": null,
+    "disambiguation": "",
+    "type": null
+  },
+  "end-area": null,
+  "relations": [
+    {
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "artist": {
+        "sort-name": "Rebeschini, Marino",
+        "id": "850cf500-59fa-49d5-97a6-3ce25a9bfce5",
+        "name": "Marino Rebeschini",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1967",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "attribute-credits": {},
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1966"
+    },
+    {
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "artist": {
+        "id": "5727b4b2-b6c0-4c8c-8269-61de2c0ed387",
+        "sort-name": "Galieti, Claudio",
+        "name": "Claudio Galieti",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "IT"
+      },
+      "type": "member of band",
+      "end": "1969",
+      "attributes": [
+        "original"
+      ],
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1966",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1966",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "original"
+      ],
+      "target-credit": "",
+      "artist": {
+        "name": "Nino Smeraldi",
+        "id": "b8d5dc2b-ba4f-4e21-90a8-5494cd7ea0e4",
+        "sort-name": "Smeraldi, Nino",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "IT"
+      },
+      "type": "member of band",
+      "end": "1969",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [
+        "original"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1966",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "2009",
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Tagliapietra, Aldo",
+        "id": "d9e800a4-95b2-41cb-a688-cec5680ce514",
+        "name": "Aldo Tagliapietra"
+      },
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1967",
+      "attributes": [],
+      "artist": {
+        "id": "60eaede3-14fb-448b-a9e1-88b6a40237a2",
+        "sort-name": "Dei Rossi, Michi",
+        "name": "Michi Dei Rossi",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "IT"
+      },
+      "target-credit": "",
+      "end": null,
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "1991",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Pagliuca, Tony",
+        "id": "75a027e5-9d36-44c2-84d3-67e18e812d77",
+        "name": "Tony Pagliuca"
+      },
+      "attributes": [],
+      "begin": "1968",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1969-06",
+      "attribute-ids": {},
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "artist": {
+        "id": "8e0973b5-3eb3-4765-bc76-9ea22b83664a",
+        "sort-name": "Baker, Dave",
+        "name": "Dave Baker",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "drummer of Le Orme"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1970-04"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1976-02",
+      "type": "member of band",
+      "target-credit": "",
+      "artist": {
+        "name": "Tolo Marton",
+        "sort-name": "Marton, Tolo",
+        "id": "1575553e-a152-4fb4-863e-50710bd85bc1",
+        "country": "IT",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1975-09",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "ended": true
+    },
+    {
+      "artist": {
+        "sort-name": "Serafin, Germano",
+        "id": "547dad8e-ce21-4b61-809f-c921bfeefe9c",
+        "name": "Germano Serafin",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1981",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1976",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1990",
+      "attribute-ids": {},
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "IT",
+        "name": "Michele Bon",
+        "id": "e38312ba-2969-476f-816a-6a0ac7d8beb3",
+        "sort-name": "Bon, Michele"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": null
+    },
+    {
+      "attributes": [],
+      "ended": true,
+      "target-type": "artist",
+      "begin": "1991",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "artist": {
+        "name": "Giorgio Mantovan",
+        "id": "1800523c-c893-4f0e-be83-e9d41bc99ffd",
+        "sort-name": "Mantovan, Giorgio",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "IT"
+      },
+      "type": "member of band",
+      "end": "1994"
+    },
+    {
+      "ended": true,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1992",
+      "attribute-ids": {},
+      "attributes": [],
+      "artist": {
+        "country": "IT",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Francesco Sartori",
+        "sort-name": "Sartori, Francesco",
+        "id": "25651375-1443-49a7-a014-26e555f88544"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1997",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "2008",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "IT",
+        "name": "Andrea Bassato",
+        "id": "b630dc55-b552-479f-bfa2-bc316ed0c346",
+        "sort-name": "Bassato, Andrea"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1998",
+      "attribute-ids": {},
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "2009",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Trentini, Fabio",
+        "id": "84b1fcf9-d919-4772-bb9d-73e21a3482e5",
+        "name": "Fabio Trentini"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": null
+    },
+    {
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "id": "d117ddd6-22be-4116-9b89-0aa01bd2bd24",
+        "sort-name": "Dotto, William",
+        "name": "William Dotto",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "IT"
+      },
+      "end": null,
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "ended": false,
+      "begin": "2010",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "artist": {
+        "sort-name": "Gava, Federico",
+        "id": "3342fdde-59aa-4a3d-9085-d0cdee665c52",
+        "name": "Federico Gava",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "end": null,
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2010",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "artist": {
+        "name": "Davide Spitaleri",
+        "id": "89459a35-67a3-42cc-a2d2-fe9fdf5caaa1",
+        "sort-name": "Spitaleri, Davide",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "IT",
+        "disambiguation": ""
+      },
+      "target-credit": "Jimmy Spitaleri",
+      "end": null,
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2010",
+      "attribute-ids": {},
+      "attributes": []
+    },
+    {
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "102276cc-e7a9-46d5-bb4a-5e47f7f75a64",
+        "resource": "https://www.allmusic.com/artist/mn0000146748"
+      },
+      "attributes": [],
+      "type": "allmusic",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "url": {
+        "id": "b9342ee5-e028-4d4a-82f5-b709390a2e54",
+        "resource": "https://www.discogs.com/artist/359000"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "discogs",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "type": "free streaming",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "39c33cd2-fc55-4d68-b59c-89fdb670491a",
+        "resource": "https://open.spotify.com/artist/45Utoxop3UFq0Qg9YFLhx0"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": []
+    },
+    {
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "url": {
+        "id": "8afc19e1-a6e7-431d-8f34-90d9c283bebf",
+        "resource": "https://www.deezer.com/artist/79568"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.last.fm/music/Le+Orme",
+        "id": "e245e354-e88e-4441-bf31-47e7c4268c0b"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "last.fm",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/le_orme",
+        "id": "17455471-898a-45e6-b5e8-42729ccee9c3"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "1026fcf5-6a52-44de-8787-185a733f2f9f",
+        "resource": "https://www.45cat.com/artist/le-orme"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "0fa70651-2674-4ab4-a54f-5163a6978e4b",
+        "resource": "https://www.progarchives.com/artist.asp?id=278"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "id": "eef7957d-6b0e-484f-86b9-7c79ff75bf1d",
+        "resource": "https://itunes.apple.com/us/artist/id446849478"
+      },
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "purchase for download"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "setlistfm",
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "begin": null,
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/le-orme-73d61275.html",
+        "id": "b071a5eb-ba9c-4e6b-be35-2ed3881eb5a0"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "end": null,
+      "type": "social network",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "url": {
+        "id": "8427ebb4-1286-4c67-90d2-1876f222500e",
+        "resource": "https://twitter.com/leorme_official"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "type": "social network",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "url": {
+        "id": "7eb35943-a5ec-4ddd-a7d8-9889b83837c4",
+        "resource": "https://www.facebook.com/LE-ORME-112994835388176"
+      },
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "songkick",
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "id": "298862a4-a433-4100-99e6-1f87b80bb793",
+        "resource": "https://www.songkick.com/artists/309724"
+      },
+      "ended": false,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "type": "wikidata",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1810029",
+        "id": "6ac75f0e-38b1-4a24-9ca0-dbeeca6ca3de"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attributes": []
+    }
+  ],
+  "begin-area": {
+    "id": "d60c273a-4563-4a75-bd83-4a7c1ad34da4",
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "sort-name": "Marghera",
+    "name": "Marghera"
+  },
+  "gender": null,
+  "sort-name": "Orme, Le",
+  "aliases": [],
+  "id": "45b87eb5-29e3-4f7e-9475-129d486df0f2",
+  "ipis": [],
+  "life-span": {
+    "end": null,
+    "begin": "1966",
+    "ended": false
+  },
+  "disambiguation": "",
+  "country": "IT",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "isnis": [
+    "0000000471252547"
+  ],
+  "gender-id": null,
+  "name": "Le Orme"
+}

@@ -1,0 +1,740 @@
+{
+  "id": "9d78c6da-a415-4e1d-a55d-5e37b3bbc65d",
+  "life-span": {
+    "begin": "1969",
+    "end": null,
+    "ended": false
+  },
+  "isnis": [
+    "0000000121820671"
+  ],
+  "relations": [
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "1970",
+      "artist": {
+        "type": "Person",
+        "name": "Dave Anderson",
+        "disambiguation": "bassist for Amon Düül, Hawkwind, recording engineer",
+        "country": "GB",
+        "sort-name": "Anderson, Dave",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "cd6b6dbc-04a9-4c74-a8d2-42b2bac72067"
+      },
+      "attribute-ids": {},
+      "begin": "1969",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "id": "68c2463b-a3ae-4c3d-b6dd-ed031a7bd8aa",
+        "sort-name": "Fichelscher, Daniel",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Daniel Fichelscher"
+      },
+      "end": "1973",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1972",
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "disambiguation": "drummer, producer and songwriter",
+        "type": "Person",
+        "name": "Keith Forsey",
+        "id": "1d8b8292-7dc9-45a1-8cdf-818148cb56ea",
+        "country": "GB",
+        "sort-name": "Forsey, Keith",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "name": "Chris Karrer",
+        "disambiguation": "",
+        "sort-name": "Karrer, Chris",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f91c5822-9173-48ef-a0e4-f8a004a26c46"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "artist": {
+        "country": "DE",
+        "sort-name": "Rogner, Falk‐Ulrich",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "99a48fab-51f8-4726-b81a-c011869e1aa9",
+        "type": "Person",
+        "name": "Falk‐Ulrich Rogner",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Weinzierl, John",
+        "id": "4fbecdad-2e35-429b-aa30-eb769bcb92ea",
+        "name": "John Weinzierl",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "disambiguation": "pop vocalist and keyboardist",
+        "name": "Stefan Zauner",
+        "type": "Person",
+        "id": "d6b568f2-341c-456a-80b1-b74b1e4928a4",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Zauner, Stefan",
+        "country": "DE"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null
+    },
+    {
+      "type": "allmusic",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0003807643",
+        "id": "2222da84-c46b-4597-9baf-2704b26997b8"
+      },
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "bandcamp",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "attribute-ids": {},
+      "url": {
+        "id": "0e2471c6-4500-4301-a02e-76a409b7521e",
+        "resource": "https://amonduulii.bandcamp.com/"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "end": null,
+      "url": {
+        "id": "4dba14af-aa40-433b-b4b8-818b775548c7",
+        "resource": "https://www.discogs.com/artist/192177"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discogs",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": true,
+      "end": null,
+      "url": {
+        "id": "6497a2e1-68e8-4a9f-a998-29cf0e3fc9ec",
+        "resource": "http://home.c2i.net/dreambox/"
+      },
+      "attribute-ids": {},
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "begin": null,
+      "direction": "forward",
+      "type": "fanpage",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "0aece810-b319-4d7c-81eb-3b8cb7fc995b",
+        "resource": "https://open.spotify.com/artist/1TUNPwZWJyhaNZpLZzhOUj"
+      },
+      "end": null
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "86268f29-5fa6-49d3-b9d1-e340241da83f",
+        "resource": "https://www.deezer.com/artist/4957"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "direction": "forward",
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "IMDb",
+      "url": {
+        "id": "d0d38e4e-b62c-4f65-a1f5-af09eea1bf24",
+        "resource": "https://www.imdb.com/name/nm0246979/"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "last.fm",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false,
+      "url": {
+        "resource": "https://www.last.fm/music/Amon+D%C3%BC%C3%BCl+II",
+        "id": "a57bf386-432b-4cdb-9feb-7230a348281f"
+      },
+      "end": null
+    },
+    {
+      "type": "lyrics",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://genius.com/artists/Amon-duul-ii",
+        "id": "091910e3-ee16-45b0-94c4-c76a34dc01af"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "official homepage",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "9edfa06f-315c-4384-adf4-bb928d43d2ef",
+        "resource": "http://www.amonduul.de/"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "c25acd96-6b61-4d4e-8e66-826ab6dd4435",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139808945"
+      },
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "aaf77fe0-7786-4ed1-9e05-2389e4729f2f",
+        "resource": "https://imvdb.com/n/amon-d%C3%BC%C3%BCl-ii"
+      },
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "id": "58e27186-91e8-40af-afae-fa6ad2623818",
+        "resource": "https://rateyourmusic.com/artist/amon-duul-ii"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/amon-d%C3%BC%C3%BCl-ii/",
+        "id": "f64c9e1d-6d2a-411a-8bbb-3d25aa5b326e"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.muziekweb.nl/Link/M00000009878/POPULAR/",
+        "id": "bd51282a-c427-4055-a590-193db201446a"
+      },
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "url": {
+        "id": "fc7e9cf5-1289-4ac3-abe7-79c6b4920177",
+        "resource": "https://www.progarchives.com/artist.asp?id=855"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "end": null,
+      "url": {
+        "resource": "https://music.apple.com/de/artist/452341697",
+        "id": "e3c8d186-c32b-4555-a384-a62aeb920fb7"
+      },
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "end": null,
+      "url": {
+        "id": "e7e82ee4-fcc9-44f1-9a2b-bf28951e734c",
+        "resource": "https://open.qobuz.com/artist/1788077"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "7466b80d-d62e-484c-8a71-a387adb37f6f",
+        "resource": "https://secondhandsongs.com/artist/2398"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "secondhandsongs",
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "type": "songkick",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "91a5c93a-d17a-4621-9a22-b5104bdad7af",
+        "resource": "https://www.songkick.com/artists/211277"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "url": {
+        "id": "e3c8d186-c32b-4555-a384-a62aeb920fb7",
+        "resource": "https://music.apple.com/de/artist/452341697"
+      },
+      "end": null,
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "end": null,
+      "url": {
+        "id": "a1b4286e-c5f7-4770-89a7-76af94c6cfb4",
+        "resource": "https://music.apple.com/gb/artist/452341697"
+      },
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "streaming",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "e7e82ee4-fcc9-44f1-9a2b-bf28951e734c",
+        "resource": "https://open.qobuz.com/artist/1788077"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://tidal.com/artist/4690689",
+        "id": "9003b1a0-ee78-4812-b46e-ecb79f9281c1"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "type": "streaming",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type": "VIAF",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "8a3f0cfe-4a31-4570-a08c-83de41f3cdd0",
+        "resource": "http://viaf.org/viaf/149426215"
+      },
+      "attribute-ids": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1319707",
+        "id": "6c769c4c-130a-470c-bf74-4f3033da46f5"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "wikidata",
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://music.youtube.com/channel/UC_t6a5jY7sfL-MTvoOI3jfw",
+        "id": "01813b28-6bc7-4bdc-b7ea-22ff4d4dccf8"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "youtube music"
+    }
+  ],
+  "sort-name": "Amon Düül II",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "type": null,
+    "sort-name": "München",
+    "type-id": null,
+    "name": "München",
+    "disambiguation": "",
+    "id": "89bbbab6-72de-43eb-81ba-e620ab207008"
+  },
+  "disambiguation": "",
+  "ipis": [],
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "DE"
+    ],
+    "sort-name": "Germany",
+    "disambiguation": "",
+    "name": "Germany",
+    "type": null
+  },
+  "type": "Group",
+  "name": "Amon Düül II",
+  "end-area": null,
+  "gender-id": null,
+  "country": "DE",
+  "gender": null,
+  "aliases": [
+    {
+      "begin": null,
+      "type-id": null,
+      "sort-name": "Amon Duul 2",
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "name": "Amon Duul 2",
+      "type": null,
+      "primary": null
+    },
+    {
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "begin": null,
+      "type-id": null,
+      "sort-name": "Amon Duul II",
+      "name": "Amon Duul II",
+      "type": null,
+      "primary": null
+    },
+    {
+      "sort-name": "Amon Düül I",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "begin": null,
+      "locale": "en",
+      "ended": false,
+      "end": null,
+      "type": "Artist name",
+      "primary": false,
+      "name": "Amon Düül I"
+    },
+    {
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "sort-name": "Amon Düül Ⅱ",
+      "begin": null,
+      "type-id": null,
+      "primary": null,
+      "type": null,
+      "name": "Amon Düül Ⅱ"
+    }
+  ]
+}

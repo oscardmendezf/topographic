@@ -1,0 +1,59 @@
+{
+  "release-group-count": 5,
+  "release-groups": [
+    {
+      "id": "4d33d65f-d9dd-3af0-86c5-7b04f09b0506",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1970",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Egg"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1971",
+      "title": "The Polite Force",
+      "secondary-type-ids": [],
+      "id": "516ebdd8-4666-3478-8c11-ebdc0af436ff",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": []
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "6623042c-fa99-49b8-8069-6aff59281259",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1985",
+      "title": "Seven Is a Jolly Good Time"
+    },
+    {
+      "title": "The Metronomical Society",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2007",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "bbd47401-4b53-4b00-8728-d2099fc2ecf2"
+    },
+    {
+      "title": "The Civil Surface",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1974",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "d2737275-6f64-337a-b09c-3fb174701714"
+    }
+  ]
+}

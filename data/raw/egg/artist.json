@@ -1,0 +1,236 @@
+{
+  "disambiguation": "70s British prog rock band",
+  "begin-area": {
+    "name": "London",
+    "type-id": null,
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "sort-name": "London",
+    "disambiguation": "Greater London",
+    "type": null
+  },
+  "aliases": [],
+  "id": "0d978322-5753-47d2-9893-9ced96152db1",
+  "life-span": {
+    "begin": "1968-07",
+    "end": "1974-08",
+    "ended": true
+  },
+  "isnis": [],
+  "area": {
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type": null,
+    "sort-name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "gender": null,
+  "ipis": [],
+  "country": "GB",
+  "gender-id": null,
+  "name": "Egg",
+  "relations": [
+    {
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Mont Campbell",
+        "type": "Person",
+        "sort-name": "Campbell, Mont",
+        "id": "e310df68-b686-4927-bbe3-214bb023f834",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1968",
+      "type": "member of band",
+      "attributes": [],
+      "end": "1974",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "artist": {
+        "country": "GB",
+        "name": "Clive Brooks",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Brooks, Clive",
+        "type": "Person",
+        "id": "d4fdd504-851c-49b0-b19e-449f8ae62a8d"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": null,
+      "type": "member of band",
+      "attributes": [],
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type": "member of band",
+      "begin": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Stewart, Dave",
+        "type": "Person",
+        "id": "c7b11c65-595f-4238-893b-36be934ebda9",
+        "country": "GB",
+        "name": "Dave Stewart",
+        "disambiguation": "Canterbury keyboardist, not the Eurythmics’ Dave Stewart"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "type": "allmusic",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "dd06d47b-b93a-466f-82fa-3c85492c2970",
+        "resource": "https://www.allmusic.com/artist/mn0000148355"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "66faf5cc-17ea-47d1-9588-3e2ec9ca9947",
+        "resource": "http://calyx.perso.neuf.fr/bands/egg.html"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "biography",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "discogs",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "109f36a0-0e5b-4e89-9b4c-52c4ed63818e",
+        "resource": "https://www.discogs.com/artist/304008"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/egg",
+        "id": "c7d69454-4591-41d0-af43-90f50c0026de"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.45cat.com/artist/egg2",
+        "id": "dac56606-9b2a-4cac-947b-36536832e654"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "id": "055235ca-fd61-4353-98f4-3a345926abdc",
+        "resource": "https://www.progarchives.com/artist.asp?id=665"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "wikidata",
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q666126",
+        "id": "3a4014c1-acd7-4de1-8a60-8008894b65c5"
+      }
+    }
+  ],
+  "type": "Group",
+  "sort-name": "Egg",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "end-area": null
+}

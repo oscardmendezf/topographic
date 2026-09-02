@@ -1,0 +1,104 @@
+{
+  "artistas": [
+    {
+      "slug": "faust",
+      "ficha": "El ala más radical del krautrock: collage, cinta y sabotaje del formato canción desde una granja en Wümme. Su debut de 1971 llegó en vinilo transparente, declaración de intenciones antes de la primera nota. Cuando Virgin vendió The Faust Tapes a 49 peniques, la vanguardia entró en miles de casas británicas como caballo de Troya comercial.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "faust-faust",
+          "analisis": "El debut en vinilo transparente: tres piezas de collage que desarman el rock y lo reordenan con cinta y humor dadaísta. Nada en 1971 sonaba así, y buena parte del post-rock posterior sale de aquí.",
+          "estrellas_critica": 4,
+          "critica_nota": "Hito de la vanguardia kraut; más citado que escuchado.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Objeto de culto desde el día uno; el vinilo transparente no ayudó a venderlo.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "faust-the-faust-tapes",
+          "analisis": "Recopilatorio de fragmentos de estudio que Virgin despachó a 49 peniques: la jugada puso el collage más abrasivo de la banda en manos de un público masivo que no sabía dónde se metía. Como introducción al método Faust, sigue siendo la puerta más honesta.",
+          "estrellas_critica": 4,
+          "critica_nota": "Collage celebrado; la anécdota del precio no le resta mérito.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "Circuló muchísimo por el precio simbólico; ventas sin traducción comercial real.",
+          "charts_texto": null
+        }
+      ]
+    },
+    {
+      "slug": "neu",
+      "ficha": "El dúo de Michael Rother y Klaus Dinger, desprendido de Kraftwerk, redujo el rock a un pulso: el motorik, minimalismo bailable en línea recta. Dos guitarras, una batería que no acentúa nada y la sensación de autopista infinita. Media música posterior —punk, post-punk, electrónica— les debe el ritmo.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "neu-neu",
+          "analisis": "El debut de 1972 instala el motorik como principio estético: «Hallogallo» es diez minutos de línea recta y todo lo demás es paisaje. Minimalismo bailable antes de que existiera la palabra para nombrarlo.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon del krautrock; el motorik nace aquí.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Disco de culto; su influencia tardó una década en cobrarse.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "neu-neu-75",
+          "analisis": "Un lado sereno de Rother, un lado furioso de Dinger: la cara B, con «Hero», es proto-punk hecho dos años antes de tiempo. La tensión entre los dos socios convertida en estructura de disco.",
+          "estrellas_critica": 5,
+          "critica_nota": "Muy valorado; la cara B anticipa el punk.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Culto absoluto en su momento; reivindicado por generaciones posteriores.",
+          "charts_texto": null
+        }
+      ]
+    },
+    {
+      "slug": "amon-duul-ii",
+      "ficha": "La comuna de Múnich hecha sonido: Amon Düül II salió de un colectivo político-artístico y grabó el krautrock más tribal y alucinado de la primera hornada. Entre 1969 y 1971 encadenaron Phallus Dei, Yeti y Tanz der Lemminge, la trilogía que define su versión del género: improvisación, voces rituales y rock ácido sin mapa.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "amon-duul-ii-phallus-dei",
+          "analisis": "El debut de 1969: la comuna entra al estudio con más instinto que plan y sale con un rock ácido tribal cuyo lado largo es puro ritual. Crudo, pero ya inconfundible.",
+          "estrellas_critica": 4,
+          "critica_nota": "Debut valorado como acta fundacional del kraut muniqués.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Circulación de underground; su público era la propia contracultura alemana.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "amon-duul-ii-yeti",
+          "analisis": "Doble de 1970 y cumbre de la banda: un disco compuesto y otro improvisado, con la comuna sonando a la vez feroz y organizada. Si hay que elegir un solo álbum de Amon Düül II, es este.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon del krautrock; su obra mayor por consenso.",
+          "estrellas_comercial": 2,
+          "comercial_nota": "El más difundido de su catálogo, siempre dentro de escala de culto.",
+          "charts_texto": null
+        },
+        {
+          "album_slug": "amon-duul-ii-tanz-der-lemminge",
+          "analisis": "Otro doble en 1971, más elaborado y menos salvaje que Yeti: suites largas donde la improvisación comunal empieza a convivir con la arquitectura. Cierre de la trilogía que los define.",
+          "estrellas_critica": 4,
+          "critica_nota": "Muy valorado como cierre de la trilogía clásica.",
+          "estrellas_comercial": 1,
+          "comercial_nota": "Circulación de culto, por debajo de Yeti.",
+          "charts_texto": null
+        }
+      ]
+    },
+    {
+      "slug": "kraftwerk",
+      "ficha": "Kraftwerk empezó dentro del krautrock y lo abandonó por diseño: con Autobahn dejaron la improvisación por la máquina y el concepto. Es el punto exacto donde esta historia se convierte en la siguiente: de la escena alemana de los setenta a la música electrónica popular entera.",
+      "no_encontrados": [],
+      "albumes": [
+        {
+          "album_slug": "kraftwerk-autobahn",
+          "analisis": "La pieza titular convierte un viaje por autopista en veintidós minutos de pulso electrónico y melodía pop: el kraut experimental saliendo hacia otra cosa. Aquí termina una escena y empieza la música electrónica de masas.",
+          "estrellas_critica": 5,
+          "critica_nota": "Canon absoluto; bisagra entre krautrock y electrónica pop.",
+          "estrellas_comercial": null,
+          "comercial_nota": null,
+          "charts_texto": "UK 4 · US 5"
+        }
+      ]
+    }
+  ]
+}
