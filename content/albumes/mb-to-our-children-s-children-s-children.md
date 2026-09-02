@@ -9,6 +9,12 @@ mb_rgid: "817c4b72-755a-3627-8814-437fb65c043d"
 primer_lanzamiento: "1969"
 charts_texto: "UK 2 · US 14"
 charts_estado: "parcial"
+era: "clasica"
+estrellas_comercial: 5
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Su disco más cohesivo para la retrospectiva; muy valorado entre fans"
 ---
 
 Concepto espacial inspirado en la llegada a la Luna, inaugurando su sello Threshold. Su disco más cohesivo; el que defendería ante un escéptico.

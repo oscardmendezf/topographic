@@ -9,6 +9,12 @@ mb_rgid: "ef9dfb95-3217-3006-84e2-92037460eb27"
 primer_lanzamiento: "1970-05-15"
 charts_texto: "UK 4 · US 31"
 charts_estado: "verificado"
+era: "clasica"
+estrellas_comercial: 4
+comercial_fuente: "charts"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Leído siempre como calco del debut; sólido pero redundante."
 ---
 
 El remake de crisis: banda disuelta, Lake cantando ya fuera, estructura calcada del debut. Ya discutido. «Cat Food» como única pista del futuro.

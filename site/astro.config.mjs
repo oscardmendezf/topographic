@@ -4,4 +4,7 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
   site: 'https://oscardmendezf.github.io',
   base: '/topographic',
+  redirects: {
+    '/tiempo': '/topographic/tiempo/clasica',
+  },
 });

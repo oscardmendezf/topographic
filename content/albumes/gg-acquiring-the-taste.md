@@ -9,6 +9,12 @@ mb_rgid: "63de3b9c-e71b-3f4d-af82-216011f95805"
 primer_lanzamiento: "1971-07-16"
 charts_texto: "—"
 charts_estado: "parcial"
+era: "clasica"
+estrellas_comercial: 1
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Ignorado en su momento, hoy favorito de culto por su audacia."
 ---
 
 El título es el aviso: su disco más experimental, hecho para adquirirle el gusto. Instrumentación de conservatorio sobre rock que no busca agradar.

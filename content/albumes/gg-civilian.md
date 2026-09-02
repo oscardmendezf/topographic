@@ -9,6 +9,12 @@ mb_rgid: "c5c65652-511a-389d-a586-f2b3c6ac51bd"
 primer_lanzamiento: "1980"
 charts_texto: "US 137"
 charts_estado: "parcial"
+era: "clasica"
+estrellas_comercial: 1
+comercial_fuente: "charts"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Despedida mal recibida; rock genérico sin la firma del grupo."
 ---
 
 Rock plano de despedida. Se disolvieron enseguida, sin nostalgia ni reuniones: al menos el final fue tan honesto como el manifiesto inicial.

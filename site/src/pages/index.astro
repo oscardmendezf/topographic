@@ -1,38 +1,62 @@
 ---
 import Base from '../layouts/Base.astro';
-import { u, COLORES } from '../lib/util';
+import { u, COLORES, COLORES_ARISTA, NOMBRES_ARISTA } from '../lib/util';
 import atlas from '../../../data/atlas.json';
 import grafo from '../../../data/grafo.json';
 
 const artistas = atlas.nodos.artistas;
 const nProto = grafo.edges.filter((e) => e.data.estado === 'prototipo').length;
 const nMb = grafo.edges.length - nProto;
+const tiposArista = Object.keys(NOMBRES_ARISTA);
 ---
 <Base titulo="El grafo">
   <header class="page"><div class="wrap">
     <p class="eyebrow">Fase 1 · Era clásica 1966–1980 · 26 artistas · 208 fichas</p>
     <h1>El Mapa del Prog</h1>
     <p class="lede">El rock progresivo británico como grafo genealógico: artistas, productores,
-    ingenieros, diseñadores, sellos y estudios, conectados. Clic en cualquier nodo para abrir su ficha.</p>
+    ingenieros, diseñadores, sellos y estudios, conectados. Tocá un nodo para explorar sus
+    conexiones; abrí la ficha desde el panel.</p>
   </div></header>
 
   <section class="block"><div class="wrap">
     <h2>La red</h2>
-    <p class="sub">Aristas continuas: membresías verificadas en MusicBrainz ({nMb}).
-    Aristas punteadas: conexiones documentadas en la capa editorial, pendientes de verificación ({nProto}).</p>
-    <div id="filtros" class="filtros mono">
-      <label><input type="checkbox" value="member_of" checked /> miembros</label>
-      <label><input type="checkbox" value="produced" checked /> producción</label>
-      <label><input type="checkbox" value="engineered" checked /> ingeniería</label>
-      <label><input type="checkbox" value="arranged" checked /> arreglos</label>
-      <label><input type="checkbox" value="guested_on" checked /> invitados</label>
-      <label><input type="checkbox" value="designed_artwork" checked /> arte de tapa</label>
-      <label><input type="checkbox" value="signed_to" checked /> sellos</label>
-      <label><input type="checkbox" value="recorded_at" checked /> estudios</label>
-      <label><input type="checkbox" value="wrote_lyrics" checked /> letras</label>
+    <p class="sub">Aristas continuas: verificadas en MusicBrainz ({nMb}). Punteadas: documentadas
+    en la capa editorial, pendientes de verificación ({nProto}). Los chips filtran y son la leyenda.</p>
+
+    <div class="chips" id="filtros">
+      {tiposArista.map((t) => (
+        <button class="chip on" data-tipo={t}><i style={`background:${COLORES_ARISTA[t]}`}></i>{NOMBRES_ARISTA[t]}</button>
+      ))}
+      <button class="chip todas" id="chip-todas">todas</button>
     </div>
-    <div id="cy" data-base={u('/')}></div>
-    <p class="sub" id="detalle-arista">Pasá el cursor por una arista para ver el detalle de la conexión.</p>
+
+    <div id="vista">
+      <div id="lienzo">
+        <div id="cy" data-base={u('/')}></div>
+        <div id="controles" class="mono">
+          <input id="busca" list="nodos-lista" placeholder="buscar nodo…" autocomplete="off" />
+          <datalist id="nodos-lista">
+            {grafo.nodes.map((n) => <option value={n.data.label}></option>)}
+          </datalist>
+          <button id="btn-fit" title="reencuadrar">⛶</button>
+        </div>
+      </div>
+      <aside id="panel">
+        <div id="panel-vacio">
+          <p class="tag">Cómo se lee</p>
+          <p class="peq">Círculos: artistas, con su color de siempre y tamaño según conexiones.
+          Rombos: personas de la red. Rectángulos: sellos. Hexágonos: estudios.</p>
+          <p class="peq">Tocá un nodo para ver sus conexiones acá; el resto del grafo se atenúa.
+          Clic en el fondo para soltar.</p>
+        </div>
+        <div id="panel-nodo" hidden>
+          <p class="tag" id="p-rol"></p>
+          <h3 id="p-nombre"></h3>
+          <a id="p-ficha" class="ficha-btn" href="#">Abrir ficha →</a>
+          <ul id="p-conexiones"></ul>
+        </div>
+      </aside>
+    </div>
   </div></section>
 
   <section class="block"><div class="wrap">
@@ -50,17 +74,43 @@ const nMb = grafo.edges.length - nProto;
 </Base>
 
 <style>
-#cy{height:640px;background:var(--panel);border:1px solid var(--line)}
-.filtros{display:flex;flex-wrap:wrap;gap:4px 14px;margin-bottom:10px;font-size:12px;color:var(--dim)}
-.filtros label{cursor:pointer;user-select:none}
-.filtros input{accent-color:var(--acento);vertical-align:-2px}
-#detalle-arista{margin-top:10px;min-height:1.4em}
+#vista{display:grid;grid-template-columns:1fr 320px;gap:12px}
+#lienzo{position:relative}
+#cy{height:72vh;min-height:480px;background:radial-gradient(ellipse at 50% 40%, #1d232c 0%, var(--panel) 70%);border:1px solid var(--line)}
+#controles{position:absolute;top:10px;left:10px;display:flex;gap:6px;z-index:3}
+#busca{background:rgba(20,24,29,.92);border:1px solid var(--line);color:var(--ink);font:12px ui-monospace,monospace;padding:7px 10px;width:200px;border-radius:3px}
+#busca:focus{outline:none;border-color:var(--acento)}
+#btn-fit{background:rgba(20,24,29,.92);border:1px solid var(--line);color:var(--dim);font-size:14px;padding:4px 10px;cursor:pointer;border-radius:3px}
+#btn-fit:hover{color:var(--ink);border-color:var(--ink)}
+#panel{background:var(--panel);border:1px solid var(--line);padding:16px;max-height:72vh;overflow-y:auto}
+#panel .peq{font-size:13px;color:var(--dim);margin-top:10px;line-height:1.5}
+#panel h3{font-size:19px;margin:4px 0 10px;font-style:italic}
+.ficha-btn{display:inline-block;font-family:ui-monospace,monospace;font-size:12px;color:var(--ink);border:1px solid var(--acento);border-radius:999px;padding:5px 14px;text-decoration:none;margin-bottom:14px}
+.ficha-btn:hover{background:var(--acento);color:var(--bg)}
+#p-conexiones{list-style:none;margin:0;padding:0}
+#p-conexiones li{border-top:1px solid var(--line);padding:9px 0;font-size:13px;line-height:1.45}
+#p-conexiones .rel{font-family:ui-monospace,monospace;font-size:10px;letter-spacing:.1em;text-transform:uppercase}
+#p-conexiones .quien{color:var(--ink);font-weight:600}
+#p-conexiones .det{color:var(--dim);display:block;margin-top:2px}
+#p-conexiones .vf{font-family:ui-monospace,monospace;font-size:9.5px;letter-spacing:.06em;color:#7fbf7f}
+#p-conexiones .vf.ed{color:#d9b44a}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.chip{font-family:ui-monospace,monospace;font-size:11px;letter-spacing:.05em;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:5px 11px;cursor:pointer;opacity:.45}
+.chip.on{opacity:1;border-color:#4a5462}
+.chip i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:var(--dim);vertical-align:0}
+.chip.todas{opacity:1;color:var(--dim)}
+.chip.todas:hover{color:var(--ink)}
+@media(max-width:860px){#vista{grid-template-columns:1fr}#panel{max-height:none}#cy{height:60vh}}
 </style>
 
 <script>
   import cytoscape from 'cytoscape';
+  // @ts-ignore — sin tipos publicados
+  import fcose from 'cytoscape-fcose';
   import grafo from '../../../data/grafo.json';
-  import { COLORES } from '../lib/util';
+  import { COLORES, COLORES_ARISTA } from '../lib/util';
+
+  cytoscape.use(fcose);
 
   const cont = document.getElementById('cy')!;
   const base = cont.dataset.base!;
@@ -68,85 +118,173 @@ const nMb = grafo.edges.length - nProto;
   const cy = cytoscape({
     container: cont,
     elements: grafo as any,
-    autoungrabify: false,
+    minZoom: 0.35,
+    maxZoom: 2.5,
+    wheelSensitivity: 0.3,
     style: [
+      {
+        selector: 'node',
+        style: {
+          label: 'data(label)',
+          color: '#E9E2D0',
+          'text-outline-width': 2,
+          'text-outline-color': '#14181D',
+          'text-valign': 'bottom',
+          'text-margin-y': 5,
+          'text-wrap': 'wrap',
+          'text-max-width': '110px',
+        },
+      },
       {
         selector: 'node[tipo="artista"]',
         style: {
           'background-color': (n: any) => COLORES[n.data('grupo')] ?? '#9AA0A8',
-          label: 'data(label)', color: '#E9E2D0', 'font-size': 11,
-          'font-family': 'Georgia, serif', 'text-valign': 'bottom', 'text-margin-y': 4,
-          width: 26, height: 26,
+          'font-size': 12,
+          'font-family': 'Georgia, serif',
+          width: 'data(diam)',
+          height: 'data(diam)',
         },
       },
       {
         selector: 'node[tipo="person"]',
         style: {
-          shape: 'diamond', 'background-color': '#E9E2D0', label: 'data(label)',
-          color: '#9AA0A8', 'font-size': 10, 'font-family': 'ui-monospace, monospace',
-          'text-valign': 'bottom', 'text-margin-y': 4, width: 18, height: 18,
+          shape: 'diamond', 'background-color': '#CfC8B4', color: '#B9B3A4',
+          'font-size': 10, 'font-family': 'ui-monospace, monospace', width: 17, height: 17,
         },
       },
       {
         selector: 'node[tipo="label"]',
         style: {
-          shape: 'round-rectangle', 'background-color': '#D08C2E', label: 'data(label)',
-          color: '#9AA0A8', 'font-size': 10, 'font-family': 'ui-monospace, monospace',
-          'text-valign': 'bottom', 'text-margin-y': 4, width: 20, height: 16,
+          shape: 'round-rectangle', 'background-color': '#D9B44A', color: '#B9B3A4',
+          'font-size': 10, 'font-family': 'ui-monospace, monospace', width: 20, height: 15,
         },
       },
       {
         selector: 'node[tipo="studio"]',
         style: {
-          shape: 'hexagon', 'background-color': '#58A4B0', label: 'data(label)',
-          color: '#9AA0A8', 'font-size': 10, 'font-family': 'ui-monospace, monospace',
-          'text-valign': 'bottom', 'text-margin-y': 4, width: 20, height: 18,
+          shape: 'hexagon', 'background-color': '#58A4B0', color: '#B9B3A4',
+          'font-size': 10, 'font-family': 'ui-monospace, monospace', width: 20, height: 17,
         },
       },
       {
         selector: 'edge',
         style: {
-          width: 1.4, 'line-color': '#2A313C', 'curve-style': 'bezier',
+          width: 1.6,
+          'curve-style': 'bezier',
+          'line-color': (e: any) => COLORES_ARISTA[e.data('tipo')] ?? '#2A313C',
+          'line-opacity': 0.55,
           'target-arrow-shape': 'none',
         },
       },
-      { selector: 'edge[estado="prototipo"]', style: { 'line-style': 'dashed', 'line-color': '#3d4653' } },
-      { selector: 'edge.activa', style: { 'line-color': '#D08C2E', width: 2.2 } },
-      { selector: 'node.activa', style: { 'border-width': 2, 'border-color': '#E9E2D0' } },
+      { selector: 'edge[estado="prototipo"]', style: { 'line-style': 'dashed', 'line-dash-pattern': [5, 4] } },
+      { selector: '.apagado', style: { opacity: 0.10 } },
+      { selector: 'edge.foco', style: { 'line-opacity': 1, width: 2.6 } },
+      {
+        selector: 'node.foco',
+        style: { 'border-width': 2, 'border-color': '#E9E2D0', 'font-size': 13 },
+      },
+      { selector: 'node.elegido', style: { 'border-width': 3, 'border-color': '#D08C2E' } },
     ],
-    layout: { name: 'cose', animate: false, nodeRepulsion: () => 12000, idealEdgeLength: () => 90, padding: 20 },
   });
 
-  // clic -> ficha
-  cy.on('tap', 'node', (ev) => {
-    const d = ev.target.data();
-    const ruta = d.tipo === 'artista' ? `artista/${d.slug}/` : `red/${d.slug}/`;
-    window.location.href = base + ruta;
+  // tamaño de artistas según grado (conexiones)
+  const grados = cy.nodes('[tipo="artista"]').map((n) => n.degree(false));
+  const maxG = Math.max(...grados, 1);
+  cy.nodes('[tipo="artista"]').forEach((n) => {
+    n.data('diam', 20 + Math.round(26 * (n.degree(false) / maxG)));
   });
 
-  // hover -> detalle de la arista
-  const detalle = document.getElementById('detalle-arista')!;
-  cy.on('mouseover', 'edge', (ev) => {
-    const e = ev.target;
-    e.addClass('activa');
-    e.connectedNodes().addClass('activa');
-    const d = e.data();
-    const src = cy.getElementById(d.source).data('label');
-    const tgt = cy.getElementById(d.target).data('label');
-    const verif = d.estado === 'musicbrainz' ? 'MusicBrainz' : 'editorial, sin verificar';
-    detalle.textContent = `${src} — ${d.relacion} — ${tgt}: ${d.etiqueta} (${verif})`;
-  });
-  cy.on('mouseout', 'edge', (ev) => {
-    ev.target.removeClass('activa');
-    ev.target.connectedNodes().removeClass('activa');
-    detalle.textContent = 'Pasá el cursor por una arista para ver el detalle de la conexión.';
-  });
+  cy.layout({
+    // @ts-ignore — opciones de fcose
+    name: 'fcose', quality: 'proof', animate: false, randomize: true,
+    nodeSeparation: 120, idealEdgeLength: 110, nodeRepulsion: 9000,
+    gravity: 0.28, packComponents: true, padding: 24,
+  } as any).run();
+  cy.fit(undefined, 30);
 
-  // filtros por tipo de arista
-  const casillas = document.querySelectorAll<HTMLInputElement>('#filtros input');
-  function aplicar() {
-    const activos = new Set([...casillas].filter((c) => c.checked).map((c) => c.value));
-    cy.edges().forEach((e) => e.style('display', activos.has(e.data('tipo')) ? 'element' : 'none'));
+  // ---- panel lateral ------------------------------------------------
+  const vacio = document.getElementById('panel-vacio')!;
+  const pNodo = document.getElementById('panel-nodo')!;
+  const pRol = document.getElementById('p-rol')!;
+  const pNombre = document.getElementById('p-nombre')!;
+  const pFicha = document.getElementById('p-ficha') as HTMLAnchorElement;
+  const pCon = document.getElementById('p-conexiones')!;
+
+  function soltar() {
+    cy.elements().removeClass('apagado foco elegido');
+    pNodo.hidden = true;
+    vacio.hidden = false;
   }
-  casillas.forEach((c) => c.addEventListener('change', aplicar));
+
+  function elegir(n: any) {
+    const d = n.data();
+    const barrio = n.closedNeighborhood();
+    cy.elements().addClass('apagado').removeClass('foco elegido');
+    barrio.removeClass('apagado');
+    barrio.addClass('foco');
+    n.addClass('elegido');
+
+    pRol.textContent = d.tipo === 'artista' ? 'Artista' : (d.rol ?? d.tipo);
+    pNombre.textContent = d.label;
+    pFicha.href = base + (d.tipo === 'artista' ? `artista/${d.slug}/` : `red/${d.slug}/`);
+    pCon.innerHTML = '';
+    n.connectedEdges().forEach((e: any) => {
+      const otro = e.source().id() === n.id() ? e.target() : e.source();
+      const ed = e.data();
+      const li = document.createElement('li');
+      const verif = ed.estado === 'musicbrainz'
+        ? '<span class="vf">✓ MusicBrainz</span>'
+        : '<span class="vf ed">◌ editorial, sin verificar</span>';
+      li.innerHTML =
+        `<span class="rel" style="color:${COLORES_ARISTA[ed.tipo] ?? '#9AA0A8'}">${ed.relacion}</span> ` +
+        `<span class="quien">${otro.data('label')}</span>` +
+        `<span class="det">${ed.etiqueta} · ${verif}</span>`;
+      li.addEventListener('click', () => { elegir(otro); cy.animate({ center: { eles: otro }, duration: 250 }); });
+      li.style.cursor = 'pointer';
+      pCon.appendChild(li);
+    });
+    vacio.hidden = true;
+    pNodo.hidden = false;
+  }
+
+  cy.on('tap', 'node', (ev) => elegir(ev.target));
+  cy.on('tap', (ev) => { if (ev.target === cy) soltar(); });
+
+  // hover: adelanto de barrio sin perder la selección
+  cy.on('mouseover', 'node', (ev) => { cont.style.cursor = 'pointer'; ev.target.addClass('foco'); });
+  cy.on('mouseout', 'node', (ev) => {
+    cont.style.cursor = 'default';
+    if (!ev.target.hasClass('elegido')) ev.target.removeClass('foco');
+  });
+
+  // ---- filtros (chips) ----------------------------------------------
+  const chips = [...document.querySelectorAll<HTMLButtonElement>('#filtros .chip[data-tipo]')];
+  function aplicar() {
+    const activos = new Set(chips.filter((c) => c.classList.contains('on')).map((c) => c.dataset.tipo));
+    cy.edges().forEach((e) => e.style('display', activos.has(e.data('tipo')) ? 'element' : 'none'));
+    // nodos de la red sin aristas visibles se atenúan
+    cy.nodes('[tipo != "artista"]').forEach((n) => {
+      const visibles = n.connectedEdges().filter((e) => e.style('display') !== 'none');
+      n.style('opacity', visibles.length ? 1 : 0.18);
+    });
+  }
+  chips.forEach((c) => c.addEventListener('click', () => { c.classList.toggle('on'); aplicar(); }));
+  document.getElementById('chip-todas')!.addEventListener('click', () => {
+    const algunoApagado = chips.some((c) => !c.classList.contains('on'));
+    chips.forEach((c) => c.classList.toggle('on', algunoApagado));
+    aplicar();
+  });
+
+  // ---- buscador + reencuadre ----------------------------------------
+  const busca = document.getElementById('busca') as HTMLInputElement;
+  busca.addEventListener('change', () => {
+    const q = busca.value.trim().toLowerCase();
+    if (!q) return;
+    const n = cy.nodes().filter((x) => (x.data('label') as string).toLowerCase().includes(q)).first();
+    if (n.nonempty()) {
+      elegir(n);
+      cy.animate({ center: { eles: n }, zoom: 1.2, duration: 300 });
+    }
+  });
+  document.getElementById('btn-fit')!.addEventListener('click', () => { soltar(); cy.animate({ fit: { eles: cy.elements(), padding: 30 }, duration: 300 }); });
 </script>

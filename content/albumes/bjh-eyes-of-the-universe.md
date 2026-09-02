@@ -9,6 +9,12 @@ mb_rgid: "c9bac146-308b-3527-8d6b-45a66dc4a414"
 primer_lanzamiento: "1979-11-05"
 charts_texto: "—"
 charts_estado: "verificado"
+era: "clasica"
+estrellas_comercial: 1
+comercial_fuente: "charts"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Primer disco sin Woolly: transición pop de recepción tibia."
 ---
 
 Invisibles en casa, gigantes en Alemania: al año siguiente tocarían gratis junto al Reichstag de Berlín ante una multitud estimada en más de 150.000 personas (las cifras varían según la fuente).

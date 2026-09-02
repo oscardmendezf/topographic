@@ -9,6 +9,12 @@ mb_rgid: "e65ee097-180e-3116-8b68-599b177947b8"
 primer_lanzamiento: "1974-03-29"
 charts_texto: "UK 28 · US 64"
 charts_estado: "verificado"
+era: "clasica"
+estrellas_comercial: 3
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Muy valorado, aunque siempre a la sombra de Larks' y Red."
 ---
 
 Mitad directo disimulado como estudio, áspero y arriesgado. «Fracture» como examen final de guitarra.

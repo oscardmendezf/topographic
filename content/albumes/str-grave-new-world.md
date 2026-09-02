@@ -9,6 +9,12 @@ mb_rgid: "9414b9a3-c8f5-3892-826e-91c804afb082"
 primer_lanzamiento: "1972"
 charts_texto: "UK 11 · US 191"
 charts_estado: "verificado"
+era: "clasica"
+estrellas_comercial: 3
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Consenso alto: su disco más ambicioso y cohesivo."
 ---
 
 El salto: folk-rock eléctrico con órgano y Mellotron de Blue Weaver. Su disco más ambicioso y su entrada al top 15.

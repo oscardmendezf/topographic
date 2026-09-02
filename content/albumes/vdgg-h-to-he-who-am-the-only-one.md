@@ -9,6 +9,12 @@ mb_rgid: "0a306df1-cd51-3342-8fc8-27aa53e6a6e8"
 primer_lanzamiento: "1970-12"
 charts_texto: "—"
 charts_estado: "memoria"
+era: "clasica"
+estrellas_comercial: 1
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Muy valorado; el paso previo a la cumbre de Pawn Hearts."
 ---
 
 Ciencia, soledad y el primer cameo de Fripp. El sonido VdGG completo: agresión y filosofía en el mismo compás.

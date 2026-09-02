@@ -1,0 +1,114 @@
+{
+  "albumes": [
+    {
+      "slug": "app-ammonia-avenue",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 3,
+      "critica_nota": "Pop pulido y bien producido; la crítica lo vio correcto, no esencial.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "app-eve",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 3,
+      "critica_nota": "Recepción tibia; producción admirada, concepto cuestionado desde el inicio.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "app-eye-in-the-sky",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 4,
+      "critica_nota": "Su disco mejor valorado junto a I Robot; pop adulto con oficio.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "app-gaudi",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Concepto sobre Antoni Gaudí y la Sagrada Família, con «La Sagrada Familia» como pieza central. Cierre del catálogo del Project como tal: el método de estudio intacto, la inspiración ya en retirada. Woolfson reciclaría la idea después en el teatro musical.",
+      "estrellas_critica": 3,
+      "critica_nota": "Despedida con oficio; recepción tibia, algo revalorada por la suite inicial.",
+      "estrellas_comercial": 3,
+      "comercial_nota": "Moderado, sostenido por Europa continental; débil en los mercados anglosajones."
+    },
+    {
+      "slug": "app-i-robot",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 4,
+      "critica_nota": "Consenso amplio como su mejor trabajo; concepto y estudio en equilibrio.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "app-pyramid",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 3,
+      "critica_nota": "Correcto sin más; el concepto egipcio rinde menos que el anterior.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "app-stereotomy",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "El título sale de Poe («Los crímenes de la calle Morgue»), pero el disco es el más frío del catálogo: producción digital de mediados de los ochenta, Woolfson casi ausente como voz y peso creciente de los instrumentales. La fórmula del Project girando en vacío.",
+      "estrellas_critica": 2,
+      "critica_nota": "Recibido como ejercicio técnico sin canciones; de lo menos defendido del catálogo.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Marginal: el público que sostuvo a Ammonia Avenue ya no respondió."
+    },
+    {
+      "slug": "app-tales-of-mystery-and-imagination",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 4,
+      "critica_nota": "Debut respetado entonces y ahora; la producción sigue siendo el argumento.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "app-the-sicilian-defence",
+      "excluir": false,
+      "motivo": "Álbum de estudio oficial grabado en 1979 y archivado; edición oficial tardía (2014). Se incluye por ser material de estudio propio, no bootleg.",
+      "analisis": "Grabado a fines de los setenta para cumplir un contrato con Arista y guardado en un cajón por decisión de los propios Parsons y Woolfson, salió recién en 2014 dentro de la reedición del catálogo. Dúo instrumental de piano y teclados estructurado sobre una apertura de ajedrez. Curiosidad de archivo antes que disco.",
+      "estrellas_critica": 2,
+      "critica_nota": "Tratado como rareza para completistas; nadie lo defendió como obra.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Sin impacto: apéndice de caja recopilatoria, público estrictamente fan."
+    },
+    {
+      "slug": "app-the-turn-of-a-friendly-card",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 4,
+      "critica_nota": "Bien valorado: la suite del título y los singles conviven sin fricción.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "app-vulture-culture",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Primer disco del Project sin suite instrumental extensa: formato canción liviano, sátira del consumismo como excusa temática y «Days Are Numbers (The Traveller)» como único momento que perduró. El punto donde el método empieza a rendir visiblemente menos.",
+      "estrellas_critica": 2,
+      "critica_nota": "Mal parado entonces y en retrospectiva; visto como piloto automático.",
+      "estrellas_comercial": 3,
+      "comercial_nota": "Moderado: firme en Europa continental, en retroceso claro en Estados Unidos."
+    }
+  ]
+}

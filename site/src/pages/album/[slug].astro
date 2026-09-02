@@ -1,7 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import { u, COLORES, ESTADO_CHARTS } from '../../lib/util';
+import { u, COLORES, ESTADO_CHARTS, ERAS, estrellas } from '../../lib/util';
 import atlas from '../../../../data/atlas.json';
 
 export async function getStaticPaths() {
@@ -22,16 +22,34 @@ const estadoClase = d.charts_estado === 'verificado' ? 'ok' : d.charts_estado ==
     <h1>{d.titulo}</h1>
     <div class="links-verif">
       {d.mb_rgid && <a href={`https://musicbrainz.org/release-group/${d.mb_rgid}`}>MusicBrainz ↗</a>}
-      <a href={u(`tiempo/`)}>Ver en la línea de tiempo</a>
+      <a href={u(`tiempo/${d.era ?? 'clasica'}/`)}>Ver en la línea de tiempo</a>
     </div>
   </div></header>
 
   <section class="block"><div class="wrap">
     <table class="datos">
-      <tr><th>Primer lanzamiento</th><td>{d.primer_lanzamiento ?? 's.d.'} <span class="badge ok">MusicBrainz</span></td></tr>
+      <tr><th>Era</th><td>{ERAS[d.era]?.nombre ?? '—'} · {ERAS[d.era]?.rango ?? ''}</td></tr>
+      <tr><th>Primer lanzamiento</th><td>{d.primer_lanzamiento ?? 's.d.'} {d.mb_rgid ? <span class="badge ok">MusicBrainz</span> : <span class="badge">sin entidad MB propia</span>}</td></tr>
       <tr><th>Charts</th><td>{d.charts_texto} <span class={`badge ${estadoClase}`}>{ESTADO_CHARTS[d.charts_estado] ?? d.charts_estado}</span></td></tr>
+      <tr><th>Recepción crítica</th><td>
+        <span class="estrellas">{estrellas(d.estrellas_critica)}</span>
+        {d.critica_nota && <span class="nota"> — {d.critica_nota}</span>}
+        <span class="badge warn">valoración editorial</span>
+      </td></tr>
+      <tr><th>Recepción comercial</th><td>
+        <span class="estrellas">{estrellas(d.estrellas_comercial)}</span>
+        {d.comercial_nota && <span class="nota"> — {d.comercial_nota}</span>}
+        {d.comercial_fuente === 'charts'
+          ? <span class="badge ok">derivada de charts ({d.charts_estado})</span>
+          : <span class="badge warn">estimación editorial</span>}
+      </td></tr>
     </table>
   </div></section>
+
+  <style>
+    .estrellas{color:var(--acento);font-size:17px;letter-spacing:2px}
+    .nota{color:var(--dim);font-size:13px}
+  </style>
 
   <section class="block"><div class="wrap analisis">
     <Content />

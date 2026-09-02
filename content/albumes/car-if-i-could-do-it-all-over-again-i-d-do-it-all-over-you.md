@@ -9,6 +9,12 @@ mb_rgid: "8cf5e0fc-2728-3269-9ab9-64e9e38f5633"
 primer_lanzamiento: "1970-09-04"
 charts_texto: "—"
 charts_estado: "verificado"
+era: "clasica"
+estrellas_comercial: 1
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Muy valorado; consolidación del sonido propio de la banda."
 ---
 
 El sonido Canterbury definido: órgano con fuzz, ingenio verbal, ligereza que disimula la complejidad.

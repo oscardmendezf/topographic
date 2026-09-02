@@ -9,6 +9,12 @@ mb_rgid: "9dc36597-f457-3389-a25e-2ee134a1ef98"
 primer_lanzamiento: "1971"
 charts_texto: "UK 39"
 charts_estado: "verificado"
+era: "clasica"
+estrellas_comercial: 2
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Muy valorado como bisagra folk-prog."
 ---
 
 Wakeman se va a Yes al terminarlo, reclutado tras una reseña elogiosa: la red operando en tiempo real.

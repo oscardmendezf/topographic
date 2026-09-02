@@ -1,11 +1,17 @@
 ---
 import { getCollection } from 'astro:content';
-import Base from '../layouts/Base.astro';
-import { u, COLORES } from '../lib/util';
-import atlas from '../../../data/atlas.json';
+import Base from '../../layouts/Base.astro';
+import { u, COLORES, ERAS, estrellas } from '../../lib/util';
+import atlas from '../../../../data/atlas.json';
 
+export async function getStaticPaths() {
+  return ['clasica', 'siguiente', 'moderna'].map((era) => ({ params: { era } }));
+}
+
+const { era } = Astro.params;
+const info = ERAS[era];
 const grupoDe = Object.fromEntries(atlas.nodos.artistas.map((a) => [a.slug, a.grupo]));
-const albumes = await getCollection('albumes');
+const albumes = (await getCollection('albumes')).filter((a) => a.data.era === era);
 const porAnio = new Map<number, typeof albumes>();
 for (const alb of albumes) {
   const y = alb.data.anio_ficha;
@@ -17,12 +23,15 @@ for (const y of anios) {
   porAnio.get(y)!.sort((a, b) => (a.data.primer_lanzamiento ?? '9999').localeCompare(b.data.primer_lanzamiento ?? '9999'));
 }
 ---
-<Base titulo="Línea de tiempo">
+<Base titulo={`Línea de tiempo ${info.rango}`}>
   <header class="page"><div class="wrap">
-    <p class="eyebrow">Era clásica · año por año · {albumes.length} fichas</p>
-    <h1>Línea de tiempo 1966–1980</h1>
-    <p class="lede">Cada ficha enlaza a su página con análisis, charts con estado de verificación
-    y su release-group en MusicBrainz.</p>
+    <p class="eyebrow">{info.nombre} · año por año · {albumes.length} fichas</p>
+    <h1>Línea de tiempo {info.rango}</h1>
+    <nav class="eras mono">
+      {Object.entries(ERAS).map(([slug, e]) => (
+        <a href={u(`tiempo/${slug}/`)} class={slug === era ? 'on' : ''}>{e.rango}</a>
+      ))}
+    </nav>
   </div></header>
 
   <main class="wrap tl">
@@ -35,6 +44,10 @@ for (const y of anios) {
             <div>
               <h4>{alb.data.titulo} <em>{alb.data.artista}</em></h4>
               <p>{alb.body?.slice(0, 180)}{(alb.body?.length ?? 0) > 180 ? '…' : ''}</p>
+              <p class="stars mono">
+                <span title={alb.data.critica_nota ?? 'valoración editorial'}>crítica {estrellas(alb.data.estrellas_critica)}</span>
+                <span title={alb.data.comercial_fuente === 'charts' ? 'derivada de charts' : 'estimación editorial'}> · comercial {estrellas(alb.data.estrellas_comercial)}</span>
+              </p>
             </div>
             <span class="c mono">
               {alb.data.charts_texto}
@@ -49,6 +62,10 @@ for (const y of anios) {
 </Base>
 
 <style>
+.eras{display:flex;gap:8px;margin-top:16px}
+.eras a{font-size:12px;letter-spacing:.08em;color:var(--dim);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:5px 14px}
+.eras a.on{color:var(--ink);border-color:var(--acento)}
+.eras a:hover{color:var(--ink)}
 .tl{padding:34px 20px 44px}
 .year{position:relative;padding:8px 0 26px 84px;border-left:2px solid var(--line);margin-left:28px}
 .ylabel{position:absolute;left:-30px;top:8px;width:58px;height:58px;border-radius:50%;background:var(--panel2);border:2px solid var(--line);display:flex;align-items:center;justify-content:center;font-size:14px;letter-spacing:.05em}
@@ -57,6 +74,8 @@ for (const y of anios) {
 .al h4{font-size:15.5px;font-weight:600}
 .al h4 em{font-style:normal;color:var(--dim);font-weight:400;font-size:13px;margin-left:8px}
 .al p{font-size:13.5px;color:#b9b3a4;margin-top:3px;max-width:72ch}
+.al .stars{font-size:11px;color:var(--acento);margin-top:5px}
+.al .stars span[title]{cursor:help}
 .al .c{font-size:12px;color:var(--dim);white-space:nowrap;align-self:start;padding-top:2px}
 .al .c b{display:block;font-weight:400;font-size:10px;letter-spacing:.06em;text-align:right}
 .al .c b.sd{color:#c96f6f}

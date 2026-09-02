@@ -9,6 +9,12 @@ mb_rgid: "b7591e01-e9a6-4a73-b9e2-1a3d510f5065"
 primer_lanzamiento: "1972-11"
 charts_texto: "UK 6 · US 35"
 charts_estado: "memoria"
+era: "clasica"
+estrellas_comercial: 4
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Muy valorado; para muchos el par de Moving Waves"
 ---
 
 Doble con «Sylvia»: el pico comercial del prog continental en el mundo anglosajón.

@@ -11,5 +11,8 @@ const albumes = defineCollection({
 const red = defineCollection({
   loader: glob({ pattern: '*.md', base: '../content/red' }),
 });
+const etapas = defineCollection({
+  loader: glob({ pattern: '*.md', base: '../content/etapas' }),
+});
 
-export const collections = { artistas, albumes, red };
+export const collections = { artistas, albumes, red, etapas };

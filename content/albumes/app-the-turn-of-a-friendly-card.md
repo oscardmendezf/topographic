@@ -9,6 +9,12 @@ mb_rgid: "f51a3bff-99d8-3943-9552-e7d20fdd11cc"
 primer_lanzamiento: "1980-11"
 charts_texto: "UK 38 · US 13"
 charts_estado: "memoria"
+era: "clasica"
+estrellas_comercial: 3
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Bien valorado: la suite del título y los singles conviven sin fricción."
 ---
 
 El juego y el azar como metáfora, con hits reales («Games People Play»). El Project encuentra su forma comercial definitiva justo al cerrar la ventana de este mapa.

@@ -9,6 +9,12 @@ mb_rgid: "0a7225eb-7177-3cdc-92d8-23e8541831ee"
 primer_lanzamiento: "1969-03-07"
 charts_texto: "—"
 charts_estado: "memoria"
+era: "clasica"
+estrellas_comercial: 1
+comercial_fuente: "charts"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Juvenilia pop orquestada; ignorado entonces y visto como prehistoria."
 ---
 
 Adolescentes producidos por Jonathan King como unos Bee Gees con orquesta encima. Curiosidad arqueológica; la banda reniega de él con razón.

@@ -9,6 +9,12 @@ mb_rgid: "0c6e24c8-3cc8-3b35-93c5-1fdf6c5641b6"
 primer_lanzamiento: "1975-02-15"
 charts_texto: "US 113"
 charts_estado: "verificado"
+era: "clasica"
+estrellas_comercial: 1
+comercial_fuente: "charts"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Correcto; interesa más como debut de Peart que por sí mismo."
 ---
 
 Entra Peart: fantasía, métrica impar y letras con biblioteca. El Rush reconocible empieza aquí.

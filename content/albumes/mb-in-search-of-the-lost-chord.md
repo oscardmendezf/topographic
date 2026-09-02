@@ -9,6 +9,12 @@ mb_rgid: "e817037c-2c6b-34be-a860-b51957f7e82a"
 primer_lanzamiento: "1968-07-26"
 charts_texto: "UK 5 · US 23"
 charts_estado: "parcial"
+era: "clasica"
+estrellas_comercial: 4
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Muy valorado como su disco más psicodélico y autosuficiente"
 ---
 
 Fuera la orquesta, adentro el Mellotron de Pinder: la solución barata que definió el sonido de todo el género. Misticismo de divulgación («Om», Timothy Leary).

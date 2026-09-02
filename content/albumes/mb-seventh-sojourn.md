@@ -9,6 +9,12 @@ mb_rgid: "7b836b4d-c07d-35ee-a5a0-9efac69be452"
 primer_lanzamiento: "1972-10-23"
 charts_texto: "UK 5 · US 1"
 charts_estado: "parcial"
+era: "clasica"
+estrellas_comercial: 5
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Cierre respetado de la era clásica, más oficio que sorpresa"
 ---
 
 Nº 1 americano y agotamiento elegante. Después, cinco años de silencio: la fórmula ya no daba más y tuvieron la lucidez de notarlo.

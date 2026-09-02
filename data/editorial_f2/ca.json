@@ -1,0 +1,84 @@
+{
+  "albumes": [
+    {
+      "slug": "ca-air-conditioning",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 4,
+      "critica_nota": "Debut celebrado; «Vivaldi» fijó al violín eléctrico en el mapa del prog.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "ca-air-cut",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 3,
+      "critica_nota": "Ignorado en su momento; revalorizado después por la etapa Jobson.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "ca-airborne",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 2,
+      "critica_nota": "Recepción tibia; interesa hoy más por Copeland que por las canciones.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "ca-lovechild",
+      "excluir": true,
+      "motivo": "Demos archivísticos de 1973 de la formación interina, publicados recién en 1990; no es álbum de estudio propio.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": "Sin recepción crítica registrable; material de archivo.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "ca-midnight-wire",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 2,
+      "critica_nota": "Recibido con frialdad; el giro más convencional convenció a pocos.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "ca-north-star",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 3,
+      "critica_nota": "Regreso recibido con simpatía moderada, sin entusiasmo unánime.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Edición de nicho para el circuito fiel; sin impacto comercial medible."
+    },
+    {
+      "slug": "ca-phantasmagoria",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 4,
+      "critica_nota": "Cierre valorado de la trilogía clásica, apenas por debajo de los dos primeros.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "slug": "ca-second-album",
+      "excluir": false,
+      "motivo": null,
+      "analisis": null,
+      "estrellas_critica": 4,
+      "critica_nota": "Su disco más redondo para la crítica; «Back Street Luv» ayudó.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    }
+  ]
+}

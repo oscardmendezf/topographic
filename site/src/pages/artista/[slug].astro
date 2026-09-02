@@ -1,7 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import { u, COLORES } from '../../lib/util';
+import { u, COLORES, ERAS, estrellas } from '../../lib/util';
 import atlas from '../../../../data/atlas.json';
 import grafo from '../../../../data/grafo.json';
 
@@ -36,7 +36,15 @@ const miembros = artista
 
 const albumes = (await getCollection('albumes'))
   .filter((alb) => artista ? alb.data.artista_slug === artista.slug : false)
-  .sort((a, b) => (a.data.primer_lanzamiento ?? '9999').localeCompare(b.data.primer_lanzamiento ?? '9999'));
+  .sort((a, b) => (a.data.primer_lanzamiento ?? String(a.data.anio_ficha)).localeCompare(b.data.primer_lanzamiento ?? String(b.data.anio_ficha)));
+
+const porEra = Object.keys(ERAS)
+  .map((e) => ({ era: e, ...ERAS[e], albumes: albumes.filter((a) => a.data.era === e) }))
+  .filter((g) => g.albumes.length > 0);
+
+const bloquesEtapa = artista
+  ? (await getCollection('etapas')).filter((e) => e.data.artista_slug === artista.slug)
+  : [];
 
 const totalRg = artista ? atlas.nodos.albumes.filter((x) => x.artist_slug === artista.slug).length : 0;
 
@@ -115,19 +123,42 @@ const conexiones = artista
     </div></section>
   )}
 
-  {albumes.length > 0 && (
+  {porEra.map((g) => (
     <section class="block"><div class="wrap">
-      <h2>Discografía · era clásica</h2>
-      <p class="sub">{albumes.length} fichas 1966–1980 · {totalRg} release-groups en total en
-        <a href={`https://musicbrainz.org/artist/${artista?.mbid}`}> MusicBrainz ↗</a></p>
+      <h2>Discografía · {g.nombre.toLowerCase()} <span class="rango mono">{g.rango}</span></h2>
+      {g.era === 'clasica' && (
+        <p class="sub">{g.albumes.length} fichas · {totalRg} release-groups en total en
+          <a href={`https://musicbrainz.org/artist/${artista?.mbid}`}> MusicBrainz ↗</a></p>
+      )}
       <div class="grid">
-        {albumes.map((alb) => (
+        {g.albumes.map((alb) => (
           <a class="card" href={u(`album/${alb.id}/`)} style={`border-left-color:${COLORES[grupo] ?? 'var(--dim)'}`}>
             <h3>{alb.data.titulo}</h3>
-            <p>{alb.data.primer_lanzamiento ?? alb.data.anio_ficha} · {alb.data.charts_texto}</p>
+            <p>{(alb.data.primer_lanzamiento ?? String(alb.data.anio_ficha)).slice(0, 4)} · {alb.data.charts_texto}</p>
+            <p class="stars mono">crítica {estrellas(alb.data.estrellas_critica)} · comercial {estrellas(alb.data.estrellas_comercial)}</p>
           </a>
         ))}
       </div>
     </div></section>
+  ))}
+
+  {bloquesEtapa.length > 0 && (
+    <section class="block"><div class="wrap">
+      <h2>Notas de etapa</h2>
+      <p class="sub">Bloques editoriales que cubren tramos del catálogo.</p>
+      {bloquesEtapa.map((b) => (
+        <div class="etapa">
+          <p class="tag">{b.data.titulo}</p>
+          <p class="etapa-texto">{b.body}</p>
+        </div>
+      ))}
+    </div></section>
   )}
 </Base>
+
+<style>
+.rango{font-size:12px;color:var(--dim);letter-spacing:.1em;font-style:normal}
+.card .stars{font-size:11px;color:var(--acento);margin-top:6px}
+.etapa{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--acento);padding:12px 16px;margin-bottom:10px}
+.etapa-texto{font-size:14px;color:#b9b3a4;margin-top:6px;max-width:80ch}
+</style>

@@ -9,6 +9,12 @@ mb_rgid: "d5afa3d7-a3b6-3b95-a812-8416dd292b9b"
 primer_lanzamiento: "1971-10"
 charts_texto: "— UK · 1 Italia"
 charts_estado: "memoria"
+era: "clasica"
+estrellas_comercial: 1
+comercial_fuente: "charts"
+estrellas_critica: 5
+critica_fuente: "editorial"
+critica_nota: "Canon indiscutido del prog oscuro; su disco más citado."
 ---
 
 «A Plague of Lighthouse-Keepers»: 23 minutos de existencialismo marítimo. Nada en las listas británicas y nº 1 en Italia, donde los recibían como a los Beatles. Su cumbre.

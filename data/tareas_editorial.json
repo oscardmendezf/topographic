@@ -1,0 +1,4215 @@
+{
+ "instrucciones": "ver prompt del workflow",
+ "artistas": {
+  "ap": [
+   {
+    "slug": "ap-1984",
+    "titulo": "1984",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-ahead-of-the-field",
+    "titulo": "Ahead of the Field",
+    "anio": 2010,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-archive-collection-volume-ii",
+    "titulo": "Archive Collection, Volume II",
+    "anio": 2004,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-battle-of-the-birds",
+    "titulo": "Battle of the Birds",
+    "anio": 2003,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-beyond-the-outer-reaches",
+    "titulo": "Beyond The Outer Reaches",
+    "anio": 2024,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-cinematic-ambient",
+    "titulo": "Cinematic Ambient",
+    "anio": 2024,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-cinematic-guitars",
+    "titulo": "Cinematic Guitars",
+    "anio": 2024,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-docudrama-night-scenes",
+    "titulo": "Docudrama: Night Scenes",
+    "anio": 2024,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-field-day",
+    "titulo": "Field Day",
+    "anio": 2005,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-finger-painting-missing-links-volume-1",
+    "titulo": "Finger Painting: Missing Links, Volume 1",
+    "anio": 1989,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-gemini-pieces-for-piano",
+    "titulo": "Gemini: Pieces for Piano",
+    "anio": 2026,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-gypsy-suite",
+    "titulo": "Gypsy Suite",
+    "anio": 1995,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-invisible-men",
+    "titulo": "Invisible Men",
+    "anio": 1990,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-missing-links-volume-3-time-and-tide",
+    "titulo": "Missing Links, Volume 3: Time and Tide",
+    "anio": 1997,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-missing-links-volume-iv-pathways-promenades",
+    "titulo": "Missing Links, Volume IV: Pathways & Promenades",
+    "anio": 2009,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-mystery-and-documentary",
+    "titulo": "Mystery And Documentary",
+    "anio": 2001,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-natural-world",
+    "titulo": "Natural World",
+    "anio": 2018,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-perpetual-motion",
+    "titulo": "Perpetual Motion",
+    "anio": 2025,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-and-pieces-ix-dragonfly-dreams",
+    "titulo": "Private Parts and Pieces IX: Dragonfly Dreams",
+    "anio": 1996,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-and-pieces-v-twelve",
+    "titulo": "Private Parts and Pieces V: Twelve",
+    "anio": 1985,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-and-pieces-vi-ivory-moon",
+    "titulo": "Private Parts and Pieces VI: Ivory Moon",
+    "anio": 1986,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-pieces-8-new-england",
+    "titulo": "Private Parts & Pieces 8: New England",
+    "anio": 1992,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-pieces-iv-a-catch-at-the-tables",
+    "titulo": "Private Parts & Pieces IV: A Catch at the Tables",
+    "anio": 1984,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-pieces-part-iii-antiques",
+    "titulo": "Private Parts & Pieces Part III: Antiques",
+    "anio": 1982,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-pieces-vii-slow-waves-soft-stars",
+    "titulo": "Private Parts & Pieces VII: Slow Waves, Soft Stars",
+    "anio": 1987,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-pieces-x-soiree",
+    "titulo": "Private Parts & Pieces X: Soirée",
+    "anio": 1999,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-pieces-xi-city-of-dreams",
+    "titulo": "Private Parts & Pieces XI: City of Dreams",
+    "anio": 2012,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-pieces-xii-the-golden-hour",
+    "titulo": "Private Parts & Pieces XII: The Golden Hour",
+    "anio": 2024,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-private-parts-pieces",
+    "titulo": "Private Parts & Pieces",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-radio-clyde",
+    "titulo": "Radio Clyde",
+    "anio": 2003,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-sail-the-world",
+    "titulo": "Sail the World",
+    "anio": 1994,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-seventh-heaven",
+    "titulo": "Seventh Heaven",
+    "anio": 2012,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-sides",
+    "titulo": "Sides",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-slow-dance",
+    "titulo": "Slow Dance",
+    "anio": 1990,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-strings-of-light",
+    "titulo": "Strings of Light",
+    "anio": 2019,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-tarka",
+    "titulo": "Tarka",
+    "anio": 1988,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-the-archive-collection-volume-1",
+    "titulo": "The Archive Collection, Volume 1",
+    "anio": 1998,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-the-geese-the-ghost",
+    "titulo": "The Geese & the Ghost",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-the-living-room-concert",
+    "titulo": "The ‘Living Room’ Concert",
+    "anio": 1995,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-the-meadows-of-englewood",
+    "titulo": "The Meadows of Englewood",
+    "anio": 1996,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-the-sky-road-missing-links-volume-2",
+    "titulo": "The Sky Road: Missing Links, Volume 2",
+    "anio": 1994,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-wildlife",
+    "titulo": "Wildlife",
+    "anio": 2008,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ap-wise-after-the-event",
+    "titulo": "Wise After the Event",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "app": [
+   {
+    "slug": "app-ammonia-avenue",
+    "titulo": "Ammonia Avenue",
+    "anio": 1984,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "app-eve",
+    "titulo": "Eve",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "app-eye-in-the-sky",
+    "titulo": "Eye in the Sky",
+    "anio": 1982,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "app-gaudi",
+    "titulo": "Gaudi",
+    "anio": 1987,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "app-i-robot",
+    "titulo": "I Robot",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "app-pyramid",
+    "titulo": "Pyramid",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "app-stereotomy",
+    "titulo": "Stereotomy",
+    "anio": 1985,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "app-tales-of-mystery-and-imagination",
+    "titulo": "Tales of Mystery and Imagination",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "app-the-sicilian-defence",
+    "titulo": "The Sicilian Defence",
+    "anio": 2014,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "app-the-turn-of-a-friendly-card",
+    "titulo": "The Turn of a Friendly Card",
+    "anio": 1980,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "app-vulture-culture",
+    "titulo": "Vulture Culture",
+    "anio": 1985,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   }
+  ],
+  "npr": [
+   {
+    "slug": "beatles-abbey-road",
+    "titulo": "Abbey Road",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "beatles-magical-mystery-tour",
+    "titulo": "Magical Mystery Tour",
+    "anio": 1967,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "beatles-revolver",
+    "titulo": "Revolver",
+    "anio": 1966,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "beatles-sgt-pepper-s-lonely-hearts-club-band",
+    "titulo": "Sgt. Pepper's Lonely Hearts Club Band",
+    "anio": 1967,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kinks-arthur-or-the-decline-and-fall-of-the-british-empire",
+    "titulo": "Arthur (Or the Decline and Fall of the British Empire)",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kinks-the-village-green-preservation-society",
+    "titulo": "The Village Green Preservation Society",
+    "anio": 1968,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pretty-things-s-f-sorrow",
+    "titulo": "S.F. Sorrow",
+    "anio": 1968,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "small-faces-ogdens-nut-gone-flake",
+    "titulo": "Ogdens' Nut Gone Flake",
+    "anio": 1968,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "bjh": [
+   {
+    "slug": "bjh-and-other-short-stories",
+    "titulo": "...And Other Short Stories",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-baby-james-harvest",
+    "titulo": "Baby James Harvest",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-barclay-james-harvest",
+    "titulo": "Barclay James Harvest",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-caught-in-the-light",
+    "titulo": "Caught in the Light",
+    "anio": 1993,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-everyone-is-everybody-else",
+    "titulo": "Everyone Is Everybody Else",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-eyes-of-the-universe",
+    "titulo": "Eyes of the Universe",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-face-to-face",
+    "titulo": "Face to Face",
+    "anio": 1987,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-gone-to-earth",
+    "titulo": "Gone to Earth",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-octoberon",
+    "titulo": "Octoberon",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-once-again",
+    "titulo": "Once Again",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-ring-of-changes",
+    "titulo": "Ring of Changes",
+    "anio": 1983,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-river-of-dreams",
+    "titulo": "River of Dreams",
+    "anio": 1997,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-time-honoured-ghosts",
+    "titulo": "Time Honoured Ghosts",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-turn-of-the-tide",
+    "titulo": "Turn of the Tide",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-victims-of-circumstance",
+    "titulo": "Victims of Circumstance",
+    "anio": 1984,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-welcome-to-the-show",
+    "titulo": "Welcome to the Show",
+    "anio": 1990,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "bjh-xii",
+    "titulo": "XII",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "ca": [
+   {
+    "slug": "ca-air-conditioning",
+    "titulo": "Air Conditioning",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ca-air-cut",
+    "titulo": "Air Cut",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ca-airborne",
+    "titulo": "Airborne",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ca-lovechild",
+    "titulo": "Lovechild",
+    "anio": 1990,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ca-midnight-wire",
+    "titulo": "Midnight Wire",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ca-north-star",
+    "titulo": "North Star",
+    "anio": 2014,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ca-phantasmagoria",
+    "titulo": "Phantasmagoria",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ca-second-album",
+    "titulo": "Second Album",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "cam": [
+   {
+    "slug": "cam-a-nod-and-a-wink",
+    "titulo": "A Nod and a Wink",
+    "anio": 2002,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-breathless",
+    "titulo": "Breathless",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-camel",
+    "titulo": "Camel",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-dust-and-dreams",
+    "titulo": "Dust and Dreams",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-harbour-of-tears",
+    "titulo": "Harbour of Tears",
+    "anio": 1996,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-i-can-see-your-house-from-here",
+    "titulo": "I Can See Your House from Here",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-live-in-tokyo-79-80",
+    "titulo": "Live In Tokyo '79 & '80",
+    "anio": 2019,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-mirage",
+    "titulo": "Mirage",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-moonmadness",
+    "titulo": "Moonmadness",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-nude",
+    "titulo": "Nude",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-rain-dances",
+    "titulo": "Rain Dances",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-rajaz",
+    "titulo": "Rajaz",
+    "anio": 1999,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-stationary-traveller",
+    "titulo": "Stationary Traveller",
+    "anio": 1984,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-the-single-factor",
+    "titulo": "The Single Factor",
+    "anio": 1982,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "cam-the-snow-goose",
+    "titulo": "The Snow Goose",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "car": [
+   {
+    "slug": "car-all-over-you-too",
+    "titulo": "All Over You… Too",
+    "anio": 2000,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-all-over-you",
+    "titulo": "All Over You",
+    "anio": 1996,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-amougies",
+    "titulo": "Amougies",
+    "anio": 2023,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-back-to-front",
+    "titulo": "Back to Front",
+    "anio": 1982,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-better-by-far",
+    "titulo": "Better by Far",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-blind-dog-at-st-dunstans",
+    "titulo": "Blind Dog at St. Dunstans",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-caravan",
+    "titulo": "Caravan",
+    "anio": 1968,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-cool-water",
+    "titulo": "Cool Water",
+    "anio": 1995,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-cunning-stunts",
+    "titulo": "Cunning Stunts",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-for-girls-who-grow-plump-in-the-night",
+    "titulo": "For Girls Who Grow Plump in the Night",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-if-i-could-do-it-all-over-again-i-d-do-it-all-over-you",
+    "titulo": "If I Could Do It All Over Again, I'd Do It All Over You",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-in-the-land-of-grey-and-pink",
+    "titulo": "In the Land of Grey and Pink",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-it-s-none-of-your-business",
+    "titulo": "It's None of Your Business",
+    "anio": 2021,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-paradise-filter",
+    "titulo": "Paradise Filter",
+    "anio": 2013,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-the-album",
+    "titulo": "The Album",
+    "anio": 1980,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-the-battle-of-hastings",
+    "titulo": "The Battle of Hastings",
+    "anio": 1995,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-the-unauthorised-breakfast-item",
+    "titulo": "The Unauthorised Breakfast Item",
+    "anio": 2003,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "car-waterloo-lily",
+    "titulo": "Waterloo Lily",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "elo": [
+   {
+    "slug": "elo-a-new-world-record",
+    "titulo": "A New World Record",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-alone-in-the-universe",
+    "titulo": "Alone in the Universe",
+    "anio": 2015,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-balance-of-power",
+    "titulo": "Balance of Power",
+    "anio": 1986,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-discovery",
+    "titulo": "Discovery",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-eldorado",
+    "titulo": "Eldorado",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-elo-2",
+    "titulo": "ELO 2",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-face-the-music",
+    "titulo": "Face the Music",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-from-out-of-nowhere",
+    "titulo": "From out of Nowhere",
+    "anio": 2019,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-on-the-third-day",
+    "titulo": "On the Third Day",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-out-of-the-blue",
+    "titulo": "Out of the Blue",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-secret-messages",
+    "titulo": "Secret Messages",
+    "anio": 1983,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-the-electric-light-orchestra-no-answer",
+    "titulo": "The Electric Light Orchestra (No Answer)",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-time",
+    "titulo": "Time",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elo-zoom",
+    "titulo": "Zoom",
+    "anio": 2001,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   }
+  ],
+  "elp": [
+   {
+    "slug": "elp-black-moon",
+    "titulo": "Black Moon",
+    "anio": 1992,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elp-brain-salad-surgery",
+    "titulo": "Brain Salad Surgery",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elp-emerson-lake-palmer",
+    "titulo": "Emerson, Lake & Palmer",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elp-emerson-lake-powell",
+    "titulo": "Emerson, Lake & Powell",
+    "anio": 1986,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": null
+   },
+   {
+    "slug": "elp-in-the-hot-seat",
+    "titulo": "In the Hot Seat",
+    "anio": 1994,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elp-love-beach",
+    "titulo": "Love Beach",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elp-pictures-at-an-exhibition",
+    "titulo": "Pictures at an Exhibition",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elp-tarkus",
+    "titulo": "Tarkus",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elp-trilogy",
+    "titulo": "Trilogy",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elp-works-volume-1",
+    "titulo": "Works Volume 1",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "elp-works-volume-2",
+    "titulo": "Works Volume 2",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "foc": [
+   {
+    "slug": "foc-focus-11",
+    "titulo": "Focus 11",
+    "anio": 2019,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-focus-12",
+    "titulo": "Focus 12",
+    "anio": 2024,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-focus-3",
+    "titulo": "Focus 3",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-focus-8-5-beyond-the-horizon",
+    "titulo": "Focus 8.5 / Beyond the Horizon",
+    "anio": 2016,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-focus-8",
+    "titulo": "Focus 8",
+    "anio": 2002,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-focus-9-new-skin",
+    "titulo": "Focus 9 / New Skin",
+    "anio": 2006,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-focus-con-proby",
+    "titulo": "Focus con Proby",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-focus-x",
+    "titulo": "Focus X",
+    "anio": 2012,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-golden-oldies",
+    "titulo": "Golden Oldies",
+    "anio": 2014,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-hamburger-concerto",
+    "titulo": "Hamburger Concerto",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-in-and-out-of-focus",
+    "titulo": "In and Out of Focus",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-mother-focus",
+    "titulo": "Mother Focus",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "foc-moving-waves",
+    "titulo": "Moving Waves",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "gen": [
+   {
+    "slug": "gen-a-trick-of-the-tail",
+    "titulo": "A Trick of the Tail",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-abacab-sessions",
+    "titulo": "Abacab Sessions",
+    "anio": 2013,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-abacab",
+    "titulo": "Abacab",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-alternate-calling-all-stations",
+    "titulo": "Alternate Calling All Stations",
+    "anio": 1998,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-and-then-there-were-three",
+    "titulo": "...And Then There Were Three...",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-calling-all-stations",
+    "titulo": "…Calling All Stations…",
+    "anio": 1997,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-duke",
+    "titulo": "Duke",
+    "anio": 1980,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-foxtrot",
+    "titulo": "Foxtrot",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-from-genesis-to-revelation",
+    "titulo": "From Genesis to Revelation",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-genesis",
+    "titulo": "Genesis",
+    "anio": 1983,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-invisible-touch",
+    "titulo": "Invisible Touch",
+    "anio": 1986,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-nursery-cryme",
+    "titulo": "Nursery Cryme",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-selling-england-by-the-pound",
+    "titulo": "Selling England by the Pound",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-the-demos-down-on-broadway",
+    "titulo": "The Demos Down on Broadway",
+    "anio": 2002,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-the-lamb-lies-down-on-broadway",
+    "titulo": "The Lamb Lies Down on Broadway",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-trespass",
+    "titulo": "Trespass",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-we-can-t-dance",
+    "titulo": "We Can't Dance",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gen-wind-wuthering",
+    "titulo": "Wind & Wuthering",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "gg": [
+   {
+    "slug": "gg-acquiring-the-taste",
+    "titulo": "Acquiring the Taste",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gg-civilian",
+    "titulo": "Civilian",
+    "anio": 1980,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gg-free-hand",
+    "titulo": "Free Hand",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gg-gentle-giant",
+    "titulo": "Gentle Giant",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gg-giant-for-a-day",
+    "titulo": "Giant for a Day",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gg-in-a-glass-house",
+    "titulo": "In a Glass House",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gg-interview",
+    "titulo": "Interview",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gg-octopus",
+    "titulo": "Octopus",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gg-the-missing-piece",
+    "titulo": "The Missing Piece",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gg-the-power-and-the-glory",
+    "titulo": "The Power and the Glory",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "gg-three-friends",
+    "titulo": "Three Friends",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "jt": [
+   {
+    "slug": "jt-a-passion-play",
+    "titulo": "A Passion Play",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-a",
+    "titulo": "A",
+    "anio": 1980,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-aqualung",
+    "titulo": "Aqualung",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-benefit",
+    "titulo": "Benefit",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-catfish-rising",
+    "titulo": "Catfish Rising",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-crest-of-a-knave",
+    "titulo": "Crest of a Knave",
+    "anio": 1987,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-curious-ruminant",
+    "titulo": "Curious Ruminant",
+    "anio": 2025,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-heavy-horses",
+    "titulo": "Heavy Horses",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-jtull-dot-com",
+    "titulo": "J‐Tull Dot Com",
+    "anio": 1999,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-minstrel-in-the-gallery",
+    "titulo": "Minstrel in the Gallery",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-rock-island",
+    "titulo": "Rock Island",
+    "anio": 1989,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-rokflote",
+    "titulo": "RökFlöte",
+    "anio": 2023,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-roots-to-branches",
+    "titulo": "Roots to Branches",
+    "anio": 1995,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-songs-from-the-wood",
+    "titulo": "Songs from the Wood",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-stand-up",
+    "titulo": "Stand Up",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-stormwatch",
+    "titulo": "Stormwatch",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-the-broadsword-and-the-beast",
+    "titulo": "The Broadsword and the Beast",
+    "anio": 1982,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-the-jethro-tull-christmas-album",
+    "titulo": "The Jethro Tull Christmas Album",
+    "anio": 2003,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-the-zealot-gene",
+    "titulo": "The Zealot Gene",
+    "anio": 2022,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-thick-as-a-brick",
+    "titulo": "Thick as a Brick",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-this-was",
+    "titulo": "This Was",
+    "anio": 1968,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-too-old-to-rock-n-roll-too-young-to-die",
+    "titulo": "Too Old to Rock 'n' Roll: Too Young to Die!",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-under-wraps",
+    "titulo": "Under Wraps",
+    "anio": 1984,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "jt-war-child",
+    "titulo": "War Child",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "kc": [
+   {
+    "slug": "kc-beat",
+    "titulo": "Beat",
+    "anio": 1982,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-discipline",
+    "titulo": "Discipline",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-in-the-court-of-the-crimson-king",
+    "titulo": "In the Court of the Crimson King",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-in-the-wake-of-poseidon",
+    "titulo": "In the Wake of Poseidon",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-islands",
+    "titulo": "Islands",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-larks-tongues-in-aspic",
+    "titulo": "Larks' Tongues in Aspic",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-lizard",
+    "titulo": "Lizard",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-red",
+    "titulo": "Red",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-starless-and-bible-black",
+    "titulo": "Starless and Bible Black",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-strange-tales-of-the-sailors",
+    "titulo": "Strange Tales of the Sailors",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-the-construkction-of-light",
+    "titulo": "The ConstruKction of Light",
+    "anio": 2000,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-the-double-trio",
+    "titulo": "The Double Trio",
+    "anio": 1996,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-the-power-to-believe",
+    "titulo": "The Power to Believe",
+    "anio": 2003,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-thrak",
+    "titulo": "THRAK",
+    "anio": 1995,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "kc-three-of-a-perfect-pair",
+    "titulo": "Three of a Perfect Pair",
+    "anio": 1984,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "mb": [
+   {
+    "slug": "mb-a-question-of-balance",
+    "titulo": "A Question of Balance",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-christmas-on-the-bbc-1969",
+    "titulo": "Christmas On The BBC 1969",
+    "anio": 1990,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-concert-at-pine-knob-june-19th-1998",
+    "titulo": "Concert at Pine Knob: June 19th, 1998",
+    "anio": 1998,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-days-of-future-passed",
+    "titulo": "Days of Future Passed",
+    "anio": 1967,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-december",
+    "titulo": "December",
+    "anio": 2003,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-every-good-boy-deserves-favour",
+    "titulo": "Every Good Boy Deserves Favour",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-in-search-of-the-lost-chord",
+    "titulo": "In Search of the Lost Chord",
+    "anio": 1968,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-keys-of-the-kingdom",
+    "titulo": "Keys of the Kingdom",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-long-distance-voyager",
+    "titulo": "Long Distance Voyager",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-octave",
+    "titulo": "Octave",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-on-the-threshold-of-a-dream",
+    "titulo": "On the Threshold of a Dream",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-seventh-sojourn",
+    "titulo": "Seventh Sojourn",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-strange-times",
+    "titulo": "Strange Times",
+    "anio": 1999,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-sur-la-mer",
+    "titulo": "Sur la mer",
+    "anio": 1988,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-the-other-side-of-life",
+    "titulo": "The Other Side of Life",
+    "anio": 1986,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-the-present",
+    "titulo": "The Present",
+    "anio": 1983,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mb-to-our-children-s-children-s-children",
+    "titulo": "To Our Children's Children's Children",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "mo": [
+   {
+    "slug": "mo-amarok",
+    "titulo": "Amarok",
+    "anio": 1990,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-crises",
+    "titulo": "Crises",
+    "anio": 1983,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-discovery",
+    "titulo": "Discovery",
+    "anio": 1984,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-earth-moving",
+    "titulo": "Earth Moving",
+    "anio": 1989,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-five-miles-out",
+    "titulo": "Five Miles Out",
+    "anio": 1982,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-guitars",
+    "titulo": "Guitars",
+    "anio": 1999,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-heavens-open",
+    "titulo": "Heaven’s Open",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-hergest-ridge",
+    "titulo": "Hergest Ridge",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-incantations",
+    "titulo": "Incantations",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-islands",
+    "titulo": "Islands",
+    "anio": 1987,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-journey-into-space",
+    "titulo": "Journey Into Space",
+    "anio": 2012,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-light-shade",
+    "titulo": "Light + Shade",
+    "anio": 2005,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-man-on-the-rocks",
+    "titulo": "Man on the Rocks",
+    "anio": 2014,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-music-of-the-spheres",
+    "titulo": "Music of the Spheres",
+    "anio": 2008,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-ommadawn",
+    "titulo": "Ommadawn",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-platinum",
+    "titulo": "Platinum",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-qe2",
+    "titulo": "QE2",
+    "anio": 1980,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-return-to-ommadawn",
+    "titulo": "Return to Ommadawn",
+    "anio": 2017,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-the-garden-of-love",
+    "titulo": "The Garden of Love",
+    "anio": 1997,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-the-greatest-works-of-mike-oldfield-w-wykonaniu-masters-of-sound",
+    "titulo": "The Greatest Works of Mike Oldfield W Wykonaniu Masters of Sound",
+    "anio": 2003,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-the-millennium-bell",
+    "titulo": "The Millennium Bell",
+    "anio": 1999,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-the-songs-of-distant-earth",
+    "titulo": "The Songs of Distant Earth",
+    "anio": 1994,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-tr3s-lunas",
+    "titulo": "Tr3s Lunas",
+    "anio": 2002,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-transmission-impossible",
+    "titulo": "Transmission Impossible",
+    "anio": 2023,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-tubular-bells-2003",
+    "titulo": "Tubular Bells 2003",
+    "anio": 2003,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-tubular-bells-ii",
+    "titulo": "Tubular Bells II",
+    "anio": 1992,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-tubular-bells-iii",
+    "titulo": "Tubular Bells III",
+    "anio": 1998,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-tubular-bells-part-1",
+    "titulo": "Tubular Bells, Part 1",
+    "anio": 2007,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-tubular-bells",
+    "titulo": "Tubular Bells",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "mo-voyager",
+    "titulo": "Voyager",
+    "anio": 1996,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   }
+  ],
+  "pf": [
+   {
+    "slug": "pf-a-momentary-lapse-of-reason",
+    "titulo": "A Momentary Lapse of Reason",
+    "anio": 1987,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-a-saucerful-of-secrets",
+    "titulo": "A Saucerful of Secrets",
+    "anio": 1968,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-animals",
+    "titulo": "Animals",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-atom-heart-mother",
+    "titulo": "Atom Heart Mother",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-meddle",
+    "titulo": "Meddle",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-more",
+    "titulo": "More",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-obscured-by-clouds",
+    "titulo": "Obscured by Clouds",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-the-dark-side-of-the-moon",
+    "titulo": "The Dark Side of the Moon",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-the-division-bell",
+    "titulo": "The Division Bell",
+    "anio": 1994,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-the-endless-river",
+    "titulo": "The Endless River",
+    "anio": 2014,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-the-final-cut",
+    "titulo": "The Final Cut",
+    "anio": 1983,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-the-piper-at-the-gates-of-dawn",
+    "titulo": "The Piper at the Gates of Dawn",
+    "anio": 1967,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-the-wall",
+    "titulo": "The Wall",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-ummagumma",
+    "titulo": "Ummagumma",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "pf-wish-you-were-here",
+    "titulo": "Wish You Were Here",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "ren": [
+   {
+    "slug": "ren-a-song-for-all-seasons",
+    "titulo": "A Song for All Seasons",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-ashes-are-burning",
+    "titulo": "Ashes Are Burning",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-azure-d-or",
+    "titulo": "Azure d'Or",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-camera-camera",
+    "titulo": "Camera Camera",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-grandine-il-vento",
+    "titulo": "Grandine il vento",
+    "anio": 2013,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-illusion",
+    "titulo": "Illusion",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-novella",
+    "titulo": "Novella",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-prologue",
+    "titulo": "Prologue",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-renaissance",
+    "titulo": "Renaissance",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-scheherazade-and-other-stories",
+    "titulo": "Scheherazade and Other Stories",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-songs-from-renaissance-days",
+    "titulo": "Songs From Renaissance Days",
+    "anio": 1997,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-the-other-woman",
+    "titulo": "The Other Woman",
+    "anio": 1994,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-timeline",
+    "titulo": "Time‐Line",
+    "anio": 1983,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-turn-of-the-cards",
+    "titulo": "Turn of the Cards",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "ren-tuscany",
+    "titulo": "Tuscany",
+    "anio": 2000,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   }
+  ],
+  "rush": [
+   {
+    "slug": "rush-2112",
+    "titulo": "2112",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-a-farewell-to-kings",
+    "titulo": "A Farewell to Kings",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-caress-of-steel",
+    "titulo": "Caress of Steel",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-clockwork-angels",
+    "titulo": "Clockwork Angels",
+    "anio": 2012,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-counterparts",
+    "titulo": "Counterparts",
+    "anio": 1993,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-fly-by-night",
+    "titulo": "Fly by Night",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-grace-under-pressure",
+    "titulo": "Grace Under Pressure",
+    "anio": 1984,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-hemispheres",
+    "titulo": "Hemispheres",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-hold-your-fire",
+    "titulo": "Hold Your Fire",
+    "anio": 1987,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-moving-pictures",
+    "titulo": "Moving Pictures",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-permanent-waves",
+    "titulo": "Permanent Waves",
+    "anio": 1980,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-power-windows",
+    "titulo": "Power Windows",
+    "anio": 1985,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-presto",
+    "titulo": "Presto",
+    "anio": 1989,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-roll-the-bones",
+    "titulo": "Roll the Bones",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-rush",
+    "titulo": "Rush",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-signals",
+    "titulo": "Signals",
+    "anio": 1982,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-snakes-arrows",
+    "titulo": "Snakes & Arrows",
+    "anio": 2007,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-test-for-echo",
+    "titulo": "Test for Echo",
+    "anio": 1996,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "rush-vapor-trails",
+    "titulo": "Vapor Trails",
+    "anio": 2002,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "sh": [
+   {
+    "slug": "sh-a-midsummer-nights-dream",
+    "titulo": "A Midsummer Night’s Dream",
+    "anio": 1997,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-at-the-edge-of-light",
+    "titulo": "At the Edge of Light",
+    "anio": 2019,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-back-to-sardinia",
+    "titulo": "Back to Sardinia",
+    "anio": 2019,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-bay-of-kings",
+    "titulo": "Bay of Kings",
+    "anio": 1983,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-beyond-the-shrouded-horizon",
+    "titulo": "Beyond the Shrouded Horizon",
+    "anio": 2011,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-blues-with-a-feeling",
+    "titulo": "Blues With a Feeling",
+    "anio": 1994,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-cured",
+    "titulo": "Cured",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-darktown",
+    "titulo": "Darktown",
+    "anio": 1998,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-defector",
+    "titulo": "Defector",
+    "anio": 1980,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-feedback-86",
+    "titulo": "Feedback 86",
+    "anio": 2000,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-genesis-revisited-ii",
+    "titulo": "Genesis Revisited II",
+    "anio": 2012,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-genesis-revisited",
+    "titulo": "Genesis Revisited",
+    "anio": 1996,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-guitar-noir",
+    "titulo": "Guitar Noir",
+    "anio": 1993,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-highly-strung",
+    "titulo": "Highly Strung",
+    "anio": 1983,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-life-is-a-journey-the-sardinia-tapes",
+    "titulo": "Life Is a Journey: The Sardinia Tapes",
+    "anio": 2016,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-metamorpheus",
+    "titulo": "Metamorpheus",
+    "anio": 2005,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-momentum",
+    "titulo": "Momentum",
+    "anio": 1988,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-out-of-the-tunnels-mouth",
+    "titulo": "Out of the Tunnel’s Mouth",
+    "anio": 2009,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-please-don-t-touch",
+    "titulo": "Please Don't Touch",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-prelude-to-summer-for-flute-guitar",
+    "titulo": "Prelude to Summer for Flute & Guitar",
+    "anio": 2008,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-sketches-of-satie",
+    "titulo": "Sketches of Satie",
+    "anio": 2000,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-spectral-mornings",
+    "titulo": "Spectral Mornings",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-surrender-of-silence",
+    "titulo": "Surrender of Silence",
+    "anio": 2021,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-the-book-of-bilbo-and-gandalf",
+    "titulo": "The Book of Bilbo and Gandalf",
+    "anio": 2010,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-the-circus-and-the-nightwhale",
+    "titulo": "The Circus and the Nightwhale",
+    "anio": 2024,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-the-night-siren",
+    "titulo": "The Night Siren",
+    "anio": 2017,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-the-roaring-waves",
+    "titulo": "The Roaring Waves",
+    "anio": 2026,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-till-we-have-faces",
+    "titulo": "Till We Have Faces",
+    "anio": 1984,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-to-watch-the-storms",
+    "titulo": "To Watch the Storms",
+    "anio": 2003,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-tribute",
+    "titulo": "Tribute",
+    "anio": 2007,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-under-a-mediterranean-sky",
+    "titulo": "Under a Mediterranean Sky",
+    "anio": 2021,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-voyage-of-the-acolyte",
+    "titulo": "Voyage of the Acolyte",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-wild-orchids",
+    "titulo": "Wild Orchids",
+    "anio": 2006,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sh-wolflight",
+    "titulo": "Wolflight",
+    "anio": 2015,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   }
+  ],
+  "sm": [
+   {
+    "slug": "sm-bundles",
+    "titulo": "Bundles",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-fifth",
+    "titulo": "Fifth",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-fourth",
+    "titulo": "Fourth",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-hidden-details",
+    "titulo": "Hidden Details",
+    "anio": 2018,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-land-of-cockayne",
+    "titulo": "Land of Cockayne",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-other-doors",
+    "titulo": "Other Doors",
+    "anio": 2023,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-seven",
+    "titulo": "Seven",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-six",
+    "titulo": "Six",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-softs",
+    "titulo": "Softs",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-spaced",
+    "titulo": "Spaced",
+    "anio": 1996,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-the-soft-machine",
+    "titulo": "The Soft Machine",
+    "anio": 1968,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-third",
+    "titulo": "Third",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-thirteen",
+    "titulo": "Thirteen",
+    "anio": 2026,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sm-volume-two",
+    "titulo": "Volume Two",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "str": [
+   {
+    "slug": "str-acoustic-strawbs-baroque-roll",
+    "titulo": "Acoustic Strawbs - Baroque & Roll",
+    "anio": 2001,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-blue-angel",
+    "titulo": "Blue Angel",
+    "anio": 2003,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-burning-for-you",
+    "titulo": "Burning for You",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-bursting-at-the-seams",
+    "titulo": "Bursting at the Seams",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-dancing-to-the-devil-s-beat",
+    "titulo": "Dancing to the Devil's Beat",
+    "anio": 2009,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-deadlines",
+    "titulo": "Deadlines",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-deep-cuts",
+    "titulo": "Deep Cuts",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-deja-fou",
+    "titulo": "Déjà Fou",
+    "anio": 2004,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-dont-say-goodbye",
+    "titulo": "Don’t Say Goodbye",
+    "anio": 1987,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-dragonfly",
+    "titulo": "Dragonfly",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-from-the-witchwood",
+    "titulo": "From the Witchwood",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-ghosts",
+    "titulo": "Ghosts",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-grave-new-world",
+    "titulo": "Grave New World",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-heartbreak-hill",
+    "titulo": "Heartbreak Hill",
+    "anio": 1995,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-hero-and-heroine",
+    "titulo": "Hero and Heroine",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-hero-heroine-in-ascencia",
+    "titulo": "Hero & Heroine in Ascencia",
+    "anio": 2011,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-just-a-collection-of-antiques-and-curios",
+    "titulo": "Just a Collection of Antiques and Curios",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-nomadness",
+    "titulo": "Nomadness",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-preserves-uncanned",
+    "titulo": "Preserves Uncanned",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-prognostic",
+    "titulo": "Prognostic",
+    "anio": 2014,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-ringing-down-the-years",
+    "titulo": "Ringing Down the Years",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-settlement",
+    "titulo": "Settlement",
+    "anio": 2021,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-strawbs",
+    "titulo": "Strawbs",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-the-broken-hearted-bride",
+    "titulo": "The Broken Hearted Bride",
+    "anio": 2008,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-the-ferrymans-curse",
+    "titulo": "The Ferryman’s Curse",
+    "anio": 2017,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "str-the-magic-of-it-all",
+    "titulo": "The Magic of It All",
+    "anio": 2023,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   }
+  ],
+  "sup": [
+   {
+    "slug": "sup-breakfast-in-america",
+    "titulo": "Breakfast in America",
+    "anio": 1979,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sup-brother-where-you-bound",
+    "titulo": "Brother Where You Bound",
+    "anio": 1985,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sup-crime-of-the-century",
+    "titulo": "Crime of the Century",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sup-crisis-what-crisis",
+    "titulo": "Crisis? What Crisis?",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sup-even-in-the-quietest-moments",
+    "titulo": "Even in the Quietest Moments...",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sup-famous-last-words",
+    "titulo": "...Famous Last Words...",
+    "anio": 1982,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sup-free-as-a-bird",
+    "titulo": "Free as a Bird",
+    "anio": 1987,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sup-indelibly-stamped",
+    "titulo": "Indelibly Stamped",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sup-slow-motion",
+    "titulo": "Slow Motion",
+    "anio": 2002,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sup-some-things-never-change",
+    "titulo": "Some Things Never Change",
+    "anio": 1997,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "sup-supertramp",
+    "titulo": "Supertramp",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "vdgg": [
+   {
+    "slug": "vdgg-a-grounding-in-numbers",
+    "titulo": "A Grounding in Numbers",
+    "anio": 2011,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-alt",
+    "titulo": "Alt",
+    "anio": 2012,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-do-not-disturb",
+    "titulo": "Do Not Disturb",
+    "anio": 2016,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-godbluff",
+    "titulo": "Godbluff",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-h-to-he-who-am-the-only-one",
+    "titulo": "H to He, Who Am the Only One",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-pawn-hearts",
+    "titulo": "Pawn Hearts",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-present",
+    "titulo": "Present",
+    "anio": 2005,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-still-life",
+    "titulo": "Still Life",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-the-aerosol-grey-machine",
+    "titulo": "The Aerosol Grey Machine",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-the-least-we-can-do-is-wave-to-each-other",
+    "titulo": "The Least We Can Do Is Wave to Each Other",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-the-lost-live-tapes",
+    "titulo": "The Lost Live Tapes",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-the-quiet-zone-the-pleasure-dome",
+    "titulo": "The Quiet Zone / The Pleasure Dome",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-trisector",
+    "titulo": "Trisector",
+    "anio": 2008,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "vdgg-world-record",
+    "titulo": "World Record",
+    "anio": 1976,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   }
+  ],
+  "who": [
+   {
+    "slug": "who-a-quick-one",
+    "titulo": "A Quick One",
+    "anio": 1966,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-endless-wire",
+    "titulo": "Endless Wire",
+    "anio": 2006,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-face-dances",
+    "titulo": "Face Dances",
+    "anio": 1981,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-its-hard",
+    "titulo": "It’s Hard",
+    "anio": 1982,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-largo-1973",
+    "titulo": "Largo 1973",
+    "anio": 2022,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-quadrophenia",
+    "titulo": "Quadrophenia",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-remembers-the-high-numbers",
+    "titulo": "Remembers The High Numbers",
+    "anio": 1999,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-sleep-on-the-beach",
+    "titulo": "Sleep on the Beach",
+    "anio": 2022,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-the-singles-collected-196468",
+    "titulo": "The Singles Collected 1964–68",
+    "anio": 2020,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-the-who-by-numbers",
+    "titulo": "The Who by Numbers",
+    "anio": 1975,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-the-who-sell-out",
+    "titulo": "The Who Sell Out",
+    "anio": 1967,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-tommy",
+    "titulo": "Tommy",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-who-are-you",
+    "titulo": "Who Are You",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-who",
+    "titulo": "WHO",
+    "anio": 2019,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "who-whos-next",
+    "titulo": "Who’s Next",
+    "anio": 2023,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   }
+  ],
+  "yes": [
+   {
+    "slug": "yes-90125",
+    "titulo": "90125",
+    "anio": 1983,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-aurora",
+    "titulo": "Aurora",
+    "anio": 2026,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-big-generator",
+    "titulo": "Big Generator",
+    "anio": 1987,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-chicago-of-heaven-4-june-79",
+    "titulo": "Chicago of Heaven: 4 June 79",
+    "anio": 1994,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-close-to-the-edge",
+    "titulo": "Close to the Edge",
+    "anio": 1972,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-drama",
+    "titulo": "Drama",
+    "anio": 1980,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-firststeps",
+    "titulo": "FirstSteps",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-fly-from-here-return-trip",
+    "titulo": "Fly From Here: Return Trip",
+    "anio": 2018,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-fly-from-here",
+    "titulo": "Fly from Here",
+    "anio": 2011,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-fragile",
+    "titulo": "Fragile",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-going-for-the-one",
+    "titulo": "Going for the One",
+    "anio": 1977,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-heaven-earth",
+    "titulo": "Heaven & Earth",
+    "anio": 2014,
+    "era": "moderna",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-magnification",
+    "titulo": "Magnification",
+    "anio": 2001,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-mirror-to-the-sky",
+    "titulo": "Mirror to the Sky",
+    "anio": 2023,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-open-your-eyes",
+    "titulo": "Open Your Eyes",
+    "anio": 1997,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-relayer",
+    "titulo": "Relayer",
+    "anio": 1974,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-tales-from-topographic-oceans",
+    "titulo": "Tales from Topographic Oceans",
+    "anio": 1973,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-talk",
+    "titulo": "Talk",
+    "anio": 1994,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-the-ladder",
+    "titulo": "The Ladder",
+    "anio": 1999,
+    "era": "siguiente",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-the-quest",
+    "titulo": "The Quest",
+    "anio": 2021,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-the-yes-album",
+    "titulo": "The Yes Album",
+    "anio": 1971,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-time-and-a-word",
+    "titulo": "Time and a Word",
+    "anio": 1970,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-tormato",
+    "titulo": "Tormato",
+    "anio": 1978,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-union",
+    "titulo": "Union",
+    "anio": 1991,
+    "era": "siguiente",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-yes",
+    "titulo": "Yes",
+    "anio": 1969,
+    "era": "clasica",
+    "tiene_analisis": true,
+    "necesita_comercial": false,
+    "mb_rgid": "ok"
+   },
+   {
+    "slug": "yes-yesstage-the-best-of-yes-on-stage",
+    "titulo": "YesStage (The Best of Yes on Stage)",
+    "anio": 2017,
+    "era": "moderna",
+    "tiene_analisis": false,
+    "necesita_comercial": true,
+    "mb_rgid": "ok"
+   }
+  ]
+ }
+}

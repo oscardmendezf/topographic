@@ -9,6 +9,12 @@ mb_rgid: "5f27a05d-a12a-3611-a836-f720c9ab00a2"
 primer_lanzamiento: "1977-06"
 charts_texto: "UK 22 · US 33"
 charts_estado: "verificado"
+era: "clasica"
+estrellas_comercial: 3
+comercial_fuente: "charts"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Muy valorado; «Xanadu» y «Closer to the Heart» pesan."
 ---
 
 «Xanadu» sobre Coleridge, grabado en Gales: el trío canadiense sonando más inglés que los ingleses, el año en que los ingleses abandonaban.

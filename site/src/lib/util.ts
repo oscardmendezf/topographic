@@ -14,8 +14,47 @@ export const COLORES: Record<string, string> = {
   sh: '#4FA3A5',
 };
 
+// Color por tipo de arista (apagados, para fondo oscuro). También son la leyenda.
+export const COLORES_ARISTA: Record<string, string> = {
+  member_of: '#6E7F95',
+  produced: '#C08A45',
+  engineered: '#7D9A6A',
+  arranged: '#9A78C0',
+  guested_on: '#5AA0C8',
+  designed_artwork: '#C9739C',
+  signed_to: '#D9B44A',
+  recorded_at: '#7C8878',
+  wrote_lyrics: '#C96F6F',
+};
+
+export const NOMBRES_ARISTA: Record<string, string> = {
+  member_of: 'miembros',
+  produced: 'producción',
+  engineered: 'ingeniería',
+  arranged: 'arreglos',
+  guested_on: 'invitados',
+  designed_artwork: 'arte de tapa',
+  signed_to: 'sellos',
+  recorded_at: 'estudios',
+  wrote_lyrics: 'letras',
+};
+
 export const ESTADO_CHARTS: Record<string, string> = {
   verificado: 'verificado contra fuentes',
   parcial: 'verificación parcial',
   memoria: 'sin verificar — tratar como s.d.',
+  sd: 's.d. — sin dato',
 };
+
+export const ERAS: Record<string, { nombre: string; rango: string; orden: number }> = {
+  clasica: { nombre: 'Era clásica', rango: '1966–1980', orden: 1 },
+  siguiente: { nombre: 'La continuación', rango: '1981–1999', orden: 2 },
+  moderna: { nombre: 'Era moderna', rango: '2000–hoy', orden: 3 },
+};
+
+// ★★★☆☆ — null = sin valoración
+export function estrellas(n: number | null | undefined): string {
+  if (n == null) return 's.d.';
+  const k = Math.max(1, Math.min(5, Math.round(n)));
+  return '★'.repeat(k) + '☆'.repeat(5 - k);
+}
