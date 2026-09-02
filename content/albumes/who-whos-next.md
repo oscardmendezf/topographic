@@ -4,10 +4,10 @@ slug: "who-whos-next"
 titulo: "Who’s Next"
 artista: "The Who"
 artista_slug: "who"
-anio_ficha: 2023
-era: "moderna"
-mb_rgid: "2c56c32d-f66c-4e26-bb6b-caed0e0cffa4"
-primer_lanzamiento: "2023-09-13"
+anio_ficha: 1971
+era: "clasica"
+mb_rgid: "9584e28b-66a7-3846-8d52-b3008a283539"
+primer_lanzamiento: "1971-08-14"
 charts_texto: "s.d."
 charts_estado: "sd"
 estrellas_critica: 5
