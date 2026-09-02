@@ -1,0 +1,70 @@
+---
+import Base from '../layouts/Base.astro';
+import { u } from '../lib/util';
+const base = u('/');
+---
+<Base titulo="Buscar">
+  <header class="page"><div class="wrap">
+    <p class="eyebrow">Búsqueda en todo el atlas</p>
+    <h1>Buscar</h1>
+    <p class="lede">Artistas, discos, personas de la red, análisis. El índice se genera al compilar,
+    así que la búsqueda solo funciona en el sitio publicado (no en el servidor de desarrollo).</p>
+  </div></header>
+
+  <section class="block"><div class="wrap">
+    <div id="buscador" data-base={base}></div>
+    <noscript><p class="sub">La búsqueda requiere JavaScript.</p></noscript>
+  </div></section>
+</Base>
+
+<style is:global>
+#buscador{
+  --pagefind-ui-scale: .9;
+  --pagefind-ui-primary: #D08C2E;
+  --pagefind-ui-text: #E9E2D0;
+  --pagefind-ui-background: #1B212A;
+  --pagefind-ui-border: #2A313C;
+  --pagefind-ui-tag: #20262f;
+  --pagefind-ui-border-width: 1px;
+  --pagefind-ui-border-radius: 4px;
+  --pagefind-ui-image-border-radius: 2px;
+  --pagefind-ui-font: Georgia, serif;
+  min-height: 200px;
+}
+#buscador .pagefind-ui__result-link{color:var(--acento)}
+</style>
+
+<script is:inline>
+  (function () {
+    const cont = document.getElementById('buscador');
+    const base = cont.dataset.base;
+    const css = document.createElement('link');
+    css.rel = 'stylesheet';
+    css.href = base + 'pagefind/pagefind-ui.css';
+    document.head.appendChild(css);
+    const js = document.createElement('script');
+    js.src = base + 'pagefind/pagefind-ui.js';
+    js.onload = function () {
+      new PagefindUI({
+        element: '#buscador',
+        baseUrl: base,
+        showImages: false,
+        translations: {
+          placeholder: 'Buscar en el atlas…',
+          zero_results: 'Sin resultados para «[SEARCH_TERM]»',
+          clear_search: 'Limpiar',
+          load_more: 'Más resultados',
+          many_results: '[COUNT] resultados por «[SEARCH_TERM]»',
+          one_result: 'Un resultado por «[SEARCH_TERM]»',
+          searching: 'Buscando…',
+        },
+      });
+      const input = cont.querySelector('input');
+      if (input) input.focus();
+    };
+    js.onerror = function () {
+      cont.innerHTML = '<p class="sub">El índice de búsqueda no está disponible en modo desarrollo. Compilá el sitio (npm run build) o usá la versión publicada.</p>';
+    };
+    document.head.appendChild(js);
+  })();
+</script>

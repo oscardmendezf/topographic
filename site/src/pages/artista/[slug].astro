@@ -1,7 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import { u, COLORES, ERAS, estrellas } from '../../lib/util';
+import { u, COLORES, ERAS, estrellas, tapa } from '../../lib/util';
 import atlas from '../../../../data/atlas.json';
 import grafo from '../../../../data/grafo.json';
 import geo from '../../../../data/geo.json';
@@ -134,10 +134,16 @@ const conexiones = artista
       )}
       <div class="grid">
         {g.albumes.map((alb) => (
-          <a class="card" href={u(`album/${alb.id}/`)} style={`border-left-color:${COLORES[grupo] ?? 'var(--dim)'}`}>
-            <h3>{alb.data.titulo}</h3>
-            <p>{(alb.data.primer_lanzamiento ?? String(alb.data.anio_ficha)).slice(0, 4)} · {alb.data.charts_texto}</p>
-            <p class="stars mono">crítica {estrellas(alb.data.estrellas_critica)} · comercial {estrellas(alb.data.estrellas_comercial)}</p>
+          <a class="card con-tapa" href={u(`album/${alb.id}/`)} style={`border-left-color:${COLORES[grupo] ?? 'var(--dim)'}`}>
+            {tapa(alb.data.mb_rgid) && (
+              <img class="tapita" src={tapa(alb.data.mb_rgid)} alt="" loading="lazy"
+                onerror="this.style.visibility='hidden'" width="64" height="64" />
+            )}
+            <div>
+              <h3>{alb.data.titulo}</h3>
+              <p>{(alb.data.primer_lanzamiento ?? String(alb.data.anio_ficha)).slice(0, 4)} · {alb.data.charts_texto}</p>
+              <p class="stars mono">crítica {estrellas(alb.data.estrellas_critica)} · comercial {estrellas(alb.data.estrellas_comercial)}</p>
+            </div>
           </a>
         ))}
       </div>
@@ -160,6 +166,8 @@ const conexiones = artista
 
 <style>
 .rango{font-size:12px;color:var(--dim);letter-spacing:.1em;font-style:normal}
+.card.con-tapa{display:flex;gap:12px;align-items:flex-start}
+.tapita{width:64px;height:64px;object-fit:cover;border:1px solid var(--line);background:var(--panel2);flex-shrink:0}
 .card .stars{font-size:11px;color:var(--acento);margin-top:6px}
 .etapa{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--acento);padding:12px 16px;margin-bottom:10px}
 .etapa-texto{font-size:14px;color:#b9b3a4;margin-top:6px;max-width:80ch}

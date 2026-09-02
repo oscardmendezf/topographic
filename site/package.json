@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && pagefind --site dist",
     "preview": "astro preview"
   },
   "dependencies": {
@@ -14,5 +14,8 @@
     "cytoscape-fcose": "^2.2.0",
     "leaflet": "^1.9.4",
     "leaflet.heat": "^0.2.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.5.2"
   }
 }

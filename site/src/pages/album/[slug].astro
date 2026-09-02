@@ -1,7 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import { u, COLORES, ESTADO_CHARTS, ERAS, estrellas } from '../../lib/util';
+import { u, COLORES, ESTADO_CHARTS, ERAS, estrellas, tapa } from '../../lib/util';
 import atlas from '../../../../data/atlas.json';
 
 export async function getStaticPaths() {
@@ -17,14 +17,26 @@ const grupo = artista?.grupo ?? 'npr';
 const estadoClase = d.charts_estado === 'verificado' ? 'ok' : d.charts_estado === 'parcial' ? 'warn' : 'sd';
 ---
 <Base titulo={d.titulo}>
-  <header class="page" style={`border-top:4px solid ${COLORES[grupo] ?? 'var(--dim)'}`}><div class="wrap">
-    <p class="eyebrow">Álbum · <a href={u(`artista/${d.artista_slug}/`)} style="color:inherit">{d.artista}</a></p>
-    <h1>{d.titulo}</h1>
-    <div class="links-verif">
-      {d.mb_rgid && <a href={`https://musicbrainz.org/release-group/${d.mb_rgid}`}>MusicBrainz ↗</a>}
-      <a href={u(`tiempo/${d.era ?? 'clasica'}/`)}>Ver en la línea de tiempo</a>
+  <header class="page" style={`border-top:4px solid ${COLORES[grupo] ?? 'var(--dim)'}`}><div class="wrap cabecera-album">
+    <div>
+      <p class="eyebrow">Álbum · <a href={u(`artista/${d.artista_slug}/`)} style="color:inherit">{d.artista}</a></p>
+      <h1>{d.titulo}</h1>
+      <div class="links-verif">
+        {d.mb_rgid && <a href={`https://musicbrainz.org/release-group/${d.mb_rgid}`}>MusicBrainz ↗</a>}
+        <a href={u(`tiempo/${d.era ?? 'clasica'}/`)}>Ver en la línea de tiempo</a>
+      </div>
     </div>
+    {tapa(d.mb_rgid, 500) && (
+      <img class="tapa" src={tapa(d.mb_rgid, 500)} alt={`Tapa de ${d.titulo}`}
+        loading="lazy" onerror="this.remove()" width="180" height="180" />
+    )}
   </div></header>
+
+  <style>
+    .cabecera-album{display:flex;justify-content:space-between;align-items:flex-end;gap:24px}
+    .tapa{width:180px;height:180px;object-fit:cover;border:1px solid var(--line);background:var(--panel);flex-shrink:0}
+    @media(max-width:640px){.cabecera-album{flex-direction:column-reverse;align-items:flex-start}}
+  </style>
 
   <section class="block"><div class="wrap">
     <table class="datos">

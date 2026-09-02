@@ -63,6 +63,12 @@ export const ERAS: Record<string, { nombre: string; rango: string; orden: number
   moderna: { nombre: 'Era moderna', rango: '2000–hoy', orden: 3 },
 };
 
+// Tapa vía Cover Art Archive (hermano de MusicBrainz); 250 o 500 px.
+// El <img> debe llevar loading="lazy" y onerror para ocultarse si no existe.
+export function tapa(rgid: string | null | undefined, size: 250 | 500 = 250): string | null {
+  return rgid ? `https://coverartarchive.org/release-group/${rgid}/front-${size}` : null;
+}
+
 // ★★★☆☆ — null = sin valoración
 export function estrellas(n: number | null | undefined): string {
   if (n == null) return 's.d.';
