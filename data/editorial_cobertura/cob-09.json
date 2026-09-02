@@ -1,0 +1,174 @@
+{
+  "albumes": [
+    {
+      "album_slug": "klaus-schulze-contemporary-works-i",
+      "excluir": true,
+      "motivo": "Caja de varios discos: aunque contiene material de estudio nuevo, el formato caja queda fuera del atlas por criterio editorial.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "klaus-schulze-contemporary-works-ii",
+      "excluir": true,
+      "motivo": "Caja de varios discos, continuación de Contemporary Works I: el formato caja queda fuera del atlas por criterio editorial.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "klaus-schulze-the-dark-side-of-the-moog-ix",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Novena entrega de la serie de estudio con Pete Namlook, con sus habituales títulos que parodian a Pink Floyd. Ambient electrónico improvisado entre dos generaciones de la escuela berlinesa; interesa como serie, no como disco suelto.",
+      "estrellas_critica": null,
+      "critica_nota": "Serie valorada en bloque; sin lectura crítica individual.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Ediciones limitadas del sello Fax; circuito cerrado."
+    },
+    {
+      "album_slug": "klaus-schulze-thank-you",
+      "excluir": true,
+      "motivo": "Lanzamiento promocional de agradecimiento ligado a las cajas Contemporary Works, no un álbum de estudio autónomo del catálogo regular.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "klaus-schulze-ion",
+      "excluir": false,
+      "motivo": "Incluido con reservas: edición promocional muy limitada de una sola pieza extensa de estudio; tipado dudoso pero material propio y oficial.",
+      "analisis": "Pieza única de estudio publicada en edición promocional mínima. Curiosidad de catálogo profundo, relevante solo para quien sigue su producción disco a disco.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin recepción crítica registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Tirada promocional ínfima."
+    },
+    {
+      "album_slug": "klaus-schulze-the-dark-side-of-the-moog-x",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Décimo volumen del ciclo de estudio con Pete Namlook, ya con la fórmula asentada: largas improvisaciones analógico-digitales sin más pretensión que el flujo. Valor de serie, no de hito.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin consenso individual dentro de la serie.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Edición limitada de sello chico; culto puro."
+    },
+    {
+      "album_slug": "klaus-schulze-moonlake",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Primer álbum individual regular tras el paréntesis de las Contemporary Works: piezas largas que recuperan el pulso secuencial con producción contemporánea. Se lo recibió como un regreso digno, no como una resurrección.",
+      "estrellas_critica": 3,
+      "critica_nota": "Regreso correcto; reseñas tibias a favorables en su nicho.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Repercusión limitada a su público histórico."
+    },
+    {
+      "album_slug": "klaus-schulze-kontinuum",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "De lo más sólido de su etapa tardía: tres piezas extensas donde el secuenciador vuelve a respirar como en los setenta, sin nostalgia impostada. Punto de entrada razonable al Schulze del siglo XXI.",
+      "estrellas_critica": 4,
+      "critica_nota": "Citado entre lo mejor de su período tardío.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Bien recibido pero dentro del circuito de culto."
+    },
+    {
+      "album_slug": "klaus-schulze-the-dark-side-of-the-moog-xi",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Cierre tardío de la serie con Pete Namlook, fiel al método de todo el ciclo: improvisación electrónica de estudio en formato largo. Como el resto de la saga, se aprecia más en conjunto que aislado.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin lectura crítica individual registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación mínima, público de la serie."
+    },
+    {
+      "album_slug": "klaus-schulze-farscape",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Colaboración de estudio con Lisa Gerrard: la voz de la ex Dead Can Dance flota sobre lechos electrónicos que tienden a la deriva. Encuentro atractivo en los papeles, discursivo y largo en la escucha.",
+      "estrellas_critica": 3,
+      "critica_nota": "Recepción dividida: fascinación por el dúo, reparos por la extensión.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "El nombre de Gerrard amplió poco un alcance de culto."
+    },
+    {
+      "album_slug": "klaus-schulze-come-quietly",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Segunda entrega de estudio con Lisa Gerrard, continuación directa del mundo de Farscape en formato más contenido. Apéndice de la colaboración antes que obra con identidad propia.",
+      "estrellas_critica": null,
+      "critica_nota": "Poca cobertura; sin consenso registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Difusión menor que la de Farscape."
+    },
+    {
+      "album_slug": "klaus-schulze-the-schulzeschickert-session",
+      "excluir": true,
+      "motivo": "Grabación de archivo: sesión de mediados de los setenta con Günter Schickert publicada décadas después. No es un álbum de estudio de la etapa moderna; el año 2013 corresponde solo a la edición.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "klaus-schulze-shadowlands",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Regreso al álbum individual tras años de colaboraciones y archivo: piezas largas de electrónica orquestal y tempo sereno. Oficio tardío más que novedad, con el sonido ya plenamente digital.",
+      "estrellas_critica": 3,
+      "critica_nota": "Recibido con respeto, sin entusiasmo unánime.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Eco modesto, concentrado en su mercado alemán."
+    },
+    {
+      "album_slug": "klaus-schulze-silhouettes",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Vuelta deliberada a su lenguaje clásico: secuencias pacientes, capas de sintetizador y casi nada de adorno. Uno de los discos tardíos mejor recibidos, precisamente por sonar a Schulze sin disfraz.",
+      "estrellas_critica": 3,
+      "critica_nota": "Saludado como retorno a la forma dentro de su nicho.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Su lanzamiento con mayor visibilidad en años."
+    },
+    {
+      "album_slug": "klaus-schulze-vat-was-dat",
+      "excluir": true,
+      "motivo": "Lanzamiento de archivo con material antiguo editado en 2022, no un álbum de estudio nuevo de ese año; tipado de MusicBrainz engañoso. Su álbum de estudio real de 2022 es Deus Arrakis, ya cubierto.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "klaus-schulze-deus-arrakis",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "El testamento: vuelve al imaginario de Dune que ya había tocado en los setenta, con tres piezas extensas de electrónica majestuosa y chelo. Publicado en el año de su muerte, funciona como despedida coherente con toda su obra.",
+      "estrellas_critica": 4,
+      "critica_nota": "Despedida bien recibida; su mejor recepción crítica tardía.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Atención inusual para su etapa final, empujada por la despedida."
+    },
+    {
+      "album_slug": "klaus-schulze-101-milky-way",
+      "excluir": false,
+      "motivo": "Incluido con nota: publicación póstuma oficial de material de estudio; se ficha con prudencia por lo reciente y poco documentado del lanzamiento.",
+      "analisis": "Publicación póstuma de material de estudio que extiende el cierre de catálogo iniciado con Deus Arrakis. Apéndice para el oyente completista antes que capítulo nuevo.",
+      "estrellas_critica": null,
+      "critica_nota": "Demasiado reciente y lateral para consenso.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación de culto, interés casi exclusivamente póstumo."
+    }
+  ]
+}

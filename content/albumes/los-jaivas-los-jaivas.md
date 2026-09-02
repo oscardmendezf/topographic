@@ -4,19 +4,18 @@ slug: "los-jaivas-los-jaivas"
 titulo: "Los Jaivas"
 artista: "Los Jaivas"
 artista_slug: "los-jaivas"
-anio_ficha: 1975
+anio_ficha: 1972
 era: "clasica"
-escena: "latinoamerica"
-mb_rgid: "aaed3b34-5c32-35b2-baaa-59adb7994693"
-primer_lanzamiento: "1975-12-02"
+mb_rgid: "6db43973-93a6-4442-bc61-46e0dbe1172c"
+primer_lanzamiento: "1972"
 charts_texto: "s.d."
 charts_estado: "sd"
 estrellas_critica: 4
 critica_fuente: "editorial"
-critica_nota: "Fundacional del rock chileno; consenso amplio."
-estrellas_comercial: 5
+critica_nota: "Consenso amplio como piedra angular del rock chileno."
+estrellas_comercial: 4
 comercial_fuente: "editorial"
-comercial_nota: "Masivo en Chile; repertorio popular permanente."
+comercial_nota: "Masivo en Chile gracias a su canción insignia."
 ---
 
-El salto al formato canción: la fusión andina encuentra melodía y se vuelve himno colectivo. Su costado más luminoso, y el momento en que el experimento se hace idioma popular.
+El disco donde la improvisación salvaje de El volantín se encauza en canciones y la fusión andina se vuelve reconocible. Contiene 'Todos Juntos', el himno que los hizo patrimonio popular chileno.

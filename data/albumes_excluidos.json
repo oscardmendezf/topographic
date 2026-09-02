@@ -174,5 +174,959 @@
   "motivo": "RG duplicado de MB (caja 2023 de Who's Next); la ficha apunta al RG de 1971",
   "fuente": "auditoria-cobertura",
   "mbid": "2c56c32d-f66c-4e26-bb6b-caed0e0cffa4"
+ },
+ {
+  "slug": "tangerine-dream-transfer-blue-night",
+  "mbid": "41abcb01-f8c2-37b3-ae1c-4efca71c0884",
+  "motivo": "No figura en la discografía oficial de estudio de Tangerine Dream; probable bootleg o entrada mal tipada en MusicBrainz.",
+  "fuente": "cobertura:cob-01"
+ },
+ {
+  "slug": "tangerine-dream-sound-and-effects",
+  "mbid": "e7522c33-a1be-4e04-94c2-ed1b6068a7a2",
+  "motivo": "Título con perfil de biblioteca de sonidos/efectos o recopilación, no de álbum de estudio oficial; entrada mal tipada en MusicBrainz.",
+  "fuente": "cobertura:cob-01"
+ },
+ {
+  "slug": "tangerine-dream-sonic-render-throbbing-up-polyphony-score",
+  "mbid": "d00b0d5c-b776-3a8d-8ea5-18fa485a968a",
+  "motivo": "No consta en la discografía oficial de estudio de Tangerine Dream; probable bootleg o entrada mal tipada en MusicBrainz.",
+  "fuente": "cobertura:cob-01"
+ },
+ {
+  "slug": "tangerine-dream-20010512-tangerine-leaves-volume-26-london-2001",
+  "mbid": "b3bcd734-a96e-415e-81da-90bb85f07397",
+  "motivo": "Serie de archivo en vivo (Tangerine Leaves) mal tipada como álbum de estudio: registro de concierto de Londres 2001 editado para coleccionistas.",
+  "fuente": "cobertura:cob-02"
+ },
+ {
+  "slug": "tangerine-dream-20010512-tangerine-leaves-volume-27-london-2001",
+  "mbid": "ec791dd7-8271-4897-a429-605069e7c1b8",
+  "motivo": "Serie de archivo en vivo (Tangerine Leaves) mal tipada como álbum de estudio: segunda entrega del mismo concierto de Londres 2001, edición para coleccionistas.",
+  "fuente": "cobertura:cob-02"
+ },
+ {
+  "slug": "tangerine-dream-the-gate-of-saturn",
+  "mbid": "79a26622-c53b-47ed-b154-aec70fc0d67b",
+  "motivo": "Álbum en vivo (registro de concierto en el Lowry de Manchester) mal tipado como álbum de estudio en MusicBrainz.",
+  "fuente": "cobertura:cob-02"
+ },
+ {
+  "slug": "tangerine-dream-cruise-to-destiny-topographic-dreamtime",
+  "mbid": "915f44d9-11a2-4166-ad4b-e715cea24f2a",
+  "motivo": "Registro en vivo (actuación en crucero) mal tipado como álbum de estudio en MusicBrainz; edición documental para coleccionistas.",
+  "fuente": "cobertura:cob-02"
+ },
+ {
+  "slug": "tangerine-dream-light-flux",
+  "mbid": "704ed1dc-ec9e-4dbe-b5e5-9fea5c22a7aa",
+  "motivo": "Caja de vinilos de edición limitada que reúne Quantum Gate y material afín ya publicado; duplica un álbum ya fichable, no es un álbum de estudio nuevo.",
+  "fuente": "cobertura:cob-03"
+ },
+ {
+  "slug": "frank-zappa-the-boy-wonder-session-tapes",
+  "mbid": "63d1ae46-bc78-4507-9686-fef563c1d4ad",
+  "motivo": "Cintas de sesión de archivo no oficiales ligadas a producciones ajenas de la etapa pre-Mothers; no es un álbum de estudio oficial de Zappa.",
+  "fuente": "cobertura:cob-03"
+ },
+ {
+  "slug": "frank-zappa-lumpy-gravy",
+  "mbid": "cbb91270-b1cd-4a7b-ace0-b2eff5f3c918",
+  "motivo": "Duplica la ficha existente de Lumpy Gravy: esta entrada corresponde a la versión orquestal primitiva de Capitol, variante del mismo álbum ya fichado en el atlas.",
+  "fuente": "cobertura:cob-03"
+ },
+ {
+  "slug": "frank-zappa-titties-and-beer",
+  "mbid": "43f9ee2e-3670-4ff6-a2cc-8dd7962d8761",
+  "motivo": "Grabación en vivo no oficial (bootleg) mal tipada como álbum de estudio.",
+  "fuente": "cobertura:cob-03"
+ },
+ {
+  "slug": "frank-zappa-rubber-slices",
+  "mbid": "97c6b91d-7561-4960-bb17-8f48fd51e5b4",
+  "motivo": "Edición no oficial de material de archivo tipo bootleg; no pertenece a la discografía de estudio oficial de Zappa.",
+  "fuente": "cobertura:cob-03"
+ },
+ {
+  "slug": "frank-zappa-warts-and-all",
+  "mbid": "0f643b4a-4c30-4190-9dbe-512b7c6aab3b",
+  "motivo": "Bootleg en vivo célebre, mal tipado como álbum de estudio.",
+  "fuente": "cobertura:cob-03"
+ },
+ {
+  "slug": "frank-zappa-return-of-the-son-of-shut-up-n-play-yer-guitar",
+  "mbid": "f721c8fc-786b-483c-84c9-11b6069a40df",
+  "motivo": "Compilación oficial de solos de guitarra extraídos de conciertos; material en vivo editado, no álbum de estudio.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-shut-up-n-play-yer-guitar",
+  "mbid": "bfcb35a9-f8c6-3f75-8f53-05943522bf09",
+  "motivo": "Compilación oficial de solos de guitarra extraídos de conciertos; material en vivo editado, no álbum de estudio.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-shut-up-n-play-yer-guitar-some-more",
+  "mbid": "85654ae9-b4ed-4090-84a8-e79fdd0eb3af",
+  "motivo": "Compilación oficial de solos de guitarra extraídos de conciertos; material en vivo editado, no álbum de estudio.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-son-of-serious-music",
+  "mbid": "2aef3775-c40d-422d-9453-6b679f95d657",
+  "motivo": "Edición no oficial (bootleg) fuera del catálogo autorizado; MusicBrainz la tipa mal como álbum.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-resolver-brutality",
+  "mbid": "3b6ea887-92cd-3a2f-81c2-3202e1eee93b",
+  "motivo": "Bootleg; no pertenece al catálogo oficial del artista.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-blood-on-the-canvas",
+  "mbid": "f607bcee-2353-4868-a559-f3a41bbc8f0b",
+  "motivo": "Bootleg en vivo mal tipado como álbum de estudio.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-miami-matinee-vol-i",
+  "mbid": "7506b63e-7615-40b5-a604-f06cf14e724f",
+  "motivo": "Bootleg en vivo mal tipado como álbum de estudio.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-miami-matinee-vol-ii",
+  "mbid": "2b526b1d-0195-4ef3-935a-b8531aa534fc",
+  "motivo": "Bootleg en vivo mal tipado como álbum de estudio.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-donna-you-wanna",
+  "mbid": "c1ab3278-9483-4f5f-8345-7579e413d718",
+  "motivo": "Bootleg; no pertenece al catálogo oficial del artista.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-zappa-lutosawski-lupone-part",
+  "mbid": "e90372c7-20dd-407d-aad4-569b56bdda70",
+  "motivo": "Recopilación de obras de varios compositores interpretadas por terceros; atribuida a Zappa solo como compositor, no es un álbum del artista.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-just-another-live-album",
+  "mbid": "b9f24157-103d-453f-9c17-840cd66a2cc9",
+  "motivo": "Vivo no oficial mal tipado como álbum de estudio.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-songs-and-dances",
+  "mbid": "50b6df86-75d2-47cb-bf6f-5ad4988da6d0",
+  "motivo": "Grabación de repertorio de Zappa por un ensamble ajeno; atribución de MusicBrainz al compositor, no álbum propio.",
+  "fuente": "cobertura:cob-04"
+ },
+ {
+  "slug": "frank-zappa-howdy-austin",
+  "mbid": "97971b7c-e664-451f-b566-1c6e98e3d36f",
+  "motivo": "Lanzamiento no oficial: no figura en el catálogo de estudio aprobado por el Zappa Family Trust; probable bootleg de material en vivo.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-chalk-pie",
+  "mbid": "3e723156-b971-3711-b1be-1a309cd1e277",
+  "motivo": "Título de circulación pirata, ajeno al catálogo oficial de estudio de Zappa.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-the-lost-solos",
+  "mbid": "a63da013-f597-488e-ba3a-3e2c54b7dda7",
+  "motivo": "Recopilación no oficial; no corresponde a ningún álbum de estudio del catálogo aprobado.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-bubble-cream-cheese",
+  "mbid": "5d9321b3-bec4-4e64-b303-9419d9bf3c85",
+  "motivo": "Bootleg ajeno al catálogo oficial; no es un álbum de estudio de Zappa.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-joe-s-domage",
+  "mbid": "cacadbea-2a30-3ee6-a79f-072c71448a96",
+  "motivo": "Archivo oficial de ensayos en casete (serie Joe's del Vaulternative): documento de bóveda con sonido precario, no un álbum de estudio.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-joe-s-demoge",
+  "mbid": "70d2457f-5bd5-42a9-82ce-536f00034c01",
+  "motivo": "Entrada errónea de MusicBrainz: duplica Joe's Domage con título deformado y año equivocado; no existe un lanzamiento con este nombre.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-greasy-love-songs",
+  "mbid": "374445ff-7b98-41e5-a52a-9da52b120ee1",
+  "motivo": "Reedición de archivo con la mezcla original de Cruising with Ruben & the Jets; duplica ese álbum de 1968, no es estudio nuevo.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-congress-shall-make-no-law",
+  "mbid": "af9c8cc4-68d0-4258-b2c4-435a959ee63d",
+  "motivo": "Registro hablado de archivo (testimonio ante el Senado sobre censura, con fragmentos musicales); documento histórico, no álbum de estudio.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-halloween-1981",
+  "mbid": "5713f5fd-e7af-4fd1-88ca-2ffdb723b30b",
+  "motivo": "Registro en vivo mal tipado como álbum de estudio.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-joes-camouflage",
+  "mbid": "33a17e2b-99f9-494a-960a-05039b6a6d86",
+  "motivo": "Archivo oficial de ensayos de una formación que nunca grabó en estudio (serie Joe's): documento de bóveda, no álbum de estudio.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-perfect-strangers",
+  "mbid": "df4e34c3-6bb9-429f-b1c9-f60a31f41865",
+  "motivo": "Entrada dudosa de MusicBrainz: no existe un álbum de estudio de Zappa con este título y año; probable confusión con The Perfect Stranger (1984, con Boulez) o edición no oficial.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-the-rare-tapes-broadcast-garden-city-new-york-31-december-1974",
+  "mbid": "b5901806-56ba-4d6e-acfa-ed3087fd93b6",
+  "motivo": "Emisión radial en vivo editada sin aval del archivo oficial; bootleg de concierto, no álbum de estudio.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-live-at-the-piknik-show-in-uddel-nl-june-18th-1970",
+  "mbid": "7dac8697-d768-49fd-a1f8-88e0fa04dde7",
+  "motivo": "Registro en vivo de una emisión televisiva, edición no oficial; el propio título lo declara.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-zoot-alors",
+  "mbid": "ff0e6651-468d-4a59-828c-7b1d1004b8b8",
+  "motivo": "Edición no oficial de material en vivo o radial, ajena al catálogo de estudio aprobado.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-the-michigan-muffin-man-detroit-broadcast-1976",
+  "mbid": "ed200e7d-4ba5-4dd1-b8ca-973c2ca6270a",
+  "motivo": "Emisión radial en vivo (broadcast), edición no oficial mal tipada como estudio.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "frank-zappa-live-new-york-1984",
+  "mbid": "691c93ad-0ca1-4c28-bb39-5dc0fa5e0e4e",
+  "motivo": "Registro en vivo, edición no oficial; el título lo indica y no pertenece al catálogo de estudio.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "beatles-yesterday-and-today",
+  "mbid": "0a4d1024-3463-3c74-8500-ea011bd5d523",
+  "motivo": "Recopilación estadounidense de Capitol que reordena material de los álbumes británicos y singles; no es un álbum de estudio canónico.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "beatles-london-town",
+  "mbid": "8fe957c7-4bb9-4d8d-a3cf-e7e90ef4b97c",
+  "motivo": "Mal atribuido: es un álbum de Wings (McCartney), no de The Beatles.",
+  "fuente": "cobertura:cob-05"
+ },
+ {
+  "slug": "beatles-the-decca-tapes",
+  "mbid": "6450da9d-9456-4ff8-aa6c-6861266faaa8",
+  "motivo": "Bootleg de la audición para Decca de 1962; material de archivo no oficial, no es álbum de estudio.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-songs-from-the-past-vol-2",
+  "mbid": "fadc3e23-bcf4-4106-9011-f4a3996984a7",
+  "motivo": "Volumen de una serie bootleg de descartes y tomas alternativas; edición no autorizada.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-rabbi-saul",
+  "mbid": "1d265bce-a4d2-4d09-a18d-8b638c61343b",
+  "motivo": "Bootleg de tomas de sesión y mezclas preliminares; sin edición oficial.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-songs-from-the-past-vol-3",
+  "mbid": "29606503-218f-4a04-a40b-056a2b00e2fe",
+  "motivo": "Volumen de una serie bootleg de descartes y tomas alternativas; edición no autorizada.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-songs-from-the-past-vol-5",
+  "mbid": "6aa2dbb9-7617-4534-b7d7-b1c88e17c294",
+  "motivo": "Volumen de una serie bootleg de descartes y tomas alternativas; edición no autorizada.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-the-recording-sessions-volume-4",
+  "mbid": "774505be-1e16-4d13-91d7-fb41e9025208",
+  "motivo": "Bootleg de grabaciones de sesión en serie; material de archivo no oficial.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-the-unreleased-tracks-volume-2",
+  "mbid": "6caf3b32-e801-4f11-9f38-da06962852ed",
+  "motivo": "Bootleg de material inédito; edición no autorizada, no es álbum de estudio.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-reunions-74-92",
+  "mbid": "8c98573b-8d19-4e8c-8cca-543c57168255",
+  "motivo": "Bootleg que junta registros informales de encuentros posteriores a la separación; no es álbum de estudio de la banda.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-revolution",
+  "mbid": "2ee170a5-0568-40f4-9749-2afd58aaa3f4",
+  "motivo": "Bootleg de tomas de estudio descartadas; sin edición oficial.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-1962-1966-1967-1970",
+  "mbid": "a5e52fc3-ab43-4e65-b4ae-5fa79b252612",
+  "motivo": "Recopilación oficial (los dobles Rojo y Azul empaquetados juntos); colección de singles y temas de catálogo, no álbum de estudio.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-sivacon-collection-the-beatles-vol-1",
+  "mbid": "80940a1e-3f09-476c-b290-bcfc1f272560",
+  "motivo": "Recopilación no oficial de sello menor; sin valor de catálogo, no es álbum de estudio.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-as-nature-intended",
+  "mbid": "e09591a7-fd6c-4d85-b018-c4803c03c8cc",
+  "motivo": "Bootleg del proyecto Get Back descartado (mezclas previas a Let It Be); edición no autorizada.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-the-beatles-1994",
+  "mbid": "71aa4dac-b705-4b6e-be77-ecfa8c238ad0",
+  "motivo": "Entrada de 1994 que replica el título del Álbum Blanco (1968); reedición o bootleg mal tipado por MusicBrainz, no un álbum de estudio nuevo. El Álbum Blanco real debe ficharse bajo su lanzamiento de 1968.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-studio-2-sessions-at-abbey-road-volume-1",
+  "mbid": "d22cb34e-6bae-3eb3-a93f-7af4ffefe741",
+  "motivo": "Bootleg en serie de grabaciones de sesión en Abbey Road; material de archivo no oficial.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-studio-2-sessions-at-abbey-road-vol-2",
+  "mbid": "c6e24d30-90f1-4848-aa40-bd30c06fba51",
+  "motivo": "Bootleg en serie de grabaciones de sesión en Abbey Road; material de archivo no oficial.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-studio-2-sessions-at-abbey-road-vol-3",
+  "mbid": "c9614ce5-1411-4a51-9444-9178cea8a40c",
+  "motivo": "Bootleg en serie de grabaciones de sesión en Abbey Road; material de archivo no oficial.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-studio-2-sessions-at-abbey-road-vol-4",
+  "mbid": "8b48335f-e5b5-4787-b116-1e8c9e4853a1",
+  "motivo": "Bootleg en serie de grabaciones de sesión en Abbey Road; material de archivo no oficial.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-sea-of-green",
+  "mbid": "13d7b4ac-61c5-46b3-b595-d58e0d14c660",
+  "motivo": "Bootleg de material inédito y tomas alternativas; edición no autorizada.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-calico-skies",
+  "mbid": "98d636ee-1cd6-442d-92c8-434ab950956e",
+  "motivo": "Bootleg atribuido a la banda que toma título de una canción solista de McCartney; edición no oficial, no es álbum de estudio del grupo.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-anotherside-yellow-submarine-song-track",
+  "mbid": "7f8fe036-c386-471b-8bc5-d31d0f79b603",
+  "motivo": "Bootleg que espeja el Yellow Submarine Songtrack oficial de 1999 con mezclas alternativas; edición no autorizada.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-mythology-vol-3",
+  "mbid": "08a6bd33-17a5-49ea-8468-b116d87a756f",
+  "motivo": "Volumen de una serie bootleg de descartes tipo Anthology; material de archivo no oficial.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-the-complete-2-cd-rooftop-concert",
+  "mbid": "31f0407e-4763-45f3-af4e-3466fdaa0191",
+  "motivo": "Registro en vivo (el concierto de la azotea de 1969) editado como bootleg y mal tipado como álbum; ni oficial ni de estudio.",
+  "fuente": "cobertura:cob-06"
+ },
+ {
+  "slug": "beatles-more-masters",
+  "mbid": "bdc9c0ad-635d-40a8-88d9-5d61f5b2d60e",
+  "motivo": "Bootleg: compilación no oficial de tomas descartadas y rarezas de estudio.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-the-alternate-abbey-road",
+  "mbid": "827951f1-205f-4949-8e78-79dc57e20a30",
+  "motivo": "Bootleg de tomas alternativas; duplica material de Abbey Road, ya fichado.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-the-beatles-white-album",
+  "mbid": "d2f8e542-d2e0-4a3a-925a-e94eabcf8c87",
+  "motivo": "Entrada de 2000 que replica el título del Álbum Blanco (1968); reedición o bootleg mal tipado por MusicBrainz, no un álbum de estudio nuevo. El Álbum Blanco real debe ficharse bajo su lanzamiento de 1968.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-alf-together-now",
+  "mbid": "cc638abf-bdde-4681-9a8c-eb6353da177c",
+  "motivo": "Bootleg: material de archivo no oficial, sin estatus de álbum de estudio.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-rarer-than-rare",
+  "mbid": "99ad84b3-deae-4a27-9098-6290dc70ec6f",
+  "motivo": "Bootleg: recopilación no oficial de rarezas.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-collectors-items",
+  "mbid": "448bfefd-414d-4dd6-9baf-225bf946018c",
+  "motivo": "Bootleg clásico de coleccionistas: recopilación no oficial de mezclas raras y descartes.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-the-seven-years-of-christmas",
+  "mbid": "1359690c-2ed3-4fd5-9dcc-268eda3f5a33",
+  "motivo": "Bootleg que recopila los mensajes navideños del fan club; no es álbum de estudio.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-the-alternate-rubber-soul",
+  "mbid": "fea72488-bbcc-4322-bbe7-68b1e7ac4fb6",
+  "motivo": "Bootleg de tomas alternativas; duplica material de Rubber Soul.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-the-alternate-a-hard-day-s-night",
+  "mbid": "13fdfb22-4986-427f-b6c2-f3036e0fd580",
+  "motivo": "Bootleg de tomas alternativas; duplica material de A Hard Day's Night.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-the-days-in-their-life-vol-1",
+  "mbid": "bc55a2a8-7590-3699-9426-7162d7da1c52",
+  "motivo": "Compilación de archivo no oficial; no es álbum de estudio.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-20-x-4-remastered-edition",
+  "mbid": "db992257-a455-4dcc-a7b0-f2b13d826ac0",
+  "motivo": "Bootleg remasterizado no oficial; recopilación sin estatus de estudio.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-a-day-in-the-life",
+  "mbid": "95c5df5f-3e71-44f1-ae98-dc9a0e401248",
+  "motivo": "Bootleg: colección no oficial de tomas de sesión y rarezas.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-love-interview-cd",
+  "mbid": "93c6c906-5a4d-49d2-a868-db189f5967b5",
+  "motivo": "Disco promocional de entrevistas; no contiene música de estudio de la banda.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-from-then-to-you-deluxe-edition",
+  "mbid": "15a8432e-6f21-4b67-9233-d0929c0b1e68",
+  "motivo": "Edición no oficial de la recopilación de mensajes navideños del fan club; no es álbum de estudio.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-inside-sgt-pepper-part-three",
+  "mbid": "bb43ee85-bc4f-441e-a5bb-12671cf22855",
+  "motivo": "Bootleg documental de sesiones; duplica material de Sgt. Pepper, ya fichado.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-rubber-soul-deluxe-edition-vol-one",
+  "mbid": "1463c66b-06cc-4dc4-81de-a5a372255afe",
+  "motivo": "Bootleg de sesiones presentado como edición de lujo; duplica Rubber Soul.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-carnival-of-light-fakes-frauds-and-phonies-million-volt-laugh-and-sound-rave",
+  "mbid": "eee2095c-b172-4081-8bed-652c7453d874",
+  "motivo": "Bootleg que recopila falsificaciones atribuidas a «Carnival of Light»; material apócrifo, no oficial.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-sgt-peppers-lonely-hearts-club-band-rockband-mixes-2009",
+  "mbid": "409da436-e105-422f-9fe9-288c51d00aa4",
+  "motivo": "Extracción no oficial de las pistas del videojuego Rock Band; no es lanzamiento de estudio.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-hot-as-sun",
+  "mbid": "364d7e32-99ab-48ce-a634-501036c5f4a2",
+  "motivo": "Bootleg: compilación no oficial de material de archivo.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-rock-band-the-mixes-volume-one",
+  "mbid": "a9934e56-63b6-426b-a72f-6b1058066e22",
+  "motivo": "Extracción no oficial de pistas del videojuego Rock Band; no es álbum de estudio.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-rock-band-the-mixes-volume-two",
+  "mbid": "46cbfa1c-6773-426e-98fd-1c3999ec1b3b",
+  "motivo": "Extracción no oficial de pistas del videojuego Rock Band; no es álbum de estudio.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-transcending-time",
+  "mbid": "db4308d9-9a8c-4995-8952-b2a5d5ab672d",
+  "motivo": "Bootleg: compilación de archivo no oficial.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-from-the-basement-to-the-boardroom",
+  "mbid": "50830b5d-4c2b-4dc9-908a-a1505b6ab38c",
+  "motivo": "Bootleg de grabaciones tempranas y material de audición; no oficial.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-the-remastered-john-barrett-tapes",
+  "mbid": "dfd91917-9751-43c8-adab-8a933a115caf",
+  "motivo": "Bootleg de las cintas de sesión compiladas por John Barrett; material de archivo no oficial.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-in-the-studio-1966-revolving-turntables",
+  "mbid": "1f4319ce-a15f-4ce4-acde-78b8ab8c6fa0",
+  "motivo": "Bootleg de sesiones de estudio; no oficial.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-the-lost-album-two-and-a-half",
+  "mbid": "453eb20f-1560-40e2-ab04-fb6466f5866c",
+  "motivo": "Bootleg de serie coleccionista («The Lost Album»); compilación de archivo no oficial.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-dry-baby-dry",
+  "mbid": "f4cd0a77-9d34-49c7-9edb-9bacc77f9a92",
+  "motivo": "Bootleg: compilación de archivo no oficial.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-emi-house-more-1963-live-mono-special-stereo-demix",
+  "mbid": "cbab68b2-e004-42b7-9f6e-478c92e01212",
+  "motivo": "Bootleg de material en vivo y remezclas por demix; ni oficial ni de estudio.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-hours-of-darkness",
+  "mbid": "19430342-a954-45cb-b5e7-ceb37cd54be7",
+  "motivo": "Bootleg: compilación de archivo no oficial.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-between-the-lines",
+  "mbid": "2f2af89e-a833-475c-a334-7a712235dfda",
+  "motivo": "Bootleg: compilación de archivo no oficial.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "beatles-magical-mystery-tour-the-alternate-album-collection",
+  "mbid": "6762ecb7-45bc-4008-bab0-df2185d7e3b8",
+  "motivo": "Bootleg de tomas alternativas; duplica material de Magical Mystery Tour, ya fichado.",
+  "fuente": "cobertura:cob-07"
+ },
+ {
+  "slug": "klaus-schulze-contemporary-works-i",
+  "mbid": "1612521e-956b-340d-a58c-ad5c6093437d",
+  "motivo": "Caja de varios discos: aunque contiene material de estudio nuevo, el formato caja queda fuera del atlas por criterio editorial.",
+  "fuente": "cobertura:cob-09"
+ },
+ {
+  "slug": "klaus-schulze-contemporary-works-ii",
+  "mbid": "025e07a1-b5c1-3d7e-99bc-0789b5bc6694",
+  "motivo": "Caja de varios discos, continuación de Contemporary Works I: el formato caja queda fuera del atlas por criterio editorial.",
+  "fuente": "cobertura:cob-09"
+ },
+ {
+  "slug": "klaus-schulze-thank-you",
+  "mbid": "0b19af2f-1b56-4fc4-84b4-82815d9ad213",
+  "motivo": "Lanzamiento promocional de agradecimiento ligado a las cajas Contemporary Works, no un álbum de estudio autónomo del catálogo regular.",
+  "fuente": "cobertura:cob-09"
+ },
+ {
+  "slug": "klaus-schulze-the-schulzeschickert-session",
+  "mbid": "550d288e-3d4b-4ce1-8e07-e2d7ee8ce7b7",
+  "motivo": "Grabación de archivo: sesión de mediados de los setenta con Günter Schickert publicada décadas después. No es un álbum de estudio de la etapa moderna; el año 2013 corresponde solo a la edición.",
+  "fuente": "cobertura:cob-09"
+ },
+ {
+  "slug": "klaus-schulze-vat-was-dat",
+  "mbid": "0638302e-11c3-41ca-b418-2f6ef7653060",
+  "motivo": "Lanzamiento de archivo con material antiguo editado en 2022, no un álbum de estudio nuevo de ese año; tipado de MusicBrainz engañoso. Su álbum de estudio real de 2022 es Deus Arrakis, ya cubierto.",
+  "fuente": "cobertura:cob-09"
+ },
+ {
+  "slug": "faust-faust-v",
+  "mbid": "0bfead21-fd22-4727-90ef-ca5faf5e8c76",
+  "motivo": "Álbum inconcluso y nunca editado oficialmente en su momento; las entradas con este título son material de archivo o bootleg. Las sesiones correspondientes se publicaron oficialmente como Punkt (2022), ya fichado en este grupo.",
+  "fuente": "cobertura:cob-10"
+ },
+ {
+  "slug": "faust-untitled",
+  "mbid": "acdbc510-7eb0-4b81-b037-965c172cd82f",
+  "motivo": "Edición de archivo con descartes y fragmentos de la etapa de los setenta, no un álbum de estudio nuevo de 1996. Material del mismo pozo que luego alimentó otras recopilaciones de outtakes.",
+  "fuente": "cobertura:cob-10"
+ },
+ {
+  "slug": "faust-edinburgh-1997",
+  "mbid": "5a2aab84-593e-4a1f-a7c4-6bf529cae196",
+  "motivo": "Registro en vivo mal tipado como álbum de estudio: documenta un concierto de la gira de 1997.",
+  "fuente": "cobertura:cob-10"
+ },
+ {
+  "slug": "faust-schiphorst-2008",
+  "mbid": "954a7c55-d5c0-4c25-a62e-3b50e4ef2102",
+  "motivo": "Registro en vivo mal tipado: documenta la actuación en el festival de Schiphorst de 2008.",
+  "fuente": "cobertura:cob-10"
+ },
+ {
+  "slug": "kinks-waterloo-sunset",
+  "mbid": "6fea43b1-5192-481c-95f0-45d6c841284c",
+  "motivo": "No es un álbum de estudio: es un EP/recopilación de los noventa que mezcla clásicos con material ligado al proyecto To the Bone. Entrada mal tipada en MusicBrainz.",
+  "fuente": "cobertura:cob-11"
+ },
+ {
+  "slug": "amon-duul-ii-hawk-meets-penguin",
+  "mbid": "38385032-cdec-4ea2-961a-b2400e9fbdfa",
+  "motivo": "Álbum del proyecto paralelo británico Amon Düül (UK), formado por Weinzierl con músicos de Hawkwind; atribuido por error a Amon Düül II en MusicBrainz.",
+  "fuente": "cobertura:cob-12"
+ },
+ {
+  "slug": "amon-duul-ii-meetings-with-menmachines-inglorious-heroes-of-the-past",
+  "mbid": "7be74343-c825-461e-b53b-4102287daccc",
+  "motivo": "Segundo álbum del proyecto paralelo británico Amon Düül (UK), no de Amon Düül II; atribución errónea en MusicBrainz.",
+  "fuente": "cobertura:cob-12"
+ },
+ {
+  "slug": "banco-donna-plautilla",
+  "mbid": "197eac16-24ab-3b52-b047-ea8f56174c0b",
+  "motivo": "Recopilación de archivo de grabaciones tempranas previas al debut, editada tardíamente; no es un álbum de estudio nuevo, mal tipada en MusicBrainz.",
+  "fuente": "cobertura:cob-12"
+ },
+ {
+  "slug": "kraftwerk-numbers",
+  "mbid": "e54c0db3-0225-4588-b178-345e43c6330b",
+  "motivo": "Single/EP mal tipado como álbum: no es un álbum de estudio del catálogo oficial.",
+  "fuente": "cobertura:cob-13"
+ },
+ {
+  "slug": "kraftwerk-kraftwerk-the-very-best",
+  "mbid": "89217608-21e2-42ae-89f4-10fe64b008de",
+  "motivo": "Recopilación, no álbum de estudio.",
+  "fuente": "cobertura:cob-13"
+ },
+ {
+  "slug": "kraftwerk-neue-version",
+  "mbid": "5389dde6-d416-4845-a550-84d11a032837",
+  "motivo": "No consta en el catálogo oficial: aparente recopilación no oficial de versiones remezcladas de la era The Mix.",
+  "fuente": "cobertura:cob-13"
+ },
+ {
+  "slug": "kraftwerk-aerodynamik-expo-2000-remix",
+  "mbid": "450400a1-ece4-401d-9a81-22db640f555e",
+  "motivo": "Single de remixes mal tipado como álbum.",
+  "fuente": "cobertura:cob-13"
+ },
+ {
+  "slug": "kraftwerk-deutsche-wertarbeit",
+  "mbid": "46a424c2-1d48-4dfd-993a-695419268a94",
+  "motivo": "No pertenece al catálogo oficial de Kraftwerk: atribución errónea o edición pirata (existe un álbum ajeno homónimo del entorno kraut).",
+  "fuente": "cobertura:cob-13"
+ },
+ {
+  "slug": "kraftwerk-radio-bremen-1971",
+  "mbid": "d2589899-2661-40d1-bc6c-e934a9392a1a",
+  "motivo": "Grabación radial en vivo de 1971 editada sin aval de la banda: bootleg/archivo no oficial mal tipado como álbum de estudio.",
+  "fuente": "cobertura:cob-13"
+ },
+ {
+  "slug": "kraftwerk-the-continental-drift",
+  "mbid": "9c2358dc-f7e5-48e6-98ab-96c2e1ebccdb",
+  "motivo": "No consta ningún álbum de estudio oficial de Kraftwerk con este título: entrada dudosa, probable edición no oficial o error de tipado.",
+  "fuente": "cobertura:cob-13"
+ },
+ {
+  "slug": "pretty-things-out-of-the-island",
+  "mbid": "356347cc-3945-3c39-9151-b0c5e44831f7",
+  "motivo": "Registro en vivo mal tipado como álbum de estudio; corresponde al circuito de directos de los ochenta.",
+  "fuente": "cobertura:cob-14"
+ },
+ {
+  "slug": "kevin-ayers-june-1-1974-outtakes",
+  "mbid": "b5c95678-dc13-4bd7-962e-9d51a76916a9",
+  "motivo": "Descartes de archivo vinculados al concierto June 1, 1974: material de archivo, no un álbum de estudio.",
+  "fuente": "cobertura:cob-15"
+ },
+ {
+  "slug": "kevin-ayers-the-garden-of-love",
+  "mbid": "d0896cb3-8769-4df7-b23c-d1f24b184c15",
+  "motivo": "Lanzamiento de archivo con grabaciones de época editadas tardíamente; Ayers no publicó álbumes de estudio entre 1992 y 2007.",
+  "fuente": "cobertura:cob-15"
+ },
+ {
+  "slug": "kevin-ayers-what-more-can-i-say",
+  "mbid": "fa23582b-d68d-4b3e-b457-9250cdc576d6",
+  "motivo": "Edición de archivo con grabaciones de época publicadas tras The Unfairground; no es un álbum de estudio nuevo de 2008.",
+  "fuente": "cobertura:cob-15"
+ },
+ {
+  "slug": "gong-je-ne-fum-pas-des-bananes",
+  "mbid": "31a1eaff-209d-34a6-9e07-46671d71e3c6",
+  "motivo": "Material de archivo de la etapa temprana de Allen editado tardíamente; no es un álbum de estudio de 1992. Tipado engañoso de MusicBrainz.",
+  "fuente": "cobertura:cob-15"
+ },
+ {
+  "slug": "styx-live-in-chicago-mantra-studio-recordings",
+  "mbid": "339f4dfe-d0b7-4296-b890-2a9775b5e55f",
+  "motivo": "Registro en vivo/sesión de estudio mal tipado como álbum de estudio; no pertenece al catálogo oficial de estudio de la banda.",
+  "fuente": "cobertura:cob-16"
+ },
+ {
+  "slug": "kansas-vinyl-confessions-demos",
+  "mbid": "58092d3e-fe2a-4bc9-8ac3-1b9e3043ed0b",
+  "motivo": "Demos de archivo no oficiales mal tipadas como álbum de estudio; duplican material del álbum Vinyl Confessions ya fichado.",
+  "fuente": "cobertura:cob-16"
+ },
+ {
+  "slug": "kansas-power-demos",
+  "mbid": "c35f9335-1707-40c1-968a-f9b721e3f026",
+  "motivo": "Demos de archivo no oficiales mal tipadas como álbum de estudio; material preliminar del álbum Power.",
+  "fuente": "cobertura:cob-16"
+ },
+ {
+  "slug": "kansas-power-demos-and-outtakes",
+  "mbid": "930e0165-8cae-49a7-af61-7f77d78ee77f",
+  "motivo": "Compilado no oficial de demos y descartes mal tipado como álbum de estudio; duplica además el material de Power Demos.",
+  "fuente": "cobertura:cob-16"
+ },
+ {
+  "slug": "robert-wyatt-millennium-a-civilised-word",
+  "mbid": "5aedd46a-989e-31cf-976e-26669a07c09d",
+  "motivo": "No verificable como álbum de estudio de Robert Wyatt; no consta en su discografía oficial y todo indica atribución errónea de MusicBrainz (homónimo o proyecto ajeno).",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "robert-wyatt-the-garden-of-love",
+  "mbid": "d0896cb3-8769-4df7-b23c-d1f24b184c15",
+  "motivo": "Sin rastro en la discografía oficial de Wyatt; probable atribución errónea o edición ajena mal tipada en MusicBrainz.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "robert-wyatt-mw3",
+  "mbid": "c5826877-8616-4c21-a7a2-81d79bf7a667",
+  "motivo": "Edición de arte libro + mini-CD de la serie MW con Jean-Michel Marchetti: tirada limitada de formato breve, no un álbum de estudio.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "robert-wyatt-m4w",
+  "mbid": "4748274a-ab9a-42cc-8c06-e980c6f5719b",
+  "motivo": "Otra entrega de la serie MW con Jean-Michel Marchetti (libro de arte + mini-CD de tirada limitada); formato breve, no álbum de estudio.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "robert-wyatt-solar-flares-burn-for-you",
+  "mbid": "aa3ab65a-fac0-3594-bd6b-750e1367be03",
+  "motivo": "Compilación oficial de archivo: música de encargo para la BBC y sesiones de época junto a piezas sueltas posteriores; no es un álbum de estudio nuevo.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "robert-wyatt-musik-rearranging-the-20th-century",
+  "mbid": "4fe85c47-cf46-4043-aec4-ef0551192ce5",
+  "motivo": "No consta como álbum de estudio oficial de Wyatt; todo indica recopilación o edición especial mal tipada en MusicBrainz.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "robert-wyatt-68",
+  "mbid": "2215471b-02c8-4f5a-ad18-7cdeb2af8052",
+  "motivo": "Archivo oficial: grabaciones solistas caseras de 1968 editadas décadas más tarde; documento histórico valioso, pero no un álbum de estudio.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "robert-wyatt-kitsune-ring-version",
+  "mbid": "ca6c4156-69cb-4e02-9843-80053309b152",
+  "motivo": "Edición limitada ligada a un proyecto editorial/artístico; no verificable como álbum de estudio y de tipado dudoso en MusicBrainz.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "robert-wyatt-kitsune-brian-the-fox",
+  "mbid": "d8041fb1-ba21-4efd-840f-d1699562e525",
+  "motivo": "Variante/reedición del mismo proyecto KiTsuNe en formato limitado; duplica material ya listado y no es verificable como álbum de estudio.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "los-jaivas-la-voragine-1-pan-negro",
+  "mbid": "abba4b8e-5227-44d5-a326-868b0951cb67",
+  "motivo": "Serie de archivo: improvisaciones tempranas de 1969-1970 editadas retrospectivamente; documento histórico, no álbum de estudio de la etapa moderna.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "los-jaivas-la-voragine-2-la-reforma",
+  "mbid": "c7c3b867-f3f6-4cdf-ba01-0087d4a03d75",
+  "motivo": "Serie de archivo: improvisaciones tempranas de 1969-1970 editadas retrospectivamente; documento histórico, no álbum de estudio de la etapa moderna.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "los-jaivas-la-voragine-3-el-totem",
+  "mbid": "8e7f8b3c-345f-423b-b374-440bff2b8200",
+  "motivo": "Serie de archivo: improvisaciones tempranas de 1969-1970 editadas retrospectivamente; documento histórico, no álbum de estudio de la etapa moderna.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "los-jaivas-la-voragine-4-mucha-inmensidad",
+  "mbid": "47f9d7f3-707f-4479-928b-b61b605ff334",
+  "motivo": "Serie de archivo: improvisaciones tempranas de 1969-1970 editadas retrospectivamente; documento histórico, no álbum de estudio de la etapa moderna.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "los-jaivas-la-voragine-5-improvisaciones-1969-1970",
+  "mbid": "188f1542-ce95-43cc-9905-510ce03fe553",
+  "motivo": "Serie de archivo: el propio título declara improvisaciones de 1969-1970 editadas retrospectivamente; documento histórico, no álbum de estudio de la etapa moderna.",
+  "fuente": "cobertura:cob-17"
+ },
+ {
+  "slug": "congreso-pichanga-profecias-a-falta-de-ecuaciones",
+  "mbid": "3037ce49-8a4d-4b45-b9d2-d15d025c8f15",
+  "motivo": "Reedición del disco de antipoemas de Nicanor Parra de 1992 bajo su título completo; duplica un álbum ya cubierto en esta pasada. Si apareciera evidencia de que es una regrabación íntegra nueva, correspondería revisarlo.",
+  "fuente": "cobertura:cob-18"
+ },
+ {
+  "slug": "can-onlyou",
+  "mbid": "810b330f-97ee-4c0a-9bc8-67ea538dd6ca",
+  "motivo": "Sencillo de 12 pulgadas de 1982 de circulación mínima, mal tipado como álbum; no es un álbum de estudio.",
+  "fuente": "cobertura:cob-18"
+ },
+ {
+  "slug": "can-unopened",
+  "mbid": "96fcb5fd-79c0-4f55-82a6-187a121cd392",
+  "motivo": "Compilación de material inédito de archivo, no un álbum de estudio oficial; corresponde a la órbita de descartes que luego canalizaron las ediciones oficiales de archivo.",
+  "fuente": "cobertura:cob-18"
+ },
+ {
+  "slug": "can-zhengzheng-rikang",
+  "mbid": "fa615b1f-b158-408e-a324-b53bea542823",
+  "motivo": "Bootleg de grabaciones tempranas inéditas; material de archivo no oficial, no un álbum de estudio.",
+  "fuente": "cobertura:cob-18"
+ },
+ {
+  "slug": "can-ogam-ogat",
+  "mbid": "1f86d11e-b84d-40c8-b59c-a27d862ac458",
+  "motivo": "Bootleg de material de archivo temprano; no es un álbum de estudio oficial.",
+  "fuente": "cobertura:cob-18"
+ },
+ {
+  "slug": "small-faces-from-the-beginning",
+  "mbid": "be29322a-75b1-3059-b102-aed149d1987e",
+  "motivo": "Recopilación armada por Decca tras la partida de la banda del sello: singles y descartes sin control del grupo, no un álbum de estudio.",
+  "fuente": "cobertura:cob-18"
+ },
+ {
+  "slug": "small-faces-there-are-but-four-small-faces",
+  "mbid": "39fcfe80-f986-366a-a93a-10de4c1432de",
+  "motivo": "Versión estadounidense del álbum de Immediate de 1967 con singles intercalados; reconfiguración de sello que duplica un disco ya cubierto.",
+  "fuente": "cobertura:cob-18"
+ },
+ {
+  "slug": "small-faces-1862",
+  "mbid": "29c5c40c-0415-4c09-9ca4-2896922d3712",
+  "motivo": "Lanzamiento de archivo posterior a la separación de comienzos de 1969, mal tipado como álbum de estudio; no corresponde a ningún álbum oficial de estudio de la banda.",
+  "fuente": "cobertura:cob-18"
+ },
+ {
+  "slug": "small-faces-transmissions-1965-1968",
+  "mbid": "7023d6ad-27ee-4469-be13-1440db5f0bf6",
+  "motivo": "Compilación de archivo de grabaciones del período 1965-1968 editada en 2019; no es un álbum de estudio.",
+  "fuente": "cobertura:cob-18"
+ },
+ {
+  "slug": "new-trolls-concerto-grosso-n-1-e-n-2",
+  "mbid": "ad2ee4bd-508a-36f5-958a-8dede6ebc124",
+  "motivo": "Reedición en un solo disco que junta los dos Concerto Grosso ya publicados como álbumes propios; no es material de estudio nuevo.",
+  "fuente": "cobertura:cob-19"
+ },
+ {
+  "slug": "osanna-rosso-rock",
+  "mbid": "746b47be-0b09-4a54-9281-81ff52711e82",
+  "motivo": "Registro en vivo (gira japonesa) mal tipado como álbum de estudio en MusicBrainz.",
+  "fuente": "cobertura:cob-19"
+ },
+ {
+  "slug": "mothers-of-invention-bubble-cream-cheese",
+  "mbid": "5d9321b3-bec4-4e64-b303-9419d9bf3c85",
+  "motivo": "Material de archivo no oficial (circuito bootleg) mal tipado como álbum de estudio.",
+  "fuente": "cobertura:cob-20"
+ },
+ {
+  "slug": "mothers-of-invention-live-at-the-piknik-show-in-uddel-nl-june-18th-1970",
+  "mbid": "7dac8697-d768-49fd-a1f8-88e0fa04dde7",
+  "motivo": "Registro en vivo de archivo mal tipado como álbum de estudio.",
+  "fuente": "cobertura:cob-20"
+ },
+ {
+  "slug": "museo-rosenbach-rare-and-unreleased",
+  "mbid": "c59ac8f3-70b8-3089-a93a-273b8128c4b7",
+  "motivo": "Recopilación de archivo de rarezas e inéditos, no un álbum de estudio.",
+  "fuente": "cobertura:cob-20"
+ },
+ {
+  "slug": "museo-rosenbach-rarities",
+  "mbid": "43d45dbe-f0bc-4065-a730-1cd7c4d7aff0",
+  "motivo": "Recopilación de rarezas de archivo, no un álbum de estudio.",
+  "fuente": "cobertura:cob-20"
+ },
+ {
+  "slug": "neu-neu-4",
+  "mbid": "00b1fc46-1588-3022-acc5-a36b2342f123",
+  "motivo": "Edición no autorizada de las sesiones de mediados de los ochenta, publicada sin acuerdo de Rother y superada por la versión oficial Neu! '86, cubierta en esta misma pasada.",
+  "fuente": "cobertura:cob-20"
+ },
+ {
+  "slug": "national-health-missing-pieces",
+  "mbid": "de751754-5be2-3f95-ae87-f3aebcd5566b",
+  "motivo": "Recopilación de archivo: material de estudio y sesiones inéditas de las formaciones tempranas (1975-76), compilado y publicado en 1996. No es un álbum de estudio concebido como tal; MusicBrainz lo tipa como Album sin secundario.",
+  "fuente": "cobertura:cob-21"
+ },
+ {
+  "slug": "national-health-the-northern-lights-polar-lights",
+  "mbid": "057c775a-a23b-4f7b-a539-f060298e4f48",
+  "motivo": "Bootleg: edición japonesa de 1999 con estatus Bootleg en MusicBrainz, mal tipada como álbum. Sin carácter oficial.",
+  "fuente": "cobertura:cob-21"
+ },
+ {
+  "slug": "national-health-the-roundhouse-unedited",
+  "mbid": "22beb5c8-aee3-4077-9680-9a38df0edc1d",
+  "motivo": "Vivo de archivo mal tipado: registro de concierto completo sin editar (incluye presentaciones, bises y charla de escenario), publicado en 2023. No es álbum de estudio.",
+  "fuente": "cobertura:cob-21"
+ },
+ {
+  "slug": "egg-the-metronomical-society",
+  "mbid": "bbd47401-4b53-4b00-8728-d2099fc2ecf2",
+  "motivo": "Recopilación de archivo: sesiones de BBC, tomas alternas y grabaciones inéditas del período 1969-72, compiladas y publicadas oficialmente en 2007. No es un álbum de estudio nuevo; el catálogo de estudio de Egg ya está fichado completo.",
+  "fuente": "cobertura:cob-21"
  }
 ]

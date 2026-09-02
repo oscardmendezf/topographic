@@ -1,0 +1,194 @@
+{
+  "albumes": [
+    {
+      "album_slug": "tangerine-dream-quantum-gate",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Primer álbum de estudio tras la muerte de Froese, a cargo del trío encabezado por Quaeschning. Recupera el pulso secuenciado de la casa con producción contemporánea; más un renacimiento digno que una revolución.",
+      "estrellas_critica": 3,
+      "critica_nota": "Recibido como renacimiento digno; algo de escepticismo residual.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Nicho fiel, sin alcance masivo."
+    },
+    {
+      "album_slug": "tangerine-dream-light-flux",
+      "excluir": true,
+      "motivo": "Caja de vinilos de edición limitada que reúne Quantum Gate y material afín ya publicado; duplica un álbum ya fichable, no es un álbum de estudio nuevo.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "tangerine-dream-oedipus-tyrannus",
+      "excluir": false,
+      "motivo": "Duda resuelta a favor de incluir: lanzamiento oficial de archivo de la música compuesta en 1974 para el montaje teatral, editada recién en 2019; cuenta como banda sonora de estudio propia.",
+      "analisis": "Edición oficial de archivo de la música que la formación clásica compuso para un montaje teatral de Edipo: secuencias, improvisación atmosférica y algo de tanteo. Documento valioso de la era Virgin más que un disco pensado como álbum.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin consenso registrable; pieza para archivistas y completistas.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Edición de archivo para el círculo fiel."
+    },
+    {
+      "album_slug": "tangerine-dream-recurring-dreams",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Regrabaciones oficiales de clásicos del catálogo —Phaedra, Rubycon y compañía— a cargo de la formación posterior a Froese. Prolijo y respetuoso, aunque en ningún momento amenaza a los originales.",
+      "estrellas_critica": null,
+      "critica_nota": "Poca recepción registrada; visto mayormente como redundante.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación de nicho."
+    },
+    {
+      "album_slug": "tangerine-dream-raum",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "El disco donde la formación de Quaeschning deja de administrar el legado y firma material propio con convicción: secuencias amplias, textura ambient y oficio melódico. El mejor argumento de la etapa posterior a Froese.",
+      "estrellas_critica": 4,
+      "critica_nota": "El mejor consenso crítico de la etapa post-Froese.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Repercusión sólida dentro de su nicho."
+    },
+    {
+      "album_slug": "frank-zappa-the-boy-wonder-session-tapes",
+      "excluir": true,
+      "motivo": "Cintas de sesión de archivo no oficiales ligadas a producciones ajenas de la etapa pre-Mothers; no es un álbum de estudio oficial de Zappa.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "frank-zappa-lumpy-gravy",
+      "excluir": true,
+      "motivo": "Duplica la ficha existente de Lumpy Gravy: esta entrada corresponde a la versión orquestal primitiva de Capitol, variante del mismo álbum ya fichado en el atlas.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "frank-zappa-chungas-revenge",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Primer disco con Flo & Eddie en el elenco: mitad jazz-rock instrumental de guitarra, mitad vodevil de gira. Obra de transición que anticipa el rumbo teatral de las Mothers de los setenta.",
+      "estrellas_critica": 3,
+      "critica_nota": "Recepción mixta; valorado por sus instrumentales.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Rendimiento discreto."
+    },
+    {
+      "album_slug": "frank-zappa-waka-jawaka",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Continuación de gran banda del espíritu de Hot Rats, armada mientras Zappa se recuperaba lejos de los escenarios: jazz-rock de arreglos densos, vientos protagónicos y la guitarra como voz solista.",
+      "estrellas_critica": 3,
+      "critica_nota": "Estimado por los devotos del Zappa instrumental.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Más de culto que de público amplio."
+    },
+    {
+      "album_slug": "frank-zappa-zoot-allures",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Disco áspero y guitarrero, con Zappa tocando casi todo: humor sardónico, riffs pesados y «Black Napkins» como cumbre instrumental.",
+      "estrellas_critica": 3,
+      "critica_nota": "Mixto en su día; «Black Napkins» es indiscutida.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Modesto, dentro de lo habitual para su catálogo."
+    },
+    {
+      "album_slug": "frank-zappa-titties-and-beer",
+      "excluir": true,
+      "motivo": "Grabación en vivo no oficial (bootleg) mal tipada como álbum de estudio.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "frank-zappa-rubber-slices",
+      "excluir": true,
+      "motivo": "Edición no oficial de material de archivo tipo bootleg; no pertenece a la discografía de estudio oficial de Zappa.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "frank-zappa-studio-tan",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Publicado por Warner sin control de Zappa a partir del material del proyecto Läther. Lo sostiene «The Adventures of Greggery Peccary», suite narrativa de las más ambiciosas de su catálogo.",
+      "estrellas_critica": 3,
+      "critica_nota": "Salida polémica; revalorado por la suite de Greggery Peccary.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Editado sin promoción; alcance mínimo."
+    },
+    {
+      "album_slug": "frank-zappa-warts-and-all",
+      "excluir": true,
+      "motivo": "Bootleg en vivo célebre, mal tipado como álbum de estudio.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "frank-zappa-sleep-dirt",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Otro desprendimiento del material de Läther editado por Warner: mayormente instrumental, entre guitarras acústicas y piezas del proyecto Hunchentoot. Menor en intención, no en interés.",
+      "estrellas_critica": 3,
+      "critica_nota": "Pasó inadvertido; revalorado como rareza instrumental sólida.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Sin promoción; circulación mínima."
+    },
+    {
+      "album_slug": "frank-zappa-sheik-yerbouti",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Doble armado sobre bases en vivo retrabajadas a fondo en estudio, con la sátira en primer plano. Su disco más popular y también el que más incomodó a la crítica por el filo de sus chistes.",
+      "estrellas_critica": 3,
+      "critica_nota": "Éxito divisivo: virtuosismo celebrado, humor cuestionado.",
+      "estrellas_comercial": 4,
+      "comercial_nota": "Su mayor alcance comercial."
+    },
+    {
+      "album_slug": "frank-zappa-orchestral-favorites",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Música orquestal grabada con conjunto propio años antes y retenida en el conflicto con Warner, que la editó sin su bendición. Muestra concentrada del Zappa compositor serio.",
+      "estrellas_critica": 3,
+      "critica_nota": "Poca prensa en su momento; estimado por los zappólogos.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Alcance marginal."
+    },
+    {
+      "album_slug": "frank-zappa-joes-garage-act-i",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Primera entrega de la ópera rock sobre censura, tecnología y música prohibida: sátira afilada, banda de precisión quirúrgica y el Central Scrutinizer como narrador.",
+      "estrellas_critica": 4,
+      "critica_nota": "Muy valorado; de sus obras conceptuales mayores.",
+      "estrellas_comercial": 3,
+      "comercial_nota": "De sus títulos más vendidos de la etapa."
+    },
+    {
+      "album_slug": "frank-zappa-joes-garage-acts-ii-iii",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Cierre de la ópera: más disperso que el primer acto, pero contiene «Watermelon in Easter Hay», quizá su solo de guitarra más querido. El conjunto se lee mejor como obra única.",
+      "estrellas_critica": 3,
+      "critica_nota": "Más irregular que el Acto I; «Watermelon» lo redime.",
+      "estrellas_comercial": 3,
+      "comercial_nota": "Acompañó el arrastre del primer acto."
+    }
+  ]
+}

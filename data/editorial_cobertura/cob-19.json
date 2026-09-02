@@ -1,0 +1,354 @@
+{
+  "albumes": [
+    {
+      "album_slug": "new-trolls-senza-orario-senza-bandiera",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Debut conceptual con letras de Fabrizio De André: beat orquestado con ambiciones literarias, anterior a cualquier prog. Vale como prehistoria del formato álbum en Italia más que como disco progresivo.",
+      "estrellas_critica": 3,
+      "critica_nota": "Valorado como concept pionero italiano; musicalmente aún beat.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Repercusión modesta en su momento; prestigio posterior."
+    },
+    {
+      "album_slug": "new-trolls-searching-for-a-land",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Doble mitad estudio y mitad vivo, cantado en inglés con la mira puesta afuera: hard rock con arrebatos progresivos. Ambicioso y disperso a la vez, retrato fiel de una banda que probaba todo.",
+      "estrellas_critica": 3,
+      "critica_nota": "Recepción mixta; ambición reconocida, cohesión discutida.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Alcance limitado; el salto internacional no ocurrió."
+    },
+    {
+      "album_slug": "new-trolls-ut",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Su disco más duro y compacto: hard prog de guitarras al frente, sin orquesta ni concesiones melódicas. Junto a los Concerto Grosso, lo más defendible de su catálogo, y el cierre de la formación clásica.",
+      "estrellas_critica": 4,
+      "critica_nota": "Muy valorado entre los fieles del prog italiano.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Menor llegada que la serie orquestal."
+    },
+    {
+      "album_slug": "new-trolls-aldebaran",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "El viraje consumado a la canción melódica: pop pulido con oficio y casi sin rastro del pasado progresivo. Importa como documento del cambio de piel, no como disco de atlas.",
+      "estrellas_critica": 2,
+      "critica_nota": "Desestimado por la crítica prog; oficio pop reconocido.",
+      "estrellas_comercial": 3,
+      "comercial_nota": "Buena llegada en Italia gracias a una canción muy popular."
+    },
+    {
+      "album_slug": "new-trolls-new-trolls",
+      "excluir": false,
+      "motivo": "Se incluye con reserva: MusicBrainz lo fecha en 1979, pero puede confundirse con el debut homónimo de 1970; conviene verificar la edición.",
+      "analisis": "Entrada homónima de catálogo confuso, situada en plena etapa de canción melódica. Sin lugar en el relato progresivo de la banda.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin consenso crítico registrable.",
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "new-trolls-fs",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Pieza de la etapa pop de los ochenta: producción de época y estribillos prolijos, ya sin diálogo con el prog. Para completistas del arco largo de la banda.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin recepción crítica registrable.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Presencia menor en el mercado italiano."
+    },
+    {
+      "album_slug": "new-trolls-america-o-k",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Pop de sonido ochentoso y ambición radial, en las antípodas de los Concerto Grosso. El punto más lejano del atlas dentro de su discografía.",
+      "estrellas_critica": null,
+      "critica_nota": "Ignorado por la crítica; sin consenso registrable.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Circulación acotada al mercado local."
+    },
+    {
+      "album_slug": "new-trolls-concerto-grosso-n-1-e-n-2",
+      "excluir": true,
+      "motivo": "Reedición en un solo disco que junta los dos Concerto Grosso ya publicados como álbumes propios; no es material de estudio nuevo.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "osanna-luomo",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Debut crudo y teatral: hard rock con flauta, aullidos y vocación escénica que ya anuncia el costado ritual del prog napolitano. Menos refinado que lo que vendría, pero con una identidad inmediata.",
+      "estrellas_critica": 4,
+      "critica_nota": "Debut muy valorado dentro del prog italiano temprano.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Repercusión real en la escena italiana del momento."
+    },
+    {
+      "album_slug": "osanna-palepoli",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Su obra mayor y una cumbre del prog italiano: dos suites largas que funden rock ácido, folclore napolitano y teatro en un fresco urbano sobre la Nápoles antigua y la moderna. Denso, excesivo y de una identidad sin equivalente claro en la escena.",
+      "estrellas_critica": 5,
+      "critica_nota": "Canon indiscutido del rock progresivo italiano.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Alcance de culto; su prestigio creció con las décadas."
+    },
+    {
+      "album_slug": "osanna-landscape-of-life",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Bajada de tensión tras Palepoli: formato canción, inglés a medias y una banda ya en proceso de disgregación. Tiene momentos, pero se lee como epílogo de la etapa clásica.",
+      "estrellas_critica": 3,
+      "critica_nota": "Mixto; consenso de declive frente a Palepoli.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Menor repercusión que sus discos previos."
+    },
+    {
+      "album_slug": "osanna-suddance",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Reunión de fines de los setenta en clave jazz-rock y funk mediterráneo, lejos del rito y las máscaras. Curiosidad de transición más que regreso real.",
+      "estrellas_critica": 3,
+      "critica_nota": "Mixto tirando a menor; lejos de su etapa clásica.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Pasó casi inadvertido."
+    },
+    {
+      "album_slug": "osanna-prog-family",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Regreso comandado por Lino Vairetti con invitados de la escena: revisita el repertorio clásico junto a material nuevo. Documento de la Osanna tardía como proyecto colectivo antes que banda estable.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin consenso amplio; eco limitado a la prensa especializada.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación de culto."
+    },
+    {
+      "album_slug": "osanna-rosso-rock",
+      "excluir": true,
+      "motivo": "Registro en vivo (gira japonesa) mal tipado como álbum de estudio en MusicBrainz.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "osanna-palepolitana",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Doble conceptual que retoma el imaginario de Palepoli para volver a narrar Nápoles desde el presente. Ambicioso y desparejo; el gesto importa más que el resultado.",
+      "estrellas_critica": null,
+      "critica_nota": "Recepción limitada a circuitos del prog italiano; sin consenso.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Alcance de culto."
+    },
+    {
+      "album_slug": "osanna-il-diedro-del-mediterraneo",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Trabajo tardío de la formación de Vairetti en clave mediterránea, entre la memoria del rito napolitano y la canción de autor. Para seguidores del culto Osanna antes que para el lector general.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin recepción crítica registrable fuera del nicho.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación mínima."
+    },
+    {
+      "album_slug": "steve-hillage-space-shanty",
+      "excluir": false,
+      "motivo": "Publicado a nombre de Khan, el grupo de Hillage previo a Gong; se ficha aquí por ser pieza clave de su arco.",
+      "analisis": "El disco de Khan: Canterbury de guitarras largas y órgano, con el estilo líquido de Hillage ya formado antes de Gong. Único álbum del grupo y favorito persistente del culto canterburiano.",
+      "estrellas_critica": 4,
+      "critica_nota": "Muy valorado dentro del canon de Canterbury.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Fracaso comercial en su día; culto sostenido después."
+    },
+    {
+      "album_slug": "steve-hillage-open",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Formato canción con producción de fines de los setenta: el guitarrista cósmico acomodándose a un mercado que ya miraba para otro lado. Correcto y menor dentro de su etapa solista.",
+      "estrellas_critica": 3,
+      "critica_nota": "Recepción mixta; se le reprocha la domesticación del estilo.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Público fiel en retirada."
+    },
+    {
+      "album_slug": "steve-hillage-rainbow-dome-musick",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Dos piezas ambientales largas hechas con Miquette Giraudy: glissando, sintetizadores y agua, sin batería ni canciones. Con los años se volvió su disco más citado fuera del prog, precursor reconocido del ambient house.",
+      "estrellas_critica": 4,
+      "critica_nota": "Revalorizado como precursor del ambient house.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Objeto de nicho en su momento; influencia posterior."
+    },
+    {
+      "album_slug": "steve-hillage-and-not-or",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Compañero instrumental de For to Next, armado con material de las mismas sesiones electrónicas. Pieza lateral del cierre de su etapa solista, previa al repliegue hacia la producción.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin recepción crítica registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación mínima."
+    },
+    {
+      "album_slug": "steve-hillage-for-to-next",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Synth-pop de época que dejó fríos a los fieles del guitarrista cósmico: el último disco de canciones antes de desaparecer en la producción y, más tarde, en System 7.",
+      "estrellas_critica": 2,
+      "critica_nota": "Recibido con frialdad; cierre opaco de la etapa solista.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Su punto comercial más bajo."
+    },
+    {
+      "album_slug": "steve-hillage-dreamtime-submersible",
+      "excluir": false,
+      "motivo": "Se incluye con reserva: entrada de catálogo profundo de su etapa electrónica, de documentación escasa; verificar naturaleza de la edición.",
+      "analisis": "Pieza ambiental de su etapa electrónica tardía, de circulación mínima y al margen de su discografía canónica.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin consenso registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación mínima."
+    },
+    {
+      "album_slug": "steve-hillage-the-golden-vibe",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Edición oficial de grabaciones solitarias de archivo de su primera época: glissando en bruto, sin banda ni producción. Interesa como documento del método antes que como álbum en sentido pleno.",
+      "estrellas_critica": null,
+      "critica_nota": "Recibido con simpatía en el nicho; sin consenso amplio.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Edición para el culto."
+    },
+    {
+      "album_slug": "o-terco-mudanca-de-tempo",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Continuación del ciclo abierto por Criaturas da noite, con la fórmula melódica ya asentada y menos chispa. Digno, pero a la sombra evidente de su clásico.",
+      "estrellas_critica": 3,
+      "critica_nota": "Apreciado con reservas; inferior a Criaturas da noite.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Aprovechó el envión de su etapa exitosa."
+    },
+    {
+      "album_slug": "o-terco-som-mais-puro",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Entrada de los años de continuidad bajo Sérgio Hinds, único sobreviviente del núcleo clásico, con la banda ya fuera del radar. Catálogo profundo para completistas del prog brasileño.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin consenso crítico registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación marginal."
+    },
+    {
+      "album_slug": "o-terco-time-travelers",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Producto de la larga posteridad de la marca O Terço en los noventa, lejos de la formación y del momento que los hizo relevantes. Interés estrictamente documental.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin recepción crítica registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación marginal."
+    },
+    {
+      "album_slug": "o-terco-compositores",
+      "excluir": false,
+      "motivo": "Se incluye con reserva: el título sugiere posible disco de versiones o antología; verificar contenido de la edición.",
+      "analisis": "Entrada de los noventa del catálogo profundo de la banda de Hinds, sin peso en su relato central.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin consenso registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación marginal."
+    },
+    {
+      "album_slug": "o-terco-spiral-words",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Otro capítulo tardío de la etapa Hinds, cantado en inglés y sin llegada más allá del circuito fiel. Para el mapa completo, no para la escucha guiada.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin recepción crítica registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación marginal."
+    },
+    {
+      "album_slug": "o-terco-tributo-a-raul-seixas",
+      "excluir": false,
+      "motivo": "Se incluye con reserva: disco de versiones en homenaje a Raul Seixas firmado por la banda; si la edición resultara un tributo de varios artistas, correspondería excluirlo.",
+      "analisis": "Homenaje de estudio al repertorio de Raul Seixas desde la trinchera tardía de la banda. Fuera del relato progresivo salvo como nota al pie.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin consenso registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación marginal."
+    },
+    {
+      "album_slug": "utopia-deface-the-music",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Pastiche integral de los Beatles ejecutado con precisión de relojero: divertido, brillante y por completo ajeno al prog. En el atlas figura como rareza del arco Rundgren, no como disco progresivo.",
+      "estrellas_critica": 3,
+      "critica_nota": "Celebrado como pastiche ingenioso; irrelevante para el canon prog.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Curiosidad de alcance limitado."
+    },
+    {
+      "album_slug": "utopia-utopia",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Power pop democrático, con las cuatro voces repartidas y el prog ya definitivamente atrás. Prolijo y abundante; su interés para este atlas es puramente biográfico.",
+      "estrellas_critica": 3,
+      "critica_nota": "Recepción mixta como pop-rock de oficio.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Lejos del alcance de Adventures in Utopia."
+    },
+    {
+      "album_slug": "utopia-swing-to-the-right",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Pop-rock con costado político y sarcástico, hecho en plena pelea con la discográfica. Canciones antes que ideas largas: el prog quedó en el nombre.",
+      "estrellas_critica": 3,
+      "critica_nota": "Mixto; apreciado después por su mordacidad.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Tropiezo comercial de su etapa pop."
+    },
+    {
+      "album_slug": "utopia-oblivion",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Pop de sintetizadores con el pulso de la nueva ola, competente y anónimo. La banda ya funcionaba como vehículo de canciones, sin resto del proyecto cósmico inicial.",
+      "estrellas_critica": 3,
+      "critica_nota": "Recepción tibia; oficio reconocido, poco más.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Alcance modesto en su recta final."
+    },
+    {
+      "album_slug": "utopia-pov",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Último disco de la banda en actividad: pop de mediados de los ochenta recibido con indiferencia general. Cierre administrativo de un arco que había empezado en la desmesura cósmica.",
+      "estrellas_critica": 2,
+      "critica_nota": "Recibido con indiferencia; final apagado.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Su punto más bajo de llegada."
+    },
+    {
+      "album_slug": "utopia-disco-jets",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Publicación oficial de sesiones de estudio que quedaron archivadas durante décadas: divertimento space-disco de la formación temprana. Curiosidad para completistas, no un álbum nuevo en sentido pleno.",
+      "estrellas_critica": null,
+      "critica_nota": "Sin consenso; leído como rareza de archivo.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Edición para el culto rundgreniano."
+    }
+  ]
+}

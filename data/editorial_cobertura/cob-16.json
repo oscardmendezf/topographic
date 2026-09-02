@@ -1,0 +1,264 @@
+{
+  "albumes": [
+    {
+      "album_slug": "styx-styx",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Debut en la etapa de sello chico, entre originales verdes y adaptaciones clásicas, con la banda todavía decidiendo si era grupo de rock duro o sinfónico de barrio. Documento de arranque, no mucho más.",
+      "estrellas_critica": 2,
+      "critica_nota": "Debut irregular; interés mayormente arqueológico.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Pasó inadvertido en su momento."
+    },
+    {
+      "album_slug": "styx-the-serpent-is-rising",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "El disco más caótico de la etapa Wooden Nickel, desparejo hasta lo desconcertante; la propia banda renegó de él después. Curiosidad para completistas de la prehistoria del pomp.",
+      "estrellas_critica": 2,
+      "critica_nota": "Mal considerado incluso dentro de la banda.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Sin repercusión alguna al salir."
+    },
+    {
+      "album_slug": "styx-man-of-miracles",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Cierre de la etapa en sello chico, algo más enfocado que su antecesor pero aún sin identidad clara. El puente hacia el salto de liga que llegaría con Equinox.",
+      "estrellas_critica": 2,
+      "critica_nota": "Transicional y menor; pocos lo defienden.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Otro lanzamiento invisible de la etapa temprana."
+    },
+    {
+      "album_slug": "styx-cornerstone",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "El giro suave: DeYoung impone la balada como centro y Babe se vuelve su canción más grande, mientras la fricción interna con el ala rockera se hace pública. Éxito enorme y primera grieta seria.",
+      "estrellas_critica": 3,
+      "critica_nota": "Mixto; el ablandamiento dividió a crítica y fans.",
+      "estrellas_comercial": 5,
+      "comercial_nota": "Masivo; Babe los llevó a su pico de popularidad."
+    },
+    {
+      "album_slug": "styx-kilroy-was-here",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "El concepto distópico sobre la censura del rock que quebró a la banda: teatral hasta lo involuntariamente cómico, con Mr. Roboto como símbolo de todo lo que se les reprochaba. Fin de la formación clásica en su versión imperial.",
+      "estrellas_critica": 2,
+      "critica_nota": "Vapuleado; el concepto envejeció como caricatura.",
+      "estrellas_comercial": 4,
+      "comercial_nota": "Vendió fuerte por inercia, con hit incluido."
+    },
+    {
+      "album_slug": "styx-edge-of-the-century",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Reunión sin Shaw, con Glen Burtnik en su lugar y un pie firme en el AOR de la época. Show Me the Way les dio un último momento genuino de radio.",
+      "estrellas_critica": 3,
+      "critica_nota": "Mixto; oficio profesional sin mayor trascendencia.",
+      "estrellas_comercial": 3,
+      "comercial_nota": "Repunte moderado empujado por una balada exitosa."
+    },
+    {
+      "album_slug": "styx-brave-new-world",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Regreso con Shaw pero grabado en bandos separados, y se nota: dos discos conviviendo incómodos bajo un mismo título. Fue el último de estudio con DeYoung, lo que lo vuelve documento de divorcio.",
+      "estrellas_critica": 2,
+      "critica_nota": "Recibido como disco desarticulado y sin centro.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Repercusión menor; la marca ya no arrastraba."
+    },
+    {
+      "album_slug": "styx-cyclorama",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Primer disco de estudio de la era Lawrence Gowan, ya sin DeYoung: más rockero y sorprendentemente cohesivo para una banda en su cuarta década. Para la base fiel, una reivindicación modesta.",
+      "estrellas_critica": 3,
+      "critica_nota": "Recepción discreta pero más amable de lo esperado.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Circulación limitada al público fiel."
+    },
+    {
+      "album_slug": "styx-big-bang-theory",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Colección de covers de rock clásico grabada en estudio: oficio de sobra, necesidad discutible. Se ficha por ser lanzamiento de estudio oficial, no por peso propio en el catálogo.",
+      "estrellas_critica": 2,
+      "critica_nota": "Visto como ejercicio prescindible de covers.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Curiosidad que rindió más de lo previsible, sin más."
+    },
+    {
+      "album_slug": "styx-live-in-chicago-mantra-studio-recordings",
+      "excluir": true,
+      "motivo": "Registro en vivo/sesión de estudio mal tipado como álbum de estudio; no pertenece al catálogo oficial de estudio de la banda.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "styx-the-mission",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Álbum conceptual sobre una misión a Marte, deliberadamente retro en sonido y duración: su disco más ambicioso y mejor logrado en décadas. El pomp de los setenta revisitado con dignidad.",
+      "estrellas_critica": 4,
+      "critica_nota": "Celebrado como retorno de forma tardío e inesperado.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Eco real pero acotado al circuito clásico y prog."
+    },
+    {
+      "album_slug": "styx-crash-of-the-crown",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Continuidad del repunte de The Mission, con canciones cortas encadenadas y espíritu setentero asumido. Menos concepto, misma convicción artesanal.",
+      "estrellas_critica": 3,
+      "critica_nota": "Favorable aunque un escalón debajo de The Mission.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Para la base fiel; sin proyección masiva."
+    },
+    {
+      "album_slug": "styx-circling-from-above",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "La etapa tardía en piloto firme: más suites breves de sabor setentero, sin reinventar nada. Demasiado reciente para medir su lugar en el catálogo.",
+      "estrellas_critica": null,
+      "critica_nota": "Muy reciente; sin consenso crítico sedimentado.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Lanzamiento de nicho para el público fiel."
+    },
+    {
+      "album_slug": "kansas-audiovisions",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "El último con la formación original completa: Livgren cada vez más volcado a lo espiritual, Walsh tirando hacia el AOR. Se sostiene a tramos, pero la tensión interna ya no produce chispa sino desgaste.",
+      "estrellas_critica": 3,
+      "critica_nota": "Mixto; el cierre fatigado de la formación clásica.",
+      "estrellas_comercial": 3,
+      "comercial_nota": "Todavía vendía bien, cerrando la racha grande."
+    },
+    {
+      "album_slug": "kansas-vinyl-confessions-demos",
+      "excluir": true,
+      "motivo": "Demos de archivo no oficiales mal tipadas como álbum de estudio; duplican material del álbum Vinyl Confessions ya fichado.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "kansas-vinyl-confessions",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Primer disco con John Elefante en la voz tras la salida de Walsh, con el mensaje cristiano de Livgren en primer plano. AOR pulido con restos de ambición sinfónica; dividió a la base.",
+      "estrellas_critica": 3,
+      "critica_nota": "Mixto; el giro de voz y mensaje dividió aguas.",
+      "estrellas_comercial": 3,
+      "comercial_nota": "Repunte moderado empujado por un single fuerte."
+    },
+    {
+      "album_slug": "kansas-drastic-measures",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Sin Steinhardt y con el violín fuera de la ecuación, queda un AOR genérico dominado por los hermanos Elefante. El punto más alejado de su identidad prog.",
+      "estrellas_critica": 2,
+      "critica_nota": "Mal recibido; el punto más bajo para muchos.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Caída visible respecto de la etapa anterior."
+    },
+    {
+      "album_slug": "kansas-power-demos",
+      "excluir": true,
+      "motivo": "Demos de archivo no oficiales mal tipadas como álbum de estudio; material preliminar del álbum Power.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "kansas-power-demos-and-outtakes",
+      "excluir": true,
+      "motivo": "Compilado no oficial de demos y descartes mal tipado como álbum de estudio; duplica además el material de Power Demos.",
+      "analisis": null,
+      "estrellas_critica": null,
+      "critica_nota": null,
+      "estrellas_comercial": null,
+      "comercial_nota": null
+    },
+    {
+      "album_slug": "kansas-power",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Reforma sin Livgren y con Steve Morse en guitarra: rock melódico ochentoso ejecutado con solvencia. Kansas de nombre más que de espíritu, aunque Morse regala momentos.",
+      "estrellas_critica": 3,
+      "critica_nota": "Mixto; se rescata sobre todo la guitarra de Morse.",
+      "estrellas_comercial": 3,
+      "comercial_nota": "Regreso decoroso con un single que funcionó."
+    },
+    {
+      "album_slug": "kansas-in-the-spirit-of-things",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Álbum conceptual sobre un pueblo de Kansas arrasado por una inundación, producido con el brillo pomposo de la época. Más ambicioso que Power y mejor de lo que su escasa repercusión sugiere.",
+      "estrellas_critica": 3,
+      "critica_nota": "Ignorado al salir; revalorizado parcialmente después.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Fracaso relativo que cerró la etapa con Morse."
+    },
+    {
+      "album_slug": "kansas-freaks-of-nature",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Regreso al estudio tras años de gira, con el violín reinstalado en el sonido vía David Ragsdale. Irregular pero más digno que su fama de nota al pie.",
+      "estrellas_critica": null,
+      "critica_nota": "Poco reseñado; sin consenso crítico registrable.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Circulación de culto, casi invisible."
+    },
+    {
+      "album_slug": "kansas-always-never-the-same",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Regrabaciones orquestales del repertorio clásico junto a algo de material nuevo, con la London Symphony Orchestra. Experimento oficial de estudio de necesidad dudosa; se ficha como grabación oficial, no como disco esencial.",
+      "estrellas_critica": 2,
+      "critica_nota": "Recibido con frialdad; experimento orquestal discutido.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Sin repercusión fuera del círculo fiel."
+    },
+    {
+      "album_slug": "kansas-somewhere-to-elsewhere",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Reunión de la formación clásica con Livgren componiendo todo el material: el disco más genuinamente Kansas desde los setenta. Pasó casi inadvertido, pero la base lo atesora.",
+      "estrellas_critica": 3,
+      "critica_nota": "Bien visto por los fans; eco crítico limitado.",
+      "estrellas_comercial": 1,
+      "comercial_nota": "Lanzamiento de culto pese al peso de la reunión."
+    },
+    {
+      "album_slug": "kansas-the-prelude-implicit",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Primer disco de estudio con Ronnie Platt al frente tras la salida de Walsh: sinfonismo de manual ejecutado con seriedad. Mejor de lo que una reforma tan tardía hacía esperar.",
+      "estrellas_critica": 3,
+      "critica_nota": "Recepción amable como regreso digno.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Rendimiento modesto dentro del circuito prog."
+    },
+    {
+      "album_slug": "kansas-the-absence-of-presence",
+      "excluir": false,
+      "motivo": null,
+      "analisis": "Segunda entrega de la formación con Platt, más segura que The Prelude Implicit y con Tom Brislin sumando teclados con criterio. La versión tardía más sólida de la banda.",
+      "estrellas_critica": 3,
+      "critica_nota": "Bien recibido en la prensa prog especializada.",
+      "estrellas_comercial": 2,
+      "comercial_nota": "Alcance acotado al público del género."
+    }
+  ]
+}
