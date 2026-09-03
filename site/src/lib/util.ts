@@ -58,6 +58,7 @@ export const ESTADO_CHARTS: Record<string, string> = {
 };
 
 export const ERAS: Record<string, { nombre: string; rango: string; orden: number }> = {
+  origenes: { nombre: 'Los orígenes', rango: '1963–1965', orden: 0 },
   clasica: { nombre: 'Era clásica', rango: '1966–1980', orden: 1 },
   siguiente: { nombre: 'La continuación', rango: '1981–1999', orden: 2 },
   moderna: { nombre: 'Era moderna', rango: '2000–hoy', orden: 3 },

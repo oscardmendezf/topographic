@@ -39,6 +39,8 @@ RE_ART_CONT = re.compile(
 
 
 def era_de(anio: int) -> str:
+    if anio <= 1965:
+        return "origenes"
     if anio <= 1980:
         return "clasica"
     if anio <= 1999:

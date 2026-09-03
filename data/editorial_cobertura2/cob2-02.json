@@ -1,0 +1,334 @@
+{
+ "albumes": [
+  {
+   "album_slug": "beatles-please-please-me",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "El punto de partida documental: beat de club grabado casi en vivo en el estudio, mitad covers y mitad composiciones propias. Nada progresivo todavía, pero acá arranca la carrera que legitimó el álbum como formato.",
+   "estrellas_critica": 4,
+   "critica_nota": "Muy valorado como debut; se le perdona la crudeza.",
+   "estrellas_comercial": 5,
+   "comercial_nota": "Éxito inmediato y sostenido en el Reino Unido."
+  },
+  {
+   "album_slug": "beatles-with-the-beatles",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Consolidación del modelo del debut con mejor sonido y una tapa que ya piensa el disco como objeto. El repertorio propio gana terreno sobre los covers de rhythm and blues.",
+   "estrellas_critica": 4,
+   "critica_nota": "Bien considerado; visto como refinamiento más que salto.",
+   "estrellas_comercial": 5,
+   "comercial_nota": "Fenómeno de ventas en plena Beatlemanía."
+  },
+  {
+   "album_slug": "beatles-introducing-the-beatles",
+   "excluir": true,
+   "motivo": "Versión estadounidense de Vee-Jay que reconfigura Please Please Me; el canon es la edición UK.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "beatles-meet-the-beatles",
+   "excluir": true,
+   "motivo": "Reconfiguración de Capitol para EE.UU. que duplica With The Beatles; el canon es la edición UK.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "beatles-twist-and-shout",
+   "excluir": true,
+   "motivo": "Reconfiguración canadiense de Capitol que duplica material de los álbumes británicos canónicos.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "beatles-the-beatles-second-album",
+   "excluir": true,
+   "motivo": "Compilado estadounidense de Capitol armado con sobrantes de las ediciones UK; duplica el canon británico.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "beatles-the-beatles-long-tall-sally",
+   "excluir": true,
+   "motivo": "Reconfiguración canadiense de Capitol que duplica material británico ya cubierto por el canon UK.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "beatles-a-hard-days-night",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Soundtrack de estudio propio y primer álbum íntegramente compuesto por Lennon-McCartney. El acorde inicial del tema título y el dominio de la forma canción muestran una ambición que excede el encargo cinematográfico.",
+   "estrellas_critica": 5,
+   "critica_nota": "Consenso amplio: la cima de su primera etapa.",
+   "estrellas_comercial": 5,
+   "comercial_nota": "Arrasó a ambos lados del Atlántico."
+  },
+  {
+   "album_slug": "beatles-something-new",
+   "excluir": true,
+   "motivo": "Compilado estadounidense de Capitol que recicla A Hard Day's Night y material suelto; duplica el canon UK.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "beatles-beatles-for-sale",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Disco de cansancio: vuelven los covers para rellenar y aparece un tono amargo, casi country, en las canciones propias. Menor dentro del canon, pero el desgaste que retrata explica el salto al estudio que vino después.",
+   "estrellas_critica": 3,
+   "critica_nota": "Visto como el eslabón más débil del canon británico.",
+   "estrellas_comercial": 5,
+   "comercial_nota": "Vendió como todo lo suyo en la época."
+  },
+  {
+   "album_slug": "beatles-beatles-65",
+   "excluir": true,
+   "motivo": "Reconfiguración de Capitol para EE.UU. que duplica Beatles for Sale; el canon es la edición UK.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "beatles-beatles-vi",
+   "excluir": true,
+   "motivo": "Compilado estadounidense de Capitol armado con sobrantes de las ediciones británicas canónicas.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "beatles-help",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Segundo soundtrack de estudio propio, con «Yesterday» como primera intromisión seria de arreglos de cámara en el pop del grupo. La cara fílmica es pareja; la otra mitad anticipa la introspección de Rubber Soul.",
+   "estrellas_critica": 4,
+   "critica_nota": "Bien valorado; algo eclipsado por lo que siguió.",
+   "estrellas_comercial": 5,
+   "comercial_nota": "Otro éxito masivo apoyado en la película."
+  },
+  {
+   "album_slug": "beatles-rubber-soul",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "El primer álbum de los Beatles pensado como obra unitaria: sitar, fuzz y letras adultas en un pop que ya no mira al single. Para el atlas es el disco donde la canción de tres minutos empieza a admitir ideas ajenas al beat.",
+   "estrellas_critica": 5,
+   "critica_nota": "Consenso sin fisuras; fijo en listas retrospectivas.",
+   "estrellas_comercial": 5,
+   "comercial_nota": "Éxito rotundo e inmediato."
+  },
+  {
+   "album_slug": "beatles-yellow-submarine",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Soundtrack de estudio propio pero de compromiso: cuatro canciones nuevas —«Hey Bulldog» a la cabeza— y una cara entera del score orquestal de George Martin. El disco menor del catálogo, sostenido por su condición de rareza psicodélica.",
+   "estrellas_critica": 2,
+   "critica_nota": "Considerado unánimemente el punto bajo de la discografía.",
+   "estrellas_comercial": 4,
+   "comercial_nota": "Vendió bien por inercia de la marca."
+  },
+  {
+   "album_slug": "beatles-the-beatles-collection-volume-8-yellow-submarine",
+   "excluir": true,
+   "motivo": "Reedición dentro de una serie coleccionista; duplica el álbum de 1969 ya fichado.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "kinks-kinks",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Debut británico canónico: el riff distorsionado de «You Really Got Me» rodeado de covers de rhythm and blues cumplidores. Documento del punto cero garagero desde el que Ray Davies iba a alejarse disco a disco.",
+   "estrellas_critica": 3,
+   "critica_nota": "Valorado por el single fundacional; el resto, relleno de época.",
+   "estrellas_comercial": 4,
+   "comercial_nota": "El éxito del single arrastró al álbum."
+  },
+  {
+   "album_slug": "kinks-kinkssize",
+   "excluir": true,
+   "motivo": "Compilado estadounidense de Reprise que reconfigura singles y material británico; el canon es la edición UK.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "kinks-kinda-kinks",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Grabado a las apuradas entre giras y suena a eso, pero «Tired of Waiting for You» y las baladas de Davies muestran que el compositor de viñetas ya estaba ahí, esperando tiempo de estudio.",
+   "estrellas_critica": 3,
+   "critica_nota": "Estimado con reservas; producción apurada reconocida por todos.",
+   "estrellas_comercial": 3,
+   "comercial_nota": "Desempeño correcto, por debajo de sus singles."
+  },
+  {
+   "album_slug": "kinks-kinkdom",
+   "excluir": true,
+   "motivo": "Compilado estadounidense de Reprise sin equivalente británico; duplica material del canon UK.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "kinks-the-kink-kontroversy",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "La bisagra: todavía hay riffs de escuela «You Really Got Me», pero «Where Have All the Good Times Gone» y el tono desencantado general anuncian al cronista de Face to Face. Último disco de los Kinks primitivos.",
+   "estrellas_critica": 4,
+   "critica_nota": "Revalorizado como transición necesaria hacia la etapa dorada.",
+   "estrellas_comercial": 3,
+   "comercial_nota": "Resultado discreto frente a la beatlemanía circundante."
+  },
+  {
+   "album_slug": "kinks-percy",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Soundtrack de estudio propio para una comedia británica menor: canciones nuevas de Davies —«God's Children» merece rescate— entre instrumentales de oficio. Pie de página simpático de su mejor época, no más que eso.",
+   "estrellas_critica": 2,
+   "critica_nota": "Recibido con indiferencia; rescates puntuales entre fans.",
+   "estrellas_comercial": 1,
+   "comercial_nota": "Pasó inadvertido incluso para el público del grupo."
+  },
+  {
+   "album_slug": "klaus-schulze-body-love",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Soundtrack de estudio propio para el cine erótico de Lasse Braun, resuelto con el lenguaje secuenciado de su mejor década: el encargo era carnal, el resultado es puro Schulze flotante. Que funcione desligado de la película dice todo.",
+   "estrellas_critica": 4,
+   "critica_nota": "Apreciado como pieza plena de su etapa dorada.",
+   "estrellas_comercial": 1,
+   "comercial_nota": "Circulación de culto, como casi todo su catálogo."
+  },
+  {
+   "album_slug": "klaus-schulze-body-love-volume-2",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Segunda entrega del mismo encargo, con material sobrante y nuevo del proyecto. Menos citada que la primera pero coherente con el Schulze de 1977, que rendía incluso en tareas alimenticias.",
+   "estrellas_critica": 3,
+   "critica_nota": "Bien visto, a la sombra del primer volumen.",
+   "estrellas_comercial": 1,
+   "comercial_nota": "Sin presencia comercial registrable."
+  },
+  {
+   "album_slug": "klaus-schulze-angst",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Soundtrack de estudio propio para el film de Gerald Kargl: Schulze digital de los ochenta al servicio de un clima opresivo. Más funcional que sus discos de autor, y por eso mismo de sus trabajos ochenteros más enfocados.",
+   "estrellas_critica": 3,
+   "critica_nota": "Valorado dentro de su desigual etapa digital.",
+   "estrellas_comercial": 1,
+   "comercial_nota": "Culto ligado al prestigio posterior de la película."
+  },
+  {
+   "album_slug": "klaus-schulze-le-moulin-de-daudet",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Música para el film de Samy Pavel: un Schulze inusualmente melódico y de texturas casi orquestales dentro de su producción noventera. Rareza menor pero genuina, no reciclaje.",
+   "estrellas_critica": 3,
+   "critica_nota": "Apreciado por seguidores como rareza atmosférica lograda.",
+   "estrellas_comercial": 1,
+   "comercial_nota": "Edición de circulación mínima."
+  },
+  {
+   "album_slug": "klaus-schulze-next-of-kin-music-from-the-motion-picture-soundtrack",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Primera edición del score que Schulze grabó para el thriller australiano de culto de comienzos de los ochenta: material de archivo inédito, no reedición. Documento sintético de época más que obra mayor.",
+   "estrellas_critica": null,
+   "critica_nota": "Sin consenso registrable; interés de archivo.",
+   "estrellas_comercial": 1,
+   "comercial_nota": "Lanzamiento de nicho para coleccionistas."
+  },
+  {
+   "album_slug": "who-my-generation",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Debut británico canónico: el himno título, feedback como recurso expresivo y «The Ox» como instrumental de pura violencia. Nada de ópera todavía, pero la ambición sónica de Townshend ya distingue a los Who del beat contemporáneo.",
+   "estrellas_critica": 5,
+   "critica_nota": "Canónico; debut fundacional del rock británico duro.",
+   "estrellas_comercial": 4,
+   "comercial_nota": "Buen desempeño británico apoyado en los singles."
+  },
+  {
+   "album_slug": "who-tommy",
+   "excluir": true,
+   "motivo": "Soundtrack de la película de 1975 que recicla la ópera rock de 1969, ya fichada; regrabaciones con elenco invitado.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "who-tommy-original-broadway-cast-recording",
+   "excluir": true,
+   "motivo": "Cast recording del montaje de Broadway; no es un álbum de estudio del grupo y duplica la obra de 1969.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "mo-the-killing-fields-original-film-soundtrack",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Soundtrack de estudio propio y el trabajo más sombrío de Oldfield: texturas de Fairlight y disonancias al servicio del film de Joffé, lejos de toda melodía celta amable. Rareza seria dentro de un catálogo que rara vez incomoda.",
+   "estrellas_critica": 3,
+   "critica_nota": "Respetado como experimento oscuro, periférico en su obra.",
+   "estrellas_comercial": 2,
+   "comercial_nota": "Repercusión modesta, atada a la película."
+  },
+  {
+   "album_slug": "mo-the-space-movie",
+   "excluir": true,
+   "motivo": "Versión parcial del soundtrack del documental de 1979, superada y duplicada por la edición íntegra de 2019.",
+   "analisis": null,
+   "estrellas_critica": null,
+   "critica_nota": null,
+   "estrellas_comercial": null,
+   "comercial_nota": null
+  },
+  {
+   "album_slug": "mo-the-space-movie-the-full-original-unreleased-103-minute-soundtrack",
+   "excluir": false,
+   "motivo": null,
+   "analisis": "Edición íntegra y tardía de la música que Oldfield armó para el documental espacial de Tony Palmer: en buena parte variantes y mezclas alternativas de su obra setentera, con pasajes inéditos. Documento de archivo para completistas, no obra nueva.",
+   "estrellas_critica": null,
+   "critica_nota": "Sin consenso registrable; valoración de archivo.",
+   "estrellas_comercial": 1,
+   "comercial_nota": "Edición limitada para el círculo fiel."
+  }
+ ]
+}

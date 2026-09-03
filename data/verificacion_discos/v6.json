@@ -1,0 +1,149 @@
+{
+ "artistas": [
+  {
+   "slug": "pfm",
+   "fichas": 20,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "banco",
+   "fichas": 22,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "le-orme",
+   "fichas": 20,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "area",
+   "fichas": 7,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "museo-rosenbach",
+   "fichas": 3,
+   "faltantes": [
+    {
+     "titulo": "Barbarica",
+     "anio": 2013,
+     "nota": "Álbum de estudio oficial de la reunión del grupo (Immaginifica/Aereostella, 2013), con Stefano 'Lupo' Galifi en voz; material enteramente nuevo, tercer álbum de estudio del catálogo."
+    }
+   ],
+   "exclusiones_dudosas": [],
+   "ok": false
+  },
+  {
+   "slug": "il-balletto-di-bronzo",
+   "fichas": 4,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "osanna",
+   "fichas": 8,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "new-trolls",
+   "fichas": 9,
+   "faltantes": [
+    {
+     "titulo": "New Trolls",
+     "anio": 1970,
+     "nota": "Segundo álbum de estudio homónimo (Cetra, 1970), distinto del homónimo de 1979 ya fichado; pieza canónica de la etapa beat-prog temprana del grupo."
+    },
+    {
+     "titulo": "Faccia di cane",
+     "anio": 1985,
+     "nota": "Álbum de estudio oficial (CGD, 1985) que contiene el éxito homónimo; parte del catálogo firmado como New Trolls en los ochenta."
+    },
+    {
+     "titulo": "Concerto grosso: The Seven Seasons",
+     "anio": 2007,
+     "nota": "Tercera entrega de estudio de la serie Concerto grosso, firmada por New Trolls (reunión De Scalzi/Di Palo) con orquesta; álbum de estudio oficial de 2007."
+    }
+   ],
+   "exclusiones_dudosas": [],
+   "ok": false
+  },
+  {
+   "slug": "can",
+   "fichas": 11,
+   "faltantes": [
+    {
+     "titulo": "Soundtracks",
+     "anio": 1970,
+     "nota": "Segundo álbum oficial del grupo: grabaciones de estudio propias hechas para películas (incluye Mother Sky y She Brings the Rain, y marca la transición Mooney/Suzuki); figura como álbum en el catálogo oficial, no es recopilación de archivo."
+    }
+   ],
+   "exclusiones_dudosas": [],
+   "ok": false
+  },
+  {
+   "slug": "tangerine-dream",
+   "fichas": 95,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "klaus-schulze",
+   "fichas": 50,
+   "faltantes": [
+    {
+     "titulo": "Dosburg Online",
+     "anio": 1997,
+     "nota": "Álbum de estudio oficial en solitario (1997), último del ciclo previo a las cajas Contemporary Works; parte del catálogo regular de Schulze."
+    }
+   ],
+   "exclusiones_dudosas": [],
+   "ok": false
+  },
+  {
+   "slug": "faust",
+   "fichas": 23,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "neu",
+   "fichas": 4,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "amon-duul-ii",
+   "fichas": 18,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "kraftwerk",
+   "fichas": 10,
+   "faltantes": [
+    {
+     "titulo": "The Mix",
+     "anio": 1991,
+     "nota": "Álbum de estudio oficial: regrabaciones digitales íntegras de su repertorio, incluido por la propia banda entre los ocho títulos canónicos de Der Katalog / The Catalogue; mismo criterio con que el atlas ficha Darwin (1991) de Banco o Neu! '86."
+    }
+   ],
+   "exclusiones_dudosas": [],
+   "ok": false
+  }
+ ]
+}

@@ -16,7 +16,8 @@ from migrate_editorial import ATLAS_PATH, CONTENT, write_md
 from merge_editorial_f2 import RE_CHART
 
 ROOT = Path(__file__).resolve().parent.parent
-DIR = ROOT / "data" / "editorial_cobertura"
+SUF = sys.argv[1] if len(sys.argv) > 1 else ""
+DIR = ROOT / "data" / f"editorial_cobertura{SUF}"
 EXC_PATH = ROOT / "data" / "albumes_excluidos.json"
 
 
@@ -24,7 +25,7 @@ def main() -> None:
     atlas = json.loads(ATLAS_PATH.read_text(encoding="utf-8"))
     nombres = {a["slug"]: a["nombre"] for a in atlas["nodos"]["artistas"]}
     alb_atlas = {a["mbid"]: a for a in atlas["nodos"]["albumes"]}
-    manifest = json.loads((ROOT / "data" / "tareas_cobertura.json").read_text(encoding="utf-8"))
+    manifest = json.loads((ROOT / "data" / f"tareas_cobertura{SUF}.json").read_text(encoding="utf-8"))
     info = {}
     for g in manifest["grupos"]:
         for u in g["unidades"]:

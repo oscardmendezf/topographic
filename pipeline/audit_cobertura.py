@@ -43,7 +43,11 @@ def main() -> None:
 
     huecos_nucleo, resumen = [], {"nucleo": [0, 0], "npr": [0, 0], "escena": [0, 0]}
     for x in atlas["nodos"]["albumes"]:
-        if not x["es_estudio"] or not x["primer_lanzamiento"] or x["primer_lanzamiento"][:4] < "1966":
+        # elegible: Album de estudio puro, o soundtrack de estudio propio
+        sec = set(x.get("tipos_secundarios", []))
+        if x.get("tipo_primario") != "Album" or (sec and sec != {"Soundtrack"}):
+            continue
+        if not x["primer_lanzamiento"]:
             continue
         s = x["artist_slug"]
         nivel = "npr" if s in NPR else ("escena" if seed[s].get("fase") else "nucleo")

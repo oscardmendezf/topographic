@@ -34,8 +34,12 @@ def main() -> None:
             rgids_ficha.add(m.group(1))
 
     pendientes = {}
+    SUF = sys.argv[1] if len(sys.argv) > 1 else ""
     for x in atlas["nodos"]["albumes"]:
-        if not x["es_estudio"] or not x["primer_lanzamiento"] or x["primer_lanzamiento"][:4] < "1966":
+        sec = set(x.get("tipos_secundarios", []))
+        if x.get("tipo_primario") != "Album" or (sec and sec != {"Soundtrack"}):
+            continue
+        if not x["primer_lanzamiento"]:
             continue
         s = x["artist_slug"]
         slug = f"{s}-{slugify(x['titulo'])}"
@@ -69,9 +73,9 @@ def main() -> None:
     if actual:
         tareas.append(actual)
 
-    grupos = [{"id": f"cob-{i+1:02d}", "unidades": t, "total": sum(len(u["albumes"]) for u in t)}
+    grupos = [{"id": f"cob{SUF}-{i+1:02d}", "unidades": t, "total": sum(len(u["albumes"]) for u in t)}
               for i, t in enumerate(tareas)]
-    (ROOT / "data" / "tareas_cobertura.json").write_text(
+    (ROOT / "data" / f"tareas_cobertura{SUF}.json").write_text(
         json.dumps({"grupos": grupos}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
     total = sum(g["total"] for g in grupos)

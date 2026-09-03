@@ -5,7 +5,7 @@ import { u, COLORES, ERAS, estrellas, tapa } from '../../lib/util';
 import atlas from '../../../../data/atlas.json';
 
 export async function getStaticPaths() {
-  return ['clasica', 'siguiente', 'moderna'].map((era) => ({ params: { era } }));
+  return ['origenes', 'clasica', 'siguiente', 'moderna'].map((era) => ({ params: { era } }));
 }
 
 const { era } = Astro.params;

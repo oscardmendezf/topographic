@@ -1,0 +1,743 @@
+{
+ "grupos": [
+  {
+   "id": "cob2-01",
+   "unidades": [
+    {
+     "unidad": "tangerine-dream",
+     "artista_slug": "tangerine-dream",
+     "artista": "Tangerine Dream",
+     "albumes": [
+      {
+       "album_slug": "tangerine-dream-sorcerer",
+       "titulo": "Sorcerer",
+       "anio": 1977,
+       "era": "clasica",
+       "mbid": "ef37d57f-b38f-3d01-917e-6f38e10ca575"
+      },
+      {
+       "album_slug": "tangerine-dream-thief",
+       "titulo": "Thief",
+       "anio": 1981,
+       "era": "siguiente",
+       "mbid": "747e52af-5d7d-3dcb-9e26-8b5b1b49c1c1"
+      },
+      {
+       "album_slug": "tangerine-dream-wavelength-original-soundtrack",
+       "titulo": "Wavelength: Original Soundtrack",
+       "anio": 1983,
+       "era": "siguiente",
+       "mbid": "5fe28f03-0b04-3f45-9932-8dc2aad7bcfa"
+      },
+      {
+       "album_slug": "tangerine-dream-firestarter",
+       "titulo": "Firestarter",
+       "anio": 1984,
+       "era": "siguiente",
+       "mbid": "4ed1565d-c513-3f6a-893f-2c1c2d263f18"
+      },
+      {
+       "album_slug": "tangerine-dream-flashpoint",
+       "titulo": "Flashpoint",
+       "anio": 1984,
+       "era": "siguiente",
+       "mbid": "5f62a7e3-779c-33c5-8614-235a7b957f23"
+      },
+      {
+       "album_slug": "tangerine-dream-heartbreakers",
+       "titulo": "Heartbreakers",
+       "anio": 1985,
+       "era": "siguiente",
+       "mbid": "163fa95d-f349-3d45-9a2a-c5aa58228813"
+      },
+      {
+       "album_slug": "tangerine-dream-legend-music-from-the-motion-picture-soundtrack",
+       "titulo": "Legend: Music From the Motion Picture Soundtrack",
+       "anio": 1986,
+       "era": "siguiente",
+       "mbid": "6b684482-96dc-324a-a1d5-d78deb58f41e"
+      },
+      {
+       "album_slug": "tangerine-dream-near-dark",
+       "titulo": "Near Dark",
+       "anio": 1987,
+       "era": "siguiente",
+       "mbid": "831c6c4f-f4cd-3c73-a762-4f7a215b09f5"
+      },
+      {
+       "album_slug": "tangerine-dream-shy-people",
+       "titulo": "Shy People",
+       "anio": 1987,
+       "era": "siguiente",
+       "mbid": "cc88462c-5ce8-320b-8d08-1177d9ca8115"
+      },
+      {
+       "album_slug": "tangerine-dream-three-oclock-high",
+       "titulo": "Three O’Clock High",
+       "anio": 1987,
+       "era": "siguiente",
+       "mbid": "2e312080-b9a6-3591-ada7-f4fa617278db"
+      },
+      {
+       "album_slug": "tangerine-dream-catch-me-if-you-can",
+       "titulo": "Catch Me… If You Can",
+       "anio": 1989,
+       "era": "siguiente",
+       "mbid": "99341a24-ff66-3f20-9792-4bb7a79638b4"
+      },
+      {
+       "album_slug": "tangerine-dream-miracle-mile",
+       "titulo": "Miracle Mile",
+       "anio": 1989,
+       "era": "siguiente",
+       "mbid": "91d170a5-7b00-3d69-bcb8-cef0496a9b8e"
+      },
+      {
+       "album_slug": "tangerine-dream-destination-berlin",
+       "titulo": "Destination Berlin",
+       "anio": 1989,
+       "era": "siguiente",
+       "mbid": "f9554da9-c180-336e-81fb-e26993001e87"
+      },
+      {
+       "album_slug": "tangerine-dream-mandala",
+       "titulo": "Mandala",
+       "anio": 1990,
+       "era": "siguiente",
+       "mbid": "407583a6-5d1e-3c65-931c-f0aa7c9fa950"
+      },
+      {
+       "album_slug": "tangerine-dream-dead-solid-perfect",
+       "titulo": "Dead Solid Perfect",
+       "anio": 1991,
+       "era": "siguiente",
+       "mbid": "7f15828c-76c0-3603-8900-d9c55bc31564"
+      },
+      {
+       "album_slug": "tangerine-dream-laffaire-wallraff-the-man-inside",
+       "titulo": "L’Affaire Wallraff / The Man Inside",
+       "anio": 1991,
+       "era": "siguiente",
+       "mbid": "c27a3979-3e96-39e4-b4e1-45b220a0886a"
+      },
+      {
+       "album_slug": "tangerine-dream-canyon-dreams",
+       "titulo": "Canyon Dreams",
+       "anio": 1991,
+       "era": "siguiente",
+       "mbid": "cbd54f4f-e42b-38be-9e24-7aceb5087fc7"
+      },
+      {
+       "album_slug": "tangerine-dream-deadly-care",
+       "titulo": "Deadly Care",
+       "anio": 1992,
+       "era": "siguiente",
+       "mbid": "33200ca6-68d5-3e4f-bf19-ad01b032671a"
+      },
+      {
+       "album_slug": "tangerine-dream-the-switch",
+       "titulo": "The Switch",
+       "anio": 1992,
+       "era": "siguiente",
+       "mbid": "582237e9-7e85-3f3d-9dba-6312fd88c8ef"
+      },
+      {
+       "album_slug": "tangerine-dream-the-park-is-mine",
+       "titulo": "The Park Is Mine",
+       "anio": 1992,
+       "era": "siguiente",
+       "mbid": "65b053d0-98fa-3c4d-9949-b857f617c2fb"
+      },
+      {
+       "album_slug": "tangerine-dream-the-keep",
+       "titulo": "The Keep",
+       "anio": 1994,
+       "era": "siguiente",
+       "mbid": "1589f0da-fe70-3b40-9d34-0426863e8516"
+      },
+      {
+       "album_slug": "tangerine-dream-zoning",
+       "titulo": "Zoning",
+       "anio": 1996,
+       "era": "siguiente",
+       "mbid": "7c96efde-4838-33b1-a155-42901b8d5963"
+      },
+      {
+       "album_slug": "tangerine-dream-oasis",
+       "titulo": "Oasis",
+       "anio": 1997,
+       "era": "siguiente",
+       "mbid": "9b541fb7-b824-3c77-b091-b6c9e16cfd9a"
+      },
+      {
+       "album_slug": "tangerine-dream-luminous-visions",
+       "titulo": "Luminous Visions",
+       "anio": 1998,
+       "era": "siguiente",
+       "mbid": "850a9bd0-4231-3103-b392-60e949a03353"
+      },
+      {
+       "album_slug": "tangerine-dream-transsiberia",
+       "titulo": "Transsiberia",
+       "anio": 1998,
+       "era": "siguiente",
+       "mbid": "55cba430-3b26-3b6d-affe-e0c3ec65caed"
+      },
+      {
+       "album_slug": "tangerine-dream-what-a-blast-architecture-in-motion",
+       "titulo": "What a Blast: Architecture in Motion",
+       "anio": 1999,
+       "era": "siguiente",
+       "mbid": "b6d7e942-a775-3081-a4b5-391ad2b001bb"
+      },
+      {
+       "album_slug": "tangerine-dream-great-wall-of-china",
+       "titulo": "Great Wall of China",
+       "anio": 2000,
+       "era": "moderna",
+       "mbid": "ad4ccdce-ac4b-3ed5-96cb-975b8cf66906"
+      },
+      {
+       "album_slug": "tangerine-dream-mota-atma",
+       "titulo": "Mota Atma",
+       "anio": 2003,
+       "era": "moderna",
+       "mbid": "4c321671-dd02-3cf5-aa12-d884ab3eb5f3"
+      },
+      {
+       "album_slug": "tangerine-dream-1982-tangerine-tree-volume-54-the-keep",
+       "titulo": "1982: Tangerine Tree, Volume 54: The Keep",
+       "anio": 2004,
+       "era": "moderna",
+       "mbid": "95fe6620-d19f-3742-b6af-3239834b15e0"
+      },
+      {
+       "album_slug": "tangerine-dream-the-soldier",
+       "titulo": "The Soldier",
+       "anio": 2014,
+       "era": "moderna",
+       "mbid": "f46f2ae9-be1d-41fc-a47a-d898d8b7491c"
+      },
+      {
+       "album_slug": "tangerine-dream-gta5-the-cinematographic-score",
+       "titulo": "GTA5: The Cinematographic Score",
+       "anio": 2014,
+       "era": "moderna",
+       "mbid": "e2e7b6c0-334f-407c-bf00-104e66b66bf8"
+      },
+      {
+       "album_slug": "tangerine-dream-metropolis",
+       "titulo": "Metropolis",
+       "anio": 2015,
+       "era": "moderna",
+       "mbid": "cd6afd06-ea52-4b38-8138-7ea4d4587603"
+      },
+      {
+       "album_slug": "tangerine-dream-strange-behavior-original-soundtrack",
+       "titulo": "Strange Behavior: Original Soundtrack",
+       "anio": 2022,
+       "era": "moderna",
+       "mbid": "f1f71434-ab0f-4fba-968b-b7696cb49f68"
+      }
+     ]
+    }
+   ],
+   "total": 33
+  },
+  {
+   "id": "cob2-02",
+   "unidades": [
+    {
+     "unidad": "beatles",
+     "artista_slug": "beatles",
+     "artista": "The Beatles",
+     "albumes": [
+      {
+       "album_slug": "beatles-please-please-me",
+       "titulo": "Please Please Me",
+       "anio": 1963,
+       "era": "origenes",
+       "mbid": "de208292-8db5-3aed-a14a-b37a84d8c521"
+      },
+      {
+       "album_slug": "beatles-with-the-beatles",
+       "titulo": "With The Beatles",
+       "anio": 1963,
+       "era": "origenes",
+       "mbid": "a63dc65f-09f2-359b-a10e-648f00ecd96c"
+      },
+      {
+       "album_slug": "beatles-introducing-the-beatles",
+       "titulo": "Introducing… The Beatles",
+       "anio": 1964,
+       "era": "origenes",
+       "mbid": "653895d1-b592-3758-8bb1-8b9ba2bd6cb0"
+      },
+      {
+       "album_slug": "beatles-meet-the-beatles",
+       "titulo": "Meet The Beatles!",
+       "anio": 1964,
+       "era": "origenes",
+       "mbid": "c2c696fc-6beb-3dfb-bb15-7bb021ebeb5d"
+      },
+      {
+       "album_slug": "beatles-twist-and-shout",
+       "titulo": "Twist and Shout",
+       "anio": 1964,
+       "era": "origenes",
+       "mbid": "31770e0a-e537-376d-a7c0-48e507f3105e"
+      },
+      {
+       "album_slug": "beatles-the-beatles-second-album",
+       "titulo": "The Beatles’ Second Album",
+       "anio": 1964,
+       "era": "origenes",
+       "mbid": "387bc6cc-ac60-365f-819b-fbc78c486065"
+      },
+      {
+       "album_slug": "beatles-the-beatles-long-tall-sally",
+       "titulo": "The Beatles’ Long Tall Sally",
+       "anio": 1964,
+       "era": "origenes",
+       "mbid": "d0c93a59-fc4d-3d76-ac38-9c1d11071802"
+      },
+      {
+       "album_slug": "beatles-a-hard-days-night",
+       "titulo": "A Hard Day’s Night",
+       "anio": 1964,
+       "era": "origenes",
+       "mbid": "06281c4d-112d-33b0-a25b-df63b420eae7"
+      },
+      {
+       "album_slug": "beatles-something-new",
+       "titulo": "Something New",
+       "anio": 1964,
+       "era": "origenes",
+       "mbid": "451e7aa4-a782-3979-9aa0-98c03a246fe9"
+      },
+      {
+       "album_slug": "beatles-beatles-for-sale",
+       "titulo": "Beatles for Sale",
+       "anio": 1964,
+       "era": "origenes",
+       "mbid": "f50a3b6f-27f0-3832-bd3f-3568dc557d95"
+      },
+      {
+       "album_slug": "beatles-beatles-65",
+       "titulo": "Beatles ’65",
+       "anio": 1964,
+       "era": "origenes",
+       "mbid": "2d111aea-50f8-33cc-ab63-780bc57068c0"
+      },
+      {
+       "album_slug": "beatles-beatles-vi",
+       "titulo": "Beatles VI",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "3d402374-9538-3c09-8566-2850fa3fce3f"
+      },
+      {
+       "album_slug": "beatles-help",
+       "titulo": "Help!",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "0d44e1cb-c6e0-3453-8b68-4d2082f05421"
+      },
+      {
+       "album_slug": "beatles-rubber-soul",
+       "titulo": "Rubber Soul",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "dca03435-8adb-30a5-ba82-5a162267ff38"
+      },
+      {
+       "album_slug": "beatles-yellow-submarine",
+       "titulo": "Yellow Submarine",
+       "anio": 1969,
+       "era": "clasica",
+       "mbid": "8d5f4b07-7e2e-4ffa-ac90-e4772c4d8525"
+      },
+      {
+       "album_slug": "beatles-the-beatles-collection-volume-8-yellow-submarine",
+       "titulo": "The Beatles Collection, Volume 8: Yellow Submarine",
+       "anio": 1994,
+       "era": "siguiente",
+       "mbid": "be328986-51de-453c-b7b6-9f6ec99573df"
+      }
+     ]
+    },
+    {
+     "unidad": "kinks",
+     "artista_slug": "kinks",
+     "artista": "The Kinks",
+     "albumes": [
+      {
+       "album_slug": "kinks-kinks",
+       "titulo": "Kinks",
+       "anio": 1964,
+       "era": "origenes",
+       "mbid": "874449ed-f27e-4e1b-923e-9f1aaef4cc06"
+      },
+      {
+       "album_slug": "kinks-kinkssize",
+       "titulo": "Kinks‐Size",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "b2ef1eeb-d1f1-3c0e-a1d0-971b4e1c64e7"
+      },
+      {
+       "album_slug": "kinks-kinda-kinks",
+       "titulo": "Kinda Kinks",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "f0aeab3c-4084-33c6-a448-e30c6caf0fe0"
+      },
+      {
+       "album_slug": "kinks-kinkdom",
+       "titulo": "Kinkdom",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "6dc88c11-0184-3f4c-82c9-8203c84ef03c"
+      },
+      {
+       "album_slug": "kinks-the-kink-kontroversy",
+       "titulo": "The Kink Kontroversy",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "9155df1e-e8be-3bb7-a0a1-af86c9057bb8"
+      },
+      {
+       "album_slug": "kinks-percy",
+       "titulo": "“Percy”",
+       "anio": 1971,
+       "era": "clasica",
+       "mbid": "53e61b7e-8aaa-37a0-a232-344c5b8cdf5e"
+      }
+     ]
+    },
+    {
+     "unidad": "klaus-schulze",
+     "artista_slug": "klaus-schulze",
+     "artista": "Klaus Schulze",
+     "albumes": [
+      {
+       "album_slug": "klaus-schulze-body-love",
+       "titulo": "Body Love",
+       "anio": 1977,
+       "era": "clasica",
+       "mbid": "fb8fc15b-9b80-36ee-9e04-415a3fd990a5"
+      },
+      {
+       "album_slug": "klaus-schulze-body-love-volume-2",
+       "titulo": "Body Love, Volume 2",
+       "anio": 1977,
+       "era": "clasica",
+       "mbid": "f23353ff-a949-3e0d-8645-5c480179743c"
+      },
+      {
+       "album_slug": "klaus-schulze-angst",
+       "titulo": "Angst",
+       "anio": 1984,
+       "era": "siguiente",
+       "mbid": "54301d00-314c-3995-acda-494e42d64d9d"
+      },
+      {
+       "album_slug": "klaus-schulze-le-moulin-de-daudet",
+       "titulo": "Le Moulin de Daudet",
+       "anio": 1994,
+       "era": "siguiente",
+       "mbid": "7fed9ff3-46ba-3aeb-aa80-1734e82c2eb3"
+      },
+      {
+       "album_slug": "klaus-schulze-next-of-kin-music-from-the-motion-picture-soundtrack",
+       "titulo": "Next of Kin: Music From the Motion Picture Soundtrack",
+       "anio": 2019,
+       "era": "moderna",
+       "mbid": "26a200dc-22d3-4de6-a70f-a805c72de8cd"
+      }
+     ]
+    },
+    {
+     "unidad": "who",
+     "artista_slug": "who",
+     "artista": "The Who",
+     "albumes": [
+      {
+       "album_slug": "who-my-generation",
+       "titulo": "My Generation",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "00c3da9f-309b-3f78-ba23-6a753fd6313d"
+      },
+      {
+       "album_slug": "who-tommy",
+       "titulo": "Tommy",
+       "anio": 1975,
+       "era": "clasica",
+       "mbid": "844c1dc4-2daf-4c08-982a-9f098e8dc3f2"
+      },
+      {
+       "album_slug": "who-tommy-original-broadway-cast-recording",
+       "titulo": "Tommy: Original Broadway Cast Recording",
+       "anio": 1993,
+       "era": "siguiente",
+       "mbid": "fd099f3b-34aa-335c-b6df-351240d3a9f5"
+      }
+     ]
+    },
+    {
+     "unidad": "mo",
+     "artista_slug": "mo",
+     "artista": "Mike Oldfield",
+     "albumes": [
+      {
+       "album_slug": "mo-the-killing-fields-original-film-soundtrack",
+       "titulo": "The Killing Fields: Original Film Soundtrack",
+       "anio": 1984,
+       "era": "siguiente",
+       "mbid": "775e8585-c703-356d-bcaf-be8cd3c89ad3"
+      },
+      {
+       "album_slug": "mo-the-space-movie",
+       "titulo": "The Space Movie",
+       "anio": 2015,
+       "era": "moderna",
+       "mbid": "a195ff80-c745-47c1-b5ba-c8971154d4e8"
+      },
+      {
+       "album_slug": "mo-the-space-movie-the-full-original-unreleased-103-minute-soundtrack",
+       "titulo": "The Space Movie (The Full Original Unreleased 103 Minute Soundtrack)",
+       "anio": 2019,
+       "era": "moderna",
+       "mbid": "cbba48c0-7ec5-4362-9f72-022f596f56e4"
+      }
+     ]
+    }
+   ],
+   "total": 33
+  },
+  {
+   "id": "cob2-03",
+   "unidades": [
+    {
+     "unidad": "ap",
+     "artista_slug": "ap",
+     "artista": "Anthony Phillips",
+     "albumes": [
+      {
+       "album_slug": "ap-travelogues-4-drama-and-documentary",
+       "titulo": "Travelogues 4: Drama and Documentary",
+       "anio": 1993,
+       "era": "siguiente",
+       "mbid": "d20f71bf-462f-43ac-9ce0-43163920fb12"
+      },
+      {
+       "album_slug": "ap-soundscapes",
+       "titulo": "Soundscapes",
+       "anio": 1996,
+       "era": "siguiente",
+       "mbid": "ed0da35c-9fd2-423d-8031-14eb94d2e235"
+      },
+      {
+       "album_slug": "ap-travelogues-7-return",
+       "titulo": "Travelogues 7: Return",
+       "anio": 2018,
+       "era": "moderna",
+       "mbid": "645ab940-69e5-4824-aa19-1b09b4f66b6e"
+      }
+     ]
+    },
+    {
+     "unidad": "pretty-things",
+     "artista_slug": "pretty-things",
+     "artista": "The Pretty Things",
+     "albumes": [
+      {
+       "album_slug": "pretty-things-the-pretty-things",
+       "titulo": "The Pretty Things",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "ae51716e-7bd2-31b9-80f9-a235b924468f"
+      },
+      {
+       "album_slug": "pretty-things-get-the-picture",
+       "titulo": "Get the Picture?",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "d3364626-3058-310f-a024-a17ed0fe9767"
+      }
+     ]
+    },
+    {
+     "unidad": "frank-zappa",
+     "artista_slug": "frank-zappa",
+     "artista": "Frank Zappa",
+     "albumes": [
+      {
+       "album_slug": "frank-zappa-200-motels",
+       "titulo": "200 Motels",
+       "anio": 1971,
+       "era": "clasica",
+       "mbid": "d4aa1daa-3398-36c1-9e2f-675faf9c01b0"
+      },
+      {
+       "album_slug": "frank-zappa-zappa-original-motion-picture-soundtrack",
+       "titulo": "Zappa Original Motion Picture Soundtrack",
+       "anio": 2020,
+       "era": "moderna",
+       "mbid": "469addb9-f642-4ac4-bd3e-7e2869f1e5f3"
+      }
+     ]
+    },
+    {
+     "unidad": "banco",
+     "artista_slug": "banco",
+     "artista": "Banco del Mutuo Soccorso",
+     "albumes": [
+      {
+       "album_slug": "banco-garofano-rosso",
+       "titulo": "Garofano rosso",
+       "anio": 1976,
+       "era": "clasica",
+       "mbid": "9a61dbf4-341a-3f3b-854f-4606cf2ac92a"
+      },
+      {
+       "album_slug": "banco-greggio-e-pericoloso",
+       "titulo": "Greggio e pericoloso",
+       "anio": 2022,
+       "era": "moderna",
+       "mbid": "5bb3d7a5-48a5-4423-9802-c5685c13af6b"
+      }
+     ]
+    },
+    {
+     "unidad": "mb",
+     "artista_slug": "mb",
+     "artista": "The Moody Blues",
+     "albumes": [
+      {
+       "album_slug": "mb-the-magnificent-moodies",
+       "titulo": "The Magnificent Moodies",
+       "anio": 1965,
+       "era": "origenes",
+       "mbid": "491078bc-a2df-3359-8133-479137a7948f"
+      }
+     ]
+    },
+    {
+     "unidad": "new-trolls",
+     "artista_slug": "new-trolls",
+     "artista": "New Trolls",
+     "albumes": [
+      {
+       "album_slug": "new-trolls-concerto-grosso-per-i-new-trolls",
+       "titulo": "Concerto grosso per i New Trolls",
+       "anio": 1971,
+       "era": "clasica",
+       "mbid": "bc95e83a-a13a-3a9a-bafa-6feffeb76558"
+      }
+     ]
+    },
+    {
+     "unidad": "gong",
+     "artista_slug": "gong",
+     "artista": "Gong",
+     "albumes": [
+      {
+       "album_slug": "gong-continental-circus",
+       "titulo": "Continental Circus",
+       "anio": 1971,
+       "era": "clasica",
+       "mbid": "5247be37-9e9b-3e46-a0f2-5da8f727e226"
+      }
+     ]
+    },
+    {
+     "unidad": "osanna",
+     "artista_slug": "osanna",
+     "artista": "Osanna",
+     "albumes": [
+      {
+       "album_slug": "osanna-milano-calibro-9",
+       "titulo": "Milano calibro 9",
+       "anio": 1972,
+       "era": "clasica",
+       "mbid": "defeb4df-2352-386e-9b37-9173e36b4693"
+      }
+     ]
+    },
+    {
+     "unidad": "los-jaivas",
+     "artista_slug": "los-jaivas",
+     "artista": "Los Jaivas",
+     "albumes": [
+      {
+       "album_slug": "los-jaivas-palomita-blanca",
+       "titulo": "Palomita blanca",
+       "anio": 1973,
+       "era": "clasica",
+       "mbid": "78757dc1-1602-3e74-8aaf-780b54bd0787"
+      }
+     ]
+    },
+    {
+     "unidad": "elo",
+     "artista_slug": "elo",
+     "artista": "Electric Light Orchestra",
+     "albumes": [
+      {
+       "album_slug": "elo-xanadu-from-the-original-motion-picture-soundtrack",
+       "titulo": "Xanadu: From the Original Motion Picture Soundtrack",
+       "anio": 1980,
+       "era": "clasica",
+       "mbid": "475a9771-d292-3eb9-9a67-b9aa5aa2e8c6"
+      }
+     ]
+    },
+    {
+     "unidad": "pf",
+     "artista_slug": "pf",
+     "artista": "Pink Floyd",
+     "albumes": [
+      {
+       "album_slug": "pf-the-wall-the-film-soundtrack",
+       "titulo": "The Wall: The Film Soundtrack",
+       "anio": 1982,
+       "era": "siguiente",
+       "mbid": "fa4a6db3-9859-323f-a58f-ec9af50758d8"
+      }
+     ]
+    },
+    {
+     "unidad": "robert-wyatt",
+     "artista_slug": "robert-wyatt",
+     "artista": "Robert Wyatt",
+     "albumes": [
+      {
+       "album_slug": "robert-wyatt-the-animals-film",
+       "titulo": "The Animals Film",
+       "anio": 1982,
+       "era": "siguiente",
+       "mbid": "57cc0100-5fb1-41ea-ae91-ce80537e928d"
+      }
+     ]
+    },
+    {
+     "unidad": "steve-hillage",
+     "artista_slug": "steve-hillage",
+     "artista": "Steve Hillage",
+     "albumes": [
+      {
+       "album_slug": "steve-hillage-l-enfant-lion",
+       "titulo": "L'enfant lion",
+       "anio": 2000,
+       "era": "moderna",
+       "mbid": "e8713715-3bc9-3ea5-9d25-244f3643d015"
+      }
+     ]
+    }
+   ],
+   "total": 18
+  }
+ ]
+}

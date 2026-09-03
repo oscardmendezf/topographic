@@ -1,0 +1,80 @@
+{
+ "artistas": [
+  {
+   "slug": "os-mutantes",
+   "fichas": 11,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "o-terco",
+   "fichas": 10,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "robert-wyatt",
+   "fichas": 12,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "matching-mole",
+   "fichas": 2,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "hatfield",
+   "fichas": 2,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "national-health",
+   "fichas": 3,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "gong",
+   "fichas": 18,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "egg",
+   "fichas": 3,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "steve-hillage",
+   "fichas": 12,
+   "faltantes": [],
+   "exclusiones_dudosas": [],
+   "ok": true
+  },
+  {
+   "slug": "kevin-ayers",
+   "fichas": 14,
+   "faltantes": [
+    {
+     "titulo": "Shooting at the Moon",
+     "anio": 1970,
+     "nota": "Segundo álbum de estudio oficial de Kevin Ayers (Harvest, 1970), grabado con The Whole World (Mike Oldfield, David Bedford, Lol Coxhill). Pieza canónica e indiscutida de su discografía de estudio; no figura entre las fichas ni en las exclusiones."
+    }
+   ],
+   "exclusiones_dudosas": [],
+   "ok": false
+  }
+ ]
+}
