@@ -124,6 +124,10 @@ def main() -> None:
             "estado": "musicbrainz",
         }})
 
+    # verificación por créditos de release (si build_credits.py ya corrió)
+    verif_path = ATLAS_PATH.parent / "red_verificacion.json"
+    verif = json.loads(verif_path.read_text(encoding="utf-8")) if verif_path.exists() else {}
+
     for i, e in enumerate(curadas):
         clave = (e["red"], e["artista"], e["tipo"])
         if clave in vistos:
@@ -131,6 +135,7 @@ def main() -> None:
         vistos.add(clave)
         if e["artista"] not in slugs_artistas:
             raise SystemExit(f"arista curada apunta a artista desconocido: {e}")
+        v = verif.get(f"{e['red']}|{e['artista']}|{e['tipo']}", {})
         edges.append({"data": {
             "id": f"e:{e['red']}:{e['artista']}:{e['tipo']}:{i}",
             "source": f"r:{e['red']}",
@@ -138,7 +143,8 @@ def main() -> None:
             "tipo": e["tipo"],
             "relacion": ETIQUETA_TIPO[e["tipo"]],
             "etiqueta": e["etiqueta"],
-            "estado": "prototipo",
+            "estado": "musicbrainz" if v.get("verificado") else "prototipo",
+            "evidencia": "; ".join(v.get("evidencia", [])[:3]) if v.get("verificado") else None,
         }})
 
     OUT_PATH.write_text(json.dumps({"nodes": nodes, "edges": edges}, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")

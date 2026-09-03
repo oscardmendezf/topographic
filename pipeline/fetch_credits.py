@@ -23,24 +23,14 @@ ALBUMES = ROOT / "content" / "albumes"
 OUT = ROOT / "data" / "raw_credits"
 
 
-def elegir_release(rgid: str) -> dict | None:
-    res = api_get("release", {"release-group": rgid, "limit": 100})
-    releases = res.get("releases", [])
-    if not releases:
-        return None
-
-    def clave(r):
-        oficial = 0 if (r.get("status") or "Official") == "Official" else 1
-        fecha = r.get("date") or "9999"
-        return (oficial, len(fecha) < 4, fecha)
-
-    return sorted(releases, key=clave)[0]
-
-
 def main() -> None:
+    """v2: browse de TODOS los releases del RG con rels incluidos (1 request,
+    paginado si >100) y unión de créditos entre ediciones — los créditos de
+    MB suelen estar colgados en una edición cualquiera, no en la primera."""
     OUT.mkdir(parents=True, exist_ok=True)
     fichas = sorted(ALBUMES.glob("*.md"))
-    hechos = {p.stem for p in OUT.glob("*.json")}
+    hechos = {p.stem for p in OUT.glob("*.json")
+              if json.loads((OUT / p.name).read_text(encoding="utf-8")).get("v") == 2}
     pendientes = []
     for p in fichas:
         if p.stem in hechos:
@@ -52,35 +42,44 @@ def main() -> None:
 
     for i, (slug, rgid) in enumerate(pendientes, 1):
         try:
-            rel = elegir_release(rgid)
-            if not rel:
-                (OUT / f"{slug}.json").write_text('{"sin_release": true}\n', encoding="utf-8")
-                continue
-            det = api_get(f"release/{rel['id']}", {"inc": "artist-rels+place-rels+labels"})
-            out = {
-                "album_slug": slug,
-                "rgid": rgid,
-                "release_id": rel["id"],
-                "release_fecha": rel.get("date"),
-                "release_pais": rel.get("country"),
-                "labels": [
-                    {"nombre": (li.get("label") or {}).get("name"),
-                     "mbid": (li.get("label") or {}).get("id")}
-                    for li in det.get("label-info", []) if li.get("label")
-                ],
-                "rels": [
-                    {
-                        "tipo": r.get("type"),
-                        "target": r.get("target-type"),
-                        "nombre": (r.get("artist") or r.get("place") or {}).get("name"),
-                        "mbid": (r.get("artist") or r.get("place") or {}).get("id"),
+            releases, offset = [], 0
+            while True:
+                page = api_get("release", {
+                    "release-group": rgid, "limit": 100, "offset": offset,
+                    "inc": "artist-rels+place-rels+labels",
+                })
+                releases.extend(page.get("releases", []))
+                total = page.get("release-count", len(releases))
+                offset += 100
+                if len(releases) >= total:
+                    break
+            labels, rels, vistos_l, vistos_r = [], [], set(), set()
+            fecha = None
+            for rel in sorted(releases, key=lambda r: (r.get("date") or "9999")):
+                fecha = fecha or rel.get("date")
+                for li in rel.get("label-info", []):
+                    lab = li.get("label") or {}
+                    if lab.get("id") and lab["id"] not in vistos_l:
+                        vistos_l.add(lab["id"])
+                        labels.append({"nombre": lab.get("name"), "mbid": lab["id"]})
+                for r in rel.get("relations", []):
+                    if r.get("target-type") not in ("artist", "place"):
+                        continue
+                    ent = r.get("artist") or r.get("place") or {}
+                    clave = (ent.get("id"), r.get("type"))
+                    if not ent.get("id") or clave in vistos_r:
+                        continue
+                    vistos_r.add(clave)
+                    rels.append({
+                        "tipo": r.get("type"), "target": r.get("target-type"),
+                        "nombre": ent.get("name"), "mbid": ent["id"],
                         "atributos": r.get("attributes", []),
-                    }
-                    for r in det.get("relations", [])
-                    if r.get("target-type") in ("artist", "place")
-                ],
-            }
-            (OUT / f"{slug}.json").write_text(json.dumps(out, ensure_ascii=False) + "\n", encoding="utf-8")
+                    })
+            (OUT / f"{slug}.json").write_text(json.dumps({
+                "v": 2, "album_slug": slug, "rgid": rgid,
+                "n_releases": len(releases), "release_fecha": fecha,
+                "labels": labels, "rels": rels,
+            }, ensure_ascii=False) + "\n", encoding="utf-8")
         except Exception as e:  # noqa: BLE001 — no frenar 900 álbumes por uno
             print(f"[creditos] ERROR {slug}: {e}", flush=True)
         if i % 50 == 0:

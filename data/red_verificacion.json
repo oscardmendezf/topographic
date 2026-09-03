@@ -1,0 +1,415 @@
+{
+ "eddy-offord|yes|produced": {
+  "verificado": true,
+  "evidencia": [
+   "Fragile"
+  ],
+  "via": "rels: engineer, producer",
+  "etiqueta": "ingeniero y coproductor en Advision (The Yes Album, Fragile, Close to the Edge)"
+ },
+ "eddy-offord|elp|produced": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "ingeniero y coproductor en Advision (Tarkus)"
+ },
+ "david-hitchcock|car|produced": {
+  "verificado": true,
+  "evidencia": [
+   "Blind Dog at St. Dunstans",
+   "Cunning Stunts"
+  ],
+  "via": "rels: producer",
+  "etiqueta": "In the Land of Grey and Pink, Cunning Stunts"
+ },
+ "david-hitchcock|gen|produced": {
+  "verificado": true,
+  "evidencia": [
+   "Foxtrot"
+  ],
+  "via": "rels: producer",
+  "etiqueta": "Foxtrot (1972)"
+ },
+ "david-hitchcock|cam|produced": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "The Snow Goose (1975)"
+ },
+ "david-bedford|mo|arranged": {
+  "verificado": true,
+  "evidencia": [
+   "Hergest Ridge",
+   "Incantations",
+   "Platinum",
+   "The Orchestral Tubular Bells"
+  ],
+  "via": "rels: arranger, conductor, producer",
+  "etiqueta": "mentor en The Whole World; versión orquestal de Tubular Bells"
+ },
+ "david-bedford|cam|arranged": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "orquestación de The Snow Goose"
+ },
+ "tom-newman|mo|produced": {
+  "verificado": true,
+  "evidencia": [
+   "Amarok",
+   "Heaven’s Open",
+   "Hergest Ridge",
+   "Platinum",
+   "The Songs of Distant Earth",
+   "Tubular Bells"
+  ],
+  "via": "rels: engineer, mix, producer, vocal",
+  "etiqueta": "coproductor de Tubular Bells en The Manor"
+ },
+ "tom-newman|ap|produced": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "The Geese & the Ghost"
+ },
+ "alan-parsons|beatles|engineered": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "asistente en Abbey Road"
+ },
+ "alan-parsons|pf|engineered": {
+  "verificado": true,
+  "evidencia": [
+   "Atom Heart Mother",
+   "The Dark Side of the Moon"
+  ],
+  "via": "rels: engineer, mastering",
+  "etiqueta": "ingeniero de The Dark Side of the Moon"
+ },
+ "bill-bruford|gen|guested_on": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "batería en la gira de 1976"
+ },
+ "phil-collins|ap|guested_on": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "batería y voz en The Geese & the Ghost"
+ },
+ "phil-collins|sh|guested_on": {
+  "verificado": true,
+  "evidencia": [
+   "Voyage of the Acolyte"
+  ],
+  "via": "rels: instrument, vocal",
+  "etiqueta": "batería en Voyage of the Acolyte"
+ },
+ "keith-tippett|kc|guested_on": {
+  "verificado": true,
+  "evidencia": [
+   "In the Wake of Poseidon"
+  ],
+  "via": "rels: instrument",
+  "etiqueta": "piano en Poseidon, Lizard e Islands"
+ },
+ "peter-sinfield|elp|wrote_lyrics": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "letras de Works"
+ },
+ "roger-dean|yes|designed_artwork": {
+  "verificado": true,
+  "evidencia": [
+   "Close to the Edge",
+   "Drama",
+   "Fly From Here: Return Trip",
+   "Fly from Here",
+   "Fragile",
+   "Going for the One"
+  ],
+  "via": "rels: art direction, artwork, copyright, design, design/illustration, graphic design, ",
+  "etiqueta": "logo y paisajes"
+ },
+ "roger-dean|gg|designed_artwork": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "el pulpo embotellado de Octopus"
+ },
+ "hipgnosis|pf|designed_artwork": {
+  "verificado": true,
+  "evidencia": [
+   "A Saucerful of Secrets",
+   "Animals",
+   "Atom Heart Mother",
+   "Meddle",
+   "More",
+   "Obscured by Clouds"
+  ],
+  "via": "rels: art direction, artwork, design, design/illustration, graphic design, illustratio",
+  "etiqueta": "el prisma, los hombres en llamas"
+ },
+ "hipgnosis|gen|designed_artwork": {
+  "verificado": true,
+  "evidencia": [
+   "...And Then There Were Three...",
+   "A Trick of the Tail",
+   "The Lamb Lies Down on Broadway",
+   "Wind & Wuthering"
+  ],
+  "via": "rels: design, design/illustration, photography",
+  "etiqueta": "tapas 1976–78"
+ },
+ "charisma-tony-stratton-smith|gen|signed_to": {
+  "verificado": true,
+  "evidencia": [
+   "...And Then There Were Three...",
+   "A Trick of the Tail",
+   "Abacab",
+   "Duke",
+   "Foxtrot",
+   "Genesis"
+  ],
+  "via": "sello del release",
+  "etiqueta": "el sello que los bancó cuando no vendían"
+ },
+ "charisma-tony-stratton-smith|vdgg|signed_to": {
+  "verificado": true,
+  "evidencia": [
+   "Godbluff",
+   "H to He, Who Am the Only One",
+   "Pawn Hearts",
+   "Present",
+   "Still Life",
+   "The Least We Can Do Is Wave to Each Other"
+  ],
+  "via": "sello del release",
+  "etiqueta": "el sello que los bancó cuando no vendían"
+ },
+ "virgin-records|mo|signed_to": {
+  "verificado": true,
+  "evidencia": [
+   "Amarok",
+   "Crises",
+   "Discovery",
+   "Earth Moving",
+   "Five Miles Out",
+   "Heaven’s Open"
+  ],
+  "via": "sello del release",
+  "etiqueta": "fundado sobre Tubular Bells (V2001)"
+ },
+ "manticore|elp|signed_to": {
+  "verificado": true,
+  "evidencia": [
+   "Black Moon",
+   "Brain Salad Surgery",
+   "Emerson, Lake & Palmer",
+   "Love Beach",
+   "Pictures at an Exhibition",
+   "Tarkus"
+  ],
+  "via": "sello del release",
+  "etiqueta": "su propio sello"
+ },
+ "advision-trident-abbey-road-the-manor|yes|recorded_at": {
+  "verificado": true,
+  "evidencia": [
+   "Relayer",
+   "Yes"
+  ],
+  "via": "place-rel del release",
+  "etiqueta": "Advision"
+ },
+ "advision-trident-abbey-road-the-manor|elp|recorded_at": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "Advision"
+ },
+ "advision-trident-abbey-road-the-manor|gg|recorded_at": {
+  "verificado": true,
+  "evidencia": [
+   "Acquiring the Taste",
+   "Octopus"
+  ],
+  "via": "place-rel del release",
+  "etiqueta": "Advision"
+ },
+ "advision-trident-abbey-road-the-manor|gen|recorded_at": {
+  "verificado": true,
+  "evidencia": [
+   "...And Then There Were Three...",
+   "Duke",
+   "Wind & Wuthering"
+  ],
+  "via": "place-rel del release",
+  "etiqueta": "Trident"
+ },
+ "advision-trident-abbey-road-the-manor|beatles|recorded_at": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "Abbey Road"
+ },
+ "advision-trident-abbey-road-the-manor|pf|recorded_at": {
+  "verificado": true,
+  "evidencia": [
+   "The Dark Side of the Moon",
+   "Wish You Were Here"
+  ],
+  "via": "place-rel del release",
+  "etiqueta": "Abbey Road"
+ },
+ "advision-trident-abbey-road-the-manor|app|recorded_at": {
+  "verificado": true,
+  "evidencia": [
+   "I Robot",
+   "Pyramid",
+   "Stereotomy"
+  ],
+  "via": "place-rel del release",
+  "etiqueta": "Abbey Road"
+ },
+ "advision-trident-abbey-road-the-manor|mo|recorded_at": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "The Manor"
+ },
+ "steve-y-john-hackett|gen|member_of": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "Steve, guitarrista 1971–77"
+ },
+ "steve-y-john-hackett|sh|guested_on": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "John, flauta en Voyage of the Acolyte"
+ },
+ "steve-y-john-hackett|ap|guested_on": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "John, flauta en God If I Saw Her Now"
+ },
+ "virgin-records|gong|signed_to": {
+  "verificado": true,
+  "evidencia": [
+   "Angel’s Egg: Radio Gnome Invisible, Part 2",
+   "Camembert électrique",
+   "Expresso II",
+   "Flying Teapot: Radio Gnome Invisible, Part 1",
+   "Gazeuse!",
+   "Shamal"
+  ],
+  "via": "sello del release",
+  "etiqueta": "primer catálogo del sello, junto a Oldfield"
+ },
+ "virgin-records|faust|signed_to": {
+  "verificado": true,
+  "evidencia": [
+   "Faust IV",
+   "The Faust Tapes"
+  ],
+  "via": "sello del release",
+  "etiqueta": "The Faust Tapes a 49 peniques como caballo de Troya"
+ },
+ "virgin-records|tangerine-dream|signed_to": {
+  "verificado": true,
+  "evidencia": [
+   "Cyclone",
+   "Electronic Meditation",
+   "Exit",
+   "Force Majeure",
+   "Hyperborea",
+   "Oedipus Tyrannus"
+  ],
+  "via": "sello del release",
+  "etiqueta": "Phaedra y Rubycon en Virgin"
+ },
+ "manticore|pfm|signed_to": {
+  "verificado": true,
+  "evidencia": [
+   "Chocolate Kings",
+   "Jet Lag",
+   "Photos of Ghosts",
+   "The World Became the World"
+  ],
+  "via": "sello del release",
+  "etiqueta": "la exportación del prog italiano al mundo anglo"
+ },
+ "manticore|banco|signed_to": {
+  "verificado": true,
+  "evidencia": [
+   "As in a Last Supper",
+   "Banco",
+   "Come in un’ultima cena"
+  ],
+  "via": "sello del release",
+  "etiqueta": "Banco (1975) para el mercado anglo"
+ },
+ "peter-sinfield|pfm|wrote_lyrics": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "letras inglesas para los discos en Manticore"
+ },
+ "david-bedford|kevin-ayers|arranged": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "arreglador de The Whole World"
+ },
+ "conny-plank|kraftwerk|produced": {
+  "verificado": true,
+  "evidencia": [
+   "Autobahn"
+  ],
+  "via": "rels: engineer, producer",
+  "etiqueta": "ingeniería y producción de la etapa temprana (Autobahn)"
+ },
+ "conny-plank|neu|produced": {
+  "verificado": false,
+  "evidencia": [],
+  "etiqueta": "el sonido motorik salió de su consola"
+ },
+ "tony-visconti|gg|produced": {
+  "verificado": true,
+  "evidencia": [
+   "Acquiring the Taste",
+   "Gentle Giant"
+  ],
+  "via": "rels: producer",
+  "etiqueta": "producción temprana"
+ },
+ "tony-visconti|str|produced": {
+  "verificado": true,
+  "evidencia": [
+   "Dragonfly",
+   "From the Witchwood",
+   "Just a Collection of Antiques and Curios"
+  ],
+  "via": "rels: mix, producer",
+  "etiqueta": "producción de la etapa folk"
+ },
+ "simon-heyworth|mo|produced": {
+  "verificado": true,
+  "evidencia": [
+   "Crises",
+   "Discovery",
+   "Five Miles Out",
+   "Hergest Ridge",
+   "Incantations",
+   "Ommadawn"
+  ],
+  "via": "rels: liner notes, mastering, photography, producer",
+  "etiqueta": "coproductor e ingeniero de Tubular Bells en The Manor"
+ },
+ "rupert-hine|ap|produced": {
+  "verificado": true,
+  "evidencia": [
+   "Wise After the Event"
+  ],
+  "via": "rels: instrument, producer, vocal",
+  "etiqueta": "productor e invitado en la obra temprana"
+ },
+ "rupert-hine|rush|produced": {
+  "verificado": true,
+  "evidencia": [
+   "Presto",
+   "Roll the Bones"
+  ],
+  "via": "rels: instrument, producer, vocal",
+  "etiqueta": "productor de la etapa tardía"
+ }
+}

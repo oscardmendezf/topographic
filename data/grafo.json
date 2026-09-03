@@ -650,6 +650,15 @@
   },
   {
    "data": {
+    "id": "r:conny-plank",
+    "slug": "conny-plank",
+    "label": "Conny Plank",
+    "tipo": "person",
+    "rol": "Ingeniero / Productor"
+   }
+  },
+  {
+   "data": {
     "id": "r:dave-stewart",
     "slug": "dave-stewart",
     "label": "Dave Stewart",
@@ -767,6 +776,24 @@
   },
   {
    "data": {
+    "id": "r:rupert-hine",
+    "slug": "rupert-hine",
+    "label": "Rupert Hine",
+    "tipo": "person",
+    "rol": "Productor"
+   }
+  },
+  {
+   "data": {
+    "id": "r:simon-heyworth",
+    "slug": "simon-heyworth",
+    "label": "Simon Heyworth",
+    "tipo": "person",
+    "rol": "Ingeniero / Productor"
+   }
+  },
+  {
+   "data": {
     "id": "r:steve-y-john-hackett",
     "slug": "steve-y-john-hackett",
     "label": "Steve y John Hackett",
@@ -781,6 +808,15 @@
     "label": "Tom Newman",
     "tipo": "person",
     "rol": "Ingeniero / Productor"
+   }
+  },
+  {
+   "data": {
+    "id": "r:tony-visconti",
+    "slug": "tony-visconti",
+    "label": "Tony Visconti",
+    "tipo": "person",
+    "rol": "Productor"
    }
   },
   {
@@ -1077,7 +1113,8 @@
     "tipo": "produced",
     "relacion": "produjo a",
     "etiqueta": "ingeniero y coproductor en Advision (The Yes Album, Fragile, Close to the Edge)",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Fragile"
    }
   },
   {
@@ -1088,7 +1125,8 @@
     "tipo": "produced",
     "relacion": "produjo a",
     "etiqueta": "ingeniero y coproductor en Advision (Tarkus)",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1099,7 +1137,8 @@
     "tipo": "produced",
     "relacion": "produjo a",
     "etiqueta": "In the Land of Grey and Pink, Cunning Stunts",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Blind Dog at St. Dunstans; Cunning Stunts"
    }
   },
   {
@@ -1110,7 +1149,8 @@
     "tipo": "produced",
     "relacion": "produjo a",
     "etiqueta": "Foxtrot (1972)",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Foxtrot"
    }
   },
   {
@@ -1121,7 +1161,8 @@
     "tipo": "produced",
     "relacion": "produjo a",
     "etiqueta": "The Snow Goose (1975)",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1132,7 +1173,8 @@
     "tipo": "arranged",
     "relacion": "arregló para",
     "etiqueta": "mentor en The Whole World; versión orquestal de Tubular Bells",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Hergest Ridge; Incantations; Platinum"
    }
   },
   {
@@ -1143,7 +1185,8 @@
     "tipo": "arranged",
     "relacion": "arregló para",
     "etiqueta": "orquestación de The Snow Goose",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1154,7 +1197,8 @@
     "tipo": "produced",
     "relacion": "produjo a",
     "etiqueta": "coproductor de Tubular Bells en The Manor",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Amarok; Heaven’s Open; Hergest Ridge"
    }
   },
   {
@@ -1165,7 +1209,8 @@
     "tipo": "produced",
     "relacion": "produjo a",
     "etiqueta": "The Geese & the Ghost",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1176,7 +1221,8 @@
     "tipo": "engineered",
     "relacion": "ingeniería para",
     "etiqueta": "asistente en Abbey Road",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1187,7 +1233,8 @@
     "tipo": "engineered",
     "relacion": "ingeniería para",
     "etiqueta": "ingeniero de The Dark Side of the Moon",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Atom Heart Mother; The Dark Side of the Moon"
    }
   },
   {
@@ -1198,7 +1245,8 @@
     "tipo": "guested_on",
     "relacion": "invitado de",
     "etiqueta": "batería en la gira de 1976",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1209,7 +1257,8 @@
     "tipo": "guested_on",
     "relacion": "invitado de",
     "etiqueta": "batería y voz en The Geese & the Ghost",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1220,7 +1269,8 @@
     "tipo": "guested_on",
     "relacion": "invitado de",
     "etiqueta": "batería en Voyage of the Acolyte",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Voyage of the Acolyte"
    }
   },
   {
@@ -1231,7 +1281,8 @@
     "tipo": "guested_on",
     "relacion": "invitado de",
     "etiqueta": "piano en Poseidon, Lizard e Islands",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "In the Wake of Poseidon"
    }
   },
   {
@@ -1242,7 +1293,8 @@
     "tipo": "wrote_lyrics",
     "relacion": "letras para",
     "etiqueta": "letras de Works",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1253,7 +1305,8 @@
     "tipo": "designed_artwork",
     "relacion": "diseñó para",
     "etiqueta": "logo y paisajes",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Close to the Edge; Drama; Fly From Here: Return Trip"
    }
   },
   {
@@ -1264,7 +1317,8 @@
     "tipo": "designed_artwork",
     "relacion": "diseñó para",
     "etiqueta": "el pulpo embotellado de Octopus",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1275,7 +1329,8 @@
     "tipo": "designed_artwork",
     "relacion": "diseñó para",
     "etiqueta": "el prisma, los hombres en llamas",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "A Saucerful of Secrets; Animals; Atom Heart Mother"
    }
   },
   {
@@ -1286,7 +1341,8 @@
     "tipo": "designed_artwork",
     "relacion": "diseñó para",
     "etiqueta": "tapas 1976–78",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "...And Then There Were Three...; A Trick of the Tail; The Lamb Lies Down on Broadway"
    }
   },
   {
@@ -1297,7 +1353,8 @@
     "tipo": "signed_to",
     "relacion": "fichó a",
     "etiqueta": "el sello que los bancó cuando no vendían",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "...And Then There Were Three...; A Trick of the Tail; Abacab"
    }
   },
   {
@@ -1308,7 +1365,8 @@
     "tipo": "signed_to",
     "relacion": "fichó a",
     "etiqueta": "el sello que los bancó cuando no vendían",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Godbluff; H to He, Who Am the Only One; Pawn Hearts"
    }
   },
   {
@@ -1319,7 +1377,8 @@
     "tipo": "signed_to",
     "relacion": "fichó a",
     "etiqueta": "fundado sobre Tubular Bells (V2001)",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Amarok; Crises; Discovery"
    }
   },
   {
@@ -1330,7 +1389,8 @@
     "tipo": "signed_to",
     "relacion": "fichó a",
     "etiqueta": "su propio sello",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Black Moon; Brain Salad Surgery; Emerson, Lake & Palmer"
    }
   },
   {
@@ -1341,7 +1401,8 @@
     "tipo": "recorded_at",
     "relacion": "grabó en",
     "etiqueta": "Advision",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Relayer; Yes"
    }
   },
   {
@@ -1352,7 +1413,8 @@
     "tipo": "recorded_at",
     "relacion": "grabó en",
     "etiqueta": "Advision",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1363,7 +1425,8 @@
     "tipo": "recorded_at",
     "relacion": "grabó en",
     "etiqueta": "Advision",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Acquiring the Taste; Octopus"
    }
   },
   {
@@ -1374,7 +1437,8 @@
     "tipo": "recorded_at",
     "relacion": "grabó en",
     "etiqueta": "Trident",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "...And Then There Were Three...; Duke; Wind & Wuthering"
    }
   },
   {
@@ -1385,7 +1449,8 @@
     "tipo": "recorded_at",
     "relacion": "grabó en",
     "etiqueta": "Abbey Road",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1396,7 +1461,8 @@
     "tipo": "recorded_at",
     "relacion": "grabó en",
     "etiqueta": "Abbey Road",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "The Dark Side of the Moon; Wish You Were Here"
    }
   },
   {
@@ -1407,7 +1473,8 @@
     "tipo": "recorded_at",
     "relacion": "grabó en",
     "etiqueta": "Abbey Road",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "I Robot; Pyramid; Stereotomy"
    }
   },
   {
@@ -1418,7 +1485,8 @@
     "tipo": "recorded_at",
     "relacion": "grabó en",
     "etiqueta": "The Manor",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1429,7 +1497,8 @@
     "tipo": "member_of",
     "relacion": "miembro de",
     "etiqueta": "Steve, guitarrista 1971–77",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1440,7 +1509,8 @@
     "tipo": "guested_on",
     "relacion": "invitado de",
     "etiqueta": "John, flauta en Voyage of the Acolyte",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1451,7 +1521,8 @@
     "tipo": "guested_on",
     "relacion": "invitado de",
     "etiqueta": "John, flauta en God If I Saw Her Now",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1462,7 +1533,8 @@
     "tipo": "signed_to",
     "relacion": "fichó a",
     "etiqueta": "primer catálogo del sello, junto a Oldfield",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Angel’s Egg: Radio Gnome Invisible, Part 2; Camembert électrique; Expresso II"
    }
   },
   {
@@ -1473,7 +1545,8 @@
     "tipo": "signed_to",
     "relacion": "fichó a",
     "etiqueta": "The Faust Tapes a 49 peniques como caballo de Troya",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Faust IV; The Faust Tapes"
    }
   },
   {
@@ -1484,7 +1557,8 @@
     "tipo": "signed_to",
     "relacion": "fichó a",
     "etiqueta": "Phaedra y Rubycon en Virgin",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Cyclone; Electronic Meditation; Exit"
    }
   },
   {
@@ -1495,7 +1569,8 @@
     "tipo": "signed_to",
     "relacion": "fichó a",
     "etiqueta": "la exportación del prog italiano al mundo anglo",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "Chocolate Kings; Jet Lag; Photos of Ghosts"
    }
   },
   {
@@ -1506,7 +1581,8 @@
     "tipo": "signed_to",
     "relacion": "fichó a",
     "etiqueta": "Banco (1975) para el mercado anglo",
-    "estado": "prototipo"
+    "estado": "musicbrainz",
+    "evidencia": "As in a Last Supper; Banco; Come in un’ultima cena"
    }
   },
   {
@@ -1517,7 +1593,8 @@
     "tipo": "wrote_lyrics",
     "relacion": "letras para",
     "etiqueta": "letras inglesas para los discos en Manticore",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
    }
   },
   {
@@ -1528,7 +1605,92 @@
     "tipo": "arranged",
     "relacion": "arregló para",
     "etiqueta": "arreglador de The Whole World",
-    "estado": "prototipo"
+    "estado": "prototipo",
+    "evidencia": null
+   }
+  },
+  {
+   "data": {
+    "id": "e:conny-plank:kraftwerk:produced:42",
+    "source": "r:conny-plank",
+    "target": "a:kraftwerk",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "ingeniería y producción de la etapa temprana (Autobahn)",
+    "estado": "musicbrainz",
+    "evidencia": "Autobahn"
+   }
+  },
+  {
+   "data": {
+    "id": "e:conny-plank:neu:produced:43",
+    "source": "r:conny-plank",
+    "target": "a:neu",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "el sonido motorik salió de su consola",
+    "estado": "prototipo",
+    "evidencia": null
+   }
+  },
+  {
+   "data": {
+    "id": "e:tony-visconti:gg:produced:44",
+    "source": "r:tony-visconti",
+    "target": "a:gg",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "producción temprana",
+    "estado": "musicbrainz",
+    "evidencia": "Acquiring the Taste; Gentle Giant"
+   }
+  },
+  {
+   "data": {
+    "id": "e:tony-visconti:str:produced:45",
+    "source": "r:tony-visconti",
+    "target": "a:str",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "producción de la etapa folk",
+    "estado": "musicbrainz",
+    "evidencia": "Dragonfly; From the Witchwood; Just a Collection of Antiques and Curios"
+   }
+  },
+  {
+   "data": {
+    "id": "e:simon-heyworth:mo:produced:46",
+    "source": "r:simon-heyworth",
+    "target": "a:mo",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "coproductor e ingeniero de Tubular Bells en The Manor",
+    "estado": "musicbrainz",
+    "evidencia": "Crises; Discovery; Five Miles Out"
+   }
+  },
+  {
+   "data": {
+    "id": "e:rupert-hine:ap:produced:47",
+    "source": "r:rupert-hine",
+    "target": "a:ap",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "productor e invitado en la obra temprana",
+    "estado": "musicbrainz",
+    "evidencia": "Wise After the Event"
+   }
+  },
+  {
+   "data": {
+    "id": "e:rupert-hine:rush:produced:48",
+    "source": "r:rupert-hine",
+    "target": "a:rush",
+    "tipo": "produced",
+    "relacion": "produjo a",
+    "etiqueta": "productor de la etapa tardía",
+    "estado": "musicbrainz",
+    "evidencia": "Presto; Roll the Bones"
    }
   }
  ]

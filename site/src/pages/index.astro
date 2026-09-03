@@ -236,7 +236,7 @@ const tiposArista = Object.keys(NOMBRES_ARISTA);
       const ed = e.data();
       const li = document.createElement('li');
       const verif = ed.estado === 'musicbrainz'
-        ? '<span class="vf">✓ MusicBrainz</span>'
+        ? `<span class="vf" title="${ed.evidencia ?? ''}">✓ MusicBrainz${ed.evidencia ? ' · ' + ed.evidencia : ''}</span>`
         : '<span class="vf ed">◌ editorial, sin verificar</span>';
       li.innerHTML =
         `<span class="rel" style="color:${COLORES_ARISTA[ed.tipo] ?? '#9AA0A8'}">${ed.relacion}</span> ` +

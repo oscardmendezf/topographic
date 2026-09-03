@@ -47,7 +47,7 @@ const conexiones = grafo.edges
             <td>{c.relacion}</td>
             <td><a href={u(`artista/${c.nodo?.slug}/`)}>{c.nodo?.label}</a></td>
             <td>{c.etiqueta}</td>
-            <td><span class={`badge ${c.estado === 'musicbrainz' ? 'ok' : 'warn'}`}>{c.estado === 'musicbrainz' ? 'MusicBrainz' : 'editorial'}</span></td>
+            <td><span class={`badge ${c.estado === 'musicbrainz' ? 'ok' : 'warn'}`} title={c.evidencia ?? undefined}>{c.estado === 'musicbrainz' ? 'MusicBrainz ✓' : 'editorial'}</span></td>
           </tr>
         ))}
       </table>
