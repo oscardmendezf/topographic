@@ -16,6 +16,25 @@ critica_nota: "Sin consenso registrable."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación marginal."
+historia: "editorial"
 ---
 
 Cierre de la serie Mystic, construido con remezclas y sobrantes de las sesiones de los noventa; interés casi exclusivamente arqueológico.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Con este título se cierra la serie de discos que el grupo publicó durante su reunión de los noventa, y su contenido lo declara sin disimulo: remezclas, sobrantes de sesión y versiones nuevas de piezas antiguas. El nombre, impecable, tiene la ironía habitual de la casa, porque un disco así es por definición irregular. La lógica es de archivo abierto: una vez terminadas las sesiones de aquella etapa quedaba material suelto, y en lugar de guardarlo se optó por ordenarlo en un álbum.
+
+Lo más revelador es la relectura del propio pasado. Reaparecen «Surrounded by the Stars» y «Wie der Wind am Ende einer Strasse», las dos joyas de Wolf City, y «Cerberus», del segundo álbum, sometidas al tratamiento electrónico de los noventa; el efecto es extraño, porque las piezas resisten pero pierden la tensión de banda tocando junta que las había hecho memorables. Del repertorio reciente vuelven «Castaneda da Dream», ahora en otra versión, «Kiss Ma Eee» y «Speed Inside My Shoes», más «Nada Moonshine Union» y «Nada Cairo», que amplían aquel universo. Entre lo inédito hay una improvisación de los primeros años recuperada del archivo, una versión de «La paloma» que confirma el gusto mediterráneo de Chris Karrer y un par de sesiones de jam de la propia época de la reunión. El conjunto se escucha como un cajón bien ordenado, no como un álbum pensado.
+
+## La producción
+
+No constan datos verificados de productor, ingeniero, estudio ni formación para esta edición, así que el detalle técnico queda fuera. Lo que sí define al disco es su método, la remezcla: sobre grabaciones de procedencia diversa se aplican programaciones, capas de teclado, filtros y ecos que buscan una superficie común. El resultado tiene coherencia de textura y ninguna de origen, con material separado por décadas conviviendo bajo el mismo tratamiento.
+
+Ese procedimiento plantea el problema clásico de este tipo de discos. Las piezas históricas fueron concebidas para un cuarteto o quinteto eléctrico grabando en una sala, y trasladarlas a un formato de secuencias las deja sin el elemento que las sostenía, aunque a cambio revele lo firmes que eran sus melodías. Las jams y los descartes, en cambio, ganan con el maquillaje, porque llegaban en bruto y sin destino.
+
+## Recepción y legado
+
+Pasó casi inadvertido y hoy interesa por razones de archivo antes que musicales. Es el título menos recomendable de la reunión para quien llegue nuevo, y el más informativo para quien ya conozca el catálogo y quiera ver cómo el propio grupo miraba su repertorio clásico treinta años después. Su lugar es el de cierre de un ciclo: después de él la banda entraría en un silencio discográfico largo, roto ya en el siglo siguiente. Se rescata el interés documental de las improvisaciones antiguas rescatadas del archivo; no se sostienen las relecturas electrónicas de las piezas de Wolf City, que funcionan mejor donde estaban.

@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Mixto en su momento; hoy figura entre los favoritos del catálogo."
+historia: "editorial"
 ---
 
 Acústico y ácido, grabado en exilio fiscal en Montecarlo: Anderson mirando su propio divorcio con cuerdas y navaja. Medio redescubierto con los años.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Con la banda establecida como negocio internacional, sus integrantes se instalaron fuera del Reino Unido por razones fiscales, y este disco se grabó en Montecarlo con el estudio móvil del grupo. El exilio no fue solo administrativo: Anderson estaba atravesando la ruptura de su primer matrimonio, y por primera vez desde Benefit escribe mirándose a sí mismo sin la coartada de un personaje inventado. El resultado es el disco más desnudo y más agrio de la etapa clásica, construido sobre un contraste que se repite pieza a pieza: guitarra acústica y voz casi susurrada que estallan de pronto en banda eléctrica y cuerdas.
+
+«Minstrel in the Gallery» plantea la tesis: el músico observa desde el escenario a un público al que desprecia mientras entiende que trabaja para él, y la canción pasa del acorde acústico al riff eléctrico como si cambiara de máscara. «Cold Wind to Valhalla» acude a la mitología nórdica para hablar de la muerte con humor negro; «Black Satin Dancer» es la pieza más sexual y más incómoda del grupo; «Requiem» y «One White Duck / 0¹⁰ = Nothing at All» son dos acústicas sobre la separación y la soledad doméstica, la segunda con los patos de porcelana de la pared como símbolo de una casa a medias. La pieza mayor es «Baker St. Muse», una suite de cuatro secciones que recorre una calle de Londres, con prostitutas, borrachos y muchachas esperando en la acera, y termina en una meditación sobre Inglaterra y sobre el propio narrador. «Grace», treinta segundos de agradecimiento cortés, cierra como una puerta que se cierra despacio. Fue el último disco de Jeffrey Hammond, que dejó la música para dedicarse a la pintura.
+
+## La producción
+
+Anderson produce, Robin Black se encarga de la ingeniería y Dee Palmer dirige los arreglos de cuerda, ejecutados por un grupo de violinistas —entre ellos Patrick Halling, Rita Eddowes, Elizabeth Edwards y Bridget Procter— que se integran en las canciones como una voz más y no como decorado. La grabación con estudio móvil impuso condiciones de intimidad que favorecieron el disco: las acústicas están registradas de cerca, con las uñas y el roce de las cuerdas audibles, y la banda entra en bloque, con la eléctrica de Barre, el órgano de Evan, el bajo de Hammond y la percusión de Barriemore Barlow, para cortar en seco los pasajes íntimos. Esa alternancia brusca es la decisión de sonido central del álbum.
+
+## Recepción y legado
+
+En su momento pasó como un disco menor, entre el desconcierto de un público que esperaba otra cosa y una crítica todavía hostil al grupo. La revisión ha sido lenta pero firme: hoy es uno de los títulos preferidos por los oyentes que conocen bien el catálogo, y su influencia se percibe en cualquier disco de folk-rock que use la cuerda como arma y no como adorno. Lo que se le sigue reprochando es cierta autocompasión y una segunda mitad dominada por una suite que exige atención. Lo que se rescata es la escritura: pocas veces Anderson fue tan preciso ni tan poco amable consigo mismo.

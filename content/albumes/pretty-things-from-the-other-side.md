@@ -16,6 +16,23 @@ critica_nota: "Sin consenso registrable todavía."
 estrellas_comercial: null
 comercial_fuente: "editorial"
 comercial_nota: null
+historia: "editorial"
 ---
 
 Publicación póstuma que aparece años después de la muerte de Phil May y cierra administrativamente el catálogo. Su carácter de estudio se toma del tipado oficial; falta perspectiva para más.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Este título aparece años después de la muerte de Phil May y de que la banda hubiera dado por cerrada su actividad, y su naturaleza es la de una publicación póstuma: material que llega al catálogo cuando ya no hay grupo que lo defienda ni autor que lo explique. La ficha oficial lo tipifica como álbum de estudio, y ese es el dato del que conviene partir sin adornarlo, porque no existe todavía una narración asentada sobre qué contiene exactamente, cuándo se registró ese material ni con qué criterio se ordenó. Lo prudente es describir el hueco que ocupa más que el disco que se supone que es.
+
+Ese hueco tiene forma reconocible. The Pretty Things habían terminado su historia con un gesto muy claro: primero un último disco eléctrico con banda completa, después un epílogo acústico de blues grabado en formato mínimo, y la muerte del cantante como punto final no negociable. Cualquier cosa que aparezca detrás entra en la categoría de apéndice, y el propio título, con su alusión al otro lado, admite esa condición sin disimulo. La discografía del grupo estuvo siempre atravesada por accidentes de este tipo —sellos que quebraban, discos que salían solo en un país, grabaciones que tardaban décadas en circular—, de modo que una edición tardía no es una anomalía en su historia sino casi una costumbre.
+
+## La producción
+
+No hay créditos verificados disponibles para esta edición, y ante esa ausencia lo único responsable es no inventarlos: no se detalla aquí productor, ingeniero, estudio ni formación, porque cualquier atribución sería una conjetura. Sí puede decirse qué tipo de decisiones suelen gobernar un lanzamiento así: la selección y el montaje quedan en manos del entorno del grupo y del sello, y el resultado depende por completo del estado en que estuviera el material de partida. Un disco póstumo se juega su credibilidad en ese trabajo invisible, en si respeta lo que la banda habría querido publicar o si estira lo que ya estaba cerrado.
+
+## Recepción y legado
+
+Falta perspectiva para pronunciarse, y fingir lo contrario sería impostura. Lo que sí puede afirmarse es que ninguna edición tardía va a modificar el lugar de The Pretty Things en la historia del rock británico: ese lugar lo fijaron el rhythm and blues brutal de sus dos primeros discos y, sobre todo, SF Sorrow, y ni siquiera los mejores títulos de su larga etapa final movieron esa balanza. El interés de un lanzamiento como este es, por tanto, de archivo: importa a quien haya seguido al grupo hasta el final y quiera oír lo que quedó fuera. Para el resto, el catálogo de The Pretty Things ya había dicho todo lo que tenía que decir con la despedida en clave de blues que lo precedió.

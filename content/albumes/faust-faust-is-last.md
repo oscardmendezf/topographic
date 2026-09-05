@@ -16,6 +16,25 @@ critica_nota: "Sin consenso registrable; catálogo profundo."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Edición de sello propio, alcance mínimo."
+historia: "editorial"
 ---
 
 Doble de estudio del ala liderada por Irmler en Klangbad, presentado como despedida de esa formación: electrónica abrasiva y capas de ruido, sin concesiones. El título avisaba; la marca Faust igual siguió por otro carril.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Faust Is Last se publica en 2010 como despedida, y el título no admite lecturas amables: es la formación conducida por Hans Joachim Irmler desde su estudio del sur de Alemania anunciando que cierra. La situación tenía algo de nudo irresoluble. Durante más de una década habían existido en paralelo dos grupos con derecho al mismo nombre, ambos con integrantes fundadores, ambos grabando y actuando, y este doble álbum es el punto final de uno de esos carriles, no de la marca, que siguió circulando por el otro.
+
+La estructura de los dos discos reparte el material con criterio. El primero acumula quince piezas breves, la mayoría por debajo de los cinco minutos, que funcionan como una batería de golpes: «Brumm und Blech» abre con metal y zumbido, «Imperial Lover» y «Feed the Greed» sostienen algo parecido a la forma canción, «Chrome» y «X-Ray» trabajan la abrasión pura, «I Don't Buy Your Shit No More» dice en el título lo que la música dice en el gesto y «Cluster für Cluster» rinde un saludo de medio minuto a los vecinos electrónicos de toda la vida. El segundo disco cambia de escala: siete piezas extensas donde el grupo se toma tiempo, con «Karneval» y «Vorübergehen» como bloques centrales, «Ozean» y «GhosTrain» del lado atmosférico y «Primitivelona» cerrando el conjunto. Es un final ordenado y sin concesiones, sin balada de despedida ni recapitulación nostálgica.
+
+## La producción
+
+Todo el trabajo pasa por el estudio propio y por el criterio de Irmler, con la electrónica y el órgano tratado como columna del sonido y con la mesa haciendo tanto trabajo como los instrumentos. La producción no busca la crudeza de banda en sala que caracterizaba al otro carril del grupo, sino la construcción por capas: sonidos alargados, distorsión aplicada como material y no como adorno, y una definición muy alta en el registro agudo que hace que las piezas más abrasivas resulten físicamente incómodas. La secuencia de los dos discos es en sí misma una decisión de producción, con el formato breve y el formato extenso separados en lugar de alternados.
+
+Los créditos verificables de esta edición no consignan formación, ingeniería ni arte, de modo que no corresponde nombrar participantes más allá de la conducción del proyecto. La presentación como doble, en una etapa en que la banda venía publicando discos simples, refuerza la intención de balance.
+
+## Recepción y legado
+
+Se lo recibió como lo que es, un cierre para quienes seguían de cerca esa rama del grupo, y no logró la atención de los títulos más celebrados de la etapa. La crítica valoró su coherencia y le reprochó la extensión, un reparo razonable: hay material aquí para un disco excelente y para otro prescindible. Su lugar en la historia es sobre todo documental, porque marca el final de una discografía paralela que produjo más música que la etapa clásica y muchísimo menos consenso. Escuchado hoy, es un buen recordatorio de que Faust nunca fue una banda con formación estable sino una idea sobre cómo hacer música, capaz de sobrevivir a la separación de sus propios autores.

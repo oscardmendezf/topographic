@@ -16,6 +16,23 @@ critica_nota: "Recepción tibia; mejora relativa sobre la etapa española."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Sin repercusión pese al respaldo de sello."
+historia: "editorial"
 ---
 
 Retorno a un sello grande con sonido pulido de época; se lo leyó como recuperación parcial antes que como regreso real.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después de casi una década de discos hechos a la intemperie, para sellos pequeños y con distribución de fortuna, Ayers volvió a firmar con una compañía grande y a disponer de un presupuesto de verdad. Falling Up es el disco de ese reencuentro, y su interés está sobre todo en la tensión que lo atraviesa: por un lado el material de un hombre que llevaba años viviendo lejos del oficio, por otro un aparato de producción profesional decidido a devolverlo al presente. El resultado no es un regreso, pero tampoco es la resignación de los títulos inmediatamente anteriores.
+
+El disco arranca donde estaba su vida. «Saturday Night (In Deya)» nombra el pueblo mallorquín en el que se había instalado y describe una noche de pueblo pequeño con esa mezcla de afecto y distancia que le salía natural, y funciona como declaración de domicilio: ya no canta desde Londres. «Flying Start» y «The Best We Have» buscan el estribillo amplio que un sello grande esperaba, «Another Rolling Stone» juega con la figura del vagabundo profesional sin ponerse solemne, y «Do You Believe ?» es la pieza más extensa y también la más contenida, construida sobre una progresión que se repite hasta convertirse en trance. El cierre, «Am I Really Marcel?», es una broma sobre la identidad que resume la posición del autor: ni el dandi de los sesenta ni el superviviente ochentoso, sino alguien que ya no sabe qué papel le corresponde. Frente a la penuria de As Close As You Think, aquí hay canciones terminadas.
+
+## La producción
+
+La grabación se hizo en España, con Ollie Halsall como socio musical de siempre y con músicos del entorno donde ambos vivían. El sonido es el pulido característico del final de la década, con teclados de textura ancha, batería nítida y coros arreglados, pero administrado con más criterio que en sus discos previos: la voz vuelve al primer plano, cerca del micrófono, y los arreglos dejan que respire en lugar de sepultarla. Las guitarras de Halsall aparecen con espacio propio y son, otra vez, el mejor argumento instrumental del conjunto; sabiendo que quedaban pocos discos por delante de esa sociedad, su presencia aquí se escucha distinto. No constan créditos verificados de productor, ingeniería, estudio ni portada, y conviene no inventarlos: lo comprobable es el criterio de mezcla, que por una vez trabaja a favor del cantante.
+
+## Recepción y legado
+
+Se lo leyó como recuperación parcial, y esa etiqueta ha resistido bien. La prensa saludó que Ayers hubiera vuelto a entregar un disco presentable y le reprochó, con razón, que sonara a producto de su tiempo y no a obra propia; el público que había ganado veinte años antes no volvió. Hoy ocupa un lugar discreto pero razonable en el catálogo: no está entre lo que hay que oír de él, aunque tampoco pertenece al montón de títulos prescindibles. Su función fue detener la caída y dejarlo en condiciones de grabar el disco despojado y honesto que vendría después, y desde esa perspectiva se le puede reconocer una utilidad que sus canciones, por sí solas, no reclamarían.

@@ -15,6 +15,25 @@ comercial_fuente: "charts"
 estrellas_critica: 3
 critica_fuente: "editorial"
 critica_nota: "Dividió a la crítica; la retrospectiva lo trata tibio."
+historia: "editorial"
 ---
 
 Primer disco sin Moon (Kenney Jones en su lugar); «You Better You Bet». Competente; el fuego, ausente. It's Hard (82, UK 11/US 8) repitió el diagnóstico y los disolvió por primera vez.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Face Dances es el primer disco de The Who sin Keith Moon, y todo en él está condicionado por esa ausencia. Kenney Jones, batería de los Small Faces y de los Faces, entró en el puesto: un músico sólido, de pulso firme y criterio clásico, exactamente lo contrario de lo que Moon aportaba. Daltrey nunca terminó de aceptarlo, Townshend defendió la decisión, y el grupo salió a grabar sabiendo que tenía que demostrar que aún existía. También pesaba otra herida reciente: la tragedia en la entrada de un concierto en Cincinnati, ocurrida poco antes, había dejado a la banda tocada de un modo que nadie sabía cómo procesar.
+
+Las canciones vienen de un Townshend que ya repartía material entre el grupo y su propia obra en solitario, y que reservaba para esta última lo más personal. Aun así, «You Better You Bet» funciona: un estribillo enorme, una letra sobre la dependencia amorosa contada con humor de resaca y una producción que sonaba actual sin sonar impostada. «Don't Let Go the Coat» retoma la imaginería espiritual de Meher Baba, cuyo consejo de no soltar el faldón del maestro da el título. «Another Tricky Day» cierra con una resignación bien escrita, y Entwistle aporta «The Quiet One», su respuesta escénica al hueco que dejó Moon, y «You». El resto flota entre lo correcto y lo anónimo.
+
+## La producción
+
+El disco se grabó con la formación de cinco que la banda usaba entonces, con teclados añadidos al núcleo de guitarra, bajo y batería, y con una producción de superficie limpia, muy propia del cambio de década: guitarras comprimidas, batería seca, coros bien colocados. La comparación con el sonido que Glyn Johns había conseguido diez años antes es inevitable y no favorece a este álbum: hay definición pero falta aire, y la energía de banda tocando junta, que era el patrimonio del grupo, aparece contenida.
+
+La portada es lo más memorable del paquete. Peter Blake, el artista que había definido buena parte de la iconografía pop británica, organizó un conjunto de retratos de los cuatro músicos encargados a distintos pintores, de modo que la cubierta es una cuadrícula de estilos diferentes mirando al mismo grupo. La idea —el rostro como género pictórico, la banda como motivo— es más ambiciosa que la música que envuelve.
+
+## Recepción y legado
+
+Se recibió con alivio más que con entusiasmo: The Who seguía en pie y tenía un sencillo que funcionaba. Pero la crítica señaló enseguida lo que hoy es consenso, que el fuego se había apagado y que la banda tocaba correctamente sin arriesgar nada. El disco siguiente repitió el diagnóstico y llevó al grupo a su primera disolución. Queda como documento de una transición imposible: se puede sustituir a un batería, pero Moon no era un batería sino una manera de entender el conjunto.

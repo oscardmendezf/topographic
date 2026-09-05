@@ -16,6 +16,23 @@ critica_nota: "Austera y funcional; interés para seguidores."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación mínima, propia del encargo."
+historia: "editorial"
 ---
 
 Banda de sonido instrumental propia para el documental sobre explotación animal: teclados austeros, casi esqueléticos, coherentes con la dureza del material filmado. Obra menor pero honesta dentro de su discografía.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Entre Ruth Is Stranger Than Richard y su regreso al formato canción pasan años en los que Wyatt casi no publica discos propios: hay sencillos sueltos, colaboraciones, versiones ajenas cargadas de intención política y poco más. The Animals Film aparece en ese hueco y no es exactamente un álbum de autor, sino la música que escribió para un documental sobre la explotación animal, un trabajo duro de ver que reunía imágenes de mataderos, laboratorios y granjas industriales. Aceptar el encargo era coherente con lo que Wyatt venía haciendo fuera del estudio: prestar su nombre y su tiempo a causas antes que a su propia carrera.
+
+El disco consta de dos partes largas, «The Animals Film (Part 1)» y «The Animals Film (Part 2)», sin voz y sin melodías que se puedan tararear. La música no ilustra ni subraya: acompaña a distancia, con teclados sostenidos que avanzan por acumulación y se detienen sin resolver. Hay algo deliberadamente inhóspito en esas texturas, un rechazo a ofrecer consuelo o belleza donde la imagen no la tiene. Quien busque aquí al Wyatt melódico no lo encuentra; quien busque su temperatura moral, sí.
+
+## La producción
+
+Es una grabación de una sola persona con pocos medios: teclados electrónicos, algún procesado, apenas percusión, y ninguna intención de disimular la austeridad del montaje. Los sonidos se eligen por su capacidad de durar, no de brillar, y las transiciones se dejan a la vista. Fuera del formato de canción, Wyatt trabaja como lo había hecho en sus collages de estudio: capas, repeticiones, decisiones tomadas mientras se graba. El disco salió por un sello independiente de la época, en línea con el resto de sus publicaciones de esos años, y su presentación es igual de escueta que la música.
+
+## Recepción y legado
+
+Circuló poco y se comentó menos, en parte porque una banda de sonido instrumental para un documental de denuncia no ofrecía asideros a quien esperaba canciones. Dentro de su discografía es una obra lateral y nadie la defiende como esencial, ni siquiera sus seguidores más fieles. Pero tiene un valor que se aprecia mejor a la distancia: muestra a un músico que aceptaba desaparecer detrás de un trabajo ajeno cuando el asunto le importaba, y que no separaba su ética de su oficio. También funciona como puente sonoro hacia lo que vendría, ese despojamiento extremo de teclado y voz que definiría su regreso. Escuchado sin la película pierde la mitad de su sentido, y conviene decirlo; escuchado con ella, explica por qué está ahí.

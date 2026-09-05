@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 3
 critica_fuente: "editorial"
 critica_nota: "Ignorado en su momento; los progueros lo revalorizan parcialmente después."
+historia: "editorial"
 ---
 
 Debut financiado por un mecenas millonario holandés (Stanley Miesegaes). No lo compró casi nadie; el mecenas aguantó un disco más.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El origen de Supertramp es una anomalía en el rock británico: no hubo años de furgoneta y pubs, hubo un mecenas. Rick Davies volvía de tocar en el continente con una banda llamada The Joint cuando el millonario holandés Stanley Miesegaes, que los había visto en Múnich, se ofreció a financiarle un grupo nuevo. Davies puso un anuncio, apareció Roger Hodgson —que venía de grabar un sencillo y todavía no había cumplido los veinte— y a él se sumaron el guitarrista Richard Palmer y el baterista Robert Millar. Se llamaron Daddy durante unos meses y luego tomaron el nombre de un libro de vagabundeo de W. H. Davies, un gesto que dice bastante sobre la clase de romanticismo que los animaba.
+
+El disco no tiene concepto, pero sí una unidad de tono: canciones largas, letras herméticas y una gravedad casi solemne para un grupo de principiantes. Las letras las escribió Palmer, que años después firmaría textos para King Crimson, y eso explica el vocabulario elevado y algo brumoso de «Aubade and I Am Not Like Other Birds of Prey» o «Maybe I'm a Beggar». «Surely» aparece dos veces, como fragmento inicial de medio minuto y como cierre completo, un truco de simetría que el grupo repetiría más adelante con mejores resultados. «It's a Long Road» y «Nothing to Show» muestran ya el reparto vocal entre la voz grave de Davies y el agudo de Hodgson, aunque todavía sin las canciones que lo justifiquen. «Try Again», de doce minutos, es la pieza donde la ambición sinfónica se hace explícita y también donde más se nota la falta de material.
+
+## La producción
+
+Grabado en Londres poco después de la formación del grupo, con John Anthony en la producción, el mismo que por entonces trabajaba con otros nombres del incipiente circuito progresivo británico. La formación que registra el disco es la fundacional, con una particularidad que suele olvidarse: Hodgson toca el bajo, no la guitarra, papel que ocupa Palmer. El sonido es de época y de presupuesto: órgano y piano eléctrico al frente, guitarra acústica en primer plano, batería seca y muy poco maquillaje de estudio. No hay Wurlitzer reconocible ni saxofón, es decir, faltan las dos señas que después identificarían al grupo. La libertad que daba el dinero de Miesegaes se nota en la duración de los temas y en la ausencia total de concesiones al formato de sencillo.
+
+## Recepción y legado
+
+No lo compró casi nadie y no se lo recuerda por sus canciones. Se lo escucha hoy por curiosidad arqueológica, para comprobar cuán poco anticipa lo que vendría cuatro años después: hay ambición pero no personalidad, y las melodías todavía no aparecen. Su interés real es documental. Registra el momento en que dos compositores que iban a definirse por oposición todavía escribían el mismo tipo de canción, y deja constancia de una manera de empezar —con financiamiento privado y sin presión— que el propio grupo terminaría pagando cara cuando el dinero se acabó.

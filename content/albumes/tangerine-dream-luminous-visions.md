@@ -16,6 +16,25 @@ critica_nota: "Encargo decorativo de la etapa TDI."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación de nicho por sello propio."
+historia: "editorial"
 ---
 
 Acompañamiento sonoro para un video de arte digital: electrónica decorativa de la etapa TDI, más funcional que inspirada.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Luminous Visions nació como acompañamiento sonoro de un vídeo de arte digital, uno de los muchos formatos híbridos que el grupo exploró desde su propio sello, cuando la imagen generada por ordenador prometía un futuro que la música electrónica llevaba décadas anunciando. El encargo no exigía material nuevo, y el grupo no lo aportó: el disco se construye casi por entero con versiones alteradas de piezas ya publicadas, rebautizadas con etiquetas de remezcla que anuncian el tratamiento antes de que suene.
+
+El listado funciona como un mapa de la propia obra reciente. «Jungle Journey» y «Firetongues» vuelven de los discos de mediados de la década, la primera convertida en reptil y la segunda en pieza rota; «Catwalk» reaparece en una versión más oscura, «Bride in Cold Tears» pasa por un filtro de soul mecánico y «Little Blond in the Park of Attractions» se disfraza de dub. «Towards the Evening Star» llega intacta desde el álbum anterior y «Flashflood» desde la banda sonora del desierto, mientras que «Rough Embrace», «Change of the Gods» y «Sojus» aportan lo poco que no procede de otro sitio. La lógica es la del catálogo puesto al servicio de la imagen: reordenar, retocar, entregar.
+
+## La producción
+
+No hay créditos verificados de producción, estudio ni personal para esta edición, y la escucha confirma el trabajo de dos manos sobre material preexistente. Las remezclas no reescriben las piezas: cambian el ritmo base, sustituyen percusiones, alargan pasajes y añaden filtros y ecos, pero conservan la melodía y la armonía originales. En algunos casos el retoque aporta algo, como la versión con eco jamaicano que descoloca una pieza antes demasiado dulce; en otros el resultado es apenas una mezcla alternativa.
+
+El objetivo declarado, acompañar imágenes abstractas en movimiento, explica también la ausencia de arcos largos. Los cortes se suceden con volumen parejo y transiciones neutras, sin la construcción dramática que tendría un álbum concebido para escuchar de principio a fin.
+
+## Recepción y legado
+
+Tuvo la recepción que corresponde a un producto derivado: los seguidores lo incorporaron a la colección y nadie más se enteró. Hoy interesa como síntoma de una época en la que el grupo publicaba a un ritmo que ninguna inspiración podría sostener, y en la que el archivo propio se había vuelto la fuente principal de novedades. Como escucha tiene momentos defendibles, sobre todo cuando la remezcla se atreve a desfigurar de verdad el original, pero el conjunto es electrónica decorativa: cumple su función junto a la imagen y se desdibuja sin ella.

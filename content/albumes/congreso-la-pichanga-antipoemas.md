@@ -16,6 +16,25 @@ critica_nota: "Celebrado como cruce feliz entre Congreso y Parra."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Obra de nicho, apreciada en Chile."
+historia: "editorial"
 ---
 
 Canciones sobre antipoemas de Nicanor Parra: el juego verbal del poeta encuentra una banda capaz de seguirle el paso. Uno de sus proyectos más singulares.
+
+<!-- historia:editorial -->
+
+## La historia
+
+En 1992 Congreso publica dos discos y este es el más raro de los dos. La banda había musicalizado poesía desde su primera canción, pero aquí va al extremo: entrega un álbum entero construido sobre los antipoemas de Nicanor Parra, el escritor que había desmontado la solemnidad de la poesía chilena reemplazando el tono elevado por el habla de la calle, el chiste amargo y la lógica torcida. Es un encuentro que se explica por afinidad más que por operación: el humor de las letras de Francisco Sazo venía de ese mismo pozo desde los setenta.
+
+El título fija el registro. Una pichanga es el partido improvisado, el juego sin árbitro ni reglamento, y también la mezcla de cosas dispares; ambas acepciones describen el disco. El material tiene un hilo insistente: la infancia y lo que los adultos le hacen. «Tuve un sueño mamá», «Recuerdos de infancia», «Juegos infantiles» y «Los niños de Chile» se leen en cadena, y «y que se respeten los derechos del niño» convierte una fórmula burocrática en verso, que es exactamente el procedimiento de Parra. «Un día un árbol me preguntó» y «Cero problema» juegan con el absurdo cotidiano; «Injusticia más grande no hay» y «Entonces fue cuando le preguntaron» sostienen el filo social sin discurso, y «El error consistió» deja instalada la duda que el antipoema nunca resuelve. «Grabación 1963» abre en medio del álbum un pliegue de archivo, un paso atrás en el tiempo.
+
+## La producción
+
+El desafío de arreglo era mayúsculo: los textos de Parra no tienen métrica de canción, cambian de tono a mitad de frase y viven del corte seco. La solución de la banda fue renunciar a la forma estrófica cuando el texto lo pedía y escribir música que sigue la prosodia del habla, con recitados, cambios abruptos de carácter y pasajes donde el conjunto acompaña casi como una banda de teatro. Hay temas que duran lo que dura el poema y se detienen sin coda, y otros que se ensanchan en desarrollos instrumentales.
+
+La instrumentación es la de la banda madura —vientos, percusión latinoamericana, bajo melódico, teclados discretos, batería de mucho detalle—, usada aquí con criterio de música incidental: timbres que ilustran, silencios que dejan caer una palabra, cambios de textura que subrayan un giro irónico. Es una grabación de estudio pensada como espectáculo, con una teatralidad que ninguno de sus otros discos tiene.
+
+## Recepción y legado
+
+Nunca fue un disco de gran alcance y tampoco pretendía serlo: pide conocer a Parra, o al menos aceptar su lógica, para funcionar del todo. Quedó como uno de los proyectos más singulares del catálogo y como una de las escasas ocasiones en que un grupo de rock chileno se midió con la poesía nacional mayor sin quedar en el papel de ilustrador. Su punto flaco es la desigualdad: junto a hallazgos notables hay piezas que dependen demasiado del texto. Su mérito es haber demostrado que el antipoema también se puede cantar.

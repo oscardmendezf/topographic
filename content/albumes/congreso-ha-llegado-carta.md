@@ -16,6 +16,25 @@ critica_nota: "Recepción discreta; visto como etapa de transición."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Alcance limitado al circuito chileno."
+historia: "editorial"
 ---
 
 La entrada a los ochenta: formato canción más directo, sin resignar el trabajo de arreglos. Disco de transición dentro de una banda que nunca dejó de moverse.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Un año después de Viaje por la cresta del mundo, la banda hace un movimiento que sorprende a quien esperaba más suites: acorta, canta más y deja la complejidad dentro de los arreglos en vez de ponerla en la estructura. No es una retirada. Es 1982, el país atraviesa una crisis que se siente en cada casa y el circuito musical chileno empieza a reabrirse a tientas; Congreso quiere estar en esa conversación sin bajar el nivel de escritura.
+
+El título da la clave emocional del disco. Una carta que llega es, en el Chile de esos años, noticia de alguien que se fue, y la pieza larga que cierra el lado —más de ocho minutos— trabaja esa espera con una calma que duele más que cualquier denuncia. Alrededor, el álbum alterna registros con soltura: «Canción didáctica #1» arranca con ironía de manual, «En el patio de Simón» se mueve en el terreno de la infancia y el barrio, «El último bolero» se despide de un género y de una manera de querer, y «Sur» apunta al territorio austral que la banda volverá a visitar. «Primera procesión» es la otra pieza extensa, de armado ceremonial, y «Se desplomen los armarios (que florezca el sentimiento)» condensa el humor surrealista de las letras de Francisco Sazo. El cierre, «Ingreso a la hiperbórea del sur», invierte el mito del norte legendario y lo planta en el hemisferio equivocado, una broma geográfica muy propia del grupo.
+
+## La producción
+
+El sonido es más nítido y más cercano al pop de la época que el del disco anterior, con las voces adelante y los estribillos despejados, pero la instrumentación sigue siendo la misma familia: vientos y flautas trabajados como sección, percusión latinoamericana de gran detalle, bajo melódico, teclados que colorean y una batería que evita el golpe fácil. Los arreglos hacen el trabajo pesado: dentro de canciones de cuatro minutos aparecen cambios de métrica, contracantos y modulaciones que en otra banda ocuparían una pieza entera.
+
+Se nota la decisión de grabar los temas breves con más definición y compresión, casi con criterio radial, y de reservar la profundidad de campo para las piezas largas, donde reaparece el aire de cámara. La producción, resuelta por la propia banda con los medios locales disponibles, es más pareja que en sus discos de los setenta, aunque el brillo agregado a los agudos delata la época.
+
+## Recepción y legado
+
+Encontró más oyentes que cualquier disco anterior del grupo y sirvió de puente hacia el público que llegó en la segunda mitad de la década. La crítica posterior lo ha tratado como un disco de tránsito, y lo es, aunque el rótulo le queda corto: la canción «Ha llegado carta» es de lo mejor que escribieron y sigue funcionando como retrato de una época sin nombrarla. Frente a los picos que lo rodean queda algo desparejo, con dos o tres temas que se sienten de relleno, pero explica cómo una banda de escritura difícil aprendió a hacerse entender.

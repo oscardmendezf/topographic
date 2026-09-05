@@ -17,6 +17,25 @@ critica_nota: "Revalorizado como documento experimental; escucha árida."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Edición mínima, circulación de culto."
+historia: "editorial"
 ---
 
 Debut autoeditado de improvisación colectiva: percusiones, vientos y ruido sin plan aparente. Más documento salvaje que disco; imprescindible solo como origen del método.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Antes de llamarse Los Jaivas, el grupo era una orquesta juvenil de Viña del Mar que se ganaba la vida en bailables, con repertorio de boleros, cumbias y éxitos importados. El nombre nuevo es la castellanización fonética del anterior, y el cambio de letras marca un cambio de vida: a finales de los sesenta los hermanos Claudio, Eduardo y Gabriel Parra, junto a Eduardo Alquinta y Mario Mutis, abandonan el oficio de tocar para que otros bailen y se encierran a improvisar sin partitura ni canción previa. El volantín es el registro de ese giro, un debut autoeditado y sin título propio que la memoria popular bautizó por la imagen de su portada.
+
+No hay concepto ni siquiera hay temas cerrados: hay sesiones. «Piano introducción / Cacho» arranca con Claudio Parra soltando figuras sobre el piano hasta que la percusión entra sin aviso, y ese es el método de todo el disco. «La vaquita» y «Por veinticinco empaná» toman coplas y pregones de la calle chilena y los deforman con vientos y golpes de percusión; «Que o la tumba serás» juega con un verso del himno nacional en una época en que la política lo llenaba todo; «Tamborcito de milagro» y «Foto de primera comunión» exploran la textura antes que la melodía. «Último día» es la pieza más extensa y la que mejor muestra el procedimiento: una deriva colectiva que se organiza sola por acumulación. El brevísimo «Bolerito» cierra como un guiño a lo que el grupo había dejado atrás.
+
+## La producción
+
+Es un disco hecho al margen de la industria y se oye: registro directo de la banda tocando junta, sin sobregrabaciones que enmascaren los tanteos ni mezcla que ordene el desorden. El instrumental ya contiene el vocabulario de toda su carrera —piano acústico, bajo, batería, guitarra y una batería de percusiones y vientos andinos y populares— pero usado como material bruto, no como arreglo. El sonido tiene la crudeza de una grabación de sala: los platillos saturan, las voces entran cuando alguien decide entrar, y la dinámica depende de quién esté escuchando a quién en ese momento.
+
+La ausencia de un productor externo es la decisión de producción más importante del álbum. Nadie recortó las derivas ni pidió estribillos, y el resultado quedó como documento de un proceso más que como objeto terminado.
+
+## Recepción y legado
+
+Circuló poco y en su momento fue más un rumor entre iniciados que un disco. Hoy se escucha como acta de fundación: aquí nace el método de improvisación colectiva que la banda encauzaría inmediatamente después en canciones reconocibles. Su valor es genealógico antes que musical, y conviene decirlo sin adornos: quien busque a Los Jaivas de la fusión andina madura no lo encontrará todavía. Lo que sí hay es la prueba de que esa fusión no vino de un plan, sino de meses de tocar sin red y aceptar lo que apareciera.

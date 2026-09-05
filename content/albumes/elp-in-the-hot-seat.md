@@ -16,6 +16,23 @@ critica_nota: "Rechazo casi unánime; señalado como el peor del catálogo."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Sin impacto; pasó inadvertido incluso entre seguidores."
+historia: "editorial"
 ---
 
 Grabado con Emerson limitado por una lesión en la mano derecha y una producción que empuja hacia el AOR genérico. El resultado es el punto más bajo del catálogo: casi nada suena a la banda que fue. Cierre de estudio involuntario y triste.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El último disco de estudio de ELP se hizo en las peores condiciones imaginables. Emerson arrastraba una lesión nerviosa en la mano derecha que le limitaba el movimiento de los dedos y que acabaría requiriendo cirugía; el hombre cuya identidad artística entera dependía de la velocidad y la precisión llegó al estudio sin poder tocar como sabía. A eso se sumó la presión de la compañía por un producto de radio, y el resultado empuja hacia un rock adulto genérico que podría ser de cualquiera. Casi nada suena a la banda que fue.
+
+El repertorio lo confirma. «Hand of Truth» abre con la intención de recuperar el formato largo y es lo más cercano al viejo grupo, pero se queda a medias; «Daddy» es una balada de tema doloroso —la desaparición de una niña— escrita con la mejor voluntad y un arreglo que la aplana; «One by One», «Thin Line» y «Change» son canciones de estribillo intercambiables, y «Heart on Ice» y «Give Me a Reason to Stay» son el momento más blando de todo el catálogo. Hay una versión de un tema de Bob Dylan, «Man in the Long Black Coat», que funciona mejor de lo esperable porque no exige nada a nadie. Y hay, en las ediciones que la incluyen, una relectura en estudio de la suite de Mussorgsky que los había definido veintitantos años antes: seis secciones de «Pictures at an Exhibition» grabadas con teclados modernos, un ejercicio que invita a la comparación más cruel posible con el registro en vivo de la primera etapa.
+
+## La producción
+
+En los créditos figura Keith Olsen como productor, un nombre asociado al rock estadounidense de radio, y esa elección explica buena parte del disco: sonido limpio, batería contenida, teclados discretos, voces al frente y ninguna aspereza. La instrumentación evita cualquier pasaje que exponga la mano de Emerson, de modo que los solos son cortos y los arreglos privilegian colchones armónicos sobre líneas rápidas. Palmer toca por debajo de sus posibilidades, con patrones simples y muy poco protagonismo, y Lake canta bien pero con material que no lo exige. La versión de estudio de la suite de Mussorgsky, en cambio, se armó con más libertad y es lo único donde se percibe un intento de trabajo de arreglo real, aunque el sonido de los teclados de la época le quite cuerpo.
+
+## Recepción y legado
+
+Fue un fracaso de público y de crítica, y el grupo no volvió al estudio: quedó como cierre involuntario y triste de una discografía que había empezado con el Moog y Bartók. Hoy se lo cita casi siempre como ejemplo de lo que no debe hacerse con un catálogo prestigioso, y no hay mucho que rescatar más allá de «Hand of Truth» y de la curiosidad documental que supone escuchar a Emerson tocando limitado. Lo que sí conviene señalar es el contexto: no es un disco cínico, es un disco hecho por tres músicos en desventaja y mal aconsejados. El trío siguió apareciendo en escenarios de manera intermitente, pero la obra estaba terminada; Emerson y Lake murieron con meses de diferencia en 2016.

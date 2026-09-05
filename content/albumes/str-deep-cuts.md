@@ -16,6 +16,23 @@ critica_nota: "Giro pop mal digerido por la crítica prog."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Presencia menor en EE.UU."
+historia: "editorial"
 ---
 
 AOR con acento americano: la deriva asumida.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Con el mercado británico dado por perdido y el estadounidense todavía receptivo, los Strawbs hicieron lo que parecía razonable: un disco pensado para la radio americana. Deep Cuts es el álbum en que Dave Cousins acepta que la etapa de las suites terminó y se pone a escribir canciones de tres minutos con estribillo, teclados brillantes y producción de acabado pop. La banda base sigue siendo la de Nomadness, reforzada por teclistas invitados que aportan capas de sintetizador y piano eléctrico, y el conjunto suena por primera vez más cerca del rock adulto de la costa oeste que del folk-rock inglés.
+
+El repertorio es desigual pero tiene su lógica. «I Only Want My Love to Grow in You» abre en tono directo y de estribillo inmediato, «Turn Me Round» y «Charmer» insisten en esa vía, y «(Wasting My Time) Thinking of You» y «So Close and Yet So Far Away» completan el bloque melódico. Contra esa ligereza aparecen dos piezas que sostienen el disco: «Hard Hard Winter», donde vuelve el Cousins de las estaciones y la intemperie, y sobre todo «The Soldiers' Tale», un relato de guerra contado desde la altura del soldado raso, con la crudeza que el resto del álbum evita. «Beside the Rio Grande» y «My Friend Peter» completan el retrato de una banda cómoda tocando material que no la exige. Burning for You, al año siguiente, llevaría la misma estrategia un paso más allá.
+
+## La producción
+
+Es el disco más producido de su carrera hasta ese punto, y se nota en todo: voces dobladas, coros de estudio, teclados en primer plano y una mezcla amplia y sin aristas, hecha para sonar bien en un coche. Las guitarras eléctricas pierden la aspereza de Hero and Heroine y se integran en la textura general; la batería está grabada con más aire y menos peso. Desaparece el Mellotron como firma y lo sustituyen sintetizadores y piano eléctrico, con arreglos que buscan calidez antes que misterio. Todo está bien hecho; lo discutible es para qué.
+
+## Recepción y legado
+
+Funcionó mejor en Estados Unidos que en su país, que es exactamente lo que se buscaba, pero no bastó para revertir la deriva. Hoy es un disco menor y se sabe: el punto en que los Strawbs dejan de tener una identidad reconocible para adoptar la del momento. Aun así, «The Soldiers' Tale» y «Hard Hard Winter» se defienden fuera de contexto y aparecen con frecuencia en las recopilaciones, prueba de que la escritura de Cousins seguía intacta aunque el marco ya no la ayudara.

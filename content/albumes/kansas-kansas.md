@@ -17,6 +17,23 @@ critica_nota: "Debut apreciado en retrospectiva, irregular en su momento."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Arranque lento; vendió recién cuando la banda explotó."
+historia: "editorial"
 ---
 
 Debut ambicioso y todavía desprolijo: el violín de Robby Steinhardt ya marca la diferencia, pero la banda aún busca el balance entre boogie y suite. Más promesa que logro.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Kansas se formó en Topeka a partir de una maraña de bandas locales que compartían músicos y repertorio: Kerry Livgren venía de una formación experimental que ya tocaba piezas largas y de compás irregular; Steve Walsh y Phil Ehart, de un grupo de versiones más orientado al escenario. La fusión de ambos mundos, con Robby Steinhardt aportando violín y una segunda voz áspera, Dave Hope al bajo y Richard Williams a la guitarra, produjo un sexteto raro para el interior de Estados Unidos a comienzos de los setenta: querían sonar como los ingleses sin dejar de tocar en bares donde se pedía boogie. El fichaje por Kirshner Records, el sello de Don Kirshner, los sacó de esa vida y los metió en un estudio.
+
+El debut es exactamente ese cruce sin resolver. «Can I Tell You» y «Bringing It Back» —esta última una versión de J. J. Cale— son rock de banda de bar con violín encima; «Lonely Wind» es la balada de pradera que después repetirían con más oficio. Pero en la otra mitad ya está el grupo verdadero. «Journey From Mariabronn» toma su título de la novela de Hesse y despliega en ocho minutos el vocabulario que definiría a Kansas: tema de violín al unísono con la guitarra, corte abrupto, sección lenta con órgano, retorno triunfal. «Belexes» abre con un giro casi oriental, «Apercu» estira la ambición hasta rozar la desorganización, y «Death of Mother Nature Suite» cierra con una advertencia ecológica y un desarrollo instrumental que es lo mejor del disco. Los temas de las letras —el viaje interior, la naturaleza herida, la búsqueda de sentido— ya son los de Livgren, aunque todavía sin la carga religiosa explícita que llegaría después.
+
+## La producción
+
+Produjeron Jeff Glixman y Jeff Magid, y el sonido acusa la inexperiencia de todos: los graves están apagados, la batería suena pequeña y el violín aparece a veces más como efecto que como instrumento integrado. Aun así, la decisión clave está tomada desde la primera pista: Steinhardt no hace de invitado, sino de segundo solista permanente, doblando líneas de guitarra y respondiendo a Walsh en las transiciones. La otra marca de fábrica es el órgano Hammond de Walsh, tocado con un ataque percusivo que venía más del rock sureño que de Emerson. Las tomas conservan un aire de banda en vivo, sin la estratificación de estudio que el grupo aprendería a manejar dos discos después.
+
+## Recepción y legado
+
+Pasó bastante desapercibido, y no sin razón: es un disco de aprendizaje, con un puñado de ideas excelentes rodeadas de relleno y una mezcla que no ayuda. Con el tiempo se ha revalorizado como documento de origen, porque contiene en bruto todo lo que Kansas haría mejor: la suite de granero, la doble guitarra, la voz de Walsh entre el gospel y el grito. Quien llega desde Leftoverture lo encontrará tosco; quien busque entender de dónde salió aquel sonido encontrará aquí la respuesta completa, incluidos los defectos. Más promesa que logro, pero la promesa es enorme.

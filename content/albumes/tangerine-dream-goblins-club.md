@@ -16,6 +16,25 @@ critica_nota: "Sin consenso registrable; catálogo profundo."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Culto; fuera del radar general."
+historia: "editorial"
 ---
 
 Último tramo antes del sello propio: electrónica melódica con guitarras, sin sorpresas mayores. Disco de continuidad para el oyente ya convencido.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Goblins' Club cierra el tramo en que Tangerine Dream todavía publicaba a través de sellos ajenos, justo antes de que Edgar Froese montara su propia estructura editorial y abriera el grifo de novedades que marcaría el resto de la década. Se escucha, por eso, como el final de una manera de trabajar: un disco pensado como producto para tienda, con duración medida, ocho cortes de desarrollo generoso y una portada que lo presenta como álbum y no como archivo.
+
+El repertorio no propone un concepto, pero comparte un imaginario de cuento fantástico que asoma en los títulos: duendes en desfile, elfos de patrulla nocturna, un Merlín triste. Es un decorado de fábula tratado sin ironía y sin oscuridad, más cercano a la ilustración amable que al folclore inquietante. «Towards the Evening Star» abre con una de las melodías más felices del periodo y se convirtió en una de las piezas del disco que el grupo siguió tocando; «At Darwin's Motel» y «Lamb With Radar Eyes» estiran el formato con solos de guitarra sobre secuencias; «Rising Haul in Silence» y «On Cranes' Passage» rebajan la temperatura; y «Sad Merlin's Sunday», la más larga, cierra con un desarrollo pausado que recupera algo del gusto por el tiempo lento de otras épocas.
+
+## La producción
+
+No constan créditos verificados de producción, personal ni estudio para el disco, de modo que el análisis se apoya en lo audible. El instrumental es el de la casa a mediados de los noventa: teclados en capas con timbres digitales muy definidos, secuencias de figura corta que sostienen la armonía, percusión programada de ataque seco y guitarra eléctrica como voz solista recurrente. La mezcla coloca esa guitarra bastante al frente, lo que empuja varias piezas hacia un terreno cercano al rock instrumental melódico y las aleja del ideal de música electrónica sin protagonistas que definía al grupo en sus orígenes.
+
+El acabado es el punto fuerte y también el más discutible. Todo está donde debe, las transiciones son limpias y ninguna pieza desentona, pero el conjunto avanza sin sobresaltos, con la seguridad de quien repite un procedimiento probado.
+
+## Recepción y legado
+
+Se recibió como un disco de continuidad, dirigido a un público ya convencido, y así ha quedado: sin sorpresas, sin escándalo y sin apenas defensores fuera del círculo de seguidores. El paso del tiempo le ha sentado mejor de lo previsible porque marca una frontera clara en la discografía; después vendrían los años de producción abundante y de encargos publicados en cadena, y muchos oyentes señalan este título como el último de la etapa en que cada álbum todavía se preparaba como un acontecimiento. «Towards the Evening Star» es lo que ha sobrevivido con más salud, y no es poco para un disco al que nadie pidió más de lo que da.

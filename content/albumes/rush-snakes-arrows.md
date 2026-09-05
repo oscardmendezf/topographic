@@ -16,6 +16,23 @@ critica_nota: "Bien recibido; leído como regreso a la forma."
 estrellas_comercial: 4
 comercial_fuente: "editorial"
 comercial_nota: "Arranque fuerte y gira masiva; la marca seguía intacta."
+historia: "editorial"
 ---
 
 El disco que consolidó la tercera vida: guitarras en capas, energía recuperada, letras de Peart sobre la fe y sus abusos. Tres instrumentales en un solo álbum, algo inédito en su catálogo. Recibido como su trabajo más sólido en dos décadas.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Con Vapor Trails la banda había demostrado que podía volver; con Snakes & Arrows demostró que podía volver bien. Entre uno y otro pasaron cinco años en los que el grupo tocó mucho en vivo, recuperó confianza y grabó un disco de versiones que le sirvió de calentamiento. El título viene del juego de mesa indio de serpientes y escaleras, donde el avance y la caída dependen del azar y de un trasfondo moral, y esa imagen ordena un álbum sobre la fe: no sobre su existencia, sino sobre lo que se hace en su nombre.
+
+Peart escribe aquí sus letras más políticas en mucho tiempo, con la incomodidad de quien vuelve de recorrer un país que ya no reconoce. «Far Cry» abre con la constatación de un mundo desquiciado y un estribillo que igual insiste en seguir de pie. «Armor and Sword» distingue entre la creencia que protege y la que ataca, «The Way the Wind Blows» retrata la deriva fundamentalista con imágenes de desierto y sequía, y «Faithless» es una declaración de humanismo sin dios, escrita sin arrogancia. «The Larger Bowl» está construida sobre una forma poética fija de versos entrelazados, y esa repetición formal sostiene la pregunta por qué a unos les toca todo y a otros nada. «Workin' Them Angels» mira hacia atrás, hacia una vida de riesgos acumulados. Entre las canciones aparecen tres instrumentales, algo inédito en un solo álbum del grupo: «The Main Monkey Business», con su estructura de suite en miniatura, la breve «Hope», para guitarra acústica sola, y «Malignant Narcissism», empujada por el bajo.
+
+## La producción
+
+Nick Raskulinecz coprodujo con la banda y su aporte fue sobre todo de entusiasmo y de arreglo: empujó al trío a recuperar los cambios de compás, las secciones instrumentales largas y la ambición estructural que había dejado de lado en los noventa, y a grabar con menos capas y más definición que en Vapor Trails. El sonido es potente y limpio, con la batería al frente y el bajo audible en toda su extensión. La novedad más rica está en el arsenal de Lifeson, que además de la eléctrica usa acústicas, bouzouki, mandolina y mandola para tejer texturas de cuerda pulsada que atraviesan el disco entero; Lee suma pedales de bajo y mellotrón, un guiño a los setenta que llevaba décadas sin aparecer. Peart alterna set acústico y electrónico y despliega la percusión con detalle en los pasajes instrumentales.
+
+## Recepción y legado
+
+Fue recibido como el mejor trabajo de la banda en dos décadas y esa valoración se ha mantenido. Consolidó la tercera vida del grupo, la de los últimos años, y demostró que la vuelta al prog no tenía por qué sonar a nostalgia. Lo que se le objeta es la extensión: trece piezas son muchas, y hacia el final se repiten procedimientos que ya funcionaron mejor antes. Lo que se rescata es la ambición recuperada y la calidad de las letras, entre lo más adulto que escribió Peart. Sin este disco, el salto formal de Clockwork Angels habría sido impensable.

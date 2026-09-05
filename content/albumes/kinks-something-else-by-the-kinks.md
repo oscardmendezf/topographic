@@ -16,6 +16,23 @@ critica_nota: "Canon del pop británico; contiene Waterloo Sunset."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Pasó casi inadvertido en su momento."
+historia: "editorial"
 ---
 
 El costumbrismo inglés de Davies en su punto más fino: miniaturas de barrio, hermanos y atardeceres sobre el Támesis, con Dave aportando sus mejores canciones propias. No es prog ni lo intenta, pero fija el estándar de álbum-retrato que los conceptuales ingleses tomarían como permiso.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Si Face to Face abrió el camino, Something Else lo recorre con paso firme. Davies ya no ensaya el retrato: lo domina. En un año en que media Inglaterra se disfrazaba de psicodelia, los Kinks entregaron un disco de habitaciones pequeñas, tazas de té y atardeceres de barrio, escrito en un inglés coloquial que ningún otro compositor de la época se atrevía a usar tan crudo. El resultado es el costumbrismo más fino de su carrera y, a la vez, el álbum donde Dave Davies aparece como autor de pleno derecho.
+
+Las miniaturas se ordenan casi como escenas de teatro. «David Watts» retrata al muchacho perfecto que envidia el narrador, con una ambigüedad que la canción nunca resuelve; «Two Sisters» enfrenta a la hermana casada, hundida en la colada, con la soltera que sale a divertirse, y se ha leído siempre como un espejo de los propios hermanos; «Situation Vacant» cuenta cómo una suegra destruye un matrimonio empujando al marido a dejar su empleo; «Harry Rag» convierte el argot popular para el cigarrillo en una canción de taberna sobre la dependencia. «Death of a Clown», firmada y cantada por Dave, es la mejor cosa que escribió, un lamento de carnaval que funcionó por su cuenta como sencillo suyo. Y el disco termina con «Waterloo Sunset», la canción que resume el método entero: dos figuras que cruzan un puente sobre el Támesis, un narrador que las mira desde la ventana sin bajar a la calle, y la ciudad entera contenida en tres minutos.
+
+## La producción
+
+El disco se grabó en los estudios del sello con la formación clásica, Mick Avory a la batería, Pete Quaife al bajo y coros, y los dos hermanos repartiendo guitarras y voces, con Rasa Davies aportando otra vez los coros agudos que le dan aire a las armonías. Nicky Hopkins vuelve como refuerzo de teclados y su clavicémbalo define «Two Sisters», mientras Ken Jones añade percusión de mano en algún pasaje. La producción figura a nombre de Shel Talmy, pero es también el punto donde Ray Davies asume de hecho la dirección del sonido, y se nota en el detalle de los arreglos: guitarras acústicas dobladas, metales apenas insinuados, un tratamiento de eco de cinta que en «Waterloo Sunset» convierte la guitarra en un halo. La portada, con fotografía de Mike Leale, presenta al grupo sin ningún gesto de época, coherente con un disco que ignoraba la moda.
+
+## Recepción y legado
+
+Se vendió mal y se entendió tarde. Frente a los grandes gestos psicodélicos de aquel año, un álbum de viñetas domésticas parecía menor, y hubo que esperar a que varias generaciones lo redescubrieran para colocarlo donde está: entre los mejores discos de canciones que dio Inglaterra. No es prog ni lo intenta, y sin embargo fija el estándar del álbum-retrato que los conceptuales ingleses tomarían como permiso para hablar de su propio país en lugar de imitar a los estadounidenses. Su influencia se rastrea después en el pop británico de guitarras y en cualquiera que haya intentado escribir sobre la vida ordinaria sin condescendencia.

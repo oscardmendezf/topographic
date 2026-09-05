@@ -16,6 +16,23 @@ critica_nota: "Ejecución impecable, necesidad discutida."
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Moderado; empujado por la marca y el aniversario."
+historia: "editorial"
 ---
 
 Regrabación nota por nota del original por sus treinta años, con la tecnología que no existía cuando grabó el original y John Cleese como maestro de ceremonias. Suena más limpio y más muerto a la vez: la corrección le quita el nervio adolescente.
+
+<!-- historia:editorial -->
+
+## La historia
+
+La idea es sencilla y algo melancólica: treinta años después de su debut, Oldfield decide volver a grabar Tubular Bells de principio a fin, sin cambiar una nota, para que suene como él lo había imaginado y no como se lo permitieron las máquinas de entonces. No es una remezcla ni una relectura como fueron las secuelas; es una copia deliberada, hecha con la técnica que le faltaba a los diecinueve años y con el control absoluto que solo da un estudio propio. En el fondo hay una obsesión que él nunca ocultó: la frustración por las imperfecciones del original, las entradas dudosas, la afinación aproximada, el sonido delgado.
+
+La estructura respeta el mapa entero, aquí desglosado en las secciones que el original presentaba encadenadas: la introducción de piano en compás irregular, «Fast Guitars», «Basses», el pasaje «Latin», el tramo de «Blues» y «Thrash», y el gran final donde una voz va presentando los instrumentos que se suman uno a uno. Ese papel de maestro de ceremonias, que en el original tenía un vozarrón cómico irrepetible, lo asume John Cleese, cuya dicción impecable resuelve la presentación con humor seco pero sin el desquicie del modelo. La segunda parte reproduce «Harmonics», «Peace», «Bagpipe Guitars», el episodio «Caveman» con sus gruñidos y el cierre con «The Sailor’s Hornpipe». La comparación es inevitable en cada compás, y es exactamente lo que el disco pide.
+
+## La producción
+
+Oldfield produjo y tocó, con Ben Darlow como ingeniero, y volvió a asumir prácticamente todo el instrumental: acordeón, guitarras acústicas, clásicas y eléctricas, bajo, glockenspiel, piano de cola, mandolina, órgano, percusión, sintetizadores, timbales y las campanas tubulares. Sally Oldfield aporta voces de fondo, otra vez en el papel que había tenido en los primeros discos de su hermano. La diferencia con 1973 no está en las notas sino en el soporte: edición digital, tomas corregibles, afinación exacta y una mezcla nítida y ancha, con cada capa separada y audible. El diseño de la edición lo firman Steve Bedford y e‑xentric, que reinterpretan la campana retorcida de la portada original con acabado digital.
+
+## Recepción y legado
+
+El experimento tuvo el efecto contrario al buscado: al eliminar los defectos, eliminó también el nervio. Lo que hacía respirar al original era precisamente la tensión de un adolescente peleando con una grabadora, la torpeza convertida en energía, y eso no se puede volver a grabar. La versión de 2003 suena mejor y significa menos; es útil como demostración de arreglo y como curiosidad comparativa, y es el disco que casi nadie pone cuando quiere escuchar Tubular Bells. Su valor está en lo que revela sobre su autor: la incomodidad permanente con la obra que lo definió y el impulso de volver a ella una y otra vez, cada década, con una herramienta nueva. En la discografía queda como el ejemplo más claro de esa compulsión.

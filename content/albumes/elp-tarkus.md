@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Muy valorado; la suite es referencia obligada del género."
+historia: "editorial"
 ---
 
 El armadillo-tanque: suite de 20 minutos que casi rompe la banda antes de existir, más un lado B de bocetos. Ya discutido en detalle.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Tarkus estuvo a punto de no existir. Emerson llegó al local con una idea larga en compás irregular, la que sería «Eruption», y Lake la rechazó de plano: le pareció que aquello no era música, y planteó abiertamente que si el grupo iba en esa dirección él no seguiría. La crisis se resolvió por insistencia y por mediación del entorno de estudio, con el acuerdo de que Lake escribiría las letras y tendría su espacio de canción. De esa negociación sale la estructura del disco: una cara ocupada por la suite y otra con piezas breves de tono deliberadamente ligero.
+
+La suite tiene siete secciones y un relato que la portada explica mejor que la letra. «Eruption» es el nacimiento de la criatura entre el fuego; «Stones of Years» y «Mass» le añaden las palabras de Lake, con la religión organizada y la ceguera de la fe como blanco explícito; «Iconoclast» y «Manticore» son pasajes instrumentales de combate, y «Battlefield» —la sección más lograda, con la voz sobre un lecho de órgano— convierte el episodio bélico en lamento. «Aquatarkus» cierra con una marcha que se disuelve: la criatura, vencida, se retira por el agua. El lado B funciona como contrapeso y también como coartada: «Jeremy Bender» es una viñeta de piano de taberna, «Bitches Crystal» un vals sombrío, «The Only Way» un ateísmo declarado sobre órgano de iglesia, «Infinite Space» y «A Time and a Place» ejercicios de trío, y «Are You Ready Eddy?» una broma de estudio dirigida al ingeniero.
+
+## La producción
+
+Se grabó con rapidez notable, con Lake produciendo y Eddy Offord en la ingeniería, la dupla del debut. El sonido es más agresivo y más denso que el del primer disco: el Hammond aparece saturado, el Moog se usa como instrumento solista de primera línea y no como color, y la batería de Palmer se registró con una definición que permite seguir cada figura en los pasajes rápidos. La ejecución de la suite se armó por bloques, encadenando secciones ensayadas por separado, y se nota en las costuras, que el grupo asumió como parte del efecto. «The Only Way» aprovecha un órgano de tubos real, contraste deliberado con el electrónico del resto. La portada, con el armadillo acorazado sobre orugas pintado a partir de las descripciones del grupo, es obra de William Neal y la carpeta desplegable narra en imágenes el combate que la música apenas insinúa; los nombres de diseño gráfico en los créditos acumulados corresponden a reediciones.
+
+## Recepción y legado
+
+Fue el disco que los convirtió en cabeza de cartel y el que definió la idea popular de ELP: monumental, técnico, un poco pesado y con una criatura absurda en la tapa. Su influencia se mide en toda la década siguiente, cada vez que un grupo decidió ocupar una cara entera con una sola pieza. El lado B, en cambio, envejeció mal: es el primer síntoma de un problema que reaparecería en Works, la dificultad del trío para escribir canciones sin suite. Se rescata «Battlefield» y la audacia del planteo; se le reprocha la solemnidad y el desnivel interno. Con Trilogy vendría la versión más musical del mismo grupo.

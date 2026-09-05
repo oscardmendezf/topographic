@@ -15,6 +15,27 @@ comercial_fuente: "charts"
 estrellas_critica: 2
 critica_fuente: "editorial"
 critica_nota: "Mal recibido: jazz-pop suave lejos de cualquier identidad del grupo"
+historia: "editorial"
 ---
 
 Jazz-pop de sesión con Jack Bruce: el nombre tocando fondo con elegancia. Última parada en 37 años.
+
+<!-- historia:editorial -->
+
+## La historia
+
+A finales de los setenta el nombre Soft Machine había quedado en suspenso. Karl Jenkins se movía cada vez más hacia el trabajo de encargo y la publicidad, John Marshall repartía su tiempo entre proyectos y ninguno de los fundadores seguía a bordo. Land of Cockayne no nació como disco de banda sino como sesión organizada alrededor de Jenkins, con músicos contratados para la ocasión y el nombre puesto en la portada por decisión de la casa discográfica, que sabía que vendía más que cualquier alternativa. Ese origen explica todo lo que suena aquí.
+
+El título remite a la Cucaña medieval, la tierra imaginaria donde la comida cae del cielo y nadie trabaja, y hay algo involuntariamente exacto en la elección: es un disco de abundancia técnica y esfuerzo mínimo. «Over 'n' Above» y «Panoramania» abren con jazz-pop de superficie brillante, arreglos de cuerda incluidos, y «Lotus Groves» o «Hot-Biscuit Slim» buscan el terreno amable del jazz de radio adulta. «Isle of the Blessed», «Behind the Crystal Curtain» y «'A Lot of What You Fancy…'» son interludios de menos de dos minutos que funcionan como respiraderos. «Palace of Glass» y «(Black) Velvet Mountain» aportan los mejores momentos, sostenidos por el bajo de Jack Bruce, cuya presencia es el reclamo principal del disco y también su mayor rareza: el hombre de Cream tocando fusion elegante en una sesión de estudio londinense.
+
+## La producción
+
+Es un disco de sesión y suena como tal. La dirección musical corresponde a Jenkins, que firma la escritura y los arreglos, con John Marshall a la batería como único vínculo con la historia reciente del grupo y un reparto de instrumentistas contratados para completar el cuadro, entre ellos Jack Bruce al bajo. Hay guitarra solista, vientos y arreglos de cuerda, todo dispuesto con criterio de producción antes que de banda.
+
+La factura es cuidada hasta la asepsia: sonido cálido, mezcla nítida, dinámica controlada, sin un solo momento de fricción. Se nota el oficio en cada compás y también la ausencia de urgencia; nadie está intentando descubrir nada, solo entregar un trabajo bien hecho. Para cualquier otro proyecto sería una virtud; con este nombre en la portada resulta desconcertante.
+
+## Recepción y legado
+
+Se recibió mal entonces y no ha mejorado con el tiempo, aunque las razones han cambiado. En su momento se leyó como una traición al legado; hoy se escucha con más indulgencia, como el jazz-pop competente que es, y se le concede la elegancia que efectivamente tiene. Lo que nadie discute es que no era Soft Machine, ni por formación ni por espíritu.
+
+Fue la última parada del nombre durante casi cuatro décadas: no habría otro disco de estudio hasta que la formación reunida en torno a John Etheridge recuperara la firma. Como final de la historia clásica resulta triste y muy propio de su época, un grupo que empezó siendo un experimento colectivo y terminó siendo una marca registrada aplicada a una sesión de estudio.

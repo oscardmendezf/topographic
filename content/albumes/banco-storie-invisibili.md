@@ -16,6 +16,27 @@ critica_nota: "Demasiado reciente para consenso registrable."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación de nicho prog."
+historia: "editorial"
 ---
 
 Tercer álbum de la etapa Nocenzi-D'Alessio, todavía reciente: mantiene la línea conceptual y el sonido sinfónico de sus dos predecesores.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Tercer disco de la etapa Nocenzi–D'Alessio y giro de escala. Después del viaje transiberiano y del poema de Ariosto, el grupo cambia el mito por lo mínimo: doce piezas breves, casi todas por debajo de los cinco minutos, dedicadas a vidas que nadie cuenta. El título lo dice sin metáfora, historias invisibles. Ya no hay un relato único que atraviese el disco, sino una galería de figuras, y el hilo conceptual pasa a ser la mirada antes que la trama.
+
+Los títulos funcionan como una lista de retratos. «Studenti» abre con los que todavía no tienen biografía; «Il mietitore» y «Il pittore» ponen el oficio como identidad, el que siega y el que pinta; «Non sono pazzo» presta la voz a quien se defiende del diagnóstico ajeno; «L'ultimo moro dell'Alhambra» es el único que se va al pasado y a la pérdida de un mundo, con Granada al fondo; «Senza nuvole» y «Spiegami il cielo» miran hacia arriba, una para constatar la falta de refugio y la otra para pedir explicaciones; «La casa blu» y «Cena di Natale» entran en el interior doméstico, con la comida familiar como escenario de todo lo que no se dice; «Sarà ottobre» sitúa la melancolía en el mes en que cambia la luz; «Solo meraviglia», la más corta, se queda en el asombro, y «Capo Horn», la más extensa, cierra con el confín más temido por los navegantes como imagen del último tramo.
+
+En la trayectoria de la formación es continuidad declarada: mismo sonido, misma manera de escribir, menos escala.
+
+## La producción
+
+No constan créditos verificados de producción, ingeniería ni estudio, y siendo un disco todavía reciente conviene no adelantar nombres. El planteamiento audible es el de los dos anteriores, ajustado a la nueva medida: teclados de Nocenzi como armazón, con piano y órgano llevando la melodía y sintetizadores en función de cuerda, guitarras que acompañan más de lo que se exhiben, y una sección rítmica al servicio de la canción.
+
+La diferencia de formato tiene consecuencias claras en el arreglo. Sin piezas largas, el desarrollo instrumental se comprime en introducciones, puentes y codas, y el peso recae en la voz y en la letra. D'Alessio canta aquí con menos declamación y más cercanía, lo que encaja con un repertorio de personajes ordinarios. La producción es limpia y contemporánea, sin las texturas analógicas del prog clásico, y su mayor virtud es que no infla lo que no lo necesita.
+
+## Recepción y legado
+
+Es demasiado pronto para saber dónde quedará. La primera lectura es la previsible: quienes valoran la etapa actual encuentran un disco cuidado y coherente, y quienes esperaban otra obra monumental echan de menos la ambición formal de sus predecesores. Reducir la escala tiene un precio en un grupo cuyo prestigio se construyó sobre suites, y también una recompensa, porque obliga a que cada canción se defienda sola. Lo que ya puede afirmarse es que confirma un proyecto: la nueva formación no fue un episodio de circunstancias, sino una etapa con obra propia y una idea sostenida de lo que Banco puede ser sin sus fundadores. El juicio definitivo, como corresponde con un disco tan cercano, queda pendiente.

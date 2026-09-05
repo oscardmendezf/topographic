@@ -1,0 +1,427 @@
+{
+ "id": "his-28",
+ "contexto_artistas": {
+  "klaus-schulze": "En paralelo a Tangerine Dream, Schulze funda la escuela berlinesa por cuenta propia: Timewind y Mirage son sus dos pilares de la década. Largas formas electrónicas en solitario, más meditativas que las de sus antiguos compañeros. De aquí también sale media música electrónica posterior.",
+  "kraftwerk": "Kraftwerk empezó dentro del krautrock y lo abandonó por diseño: con Autobahn dejaron la improvisación por la máquina y el concepto. Es el punto exacto donde esta historia se convierte en la siguiente: de la escena alemana de los setenta a la música electrónica popular entera.",
+  "la-maquina-de-hacer-pajaros": "El proyecto abiertamente progresivo de Charly García entre Sui Generis y Serú Girán: doble teclado, arreglos elaborados y canción popular sofisticada. Duró dos discos, atrapada entre la ambición sinfónica y el instinto melódico de su líder. Eslabón clave para entender cómo el prog se filtró en el rock argentino masivo."
+ },
+ "albumes": [
+  {
+   "album_slug": "klaus-schulze-deus-arrakis",
+   "titulo": "Deus Arrakis",
+   "artista": "Klaus Schulze",
+   "artista_slug": "klaus-schulze",
+   "anio": 2022,
+   "primer_lanzamiento": "2022-05-20",
+   "era": "moderna",
+   "analisis_actual": "El testamento: vuelve al imaginario de Dune que ya había tocado en los setenta, con tres piezas extensas de electrónica majestuosa y chelo. Publicado en el año de su muerte, funciona como despedida coherente con toda su obra.",
+   "pistas": [
+    "1. Osiris (18:30)",
+    "2. Seth (31:49)",
+    "3. Der Hauch des Lebens (27:07)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [
+     "Christian Bröhenhorst (artwork)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "klaus-schulze-101-milky-way",
+   "titulo": "101, Milky Way",
+   "artista": "Klaus Schulze",
+   "artista_slug": "klaus-schulze",
+   "anio": 2024,
+   "primer_lanzamiento": "2024-11-15",
+   "era": "moderna",
+   "analisis_actual": "Publicación póstuma de material de estudio que extiende el cierre de catálogo iniciado con Deus Arrakis. Apéndice para el oyente completista antes que capítulo nuevo.",
+   "pistas": [
+    "1. Infinity (14:52)",
+    "2. Alpha (5:01)",
+    "3. Multi (32:36)",
+    "4. Meta (8:41)",
+    "5. Uni (18:36)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-kraftwerk",
+   "titulo": "Kraftwerk",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 1970,
+   "primer_lanzamiento": "1970-07",
+   "era": "clasica",
+   "analisis_actual": "El debut krautrock que la propia banda después borró de su canon: flauta, órgano, percusión y experimentación libre bajo la órbita de Conny Plank. Imprescindible para entender de dónde salieron, no adónde iban.",
+   "pistas": [
+    "1. Ruckzuck (7:50)",
+    "2. Stratovarius (12:32)",
+    "3. Megaherz (9:33)",
+    "4. Vom Himmel hoch (9:59)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [
+     "Florian Schneider: percussion"
+    ],
+    "arte": [
+     "Ralf Hütter (illustration)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-kraftwerk-2",
+   "titulo": "Kraftwerk 2",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 1972,
+   "primer_lanzamiento": "1972-01",
+   "era": "clasica",
+   "analisis_actual": "Ralf y Florian a solas, con caja de ritmos primitiva y manipulación de cintas: el disco más abstracto de su prehistoria. Se escucha el laboratorio, todavía no el concepto.",
+   "pistas": [
+    "1. Klingklang (17:32)",
+    "2. Atem (2:53)",
+    "3. Strom (3:49)",
+    "4. Spule 4 (5:24)",
+    "5. Wellenlänge (9:37)",
+    "6. Harmonika (3:18)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-ralf-florian",
+   "titulo": "Ralf & Florian",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 1973,
+   "primer_lanzamiento": "1973",
+   "era": "clasica",
+   "analisis_actual": "La bisagra: melodía y sintetizadores empiezan a ganarle a la improvisación, y asoma por primera vez la voz procesada. Último paso antes de que Autobahn lo cambie todo.",
+   "pistas": [
+    "1. Elektrisches Roulette (4:23)",
+    "2. Tongebirge (2:56)",
+    "3. Kristallo (6:24)",
+    "4. Heimatklänge (3:50)",
+    "5. Tanzmusik (6:38)",
+    "6. Ananas Symphonie (14:01)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-autobahn",
+   "titulo": "Autobahn",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 1974,
+   "primer_lanzamiento": "1974-11",
+   "era": "clasica",
+   "analisis_actual": "La pieza titular convierte un viaje por autopista en veintidós minutos de pulso electrónico y melodía pop: el kraut experimental saliendo hacia otra cosa. Aquí termina una escena y empieza la música electrónica de masas.",
+   "pistas": [
+    "1. Autobahn (22:30)",
+    "2. Kometenmelodie 1 (6:20)",
+    "3. Kometenmelodie 2 (5:44)",
+    "4. Mitternacht (3:43)",
+    "5. Morgenspaziergang (4:00)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Conny Plank (producer)",
+     "Conny Plank (engineer)",
+     "Florian Schneider (producer)"
+    ],
+    "musicos": [
+     "Wolfgang Flür: percussion",
+     "Ralf Hütter: electronic instruments",
+     "Klaus Röder: violin",
+     "Florian Schneider: electronic instruments",
+     "Ralf Hütter: vocal",
+     "Florian Schneider: vocal"
+    ],
+    "arte": [
+     "Emil Schult (design/illustration)",
+     "Barbara Niemöller (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-radioaktivitat",
+   "titulo": "Radio‐Aktivität",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 1975,
+   "primer_lanzamiento": "1975",
+   "era": "clasica",
+   "analisis_actual": "Primer álbum enteramente conceptual y electrónico: la radio y la radiación como tema único, entre el pop y el ruido puro. Versión alemana del disco que consolidó el método Kling Klang.",
+   "pistas": [
+    "1. Geiger Counter (1:06)",
+    "2. Radioactivity (6:41)",
+    "3. Radioland (5:51)",
+    "4. Airwaves (4:40)",
+    "5. Intermission (0:38)",
+    "6. News (1:17)",
+    "7. The Voice of Energy (0:54)",
+    "8. Antenna (3:42)",
+    "9. Radio Stars (3:33)",
+    "10. Uranium (1:27)",
+    "11. Transistor (2:14)",
+    "12. Ohm Sweet Ohm (5:38)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-trans-europa-express",
+   "titulo": "Trans Europa Express",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 1977,
+   "primer_lanzamiento": "1977",
+   "era": "clasica",
+   "analisis_actual": "El tren como concepto y el pulso mecánico como estética completa: elegancia europea convertida en música de máquinas. Versión en alemán de una de las obras más influyentes de la electrónica popular, del synth-pop al hip hop.",
+   "pistas": [
+    "1. Europa Endlos (9:41)",
+    "2. Spiegelsaal (7:56)",
+    "3. Schaufensterpuppen (6:15)",
+    "4. Trans Europa Express (6:35)",
+    "5. Metall auf Metall (2:10)",
+    "6. Abzug (4:53)",
+    "7. Franz Schubert (4:26)",
+    "8. Endlos Endlos (0:46)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Peter Bollig (engineer)",
+     "Bill Halverson (engineer)",
+     "Thomas Kukuck (engineer)",
+     "Ralf Hütter (producer)",
+     "Florian Schneider (producer)"
+    ],
+    "musicos": [],
+    "arte": [
+     "Maurice Seymour (photography)",
+     "J. Stara (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-die-menschmaschine",
+   "titulo": "Die Mensch·Maschine",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 1978,
+   "primer_lanzamiento": "1978-05",
+   "era": "clasica",
+   "analisis_actual": "El concepto hombre-máquina llevado a su forma más pop: constructivismo rojo y negro, melodías perfectas, la banda presentándose como robots. Versión alemana del disco que dejó el synth-pop de los ochenta prácticamente escrito.",
+   "pistas": [
+    "1. The Robots (6:12)",
+    "2. Spacelab (5:55)",
+    "3. Metropolis (6:01)",
+    "4. The Model (3:43)",
+    "5. Neon Lights (8:54)",
+    "6. The Man·Machine (5:32)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-computerwelt",
+   "titulo": "Computerwelt",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 1981,
+   "primer_lanzamiento": "1981",
+   "era": "siguiente",
+   "analisis_actual": "La informática cotidiana anticipada antes de que existiera para el gran público: minimalismo rítmico que el electro y el techno saquearon durante décadas. Versión en alemán del cierre de su racha imperial.",
+   "pistas": [
+    "1. Computerworld (5:05)",
+    "2. Pocketcalculator (5:00)",
+    "3. Numbers (3:00)",
+    "4. Computerworld 2 (3:30)",
+    "5. Computer Love (7:00)",
+    "6. Homecomputer (6:00)",
+    "7. It’s More Fun to Compute (4:15)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-electric-cafe",
+   "titulo": "Electric Cafe",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 1986,
+   "primer_lanzamiento": "1986-11-03",
+   "era": "siguiente",
+   "analisis_actual": "Salió tras años de silencio y de un perfeccionismo que jugó en contra: sonido digital impecable y material más delgado que el de su racha imperial previa. El mundo que ellos inventaron ya corría más rápido que ellos.",
+   "pistas": [
+    "1. Boing Boom Tschak (2:57)",
+    "2. Techno Pop (7:42)",
+    "3. Musique Non Stop (5:45)",
+    "4. The Telephone Call (8:03)",
+    "5. Sex Object (6:51)",
+    "6. Electric Cafe (4:20)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "François K (mix)",
+     "Kraftwerk (mix)",
+     "Ron Saint Germain (mix)",
+     "Karl Bartos (producer)",
+     "Wolfgang Flür (producer)",
+     "Ralf Hütter (producer)",
+     "Florian Schneider (producer)"
+    ],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-the-mix",
+   "titulo": "The Mix",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 1991,
+   "primer_lanzamiento": "1991-06-10",
+   "era": "siguiente",
+   "analisis_actual": "Regrabación digital íntegra del repertorio: la banda tratando su propio catálogo como software a actualizar, coherente con todo lo que predicaron. Como disco nuevo es discutible; como declaración de método, impecable.",
+   "pistas": [
+    "[12\" Vinyl 1] 1. Die Roboter (8:56)",
+    "[12\" Vinyl 1] 2. Computerliebe (6:35)",
+    "[12\" Vinyl 1] 3. Taschenrechner (4:32)",
+    "[12\" Vinyl 1] 4. Dentaku (3:27)",
+    "[12\" Vinyl 1] 5. Autobahn (9:27)",
+    "[12\" Vinyl 2] 1. Radioaktivität (6:53)",
+    "[12\" Vinyl 2] 2. Trans Europa Express (3:20)",
+    "[12\" Vinyl 2] 3. Abzug (2:18)",
+    "[12\" Vinyl 2] 4. Metall auf Metall (4:58)",
+    "[12\" Vinyl 2] 5. Heimcomputer (8:02)",
+    "[12\" Vinyl 2] 6. Musik Non Stop (6:38)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "kraftwerk-tour-de-france-soundtracks",
+   "titulo": "Tour de France Soundtracks",
+   "artista": "Kraftwerk",
+   "artista_slug": "kraftwerk",
+   "anio": 2003,
+   "primer_lanzamiento": "2003-08-04",
+   "era": "moderna",
+   "analisis_actual": "El único álbum de material nuevo tras Electric Cafe: la bicicleta como concepto, minimalismo digital pulido hasta el brillo. Menos revolucionario que consecuente, y mejor de lo que se esperaba tras tanto silencio.",
+   "pistas": [
+    "1. Prologue (0:31)",
+    "2. Tour de France (Etape 1) (4:27)",
+    "3. Tour de France (Etape 2) (6:40)",
+    "4. Tour de France (Etape 3) (4:07)",
+    "5. Chrono (3:27)",
+    "6. Vitamin (8:09)",
+    "7. Aero Dynamik (5:04)",
+    "8. Titanium (3:21)",
+    "9. Elektro Kardiogramm (5:16)",
+    "10. La forme (8:41)",
+    "11. Regeneration (2:04)",
+    "12. Tour de France (5:08)",
+    "13. Tour de France 03 (Version 1) (3:28)",
+    "14. Tour de France 03 (Version 2) (3:25)",
+    "15. Tour de France 03 (Version 3) (3:36)",
+    "16. Tour de France 03 (Long Distance Version 2) (7:46)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "la-maquina-de-hacer-pajaros-la-maquina-de-hacer-pajaros",
+   "titulo": "La máquina de hacer pájaros",
+   "artista": "La Máquina de Hacer Pájaros",
+   "artista_slug": "la-maquina-de-hacer-pajaros",
+   "anio": 1976,
+   "primer_lanzamiento": "1976",
+   "era": "clasica",
+   "analisis_actual": "García suelta la ambición contenida en Sui Generis: arreglos densos, humor ácido, canciones que se estiran sin perder el pulso pop. Transición asumida, con más ideas que cohesión.",
+   "pistas": [
+    "1. Bubulina (5:35)",
+    "2. Cómo mata el viento norte (2:44)",
+    "3. Boletos, pases y abonos (6:30)",
+    "4. No puedo verme más (4:15)",
+    "5. Rock (4:06)",
+    "6. Por probar el vino y el agua salada (3:22)",
+    "7. Ah, te vi entre las luces (11:09)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "la-maquina-de-hacer-pajaros-peliculas",
+   "titulo": "Películas",
+   "artista": "La Máquina de Hacer Pájaros",
+   "artista_slug": "la-maquina-de-hacer-pajaros",
+   "anio": 1977,
+   "primer_lanzamiento": "1977",
+   "era": "clasica",
+   "analisis_actual": "El disco donde la banda encuentra su forma: más cohesivo, más oscuro, con el clima opresivo del país filtrándose en las letras. El mejor de los dos y uno de los picos del prog argentino de esos años.",
+   "pistas": [
+    "1. Obertura 777 (4:50)",
+    "2. Marilyn, la Cenicienta y las mujeres (4:25)",
+    "3. No te dejes desanimar (4:10)",
+    "4. Qué se puede hacer, salvo ver películas (6:15)",
+    "5. Hipercandombe (4:31)",
+    "6. El vendedor de las muñecas de plástico (4:52)",
+    "7. Ruta perdedora (5:43)",
+    "8. En las calles de Costa Rica (4:10)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  }
+ ]
+}

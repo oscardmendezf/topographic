@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 2
 critica_fuente: "editorial"
 critica_nota: "Regreso mal recibido: transición sin identidad pese a las ventas"
+historia: "editorial"
 ---
 
 Regreso tras cinco años; Pinder se va a mitad de camino y con él el Mellotron, es decir, la identidad. Vendió bien igual: la marca ya era autónoma de la música.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Tras cinco años de proyectos individuales, los Moody Blues volvieron a reunirse en un contexto que ya no era el suyo: el punk había pasado por encima del rock ambicioso y el propio grupo estaba disperso geográficamente, con Mike Pinder instalado en California y el resto entre Inglaterra y Estados Unidos. Octave se grabó en esas condiciones, con la banda reuniéndose a medias y sin la convivencia diaria que había sostenido la etapa anterior. El título alude al octavo álbum y también a la idea de volver a empezar en un tono más alto; lo primero es exacto, lo segundo bastante menos.
+
+El disco no tiene concepto ni pretende tenerlo. «Steppin’ in a Slide Zone», de Lodge, abre con un pulso rockero de época; «Driftwood» y «Had to Fall in Love» son baladas de Hayward que muestran su oficio intacto; «Top Rank Suite» recuerda con nostalgia los salones de baile del circuito de provincias donde el grupo se hizo; «Under Moonshine» y «I’ll Be Level With You» ponen la cuota de Ray Thomas. Las dos canciones de Pinder, «One Step Into the Light» y su participación en «The Day We Meet Again», resultan a posteriori una despedida: terminado el disco se negó a salir de gira y abandonó el grupo, y con él se fue el Mellotron, que es tanto como decir la identidad sonora de la banda. Su lugar en la carretera lo ocuparía Patrick Moraz.
+
+## La producción
+
+Es el último álbum realizado con el productor que había acompañado toda la etapa clásica, y también el primero en el que se nota la ausencia de un método común. La grabación se repartió entre sesiones en Inglaterra y en California, lo que fragmentó el trabajo y obligó a montar el disco por partes. El sonido busca actualizarse: guitarras más presentes, teclados eléctricos en lugar de las masas de cinta, batería con la reverberación limpia de finales de la década. Funciona a ratos, pero cuando aparece el color antiguo —las cuerdas de teclado, las armonías apiladas— el contraste delata que el grupo estaba entre dos lenguajes sin haber elegido ninguno.
+
+## Recepción y legado
+
+Comercialmente el regreso fue un éxito, lo que confirmó algo incómodo: la marca Moody Blues ya funcionaba con independencia de lo que sonara dentro del surco. Críticamente pasó sin pena ni gloria, y con el tiempo se ha quedado como el disco bisagra, el que separa la etapa que importa de la que vino después. Tiene canciones dignas —«Driftwood» es de las mejores baladas tardías de Hayward— y ninguna sorpresa. Su interés real es documental: registra el momento exacto en que el grupo perdió al hombre que había inventado su sonido y decidió seguir igualmente, apostando por la melodía y el reconocimiento antes que por la aventura.

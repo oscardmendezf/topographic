@@ -16,6 +16,29 @@ critica_nota: "Despedida con oficio; recepción tibia, algo revalorada por la su
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Moderado, sostenido por Europa continental; débil en los mercados anglosajones."
+historia: "editorial"
 ---
 
 Concepto sobre Antoni Gaudí y la Sagrada Família, con «La Sagrada Familia» como pieza central. Cierre del catálogo del Project como tal: el método de estudio intacto, la inspiración ya en retirada. Woolfson reciclaría la idea después en el teatro musical.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El último disco firmado como Alan Parsons Project vuelve a un procedimiento que el grupo había abandonado: un concepto real, con protagonista y con lugar. La figura es Antoni Gaudí, y el eje es la Sagrada Família, esa obra que su autor sabía que no vería terminada y que siguió proyectando de todos modos. Para un dúo que llevaba una década haciendo discos sobre ideas cada vez más abstractas, el tema tenía una ventaja evidente: la construcción interminable como imagen de la ambición artística servía de espejo y de coartada.
+
+«La Sagrada Familia» abre con casi nueve minutos y es la pieza más ambiciosa que el grupo había intentado desde la suite de los naipes: coro, orquesta, cambios de sección y una entrada que imita la elevación de las torres. Después el álbum vuelve al formato conocido. «Too Late» y «Closer to Heaven» trabajan la balada; «Standing on Higher Ground» aporta el corte de mayor empuje; «Money Talks» introduce la única nota sarcástica, sobre lo que financia y condiciona una obra; «Inside Looking Out» estira la reflexión sin encontrar un centro. El cierre, «Paseo de Gracia», es un instrumental que retoma material previo y funciona como paseo real por la avenida barcelonesa donde Gaudí dejó dos de sus casas.
+
+Es también el punto donde el proyecto se disuelve. Woolfson ya venía desarrollando material que quería llevar al teatro musical y acabó siguiendo ese camino por su cuenta; la idea de Gaudí volvería después en formato escénico, y las obras siguientes de Woolfson dejarían de ser discos del Project para convertirse en musicales.
+
+## La producción
+
+Parsons produce y comparte ingeniería con Tony Richards, Woolfson figura como productor ejecutivo y Andrew Powell aparece en los arreglos. La dirección se reparte entre David Cripp y Robert Howes, que además tocan corno y timbales respectivamente, detalle que da idea de cómo se armaron las sesiones: músicos de orquesta cumpliendo doble función.
+
+El sonido combina la paleta digital de la época con instrumentación acústica de cámara: John Heley en violonchelo, Laurie Cottle en bajo, Richard Cottle en saxofón y sintetizadores, Ian Bairnson en guitarra, Stuart Elliott repartiendo batería, percusión y teclados, y Woolfson en piano. Las voces principales rotan entre John Miles, Chris Rainbow, Lenny Zakatek, Geoff Barradale y el propio Woolfson. La mezcla es más cálida que la del disco anterior, con más aire para el coro y menos dependencia de la caja de ritmos, y eso sitúa a Gaudi por encima de sus vecinos inmediatos en el catálogo.
+
+## Recepción y legado
+
+Cerró el proyecto sin que nadie lo anunciara, y con el tiempo se lo lee mejor de lo que se lo leyó entonces: es un disco desigual pero con una pieza de primera y con una idea que le importa a quien la escribió, dos cosas que faltaban desde principios de la década.
+
+Sus límites son los del método en su fase final. La producción sigue siendo superior a lo que casi cualquier contemporáneo podía ofrecer, y la inspiración ya solo alcanza para el primer corte. Lo que queda del Project es un catálogo que empezó adaptando literatura con orquesta y terminó rindiendo homenaje a un arquitecto que también murió sin ver su obra completa; la simetría es demasiado limpia como para no señalarla.

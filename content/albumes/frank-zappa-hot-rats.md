@@ -17,6 +17,25 @@ critica_nota: "Canon del jazz-rock; su disco más consensuado."
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Modesto en su país, sólido en Europa."
+historia: "editorial"
 ---
 
 Casi todo instrumental, casi sin chistes: jazz-rock de guitarras con «Peaches en Regalia» como carta de presentación. El Zappa que cualquiera puede recomendar sin notas al pie.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Hot Rats es el disco que Zappa hizo justo después de disolver la primera formación de las Mothers of Invention, harto de sostener una banda numerosa que no daba de comer. Liberado del elenco y de la obligación satírica, se concentró en lo que más le interesaba en ese momento: composición instrumental de cabeza jazzística, tocada por músicos capaces de leer cualquier cosa, y su propia guitarra tratada como voz solista con derecho a hablar largo. El resultado es el álbum más accesible de su primera década, y también el más engañosamente simple: bajo la superficie hay compases cambiantes, armonías retorcidas y arreglos escritos hasta el último detalle.
+
+«Peaches en Regalia» abre con la melodía más recordada de todo su catálogo, un tema breve de aire casi de fanfarria donde los teclados y los vientos doblan la línea principal con precisión de cámara. «Willie the Pimp» es la excepción cantada: Captain Beefheart aúlla un blues de proxeneta sobre un riff obstinado que después se disuelve en un solo de guitarra extenso, sucio y sin concesiones. «Son of Mr. Green Genes» retoma un personaje ya aparecido en Uncle Meat y lo convierte en vehículo instrumental; «Little Umbrellas» es la miniatura más delicada del conjunto; «The Gumbo Variations» estira un blues modal hasta el cuarto de hora con violín y saxo turnándose el protagonismo; e «It Must Be a Camel» cierra con la escritura más angulosa del disco, con el violín eléctrico dibujando líneas imposibles. La continuidad con Chunga's Revenge es directa: allí volverá a alternar este jazz-rock de guitarra con material vocal de gira.
+
+## La producción
+
+Zappa produjo el disco él mismo y se apoyó en Dick Kunc, su ingeniero de aquellos años, con sesiones repartidas entre TTG Studios, Sunset Sound y Whitney Recording Studios. Fue uno de los primeros álbumes de rock grabado con multipista ampliada, y Zappa aprovechó cada canal disponible: Ian Underwood dobla saxos, órgano y teclados hasta sonar como una sección entera, y las bases se construyeron por capas antes de recibir los solos. Lowell George figura entre los guitarristas acreditados, y Zappa aparece además en percusión. El violín tiene un peso desacostumbrado para un disco de rock de la época, con Sugarcane Harris y Jean-Luc Ponty aportando dos concepciones distintas del instrumento, una sucia y de raíz blues, la otra de fraseo europeo.
+
+También hay decisiones de sonido deliberadamente extrañas: velocidades de cinta alteradas, ecualizaciones agresivas y una mezcla que empuja la guitarra al frente sin miedo a la aspereza. El arte lo firma Cal Schenkel, con dirección artística de Zappa; la imagen de portada, una figura emergiendo de una piscina vacía en tratamiento fotográfico casi irreal, se volvió tan reconocible como la música.
+
+## Recepción y legado
+
+Fue el disco que le abrió puertas fuera de su público habitual, sobre todo en Europa, donde el jazz-rock encontró oídos antes que en su país. Hoy es la recomendación estándar para quien quiere entrar en Zappa sin manual de instrucciones, y su influencia se rastrea en toda la fusión de los setenta, aunque él nunca aceptó la etiqueta. Lo que envejeció bien es la escritura; lo que menos, cierta longitud complaciente de «The Gumbo Variations». «Peaches en Regalia» se convirtió en pieza de repertorio ajeno, algo que casi ninguna otra composición suya logró.

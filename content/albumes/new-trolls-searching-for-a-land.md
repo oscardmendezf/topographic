@@ -16,6 +16,25 @@ critica_nota: "Recepción mixta; ambición reconocida, cohesión discutida."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Alcance limitado; el salto internacional no ocurrió."
+historia: "editorial"
 ---
 
 Doble mitad estudio y mitad vivo, cantado en inglés con la mira puesta afuera: hard rock con arrebatos progresivos. Ambicioso y disperso a la vez, retrato fiel de una banda que probaba todo.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del éxito del Concerto grosso, New Trolls quedó ante una encrucijada incómoda: repetir la fórmula orquestal o demostrar que eran algo más que la banda de acompañamiento de una partitura ajena. Este doble es la respuesta más ambiciosa y también la más desordenada de su carrera. Cantado íntegramente en inglés y publicado con la mirada puesta en el mercado internacional, reparte su contenido entre un bloque de estudio y otro grabado en directo, como si el grupo quisiera presentar a la vez sus credenciales de compositores y de banda en escena.
+
+El material de estudio se mueve entre el hard rock y el arrebato progresivo sin decidirse del todo. «Searching» y «Percival» tiran de riff y voz aguda, «In St. Peter's Day» y «Once that I Prayed» introducen la vena mística y solemne que la banda cultivaba desde el debut, «A Land to Live a Land to Die» desarrolla la idea del título —la búsqueda de una tierra propia, entre lo religioso y lo político— en formato largo, y «To Edith» estira casi diez minutos de desarrollo instrumental. La parte en vivo cambia de registro: una introducción extensa, dos piezas de rock directo y un cierre de dieciocho minutos, «Lying Here», donde la banda se deja llevar por la improvisación tal como hacía en el escenario. Fue el último gran intento del grupo antes de que las tensiones internas lo partieran en dos.
+
+## La producción
+
+La convivencia de estudio y directo en el mismo objeto define el sonido y explica sus desequilibrios. El bloque de estudio está grabado con cierto cuidado en los planos y con espacio para la guitarra, que aquí manda más que en cualquier disco anterior, mientras las teclas pasan a un papel de sostén. El bloque en directo llega con la crudeza propia de una toma de sala, con la mezcla desigual y el público audible, y muestra sin filtro la mecánica de la banda cuando no había arreglos escritos que respetar: extensión, repetición y solos largos.
+
+La decisión de cantar en inglés condiciona más de lo que parece. La dicción es irregular y las letras pierden la precisión que tenían en italiano, pero a cambio la voz se acomoda mejor al fraseo del hard rock británico que la banda estaba imitando, y las armonías vocales encuentran ahí un modelo reconocible.
+
+## Recepción y legado
+
+No consiguió abrir las puertas de fuera y en casa quedó a la sombra del Concerto grosso, que era justo lo que el disco intentaba dejar atrás. Su reputación posterior es discreta, con defensores que valoran su ambición y detractores que señalan lo evidente: es un disco disperso, largo de más y sin una idea que lo unifique. Interesa como retrato de una banda en pleno intento de reinventarse, probando registros a la vez y sin miedo al ridículo, y como antesala del disco más compacto y más duro que grabarían inmediatamente después.

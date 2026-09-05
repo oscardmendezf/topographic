@@ -16,6 +16,25 @@ critica_nota: "Recepción mixta: sólido para los fieles, rutinario para el rest
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Rendimiento moderado a la sombra del regreso de Crest of a Knave."
+historia: "editorial"
 ---
 
 Continuación directa de la fórmula de Crest of a Knave: guitarras al frente, ecos de Dire Straits, Anderson administrando un registro vocal ya reducido. Más oscuro y menos fresco que su antecesor; el oficio sostiene lo que la inspiración no siempre alcanza.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Rock Island llega cuando Jethro Tull había encontrado por fin una fórmula estable para su segunda vida: guitarra eléctrica al frente, voz grave y contenida, canciones de duración media con un par de piezas largas para justificar el pedigrí. El disco no discute esa fórmula, la profundiza. Donde el anterior tenía una luz otoñal y cierta amabilidad, este se instala en un territorio más áspero y solitario, como sugiere el propio título: la isla de roca, el hombre aislado en su peñasco, la incomunicación como tema recurrente.
+
+El repertorio alterna la broma gruesa y la meditación sombría, y esa mezcla es a la vez su gracia y su problema. «Kissing Willie» abre con un riff pesado y una letra de doble sentido que la banda nunca acabó de defender del todo; «The Rattlesnake Trail» y «Undressed to Kill» siguen esa vena eléctrica y algo socarrona. Enfrente están las piezas que sostienen el disco: la canción titular, extensa y de desarrollo lento, sobre el hombre que se queda solo en su roca; «The Whaler's Dues», la más larga y la más oscura, un lamento marítimo sobre la caza de ballenas y lo que se paga por ella; «Strange Avenues», retrato acústico de un encuentro nocturno en la calle con alguien que no tiene adónde ir. «Another Christmas Song» retoma explícitamente una canción de los primeros tiempos de la banda y le da un giro de madurez: el hijo pródigo que ya es padre.
+
+## La producción
+
+La grabación se hizo con la formación asentada de aquellos años, con Anderson en voz, flauta y guitarra acústica, Martin Barre en eléctrica, Dave Pegg al bajo, Doane Perry en batería y Martin Allcock en teclados, y con el propio Anderson al mando de la producción. El sonido continúa el del disco anterior sin variaciones sustanciales: guitarras de arpegio amplio y distorsión controlada, teclados que rellenan sin protagonismo, una batería tratada con reverberación grande y la voz colocada muy adelante y muy seca. Los pasajes acústicos, la flauta y la mandolina aparecen dosificados, como recordatorios del pasado más que como motor.
+
+Es un disco de estudio en el sentido literal: construido con oficio, sin la urgencia de una banda tocando junta en una sala. Esa manera de trabajar da limpieza y precisión, pero también explica cierta rigidez, sobre todo en los temas largos, que avanzan con más método que impulso.
+
+## Recepción y legado
+
+Se recibió como lo que era, la continuación de una fórmula que había funcionado, y esa condición de secuela le ha pesado desde entonces. Los seguidores lo suelen colocar un escalón por debajo de su antecesor: falta la frescura del reencuentro y sobran canciones que resuelven con recursos ya probados. A cambio, tiene un carácter propio, más severo y más melancólico, y contiene algunos de los mejores momentos tardíos de la banda en «The Whaler's Dues» y «Strange Avenues». Hoy se lee sobre todo como el disco donde se ve el límite de la fórmula, justo antes de que la banda empezara a buscar otra salida.

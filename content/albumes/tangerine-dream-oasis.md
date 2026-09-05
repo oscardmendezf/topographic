@@ -16,6 +16,25 @@ critica_nota: "Rutina TDI, con algún pasaje atmosférico logrado."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación de nicho por sello propio."
+historia: "editorial"
 ---
 
 Banda sonora documental de la era TDI: paisajes desérticos en electrónica pulida y previsible. Producción en serie de la etapa de sello propio.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Oasis es una banda sonora documental de la etapa del sello propio, cuando Tangerine Dream había convertido el encargo audiovisual en un flujo continuo de novedades. La premisa es paisajística y los títulos delatan el territorio con precisión: «Zion», «Cedar Breaks», «Cliff Dwellers» y «Hopi Mesa Heart» no remiten al desierto de arena de la iconografía oriental, sino a las mesetas, cañones y aldeas de roca del suroeste norteamericano. El disco propone un recorrido por ese paisaje seco donde el agua aparece como acontecimiento, primero en la crecida repentina de «Flashflood», luego en el curso sereno de «Waterborne» y por último en la tormenta de «Summer Storm».
+
+La estructura es la habitual del formato: ocho piezas de entre cinco y siete minutos, todas con exposición melódica clara, desarrollo medido y cierre limpio, pensadas para acompañar planos amplios y voz en off. No hay concepto que exceda al del documental ni desarrollos que se salgan del plan. «Reflections» es lo más contemplativo del conjunto y «Flashflood» lo más movido, pero el rango dinámico entre ambas es estrecho, porque la función pide continuidad más que contraste. Escuchado como álbum, el resultado es un trayecto agradable y sin accidentes.
+
+## La producción
+
+No constan créditos verificados de producción, personal ni estudio para esta edición. Lo que la escucha permite describir es un instrumental de teclados en capas, con secuencias suaves de figura larga, percusión programada discreta, coros sintéticos usados como color atmosférico y algún timbre de flauta o cuerda simulada para sugerir amplitud. La mezcla es cálida, muy compresa y sin aristas: nada golpea, nada sobresale, todo ocupa el plano medio.
+
+Ese acabado responde a la necesidad del encargo, pero también describe el modo de trabajo del taller familiar en esos años. Las piezas se construyen por acumulación de capas sobre una armonía estable, sin modulaciones bruscas ni cambios de tempo, de manera que cualquier fragmento pueda recortarse y seguir funcionando bajo la imagen. Es composición pensada desde el montaje.
+
+## Recepción y legado
+
+Pasó sin discusión, como casi toda la producción de encargo de ese periodo, y hoy figura en el catálogo como una entrada más de una serie larga. Quien busque la vertiente exploradora del grupo no encontrará aquí nada que le interese; quien valore la faceta paisajística hallará un disco pulcro y bien resuelto, cercano a la música de acompañamiento de calidad. Su lugar en la discografía es modesto por definición: forma parte del conjunto de trabajos que sostuvieron económicamente al grupo mientras su producción artística perdía filo, y comparte con ellos la virtud del oficio y el defecto de la previsibilidad.

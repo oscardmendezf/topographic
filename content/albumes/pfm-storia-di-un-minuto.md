@@ -17,6 +17,23 @@ critica_nota: "Debut fundacional del prog italiano; canon inmediato."
 estrellas_comercial: 4
 comercial_fuente: "editorial"
 comercial_nota: "Éxito grande en Italia desde la salida."
+historia: "editorial"
 ---
 
 El debut que puso al sinfónico italiano en su punto más alto de entrada: lirismo mediterráneo, técnica desbordante y ninguna deuda servil con los modelos ingleses. «Impressioni di settembre» ya es himno desde acá.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Antes de este disco los cinco eran profesionales anónimos: venían de I Quelli, banda de acompañamiento y de estudio para la canción italiana de mayor circulación, con años de sesiones a cuestas y una técnica muy por encima de la media. La llegada de Mauro Pagani, formado en el violín y en la flauta, completó el cambio de piel y les dio el color que los distinguiría. El nuevo nombre, tomado de una panadería, era una broma sobre esa doble vida artesanal. El fichaje por el sello del entorno de Battisti y Mogol les abrió la puerta del estudio con condiciones que ningún grupo joven del género tenía en Italia.
+
+El debut se organiza como un arco continuo antes que como una colección. «Introduzione» funciona de obertura y presenta motivos que reaparecen después. «Impressioni di settembre», con texto de Mogol, es la pieza que fijó de golpe la identidad del grupo: una melodía de una tristeza serena sobre acordes de guitarra y, en el centro, un solo de Moog que fue de los primeros usos memorables del sintetizador en la música popular italiana. «È festa» tira hacia lo contrario, un baile de aire folclórico que se acelera hasta el desborde. Las dos partes de «Dove... quando...» exploran el terreno instrumental con flauta y piano dialogando; «La carrozza di Hans» arma una pequeña narración de imaginería fantástica con el pasaje más ambicioso del disco; y «Grazie davvero» cierra con una despedida larga y ascendente. Las letras huyen de la anécdota y se quedan en el paisaje interior, algo que distinguiría al grupo de casi todos sus contemporáneos.
+
+## La producción
+
+Grabado con la formación fundacional —Mussida, Premoli, Pagani, Piazza y Di Cioccio—, el disco exhibe el arsenal completo del sinfónico sin sonar a inventario. Premoli reparte su trabajo entre piano, órgano, clavicémbalo, mellotron, sintetizador y Moog, y es él quien fija el carácter armónico; Di Cioccio, además de la batería, se hace cargo de percusiones de membrana y del propio Moog en algún pasaje. Mussida alterna la guitarra eléctrica con instrumentos de cuerda pulsada más antiguos, entre ellos el mandoloncelo, un detalle que explica el acento mediterráneo del conjunto. Casi todos cantan, y esa multiplicidad de voces sin un frontman claro es otra marca del grupo. El acabado de estudio es limpio y algo comprimido, típico de la producción italiana de entonces, y aun así deja espacio a los cambios bruscos de dinámica. El arte lo firmaron Marco Damiani, Caesar Monti y Wanda Spinello, con diseño gráfico de Fabio Berruti e Infinite Studio.
+
+## Recepción y legado
+
+Salió cuando el rock progresivo italiano apenas estaba tomando forma y, en lugar de sumarse a un movimiento, lo definió. La combinación de virtuosismo, lirismo cantabile y estructuras largas se convirtió en la vía propia frente a los modelos ingleses, y «Impressioni di settembre» pasó de canción a patrimonio compartido, versionada y citada durante décadas. Que un debut llegara tan alto de entrada condicionó todo lo que la banda hizo después: cada disco posterior se midió contra este y contra su sucesor inmediato. Sigue siendo, para muchos oyentes de fuera de Italia, la puerta por la que entraron a todo un continente sonoro que ignoraban.

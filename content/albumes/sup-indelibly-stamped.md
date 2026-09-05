@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 2
 critica_fuente: "editorial"
 critica_nota: "Ignorado entonces y poco reivindicado después; se lo trata como traspié."
+historia: "editorial"
 ---
 
 Segundo intento fallido; el mecenas se retira y la banda se disuelve de hecho. Nada aquí anticipa lo que viene.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Tras el fracaso del debut, el grupo se deshizo por la mitad. Richard Palmer y Robert Millar quedaron fuera, y con Palmer se fue el letrista, de modo que Davies y Hodgson tuvieron que hacerse cargo por primera vez de las palabras además de la música. Entraron Frank Farrell en bajo, Kevin Currie en batería y Dave Winthrop en saxofón y flauta, con lo que Hodgson pasó a la guitarra, el puesto que ya no abandonaría. El paciente Stanley Miesegaes seguía pagando, pero la cuerda se estaba acortando y el disco se hizo bajo la conciencia de que era la última oportunidad.
+
+La reacción al primer álbum fue ir en dirección contraria: canciones cortas, blues y rock directo, letras sencillas y ningún desarrollo instrumental extenso salvo el cierre. «Your Poppa Don't Mind» y «Coming Home to See You» son rock de bar con saxo, «Rosie Had Everything Planned» y «Travelled» buscan la canción de tres minutos, y «Remember» y «Forever» ensayan la balada con piano que años después el grupo sabría escribir mucho mejor. Sólo «Aries», el cierre de siete minutos, conserva la ambición del debut. La aparición del saxofón de Winthrop es el único elemento que apunta hacia el futuro: cuando llegue John Helliwell, el instrumento ya estará incorporado a la idea que el grupo tiene de sí mismo. En todo lo demás, el disco parece hecho por otra banda, y en cierto sentido lo era.
+
+## La producción
+
+La grabación se hizo con la nueva formación y con un enfoque más convencional que el del debut, buscando inmediatez antes que atmósfera: guitarras eléctricas al frente, ritmo marcado, voces sin apenas tratamiento. El resultado es correcto y anónimo, un sonido que podría pertenecer a cualquiera de las decenas de grupos británicos que en esos años intentaban lo mismo. La portada, en cambio, es lo más recordado del disco: una fotografía en primer plano de un torso femenino cubierto de tatuajes, un diseño de Bob Hook con fotografías de Mike Coles y Keith Morris que en varios mercados hubo que envolver o alterar por pudor. Es un caso claro de tapa que sobrevivió a su contenido.
+
+## Recepción y legado
+
+No funcionó, y el desenlace fue inmediato: Miesegaes retiró su apoyo, el grupo se disolvió de hecho y sólo Davies y Hodgson decidieron seguir con el nombre y volver a empezar desde cero. Visto desde el futuro es el punto más bajo de la discografía y el más prescindible, no porque sea malo sino porque no tiene rasgos: ni la ambición del primero ni la identidad del tercero. Su lugar en la historia es funcional. Fue el fracaso que obligó a la decisión correcta —encerrarse a escribir de verdad, buscar músicos con criterio y no volver al estudio hasta tener las canciones—, y sin él no existiría lo que vino después.

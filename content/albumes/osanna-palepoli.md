@@ -16,6 +16,25 @@ critica_nota: "Canon indiscutido del rock progresivo italiano."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Alcance de culto; su prestigio creció con las décadas."
+historia: "editorial"
 ---
 
 Su obra mayor y una cumbre del prog italiano: dos suites largas que funden rock ácido, folclore napolitano y teatro en un fresco urbano sobre la Nápoles antigua y la moderna. Denso, excesivo y de una identidad sin equivalente claro en la escena.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Palepoli es el nombre griego de la ciudad vieja sobre la que se levantó Nápoles, y el disco entero se construye sobre esa superposición: la urbe antigua enterrada debajo de la moderna, el rito debajo del ruido. Después del debut desordenado y del aprendizaje formal que supuso la banda sonora con orquesta, Osanna se atrevió a lo que hasta entonces solo había insinuado: dos suites que ocupan un lado cada una y que renuncian por completo al formato canción. No hay estribillos que rescatar ni singles posibles; hay un fresco continuo.
+
+La primera cara encadena «Oro caldo» y «Stanza città» como un solo movimiento. Arranca con voces y percusiones que remiten a la tarantella y a la procesión, deriva hacia una sección de rock ácido con la guitarra de Danilo Rustici y el saxo de Elio D'Anna cruzándose sin cortesía, y desemboca en el retrato asfixiante de la habitación urbana, con ruido de calle, gritos y conversaciones filtrándose dentro de la música. «Animale senza respiro» ocupa la segunda cara por completo y es el corazón del disco: el animal sin respiro es la ciudad y es el hombre que la habita, y la pieza avanza por bloques que alternan furia instrumental, recitados, pasajes acústicos y un final que vuelve al material del principio. El napolitano, el italiano y algún inglés conviven sin jerarquía, como conviven en la calle.
+
+## La producción
+
+El grupo grabó con la formación clásica y con una idea de sonido poco habitual en el prog italiano del momento: en lugar de buscar el brillo sinfónico, Osanna dejó suciedad, distorsión y ambiente. El saxo y la flauta de D'Anna funcionan como voz disidente, a menudo cerca del free jazz; la guitarra de Rustici alterna acústico y eléctrico con una violencia que no se parece a la de sus colegas del norte; la base rítmica sostiene los cambios sin ostentación. Las voces de Lino Vairetti se multiplican en coros de aire litúrgico, otro préstamo del imaginario procesional napolitano.
+
+El montaje incorpora ruido concreto, campanas, voces grabadas y silencios, lo que convierte el disco en algo más cercano a una obra radiofónica que a un álbum de rock. La edición original se presentó con un desplegable que reforzaba la idea de la ciudad estratificada, en línea con la iconografía de máscaras y disfraces que la banda ya había fijado en escena.
+
+## Recepción y legado
+
+Fue un disco difícil de vender y quedó fuera del circuito comercial, pero se instaló muy pronto como referencia entre quienes seguían la escena italiana con atención. Hoy es la obra por la que se recuerda a Osanna y una de las cumbres de todo el prog mediterráneo: nadie más consiguió cruzar folclore, teatro y rock ácido con esta densidad. Su influencia se rastrea en el prog napolitano posterior y en toda la corriente que buscó una identidad local en lugar de imitar el modelo británico. Es excesivo, agotador y por momentos deliberadamente feo, y ahí está exactamente su valor.

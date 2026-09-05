@@ -16,6 +16,25 @@ critica_nota: "Sin consenso registrable."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación mínima."
+historia: "editorial"
 ---
 
 Entrega de estudio del ala Péron-Diermaier con Amaury Cambuzat de Ulan Bator como aliado: piezas extensas donde la improvisación manda. Etapa de catálogo profundo, más para completistas que para recién llegados.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Para 2007 el nombre Faust venía funcionando en más de un carril, y este disco corresponde al que sostenían Jean-Hervé Péron y Werner Diermaier, la sección de bajo y batería que ya había hecho el trabajo esencial en la etapa clásica. La incorporación de Amaury Cambuzat, guitarrista y cabeza de Ulan Bator, resultó decisiva para esa formación: aportó un instrumento capaz de sostener texturas largas y una educación musical formada en el rock francés de vanguardia, no en la nostalgia del krautrock. Disconnected es el retrato de ese trío ampliado trabajando sin red.
+
+El planteo es de improvisación guiada. Las piezas se estiran por encima de los diez minutos y no obedecen a estructuras previas: arrancan de un motivo, se dejan crecer y se abandonan cuando se agotan. «Lass Mich», que abre, es la más extensa y la que mejor muestra el método, con una insistencia que solo cambia de piel; volvería a aparecer, en una versión distinta, en el disco siguiente del grupo. «Disconnected» y «Tu M'Entends?» juegan con la desconexión que anuncia el título, en alemán, en inglés y en francés, las tres lenguas que la banda usó siempre de forma indistinta, y «It Will Take Time» hace de su duración un argumento. El corte titulado «[silence]» no es una broma menor: un minuto de nada colocado a propósito antes del cierre, para que «Hard Rain» golpee sobre un oído recién vaciado.
+
+## La producción
+
+El sonido es de banda tocando junta, con muy poca intervención posterior, y esa es la principal diferencia con la etapa del estudio propio y sus capas superpuestas. Se privilegia la interacción entre los tres músicos, con la batería marcando el terreno, el bajo insistiendo en figuras mínimas y la guitarra encargada del color y de la saturación. La mezcla deja aire y ambiente de sala; hay ruidos de instrumento, roces y desprolijidades que no se corrigieron porque forman parte del registro.
+
+Los créditos verificables de esta edición no consignan producción, ingeniería ni arte, de modo que no corresponde nombrar estudio ni personal técnico. Lo que se puede afirmar es que el disco se hizo en el circuito de sellos independientes que sostenía a la banda y sin presión de formato: las duraciones lo dicen todo.
+
+## Recepción y legado
+
+Pasó casi sin comentario fuera de las publicaciones especializadas, y es un disco que exige del oyente lo que la crítica no siempre está dispuesta a dar: tiempo. Quien acepte la escala encuentra pasajes de una intensidad considerable, sobre todo en el diálogo entre la guitarra de Cambuzat y la batería, pero no encuentra ni un gancho ni un plan. Su lugar es el del catálogo profundo, para completistas y para quienes siguen la línea de la improvisación europea antes que la del rock progresivo. Dentro de la trayectoria funciona como paso previo a los discos siguientes de la misma formación, más cortos y más definidos, donde el trío aprendió a darle forma a lo que aquí todavía es exploración en bruto.

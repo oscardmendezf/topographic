@@ -16,6 +16,25 @@ critica_nota: "Recepción tibia a favorable, sin entusiasmo unánime."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Presencia local, lejos de sus fenómenos."
+historia: "editorial"
 ---
 
 Retorno al oficio de canción con sonido noventero: recupera la identidad andina sin volver a las cumbres. Correcto antes que necesario.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Con la democracia recuperada y el grupo ya de vuelta en Chile, Hijos de la tierra llega en un momento de reacomodo: el exilio había terminado, la banda volvía a tocar ante un público que la había esperado durante años y había que decidir qué clase de conjunto se quería ser en un país distinto del que habían dejado. La respuesta es un disco de canciones, sin concepto declarado, que recupera con claridad la identidad andina que el álbum anterior había dejado en segundo plano, pero sin volver al aliento largo de la etapa mayor.
+
+El título fija el tema y el disco lo desarrolla sin sutilezas: la pertenencia a un territorio y el deber de cuidarlo. «Hijos de la tierra» abre con esa declaración y «Arde el Amazonas» la lleva al terreno más explícito, con la destrucción de la selva como asunto directo, algo poco frecuente en su repertorio anterior. «Litoraleña» y «En el tren a Paysandú» miran al otro lado de la cordillera y recuerdan los años argentinos; «Tan lejos del sol» y «Lluvia de estrellas» trabajan la escala contemplativa, con desarrollos instrumentales de siete minutos que remiten al método clásico del grupo. «Bosques virginales», la pieza más extensa, es el único momento donde se permiten la construcción por capas de sus discos ambiciosos. «Virgen del amor» y «Nubecita blanca» cierran en registro breve y liviano.
+
+## La producción
+
+El sonido es el de los años noventa: definición alta, batería con cuerpo, teclados con timbres más limpios que los de la década anterior y una mezcla que reparte los planos con claridad. La instrumentación vuelve a poner al frente las quenas, zampoñas y charangos, y la percusión de mano recupera el detalle que la producción de los ochenta le había quitado. Juanita Parra ya está asentada en la batería y su trabajo se integra sin costuras al vocabulario rítmico del conjunto.
+
+Las decisiones de arreglo son de artesanía más que de riesgo: temas expuestos pronto, solos medidos, coros de refuerzo en los estribillos. Es un disco grabado con calma y con oficio, sin la tensión de los proyectos de gran formato.
+
+## Recepción y legado
+
+Fue recibido como una confirmación más que como un acontecimiento, y esa es todavía la lectura razonable. Sirve para escuchar a Los Jaivas en su versión más tranquila, con el idioma propio intacto y la ambición en reposo; también deja claro que la banda había decidido administrar su patrimonio en lugar de forzar otra cima. Dentro del catálogo ocupa un lugar intermedio: por encima del disco anterior en identidad y en sonido, muy por debajo de la etapa clásica en alcance. Su mejor material —las piezas largas de la segunda mitad— aguanta bien la escucha; el resto es correcto sin ser necesario.

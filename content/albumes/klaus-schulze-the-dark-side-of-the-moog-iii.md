@@ -16,6 +16,25 @@ critica_nota: "Sin consenso registrable; favorito relativo dentro del ciclo."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Edición limitada; culto."
+historia: "editorial"
 ---
 
 Tercer volumen de la serie con Namlook, de los más apreciados por los seguidores del ciclo. Ambient secuencial en su punto justo de cocción.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El tercer volumen aparece en el año más intenso de la sociedad entre Schulze y Pete Namlook, cuando el ciclo todavía tenía la energía del hallazgo y no la rutina del catálogo. La broma del título vuelve a apuntar a Pink Floyd: «Phantom Heart Brother» deforma Atom Heart Mother, y el disco entero es esa única pieza repartida en tres tramos que además arrancan numerados como parte II, un detalle que revela cómo funcionaba la serie, con las suites derramándose de un volumen a otro sin respeto por los límites del formato.
+
+Lo que distingue a esta entrega no es la idea sino el equilibrio. Buena parte del ciclo tiende a la nube sostenida, sin dirección; aquí el secuenciador recupera protagonismo y la música avanza. La primera parte instala un pulso reconocible, con arpegios que se desplazan lentamente sobre acordes largos; la segunda estira el desarrollo hasta el borde del trance y deja que los timbres se ensucien; la tercera funciona como descenso, más breve y más oscura. Es, dentro del ciclo, el volumen que más se parece a un disco de Schulze en sentido estricto, con la disciplina rítmica que él había codificado veinte años antes y las texturas frías que Namlook traía del ambient de los noventa. Quien busca en la serie un punto de entrada suele terminar aquí.
+
+## La producción
+
+La mecánica era la de siempre en el ciclo: dos músicos tocando a la vez, sin partitura ni guion, y el registro convertido en disco con una edición mínima. Schulze aportaba su acumulación histórica de sintetizadores y secuenciadores analógicos; Namlook, teclados y tratamiento digital, además del criterio de un productor acostumbrado a publicar deprisa. No hay productor ajeno ni voces, y la instrumentación es enteramente electrónica, sin percusión acústica ni invitados. La ausencia de sobregrabaciones se nota en los pequeños accidentes que quedan dentro: una modulación que se descuadra, una entrada tardía, un filtro que se abre más de lo previsto.
+
+Esa fidelidad a la toma es a la vez la virtud y el riesgo del método. Cuando la sesión encuentra pronto su rumbo, como en este caso, el disco respira; cuando no lo encuentra, la serie deja el vagabundeo tal cual. La edición mantuvo el diseño uniforme y la numeración correlativa que identificaban a todos los tomos, con el mismo aire de colección por fascículos.
+
+## Recepción y legado
+
+Entre los seguidores del ciclo es de los títulos que más se defienden, y por motivos concretos: dura lo justo, no se dispersa y sostiene una tensión que en otros volúmenes se evapora. La crítica generalista apenas se ocupó de él, como de casi toda la saga, publicada al margen de los circuitos habituales y dirigida a un público ya convencido. Con el tiempo se lo lee como prueba de que la colaboración no era solo una cortesía entre generaciones: cuando los dos coincidían en la misma idea de pulso, el resultado tenía identidad propia. No cambió el rumbo de nadie ni abrió camino a otros, pero es la mejor demostración de qué podía dar de sí este método de improvisación en serie.

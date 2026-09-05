@@ -16,6 +16,23 @@ critica_nota: "Recepción escasa; valorado como documento de oficio."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Catálogo de culto, sin presencia comercial."
+historia: "editorial"
 ---
 
 Segunda entrega de Missing Links: otra vez música de encargo televisivo y proyectos inconclusos rescatados del estudio. Cohesión relativa, oficio parejo. Documento antes que obra.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El segundo volumen de Missing Links repite el procedimiento del primero: rescatar del estudio la música escrita para televisión y para proyectos que se quedaron sin destino, y publicarla con su nombre en lugar de dejarla dormir en una biblioteca de derechos. La diferencia es que aquí el material está mejor elegido y peor disimulado como disco: catorce cortes en lugar de veintidós, con dos suites de diez minutos que dan al conjunto un centro de gravedad que el volumen anterior no tenía.
+
+Las piezas largas son las que sostienen la escucha. La «Lifeboat Suite» y «The Bitter Suite» —el juego de palabras es suyo y es representativo de su humor— reúnen en cada caso varios tramos escritos para el mismo encargo, y funcionan como composiciones cerradas antes que como fragmentos. Alrededor aparecen los temas de documental identificables por el título: «Tiwai: Island of the Apes» nombra una isla africana convertida en refugio de primates, «Wild Voices, Quiet Water Suite» y «Along the Towpath» apuntan a naturaleza y río, «The Sky Road» pone el tema principal que da nombre al disco. «Across the River Styx» y «A Flock of Souls» son las viñetas más breves y las más sombrías, «Tears on a Rainy Day» y «Serenita» las más melódicas, y «The Beggar and the Thief» cierra con la pieza de mayor desarrollo del tramo final. La inclusión de una nueva versión de «Field of Eternity», que había aparecido en la primera entrega de su serie íntima y que arrastra material de sus años de adolescencia, hace explícito lo que el disco es: un archivo donde el pasado propio y el trabajo por encargo terminan compartiendo estante.
+
+## La producción
+
+No constan créditos de estudio ni de personal técnico. El sonido es el de su estudio doméstico de comienzos de los noventa, con sintetizadores y muestreo llevando el peso, percusión programada discreta y guitarra acústica reservada para los pasajes de calma. La procedencia dispar del material se nota en la desigualdad de tratamiento: hay cortes mezclados con criterio de música de fondo, con la franja media despejada para una locución que no está, y otros armados como piezas autónomas, con la dinámica cuidada y el final resuelto. Las dos suites son las que más se benefician del montaje, porque las secciones se encadenan por continuidad de timbre y ocultan bastante bien que fueron escritas por separado. Es un disco reunido, no producido, y solo en las piezas largas alcanza la coherencia de un álbum.
+
+## Recepción y legado
+
+No aspiraba a ser reseñado y no lo fue; su público era el de los seguidores que ya compraban todo. Lo que ofrece es cohesión relativa y oficio parejo, con dos suites que resisten la escucha fuera de su contexto original y un puñado de miniaturas que solo interesan como curiosidad. Su valor hoy es documental: junto con el primer volumen dibuja el mapa del trabajo invisible que financió las décadas en que su obra personal no daba de comer. Como disco es menor y lo sabe; como pieza del rompecabezas, necesario para entender de qué vivía el autor mientras escribía lo demás.

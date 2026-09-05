@@ -16,6 +16,25 @@ critica_nota: "Serie respetada en el circuito ambient."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Ediciones limitadas del sello Fax; culto puro."
+historia: "editorial"
 ---
 
 Arranque de la serie de estudio con Pete Namlook: ambient analógico de largo aliento con guiños al universo Pink Floyd desde los títulos. La colaboración le devuelve frescura al Schulze noventero.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El chiste del título es doble y está bien traído: cambia la luna de Pink Floyd por el Moog, el sintetizador que definió la primera electrónica de Schulze, y de paso admite que lo que viene es una música de zona oscura. Es el arranque de una serie larguísima hecha junto a Pete Namlook, el músico alemán que desde su propio sello, Fax, había levantado a principios de los noventa un catálogo de ambient de publicación torrencial. El encuentro le venía bien a los dos: Namlook conseguía la firma que legitimaba su escena ante la generación anterior, y Schulze salía del circuito donde llevaba una década grabando solo y para los mismos oídos.
+
+El disco es una sola pieza dividida en diez partes de duración casi idéntica, tituladas «Wish You Were There» con numeración romana, otra broma floydiana que además describe el método: no hay diez temas, hay un continuo cortado en tramos regulares. La música avanza por acumulación lenta, con drones que se instalan durante minutos, un pulso que aparece a media obra y desaparece, y muy pocos cambios armónicos. Frente a los discos que Schulze firmaba en solitario por esos años —densos, saturados de muestreo, con percusión programada al frente— aquí hay aire, silencio y paciencia. Es él escuchando lo que la generación siguiente había hecho con su propia herencia y aceptando trabajar en sus términos.
+
+## La producción
+
+Colaboración de estudio entre los dos músicos, con Namlook aportando el criterio de producción del ambient de su sello —planos superpuestos, filtrados muy graduales, ecos y retardos como material compositivo— y Schulze el instrumental analógico y la manera de sostener una idea durante largo rato sin resolverla. El equilibrio entre ambos es lo mejor del disco: se reconoce quién hace qué y aun así suena a una sola cosa.
+
+El sonido es notablemente más oscuro y más despojado que el de los discos que Schulze grababa en paralelo. Los timbres analógicos vuelven al primer plano después de una década de digitalidad brillante, y la mezcla los coloca en un espacio profundo, con la reverberación como una capa más y no como un adorno. La secuencia, cuando llega, no es el motor de la pieza sino un episodio dentro de ella.
+
+## Recepción y legado
+
+Inauguró una serie que se prolongaría durante años y que acabaría siendo objeto de bromas por su extensión, pero este primer volumen se sostiene por sí solo. Devolvió a Schulze a una conversación de la que se había caído, lo puso en contacto con el ambient de los noventa y le recordó, a él y a sus oyentes, que su música funcionaba mejor con menos elementos. En su discografía de esa década es de lo más recomendable, precisamente porque el trabajo compartido lo obliga a soltar hábitos. A cambio, no es un disco donde reconocer su firma con claridad: la mitad de lo bueno que tiene lo puso el otro.

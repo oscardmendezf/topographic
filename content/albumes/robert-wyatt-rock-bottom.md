@@ -17,6 +17,23 @@ critica_nota: "Canon absoluto; pocas obras del período le discuten el rango."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Disco de culto desde el primer día; su público se construyó con los años."
+historia: "editorial"
 ---
 
 Obra mayor fuera de todo género, producida por Nick Mason —la red—. Duelo, amor y humor en partes iguales; el disco que convierte la catástrofe en un lenguaje nuevo.
+
+<!-- historia:editorial -->
+
+## La historia
+
+En 1973 una caída desde una ventana dejó a Wyatt parapléjico y sin la batería, que había sido su instrumento y su forma de pensar la música. Buena parte del material de Rock Bottom ya existía antes: lo había esbozado en Venecia, mientras Alfreda Benge trabajaba allí en una película, con un teclado y mucho tiempo por delante. Lo que cambió no fue el repertorio sino la voz que lo canta y el cuerpo desde el que se canta. El disco no habla del accidente ni lo menciona; lo atraviesa entero como una temperatura.
+
+«Sea Song» abre con una declaración de amor rarísima, dirigida a alguien que cambia con las mareas y a quien se acepta lunática y todo, y termina disolviéndose en un canto sin palabras que dura más que la letra. «Last Straw» y «Little Red Riding Hood Hit the Road» empujan hacia el jazz y el ruido, con la trompeta abriéndose paso entre capas de teclado. «Alifib» y «Alifie» son un díptico construido sobre el diminutivo de Alfreda: un balbuceo infantil, casi un arrullo, que en la segunda parte recibe respuesta cuando la voz aludida contesta, harta de ser convertida en alimento y metáfora. El cierre repite el título del tercer corte alterado —de Riding Hood a Robin Hood—, señal de que el disco se cierra sobre sí mismo. Wyatt y Benge se casaron ese mismo año.
+
+## La producción
+
+Produjo Nick Mason, y su papel fue menos musical que logístico y afectivo: sostener el proyecto, garantizar tiempo de estudio y no estorbar. Se registró entre The Manor y Delfina's Farm, y el sonido tiene esa mezcla de amplitud y encierro: teclados sostenidos que hacen de suelo, percusiones mínimas, la voz siempre al frente y a veces multiplicada. Sobre esa base intervienen invitados que aportan un color por pieza más que un acompañamiento continuo: guitarra en el corte final, viola, clarinete bajo, trompeta, bajo, y la aparición del recitador escocés que cierra el álbum con un humor seco que corrige cualquier tentación de solemnidad. La portada la dibujó Alfreda Benge, con su marca de lápiz naïf, y la fotografía corrió a cargo de Pennie Smith.
+
+## Recepción y legado
+
+Se recibió de inmediato como algo mayor, y no por compasión: quienes lo escucharon entendieron que ahí había un lenguaje que antes no existía. Su influencia se nota menos en imitadores directos que en la licencia que abrió, la de hacer música íntima, lenta y sin género con medios de rock. Dentro de la discografía de Wyatt es el eje: todo lo anterior conduce hasta aquí y todo lo posterior dialoga con él. Lo que se sigue rescatando es la mezcla imposible de duelo, ternura y broma, y la certeza de que ninguno de los tres tonos anula a los otros.

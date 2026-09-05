@@ -16,6 +16,23 @@ critica_nota: "Recepción tibia; interesa más como documento que como disco."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Vivió de la estela del original."
+historia: "editorial"
 ---
 
 La versión orquestal de Tubular Bells a cargo de David Bedford, el puente entre la academia y este mapa. Traducción digna que demuestra, sin quererlo, que la gracia del original estaba en las capas de una sola persona y no en la partitura.
+
+<!-- historia:editorial -->
+
+## La historia
+
+La idea de traducir Tubular Bells a lenguaje orquestal no vino de una ocurrencia comercial sino de la relación más importante en la formación de Oldfield. David Bedford había sido compañero suyo en The Whole World, la banda de Kevin Ayers, y era un compositor de formación académica con obra propia y contacto directo con el minimalismo europeo. De él aprendió Oldfield que la repetición podía sostener una pieza larga, y de esa deuda sale este disco: el mentor toma la partitura implícita del alumno y la escribe de verdad, para una orquesta sinfónica completa.
+
+No hay concepto nuevo, sino una lectura. «The Orchestral Tubular Bells, Part 1» sigue el recorrido del original, con el ostinato inicial repartido entre cuerdas y maderas y la célebre presentación de instrumentos convertida en un desfile de secciones orquestales, algo que en el disco de 1973 era un chiste de estudio y aquí se vuelve casi un catálogo de manual. «The Orchestral Tubular Bells, Part 2» tiene el trabajo más interesante, porque los pasajes ásperos y el humor del original obligan a Bedford a inventar soluciones que la partitura no traía escritas. Oldfield participa como guitarrista solista, en un papel que lo deja a la vez dentro y fuera de su propia obra.
+
+## La producción
+
+La grabación está a cargo de la Royal Philharmonic Orchestra, con Bedford como arreglador y director y la producción compartida entre él y Oldfield, que además toca la guitarra. El desafío técnico no era menor: el original existía únicamente como una acumulación de sobregrabaciones hechas por una sola persona, sin partitura previa, así que todo el trabajo consistió en deducir las voces internas de la cinta y repartirlas entre instrumentos reales que no podían replicar los timbres de estudio ni las decisiones de mezcla. Lo que en el disco de 1973 dependía del volumen relativo y del filtrado aquí depende de la orquestación, y eso obliga a resolver por color lo que antes se resolvía en la consola. El resultado es prolijo, bien tocado y notablemente fiel al recorrido de la obra.
+
+## Recepción y legado
+
+Se editó en un momento en que la fusión entre rock y orquesta era casi un género, y comparado con la mayoría de aquellos experimentos este sale bien parado: hay criterio compositivo y un director que entiende el material desde dentro. Su interés hoy es más documental que musical, porque demuestra sin proponérselo dónde estaba la gracia del original. Lo que hacía singular a Tubular Bells no era la escritura, que en manos de una orquesta suena bastante convencional, sino el hecho de que un músico solo hubiera fabricado esa arquitectura pegando capas en una cinta. Traducido a instrumentos reales, el hechizo se evapora y queda una suite agradable. Como puente entre la academia y este mapa, sin embargo, es una pieza que vale la pena tener a mano, y explica mejor que cualquier entrevista de dónde venía la cabeza de su autor.

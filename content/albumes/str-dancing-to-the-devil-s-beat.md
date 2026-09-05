@@ -16,6 +16,23 @@ critica_nota: "Correcto para la prensa prog; sin eco mayor."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Culto; sin listas."
+historia: "editorial"
 ---
 
 Cierre de la seguidilla de la década de 2000. Oficio sin sorpresas: Cousins administra sello y catálogo, y el disco sale al circuito fiel sin pretender más.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Dancing to the Devil's Beat cierra la seguidilla de discos que los Strawbs publicaron a lo largo de los años dos mil, y lo hace sin gestos de despedida ni intención de resumen. Es un álbum de oficio, hecho por un grupo que ya tiene su propio sello, su circuito de conciertos y su público, y que trabaja con la tranquilidad de quien no debe explicaciones a nadie. Dave Cousins sigue al frente, escribiendo con la mezcla habitual de balada, retrato y parábola.
+
+El material se mueve entre lo personal y lo histórico. «Pro Patria Suite» es la pieza mayor, casi ocho minutos que vuelven sobre la guerra y sobre la mentira del sacrificio patriótico, un asunto que Cousins ha visitado varias veces y que aquí trata con más amargura que nunca. «The Man Who Would Never Leave Grimsby» es su reverso doméstico: el retrato de una vida entera transcurrida sin moverse del sitio, con una ternura que evita la condescendencia. «Copenhagen» rescata una geografía que en la historia del grupo tiene peso propio, y «The Ballad of Jay and Rose Mary» sigue la vena narrativa. El tema titular juega con el pacto diabólico como imagen del oficio musical, y el disco se cierra con una nueva versión de «Oh How She Changed», canción del primer álbum de 1969, cuarenta años después: la simetría es intencionada y es lo más cercano a una declaración que hay aquí.
+
+## La producción
+
+Se mantiene en la escala artesanal de toda la etapa, con la banda eléctrica grabada de forma directa y una mezcla clara, sin capas innecesarias. Los teclados sostienen la armonía en las piezas largas, la guitarra reparte entre acompañamiento acústico y solos breves, y la sección rítmica trabaja con sobriedad. La suite central está arreglada por bloques, alternando pasajes cantados con desarrollos instrumentales, mientras que las canciones se resuelven en formatos convencionales. La regrabación del tema del debut cambia por completo el arreglo original de cámara por uno de banda, lo que subraya la distancia recorrida.
+
+## Recepción y legado
+
+Recepción amable en la prensa especializada y ninguna atención más allá, el destino previsible de la etapa. Se le suele considerar un peldaño por debajo de The Broken Hearted Bride, con el que comparte formación y planteamiento pero no la ambición formal. Lo que se rescata es «Pro Patria Suite», que se ha ganado un sitio en el repertorio en vivo, y el retrato de Grimsby, de lo mejor que Cousins escribió en el siglo XXI. Como cierre de década funciona bien: no reivindica el pasado, no finge una reinvención y demuestra que la constancia también es una forma de carrera.

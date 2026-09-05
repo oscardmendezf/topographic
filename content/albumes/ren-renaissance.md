@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 3
 critica_fuente: "editorial"
 critica_nota: "Debut respetado como puente desde los Yardbirds, más embrión que logro."
+historia: "editorial"
 ---
 
 Fundada por Keith Relf y Jim McCarty al salir de los Yardbirds: folk-clásico embrionario, otra banda que la que vendría.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Cuando los Yardbirds se disolvieron, Jimmy Page se quedó con el nombre y con el futuro inmediato del hard rock; Keith Relf y Jim McCarty, cantante y batería, se fueron en la dirección contraria. Habían coqueteado con el acústico en el último tramo del grupo y querían una banda sin blues, sin virtuosismo de guitarra y con el piano en el centro. Así nace este disco, con Relf a la voz y la guitarra, su hermana Jane Relf como segunda voz, John Hawken al piano —venía de los Nashville Teens— y Louis Cennamo al bajo, más McCarty en la batería. El nombre elegido, Renaissance, era casi un manifiesto: renacer y, de paso, ir a buscar el material a la música clásica.
+
+El planteamiento es sencillo y radical para 1969. Las piezas largas se construyen alternando pasajes de piano de escritura casi decimonónica con secciones de rock de banda y tramos de folk cantados a dos voces. «Kings & Queens» abre con esa lógica de suite, once minutos que van del arpegio al galope; «Innocence» y «Island» son las caras luminosa y melancólica de la misma idea, con Jane Relf aportando un timbre frágil que contrasta con la voz nasal de su hermano; «Wanderer» es la más breve y convencional; «Bullet» cierra con el desarrollo más extenso y más suelto, casi improvisado en su tramo central. Las letras giran en torno a la pérdida de la inocencia y la huida, sin la mitología literaria que el grupo adoptaría después con otra gente dentro.
+
+## La producción
+
+El disco lo produjo Paul Samwell-Smith, bajista de los Yardbirds hasta 1966, es decir, alguien de la casa que entendía exactamente de qué estaban huyendo Relf y McCarty. Su decisión más visible es tratar el piano como instrumento principal y grabarlo con cuerpo de disco clásico, no de rock, lo que obliga al bajo y a la batería a tocar por debajo y con una contención poco habitual en la época. Las voces se registran juntas y con poca compresión, de manera que las armonías de los hermanos Relf suenan cercanas y algo desnudas. La banda toca en directo en el estudio en los tramos largos, y se nota en las transiciones, que no siempre están limpias: hay costuras entre secciones que un productor más intervencionista habría disimulado.
+
+## Recepción y legado
+
+Pasó con más curiosidad que entusiasmo. Era demasiado clásico para el público del rock y demasiado rock para cualquier otro, y el propio grupo se deshizo antes de poder defenderlo. Hoy se escucha sobre todo como documento: la prueba de que la fusión entre piano de conservatorio y canción de grupo estaba planteada antes de que llegaran los discos que la harían famosa. No es todavía la Renaissance que importa —esa nacería con otra formación y otra voz—, pero «Kings & Queens» y «Island» explican de dónde salió la idea, y Hawken deja aquí un trabajo de piano que la banda posterior heredó sin reconocerlo del todo.

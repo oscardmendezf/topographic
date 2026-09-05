@@ -16,6 +16,23 @@ critica_nota: "Mixto: eficaz para la crítica estadounidense, menor para la ingl
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Pico de convocatoria en su etapa americana."
+historia: "editorial"
 ---
 
 Rock de arena endurecido con cinismo mediático como concepto laxo: violencia televisada y dar al público lo que pide. Contiene Better Things, recordatorio de que el melodista seguía ahí abajo del volumen.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Con la reconversión ya consolidada, Davies dedica este disco a morder la mano que lo alimentaba: el público y la televisión que lo entretiene. No es un álbum conceptual, pero tiene un concepto laxo que lo recorre, el del espectáculo como circo romano. La canción del título lo resume sin metáforas: si la gente pide violencia, sangre y humillación, alguien se la venderá, y el negocio del entretenimiento solo consiste en calcular la dosis. Es el Davies más cínico de toda su obra, escribiendo desde dentro de la industria que denuncia y sin fingir inocencia.
+
+«Around the Dial» abre con el retrato de un locutor de radio desaparecido de las ondas, víctima de una programación que ya no admite personalidad, y funciona como obertura del tema general. «Destroyer» hace algo casi tramposo y muy divertido: recicla el riff de sus propios éxitos de los sesenta y devuelve a escena a Lola, en un ejercicio de autocita que la banda tocaría durante años. «Killer's Eyes» se mete con el atentado y con la fascinación pública por el criminal, «Art Lover» construye un personaje incómodo que mira a los niños en el parque y deja al oyente decidir cuánto de siniestro hay ahí, y «A Little Bit of Abuse» habla de violencia doméstica con una crudeza que la época no acostumbraba. «Predictable», «Add It Up», «Yo-Yo» y «Back to Front» sostienen el bloque eléctrico con oficio, y al final llega «Better Things», dos minutos y medio de melodía luminosa que desmienten el resto del disco y recuerdan que el autor de «Waterloo Sunset» seguía ahí abajo del volumen.
+
+## La producción
+
+Davies produjo otra vez, en el estudio propio de la banda, y llevó la fórmula de Low Budget un paso más hacia el rock duro: guitarras gruesas, batería comprimida y voces al frente, sin más adorno que el teclado de sostén. La formación es la estable de la etapa, con su hermano en la guitarra solista, Jim Rodford al bajo, Mick Avory a la batería e Ian Gibbons en teclados, y suena como un grupo curtido en giras largas, que era exactamente lo que era. Las decisiones de arreglo apuntan al recinto grande: estribillos coreables, riffs simples, poca variación de textura. El precio es la monotonía tímbrica de la cara dos, donde varias canciones comparten tempo y color, y el beneficio es una contundencia que las letras necesitaban para no sonar a sermón.
+
+## Recepción y legado
+
+Fue bien recibido en Estados Unidos, donde la banda ya tenía su nuevo público asegurado, y bastante peor en su país, donde el endurecimiento sonoro se leyó como rendición. La lectura de hoy es intermedia: no es un disco imprescindible, pero es el más coherente de los tres que rodean el cambio de década en su discurso, y su diagnóstico sobre el morbo televisado envejeció incómodamente bien. Del conjunto sobreviven «Better Things», que se convirtió en pieza de despedida de conciertos, y «Destroyer», que sirvió a la banda para hacer las paces con su propio pasado. El resto es rock de gira competente, con letras mejores que las canciones que las llevan.

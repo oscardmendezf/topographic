@@ -41,3 +41,19 @@ entidades de MusicBrainz son **29**, definidas en `artists_seed.json` (slugs = c
 - `data/atlas.json` — el grafo: nodos (`artistas`, `personas`, `albumes`) y aristas
   (`member_of` con rangos temporales y roles/instrumentos). Los campos `analisis_md`
   quedan en `null`: los llena la capa editorial (Fase 1, punto 2).
+
+## Historias largas por álbum (04-sep-2026)
+
+Cada ficha de álbum lleva, tras la entradilla original, tres secciones editoriales
+(`## La historia`, `## La producción`, `## Recepción y legado`) separadas por el marcador
+`<!-- historia:editorial -->` y declaradas en el frontmatter con `historia: editorial`.
+
+- `build_tareas_historias.py [lote]` → `data/tareas_historias.json` + un archivo por grupo en
+  `data/tareas_historias/` con las anclas verificadas (tracklist, créditos de MB, fecha, análisis).
+  Las instrucciones para los redactores están en `data/tareas_historias/INSTRUCCIONES.md`.
+- Los redactores escriben un JSON por álbum en `data/editorial_historias/partes/<grupo>/<slug>.json`
+  (o un JSON por grupo en `data/editorial_historias/`).
+- `estado_historias.py` → escritas vs. pendientes por grupo.
+- `merge_historias.py [--check]` → aplica las historias a `content/albumes/*.md`. Lint (sale ≠0 y no
+  aplica la historia): posiciones de chart, ventas, certificaciones, fechas completas, secciones faltantes.
+  Re-ejecutar reemplaza la historia sin tocar la entradilla.

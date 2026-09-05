@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Su disco más cohesivo para la retrospectiva; muy valorado entre fans"
+historia: "editorial"
 ---
 
 Concepto espacial inspirado en la llegada a la Luna, inaugurando su sello Threshold. Su disco más cohesivo; el que defendería ante un escéptico.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El disco nace de dos impulsos simultáneos: la llegada del hombre a la Luna, que ocupaba la imaginación de medio planeta ese año, y la fundación de Threshold, el sello propio con el que los Moody Blues buscaban independencia dentro del sistema de Decca. El título lo dice todo: no es un álbum sobre el viaje espacial sino un mensaje dirigido a los descendientes de quienes lo presenciaron, una cápsula del tiempo escrita por adultos que se saben provisionales.
+
+La secuencia arranca con el estruendo de un despegue y «Higher and Higher», donde el poema de Graeme Edge se lanza sobre un riff pesado, lo más cercano al hard rock que el grupo llegó a grabar. De ahí el disco se abre en abanico: «Eyes of a Child», partida en dos, contrapone la inocencia con el estrépito; «Floating» convierte la ingravidez en vals con flauta; «I Never Thought I’d Live to Be a Hundred» y su reverso «…a Million» son dos miniaturas gemelas separadas por todo el álbum, un truco de secuencia que da sensación de escala temporal. «Gypsy» y «Eternity Road» son las piezas de viaje, la primera con una de las mejores interpretaciones vocales de Hayward; «Candle of Life», de Lodge, aporta la calma; «Sun Is Still Shining» lleva el sitar al primer plano, y «Watching and Waiting», firmada por Hayward y Thomas, cierra con una despedida que el propio grupo consideró siempre su final más logrado.
+
+## La producción
+
+Es el disco más trabajado de la etapa, grabado con Derek Varnals, Adrian Martins y Robin Thompson en la ingeniería y con una acumulación de capas que llevó el método al límite: Mellotron, sitar, flauta, percusiones diversas, voces multiplicadas y efectos sonoros integrados en la narración. La banda buscó densidad y la consiguió a costa de la reproducibilidad; al terminarlo se encontró con un repertorio que no podía tocar en directo, y esa constatación determinó el planteamiento del álbum siguiente. La ilustración de Phil Travers, con su paisaje de figuras y planetas, ayuda a sostener la idea de mensaje enviado hacia el futuro.
+
+## Recepción y legado
+
+Es el álbum donde la fórmula alcanza su mejor versión: la ambición conceptual y el oficio de estudio coinciden sin que ninguna canción sobre. La crítica de la época lo trató con la condescendencia habitual hacia el grupo, y el rock progresivo posterior lo miró por encima del hombro por su falta de virtuosismo instrumental. Con distancia se aprecia mejor lo que hace bien: una secuencia pensada como un solo movimiento, un uso del Mellotron que ya no imita a la orquesta sino que crea su propio color, y un cierre —«Watching and Waiting»— que resume la melancolía elegante de toda su obra. Si hay un disco de los Moody Blues que resiste sin necesidad de contexto histórico, es este.

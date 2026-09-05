@@ -16,6 +16,25 @@ critica_nota: "Recepción respetuosa, sin lugar entre sus obras mayores."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Eco local discreto."
+historia: "editorial"
 ---
 
 Canciones de madurez con el sello andino intacto; último álbum de estudio con Eduardo 'Gato' Alquinta. Sereno, de oficio, sin sobresaltos.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del esfuerzo orquestal de Mamalluca, Los Jaivas volvieron al formato que mejor conocían: la canción tocada por la banda, sin orquesta ni concepto que la ordene. Arrebol es un disco de madurez en el sentido literal del término, hecho por músicos con más de treinta años juntos que ya no necesitan demostrar nada y que graban lo que tienen a mano. También es, sin que nadie pudiera saberlo entonces, el último álbum de estudio con Eduardo Alquinta, el Gato, voz y guitarra del grupo desde el principio y responsable de buena parte de su carácter melódico. Esa circunstancia le da hoy una gravedad que el disco no buscaba.
+
+El repertorio es amplio y deliberadamente variado. El tema titular nombra el rojo del cielo al atardecer y abre en el registro contemplativo que la banda domina, con desarrollo instrumental holgado; «Milonga carcelaria» tira hacia el sur rioplatense y hacia la canción de encierro, y es la pieza más extensa y más sombría; «Todos americanos» y «Chile» retoman el asunto continental y el territorial, que son el eje temático de toda su obra; «Por los niños del mundo» y «Vamos por ancho camino» buscan el tono comunitario del himno; «Libre albedrío» razona sobre la voluntad propia; «Alegría de mi amor» y «Amores de antes» son canciones de afecto sin adornos. En el otro extremo aparece el humor doméstico que el grupo nunca perdió: «Me encontré al diablo», «Pololeo por computer» —el noviazgo por pantalla, novedad de la época tratada con burla cariñosa— y «El residente nacional» cierran el conjunto por el lado liviano.
+
+## La producción
+
+No hay créditos verificados de producción, ingeniería, estudio ni arte gráfico para este título. Lo audible es una grabación de oficio: planos claros, instrumental andino integrado con naturalidad —quenas, zampoñas, charango, percusión de mano—, el piano de Claudio Parra como armazón armónico y la batería de Juanita Parra sosteniendo los patrones americanos que la banda convirtió en método. La voz de Alquinta está al frente, con menos filtros y menos efectos que en los discos de los ochenta, y las guitarras acompañan sin buscar protagonismo.
+
+Los arreglos son concisos: temas expuestos pronto, solos breves, coros de refuerzo y duraciones ajustadas salvo en las dos o tres piezas que se permiten estirarse. Es un disco sin experimentos de estudio, grabado con la lógica de un grupo que toca junto desde hace décadas y que confía en el conjunto antes que en el efecto.
+
+## Recepción y legado
+
+Se recibió como lo que era, un buen disco de banda veterana, y no alteró la jerarquía del catálogo. Hoy se escucha de otra manera: la muerte de Alquinta poco después convirtió estas canciones en despedida involuntaria, y «Arrebol» o «Amores de antes» adquirieron una lectura elegíaca que no estaba en la intención original. Su valor real está en la serenidad: el idioma que la banda inventó en los setenta sigue intacto, sin rigidez ni caricatura, y aplicado a material nuevo en lugar de a la reiteración del repertorio antiguo. No es el disco por el que se entra a Los Jaivas, pero es un cierre digno para la voz que los definió.

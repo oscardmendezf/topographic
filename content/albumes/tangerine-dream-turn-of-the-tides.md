@@ -16,6 +16,25 @@ critica_nota: "Mixto; apreciado dentro del circuito instrumental."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: null
+historia: "editorial"
 ---
 
 Estudio de mediados de los noventa con gestos sinfónicos y guitarra protagonista, dentro del molde padre-hijo. Correcto y algo intercambiable con sus vecinos de catálogo.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Turn of the Tides consolida el formato que Tangerine Dream mantendría durante toda la década: Edgar Froese y su hijo Jerome como núcleo estable, ampliado con colaboradores que aportan instrumentos acústicos sobre la base electrónica. La guitarra deja de ser un adorno para convertirse en voz principal en varios cortes, y el saxofón añade un color de jazz ligero que separa estos discos del rigor de la etapa de secuenciadores. Es una música que ya no busca el trance ni la abstracción, sino la melodía reconocible y el arreglo pulido, con la vista puesta en el público estadounidense que había adoptado al grupo a través de las bandas sonoras.
+
+El álbum no es conceptual, pero sí tiene gestos de gran formato. Abre con «Pictures at an Exhibition», título prestado de Mussorgsky que sirve de declaración de intenciones más que de adaptación literal, y encadena piezas de estructura amplia donde los temas se exponen, se ornamentan y regresan. «Twilight Brigade» y «Galley Slave's Horizon», las dos más largas, son las que mejor sostienen ese despliegue; «Firetongues» y «Jungle Journey» buscan el impulso rítmico, y «Death of a Nightingale» y «Midwinter Night» rebajan el volumen para el respiro melódico. La pieza titular funciona como resumen del método: sinfonismo de teclado, guitarra cantando encima, batería programada marcando un paso firme.
+
+## La producción
+
+La grabación quedó en manos del propio grupo, con Lenny Bird y Christian Gstettner acreditados como ingenieros. Los arreglos instrumentales reparten el protagonismo: Zlatko Perica firma los de guitarra y Linda Spa los de saxofón, lo que confirma hasta qué punto esos dos timbres dejaron de ser invitados para volverse parte del diseño. El resto es teclado en capas, con una paleta digital brillante, muy comprimida y de graves redondos, típica de la producción de mediados de los noventa.
+
+Ese acabado es a la vez la virtud y el límite del disco. Todo suena nítido, ordenado y sin aristas; los solos entran donde deben y las transiciones están medidas. Pero la propia perfección del molde borra las particularidades, y varias piezas podrían intercambiarse con las de los discos vecinos sin que el oyente notara el cambio.
+
+## Recepción y legado
+
+Fue recibido como lo que era: una entrega solvente de una banda que había encontrado una fórmula cómoda y no pensaba abandonarla. Quienes seguían al grupo desde la etapa berlinesa lo vieron como una capitulación ante el gusto medio; quienes habían llegado por el cine lo encontraron amable y accesible. Con el tiempo ha quedado en el pelotón medio de la discografía noventera, valorado sobre todo por el papel de la guitarra y por un par de piezas largas que aguantan la escucha. No es el disco por el que se recuerda a Tangerine Dream, pero explica bien en qué se había convertido.

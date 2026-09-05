@@ -1,0 +1,762 @@
+{
+ "id": "his-41",
+ "contexto_artistas": {
+  "rush": "La herencia canadiense: tomaron el prog inglés y lo volvieron tocable en estadios. De imitadores de Zeppelin (74) a 2112 (76) a la síntesis perfecta de Moving Pictures (81) y la reinvención sintética de los 80. Cuarenta años sin un solo cambio de formación desde Peart.",
+  "sh": "La carrera que Genesis no le dejó tener adentro. Voyage of the Acolyte (75, con dos Genesis de sesión) fue el puente; Spectral Mornings, el destino. Del neoprog de los 80 en adelante, medio género le debe."
+ },
+ "albumes": [
+  {
+   "album_slug": "rush-grace-under-pressure",
+   "titulo": "Grace Under Pressure",
+   "artista": "Rush",
+   "artista_slug": "rush",
+   "anio": 1984,
+   "primer_lanzamiento": "1984-04-12",
+   "era": "siguiente",
+   "analisis_actual": "Frío y ansioso —guerra fría literal—: su mejor disco de la era del sintetizador. Power Windows (85, UK 9/US 10), Hold Your Fire (87, UK 10/US 13) y Presto (89, US 16) completan la etapa.",
+   "pistas": [
+    "1. Distant Early Warning (4:59)",
+    "2. Afterimage (5:04)",
+    "3. Red Sector A (5:10)",
+    "4. The Enemy Within (4:34)",
+    "5. The Body Electric (5:00)",
+    "6. Kid Gloves (4:18)",
+    "7. Red Lenses (4:42)",
+    "8. Between the Wheels (5:44)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Peter Henderson (producer)",
+     "Rush (producer)"
+    ],
+    "musicos": [
+     "Geddy Lee: bass guitar, synthesizer",
+     "Alex Lifeson: guitar family, synthesizer",
+     "Neil Peart: membranophone, percussion",
+     "Geddy Lee: vocal"
+    ],
+    "arte": [
+     "Hugh Syme (art direction)",
+     "Hugh Syme (illustration)",
+     "Yousuf Karsh (photography)",
+     "Deborah Samuel (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "rush-power-windows",
+   "titulo": "Power Windows",
+   "artista": "Rush",
+   "artista_slug": "rush",
+   "anio": 1985,
+   "primer_lanzamiento": "1985-10-14",
+   "era": "siguiente",
+   "analisis_actual": "La producción de mediados de los ochenta llevada al límite: capas de sintetizadores, guitarra brillante, un disco temático sobre las formas del poder. Con los años quedó como el más logrado de la era sintética junto a Grace Under Pressure. «Marathon» y «Mystic Rhythms» sostienen el argumento.",
+   "pistas": [
+    "1. The Big Money (5:36)",
+    "2. Grand Designs (5:05)",
+    "3. Manhattan Project (5:05)",
+    "4. Marathon (6:09)",
+    "5. Territories (6:19)",
+    "6. Middletown Dreams (5:17)",
+    "7. Emotion Detector (5:10)",
+    "8. Mystic Rhythms (6:08)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Andrew Pryce Jackman (chorus master)",
+     "Anne Dudley (conductor)",
+     "Head (engineer: additional)",
+     "Anne Dudley (instrument arranger: strings)",
+     "Jim Burgess (programming: synthesizer)",
+     "Andy Richards (programming: synthesizer)",
+     "Matt Butler (recording: assistant)",
+     "Steve \"Barney\" Chase (recording: assistant)",
+     "Dave Meegan (recording: assistant)",
+     "Heff Moraes (recording: assistant)",
+     "Paul Wright (recording: assistant)",
+     "Andrew Pryce Jackman (vocal arranger: choir vocals)",
+     "Andrew Pryce Jackman (arranger)",
+     "James “Jimbo” Barton (engineer)",
+     "Peter Collins (producer: co)",
+     "Rush (producer: co)"
+    ],
+    "musicos": [
+     "Geddy Lee: synthesizer",
+     "Alex Lifeson: acoustic guitar",
+     "Neil Peart: electronic drum set",
+     "Andy Richards: additional, keyboard",
+     "Geddy Lee: vocal"
+    ],
+    "arte": [
+     "Hugh Syme (art direction)",
+     "Hugh Syme (graphic design)",
+     "Hugh Syme (illustration)",
+     "Dimo Safari (photography)",
+     "Hugh Syme (design/illustration)"
+    ],
+    "lugares": [
+     "Abbey Road Studios (recorded at)",
+     "AIR Studios Montserrat (recorded at)",
+     "Angel Recording Studios (recorded at)",
+     "Sarm East Studios (recorded at)",
+     "The Manor (recorded at)"
+    ]
+   }
+  },
+  {
+   "album_slug": "rush-hold-your-fire",
+   "titulo": "Hold Your Fire",
+   "artista": "Rush",
+   "artista_slug": "rush",
+   "anio": 1987,
+   "primer_lanzamiento": "1987-09-03",
+   "era": "siguiente",
+   "analisis_actual": "El punto de saturación del ciclo sintetizador: más pulido, más pop, con Aimee Mann como invitada en «Time Stand Still». Hay canciones, pero la textura manda y parte del público lo sintió diluido. La propia banda replegó velas después.",
+   "pistas": [
+    "1. Force Ten (4:33)",
+    "2. Time Stand Still (5:08)",
+    "3. Open Secrets (5:38)",
+    "4. Second Nature (4:36)",
+    "5. Prime Mover (5:21)",
+    "6. Lock and Key (5:09)",
+    "7. Mission (5:17)",
+    "8. Turn the Page (4:55)",
+    "9. Tai Shan (4:16)",
+    "10. High Water (5:34)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Peter Collins (producer: co)",
+     "Rush (producer: co)"
+    ],
+    "musicos": [
+     "Andy Richards: additional, keyboard"
+    ],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "rush-presto",
+   "titulo": "Presto",
+   "artista": "Rush",
+   "artista_slug": "rush",
+   "anio": 1989,
+   "primer_lanzamiento": "1989-11-07",
+   "era": "siguiente",
+   "analisis_actual": "Disco de transición: los sintetizadores retroceden, la guitarra de Lifeson vuelve al frente, aunque la producción sigue sonando liviana. Más canciones que riffs; «Show Don't Tell» y «The Pass» son lo que queda. La banda misma lo cita como intento a medias.",
+   "pistas": [
+    "1. Show Don't Tell (5:01)",
+    "2. Chain Lightning (4:33)",
+    "3. The Pass (4:50)",
+    "4. War Paint (5:24)",
+    "5. Scars (4:07)",
+    "6. Presto (5:46)",
+    "7. Superconductor (4:47)",
+    "8. Anagram (for Mongo) (3:59)",
+    "9. Red Tide (4:30)",
+    "10. Hand Over Fist (4:10)",
+    "11. Available Light (5:04)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Rupert Hine (producer)",
+     "Rush (producer)"
+    ],
+    "musicos": [
+     "Rupert Hine: additional, keyboard",
+     "Jason Sniderman: additional, keyboard",
+     "Rupert Hine: additional, background vocals"
+    ],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "rush-roll-the-bones",
+   "titulo": "Roll the Bones",
+   "artista": "Rush",
+   "artista_slug": "rush",
+   "anio": 1991,
+   "primer_lanzamiento": "1991-09-03",
+   "era": "siguiente",
+   "analisis_actual": "El regreso al top 3 americano; Counterparts (93, US 2) y Test for Echo (96, US 5) confirmaron que el público nunca se había ido.",
+   "pistas": [
+    "1. Dreamline",
+    "2. Bravado",
+    "3. Roll the Bones",
+    "4. Face Up",
+    "5. Where's My Thing? (Part IV, \"Gangster Of Boats\" Trilogy)",
+    "6. The Big Wheel",
+    "7. Heresy",
+    "8. Ghost of a Chance",
+    "9. Neurotica",
+    "10. You Bet Your Life"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Rupert Hine (producer)",
+     "Rush (producer)"
+    ],
+    "musicos": [
+     "Rupert Hine: additional, keyboard",
+     "Rupert Hine: background vocals"
+    ],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "rush-counterparts",
+   "titulo": "Counterparts",
+   "artista": "Rush",
+   "artista_slug": "rush",
+   "anio": 1993,
+   "primer_lanzamiento": "1993-10-19",
+   "era": "siguiente",
+   "analisis_actual": "El giro más duro en una década: sonido seco, guitarras al frente, contemporáneo del rock alternativo sin imitarlo. «Animate» y «Stick It Out» muestran el músculo; «Nobody's Hero», la ambición lírica. De lo más defendible de su etapa noventera.",
+   "pistas": [
+    "1. Animate (6:03)",
+    "2. Stick It Out (4:30)",
+    "3. Cut to the Chase (4:48)",
+    "4. Nobody's Hero (4:55)",
+    "5. Between Sun & Moon (4:37)",
+    "6. Alien Shore (5:47)",
+    "7. The Speed of Love (5:02)",
+    "8. Double Agent (4:52)",
+    "9. Leave That Thing Alone (4:05)",
+    "10. Cold Fire (4:27)",
+    "11. Everyday Glory (5:11)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Peter Collins (producer)",
+     "Rush (producer)"
+    ],
+    "musicos": [
+     "Geddy Lee: bass guitar, synthesizer",
+     "Alex Lifeson: acoustic guitar, electric guitar",
+     "Neil Peart: membranophone, percussion",
+     "John Webster: additional, keyboard",
+     "Geddy Lee: vocal"
+    ],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "rush-test-for-echo",
+   "titulo": "Test for Echo",
+   "artista": "Rush",
+   "artista_slug": "rush",
+   "anio": 1996,
+   "primer_lanzamiento": "1996-09-09",
+   "era": "siguiente",
+   "analisis_actual": "Continuación del sonido de Counterparts con menos filo: correcto, profesional, algo anónimo dentro del catálogo. Después vino el silencio largo por las tragedias personales de Peart, lo que lo dejó como cierre involuntario de una era.",
+   "pistas": [
+    "1. Test for Echo (5:55)",
+    "2. Driven (4:27)",
+    "3. Half the World (3:42)",
+    "4. The Color of Right (4:48)",
+    "5. Time and Motion (5:01)",
+    "6. Totem (4:58)",
+    "7. Dog Years (4:55)",
+    "8. Virtuality (5:43)",
+    "9. Resist (4:23)",
+    "10. Limbo (5:28)",
+    "11. Carve Away the Stone (4:05)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Peter Collins (producer)",
+     "Rush (producer)"
+    ],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "rush-vapor-trails",
+   "titulo": "Vapor Trails",
+   "artista": "Rush",
+   "artista_slug": "rush",
+   "anio": 2002,
+   "primer_lanzamiento": "2002-05-14",
+   "era": "moderna",
+   "analisis_actual": "El regreso tras las tragedias personales de Peart; crudo hasta el defecto (lo remezclaron en 2013). Snakes & Arrows (2007, US 3) consolidó la tercera vida.",
+   "pistas": [
+    "[12\" Vinyl 1] 1. One Little Victory (5:08)",
+    "[12\" Vinyl 1] 2. Ceiling Unlimited (5:28)",
+    "[12\" Vinyl 1] 3. Ghost Rider (5:41)",
+    "[12\" Vinyl 1] 4. Peaceable Kingdom (5:23)",
+    "[12\" Vinyl 1] 5. The Stars Look Down (4:28)",
+    "[12\" Vinyl 1] 6. How It Is (4:05)",
+    "[12\" Vinyl 1] 7. Vapor Trail (4:57)",
+    "[12\" Vinyl 2] 1. Secret Touch (6:34)",
+    "[12\" Vinyl 2] 2. Earthshine (5:38)",
+    "[12\" Vinyl 2] 3. Sweet Miracle (3:40)",
+    "[12\" Vinyl 2] 4. Nocturne (4:49)",
+    "[12\" Vinyl 2] 5. Freeze (Part IV of \"Fear\") (6:21)",
+    "[12\" Vinyl 2] 6. Out of the Cradle (5:03)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Paul Northfield (producer)",
+     "Rush (producer)"
+    ],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "rush-snakes-arrows",
+   "titulo": "Snakes & Arrows",
+   "artista": "Rush",
+   "artista_slug": "rush",
+   "anio": 2007,
+   "primer_lanzamiento": "2007-05-01",
+   "era": "moderna",
+   "analisis_actual": "El disco que consolidó la tercera vida: guitarras en capas, energía recuperada, letras de Peart sobre la fe y sus abusos. Tres instrumentales en un solo álbum, algo inédito en su catálogo. Recibido como su trabajo más sólido en dos décadas.",
+   "pistas": [
+    "1. Far Cry (5:18)",
+    "2. Armor and Sword (6:36)",
+    "3. Workin' Them Angels (4:46)",
+    "4. The Larger Bowl (4:07)",
+    "5. Spindrift (5:23)",
+    "6. The Main Monkey Business (6:01)",
+    "7. The Way the Wind Blows (6:28)",
+    "8. Hope (2:02)",
+    "9. Faithless (5:31)",
+    "10. Bravest Face (5:11)",
+    "11. Good News First (4:51)",
+    "12. Malignant Narcissism (2:16)",
+    "13. We Hold On (4:12)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Nick Raskulinecz (producer)",
+     "Rush (producer)"
+    ],
+    "musicos": [
+     "Geddy Lee: bass guitar, bass pedals, mellotron",
+     "Alex Lifeson: acoustic guitar, bouzouki, electric guitar, mandola, mandolin",
+     "Neil Peart: electronic drum set, membranophone, percussion"
+    ],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "rush-clockwork-angels",
+   "titulo": "Clockwork Angels",
+   "artista": "Rush",
+   "artista_slug": "rush",
+   "anio": 2012,
+   "primer_lanzamiento": "2012-06-08",
+   "era": "moderna",
+   "analisis_actual": "Ópera steampunk final: el círculo de 2112 cerrado con canas. Último disco de estudio; Peart murió en 2020 y con él la banda.",
+   "pistas": [
+    "1. Caravan (5:38)",
+    "2. BU2B (5:10)",
+    "3. Clockwork Angels (7:31)",
+    "4. The Anarchist (6:51)",
+    "5. Carnies (4:51)",
+    "6. Halo Effect (3:13)",
+    "7. Seven Cities of Gold (6:32)",
+    "8. The Wreckers (5:00)",
+    "9. Headlong Flight (7:19)",
+    "10. BU2B2 (1:28)",
+    "11. Wish Them Well (5:25)",
+    "12. The Garden (6:59)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [
+     "Hugh Syme (art direction)",
+     "Hugh Syme (design/illustration)",
+     "Andrew MacNaughtan (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "sh-voyage-of-the-acolyte",
+   "titulo": "Voyage of the Acolyte",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1975,
+   "primer_lanzamiento": "1975-10",
+   "era": "clasica",
+   "analisis_actual": "El tarot en clave Genesis, con Collins y Rutherford de sesión: el disco solista que precipitó las tensiones que lo sacarían de la banda dos años después.",
+   "pistas": [
+    "1. Ace of Wands (5:25)",
+    "2. Hands of the Priestess, Part I (3:28)",
+    "3. A Tower Struck Down (4:52)",
+    "4. Hands of the Priestess, Part II (1:34)",
+    "5. The Hermit (4:49)",
+    "6. Star of Sirius (7:07)",
+    "7. The Lovers (1:49)",
+    "8. Shadow of the Hierophant (11:44)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "John Acock (engineer)",
+     "Bob Broglia (engineer: assistant)",
+     "Paul Watkins (engineer: assistant)",
+     "John Acock (producer)",
+     "Steve Hackett (producer)"
+    ],
+    "musicos": [
+     "Phil Collins: guest, membranophone, vibraphone",
+     "John Hackett: flute, guest",
+     "Mike Rutherford: electric bass guitar, guest",
+     "John Acock: harmonium, mellotron, piano",
+     "Steve Hackett: acoustic guitar, autoharp, bell, electric guitar, harmonium, mellotron",
+     "Robin Miller: cor anglais, oboe",
+     "Nigel Warren-Green: cello, solo",
+     "Phil Collins: additional",
+     "Steve Hackett: vocal",
+     "Sally Oldfield: vocal"
+    ],
+    "arte": [
+     "Kim Poor (design/illustration)",
+     "Phil Smee (design)",
+     "Kim Poor (illustration)",
+     "Barry Plummer (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "sh-please-don-t-touch",
+   "titulo": "Please Don't Touch",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1978,
+   "primer_lanzamiento": "1978",
+   "era": "clasica",
+   "analisis_actual": "Primer disco ya fuera de Genesis, con invitados americanos (Richie Havens, Randy Crawford): buscando voz propia por ensayo y error.",
+   "pistas": [
+    "1. Narnia",
+    "2. Carry on Up the Vicarage",
+    "3. Racing in A",
+    "4. Kim",
+    "5. How Can I?",
+    "6. Hoping Love Will Last",
+    "7. Land of a Thousand Autumns",
+    "8. Please Don’t Touch",
+    "9. The Voice of Necam",
+    "10. Icarus Ascending"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Steve Hackett (arranger)",
+     "Steve Hackett (composer)",
+     "John Acock (engineer)",
+     "John Acock (producer)",
+     "Steve Hackett (producer)"
+    ],
+    "musicos": [
+     "John Acock: keyboard",
+     "Phil Ehart: membranophone, percussion",
+     "Tom Fowler: bass",
+     "John Hackett: bass pedals, flute, keyboard, piccolo",
+     "Steve Hackett: acoustic guitar, electric guitar, keyboard, percussion",
+     "David LeBolt: keyboard",
+     "Chester Thompson: membranophone, percussion",
+     "James Bradley: percussion",
+     "Richie Havens: percussion",
+     "Hugh Malloy: cello",
+     "Graham Smith: violin",
+     "Randy Crawford: vocal",
+     "Steve Hackett: vocal",
+     "Richie Havens: vocal",
+     "Steve Walsh: vocal"
+    ],
+    "arte": [
+     "Kim Poor (design/illustration)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "sh-spectral-mornings",
+   "titulo": "Spectral Mornings",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1979,
+   "primer_lanzamiento": "1979-05",
+   "era": "clasica",
+   "analisis_actual": "Su clásico solista: la guitarra como la voz que en Genesis le racionaban.",
+   "pistas": [
+    "1. Every Day (6:14)",
+    "2. The Virgin and the Gypsy (4:28)",
+    "3. The Red Flower of Tachai Blooms Everywhere (2:04)",
+    "4. Clocks – The Angel of Mons (4:17)",
+    "5. The Ballad of the Decomposing Man (3:48)",
+    "6. Lost Time in Córdoba (4:03)",
+    "7. Tigermoth (7:35)",
+    "8. Spectral Mornings (6:31)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Steve Hackett (composer)",
+     "John Acock (producer)",
+     "Steve Hackett (producer)"
+    ],
+    "musicos": [
+     "Dik Cadbury: bass, bass pedals, violin",
+     "John Hackett: bass pedals, flute",
+     "Steve Hackett: guitar family, harmonica, koto, synthesizer",
+     "Nick Magnus: clavinet, harpsichord, keyboard, Minimoog, Rhodes piano, synthesizer",
+     "John Shearer: membranophone, percussion",
+     "Dik Cadbury: vocal",
+     "Steve Hackett: vocal",
+     "Pete Hicks: background vocals, lead vocals"
+    ],
+    "arte": [
+     "Kim Poor (design/illustration)",
+     "Barry Plummer (photography)",
+     "Tom Sheehan (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "sh-defector",
+   "titulo": "Defector",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1980,
+   "primer_lanzamiento": "1980",
+   "era": "clasica",
+   "analisis_actual": "Techo comercial solista. Buena parte del neoprog de los ochenta sale de este catálogo.",
+   "pistas": [
+    "1. The Steppes (6:05)",
+    "2. Time to Get Out (4:12)",
+    "3. Slogans (3:57)",
+    "4. Leaving (3:04)",
+    "5. Two Vamps as Guests (1:53)",
+    "6. Jacuzzi (4:36)",
+    "7. Hammer in the Sand (3:10)",
+    "8. The Toast (3:42)",
+    "9. The Show (3:40)",
+    "10. Sentimental Institution (2:44)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Steve Hackett (composer)",
+     "John Acock (producer)",
+     "Steve Hackett (producer)"
+    ],
+    "musicos": [
+     "Dik Cadbury: bass",
+     "John Hackett: alto flute, concert flute",
+     "Steve Hackett: guitar, synthesizer",
+     "Nick Magnus: keyboard",
+     "John Shearer: membranophone, percussion"
+    ],
+    "arte": [
+     "Kim Poor (design/illustration)",
+     "Kim Poor (graphic design)",
+     "Robert Ellis (photography)",
+     "Barry Plummer (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "sh-cured",
+   "titulo": "Cured",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1981,
+   "primer_lanzamiento": "1981",
+   "era": "siguiente",
+   "analisis_actual": "Giro abrupto hacia el pop de sintetizadores y cajas de ritmo, con Hackett cantando todo por primera vez. El formato de dúo compacto reemplaza a la banda de los discos anteriores y el resultado suena más liviano de lo que su catálogo venía prometiendo. Abre la década y media errática de búsqueda de mercado que define la etapa.",
+   "pistas": [
+    "1. Hope I Don’t Wake (3:49)",
+    "2. Picture Postcard (3:56)",
+    "3. Can’t Let Go (5:44)",
+    "4. The Air-Conditioned Nightmare (4:43)",
+    "5. Funny Feeling (4:06)",
+    "6. A Cradle of Swans (2:50)",
+    "7. Overnight Sleeper (4:38)",
+    "8. Turn Back Time (4:19)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "sh-bay-of-kings",
+   "titulo": "Bay of Kings",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1983,
+   "primer_lanzamiento": "1983-10-28",
+   "era": "siguiente",
+   "analisis_actual": "Primer disco enteramente acústico: guitarra clásica sola, sin banda ni electrónica. Inaugura la vertiente de cámara que Hackett mantendría en paralelo durante toda su carrera. Modesto por diseño, y más coherente que sus intentos pop del mismo período.",
+   "pistas": [
+    "1. Bay of Kings (4:57)",
+    "2. The Journey (4:14)",
+    "3. Kim (2:25)",
+    "4. Marigold (3:36)",
+    "5. St Elmo’s Fire (3:08)",
+    "6. Petropolis (2:45)",
+    "7. Second Chance (1:58)",
+    "8. Cast Adrift (2:15)",
+    "9. Horizons (1:47)",
+    "10. Black Light (2:31)",
+    "11. The Barren Land (3:46)",
+    "12. Calmaria (3:22)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "John Acock (mix)",
+     "John Acock (producer)",
+     "Steve Hackett (producer)",
+     "John Acock (recording)"
+    ],
+    "musicos": [
+     "John Hackett: flute",
+     "Steve Hackett: guitar, keyboard",
+     "Nick Magnus: keyboard"
+    ],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "sh-highly-strung",
+   "titulo": "Highly Strung",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1983,
+   "primer_lanzamiento": "1983",
+   "era": "siguiente",
+   "analisis_actual": "Segundo intento de conciliar canción accesible y guitarra protagonista, con mejor pulso que Cured. Rock ochentoso de producción brillante donde los instrumentales siguen siendo lo más sólido. Un disco de transición honesto dentro de la búsqueda de mercado de la etapa.",
+   "pistas": [
+    "1. Camino Royale (5:25)",
+    "2. Cell 151 (6:25)",
+    "3. Always Somewhere Else (3:58)",
+    "4. Walking Through Walls (3:45)",
+    "5. Give It Away (4:05)",
+    "6. Weightless (3:29)",
+    "7. Group Therapy (5:44)",
+    "8. India Rubber Man (2:29)",
+    "9. Hackett to Pieces (2:38)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Steve Hackett (composer)"
+    ],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "sh-till-we-have-faces",
+   "titulo": "Till We Have Faces",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1984,
+   "primer_lanzamiento": "1984",
+   "era": "siguiente",
+   "analisis_actual": "Rareza del catálogo: grabado en parte en Brasil, cruza percusión brasileña con la guitarra eléctrica de siempre. El experimento es más interesante en la intención que en el resultado, con un sonido ochentoso que fecha mal. Quedó como el punto más desorientado de la etapa errática.",
+   "pistas": [
+    "1. Duel (4:50)",
+    "2. Matilda Smith‐Williams Home for the Aged (8:06)",
+    "3. Let Me Count the Ways (6:06)",
+    "4. A Doll That’s Made in Japan (3:57)",
+    "5. Myopia (2:56)",
+    "6. What’s My Name (7:05)",
+    "7. The Rio Connection (3:24)",
+    "8. Taking the Easy Way Out (3:49)",
+    "9. When You Wish Upon a Star (0:51)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "sh-momentum",
+   "titulo": "Momentum",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1988,
+   "primer_lanzamiento": "1988",
+   "era": "siguiente",
+   "analisis_actual": "Segunda entrega acústica en la línea de Bay of Kings: guitarra clásica sola, escritura más ambiciosa y tono más sombrío. Apareció tras el paréntesis de GTR, como retorno deliberado al perfil bajo. Catálogo íntimo, casi sin prensa entonces y después.",
+   "pistas": [
+    "1. Cavalcanti (6:14)",
+    "2. The Sleeping Sea (3:28)",
+    "3. Portrait of a Brazilian Lady (5:15)",
+    "4. When the Bell Breaks (3:03)",
+    "5. A Bed, a Chair & a Guitar (2:43)",
+    "6. Concert for Munich (4:55)",
+    "7. Last Rites of Innocence (5:28)",
+    "8. Troubled Spirit (2:30)",
+    "9. Variation on Theme by Chopin (4:55)",
+    "10. Pierrot (2:53)",
+    "11. Momentum (2:41)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "sh-guitar-noir",
+   "titulo": "Guitar Noir",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1993,
+   "primer_lanzamiento": "1993-05-17",
+   "era": "siguiente",
+   "analisis_actual": "Regreso al disco eléctrico con canciones tras años de silencio discográfico. Atmósferas nocturnas, voz hablada-cantada y guitarra más contenida que virtuosa: un intento de sonar contemporáneo en los noventa sin renegar del oficio. Reabrió una carrera que parecía estancada, aunque el material es desparejo.",
+   "pistas": [
+    "1. Take These Pearls (4:11)",
+    "2. Dark as the Grave (4:37)",
+    "3. Paint Your Picture (2:56)",
+    "4. There Are Many Sides to the Night (6:55)",
+    "5. Like an Arrow (2:48)",
+    "6. Walking Away From Rainbows (3:09)",
+    "7. Sierra Quemada (5:04)",
+    "8. Lost in Your Eyes (4:09)",
+    "9. Little America (4:41)",
+    "10. In the Heart of the City (4:31)",
+    "11. Vampyre With a Healthy Appetite (5:19)",
+    "12. Tristesse (3:56)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Billy Budis (producer: executive)",
+     "Steve Hackett (producer)"
+    ],
+    "musicos": [],
+    "arte": [
+     "Kim Poor (art direction)",
+     "Kim Poor (design/illustration)",
+     "Lippa Pearce (graphic design)",
+     "Paul Clark (photography)"
+    ],
+    "lugares": []
+   }
+  }
+ ]
+}

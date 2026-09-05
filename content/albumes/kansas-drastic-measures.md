@@ -16,6 +16,23 @@ critica_nota: "Mal recibido; el punto más bajo para muchos."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Caída visible respecto de la etapa anterior."
+historia: "editorial"
 ---
 
 Sin Steinhardt y con el violín fuera de la ecuación, queda un AOR genérico dominado por los hermanos Elefante. El punto más alejado de su identidad prog.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Robby Steinhardt dejó el grupo después de la gira de Vinyl Confessions, y con él se fue el violín, que era la marca sonora que distinguía a Kansas de cualquier otra banda americana de su tamaño. Drastic Measures es el disco que se grabó sin esa red, y el título describe la situación con más exactitud de la que probablemente se pretendía: medidas drásticas para sobrevivir en el mercado de mediados de los ochenta. El resultado es el punto más alejado que el grupo llegó a estar de su propia identidad.
+
+El equilibrio de fuerzas también cambió. John Elefante y su hermano Dino asumieron una porción mucho mayor de la escritura, y Kerry Livgren, cada vez más volcado en su carrera paralela y en proyectos de música cristiana, aparece aquí como un compositor entre varios en la banda que había fundado. «Fight Fire With Fire» abre con un rock de estadio directo y eficaz, sin más ambición que funcionar; «Everybody's My Friend» y «Get Rich» son sátiras ligeras sobre el oportunismo del negocio; «Mainstream» y «Going Through the Motions» tienen títulos que se comentan solos. Lo mejor del disco está en los dos cortes finales: «End of the Age», escrita por Livgren, es lo único que suena a Kansas de verdad, con un desarrollo instrumental y una letra apocalíptica que remite a su etapa anterior, e «Incident on a Bridge» cierra con la balada más lograda del conjunto. El resto es AOR competente y sin firma.
+
+## La producción
+
+La producción persigue el sonido dominante de la época: baterías con reverberación amplia, teclados en primer plano, guitarras tratadas y coros multiplicados. Un elenco largo de voces adicionales —entre ellas David Pack, Terry Brock y Kyle Henderson— refuerza los estribillos hasta darles un empaque casi coral. Sin violín, la textura recae en los teclados de Elefante y en la guitarra de Richard Williams, y la ausencia se nota sobre todo en las transiciones, donde antes había un contracanto y ahora hay un sintetizador. La dirección de arte fue de Tom Drennon Design, con diseño de Cürt Evans y fotografía de Glen Wexler; la portada, sobria y corporativa, encaja con el contenido.
+
+## Recepción y legado
+
+No funcionó, y su fracaso desembocó en la disolución del grupo poco después: Livgren y Dave Hope se marcharon a proyectos de música cristiana explícita y el nombre quedó en pausa hasta la reforma de mitad de década. Para los seguidores de la etapa clásica es el disco prescindible por antonomasia, y la valoración se sostiene: no hay aquí violín, ni suites, ni la ambición armónica que justificaba a la banda. Lo que sí hay, y conviene reconocerlo, es un puñado de canciones bien hechas y un cantante en excelente forma. Como documento del momento en que un grupo progresivo decidió dejar de serlo para sobrevivir, es instructivo; como disco de Kansas, es el que menos lo parece.

@@ -16,6 +16,25 @@ critica_nota: "Recepción dividida; hoy de los mejor considerados de la década.
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Circulación modesta pese a su ambición."
+historia: "editorial"
 ---
 
 Colección de canciones cortas de sátira social —televangelistas, punks de boutique, el sueño americano en oferta— con la banda de esta etapa en modo quirúrgico. De lo más cohesivo de su producción ochentera.
+
+<!-- historia:editorial -->
+
+## La historia
+
+You Are What You Is es el disco donde Zappa concentra su mirada sobre la sociedad de su país en una colección de canciones cortas, sin ópera ni narrador, y con la banda de comienzos de los ochenta funcionando como una máquina de reflejos rápidos. Llega después de un ciclo dominado por Joe's Garage y su relato, y elige el camino opuesto: piezas breves, encadenadas casi sin pausa, cada una con su blanco. El álbum doble se escucha como un desfile de tipos nacionales, y su tema de fondo es la impostura: gente que finge ser lo que no es, y una cultura que le vende a cada uno la identidad que quiera comprar.
+
+Los objetivos están claros desde el principio. «Teen-age Wind» y «Any Downers?» ridiculizan la rebeldía adolescente y su dependencia química; «Mudd Club» y «Conehead» se ríen de la moda punk de boutique y de sus poses; «Society Pages», «I'm a Beautiful Guy» y «Beauty Knows No Pain» desmontan la vanidad y la industria de la apariencia; «Charlie's Enormous Mouth» y «Doreen» cuentan historias de personajes que se destruyen sin darse cuenta. El bloque más feroz es el religioso: «Dumb All Over» ataca la fe militante y la guerra santa, «Heavenly Bank Account» retrata al predicador televisivo como empresario del miedo, y «The Meek Shall Inherit Nothing» invierte la bienaventuranza evangélica sin piedad. La pieza titular aborda de frente la cuestión racial y la imitación cultural cruzada, y «Theme From the 3rd Movement of Sinister Footwear» recuerda, con su escritura instrumental compleja, que detrás de todo esto hay un compositor.
+
+## La producción
+
+Zappa produjo el disco en su propio estudio, la instalación que había construido bajo su casa y que le permitió por primera vez trabajar sin reloj ni tarifa horaria. Esa comodidad se oye: las voces están cuidadas hasta el detalle, con Ray White e Ike Willis aportando un fraseo casi de soul, Bob Harris cubriendo los registros agudos y coros armados por capas. La banda incluye a Arthur Barrow en bajo, Ed Mann en percusión, Tommy Mars en teclados, David Logeman en batería, Steve Vai y Denny Walley en guitarras, David Ocker en clarinetes y Craig Steward en armónica; entre los invitados figuran Jim Sherwood, veterano de las Mothers, y sus propios hijos Moon y Ahmet.
+
+El arreglo es el gran protagonista técnico: vientos escritos, contracantos vocales y cortes precisos que enlazan una canción con la siguiente sin dejar aire. El diseño gráfico lo firman Amy R. Bernstein y John Vince, con fotografía de John Livzey. El video del tema titular, con su parodia del poder político, quedó fuera de la rotación televisiva de la época.
+
+## Recepción y legado
+
+Fue mejor recibido de lo habitual y con los años se afirmó como el disco más cohesivo de su etapa ochentera, el único de esos años que funciona de principio a fin como conjunto. La sátira religiosa resultó premonitoria y sigue siendo la parte que mejor aguanta; lo que peor envejece es cierto costumbrismo repetitivo y un exceso de duración que un disco simple habría corregido. Para muchos oyentes es la última obra plenamente lograda antes de que el Synclavier y las grabaciones de gira dominaran su producción.

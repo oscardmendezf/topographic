@@ -16,6 +16,23 @@ critica_nota: "Reseñas amables en prensa especializada."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Culto; sin listas."
+historia: "editorial"
 ---
 
 Continuación inmediata de Blue Angel dentro de la misma economía artesanal. Recepción amable en el circuito prog, invisible fuera. La constancia como método.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Déjà Fou es la continuación inmediata de Blue Angel y responde a la misma lógica: sello propio, producción artesanal y un público concreto al que no hay que explicarle nada. La diferencia está en el tono. Donde el disco anterior se apoyaba en una suite y en relecturas, este apuesta por un repertorio íntegramente nuevo y más variado, con Dave Cousins alternando la introspección con el comentario político y el retrato histórico.
+
+La entrada es instrumental, «Riviera dei Fiori», y funciona como pórtico mediterráneo antes de que el disco se ponga serio. «Face Down in the Well» y «Cold Steel» tiran hacia lo oscuro, con imágenes de violencia y encierro que Cousins maneja mejor que casi nadie en su generación; «Russian Front» recupera la vena bélica de «The Soldiers' Tale», contada otra vez desde abajo y sin heroísmo; «This Barren Land» insiste en el paisaje devastado como metáfora. Contra ese bloque juegan piezas más luminosas: «Under a Cloudless Sky», «Sunday Morning» y «On a Night like This» rebajan la tensión, y «Here Today, Gone Tomorrow» y «NRG» cierran con un pulso más rockero. El título, con su chiste bilingüe sobre lo ya visto y la locura, avisa de que el grupo se toma en serio sin tomarse solemne.
+
+## La producción
+
+Sigue el modelo de su antecesor: grabación de escala reducida, sin orquesta ni excesos de estudio, con la banda tocando arreglos que se resuelven entre guitarras, bajo, batería y teclados discretos. La mezcla es clara y algo seca, con las voces al frente y poca reverberación, lo que favorece la letra —que aquí importa mucho— y deja al descubierto la ausencia de grandes texturas. Los pasajes instrumentales son breves y funcionales; no hay intención de reconstruir el muro sinfónico de los setenta ni de disimular que se trata de un disco hecho con presupuesto de sello independiente. La secuencia alterna cortes duros y suaves para sostener el interés a lo largo de doce canciones.
+
+## Recepción y legado
+
+Tuvo la recepción amable y limitada que ya era norma: reseñas favorables en la prensa progresiva especializada, silencio absoluto fuera de ella. Su interés está en la constancia, que en esta etapa es el verdadero método del grupo, y en la calidad de un puñado de canciones —«Russian Front», «Face Down in the Well»— que aguantan la comparación con material mucho más celebrado. No cambia la percepción de los Strawbs ni lo pretende. Dentro de la seguidilla de los años dos mil es de los discos más sólidos, y confirma que la segunda vida de Cousins no era un epílogo sino un trabajo en curso.

@@ -16,6 +16,23 @@ critica_nota: "Cobertura mínima, recepción amable sin más."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación de nicho compartido con Djabe."
+historia: "editorial"
 ---
 
 Segunda entrega con Djabe, otra vez desde Cerdeña: fusión relajada, más paisaje que composición. Para completistas de cualquiera de las dos partes.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Tres años después de Life Is a Journey: The Sardinia Tapes, Steve Hackett y Djabe volvieron al mismo lugar y al mismo método. Back to Sardinia, de 2019, no disimula su condición de segunda entrega: el título lo declara, la mecánica se repite y hasta la toponimia insiste en el mapa de la isla. Aparece en el mismo año que At the Edge of Light, el disco más ambicioso de su etapa tardía, y ese contraste explica bastante: mientras la obra principal se volvía cada vez más densa y construida, la colaboración húngara funcionaba como la salida lateral, el lugar donde tocar sin plan y sin expectativa.
+
+Las piezas nacen otra vez del entorno y del momento. «Back to Sardinia» abre el trayecto, «Lonely Cactus», «Happy Tergu», «Lake by the Sea», «Stones and Mirto» y «Girl in the Palau Woods» dibujan lugares concretos de la isla, y «Cinquecento fragole» y «Dancing in a Jar» completan el diario con la misma lógica anecdótica. Las más extensas —«Girl in the Palau Woods», «Walking Around», «Floating Boat»— superan los nueve minutos y crecen por acumulación, con la banda estirando un motivo hasta que se agota. Miniaturas como «Purple Dream» y «Bottles in the Water», de menos de un minuto, funcionan como respiraciones entre bloques. Es paisaje antes que composición, y el disco no pretende otra cosa.
+
+## La producción
+
+La formación acreditada reúne a Hackett en guitarra con el núcleo de Djabe: Tamás Barabás en sintetizador, Attila Égerházi y Péter Kaszás en percusión, Nagy János en teclados y Áron Koós-Hutás en fliscorno, con Kaszás además a cargo de la voz. Esa instrumentación explica el carácter del resultado: el fliscorno aporta un color de jazz cálido que en el catálogo propio de Hackett no existe, y los teclados trabajan la textura ambiental en lugar de la armonía sinfónica. La captura vuelve a ser la de un grupo tocando junto, con edición posterior mínima, y la guitarra opera en modo reactivo, respondiendo a lo que proponen los demás. Nészi firma el diseño de la edición.
+
+## Recepción y legado
+
+Es explícitamente para completistas de cualquiera de las dos partes, y así circuló. Quien venga por el rock sinfónico no va a encontrar nada de eso; quien busque jazz de vanguardia tampoco. Lo que hay es fusión relajada, de una amabilidad que puede leerse como virtud o como falta de exigencia según el ánimo del oyente, con algún pasaje de verdadera belleza en las piezas largas. Su lugar en la discografía es marginal por decisión propia, pero documenta algo que los discos grandes ocultan: que después de cincuenta años de carrera Hackett seguía buscando contextos donde ser simplemente un guitarrista más dentro de una banda, sin apellido ni legado que administrar.

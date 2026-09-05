@@ -16,6 +16,25 @@ critica_nota: "Recepción limitada a circuitos del prog italiano; sin consenso."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Alcance de culto."
+historia: "editorial"
 ---
 
 Doble conceptual que retoma el imaginario de Palepoli para volver a narrar Nápoles desde el presente. Ambicioso y desparejo; el gesto importa más que el resultado.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Cuatro décadas después de Palepoli, Lino Vairetti decidió volver al mismo terreno con una premisa clara: si aquel disco había contado la Nápoles antigua enterrada bajo la moderna, este contaría la ciudad del presente con las herramientas de entonces. De ahí el título, que funde el nombre de la obra clásica con el gentilicio, y de ahí también la estructura doble, con un disco de material nuevo y otro dedicado a volver a grabar íntegramente las tres piezas originales. La operación es a la vez homenaje, relectura y declaración de continuidad, y su ambición supera con holgura lo que suele intentar una banda a esta altura de su vida.
+
+El repertorio nuevo alterna canción propia y tradición napolitana. «Fenesta vascia», «Michelemmà» y «Santa Lucia» son piezas del cancionero popular, incorporadas no como curiosidad folclórica sino como cimiento del mismo edificio que sostiene el rock del grupo. «Marmi» abre con la imagen de la piedra y la ciudad estratificada; «Anni di piombo» mira a los años de plomo italianos; «Profugo» y «Ciao Napoli» hablan de partida y emigración; «Canzone amara» y «Letizia» buscan el registro íntimo; «Anto Train» cita el «Mirror Train» del debut. En el segundo disco, «Oro caldo», «Stanza città» y «Animale senza respiro» reaparecen con sus duraciones respetadas, algo que la revisita anterior del grupo no había hecho.
+
+## La producción
+
+La grabación reúne a la formación tardía de Osanna con invitados, y trabaja con una paleta más amplia que la original: vientos, cuerdas, percusión de tradición popular, teclados modernos y coros numerosos. El sonido es nítido y espacioso, lo contrario de la suciedad deliberada del disco de 1973, y esa elección define el resultado. Las nuevas versiones de las suites están mejor tocadas y peor respiradas: cada sección se oye con claridad, pero se pierde la sensación de amenaza que producía el original, donde nada estaba del todo bajo control.
+
+El envoltorio gráfico y el planteamiento conceptual insisten en la continuidad con la obra madre, y el conjunto se presenta como una sola pieza en dos tiempos antes que como un disco nuevo más un bonus.
+
+## Recepción y legado
+
+Se leyó con simpatía dentro del circuito del prog italiano y con indiferencia fuera de él. El disco nuevo tiene tramos convincentes, sobre todo cuando confía en la tradición napolitana en lugar de competir con su propio pasado; la regrabación, en cambio, sirve más como argumento que como música, porque el original sigue disponible y sigue siendo superior. Lo que queda es el gesto: un músico que a esta altura decide medirse con la obra que lo define, sin refugiarse en la nostalgia cómoda de tocar los viejos temas tal cual. Es desparejo, y es más interesante que muchos discos redondos de su generación.

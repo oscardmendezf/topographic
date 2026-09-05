@@ -1,0 +1,599 @@
+{
+ "id": "his-34",
+ "contexto_artistas": {
+  "mothers-of-invention": "La banda con la que Frank Zappa irrumpió desde Los Ángeles: sátira feroz, doo-wop deformado, Varèse y jazz metidos en el mismo disco. Menos un grupo estable que un instrumento de su líder, con formaciones que Zappa armaba y disolvía según la obra. Su collage de estilos y su desprecio por la solemnidad hicieron de ellos el costado americano y corrosivo del prog naciente: complejidad extrema al servicio de la burla. Todo lo editado bajo el nombre Mothers es, en la práctica, música de Zappa.",
+  "museo-rosenbach": "Caso ejemplar de la constelación italiana del un-solo-disco-legendario: una obra, Zarathustra, y directo a la mitología del género. Prog sinfónico oscuro y pesado que casi nadie escuchó al salir y que hoy cotiza entre lo mejor de la escena.",
+  "national-health": "La continuación de Hatfield and the North con más músculo, con Dave Stewart otra vez al centro de la escritura. Tres discos les bastaron: dos en 1978 y un cierre póstumo en 1982 como homenaje a Alan Gowen tras su muerte. Fue el Canterbury terminando en cámara instrumental pura mientras el punk ardía afuera: música de precisión absoluta publicada en el peor momento posible para venderla.",
+  "neu": "El dúo de Michael Rother y Klaus Dinger, desprendido de Kraftwerk, redujo el rock a un pulso: el motorik, minimalismo bailable en línea recta. Dos guitarras, una batería que no acentúa nada y la sensación de autopista infinita. Media música posterior —punk, post-punk, electrónica— les debe el ritmo.",
+  "new-trolls": "Veteranos del rock italiano que entraron al canon progresivo por sus Concerto Grosso con orquesta: el encuentro entre banda de rock y escritura orquestal barroca que definió una vía propia dentro de la escena. Fuera de esa serie, una carrera larga y cambiante."
+ },
+ "albumes": [
+  {
+   "album_slug": "mothers-of-invention-one-size-fits-all",
+   "titulo": "One Size Fits All",
+   "artista": "The Mothers of Invention",
+   "artista_slug": "mothers-of-invention",
+   "anio": 1975,
+   "primer_lanzamiento": "1975-06-25",
+   "era": "clasica",
+   "analisis_actual": "La formación con George Duke en su punto más alto: «Inca Roads» y «Andy» como demostración de que la complejidad extrema puede sonar liviana. Probablemente el disco de Zappa que más aman los oyentes de prog.",
+   "pistas": [
+    "1. Inca Roads (8:45)",
+    "2. Can't Afford No Shoes (2:37)",
+    "3. Sofa No. 1 (2:38)",
+    "4. Po-Jama People (7:38)",
+    "5. Florentine Pogen (5:23)",
+    "6. Evelyn, a Modified Dog (1:04)",
+    "7. San Ber'dino (5:51)",
+    "8. Andy (6:03)",
+    "9. Sofa No. 2 (2:38)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Joe Travers (producer)",
+     "Ahmet Zappa (producer)",
+     "Michael Braunstein (recording)",
+     "Kerry McNabb (recording)"
+    ],
+    "musicos": [
+     "Napoleon Murphy Brock: flute",
+     "Ruth Underwood: percussion",
+     "Bloodshot Rollin’ Red: harmonica",
+     "George Duke: keyboard",
+     "Tom Fowler: bass",
+     "Chester Thompson: drums (drum set)",
+     "Frank Zappa: guitar",
+     "Napoleon Murphy Brock: vocal",
+     "George Duke: vocal",
+     "Frank Zappa: vocal"
+    ],
+    "arte": [
+     "Cal Schenkel (graphic design)",
+     "Lyn Lascaro (illustration)",
+     "Cal Schenkel (illustration)",
+     "Michael Mesker (art direction)",
+     "Cal Schenkel (artwork: task)",
+     "Michael Mesker (design)",
+     "Cal Schenkel (design)",
+     "Sam Emerson (photography)",
+     "Michael Mesker (photography: task)"
+    ],
+    "lugares": [
+     "Caribou Ranch Recording Studio (recorded at)",
+     "Finnlevy Studio (recorded at)",
+     "Paramount Recording Studios (recorded at)",
+     "Recording Plant (recorded at)",
+     "Wally Heider's Mobile Recording Truck (recorded at)",
+     "KCET Studios (recorded at)",
+     "The Record Plant (recorded at)"
+    ]
+   }
+  },
+  {
+   "album_slug": "museo-rosenbach-zarathustra",
+   "titulo": "Zarathustra",
+   "artista": "Museo Rosenbach",
+   "artista_slug": "museo-rosenbach",
+   "anio": 1973,
+   "primer_lanzamiento": "1973-04",
+   "era": "clasica",
+   "analisis_actual": "Suite nietzscheana con Mellotron denso, riffs pesados y una gravedad que el prog italiano rara vez alcanzó. Ignorado en su momento, canonizado después: el arquetipo del disco único legendario.",
+   "pistas": [
+    "1. Zarathustra a)L'ultimo Uomo b)Il Re Di Ieri c)Al Di La' Del Bene E Del Male d)Superuomo e)Il Tempo Delle Clessidre (20:49)",
+    "2. Degli Uimini (4:04)",
+    "3. Della Natura (8:30)",
+    "4. Dell'eterno Ritorno (6:17)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [
+     "Pit Corradi: mellotron",
+     "Giancarlo Golzi: bell",
+     "Alberto Moreno: piano",
+     "Giancarlo Golzi: vocal",
+     "Enzo Merogno: vocal"
+    ],
+    "arte": [
+     "Wanda Spinello (illustration)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "museo-rosenbach-exit",
+   "titulo": "Exit",
+   "artista": "Museo Rosenbach",
+   "artista_slug": "museo-rosenbach",
+   "anio": 2000,
+   "primer_lanzamiento": "2000",
+   "era": "moderna",
+   "analisis_actual": "Regreso en estudio a décadas de Zarathustra, con sonido modernizado y poco del peso sinfónico original. Recibido con frialdad por el público del clásico.",
+   "pistas": [
+    "1. Exit (1:35)",
+    "2. Il terzo occhio (5:38)",
+    "3. In equilibrio (4:45)",
+    "4. Love (4:07)",
+    "5. Tuareg / Abbandonati (6:35)",
+    "6. Illuse le intenzioni (5:09)",
+    "7. Il re del circo (7:30)",
+    "8. Koln Raid (4:21)",
+    "9. Exit (strumentale) (1:46)",
+    "10. Un porto nel Sole (4:37)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "museo-rosenbach-zarathustra-live-in-studio",
+   "titulo": "Zarathustra Live in Studio",
+   "artista": "Museo Rosenbach",
+   "artista_slug": "museo-rosenbach",
+   "anio": 2012,
+   "primer_lanzamiento": "2012",
+   "era": "moderna",
+   "analisis_actual": "Regrabación oficial en estudio de la suite completa, con parte de la formación histórica de vuelta. Útil como documento del regreso; el original sigue siendo insustituible.",
+   "pistas": [
+    "1. Intro / Dell'eterno ritorno (7:59)",
+    "2. Degli uomini (4:17)",
+    "3. Della natura (9:00)",
+    "4. Zarathustra: L'ultimo uomo / Il re di ieri / Al di là del bene e del male / Superuomo / Il tempio delle clessidre (22:20)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "national-health-national-health",
+   "titulo": "National Health",
+   "artista": "National Health",
+   "artista_slug": "national-health",
+   "anio": 1978,
+   "primer_lanzamiento": "1978-02-14",
+   "era": "clasica",
+   "analisis_actual": "El debut: cámara instrumental de precisión, con Dave Stewart al centro y el legado de Hatfield endurecido. Salir con esto en pleno 1978 era una declaración de principios, no una estrategia.",
+   "pistas": [
+    "1. Tenemos Roads (14:43)",
+    "2. Brujo (10:19)",
+    "3. Borogoves (Excerpt From Part Two) (4:16)",
+    "4. Borogoves (Part One) (6:37)",
+    "5. Elephants (14:37)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "national-health-of-queues-and-cures",
+   "titulo": "Of Queues and Cures",
+   "artista": "National Health",
+   "artista_slug": "national-health",
+   "anio": 1978,
+   "primer_lanzamiento": "1978-11",
+   "era": "clasica",
+   "analisis_actual": "El segundo del mismo año y para muchos la cima del grupo: más músculo, más riesgo, la escritura de cámara llevada a su punto de máxima densidad. Si el Canterbury de segunda generación tuvo un testamento, es este.",
+   "pistas": [
+    "1. The Bryden 2-Step (For Amphibians), Part 1 (8:55)",
+    "2. The Collapso (6:19)",
+    "3. Squarer for Maud (11:52)",
+    "4. Dreams Wide Awake (8:51)",
+    "5. Binoculars (11:46)",
+    "6. Phlâkatön (0:08)",
+    "7. The Bryden 2-Step (For Amphibians), Part 2 (5:29)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "national-health-d-s-al-coda",
+   "titulo": "D.S. al Coda",
+   "artista": "National Health",
+   "artista_slug": "national-health",
+   "anio": 1982,
+   "primer_lanzamiento": "1982",
+   "era": "siguiente",
+   "analisis_actual": "El cierre póstumo: homenaje a Alan Gowen tras su muerte, con el grupo reunido para tocar su música una última vez. Menos un tercer álbum que un acto de duelo entre colegas; digno hasta en el título.",
+   "pistas": [
+    "1. Portrait of a Shrinking Man (5:35)",
+    "2. T.N.T.F.X. (3:12)",
+    "3. Black Hat (4:52)",
+    "4. I Feel a Night Coming On (6:37)",
+    "5. Arriving Twice (2:22)",
+    "6. Shining Water (8:53)",
+    "7. Tales of a Damson Knight (1:56)",
+    "8. Flanagan’s People (5:18)",
+    "9. Toad of Toad Hall (7:30)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "neu-neu",
+   "titulo": "Neu!",
+   "artista": "Neu!",
+   "artista_slug": "neu",
+   "anio": 1972,
+   "primer_lanzamiento": "1972",
+   "era": "clasica",
+   "analisis_actual": "El debut de 1972 instala el motorik como principio estético: «Hallogallo» es diez minutos de línea recta y todo lo demás es paisaje. Minimalismo bailable antes de que existiera la palabra para nombrarlo.",
+   "pistas": [
+    "1. Hallogallo (10:07)",
+    "2. Sonderangebot (4:51)",
+    "3. Weissensee (6:46)",
+    "4. Im Glück (6:53)",
+    "5. Negativland (9:47)",
+    "6. Lieber Honig (7:18)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [
+     "Neu! (design/illustration)",
+     "Thomas Dinger (photography)",
+     "Fritz Müller (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "neu-neu-2",
+   "titulo": "Neu! 2",
+   "artista": "Neu!",
+   "artista_slug": "neu",
+   "anio": 1973,
+   "primer_lanzamiento": "1973",
+   "era": "clasica",
+   "analisis_actual": "La primera mitad profundiza el motorik del debut; la segunda, nacida de la falta de presupuesto, recicla un single a distintas velocidades y termina inventando el remix por accidente. Menos redondo que sus vecinos, históricamente decisivo.",
+   "pistas": [
+    "1. Für immer (forever) (10:46)",
+    "2. Spitzenqualität (4:09)",
+    "3. Gedenkminute (für A + K) (1:33)",
+    "4. Lila Engel (Lilac Angel) (4:36)",
+    "5. Neuschnee 78 (2:35)",
+    "6. Super 16 (3:39)",
+    "7. Neuschnee (4:04)",
+    "8. Cassetto (1:49)",
+    "9. Super 78 (1:33)",
+    "10. Hallo Excentrico! (3:41)",
+    "11. Super (3:08)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [
+     "Klaus Dinger: percussion",
+     "Michael Rother: zither"
+    ],
+    "arte": [
+     "Klaus Dinger (artwork)",
+     "Michael Rother (artwork)",
+     "Ann Weitz (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "neu-neu-75",
+   "titulo": "Neu! ’75",
+   "artista": "Neu!",
+   "artista_slug": "neu",
+   "anio": 1975,
+   "primer_lanzamiento": "1975",
+   "era": "clasica",
+   "analisis_actual": "Un lado sereno de Rother, un lado furioso de Dinger: la cara B, con «Hero», es proto-punk hecho dos años antes de tiempo. La tensión entre los dos socios convertida en estructura de disco.",
+   "pistas": [
+    "1. Isi (5:00)",
+    "2. Seeland (6:58)",
+    "3. Leb' Wohl (8:51)",
+    "4. Hero (6:15)",
+    "5. E-Musik (10:47)",
+    "6. After Eight (4:42)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [
+     "Klaus Dinger: percussion",
+     "Thomas Dinger: drums (drum set)",
+     "Hans Lampe: drums (drum set)",
+     "Michael Rother: electronic instruments",
+     "Klaus Dinger: vocal",
+     "Michael Rother: vocal"
+    ],
+    "arte": [
+     "Thomas Dinger (photography)",
+     "Dieter Eikelpoth (photography)",
+     "Axel Pfeiffer (photography)",
+     "Ann Weitz (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "neu-neu-86",
+   "titulo": "Neu! ’86",
+   "artista": "Neu!",
+   "artista_slug": "neu",
+   "anio": 2010,
+   "primer_lanzamiento": "2010-08-13",
+   "era": "moderna",
+   "analisis_actual": "Versión oficial, revisada por Rother, de las sesiones de mediados de los ochenta que Dinger había publicado por su cuenta. Material desparejo de una sociedad ya rota: interesante como coda, no como tercer acto.",
+   "pistas": [
+    "1. Intro (Haydn Slo-Mo) (0:34)",
+    "2. Dänzing (5:06)",
+    "3. Crazy (3:14)",
+    "4. Drive (Grundfunken) (5:14)",
+    "5. La Bomba (Stop Apartheid World-Wide) (5:30)",
+    "6. Elanoizan (2:31)",
+    "7. Wave Mother (4:53)",
+    "8. Paradise Walk (5:11)",
+    "9. Euphoria (3:58)",
+    "10. Vier 1/2 (1:01)",
+    "11. Good Life (3:42)",
+    "12. November (1:43)",
+    "13. KD (1:54)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "new-trolls-senza-orario-senza-bandiera",
+   "titulo": "Senza orario senza bandiera",
+   "artista": "New Trolls",
+   "artista_slug": "new-trolls",
+   "anio": 1968,
+   "primer_lanzamiento": "1968",
+   "era": "clasica",
+   "analisis_actual": "Debut conceptual con letras de Fabrizio De André: beat orquestado con ambiciones literarias, anterior a cualquier prog. Vale como prehistoria del formato álbum en Italia más que como disco progresivo.",
+   "pistas": [
+    "1. Ho veduto (3:43)",
+    "2. Vorrei comprare una strada (2:24)",
+    "3. Signore, io sono Irish (3:29)",
+    "4. Susy Forrester (2:52)",
+    "5. Al bar dell'angolo (2:14)",
+    "6. Duemila (2:57)",
+    "7. Ti ricordi Joe? (3:06)",
+    "8. Padre O'Brien (2:47)",
+    "9. Tom Flaherty (2:43)",
+    "10. Andrò ancora (2:15)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "new-trolls-new-trolls-1970",
+   "titulo": "New Trolls (1970)",
+   "artista": "New Trolls",
+   "artista_slug": "new-trolls",
+   "anio": 1970,
+   "primer_lanzamiento": "1970",
+   "era": "clasica",
+   "analisis_actual": "El homónimo de 1970, sin parentesco con el de 1979: la banda saliendo del beat hacia la ambición orquestal que explotaría en el Concerto grosso al año siguiente. MusicBrainz lo tipa como compilación por su origen en sencillos; la discografía italiana lo cuenta como álbum.",
+   "pistas": [
+    "1. Una miniera (4:03)",
+    "2. Cosa pensiamo dell’amore (3:19)",
+    "3. Lei mi diceva (3:10)",
+    "4. Quella musica (3:48)",
+    "5. Corro da te (3:04)",
+    "6. Sensazioni (3:31)",
+    "7. Una nuvola bianca (3:33)",
+    "8. Annalisa (3:52)",
+    "9. Un’ora (2:48)",
+    "10. Io che ho te (2:40)",
+    "11. Visioni (2:56)",
+    "12. Davanti agli occhi miei (3:12)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "new-trolls-concerto-grosso-per-i-new-trolls",
+   "titulo": "Concerto grosso per i New Trolls",
+   "artista": "New Trolls",
+   "artista_slug": "new-trolls",
+   "anio": 1971,
+   "primer_lanzamiento": "1971",
+   "era": "clasica",
+   "analisis_actual": "El encuentro entre la orquesta escrita por Luis Bacalov y la banda genovesa funda buena parte del prog sinfónico italiano. La cara del concerto grosso sigue siendo el argumento; la segunda, una jam de época.",
+   "pistas": [
+    "1. Concerto grosso per i New Trolls: 1º tempo: Allegro (2:21)",
+    "2. Concerto grosso per i New Trolls: 2º tempo: Adagio (Shadows) (4:54)",
+    "3. Concerto grosso per i New Trolls: 3º tempo: Cadenza / Andante con moto (4:13)",
+    "4. Concerto grosso per i New Trolls: 4º tempo: Shadows (per Jimi Hendrix) (5:32)",
+    "5. Nella sala vuota (20:27)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "new-trolls-searching-for-a-land",
+   "titulo": "Searching for a Land",
+   "artista": "New Trolls",
+   "artista_slug": "new-trolls",
+   "anio": 1972,
+   "primer_lanzamiento": "1972",
+   "era": "clasica",
+   "analisis_actual": "Doble mitad estudio y mitad vivo, cantado en inglés con la mira puesta afuera: hard rock con arrebatos progresivos. Ambicioso y disperso a la vez, retrato fiel de una banda que probaba todo.",
+   "pistas": [
+    "1. Searching (4:47)",
+    "2. Percival (5:27)",
+    "3. In St. Peter's Day (5:03)",
+    "4. Once that I Prayed (4:03)",
+    "5. A Land to Live a Land to Die (8:24)",
+    "6. Giga (1:59)",
+    "7. To Edith (9:37)",
+    "8. Intro (7:53)",
+    "9. Bright Lights (6:31)",
+    "10. Muddy Madalein (2:28)",
+    "11. Lying Here (18:03)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "new-trolls-ut",
+   "titulo": "Ut",
+   "artista": "New Trolls",
+   "artista_slug": "new-trolls",
+   "anio": 1972,
+   "primer_lanzamiento": "1972",
+   "era": "clasica",
+   "analisis_actual": "Su disco más duro y compacto: hard prog de guitarras al frente, sin orquesta ni concesiones melódicas. Junto a los Concerto Grosso, lo más defendible de su catálogo, y el cierre de la formación clásica.",
+   "pistas": [
+    "1. Studio (3:10)",
+    "2. XXIIª strada (1:51)",
+    "3. I cavalieri del lago dell’Ontario (5:02)",
+    "4. Storia di una foglia (2:57)",
+    "5. Nato adesso (7:53)",
+    "6. C’è troppa guerra (9:53)",
+    "7. Paolo e Francesca (6:06)",
+    "8. Chi mi può capire (4:35)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "new-trolls-concerto-grosso-no-2",
+   "titulo": "Concerto grosso nº 2",
+   "artista": "New Trolls",
+   "artista_slug": "new-trolls",
+   "anio": 1976,
+   "primer_lanzamiento": "1976",
+   "era": "clasica",
+   "analisis_actual": "Segunda entrega de la serie que les dio lugar en el canon: rock con orquesta en molde barroco, más pulido que su antecesor. La fórmula banda-más-cuerdas convertida en marca de la casa.",
+   "pistas": [
+    "1. Concerto grosso nº 2: 1º tempo: Vivace (4:41)",
+    "2. Concerto grosso nº 2: 2º tempo: Andante (Most Dear Lady) (3:37)",
+    "3. Concerto grosso nº 2: 3º tempo: Moderato (Fare You Well Dove) (4:13)",
+    "4. Quiet Seas (3:17)",
+    "5. Vent’anni (4:47)",
+    "6. Bella come mai (4:12)",
+    "7. Let It Be Me (3:16)",
+    "8. Le roi soleil (5:13)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "new-trolls-aldebaran",
+   "titulo": "Aldebaran",
+   "artista": "New Trolls",
+   "artista_slug": "new-trolls",
+   "anio": 1978,
+   "primer_lanzamiento": "1978",
+   "era": "clasica",
+   "analisis_actual": "El viraje consumado a la canción melódica: pop pulido con oficio y casi sin rastro del pasado progresivo. Importa como documento del cambio de piel, no como disco de atlas.",
+   "pistas": [
+    "1. Suite disco (5:06)",
+    "2. Quella carezza della sera (4:12)",
+    "3. Musica insieme (3:35)",
+    "4. Lei, se vuoi (4:20)",
+    "5. Aldebaran (3:53)",
+    "6. Españolada (5:03)",
+    "7. Dancing (8:13)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "new-trolls-new-trolls",
+   "titulo": "New Trolls",
+   "artista": "New Trolls",
+   "artista_slug": "new-trolls",
+   "anio": 1979,
+   "primer_lanzamiento": "1979",
+   "era": "clasica",
+   "analisis_actual": "Entrada homónima de catálogo confuso, situada en plena etapa de canción melódica. Sin lugar en el relato progresivo de la banda.",
+   "pistas": [
+    "1. Fuoco (4:30)",
+    "2. Che idea (4:36)",
+    "3. Domenica di Napoli (5:35)",
+    "4. Immaginare (4:35)",
+    "5. OK (Fiamme sul pacifico) (6:09)",
+    "6. In paradiso (4:34)",
+    "7. Volo (4:35)",
+    "8. Accendi la tua luce (3:48)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "new-trolls-fs",
+   "titulo": "FS",
+   "artista": "New Trolls",
+   "artista_slug": "new-trolls",
+   "anio": 1981,
+   "primer_lanzamiento": "1981",
+   "era": "siguiente",
+   "analisis_actual": "Pieza de la etapa pop de los ochenta: producción de época y estribillos prolijos, ya sin diálogo con el prog. Para completistas del arco largo de la banda.",
+   "pistas": [
+    "1. Il treno (Tigre-E633-1979) (6:16)",
+    "2. La signora senza anelli (4:25)",
+    "3. L’uomo in blu (6:59)",
+    "4. Stelle nelle tue mani (4:07)",
+    "5. Gilda 1929 (4:56)",
+    "6. Quella luna dolce (5:09)",
+    "7. Il serpente (3:37)",
+    "8. La mia canzone (3:27)",
+    "9. Strano vagabondo (4:47)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  }
+ ]
+}

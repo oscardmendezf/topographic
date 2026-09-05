@@ -16,6 +16,25 @@ critica_nota: "Apreciado entre seguidores; invisible fuera del nicho."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Culto estricto."
+historia: "editorial"
 ---
 
 El disco más rítmico de la segunda vida: grooves casi hipnóticos sobre los que la banda apila texturas y ruido con oficio. De lo más recomendable de la etapa Klangbad para quien viene de la trilogía clásica.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Al final de los noventa, Faust ya no era un rescate arqueológico sino un grupo con varios discos recientes y una agenda de actuaciones estable. Ravvivando, de 1999, llega en ese momento de confianza y es el título de la etapa donde mejor se nota: en vez de insistir en la fragmentación y en el collage, el disco apuesta por el pulso. El nombre, tomado del italiano, indica en la partitura que hay que reavivar el movimiento, acelerar lo que se había apagado, y funciona como instrucción interna para la banda.
+
+Casi todas las piezas parten de un groove que se mantiene y sobre el que se apilan capas. «Ein Neuer Tag» abre con esa lógica y da el tono del disco; «Wir Brauchen Dich #6» y «Four Plus Seven Means Eleven» son los desarrollos largos, con la percusión sosteniendo una figura que no cede mientras alrededor crece el ruido; «Livin' Tokyo» estira ese método hasta convertirlo en trance urbano. Entre los bloques extensos aparecen las viñetas de siempre, «Spiel» y «Dr' Hansl» apenas asomando, y algunas piezas de otro carácter: «Carousel II» con aire de mecanismo de juguete, «Take Care» en un registro más sereno, «Apokalypse» y «D. I. G.» del lado abrasivo. «T-Électronique», que cierra el conjunto, es una de esas piezas que la banda seguiría revisitando en años posteriores, señal de que había encontrado ahí algo aprovechable.
+
+## La producción
+
+El sonido corresponde a la etapa del estudio propio: nada de la crudeza de Wümme y nada del pulido de un sello grande, sino un registro con cuerpo, con la percusión al frente y con espacio para que los tratamientos electrónicos se muevan alrededor. La decisión de producción más importante es rítmica: las bases se dejan correr sin cortes bruscos, y el sabotaje se ejerce por acumulación de capas y por saturación, no por edición. Eso hace del disco algo raro dentro de la discografía, un Faust que confía en la repetición del rock antes que en la tijera.
+
+Los créditos verificables de esta edición no consignan producción, formación ni arte, de modo que no corresponde nombrar participantes ni estudio. Lo que se puede afirmar por la escucha es que hay varios percusionistas y que la electrónica se usa como color y no como estructura.
+
+## Recepción y legado
+
+De todo el período posterior a Rien, es el disco que la crítica especializada recomienda con menos reservas, y con motivo: es el más disfrutable sin manual de instrucciones. Quien viene de la trilogía clásica encuentra aquí una continuidad plausible con el motórico y la hipnosis rítmica que la banda había esbozado en «It's a Rainy Day Sunshine Girl», puesta al día con herramientas de los noventa. No amplía el mapa conceptual del grupo ni lo pretende; su mérito es de ejecución y de temperatura. En el balance de una segunda vida larga y despareja, Ravvivando es la prueba de que Faust podía sonar vivo sin apoyarse en el prestigio de su propio pasado.

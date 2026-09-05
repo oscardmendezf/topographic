@@ -16,6 +16,25 @@ critica_nota: "Sin consenso crítico registrable."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Pieza de catálogo profundo, casi invisible fuera de Chile."
+historia: "editorial"
 ---
 
 El otro disco de 1992: de vocación más instrumental y climática, muestra el costado camerístico de la banda en plena madurez.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El otro disco de 1992 es el opuesto de La pichanga: donde aquel era verbal, irónico y teatral, este es climático, grave y en buena medida instrumental. La banda estaba en un momento de máxima libertad creativa, con el oficio de veinte años y sin nada que probar, y lo usó para volver al terreno que mejor conoce: la música como paisaje.
+
+El título ya contiene el oxímoron que ordena el disco, el fuego dentro del hielo, y remite al extremo austral del continente, esa tierra que los navegantes nombraron por las hogueras que vieron desde el mar. La secuencia de piezas traza un arco que se lee como relato de fin y de resistencia: «Canción del último hombre» y «De la playa sola» instalan la soledad, «El silencio sagrado» y «El anciano profeta del cielo» abren un registro ceremonial, «El navío terrible» trae lo que llega desde afuera, «Exterminio» nombra sin rodeos el desenlace y «A los sobrevivientes» cierra con una dedicatoria que es también una elegía. En el año en que se conmemoraban cinco siglos de la llegada europea a América, un disco chileno organizado así no necesitaba explicar de qué hablaba. «El baile de todos» y «Del albatros o del amor» rompen la gravedad justo antes del final, y esa alternancia evita que el conjunto se hunda en su propio tema.
+
+## La producción
+
+Es el disco más camerístico del catálogo, incluso más que Pájaros de arcilla, y el que menos concesiones hace al formato canción. Predominan las texturas: vientos sostenidos, marimbas y placas, percusión de parche tocada con las manos, cuerdas pulsadas en figuras repetidas, teclados usados como fondo armónico antes que como voz solista. La batería aparece con una discreción casi orquestal, marcando acentos en lugar de ritmo, y las voces, cuando entran, se integran como un timbre más de la trama.
+
+La escritura de Sergio Tilo González trabaja aquí por motivos breves que reaparecen transformados a lo largo del disco, un procedimiento más cercano a la música de concierto que al rock, y la producción lo respeta: dinámicas amplias, poca compresión, tiempos que se dejan estirar. Varias piezas son cortas y funcionan como movimientos de una obra mayor, de modo que el álbum se escucha mejor entero que por partes.
+
+## Recepción y legado
+
+Circuló poco y fue tapado por su hermano de año, más comentado por el nombre de Parra. Con el tiempo se ha vuelto uno de los títulos que los seguidores de la banda defienden con más convicción, precisamente por lo que le costó público: es exigente, oscuro y no ofrece un solo estribillo para llevarse. En la discografía queda como la prueba de que la etapa camerística no se agotó en los ochenta, y como uno de los pocos discos del rock latinoamericano que aborda la desaparición de los pueblos del sur sin volverla folclore ni panfleto. Lo que se le puede reprochar es la uniformidad de tono; lo que se le agradece es no haberla rebajado.

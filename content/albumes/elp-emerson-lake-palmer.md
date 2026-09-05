@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Debut muy valorado; presentación contundente del formato trío-supergrupo."
+historia: "editorial"
 ---
 
 El supergrupo se presenta: Moog, Bartók electrificado y «Lucky Man» de contrabando. La plantilla del virtuosismo como espectáculo.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El grupo se formó por sustracción de otros tres. Keith Emerson venía de The Nice, donde ya había ensayado la electrificación del repertorio clásico y el maltrato ceremonial del órgano Hammond; Greg Lake dejaba King Crimson justo después del primer disco, harto del rumbo y con la voz más reconocible del rock británico de entonces; Carl Palmer llegaba del entorno de Arthur Brown y Atomic Rooster con una técnica de percusión que no tenía comparación en su generación. La idea era explícita desde el primer ensayo: un trío sin guitarra principal donde el teclado ocupara el centro y el virtuosismo fuera el espectáculo mismo. Se presentaron en público casi sin repertorio propio y muy pronto en un gran festival, con la estrategia de imponerse por impacto.
+
+El disco es la exposición de esa tesis. «The Barbarian» adapta una pieza de piano de Bartók y la convierte en asalto de órgano distorsionado; «Knife-Edge» toma un tema de Janáček, le añade letra y un pasaje central de aire barroco, y funciona como la canción más directa del conjunto. «Take a Pebble» ocupa doce minutos y contiene en miniatura todo el programa del grupo: balada de piano y voz, digresión de guitarra acústica con palmas y un desarrollo instrumental de jazz de salón. «The Three Fates» reparte las tres hilanderas del mito entre órgano de tubos, piano solo y trío, en el gesto más abiertamente concertístico del disco. «Tank» es el vehículo para el solo de batería y «Lucky Man», una canción que Lake había escrito de adolescente y que se grabó casi como relleno, cierra con un solo de Moog improvisado que terminó siendo la puerta de entrada de miles de oyentes.
+
+## La producción
+
+Lake firma la producción, decisión que marcaría todo el catálogo: la voz y el bajo quedan claramente definidos y el conjunto tiene un orden casi clásico, sin la suciedad habitual del rock de la época. Eddy Offord, que venía de trabajar con la escena progresiva británica, se ocupó de la ingeniería y de resolver los problemas de un grupo cuyo instrumento principal era un sintetizador modular enorme, inestable en afinación y difícil de registrar. Emerson lo usa aquí con una audacia que hizo escuela, alternándolo con Hammond, clavinet y piano; el pasaje inicial de «The Three Fates» se registró en un órgano de tubos de sala de concierto, fuera del estudio. Palmer aporta percusión de orquesta además de la batería, y Lake se hace cargo de todas las guitarras. La carpeta original lleva ilustración de Nic Dartnell, con una imagen de ave que se convirtió en emblema de la primera etapa; los nombres de diseño gráfico que figuran en los créditos acumulados corresponden a reediciones.
+
+## Recepción y legado
+
+Funcionó de inmediato y fijó la plantilla del trío sinfónico para toda la década: cualquiera que quisiera hacer rock con teclado protagonista tendría que pasar por aquí. También fijó las objeciones, porque el disco exhibe ya el problema del grupo —la técnica como argumento— y el hábito de apropiarse del repertorio clásico sin demasiada humildad. Se rescata «Take a Pebble» y el equilibrio, todavía intacto, entre canción y despliegue; se le reprocha cierta frialdad y el aire de demostración. Es su disco más limpio antes de que la ambición se desbordara con Tarkus.

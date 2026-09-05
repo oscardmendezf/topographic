@@ -15,6 +15,25 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Concepto político logrado; entre lo más citado de su madurez."
+historia: "editorial"
 ---
 
 Concepto sobre la corrupción del poder, su disco más filoso. Salió el año de Watergate; la coincidencia les convenía y no era casual.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del ensimismamiento de In a Glass House, Gentle Giant miró hacia afuera y escribió su disco político. El concepto es un ciclo cerrado sobre el poder: un hombre llega prometiendo cambiar las cosas, aprende a usar los mecanismos que decía querer desmontar y acaba pronunciando el mismo discurso que había venido a sustituir. No hay nombres ni país, pero el álbum salió en pleno derrumbe de la presidencia estadounidense por el escándalo de Watergate, y la banda no hizo nada para desmentir la lectura.
+
+La arquitectura es la del propio argumento. «Proclamation» abre con la alocución del aspirante, coros solemnes y un riff de teclado que suena a maquinaria; «Valedictory» cierra el disco recuperando esa misma música y esas mismas palabras en boca de otro, de modo que el final es el principio y el oyente entiende que no ha pasado nada. Entre los dos extremos, «So Sincere» retrata la retórica hueca con compases desencajados y un pasaje de percusión que en directo se convirtió en el momento en que todos los músicos golpeaban algo; «Playing the Game» describe la política como juego de reglas aprendidas; «Cogs in Cogs» es su pieza más vertiginosa, engranajes rítmicos encajados unos en otros durante tres minutos; «No God's a Man» y «The Face» insisten en la distancia entre la imagen pública y la persona. El contrapeso humano es «Aspirations», la balada de Minnear, piano eléctrico y coro de Mellotron sobre alguien que solo pide que le dejen intentar vivir bien: la única voz sin cinismo del disco, y por eso la más eficaz. Free Hand, un año después, cambiaría el enfado por la celebración del oficio.
+
+## La producción
+
+Se produjeron ellos mismos, con la formación de cinco ya asentada: Derek Shulman como voz de ataque, Minnear en teclados, chelo y vibráfono, Ray Shulman en bajo y violín, Gary Green en guitarras y John Weathers en batería y percusión. El sonido es más duro y metálico que en cualquier disco anterior, con los sintetizadores usados como textura industrial y no como color pastoral. Es también su disco mejor grabado hasta entonces: la claridad con que se distinguen las líneas simultáneas de «Cogs in Cogs» era técnicamente difícil en la época.
+
+Un tema con el mismo título que el álbum se grabó por aquellos meses y quedó fuera del disco original; solo apareció en reediciones muy posteriores. Décadas después, Steven Wilson realizó una nueva mezcla del álbum, que es la que hoy circula con más frecuencia y que descubre detalles de percusión y voces enterrados en la original.
+
+## Recepción y legado
+
+Fue el disco que consolidó su prestigio entre los músicos y su reputación de banda demasiado exigente para el gran público. Hoy es, junto con Free Hand y Octopus, el título que más se cita: el prog británico casi siempre escapaba hacia la mitología, y aquí se habla de mecanismos de poder con una lucidez que no ha caducado. Se le puede objetar cierta rigidez, un exceso de crispación rítmica que cansa. Lo que queda intacto es «Aspirations», que sigue siendo la pieza más hermosa de su catálogo, y la idea de cerrar un disco con el mismo discurso del principio.

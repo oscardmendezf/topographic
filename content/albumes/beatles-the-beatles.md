@@ -16,6 +16,25 @@ critica_nota: "Canon absoluto pese a su dispersión deliberada."
 estrellas_comercial: 5
 comercial_fuente: "editorial"
 comercial_nota: "Éxito masivo inmediato y sostenido."
+historia: "editorial"
 ---
 
 El doble blanco: treinta canciones grabadas cada vez más como cuatro solistas compartiendo estudio, del pastiche music-hall al collage de «Revolution 9», que llevó la música concreta al público masivo. Su fragmentación deliberada es el reverso exacto del álbum conceptual que el prog estaba por abrazar; aun así, amplió el mapa de lo que cabía en un LP de rock.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El doble blanco es el retrato de una banda que se está separando y todavía no lo dice. Buena parte del material se escribió durante el retiro de meditación en la India, con guitarras acústicas y sin instrumentos eléctricos a mano, y eso explica el tono desnudo de muchas piezas. Al volver al estudio, la convivencia se había vuelto difícil: se grababa en salas distintas y a la vez, cada uno con sus canciones, y la presencia constante de Yoko Ono junto a Lennon rompió una intimidad protegida durante años. Ringo Starr se marchó unos días harto del clima, y en su ausencia McCartney tocó la batería en «Back in the U.S.S.R.».
+
+Con treinta canciones, la variedad es el asunto. «Dear Prudence» le pide a la hermana de Mia Farrow que salga a jugar; «Sexy Sadie» ajusta cuentas con el Maharishi sin nombrarlo; «While My Guitar Gently Weeps» es la mejor canción de Harrison hasta la fecha; «Blackbird» es una guitarra sola y una metáfora civil; «Julia» junta a la madre muerta de Lennon con su nueva pareja; «Helter Skelter» busca deliberadamente el ruido más brutal posible; «Ob-La-Di, Ob-La-Da» y «Honey Pie» hacen pastiche de ska y de music-hall; «Don't Pass Me By» es la primera composición firmada por Ringo, y «Good Night» cierra con una orquesta de arrullo escrita por Martin. En medio, «Revolution 9» apila collage de cintas, bucles y voces recortadas hasta llevar la música concreta al oyente masivo.
+
+## La producción
+
+Produjo George Martin, con Chris Thomas como asistente cada vez más presente y con Geoff Emerick abandonando las sesiones a mitad de camino, harto del ambiente; Ken Scott ocupó la mesa. Parte del disco se grabó fuera de Abbey Road, en un estudio de Londres que ya disponía de máquina de ocho pistas, con Barry Sheffield al mando, y la diferencia se nota en el cuerpo de cortes como «Dear Prudence» y «Honey Pie».
+
+La estética de producción es programáticamente inconsistente: hay canciones registradas casi en directo, otras construidas por capas durante decenas de tomas —«Ob-La-Di, Ob-La-Da» es el caso célebre de insistencia hasta el agotamiento— y otras que son una voz y una guitarra sin retoque. Eric Clapton pasó por el estudio para el solo de «While My Guitar Gently Weeps», y su presencia obligó a todos a comportarse durante una tarde. La tapa, encargada a Richard Hamilton, es una superficie blanca con el nombre en relieve y un número de serie estampado en cada ejemplar, contrapartida exacta del abigarramiento del disco anterior; dentro venían cuatro retratos individuales y un póster.
+
+## Recepción y legado
+
+Desconcertó al aparecer y sigue desconcertando, lo cual es su mérito. La objeción clásica —que sobra media hora y que un disco simple riguroso habría sido superior— es defendible y pierde de vista el punto: la desmesura y el desorden son el contenido. Frente al álbum conceptual que el progresivo estaba a punto de abrazar, aquí se hace lo contrario: se destruye toda unidad y se deja el material a la vista. Aun así amplió el mapa, porque después de esto cabían en un LP de rock la música concreta, un blues descarnado, una canción de cuna y un charleston. Muchos grupos aprendieron de esa licencia más que del sargento.

@@ -16,6 +16,23 @@ critica_nota: "Sin consenso; leído como rareza de archivo."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Edición para el culto rundgreniano."
+historia: "editorial"
 ---
 
 Publicación oficial de sesiones de estudio que quedaron archivadas durante décadas: divertimento space-disco de la formación temprana. Curiosidad para completistas, no un álbum nuevo en sentido pleno.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Disco Jets no es un álbum nuevo sino un archivo abierto con décadas de retraso. Las sesiones proceden de mediados de los setenta, con la formación de cuatro que acababa de consolidarse, y nacieron como divertimento: la banda que preparaba obras conceptuales sobre el sol y los amaneceres cósmicos se metió en el estudio a grabar instrumentales de disco espacial, aprovechando la fiebre simultánea por la música de baile, la ciencia ficción y las modas pasajeras de la época. El material quedó guardado, la banda siguió su camino hacia la canción breve y el proyecto no vio la luz hasta su publicación oficial ya entrado el siglo veintiuno.
+
+Los títulos cuentan la historia mejor que cualquier descripción. «Star Trek» y «Space War» explotan la iconografía televisiva del espacio, «Cosmic Convoy» cruza la moda de los camioneros y la radio de banda ciudadana con el ritmo de baile, «Pet Rock» se ríe del objeto de consumo más absurdo del momento y «Spirit of '76» guiña al clima conmemorativo estadounidense de aquellos años. «Time Warp», «V.H.F.» y «Black Hole» completan el catálogo de referencias. Son piezas instrumentales, casi todas de tres a cuatro minutos, construidas sobre un pulso constante y adornadas con sintetizadores que hacen de efectos de nave. No hay concepto que sostener ni pretensión que defender: es un grupo excelente pasándolo bien con un género que le quedaba lejos.
+
+## La producción
+
+El interés técnico está en oír a estos músicos aplicados a una tarea que no requiere su virtuosismo. La base rítmica se mantiene firme y repetitiva, lo contrario de lo que la banda hacía en sus suites, y sobre ella Roger Powell despliega el catálogo de timbres de sintetizador que en otros discos servía para la épica: aquí funcionan como decorado de serie de televisión. Las guitarras se limitan al acompañamiento rítmico y los arreglos evitan cualquier desarrollo. La grabación conserva el aire de sesión rápida, sin la elaboración de capas que caracterizaba a los trabajos oficiales, y la publicación posterior respetó ese carácter de documento antes que intentar convertirlo en un disco de estudio acabado.
+
+## Recepción y legado
+
+Se recibió como lo que es: una curiosidad para completistas, saludada con simpatía y sin consecuencias. Su valor está en el retrato de un momento, cuando una banda que se tomaba en serio la desmesura conceptual podía dedicar unas sesiones a la broma sin sentir que traicionaba nada. En términos musicales no añade ni quita nada a la discografía y no tiene relación con el progresivo salvo por quiénes lo tocan. Para el atlas cumple una función de nota al pie útil: sirve para recordar que el humor formaba parte del carácter del grupo mucho antes del pastiche beatle de 1980.

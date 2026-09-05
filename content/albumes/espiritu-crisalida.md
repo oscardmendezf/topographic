@@ -17,6 +17,25 @@ critica_nota: "Muy valorado; pionero del sinfónico argentino cantado en castell
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Repercusión marginal, prestigio duradero."
+historia: "editorial"
 ---
 
 Debut conceptual y atmosférico, de los primeros discos plenamente sinfónicos del país. Ingenuo por momentos, pero con una convicción que todavía conmueve; clásico de culto del prog latinoamericano.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Espíritu se forma en Buenos Aires a comienzos de los setenta, cuando el rock argentino ya había dejado atrás la etapa fundacional de Almendra y Manal y empezaba a mirar hacia las suites, los teclados y las letras de aliento filosófico que llegaban de Inglaterra. El grupo pertenece a esa primera camada porteña que decidió que el castellano podía sostener una pieza de siete minutos sin sonar traducido. Crisálida, su debut de 1974, es el resultado de años de ensayo y de una ambición desproporcionada para los medios disponibles: un disco pensado como un todo, no como una colección de canciones.
+
+El título anuncia el concepto y las letras lo desarrollan sin disimulo. Crisálida es un relato de transformación interior: el paso de un estado de encierro y confusión a una forma de lucidez. «La casa de la mente» abre planteando el escenario, la conciencia como un edificio que se puede recorrer, y «Prolijas virtudes del olvido» funciona como interludio breve sobre lo que hay que dejar atrás. «Sueños blancos, ideas negras» pone en tensión los dos polos del viaje, y «Sabios de vida» introduce la figura del maestro, muy propia del misticismo difuso que respiraba la época. La secuencia final es la clave del disco: «Hay un mundo cerrado dentro tuyo» diagnostica el problema y «Hay un mundo luminoso», la pieza más extensa, ofrece la salida en forma de crescendo. Entre ambas, «Eterna evidencia» y «Tiempo de ideas» rebajan la temperatura para que el cierre se sienta ganado.
+
+## La producción
+
+El sonido es el de un grupo que confía más en el color de los teclados que en la potencia. Los órganos y el mellotron sostienen casi todo el peso armónico, con la guitarra en un registro lírico, de frases largas y poco distorsionadas, y una batería que acompaña sin empujar. Las voces se cantan en un registro alto y algo tenso, a veces al unísono, buscando un efecto de coro que la técnica de la época no siempre podía redondear. La grabación privilegia la reverberación y los pasajes de silencio, y las transiciones entre piezas están pensadas para que el vinilo se escuche de corrido.
+
+Conviene decir lo que no se sabe con certeza: los créditos verificables de esta edición son escasos, y no hay registro fiable del equipo técnico ni del estudio en las fuentes disponibles, de modo que cualquier atribución sería invención. Lo que sí queda claro al oído es la precariedad de recursos, que el disco convierte en estética: menos capas de las que el proyecto pedía, pero muy bien elegidas.
+
+## Recepción y legado
+
+En su momento circuló poco y fuera de los circuitos que consagraban al rock argentino, más atento entonces a las bandas de canción. El tiempo lo puso donde está hoy: uno de los primeros discos plenamente sinfónicos del país y una referencia obligada para quien rastrea el progresivo latinoamericano. Su ingenuidad es evidente, sobre todo en las letras, y sería absurdo defenderlo como pieza de virtuosismo frente a lo que haría Crucis poco después. Pero hay en Crisálida una convicción sin ironía, una fe en que la música puede describir un proceso espiritual, que explica por qué sigue reeditándose y por qué generaciones sucesivas de músicos argentinos lo citan como punto de partida.

@@ -16,6 +16,27 @@ critica_nota: "Mal parado ante el público prog; su etapa menos defendida."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Repercusión limitada incluso en Italia."
+historia: "editorial"
 ---
 
 El viraje al pop electrónico de los ochenta: sintetizadores de época y canciones cortas donde antes había suites. Documento de una banda buscando lugar en otra década.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Entre la aventura de cámara y este disco hay un corte de un par de años y un cambio de mundo. La escena que había sostenido a la banda ya no existía, las radios pedían otra cosa y el instrumental acústico de los dos álbumes anteriores no tenía ningún futuro comercial. Venerdì es la respuesta a esa situación: canciones cortas, sintetizadores de época, ritmos programados o tocados con estética de máquina y estructuras de pop adulto. No es un accidente ni una traición, sino la decisión consciente de un grupo que quería seguir grabando y entendió que para eso debía sonar como su presente.
+
+El repertorio abandona los conceptos y los relatos largos. «Biancaneve» y «Arianna» toman nombres de cuento y de mito para historias sentimentales de tres minutos; «Cercherò» y «Storie che non tornano» insisten en la pérdida y en lo que no vuelve, que es el asunto real del álbum; «La notte» y «Marinai» conservan algún resto de la imaginería marítima veneciana que el grupo cultivaba desde siempre. La canción del título hace del viernes una promesa menor, la de la semana que termina, y «Com'era bello» cierra mirando atrás con una nostalgia que el disco, curiosamente, no desarrolla en su música. Fue el último trabajo del trío histórico antes de un largo silencio: Tony Pagliuca dejaría el grupo poco después y la banda quedaría parada durante años.
+
+## La producción
+
+Todo el sonido está determinado por la tecnología del momento. Los sintetizadores polifónicos ocupan el lugar que antes tenían el órgano y el piano, las bases rítmicas se apoyan en timbres electrónicos y de percusión procesada, y el bajo alterna la ejecución tradicional con líneas de teclado. La voz de Tagliapietra se graba muy adelante, con coros dobladores en los estribillos, y las guitarras quedan reducidas a apuntes de color.
+
+Los arreglos evitan cualquier desarrollo instrumental extenso: los temas se mueven en duraciones parejas, con introducción breve, dos estrofas, estribillo repetido y salida. La mezcla es brillante y comprimida, con mucha reverberación de placa digital en la batería, típica del periodo. Es un trabajo competente en su propio marco, hecho por músicos que sabían escribir melodías, pero el marco es estrecho y no deja sitio a lo que esta banda hacía mejor.
+
+## Recepción y legado
+
+No convenció a casi nadie. Los seguidores del grupo lo vieron como una capitulación, y el público de la canción electrónica de la época no tenía motivo para preferirlo a la enorme oferta que ya existía. Quedó como el título más incómodo del catálogo y durante mucho tiempo se lo omitió al hablar de la trayectoria.
+
+Hoy se le puede pedir menos y escuchar mejor. Es un documento honesto de una banda buscando lugar en otra década, con dos o tres melodías que aguantan y una producción que fecha el disco con precisión casi documental. No influyó en nada ni pretendía hacerlo. Su interés es histórico: marca el punto más bajo de la curva y explica por qué el regreso de los noventa se planteó como una vuelta explícita al lenguaje sinfónico, sin coqueteos con la actualidad.

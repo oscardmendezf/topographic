@@ -16,6 +16,23 @@ critica_nota: "Muy bien recibido en la prensa prog."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circuito especializado."
+historia: "editorial"
 ---
 
 La formación de Torabi ya con identidad propia: piezas largas, empuje casi kosmische y la mitología como telón de fondo antes que como guión.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Superada la prueba de existir sin Daevid Allen, la banda de Kavus Torabi se queda en cuarteto: él a la guitarra y la voz, Dave Sturt al bajo, Ian East a los vientos y Cheb Nettles a la batería, sin la segunda guitarra que había cubierto el glissando en los dos discos anteriores. Esa reducción, que en el papel parece una pérdida, define el álbum: con menos manos, el grupo abandona la lógica de la canción y se va hacia la pieza larga, el desarrollo y la repetición. Si Rejoice! I'm Dead! tenía que demostrar que el nombre seguía vivo, este no tiene nada que demostrar y puede permitirse ser difícil.
+
+Son cuatro piezas y dos de ellas ocupan la mayor parte del tiempo. «Forever Reoccurring» abre con veinte minutos construidos sobre la idea del eterno retorno, con crescendos que se instalan y se desmontan sin prisa, y con la voz apareciendo como un elemento más de la textura. «If Never I'm and Ever You» hace de bisagra breve, casi un respiro. «My Sawtooth Wake» son trece minutos que arrancan de una figura de onda —el título nombra literalmente la forma de onda en diente de sierra— y crecen hasta el ruido. «The Elemental» cierra en un formato más contenido. El universo del título no es el planeta Gong: la mitología se ha convertido en telón de fondo, un vocabulario disponible más que un guion a seguir, y el asunto real del disco es cosmológico y físico antes que narrativo.
+
+## La producción
+
+No hay créditos verificados de producción, estudio ni arte gráfico para este título, y lo prudente es no inventarlos. El sonido, en cambio, es la decisión más clara del álbum: mucho espacio, poca compresión, riffs que se dejan sonar hasta el final y una construcción por capas que recuerda menos al rock progresivo británico que al kosmische alemán de los setenta. El saxo de East se usa a menudo como colchón armónico y no como voz solista, el bajo de Sturt sostiene ostinatos larguísimos, y la batería trabaja con paciencia, marcando la acumulación en lugar de adornarla. La voz aparece tratada y a media distancia, sin el protagonismo que tenía en el disco anterior. Es el trabajo mejor grabado de la etapa Torabi y el que más confía en el volumen y el tiempo como recursos.
+
+## Recepción y legado
+
+Fue el disco que convenció a los escépticos que quedaban. Se lo lee como el momento en que esta formación deja de ser la continuadora de algo y adquiere identidad propia, con un método reconocible que no depende del catálogo antiguo. Lo que se rescata es la ambición formal: pocas bandas con cincuenta años de historia entregan un álbum de cuatro cortes y dos suites. Lo que se le objeta es que la broma, el desparpajo y el erotismo bufón que eran parte del ADN del grupo aquí casi no existen, y quien quiera eso tiene que ir hacia atrás. Como declaración de que el nombre Gong designa un linaje activo y no un archivo, es la más rotunda que se ha hecho.

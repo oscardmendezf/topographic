@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 3
 critica_fuente: "editorial"
 critica_nota: "Recepción mixta; se le reprocha la mitad pop impuesta."
+historia: "editorial"
 ---
 
 Mitad pop forzado por el sello, mitad instrumental propio: el compromiso partido literalmente en dos caras.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Con un sello que seguía esperando canciones y un autor que ya sabía que su terreno era otro, el conflicto se resolvió del modo más literal posible: una cara para cada uno. La primera reúne temas breves, cantados y con estructura de estribillo, pensados para que alguien pudiera ponerlos en la radio; la segunda deja las voces de lado y vuelve al instrumental de cámara con teclados y guitarras. No es un disco doble ni un experimento formal, es un contrato hecho música, y se escucha como tal: dos discos cortos pegados por el lomo.
+
+En la cara de canciones, «Um & Aargh» y «I Want Your Love» son sus intentos más directos de pop de finales de los setenta, con guitarra eléctrica al frente y una producción que busca brillo; «Holy Deadlock» y «Lucy Will» tienen mejor letra que envase, con ese humor seco y algo amargo que asoma cada vez que escribe sobre parejas y convenciones. «Side Door» cierra el lado con el gesto de quien sale por donde no lo ven. La segunda mitad es otro disco: «Sisters of Remindum» juega con el título y con motivos que vuelven, «Bleak House» toma prestado el nombre de Dickens para un clima gris y sostenido, «Magdalen» estira casi ocho minutos de escritura eclesiástica en teclados y guitarras, y «Nightmare» cierra con la pieza más agitada del conjunto, lo más cerca del desasosiego que llega su música de esta época. Después de este disco se quedó sin sello grande, y la consecuencia inmediata fue la libertad: la serie íntima que había fundado el año anterior pasó a ser su ocupación principal.
+
+## La producción
+
+Las dos caras suenan como si las hubieran hecho equipos distintos, y esa es la decisión de producción central del disco. El lado de canciones está tratado con criterio de época —batería seca al frente, guitarras eléctricas dobladas, coros anchos, voz empujada a un registro que no le sienta— y el lado instrumental vuelve al método de siempre, capas de guitarra de doce cuerdas y clásica, teclados sostenidos y armonio, con reverberaciones largas y ningún ataque brusco. Phillips vuelve a cantar sin convicción, y aquí la incomodidad ya no aporta fragilidad expresiva sino un desajuste entre la voz y el envase que el material no merece. En el lado instrumental, en cambio, cada arreglo está donde tiene que estar, lo que confirma cuál de los dos oficios era el suyo.
+
+## Recepción y legado
+
+No funcionó en ninguno de los dos frentes: demasiado extraño para quien buscaba canciones, demasiado corto y disperso para quien venía por lo instrumental. Fue el final de su etapa con estructura de industria detrás y el comienzo del catálogo independiente, financiado a pulso, que ocuparía el resto de su carrera. Hoy se cita más como documento que como disco, y con razón: la mitad cantada envejeció con la producción de su tiempo, mientras «Magdalen» y «Bleak House» siguen sonando como Phillips. Su interés real está en verlo negociar con una industria que nunca supo qué hacer con él, y en la evidencia de que la negociación era imposible.

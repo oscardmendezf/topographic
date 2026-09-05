@@ -16,6 +16,23 @@ critica_nota: "Correcto dentro de su etapa digital; sin gran consenso."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: null
+historia: "editorial"
 ---
 
 Plena era digital: texturas de sampler y secuencias pulidas, con un pie en la pista de baile en su pieza más recordada. Oficio sin revelaciones.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del año de colaboraciones múltiples, Schulze vuelve a firmar solo y lo hace con un disco que declara su tema desde el título: la interfaz, el punto de contacto entre músico y máquina. Es el momento en que los muestreadores dejan de ser una curiosidad de estudio y se vuelven el centro del método, y el álbum se ocupa de eso con más aplicación que inspiración. Todo lo que el equipamiento de mediados de los ochenta permitía hacer está aquí: sonidos tomados del mundo y afinados en un teclado, secuencias pulidas hasta la exactitud, ritmos programados que ya no imitan a una batería sino que asumen su condición artificial.
+
+El reparto de piezas es revelador. «On the Edge» y «Colours in the Darkness» funcionan como estudios de textura, con buenos hallazgos de timbre y desarrollos que se resuelven antes de despegar. «The Beat Planante» es la que se recuerda, y no por casualidad: el adjetivo procede del vocabulario que la prensa francesa había acuñado para esta música, y la pieza lo cruza con un pulso claramente bailable, más cercano a lo que ocurría en las pistas europeas que a la escuela berlinesa. La suite final que da nombre al álbum recupera la escala de veinte minutos y demuestra que el oficio sigue intacto, aunque el material no exija esa duración. Entre Aphrica y Dreams, este es el disco en el que Schulze recompone el rumbo sin encontrar todavía nada nuevo que decir.
+
+## La producción
+
+Grabado y producido por él mismo en su estudio, sin invitados, con una paleta dominada por muestreadores y sintetizadores digitales. Las decisiones de sonido son las de la época y él las adopta sin resistencia: percusión electrónica de ataque duro, coros y voces sampleadas usadas como colchón, brillo agudo generoso y una definición de graves que sus discos analógicos no tenían. La secuenciación ya se controla por sistema informático, con lo que las repeticiones son perfectas y las capas encajan sin deriva, y eso cambia el carácter de la música más de lo que él parecía advertir: la hipnosis que antes venía de la inestabilidad ahora hay que fabricarla con variación deliberada. La mezcla es amplia y algo lustrosa, pensada para el disco compacto que empezaba a imponerse.
+
+## Recepción y legado
+
+Se lo escuchó poco y se lo discutió menos, en una época en que su nombre había dejado de estar en el centro de cualquier conversación. Revisado hoy, es un disco de oficio: bien hecho, coherente, sin un solo momento que justifique volver. Su interés está en «The Beat Planante», que se cita con razón como uno de los puentes tempranos entre la electrónica alemana de los setenta y la música de baile que vendría, un parentesco que muchos productores posteriores reconocerían. Del resto queda la constatación de que el problema de su etapa digital no fue nunca la técnica, sino la falta de una idea que estuviera a la altura de los medios.

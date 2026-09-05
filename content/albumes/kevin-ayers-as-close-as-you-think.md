@@ -16,6 +16,23 @@ critica_nota: "Sin consenso; catálogo profundo apenas comentado."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Invisible fuera del círculo fiel."
+historia: "editorial"
 ---
 
 Otro título de los años perdidos: producción ochentosa y canciones que apenas registran el viejo encanto.
+
+<!-- historia:editorial -->
+
+## La historia
+
+A mediados de los ochenta Ayers llevaba casi una década trabajando por fuera del sistema que lo había lanzado, y sus discos habían pasado a ser hechos aislados, sin continuidad ni relato. As Close As You Think pertenece de lleno a esos años perdidos: un álbum grabado con medios ajustados para un sello independiente, con canciones que en parte ya habían circulado y una producción que abraza sin pudor los recursos sonoros de la época.
+
+El repertorio insiste en el fondo común de su etapa mediterránea. «Steppin' Out» y «The Howlin' Man» son revisiones de temas que ya había publicado en Diamond Jack and the Queen of Pain, y «Only Heaven Knows» tendría todavía otra vida: dos décadas más tarde abriría el disco de su regreso, señal de que Ayers reconocía en ella algo que las versiones de estos años no habían sabido sacar. El resto se mueve entre el lamento resignado y la broma cansada. «Fool After Midnight» y «Wish I Could Fall» buscan la balada nocturna, «Too Old to Die Young» juega con la mitología del músico superviviente sin llegar a decir nada sobre ella, y «Never My Baby» apenas es un boceto. El cierre en dos partes, «Budget Tours», es lo más revelador del conjunto: el título alude al turismo de tarifa reducida que había transformado la costa donde vivía, y también, sin quererlo, a la escala del proyecto.
+
+## La producción
+
+Aquí está el problema principal. El disco lleva la producción ochentosa hasta sus últimas consecuencias: cajas de ritmos secas, sintetizadores de ataque brillante, coros procesados y reverberaciones amplias que envuelven una voz que necesitaba justamente lo opuesto. Las canciones de Ayers habían funcionado siempre por proximidad, con el aire de alguien que canta a medio metro del micrófono; el tratamiento que reciben aquí las coloca a distancia y les quita la intimidad que era su único capital. Ollie Halsall sigue siendo el músico de confianza y su guitarra asoma para salvar pasajes concretos, pero la mezcla la trata como un color más. No hay créditos verificados de estudio, ingeniería ni diseño, y no hace falta buscarlos: la marca de época es tan fuerte que se impone a cualquier otra decisión.
+
+## Recepción y legado
+
+Pasó prácticamente inadvertido y no cambió nada. Ni la prensa británica, que había perdido el rastro de Ayers, ni el público nuevo tenían motivo para acercarse, y quienes lo hicieron encontraron el viejo encanto reducido a intermitencias. Con el tiempo se lo lee como el fondo de una travesía larga, el punto desde el cual cualquier movimiento era una mejora: el disco siguiente, con un sello grande detrás, ya se recibiría como recuperación parcial. Lo que se rescata de aquí es casi nada, y aun así hay una lección en su interior. La reaparición de «Only Heaven Knows» muchos años después, desnuda y bien acompañada, demuestra que el material no siempre era el culpable.

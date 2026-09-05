@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 3
 critica_fuente: "editorial"
 critica_nota: "Debut prometedor pero visto como previo al sonido definitivo"
+historia: "editorial"
 ---
 
 Debut holandés: Akkerman y van Leer se encuentran; el sonido todavía no.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Focus nace en Ámsterdam de un encuentro poco romántico: el trío de Thijs van Leer, Martin Dresden y Hans Cleuver trabajaba como banda de foso en la producción neerlandesa de Hair, y de ese oficio alimenticio salió la disciplina que después les permitiría grabar rápido y tocar cualquier cosa. Van Leer venía del conservatorio, con la flauta como instrumento principal y el órgano como herramienta de rock, y aportaba un repertorio de gestos aprendidos en la música escrita. Al grupo le faltaba una guitarra a la altura y la encontró en Jan Akkerman, que llegaba de Brainbox con una técnica intimidante y una debilidad por la música antigua que acabaría siendo determinante. El disco es el documento de ese encuentro: dos temperamentos fuertes que todavía no han decidido qué banda quieren tener.
+
+La estructura ya anuncia el método de la casa. «Focus (instrumental)», casi diez minutos, y «Focus (vocal)», poco más de dos, abren y cierran el álbum con el mismo tema en dos versiones: la idea de un motivo propio, numerado y revisitado disco tras disco, empieza literalmente aquí. En medio conviven dos grupos distintos. Uno canta en inglés con la sintaxis del rock psicodélico de la época en «Why Dream?», «Happy Nightmare (Mescaline)» y «Sugar Island», y suena a su tiempo más que a sí mismo. El otro toca: «Anonymus» estira siete minutos de diálogo entre órgano, flauta y guitarra, tantea la forma larga y planta la semilla de la desmesura que reaparecerá años después convertida en cara entera de vinilo. «Black Beauty», breve y melódica, sería lo bastante buena para que la propia banda volviera a grabarla en su segunda vida.
+
+## La producción
+
+La grabación registra un cuarteto sin refuerzos: Akkerman en guitarras eléctrica y acústica, van Leer en órgano, flauta y voz, Dresden al bajo y Cleuver a la batería. No hay orquesta, ni coros, ni sobregrabación llamativa; el sonido es el de un grupo tocando en una sala, con la mezcla apoyada en el órgano y la voz al frente. Ahí está el problema y la honestidad del disco: la guitarra de Akkerman aparece menos de lo que debería y el timbre general es todavía el del rock británico de segunda mano, sin la nitidez ni el peso que el grupo conseguiría al cambiar de estudio y de sección rítmica. Las canciones cantadas empujan al conjunto hacia el pop de la época, y la producción no hace nada por corregir ese desequilibrio.
+
+## Recepción y legado
+
+Fuera de los Países Bajos apenas existió, y dentro funcionó como carta de presentación de dos músicos que evidentemente daban para más. La corrección llegó pronto y fue drástica: Dresden y Cleuver quedaron fuera, entró una sección rítmica capaz de sostener la ambición instrumental del grupo, y el salto de calidad en el disco siguiente fue tan grande que este quedó relegado a la categoría de prólogo. Hoy se escucha así, como prólogo, y no hay razón para pretender lo contrario. Su interés está en el material que el grupo reconocería después como propio —el tema «Focus», «Anonymus», «Black Beauty»— y en la posibilidad de oír, en bruto, el momento exacto en que la flauta de conservatorio y la guitarra virtuosa se sientan a negociar.

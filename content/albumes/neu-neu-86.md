@@ -16,6 +16,25 @@ critica_nota: "Recepción tibia: documento más que obra."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Interés limitado al culto de la banda."
+historia: "editorial"
 ---
 
 Versión oficial, revisada por Rother, de las sesiones de mediados de los ochenta que Dinger había publicado por su cuenta. Material desparejo de una sociedad ya rota: interesante como coda, no como tercer acto.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después de la etapa clásica, Rother y Dinger pasaron una década larga sin trabajar juntos: el primero desarrollaba una carrera en solitario de electrónica luminosa, el segundo llevaba adelante sus propios grupos y su propia idea, mucho más ruidosa, de lo que debía ser el rock alemán. A mediados de los ochenta hubo un intento de reencuentro, con sesiones grabadas por el dúo en un contexto muy distinto del de los setenta: sintetizadores digitales, cajas de ritmos y el vocabulario sonoro de la década en la que estaban. Aquellas cintas no llegaron a publicarse entonces, y la sociedad se rompió otra vez, ahora con litigios por medio.
+
+Años después, Dinger publicó por su cuenta y en un sello japonés una versión de aquel material, montada a su gusto y sin acuerdo con su socio, lo que agravó el conflicto. Solo tras su muerte pudo Rother volver sobre las cintas originales, revisarlas y editarlas como parte de la recuperación ordenada del catálogo. Este disco es el resultado de esa operación: la versión autorizada de unas sesiones que llevaban décadas circulando de forma discutible. Su contenido es desparejo por naturaleza, entre piezas rítmicas de vocación casi bailable como «Dänzing» o «Drive», arrebatos crispados como «La Bomba» y miniaturas de menos de dos minutos que funcionan como apuntes o interludios.
+
+## La producción
+
+La distancia con la trilogía clásica es sobre todo tecnológica. Donde antes había dos guitarras, una batería y Conny Plank manipulando cinta, aquí hay programación, percusión electrónica y teclados de la época, con el brillo y el ataque duro que caracterizan a los aparatos de mediados de los ochenta. El pulso invariable sigue estando, pero lo produce una máquina en lugar de un batería negándose a acentuar, y esa sustitución cambia el sentido: lo que era una decisión estética contra el rock se convierte en el procedimiento por defecto de la década.
+
+El montaje final corre a cargo de Rother, que trabajó sobre grabaciones cuya edición nunca se había cerrado de común acuerdo. Eso explica tanto la coherencia del acabado como la sensación de que las piezas provienen de sesiones exploratorias más que de un álbum concebido como tal.
+
+## Recepción y legado
+
+Se recibió como lo que es, un documento de archivo publicado con treinta años de retraso, y se juzgó con la indulgencia y el desinterés que suelen acompañar a esas operaciones. No hay aquí nada comparable a «Hallogallo» ni a «Hero», y quien busque el motorik original encontrará una imitación con instrumentos que le sientan mal. Su valor es contextual: cierra el expediente Neu! de forma ordenada, sustituye una edición irregular por otra legítima y muestra qué pasa cuando dos músicos que se habían distanciado en todo intentan reencontrarse en un lenguaje que ya no es el suyo. Como coda tiene sentido; como tercer acto, ninguno.

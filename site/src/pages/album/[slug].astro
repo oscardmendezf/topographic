@@ -72,7 +72,18 @@ const estadoClase = d.charts_estado === 'verificado' ? 'ok' : d.charts_estado ==
 
   <section class="block"><div class="wrap analisis">
     <Content />
+    {d.historia && (
+      <p class="sub nota-historia">Historia editorial redactada por el Atlas, sin fuentes citadas: los datos duros
+        verificables son los de la tabla y los créditos de MusicBrainz.
+        <span class="badge warn">historia editorial</span></p>
+    )}
   </div></section>
+
+  <style>
+    .analisis h2{font-size:19px;margin:30px 0 4px}
+    .analisis > p:first-child{font-size:18px;font-style:italic}
+    .nota-historia{margin-top:26px;font-size:12.5px}
+  </style>
 
   {lista && (
     <section class="block"><div class="wrap">

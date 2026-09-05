@@ -16,6 +16,23 @@ critica_nota: "Saludado como su mejor disco en décadas."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Buena prensa, sin traducción comercial."
+historia: "editorial"
 ---
 
 El disco que la prensa prog saludó como su mejor obra en décadas: oscuro, eléctrico, con Cousins escribiendo otra vez sobre la muerte y el río. Pico tardío improbable dentro de un catálogo que parecía cerrado.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después de años de discos autoeditados que apenas salían del circuito de seguidores, pocos esperaban de los Strawbs otra cosa que la continuidad digna. La banda había pasado por regrabaciones, recopilaciones extendidas y ediciones acústicas, y su energía parecía repartida entre el archivo y la gira. El disco llegó a contrapelo de esa inercia: una obra nueva, eléctrica y oscura, en la que Dave Cousins vuelve a los temas que mejor le sientan —la muerte, el agua, la culpa, el juicio— con una crudeza que no se le oía desde la etapa de Ghosts.
+
+El material no forma un relato cerrado, pero comparte atmósfera y símbolos. «In the Beginning» abre a modo de invocación instrumental y desemboca en «The Nails from the Hands of Christ», donde la iconografía religiosa se usa sin devoción y sin ironía, como material de pesadilla. «The Song of Infinite Sadness» y «The Familiarity of Old Lovers» bajan al terreno íntimo del desgaste y la memoria; «The Ten Commandments» y «The Reckoning» retoman el pulso del juicio y la cuenta pendiente. El eje es la pieza que da título al disco, casi nueve minutos sobre el barquero que cobra el paso al otro lado: Cousins, ya octogenario, escribiendo sobre el tránsito con una literalidad que no se permite consuelo. El cierre alterna la fragilidad de «Bats & Swallows» con la afirmación de «We Have the Power», una salida menos sombría de la que el conjunto hacía esperar.
+
+## La producción
+
+La grabación quedó en manos de Chris Tsangarides, productor curtido en el rock duro británico, elección insólita para un grupo venido del folk y decisiva en el resultado. Su trabajo empuja las guitarras al frente, comprime la batería y da al conjunto un peso y una oscuridad que los discos recientes del grupo no tenían. La formación es la eléctrica de la época: Cousins a la voz, Dave Lambert a la guitarra, Chas Cronk al bajo, Dave Bainbridge en teclados —cuyo trabajo aporta las capas sinfónicas y los pasajes de guitarra añadida— y Tony Fernandez a la batería. Los teclados se usan como masa y no como adorno, y las secciones instrumentales de la pieza título se construyen por acumulación, dejando que el crescendo cargue la letra. Fue uno de los últimos trabajos de Tsangarides, que murió poco después.
+
+## Recepción y legado
+
+La prensa especializada lo recibió como el mejor disco del grupo en décadas, y el juicio se ha sostenido. Su virtud no es la novedad sino la convicción: en un catálogo que parecía cerrado y administrado por la nostalgia, aparece un álbum que suena urgente y que no pide clemencia por la edad de su autor. Situado en la discografía, funciona como reverso tardío de Grave New World y Hero and Heroine, con la misma mezcla de misticismo y electricidad pero sin el brillo de época. Marcó también el listón que sus continuaciones, más apacibles, no volverían a alcanzar.

@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Divisivo en su momento, hoy pieza central de su reputación."
+historia: "editorial"
 ---
 
 Mussorgsky electrificado en vivo: la tesis entera de la banda en 40 minutos. O te parece una profanación o una fiesta; no hay término medio y eso era el punto.
+
+<!-- historia:editorial -->
+
+## La historia
+
+La adaptación de la suite de Mussorgsky no fue un proyecto de estudio sino una pieza de repertorio en vivo desde los primeros meses del grupo. Emerson conocía la obra en su versión pianística original y vio en ella el vehículo perfecto para la tesis de la banda: una serie de cuadros breves, contrastantes, unidos por un paseo recurrente que se podía tratar como estribillo. La versión de ELP mantiene el esqueleto —«Promenade» aparece tres veces como bisagra, «The Gnome» y «The Hut of Baba Yaga» conservan sus temas, «The Great Gates of Kiev» cierra en apoteosis con letra propia de Lake— y le injerta material nuevo: «The Sage» es una canción de guitarra acústica escrita por Lake, «Blues Variation» un desvío hacia el blues de órgano y «The Curse of Baba Yaga» una invención del trío sobre el motivo original.
+
+El añadido más revelador es el final. Después del último cuadro, el grupo remata con «Nutrocker», la adaptación en clave de rocanrol de una marcha de Tchaikovsky que ya circulaba en versión ajena, y con ese chiste desactiva cualquier pretensión de solemnidad. Ahí está la clave del disco: no es un homenaje reverente sino una apropiación festiva, y de ahí la doble reacción que provocó. Se publicó cuando el grupo llevaba menos de dos años existiendo, entre Tarkus y Trilogy, y funciona como el retrato de esa etapa en la que se sentían capaces de cualquier cosa.
+
+## La producción
+
+Es un registro en directo, grabado en una sala de conciertos del norte de Inglaterra, con Lake en la producción y Eddy Offord en la ingeniería, el mismo equipo de los discos de estudio. La captura es notable para su época: el órgano Hammond y el órgano de tubos de la sala tienen cuerpo, el Moog corta por encima sin desafinar y la batería y percusión de Palmer conservan la dinámica de una interpretación real, con público audible pero nunca invasivo. No hay reconstrucción de estudio evidente, y eso deja a la vista tanto la precisión del trío como sus excesos: los pasajes de improvisación se estiran y el volumen es constantemente alto. La carpeta original, con el diseño e ilustración de William Neal, presenta la idea de una galería con cuadros enmarcados que remite al título, y se convirtió en una de las imágenes más reconocibles del grupo; el disco salió a precio reducido, decisión comercial que reconocía su carácter atípico.
+
+## Recepción y legado
+
+Dividió aguas de inmediato y sigue dividiéndolas. Para una parte del público fue la demostración de que el rock podía medirse con el repertorio de concierto sin complejos; para otra, una profanación ruidosa de una obra que no lo necesitaba. Ambas lecturas son razonables y el grupo las buscaba: la provocación era parte del plan. Su influencia fue enorme en la generación de teclistas que vino después y en la idea, luego muy repetida, de que un trío podía sonar como una orquesta. Lo que se rescata es la energía y la inteligencia del montaje; lo que no, la falta de matiz dinámico y la sensación de que todo está tocado un poco demasiado fuerte. Volvieron a intentarlo en estudio muchos años más tarde, y la comparación no les hizo ningún favor.

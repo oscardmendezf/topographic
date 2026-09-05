@@ -16,6 +16,23 @@ critica_nota: "Poca crítica; considerado funcional y menor."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Sin impacto fuera del circuito de seguidores."
+historia: "editorial"
 ---
 
 Música instrumental escrita alrededor de una regata oceánica y usada en su cobertura televisiva. Orquestaciones sintetizadas, motivos épicos de encargo. Funciona mejor como banda sonora que como disco.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Otro encargo, esta vez con un motivo concreto y una ventaja: el tema tenía forma de relato. La música se escribió para la cobertura televisiva de una regata oceánica alrededor del mundo, con lo que el itinerario de la carrera funciona como guion y el disco puede ordenarse como un viaje en lugar de como un catálogo de estados de ánimo. Para un compositor que llevaba veinte años haciendo paisajismo instrumental, la asignación era casi cómoda: mar, viento, distancia y soledad son su vocabulario natural desde el primer disco.
+
+La secuencia sigue la travesía con bastante literalidad. «Opening Theme» presenta el motivo épico que volverá varias veces, «Fast Work» y «Big Combers» ilustran la faena y el oleaje, «Dark Seas» y «Roaring Forties» bajan al Atlántico sur, «In the Southern Ocean» e «Icebergs» ponen el frío, y «The Fremantle Doctor» nombra el viento de tarde que sopla sobre la costa australiana, un guiño que solo entiende quien conoce la ruta. La fauna tiene su bloque propio con «Lonely Whales», «Majestic Whales», «Wildlife Choir», «Wildlife Flotilla» y «Amongst Mythical Birds», donde asoma la vena descriptiva más pastoral del autor. «Cape Horn», «Into the Tropics» e «In the Doldrums» completan la geografía, los dos cortes de «Salsa» aportan el color de escala portuaria, «I Wish This Would Never End» es la pieza melódica más extensa y «Heading for Home & Victory» cierra con el retorno triunfal que el encargo exigía. La inclusión de una mezcla de maqueta del tema principal delata además que el disco se armó con lo que había en el estudio.
+
+## La producción
+
+No constan créditos de estudio ni de personal técnico. Lo que se oye son orquestaciones sintetizadas, no orquesta real: cuerdas y vientos de muestreo, coros de teclado, percusión programada y guitarra acústica en los pasajes de calma, con la escala grande resuelta por acumulación de capas. Es el método de la música funcional aplicado con más cuidado del habitual, porque el material temático es mejor que el promedio del género y los motivos vuelven transformados a lo largo del disco. Los cortes tienen la duración de un tramo de locución y el final utilizable de siempre, y las mezclas dejan aire en el centro por el mismo motivo. La distancia con Slow Dance, publicado pocos años antes, es la distancia entre una obra escrita para sí misma y una escrita para acompañar imágenes: los materiales se parecen, la ambición no.
+
+## Recepción y legado
+
+Se recibió como lo que es, un disco de banda sonora sin película, y en la discografía ocupa el lugar de los trabajos de encargo que se publican porque están terminados. Funciona mejor en su función original que como escucha continua: media hora seguida de motivos épicos marinos acaba resultando reiterativa, y el sonido sintético envejeció como todo el de su década. Se le rescatan los temas de fauna y la melodía larga del centro del disco, que en otro contexto habría dado una pieza de la serie íntima. Es el Phillips artesano cumpliendo un pliego de condiciones, con oficio y sin nada personal en juego.

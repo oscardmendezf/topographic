@@ -16,6 +16,25 @@ critica_nota: "Divide entre quienes celebran la ambición y quienes extrañan la
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Proyecto de nicho sinfónico."
+historia: "editorial"
 ---
 
 Obra sinfónica con orquesta inspirada en el cielo del valle de Elqui: la ambición cósmica del grupo en gran formato, más solemne que filosa.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Desde Alturas de Macchu Picchu, Los Jaivas cargaban con una pregunta incómoda: si podían repetir aquella escala sin repetir aquella obra. Mamalluca es su respuesta más ambiciosa, y llega casi veinte años después. El punto de partida no es un poema sino un lugar y un cielo: el valle de Elqui, en el norte chico chileno, y el observatorio de Mamalluca que da nombre al conjunto. Es tierra de uva y de pisco, de una luz que la astronomía convirtió en recurso y de una tradición de misticismo popular que la banda había rondado desde siempre. El grupo lo aborda como obra unitaria, escrita para banda y orquesta y pensada como pieza de concierto antes que como colección de canciones.
+
+El recorrido es a la vez geográfico y ascendente. «Alumno» abre casi como una invocación breve; «Uva madura» y «El tambo» se instalan en lo terrenal, la vendimia y la posada de camino, con el pulso de raíz que es la firma de la casa; «Chaski» toma el nombre del mensajero andino y funciona como enlace; «Camino estrellado» y «Cerro de la Virgen» empiezan a levantar la mirada, mezclando devoción popular y cielo nocturno; «Gabriela» rinde homenaje a la poeta nacida en ese mismo valle, que es la otra presencia tutelar del disco junto al firmamento; «Interludio» y «Elqui» preparan el terreno para la pieza titular, quince minutos que reúnen todos los materiales anteriores y cierran la obra en su registro más amplio. El tema de fondo es el de siempre en su música, el territorio como memoria, ahora extendido hacia arriba: el paisaje incluye las estrellas.
+
+## La producción
+
+No hay créditos verificados de producción, dirección orquestal, estudio ni arte gráfico para este título, y no vale la pena arriesgar nombres. Lo que define la grabación es la convivencia entre dos cuerpos sonoros: la banda con su instrumental habitual —piano de Claudio Parra, bajo, batería, guitarra y voz de Eduardo Alquinta, más quenas, zampoñas, charango y percusión de mano— y una orquesta que no cumple función decorativa sino estructural, encargada de sostener las transiciones y de dar cuerpo a los pasajes largos.
+
+El equilibrio se resuelve por el lado de la solemnidad. Los arreglos privilegian los crescendos amplios, las cuerdas sostenidas y los tutti, y dejan menos espacio del habitual a la improvisación y al desorden fértil que caracterizaba al grupo en su etapa fundacional. La grabación es nítida y espaciosa, con la orquesta bien separada de la banda en la mezcla.
+
+## Recepción y legado
+
+Se recibió con respeto, sobre todo en Chile, donde la obra funcionó también como acontecimiento cultural ligado a una región concreta. La crítica posterior ha sido más matizada: se le reconoce la ambición, la coherencia del concepto y la belleza de varios pasajes, y se le objeta que la escala orquestal ablanda los filos que hacían reconocible a la banda. Frente a Alturas de Macchu Picchu, donde la orquestación estaba al servicio de una tensión, aquí el gran formato tiende a la contemplación. Queda como la obra mayor de su etapa tardía y como prueba de que el proyecto sinfónico-popular seguía dando de sí, aunque con menos riesgo del que había tenido en su primera formulación.

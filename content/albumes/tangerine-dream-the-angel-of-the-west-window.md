@@ -16,6 +16,23 @@ critica_nota: "Sin consenso diferenciado dentro de la serie."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Edición propia de alcance acotado."
+historia: "editorial"
 ---
 
 Segunda entrega de la serie Sonic Poem, sobre la novela de Gustav Meyrink: electrónica de cámara con vocación literaria, en la línea atmosférica de la serie.
+
+<!-- historia:editorial -->
+
+## La historia
+
+La serie Sonic Poem fue el proyecto más coherente de la última etapa de Edgar Froese: tomar una obra literaria y traducirla a electrónica de largo aliento, capítulo a capítulo, sin recitados ni voces, dejando que los títulos hicieran de guía de lectura. The Angel of the West Window es la entrega dedicada a la novela de Gustav Meyrink, el mismo autor de El Golem, y elige un material que le venía como anillo al dedo: una historia de herencias, manuscritos y ocultismo en la que un hombre del presente reconstruye la vida de John Dee, el matemático y astrólogo isabelino que creía comunicarse con los ángeles a través de un espejo.
+
+El disco sigue esa trama por estaciones. «The Mysterious Gift to Mankind» abre con la extensión más larga del álbum y funciona como obertura, con secuencias que se van superponiendo hasta formar un tejido denso. «The Silver Boots of Bartlett Green» y «The Strange Idol of Baphomet» recogen a los personajes más siniestros de la novela y adoptan un tono más oscuro, con bajos graves y armonías inestables; «Hoël Dhat the Alchemist» insiste en el motivo de la transmutación con arpegios circulares que no terminan de resolver. «Living in Eternity», la pieza más breve, y «Dream Phantom of the Common Man» ofrecen los respiros melódicos, y «The Invisible Seal of the Holy Tribe» cierra abriendo en vez de concluir, coherente con un libro que tampoco cierra del todo. Frente a los cupdiscs sueltos que el grupo publicaba en paralelo, aquí hay una arquitectura pensada.
+
+## La producción
+
+El álbum es obra del taller de Eastgate, con Froese dirigiendo la construcción y el equipo estable de la etapa aportando color. La instrumentación es la de esos años: bancos de sintetizadores digitales y virtuales, secuenciadores muy precisos, capas de cuerda sintética y percusión electrónica de perfil bajo, con guitarra tratada para que se integre en la textura en lugar de destacar. La mezcla es amplia y nítida, sin el grano de las grabaciones antiguas, y prioriza la continuidad: las piezas se encadenan con transiciones suaves para que el conjunto se escuche como una sola sesión. El diseño gráfico mantiene la identidad de la serie, con ilustración de aire simbolista y tipografía sobria.
+
+## Recepción y legado
+
+Dentro de la etapa moderna, la serie literaria es lo que mejor ha envejecido, y esta entrega está entre las más logradas: el tema le da al grupo una excusa para trabajar la penumbra y la lentitud, dos cosas que hacía bien. No revoluciona nada ni pretende hacerlo, y quien busque la tensión de la era de los secuenciadores analógicos encontrará aquí un sonido más pulido y menos peligroso. Pero como electrónica de cámara con vocación narrativa funciona, y es un buen punto de entrada a los últimos años de Froese para quien quiera comprobar que allí también había música y no solo catálogo.

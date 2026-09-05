@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Muy valorado; su disco más melódico y equilibrado."
+historia: "editorial"
 ---
 
 Su disco más musical y menos agresivo: «From the Beginning», Copland adaptado. El ELP que casi convence a los que no los soportan.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Trilogy llega en el punto de mayor estabilidad del trío: dos discos de estudio y uno en vivo detrás, giras continuas y un método de trabajo ya asentado. La diferencia con Tarkus es de temperatura. Aquí no hay una suite que ocupe una cara ni una criatura mitológica de por medio, sino un conjunto de piezas donde el grupo se permite tocar más suave y escribir más melodía. Es el disco de ELP que menos necesita imponerse y, por eso mismo, el que más gente ajena al grupo ha llegado a apreciar.
+
+La apertura conserva el gesto ambicioso: «The Endless Enigma» se parte en dos mitades separadas por «The Fugue», un ejercicio contrapuntístico de piano que Emerson escribió como tal, y su letra plantea la búsqueda de sentido en términos casi religiosos. Lo que sigue es más terrenal. «From the Beginning» es la mejor canción que Lake escribió para el grupo: guitarra acústica, voz contenida, una despedida amorosa sin dramatismo y una coda de Moog que hace todo el trabajo emotivo. «The Sheriff» es una viñeta cómica del oeste, «Living Sin» un blues pesado cantado con voz forzada hacia el gruñido, y «Hoedown» adapta un fragmento de Copland con una velocidad que se volvería número fijo del repertorio en vivo. La pieza titular alterna balada de piano y desarrollo instrumental, y «Abaddon’s Bolero» cierra con un crescendo construido por acumulación de capas de teclado sobre un ostinato, la idea más orquestal del disco sin una sola orquesta.
+
+## La producción
+
+Lake vuelve a producir y Eddy Offord a la ingeniería, en la última colaboración de ese equipo. El método cambió: el disco se construyó con mucho más sobregrabado que los anteriores, superponiendo teclados hasta lograr densidades imposibles para tres personas. Emerson reparte el trabajo entre Hammond, piano y sintetizadores, incluido el Minimoog, que aquí aparece como instrumento melódico ágil en lugar de artillería; Lake se ocupa de bajos, guitarras acústicas y eléctricas, y Palmer añade percusión de orquesta a la batería. La consecuencia práctica de tanta capa fue que gran parte del material resultó difícil de reproducir en el escenario, y el propio grupo reconoció después que se había excedido: «Abaddon’s Bolero» y «The Endless Enigma» desaparecieron pronto del repertorio. La fotografía de portada e interior corresponde al estudio de diseño que trabajaba entonces con buena parte de la escena progresiva británica, con los tres músicos multiplicados en un paisaje.
+
+## Recepción y legado
+
+Fue bien recibido y hoy sigue siendo el título que más consenso genera dentro y fuera del culto al grupo: el ELP que casi convence a quienes no los soportan. Se rescata la calidad de las canciones, la contención de los arreglos y el hecho de que la técnica esté al servicio de la música y no al revés. Se le puede reprochar el desnivel de las piezas humorísticas y el exceso de sobregrabado que le quita aire. En la discografía funciona como el último momento de equilibrio: lo siguiente, Brain Salad Surgery, sería el pico de ambición, y después de él solo quedaba la caricatura.

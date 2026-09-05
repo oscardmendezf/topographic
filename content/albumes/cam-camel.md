@@ -15,6 +15,25 @@ comercial_fuente: "charts"
 estrellas_critica: 3
 critica_fuente: "editorial"
 critica_nota: "Debut prometedor; valorado retrospectivamente como boceto de lo que vendría"
+historia: "editorial"
 ---
 
 Debut competente sin identidad plena: los materiales están, el punto de vista todavía no.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Camel se forma en Guildford en 1971, cuando los tres miembros de The Brew —el guitarrista y flautista Andrew Latimer, el batería Andy Ward y el bajista Doug Ferguson— se juntan con un músico de más recorrido que ellos: Peter Bardens, teclista que ya había pasado por varios grupos de la escena de los sesenta y había publicado a su nombre. La combinación define lo que la banda sería durante toda su etapa clásica: dos instrumentistas melódicos, guitarra y teclado, dialogando en igualdad, sin cantante de gran registro y sin ninguna voluntad de teatro.
+
+El debut recoge el repertorio ya rodado en salas y llega antes de que el grupo tenga un punto de vista propio. «Slow Yourself Down» y «Curiosity» son rock de estructura convencional con solos largos; «Mystic Queen» y «Separation» buscan la balada de atmósfera; «Six Ate» y «Arubaluba» son piezas instrumentales de vocación jazzística donde el órgano de Bardens lleva la voz cantante. La excepción es «Never Let Go», el tema que la banda tocaría el resto de su vida: una progresión ascendente, una melodía de guitarra que se recuerda a la primera y un desarrollo que crece sin necesidad de suite ni de concepto. Todo lo que Camel haría en Mirage está contenido ahí, en un disco que por lo demás todavía suena a grupo probando materiales.
+
+## La producción
+
+Grabó el cuarteto fundador y el disco suena a lo que era: cuatro músicos tocando juntos, con pocos añadidos y sin arreglos superpuestos. Bardens usa sobre todo órgano y piano eléctrico, con un tratamiento sucio y percusivo que en «Arubaluba» se acerca al jazz-rock; Latimer alterna guitarra eléctrica y flauta, un instrumento que en su caso no es un color exótico sino una segunda voz melódica; Ferguson y Ward sostienen sin adornos. Todavía no aparecen los teclados de cuerda ni las capas de sintetizador que después definirían al grupo, y las voces, repartidas y sin brillo, confirman que el canto nunca fue la prioridad.
+
+El arte del disco ya fija el emblema. El diseño se repartió entre Modula, Phil Smee y el taller Waldo's Design & Dream Emporium, con fotografía de Barry Plummer, y la imagen del animal en la portada instaló una marca visual que el grupo explotaría —con consecuencias legales— en el disco siguiente.
+
+## Recepción y legado
+
+No tuvo repercusión y el sello no insistió; la banda cambió de compañía y su verdadera carrera empezó al año siguiente. La lectura vigente es la razonable: un debut competente que solo se entiende hacia atrás, desde lo que vino después. Sus materiales están todos aquí —el diálogo guitarra-teclado, el gusto por el desarrollo instrumental largo, la ausencia de grandilocuencia—, pero el criterio para ordenarlos aún no. Lo que sí dejó fue «Never Let Go», que sobrevivió en el repertorio en vivo durante décadas y sigue siendo la mejor puerta de entrada al grupo. Para quien llega desde The Snow Goose o Moonmadness, este disco es un documento previo más que una obra.

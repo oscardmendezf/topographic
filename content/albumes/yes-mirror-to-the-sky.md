@@ -16,6 +16,23 @@ critica_nota: "Recepción amable dentro del nicho, indiferencia general"
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Circulación marginal, sostenida por el público histórico"
+historia: "editorial"
 ---
 
 Continuación rápida de The Quest con la misma formación encabezada por Howe. Algo más de nervio que su antecesor, incluido el corte largo que da título al disco. Oficio digno de una banda que ya no compite con su propio pasado.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Mirror to the Sky nace del impulso sobrante de The Quest. La misma formación —Steve Howe al frente, Geoff Downes en teclados, Jon Davison en la voz, Billy Sherwood en el bajo— volvió al trabajo con material acumulado y sin el vértigo administrativo del disco anterior, aquel que tenía que demostrar que la banda podía existir sin Chris Squire. La diferencia mayor está en la batería: Alan White había muerto poco antes y Jay Schellen, que llevaba años cubriéndole en la carretera, ocupa el puesto de forma definitiva. El disco queda ligado a esa pérdida, y hay en él una gravedad que The Quest no tenía.
+
+Tampoco es un álbum conceptual, pero las letras insisten en una idea: la continuidad entre lo humano y lo que lo excede. «Cut From the Stars» plantea el origen común como consuelo, «All Connected» estira esa misma tesis a lo largo de nueve minutos de desarrollo instrumental, y «Luminosity» trabaja la luz como metáfora de lo que perdura. «Living Out Their Dream» es la pieza más ácida, un retrato de quienes viven de una ilusión ajena. El corte que da título al disco es la apuesta estructural: casi catorce minutos en varias secciones, con un tramo central instrumental que recupera algo del nervio que la banda había ido soltando, y es lo más ambicioso que Yes había intentado en mucho tiempo. «Circles of Time» cierra la secuencia principal en tono de nana. La segunda tanda —«Unknown Place», «One Second Is Enough», «Magic Potion»— no es descarte menor: «Unknown Place» supera en cuerpo a varias de las canciones del disco principal.
+
+## La producción
+
+Howe vuelve a producir y a imponer su criterio de sonido: articulación por encima de contundencia, guitarras acústicas y eléctricas dibujadas con nitidez. Downes trabaja con capas de teclado que apuntan a la paleta clásica del grupo sin remedarla, y Schellen aporta un pulso más suelto y jazzístico que el de White, con acentos que animan los tramos largos. Las armonías vocales siguen construidas alrededor de Davison, con Sherwood sosteniendo el registro alto que en otro tiempo era competencia de Squire. Sobre varias piezas, y especialmente sobre el corte largo, se añadieron arreglos orquestales que abren el espacio en lugar de decorar. La edición se completó con mezclas envolventes y en Atmos, síntoma de un grupo que cuida el formato físico para un público fiel, y la portada la firma otra vez Roger Dean: un paisaje imposible más, la marca gráfica que acompaña a la banda desde hace medio siglo.
+
+## Recepción y legado
+
+Se recibió mejor que su antecesor, en buena medida por la pieza titular: quienes daban por perdida la ambición formal del grupo encontraron ahí un argumento. Las objeciones son las de siempre en esta etapa —falta de riesgo tímbrico, letras que aspiran a lo cósmico y se quedan en lo vago, producción demasiado pulcra— y siguen siendo justas. Su lugar en la discografía es modesto pero honesto: el mejor disco de la era posterior a Squire, hecho por músicos que ya no compiten con su propio pasado y que han aprendido a trabajar dentro de sus medios. Queda como despedida indirecta de Alan White y como prueba de que la fórmula todavía da un corte largo defendible.

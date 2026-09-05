@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Fundacional de la serie; muy valorado dentro de su nicho."
+historia: "editorial"
 ---
 
 Sobras íntimas de guitarra y piano que fundan una serie que duraría décadas. Su formato natural, encontrado por descarte.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del intento de convertirlo en cantautor, Phillips volvió al armario donde guardaba lo que llevaba años acumulando: piezas cortas para guitarra, piano y armonio grabadas en casa, sin destino claro, algunas anteriores incluso a su primer disco. Nada de eso encajaba en un álbum de canciones, y precisamente por eso funcionaba junto. La idea de reunirlo fue en origen una solución práctica —qué hacer con el material que sobra— y acabó siendo el hallazgo formal de su carrera: un formato sin ambición de single, sin voz obligatoria y sin necesidad de banda, que le permitió publicar durante décadas exactamente la música que quería escribir.
+
+El repertorio va de lo doméstico a lo raro sin avisar. «Beauty and the Beast» y «Field of Eternity» son piezas de guitarra de las más antiguas del legajo, con el fraseo de doce cuerdas que traía de sus años en Genesis. «Tibetan Yak-Music» es la nota extraña del conjunto, un experimento de drones y timbres que no se parece a nada de su catálogo pastoral, y «Harmonium in the Dust» explora el armonio como si fuera un instrumento de iglesia abandonada. «Tregenna Afternoons» y «Autumnal» son paisajismo puro, con nombres de lugar y de estación haciendo de programa; «Lullaby – Old Father Time» pasa en poco más de un minuto; «Reaper» anticipa la variante que reaparecería en la segunda entrega de la serie. «Flamingo» estira once minutos con una calma que en otro contexto sería impensable, y «Seven Long Years» cierra en tono de despedida. El siguiente disco lo devolvería a la obligación comercial, pero la serie ya estaba fundada.
+
+## La producción
+
+No hay productor acreditado ni estudio de renombre, y eso es parte del contenido: se trata de registros hechos con medios propios y criterio de cuaderno de apuntes. La ejecución es casi enteramente suya, guitarra clásica y de doce cuerdas, piano, armonio, con muy pocas capas superpuestas y ningún intento de disimular el ambiente de la habitación. Las piezas se dejan como estaban, con sus respiraciones, sus roces de púa y su afinación de instrumento vivo, y las diferencias de sonido entre unas y otras delatan que fueron grabadas en momentos y sitios distintos. Ese carácter de archivo doméstico, que en otro disco sería un defecto, aquí es la textura misma: no es un álbum producido, es un álbum reunido.
+
+## Recepción y legado
+
+Circuló poco y sin promoción, y en su momento se leyó como lo que decía ser, un apéndice para curiosos. La perspectiva lo cambió todo: de este descarte salió una serie que llegaría a una docena de entregas y que hoy se considera el corazón de su obra, más representativa que los discos con banda y presupuesto. Aquí ya está la lógica completa —miniatura instrumental, paisaje inglés, ejecución sin espectáculo— aunque todavía sin la coherencia que alcanzaría en las entregas dedicadas a un solo instrumento. Lo que se rescata es la intimidad y el nivel de las piezas de guitarra; lo que no, la desigualdad de un conjunto que nunca fue concebido como conjunto.

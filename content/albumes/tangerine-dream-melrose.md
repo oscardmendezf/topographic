@@ -16,6 +16,23 @@ critica_nota: "Mixto; se rescata el tramo final con Haslinger."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: null
+historia: "editorial"
 ---
 
 Cierre de la etapa con Haslinger, otra vez en registro de instrumental prolijo y amable. Los fieles rescatan un par de temas; el conjunto confirma el piloto automático de esos años.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Melrose cierra la etapa del dúo formado por Edgar Froese y Paul Haslinger, que había sostenido al grupo desde la marcha de Christopher Franke. El título remite a Melrose Avenue, y el disco entero está atravesado por Los Ángeles: «Rolling Down Cahuenga» nombra otra arteria de la ciudad, «Yucatán» y «Desert Train» estiran el imaginario hacia el sur y el desierto, y el conjunto suena a la California que el grupo frecuentaba por trabajo. Es el último disco antes del relevo generacional que traería a Jerome Froese al primer plano, y se escucha como final de ciclo: nadie parece estar buscando nada nuevo, sino rematar con solvencia una manera de hacer que ya estaba establecida.
+
+Las piezas son instrumentales de duración media, con melodía clara y desarrollo previsible. La pieza titular abre con el tono luminoso que domina el álbum; «Three Bikes in the Sky» y «Art of Vision» apuestan por lo contemplativo; «Electric Lion» y «Desert Train» son las que más se estiran y donde el grupo recupera algo del gusto por la construcción por capas, con secuencias que crecen a lo largo de varios minutos. «Dolls in the Shadow» aporta el matiz sombrío que el resto evita, y «Cool at Heart» cierra sin dramatismo. No hay concepto declarado ni intención de disco unitario: hay un repertorio bien hecho y sin aristas.
+
+## La producción
+
+Grabado por el dúo en su propio estudio, con el equipo digital de comienzos de los noventa: sintetizadores y muestreadores de catálogo, secuencias controladas por ordenador, percusión programada y guitarra eléctrica tratada, que Froese venía usando cada vez más como voz solista. El acabado busca la transparencia: instrumentos bien separados, reverberaciones amplias, ningún borde áspero. Es un sonido pensado para reproducirse bien en cualquier equipo y para no incomodar, coherente con el catálogo del sello estadounidense que lo publicó, y también el punto en el que la personalidad tímbrica del grupo queda más supeditada a los timbres de fábrica disponibles. El grupo se produjo a sí mismo, como en todo el período, sin criterio externo que empujara hacia el riesgo.
+
+## Recepción y legado
+
+Pasó sin ruido y hoy se lo cita, casi siempre, como ejemplo del piloto automático de aquellos años. Los fieles rescatan un par de piezas —normalmente las más largas, donde todavía hay construcción y no solo melodía— y admiten que el resto se escucha sin desagrado y sin memoria. Su interés histórico es mayor que su interés musical: marca el final de la sociedad con Haslinger, que se iría a desarrollar una carrera propia en el cine, y deja al grupo listo para el giro con guitarras y saxo que llegaría poco después. Dentro de una discografía sobrepoblada, es uno de esos títulos que ni suma ni resta: correcto, amable y ya conocido de antemano por cualquiera que hubiese escuchado los dos discos anteriores.

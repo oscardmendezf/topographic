@@ -16,6 +16,23 @@ critica_nota: "Reseñas correctas: se celebró la vitalidad más que las cancion
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Impacto moderado, fuerte en el mercado europeo."
+historia: "editorial"
 ---
 
 Doce piezas sobre dioses nórdicos, con la flauta como hilo conductor y un título que guiña al viejo nombre tentativo de la banda. Más rockero y compacto que The Zealot Gene; la segunda entrega de la resurrección tardía del nombre Tull, a ritmo anual.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Con The Zealot Gene, Ian Anderson había demostrado que el nombre Jethro Tull podía volver a producir material nuevo; RökFlöte llega apenas un año después y demuestra que podía hacerlo con método. El punto de partida es doble. Por un lado, la mitología nórdica: doce piezas dedicadas a figuras del panteón escandinavo, tomadas menos como relato épico que como galería de caracteres humanos reconocibles. Por otro, la flauta, que Anderson quería situar de nuevo en el centro del arreglo, no como color ocasional sino como voz principal. El título junta ambas cosas en un juego que además guiña al viejo nombre tentativo del grupo en sus primeros meses, cuando ensayaban rótulos hasta quedarse con el del agrónomo del siglo XVIII.
+
+El disco se abre y se cierra citando la Völuspá: «Voluspo» y «Ithavoll» funcionan como pórtico y epílogo, con recitados que enmarcan el conjunto. En medio desfilan «Ginnungagap», el vacío primordial; «Allfather», que es Odín; «The Feathered Consort», Frigg; «Hammer on Hammer», Thor, con el riff más directo de todo el álbum; «Wolf Unchained», Fenrir soltando la catástrofe; «Trickster (and the Mistletoe)», Loki y el muérdago que mata a Balder; «The Perfect One» para el propio Balder, y «The Navigators» para Njörd y el mar. Las letras no narran las sagas: toman de cada dios un rasgo —vanidad, astucia, furia, fertilidad— y lo devuelven al presente, que es el procedimiento habitual de Anderson desde hace medio siglo.
+
+## La producción
+
+Anderson produjo y mezcló el disco, con Claire Sutton en la ingeniería, sobre una base instrumental compacta y bastante más eléctrica que la de su antecesor. La formación es la misma que sostiene al grupo en esta etapa: teclados y acordeón de John O'Hara, bajo de David Goodier, batería de Scott Hammond y guitarra de Joe Parrish-James, con Anderson en flautas, voz y guitarra acústica. La decisión de sonido más audible es la jerarquía: la flauta lleva casi todos los temas principales y las partes cantadas quedan reducidas, lo que resuelve con elegancia el problema de una voz mermada. Los arreglos son cortos, sin desarrollos largos ni suites, y varias piezas apenas superan los tres minutos. La portada y el diseño corrieron a cargo de Thomas Ewerhard, con material gráfico y fotografía aportados por Ian y James Anderson. Las ediciones ampliadas incluyen las maquetas completas del repertorio y una larga conversación con Anderson sobre el proyecto.
+
+## Recepción y legado
+
+Se leyó como la más lograda de las tres entregas tardías: más rockera, más breve y con una idea de disco más clara que la de The Zealot Gene. Quienes buscaban al Tull conceptual de los setenta encontraron un ejercicio menor, sin la ambición estructural de aquellas obras; quienes solo pedían un buen disco de flauta y riffs quedaron satisfechos. Su lugar en la discografía es el de una vejez trabajadora y sin autoengaño: no compite con Aqualung ni con Songs from the Wood, pero tampoco pretende hacerlo. El acierto es haber encontrado, a esa altura, una fórmula que le sienta bien al grupo actual, y que Curious Ruminant continuaría desviándose hacia el folk.

@@ -17,6 +17,25 @@ critica_nota: "Canon; cierre a la altura de la trilogía."
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Éxito doméstico; culto internacional."
+historia: "editorial"
 ---
 
 Cierre de la trilogía fundacional de 1972-73. Los hermanos Nocenzi despliegan su escritura más amplia y Di Giacomo confirma por qué se lo consideraba la voz mayor del género.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El tercer disco cierra el ciclo abierto con el debut y lo hace ampliando la escala en vez de repetir la fórmula del concepto cerrado. Aquí no hay un argumento único: hay un tema, la libertad, tratado desde el encierro. El título es una afirmación en primera persona que el álbum se dedica a poner a prueba, y la Italia de aquellos años —presos políticos, violencia callejera, un país que discutía todo— está dentro del disco sin necesidad de consignas. El grupo llega con el oficio de dos álbumes y una banda rodada en directo, y el resultado es su escritura más amplia; el relevo en la guitarra llegaría después, junto con el fichaje internacional que cambiaría de raíz el planteamiento.
+
+«Canto nomade per un prigioniero politico» ocupa dieciséis minutos y es la pieza mayor del catálogo: alterna el lamento del preso con arranques instrumentales de gran violencia, y la voz de Francesco Di Giacomo pasa del susurro al grito sin perder la dicción. «Non mi rompete» funciona como contrapeso perfecto, una canción breve, casi de guitarra acústica y voz, con una letra que reclama el derecho a que lo dejen en paz; es lo más cercano a un tema popular que el grupo había escrito. «La città sottile» recoge el imaginario de las ciudades invisibles de la literatura italiana contemporánea y lo convierte en un desarrollo instrumental de aire suspendido, «Dopo... niente è più lo stesso» construye en diez minutos la idea de un punto sin retorno, y «Traccia II» retoma la firma del primer álbum para cerrar el ciclo con el mismo gesto con el que empezó.
+
+## La producción
+
+No constan datos verificados de productor, ingeniero, estudio ni personal, y no se suplen. Lo que define la grabación es un uso más flexible de la dinámica que en los dos discos anteriores: hay pasajes de piano y voz casi desnudos junto a bloques de banda completa, y la mezcla acepta el silencio como recurso. El grupo suena tocando junto, con pocos añadidos, y los tránsitos entre secciones están escritos con precisión.
+
+La paleta se abre. Al órgano, el clave y el piano de los hermanos Nocenzi se suman timbres de sintetizador y arreglos de aire coral, y la guitarra eléctrica gana presencia en los momentos de descarga. En «Non mi rompete» el grupo se atreve con la sencillez —guitarra, voz y un arreglo mínimo—, decisión arriesgada para una banda que se había definido por la densidad, y es justamente la pieza que más ha sobrevivido fuera de su público.
+
+## Recepción y legado
+
+Se recibió como confirmación y hoy se discute cuál de los dos, Darwin! o este, es el disco mayor del grupo. Su prestigio viene de la combinación poco frecuente de ambición formal y capacidad melódica: la suite larga y la canción breve conviven sin que ninguna parezca concesión. «Non mi rompete» pasó al repertorio de otros intérpretes y sigue siendo la puerta de entrada más usada al catálogo, mientras «Canto nomade per un prigioniero politico» es la pieza que los músicos citan. Cierra la etapa en la que el grupo no tuvo que pensar en ningún mercado más que el propio.

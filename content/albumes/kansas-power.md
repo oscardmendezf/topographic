@@ -16,6 +16,23 @@ critica_nota: "Mixto; se rescata sobre todo la guitarra de Morse."
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Regreso decoroso con un single que funcionó."
+historia: "editorial"
 ---
 
 Reforma sin Livgren y con Steve Morse en guitarra: rock melódico ochentoso ejecutado con solvencia. Kansas de nombre más que de espíritu, aunque Morse regala momentos.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Kansas resucitó a mediados de los ochenta por iniciativa de Phil Ehart y Richard Williams, que recuperaron el nombre y convencieron a Steve Walsh de volver tras su etapa en Streets. Kerry Livgren y Dave Hope declinaron: seguían dedicados a la música cristiana y no querían regresar a un grupo que ya no compartía su propósito. La vacante de guitarra solista se cubrió con un fichaje sorprendente, Steve Morse, que venía de la Dixie Dregs y aportaba una técnica y un vocabulario distintos a los de la banda; el bajo quedó para Billy Greer, que se quedaría en el grupo durante décadas. Sin el compositor principal y sin violín, lo que se reformó fue más una marca que una banda.
+
+Power asume esa condición sin fingir otra cosa. Es rock melódico de los ochenta, ejecutado con solvencia y producido para la radio de la época. «All I Wanted» es la balada de teclados que sostuvo el disco; «Silhouettes in Disguise» y el tema título abren con contundencia, y «Secret Service» y «Three Pretenders» mantienen el pulso sin arriesgar. Los momentos que justifican la escucha llegan cuando Morse toma la palabra: «Musicatto» es una pieza instrumental que exhibe su fraseo limpio y su pulso rítmico, y «Tomb 19» tiene el desarrollo más interesante del conjunto. Las letras, repartidas entre varios autores, abandonan por completo la carga espiritual de la etapa anterior y se instalan en el terreno emocional genérico del rock de arena.
+
+## La producción
+
+El sonido es característico de su momento: baterías tratadas con reverberación amplia, teclados programados —Gary Chang aparece acreditado en programación de teclado—, guitarras dobladas y coros multiplicados, con Phil Ehart figurando como productor ejecutivo. El violín no reaparece, y su hueco lo ocupan sintetizadores que aportan brillo pero no personalidad. Un elenco numeroso de voces adicionales engrosa los estribillos, y Billy Greer aporta segunda voz, un recurso que la banda seguiría usando. La dirección de arte fue de Vartan, con diseño gráfico e ilustración de Andy Engel y fotografía de Jim Shea. El conjunto es profesional y algo impersonal, exactamente lo que la industria pedía entonces.
+
+## Recepción y legado
+
+Devolvió al grupo a la circulación y a los escenarios grandes, lo que era el objetivo. Como disco, envejeció peor que casi todo el catálogo: la producción lo fecha con precisión y el material carece de la ambición estructural que hacía reconocible a Kansas. La presencia de Morse le da un valor que no tendría de otro modo, y para quienes siguen su carrera este es un capítulo obligado. Para el resto es Kansas de nombre más que de espíritu, una etapa que la propia banda trataría después con cierta distancia. Su continuación, In the Spirit of Things, sería considerablemente más ambiciosa, aunque también más ignorada.

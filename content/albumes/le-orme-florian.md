@@ -16,6 +16,27 @@ critica_nota: "Reconocido por la crítica italiana como apuesta singular."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Objeto de culto más que éxito de ventas."
+historia: "editorial"
 ---
 
 Giro insólito hacia lo camarístico: instrumentos acústicos y escritura casi clásica cuando el resto de la escena se rendía al pop. Uno de los gestos más valientes del prog italiano tardío.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El disco anterior había dejado al grupo en un punto muerto: canciones bien escritas, arreglos prolijos y ninguna razón urgente para seguir por ahí. Florian nace de la decisión contraria a la que tomaba entonces casi toda la escena italiana, que se replegaba hacia la canción ligera o directamente se disolvía. En lugar de simplificar para sobrevivir, Le Orme desenchufan. El trío veneciano, ampliado con Germano Serafin, aparta los amplificadores y construye un álbum de instrumentos acústicos, escritura de cámara y muy poca voz. El título remite al café de la plaza de San Marcos, y la referencia fija el tono: música de interior, de ciudad antigua, de mesa junto a la ventana.
+
+Las piezas funcionan como estampas. «Florian» abre con el desarrollo más largo y articulado del conjunto, casi una suite en miniatura donde el piano y las cuerdas se turnan sin apoyarse en un pulso de rock. «Jaffa» y «Calipso» miran al Mediterráneo con motivos de danza; «Il mago» y «Pietro il pescatore» conservan el hilo de la canción narrativa que la banda nunca abandonó del todo, con letras breves sobre figuras de cuento. «Fine di un viaggio» tiene el aire elegíaco que anuncia su título, y «El gran senser», cantada en veneciano, cierra devolviendo la música al dialecto y al puerto. No hay concepto declarado, pero se oye uno: un disco sobre un lugar y sobre el tiempo detenido dentro de él.
+
+## La producción
+
+El cambio de lenguaje es sobre todo un cambio de instrumentos. Tony Pagliuca deja el órgano y el sintetizador por el piano, el clavecín y los teclados de tecla ligera; Aldo Tagliapietra sustituye el bajo eléctrico por la guitarra clásica y canta bastante menos que de costumbre; Germano Serafin cambia la eléctrica por el violín en buena parte del repertorio; y Michi Dei Rossi abandona casi por completo la batería para ocuparse de marimba, vibráfono, timbales y percusión afinada. El resultado es una música sin sección rítmica en el sentido habitual, sostenida por el fraseo de cada instrumento y por el silencio.
+
+Esa elección obliga a un tipo de grabación distinta. Los arreglos son transparentes, con pocos instrumentos sonando a la vez, y la mezcla deja oír el ataque de las maderas y de las cuerdas frotadas en lugar de envolverlo todo en reverberación. Hay contrapunto escrito, no improvisación, y las transiciones se resuelven por escritura y no por efecto de estudio. Sonoramente es el álbum más desnudo de la banda y también el más difícil de tocar con exactitud.
+
+## Recepción y legado
+
+Llegó en el peor momento posible y se lo trató como una excentricidad: el público del grupo esperaba otra cosa y la crítica de entonces tenía poco espacio para un disco así. Con el tiempo se lee al revés, como el gesto más valiente de su tramo tardío y como una de las pocas respuestas dignas al agotamiento del sinfonismo italiano.
+
+Su influencia es más de actitud que de escuela: pocos siguieron esa vía, pero la idea de retirar la electricidad para conservar la ambición reaparece en regresos acústicos posteriores del género. Se rescatan la coherencia y la pieza inicial; envejece peor cierta pulcritud de salón que, en las páginas breves, deja sensación de miniatura decorativa.

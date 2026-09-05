@@ -16,6 +16,25 @@ critica_nota: "Muy valorado, aunque el más cuestionado del canon Beatle."
 estrellas_comercial: 5
 comercial_fuente: "editorial"
 comercial_nota: "Masivo, empujado por la separación y la película."
+historia: "editorial"
 ---
 
 Grabado antes de Abbey Road pero publicado después, con la banda ya disuelta: documento del intento de volver al rock crudo tocado en vivo en el estudio, terminado por Spector con orquestaciones que McCartney repudió. El menos prog y el más discutido de su catálogo final.
+
+<!-- historia:editorial -->
+
+## La historia
+
+La idea era una cura de humildad: después del laberinto de sobregrabaciones del álbum blanco, McCartney propuso volver a ser un grupo que toca, ensayar un repertorio nuevo delante de las cámaras y tocarlo de una vez, sin trucos de estudio. El proyecto se llamó Get Back y arrancó en un plató de cine frío y enorme donde la banda se descubrió incapaz de convivir: Harrison se marchó unos días, Lennon aparecía ausente, y el material se acumuló en decenas de horas de ensayos filmados. El traslado al sótano de las oficinas del grupo mejoró el clima, sobre todo cuando Harrison invitó a Billy Preston al teclado eléctrico, cuya presencia obligó a todos a comportarse como músicos.
+
+De ahí salen las canciones. «Get Back» y «I Got a Feeling» son rock de banda tocando en la sala; «Let It Be» y «The Long & Winding Road» son dos baladas de McCartney con aire de himno de despedida; «Across the Universe» venía de una sesión anterior y se recuperó aquí; «I Me Mine» es Harrison escribiendo sobre el ego con la banda ya rota; «Dig It», «Dig a Pony» y «Maggie Mae» conservan la informalidad del jam y del canto marinero de taberna. Grabado antes de Abbey Road, se publicó después: cuando llegó a las tiendas el grupo ya no existía, y el disco funcionó como epitafio involuntario.
+
+## La producción
+
+El material quedó meses sin forma. Se ensayaron montajes que la banda rechazó y, finalmente, la cinta fue entregada a Phil Spector, acreditado como productor, que trabajó sobre las tomas existentes sin la banda en la sala. Su intervención va contra el espíritu del proyecto: añadió orquesta, arpa y coro femenino a «The Long & Winding Road» y a «Across the Universe», suavizó lo que estaba pensado como crudo y dejó, en cambio, los diálogos y los falsos arranques que refuerzan la idea de documento. McCartney nunca lo aceptó y décadas más tarde impulsó una versión despojada de esos añadidos.
+
+El envase acompañó al tono fúnebre: la edición se presentó con las cuatro fotografías individuales de Ethan Russell sobre fondo negro, con diseño de John Kosh, retratos separados que anunciaban lo que el disco no decía en voz alta. Los demás nombres de producción que arrastra el título pertenecen a reediciones posteriores, no a aquella grabación.
+
+## Recepción y legado
+
+Cayó envuelto en el ruido de la separación y se juzgó como lo que parecía: los restos de un naufragio. Esa lectura ha ido corrigiéndose. Es el álbum menos ambicioso de su catálogo tardío y el más ajeno a cualquier idea de progresivo —ni suites, ni orquestaciones pensadas, ni conceptos—, pero contiene el mejor argumento contra el propio mito del estudio: cinco músicos en una habitación bastan. Su influencia real no está en el prog sino en la reacción posterior contra él, en toda la música que buscó rugosidad y toma directa. Lo que se rescata son las canciones y el sonido de banda; lo que se discute sigue siendo el barniz que le pusieron encima cuando ya nadie quedaba para defenderlo.

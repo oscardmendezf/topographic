@@ -16,6 +16,23 @@ critica_nota: "Recibido con indiferencia; final apagado."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Su punto más bajo de llegada."
+historia: "editorial"
 ---
 
 Último disco de la banda en actividad: pop de mediados de los ochenta recibido con indiferencia general. Cierre administrativo de un arco que había empezado en la desmesura cósmica.
+
+<!-- historia:editorial -->
+
+## La historia
+
+POV es el último disco de la banda en actividad y suena a ello. El título juega con la idea de punto de vista, y el material se mueve entre el pop de mediados de los ochenta y una vaga voluntad de comentario social que ya había perdido el filo de los discos anteriores. Todd Rundgren tenía por entonces una carrera solista, una reputación de productor ajeno y muchas más opciones que sus compañeros; Utopia había dejado de ser un proyecto para convertirse en un compromiso, y el desgaste se percibe en el conjunto antes que en las canciones aisladas.
+
+El repertorio mantiene el reparto democrático de siempre. «Play This Game» abre con la energía de un grupo que sabe montar un estribillo aunque no le queden ganas, y «Style» y «Secret Society» exploran la crítica del artificio y de la pertenencia con más resignación que rabia. «Zen Machine» aporta el toque de humor futurista que la banda arrastraba desde sus años cósmicos, ahora reducido a guiño. «Mated» es la balada más lograda del disco y una de las mejores melodías del tramo final del grupo, y «Mystified» ofrece el único desarrollo algo más extendido. «Stand for Something» y «More Light» buscan el gesto positivo de cierre, que en retrospectiva se lee como despedida involuntaria.
+
+## La producción
+
+La producción, de la propia banda, adopta sin resistencia la paleta de su tiempo: teclados digitales, batería de golpe grande y ambiente amplio, guitarras recortadas y voces muy tratadas. Es un sonido de época que ha envejecido peor que el de cualquier otro disco del grupo, precisamente porque depende de recursos de estudio que quedaron fechados casi de inmediato. Las armonías vocales a cuatro siguen siendo la marca de fábrica y son lo que mejor resiste, junto con la precisión de una sección rítmica que llevaba una década tocando junta. Los arreglos evitan cualquier riesgo formal, y no hay ninguna pieza que exceda el formato de canción.
+
+## Recepción y legado
+
+Se recibió con indiferencia, y la banda se disolvió poco después, con reencuentros puntuales muy posteriores. Escuchado hoy es un disco menor, correcto en la ejecución y desprovisto de razones internas para existir más allá del cumplimiento contractual y de la inercia. Su valor está en el contraste: cierra un arco que había empezado con una suite de media hora sobre la iluminación mística y termina en un pop de estudio indistinguible de tantos otros. Para el atlas del progresivo es el final administrativo de una historia cuyo capítulo relevante había terminado casi diez años antes, y solo «Mated» merece rescate propio.

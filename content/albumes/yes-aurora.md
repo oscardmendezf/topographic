@@ -13,6 +13,23 @@ charts_estado: "sd"
 estrellas_critica: null
 critica_fuente: "editorial"
 critica_nota: "Sin consenso registrable todavía"
+historia: "editorial"
 ---
 
 Anunciado como sucesor de Mirror to the Sky dentro de la formación conducida por Howe. Al cierre de esta edición no hay recorrido crítico ni comercial que registrar.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Aurora aparece como tercer capítulo de la etapa que Steve Howe dirige desde The Quest, la más estable que el grupo ha tenido en décadas: una formación que ya no se rehace cada disco y un método de trabajo asentado. Después de Mirror to the Sky, donde la pieza titular devolvió al repertorio la escala larga, el grupo parece haber tomado nota de qué parte de aquel disco funcionaba mejor, porque la secuencia de Aurora reparte el peso entre desarrollos extensos y canciones breves con una deliberación que sus dos antecesores no mostraban.
+
+No hay un concepto declarado que ate el conjunto. La estructura, en cambio, sí dice algo. El disco abre con «Aurora», siete minutos que hacen de obertura, y coloca en el centro «Countermovement», una suite en cuatro movimientos —«Taro», «Anytime Soon», «Blink of an Eye» y «Freedom’s Edge»— que es la pieza más larga y el eje evidente del álbum: la forma clásica del grupo, movimientos encadenados con material temático que reaparece, aplicada de nuevo sin disimulo. «Outside the Box», dividida en dos partes, repite el procedimiento a menor escala. Alrededor quedan canciones de formato corto —«Turnaround Situation», «All Hands on Deck», «Emotional Intelligence», «Jambustin’», esta última con nombre de descarga instrumental— y baladas de aire reposado como «Love Lies Dreaming» y «Ariadne», antes de que «Watching the River Roll» cierre con la calma que en esta etapa suele reservarse al final. Es, sobre el papel, el reparto habitual de un disco tardío de Yes: una obra grande que justifica el álbum y un contorno de piezas amables que lo hacen llevadero.
+
+## La producción
+
+La continuidad de la formación y del sello permite suponer el mismo procedimiento que el grupo viene empleando desde The Quest: Howe conduciendo el proceso y decidiendo el sonido, grabaciones repartidas entre los estudios de cada músico y ensamblaje posterior, con la nitidez de guitarra y la dinámica contenida como marcas de fábrica. Los detalles concretos de las sesiones —quién firma la ingeniería, dónde se registró cada parte, qué papel juegan los arreglos orquestales que las dos entregas anteriores usaron con generosidad— no están confirmados al cierre de esta edición, y no tiene sentido darlos por buenos por analogía. La presencia de dos piezas divididas en movimientos sí indica una intención de arreglo más trabajada que la de un disco de canciones sueltas.
+
+## Recepción y legado
+
+Es demasiado pronto para escribir esta parte con honestidad. El álbum llega sin la discusión acumulada que rodeó a sus antecesores y sin un veredicto asentado, y cualquier juicio sobre su lugar en la discografía sería una proyección de lo que hicieron The Quest y Mirror to the Sky más que una lectura del disco. Lo que sí puede decirse es cuál es la apuesta: si la etapa de Howe deja algo más que oficio, será por piezas como «Countermovement», no por las canciones cortas. Esta ficha se actualizará cuando haya recorrido que registrar.

@@ -16,6 +16,25 @@ critica_nota: "Mal recibido; etapa final sin rumbo."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación mínima."
+historia: "editorial"
 ---
 
 Pese al título es un disco de estudio, con la banda girando hacia un rock bailable y anónimo. De lo más gris de su catálogo.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El título con puntos suspensivos, casi vivo, promete un disco en directo que no existe: lo que hay es un álbum de estudio con temas largos y tempos de baile, grabados por una banda que a esas alturas funcionaba como grupo profesional de rock alemán y no como el colectivo que había sido. La broma del nombre es la parte más ingeniosa del proyecto, y también la más reveladora, porque el disco busca justamente ese aire de banda tocando en un local cuando en realidad todo está construido con el criterio del estudio.
+
+Los seis cortes se estiran mucho más de lo que su material justifica. «One Blue Morning» y «Good Bye My Love» superan los siete y los ocho minutos con estructuras sencillas repetidas hasta el desgaste; «Ain't Today Tomorrow Yesterday» juega con el trabalenguas en el título y con un vaivén rítmico que se agota antes de terminar; «Hallelujah» tira del gospel de segunda mano; «Feeling Uneasy» es lo más digno del conjunto, con un clima algo más oscuro. El cierre, «Live in Jericho», doce minutos que insisten en la ficción del directo, es a la vez la pieza más ambiciosa y la más vacía: donde antes había trance colectivo, aquí hay una vamp prolongada sin destino. Nada de esto contradice al grupo que hizo Yeti, simplemente ya no tiene relación con él.
+
+## La producción
+
+No constan datos verificados de productor, ingeniero, estudio ni personal para este álbum. Lo que se oye es una grabación de finales de los setenta hecha con medios normales de la industria: batería sin aristas, bajo redondo al frente de la mezcla, teclados eléctricos rellenando el medio, guitarras rítmicas en función de acompañamiento y coros en los estribillos. La percusión de mano que había sido marca de la casa aparece apenas como adorno.
+
+La decisión más discutible es de arreglo, no de sonido. Alargar los temas hasta el doble de lo que piden, sin desarrollo real ni cambios de sección, produce ese efecto de rueda girando en vacío que domina el disco; hasta la reverberación y los efectos, aplicados para dar la impresión de espacio y de público, subrayan el artificio en vez de disimularlo.
+
+## Recepción y legado
+
+Fue recibido con indiferencia y así permanece. Ocupa el lugar más bajo del catálogo junto al álbum siguiente, y ni la nostalgia por el krautrock ni las reediciones sucesivas han conseguido darle una segunda vida. No influyó en nada, no se cita, no se reedita con especial cuidado, y su interés hoy es estrictamente documental: sirve para entender qué le pasaba a un grupo fundacional cuando el contexto que lo había hecho posible ya no existía y el mercado pedía música bailable. Se puede rescatar «Feeling Uneasy» y el ingenio del título; el resto es la crónica de un desgaste, y el disco siguiente, Only Human, terminaría de cerrar esa primera vida del grupo.

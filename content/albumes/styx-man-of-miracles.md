@@ -16,6 +16,23 @@ critica_nota: "Transicional y menor; pocos lo defienden."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Otro lanzamiento invisible de la etapa temprana."
+historia: "editorial"
 ---
 
 Cierre de la etapa en sello chico, algo más enfocado que su antecesor pero aún sin identidad clara. El puente hacia el salto de liga que llegaría con Equinox.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Tras el desbarajuste del disco anterior, Styx recuperó a los productores del principio y volvió a un terreno más ordenado. Man of Miracles cierra la etapa en el sello pequeño y se nota que la banda buscaba enderezar el rumbo: hay menos experimentos, menos bromas y una apuesta clara por la canción de tres o cuatro minutos, con el gesto sinfónico reducido a los teclados y a los coros. También se nota la falta de un centro: el disco alterna rock de bar, balada y hard sin que ninguna de esas vías se imponga.
+
+«Rock & Roll Feeling» y «Havin' a Ball» abren en clave festiva y declarativa, casi como si el grupo quisiera desmentir la etiqueta de banda rara que se había ganado. «Golden Lark» y «A Song for Suzanne» son las piezas de DeYoung, con el piano al frente y esa mezcla de ternura y grandilocuencia que ya era su firma; la segunda vuelve a dirigirse a su mujer, como «Lady» en el disco anterior. «Evil Eyes» y «Southern Woman» tiran del lado guitarrero de James Young, «Christopher, Mr Christopher» ensaya la canción de personaje y el tema título cierra con la ambición contenida del conjunto. El detalle más revelador es la reaparición de «Best Thing», ya publicada en el debut: la banda volvía sobre su propio material como quien busca en el cajón algo que por fin funcione.
+
+## La producción
+
+John Ryan y Bill Traut regresan a la producción, con Gary Loizzo en la ingeniería. El sonido es más nítido y compacto que el de los discos anteriores, con las guitarras de Young y Curulewski mejor definidas y una batería de John Panozzo por fin audible como tal. DeYoung reparte teclados y sintetizador con criterio de arreglista, colocándolos como colchón y como réplica de las voces en lugar de disputar el primer plano. Las armonías vocales, con Curulewski, Young, DeYoung y John Panozzo alternando, se trabajan con más cuidado que nunca hasta ese punto y anticipan la manera de cantar que la banda usaría en la etapa siguiente. Faltan, en cambio, las piezas largas y las suites: es el álbum más convencional de la primera época.
+
+## Recepción y legado
+
+Salió sin ruido y quedó pronto sepultado por el giro que vino a continuación, cuando el grupo fichó por un sello mayor y grabó Equinox. Escuchado como pieza de transición tiene su lógica: es donde Styx aprende a resumir, a cerrar canciones y a no confundir ambición con desorden, lecciones sin las cuales el salto posterior habría sido impensable. Como disco autónomo se queda corto, con demasiado material de relleno y una identidad prestada de otros grupos estadounidenses del momento. Suele leerse hoy como el último capítulo de la prehistoria del grupo, útil sobre todo para medir la distancia que la banda recorrió en apenas un año.

@@ -16,6 +16,23 @@ critica_nota: "Recepción tibia; oficio reconocido, poco más."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Alcance modesto en su recta final."
+historia: "editorial"
 ---
 
 Pop de sintetizadores con el pulso de la nueva ola, competente y anónimo. La banda ya funcionaba como vehículo de canciones, sin resto del proyecto cósmico inicial.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del disco homónimo la banda cambió de casa discográfica y afrontó un contexto que ya no era el suyo: el pop de sintetizadores dominaba la radio y los grupos de la década anterior debían decidir si adaptarse o retirarse. Utopia se adaptó. Oblivion es un disco de teclados programados, baterías tratadas y canciones de estructura corta, con el pulso rítmico de la nueva ola aplicado sin ironía a la fórmula de cuatro voces que la banda venía puliendo desde hacía años.
+
+Las letras conservan algo del sarcasmo político de Swing to the Right, pero en dosis menores y más ligeras. «Itch in My Brain» abre con nervio y una melodía de las mejores del tramo final del grupo. «Bring Me My Longbow» juega con la imaginería inglesa y «Welcome to My Revolution» retoma el gesto satírico, mientras «Winston Smith Takes It on the Jaw» recurre a Orwell para hablar de vigilancia y derrota individual con más humor que angustia. «Too Much Water» y «I Will Wait» ofrecen el costado melódico y reposado, y «Love With a Thinker» y «Crybaby» buscan directamente la pista de baile. No hay ninguna pieza larga, ningún desarrollo instrumental extendido, ninguna huella del proyecto cósmico inicial: la banda funciona ya como un vehículo eficiente de canciones ajustadas al formato de su tiempo.
+
+## La producción
+
+La producción, otra vez interna, apuesta por texturas de sintetizador limpias y por una batería con el tratamiento característico de la época, con el golpe muy presente y el ambiente controlado. Roger Powell, que había sido el color más audaz de los discos anteriores, se pliega aquí a la función de teclista de pop, con secuencias y timbres brillantes en lugar de experimentos tímbricos. Las guitarras de Rundgren aparecen recortadas y rítmicas más que solistas, y el reparto de voces sigue distribuido entre los cuatro miembros. Todo el conjunto está mezclado buscando compatibilidad con la radio del momento, y esa decisión, tomada con oficio pero sin apuesta personal, es la que explica el carácter algo anónimo del resultado.
+
+## Recepción y legado
+
+Pasó desapercibido y no cambió la posición del grupo en un mercado que ya lo trataba como un nombre del pasado. Escuchado hoy tiene mejor factura de lo que su reputación sugiere, con un par de canciones que aguantan bien, pero le falta cualquier rasgo que lo distinga de decenas de discos contemporáneos hechos con las mismas herramientas. Su lugar en la discografía es el del penúltimo capítulo, útil para medir hasta dónde había llegado la deriva desde el debut de suites y bancos de sintetizadores. En términos del género no aporta nada, y su interés queda reservado a quien quiera seguir la carrera completa de Rundgren y de sus compañeros.

@@ -16,6 +16,23 @@ critica_nota: "De lo mejor reseñado de su tramo tardío."
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Pico de visibilidad comercial de la etapa tardía."
+historia: "editorial"
 ---
 
 El disco más oscuro de la racha tardía: coros, orquesta y un ánimo de amenaza que le sienta bien. La banda estable de las giras Revisited le da músculo. De lo más sólido de su tercera etapa.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Si The Night Siren proponía la convivencia como respuesta, At the Edge of Light, de 2019, mira el mismo mundo desde la amenaza. Es el disco más oscuro de la racha tardía de Steve Hackett y el que mejor aprovecha la maquinaria acumulada en la década: una banda rodada por años de giras, un método de producción afinado y la libertad de no tener que demostrar nada. El título describe el punto de vista, el borde de la luz, el instante anterior a que la sombra gane terreno, y las letras trabajan la guerra, la explotación y la fragilidad de lo civilizado sin el optimismo militante del disco anterior.
+
+«Fallen Walls and Pedestals» funciona como obertura y desemboca en «Beasts in Our Time», que nombra el asunto sin rodeos. «Underground Railroad» recupera la red clandestina por la que escapaban los esclavos en el siglo XIX estadounidense y la trata con vocabulario de blues y armónica, uno de los pocos momentos en que el disco mira hacia atrás en su propia discografía. «Those Golden Wings», la pieza extensa del álbum, es el centro de gravedad: once minutos de construcción por secciones, con coro, orquesta y un desarrollo que resiste la comparación con lo mejor que firmó en los setenta. El tramo final ordena el argumento en tres movimientos —«Descent», «Conflict» y «Peace»—, y esa resolución, más resignada que esperanzada, es lo que distingue el tono del conjunto.
+
+## La producción
+
+El sonido es el más masivo de toda su etapa tardía: coros amplios, orquestación densa y una batería con mucho más cuerpo que en discos anteriores, con la banda estable de las giras Revisited aportando el músculo que faltaba en los trabajos más de laboratorio. La guitarra se reparte entre el sostenido característico, la acústica de nailon y el sitar, y hay un uso sistemático de instrumentos de tradiciones diversas ya incorporado como lengua propia y no como color añadido. La mezcla apuesta por la densidad antes que por el aire, decisión que refuerza el clima opresivo del material aunque le quite transparencia a los pasajes más cargados. El diseño corresponde a Thomas Ewerhard, con fotografías de Angéla y Maurizio Vicedomini, el mismo equipo visual de los dos discos anteriores.
+
+## Recepción y legado
+
+Fue recibido como lo más sólido de su tercera etapa, y el juicio se sostiene: es el disco donde la ambición formal, el músculo instrumental y la coherencia temática coinciden mejor. Frente a la dispersión de los álbumes eclécticos de los dos mil y a la amabilidad de The Night Siren, acá hay una dirección clara sostenida de principio a fin. Su límite es el de toda la etapa —no propone nada que reorganice el género, se mueve dentro de un lenguaje ya fijado—, pero dentro de esos términos es difícil pedirle más. Cierra la década demostrando que la carrera solista de Hackett había alcanzado, cuarenta años después de empezar, su período más estable.

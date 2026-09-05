@@ -16,6 +16,25 @@ critica_nota: "Sin consenso registrable; pieza de archivo."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación de culto especializado."
+historia: "editorial"
 ---
 
 Suite temprana recuperada de los archivos y editada oficialmente a fines de los noventa. Más ambiciosa que pulida; valiosa como registro del germen de la banda.
+
+<!-- historia:editorial -->
+
+## La historia
+
+De todo lo que Happy the Man dejó sin editar, esto es lo más ambicioso y lo más temprano. Death's Crown es una suite en once partes escrita y grabada por la primera formación del grupo, la que todavía tenía cantante y un frente instrumental más amplio, años antes de que el nombre llegara a un sello grande. La obra plantea un relato de muerte y tránsito con narración y voz sobre un desarrollo instrumental continuo, más cerca del teatro musical que de la canción, y se apoya en el recurso de dividir el material en secciones muy desiguales: hay partes de menos de un minuto que funcionan como enlace y otras de casi siete que sostienen el peso dramático.
+
+La suite quedó archivada cuando la banda se reorganizó y decidió apostar por el formato instrumental y por piezas más cortas. Salió a la luz a finales de los noventa, en la misma operación de rescate de archivos que había dado Beginnings, y con dos apéndices que la completan: una versión temprana de «New York Dreams Suite», que después se depuraría para el debut, y «Merlin of the High Places», pieza del repertorio en vivo de la primera etapa que nunca tuvo edición oficial. Escuchados juntos, los tres bloques dibujan el mapa de lo que el grupo era antes de convertirse en lo que se conoce.
+
+## La producción
+
+El material procede de cintas de la primera mitad de los setenta y suena como tal. No hay créditos verificados de producción, ingeniería o estudio en las fuentes de referencia, y la propia edición se presenta como recuperación de archivo, con la mejora de sonido que permitía el soporte original y ninguna intervención cosmética. Las voces y la narración están mezcladas al frente, los teclados dominan la textura y la percusión aparece a veces enterrada. La instrumentación es la del grupo de esa época: doble teclado, guitarra limpia, vientos integrados en el arreglo y una sección rítmica que todavía no había encontrado el filo de los discos posteriores.
+
+Que la obra funcione, aun así, se debe a la escritura. La suite mantiene motivos que reaparecen a lo largo de las once partes, y las transiciones están pensadas como tales y no improvisadas en el montaje. Es una pieza compuesta, no un collage de tomas.
+
+## Recepción y legado
+
+Llegó al público cuando el grupo era ya un objeto de culto y se recibió como lo que era: material para convencidos. Nadie sostiene que sea el mejor disco de la banda, y la propia ficha editorial lo señala con razón al llamarlo más ambicioso que pulido. Su interés está en otra parte: demuestra que la vocación de gran forma estaba en el origen del proyecto y no fue una consecuencia de la madurez, y ofrece la única muestra editada de una encarnación del grupo que de otro modo habría quedado solo en los relatos. Como germen documentado de una discografía breve, es difícil de reemplazar.

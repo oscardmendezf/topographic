@@ -16,6 +16,23 @@ critica_nota: "De lo mejor valorado de la etapa revival"
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Culto; sin trascender el nicho"
+historia: "editorial"
 ---
 
 Con Menno Gootjes ya asentado en la guitarra, la banda suena más cohesionada que en las entregas anteriores del revival. Instrumentales que recuperan algo del nervio setentero sin salir del molde. Dentro de la etapa moderna, de lo más defendible.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Con Menno Gootjes ya instalado en la guitarra y una formación estable —Thijs van Leer a la flauta y los teclados, Bobby Jacobs al bajo, Pierre van der Linden a la batería—, Focus llegó al décimo álbum de estudio sonando por fin como un grupo y no como un proyecto reactivado. Ese es el argumento del disco: la cohesión. Gootjes no imita a su predecesor, pero tiene el ataque duro y el fraseo suelto que el repertorio exige, y la banda aprovecha para tirar del hilo setentero sin la timidez de las dos entregas anteriores. El resultado es un álbum instrumental de principio a fin, ordenado, con piezas de cinco minutos que dicen lo que tienen que decir y se apartan.
+
+El vínculo con el pasado está explícito desde el arranque: «Father Bacchus» convierte en broma pagana el «Father Bach» con que Jan Akkerman se había despedido décadas antes, y el gesto resume bien la actitud del disco, que reverencia el catálogo tomándoselo a broma. «Focus 10» continúa la serie del tema propio de la casa, «Victoria» y «Message Magique» trabajan el registro melódico donde la flauta manda, «Amok in Kindergarten» y «All Hens on Deck» exhiben el humor de título que la banda nunca ha abandonado, y «Birds Come Fly Over (Le Tango)» y «Hoeratio» buscan ritmos ajenos al rock con la naturalidad de quien lleva medio siglo mezclando repertorios. «Talk of the Clown» es la miniatura de rigor y «Crossroads» cierra sin épica, en el terreno del blues que fue el punto de partida de todos ellos.
+
+## La producción
+
+No constan créditos verificados de producción, ingeniería ni estudio, y por eso no se atribuyen. El sonido es el más equilibrado de la etapa moderna: la batería suena viva y con dinámica real, sin la compresión que aplana tantas grabaciones de su tiempo, la guitarra tiene cuerpo y suciedad donde hace falta, y los teclados siguen apostando por timbres de órgano y mellotron en lugar de sintetizadores actuales. La flauta se graba de cerca, con la respiración incluida, y en varios pasajes se dobla con el órgano al unísono, un recurso de la casa desde el principio. La portada corrió a cargo de Roger Dean, el pintor asociado para siempre a las carátulas de Yes, lo que colocó al disco en un linaje visual del que la banda había estado curiosamente al margen en sus años clásicos.
+
+## Recepción y legado
+
+Se recibió como el mejor disco del regreso y esa valoración se ha mantenido. No reinventa nada ni lo pretende: es la fórmula flauta-órgano-guitarra ejecutada por una formación rodada, con material propio de calidad sostenida y sin relleno, y en el contexto de una segunda vida que podía haberse limitado a girar con el catálogo antiguo, eso ya es un mérito. Frente a los álbumes de los setenta le falta el desconcierto, la sensación de que algo puede salirse de madre en cualquier momento; frente al resto de la etapa moderna, gana por orden y por convicción. Es el título que se puede recomendar a quien quiera saber si el Focus contemporáneo merece atención.

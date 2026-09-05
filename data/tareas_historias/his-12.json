@@ -1,0 +1,725 @@
+{
+ "id": "his-12",
+ "contexto_artistas": {
+  "crucis": "El grupo sinfónico por excelencia del prog argentino: teclados dominantes, virtuosismo juvenil y ambición orquestal en clave local. Duraron poco y grabaron apenas dos discos, pero esos dos bastaron para fijar el estándar del género en el país. Referencia obligada de todo lo que vino después en el sinfonismo rioplatense.",
+  "dixie-dregs": "Banda instrumental del sur de Estados Unidos liderada por la guitarra de Steve Morse, que cruzó fusion, bluegrass, música clásica y hard rock con un virtuosismo desprovisto de solemnidad. Fueron la variante más americana del prog: técnica europea, materia prima sureña. Nunca pasaron del circuito de músicos y aficionados, pero dentro de ese circuito son referencia obligada.",
+  "egg": "El laboratorio de compases de Dave Stewart. Trío organístico salido de Uriel —la banda que compartió con Steve Hillage— que llevó la métrica irregular y el rigor casi académico al corazón de la órbita de Canterbury. Tres discos de estudio le bastaron para dejar una huella desproporcionada a sus ventas.",
+  "elo": "Nacieron para continuar el barroco de los Beatles con chelos y terminaron siendo la mejor máquina pop de fines de los setenta. Su credencial prog es temprana y parcial: Eldorado."
+ },
+ "albumes": [
+  {
+   "album_slug": "crucis-crucis",
+   "titulo": "Crucis",
+   "artista": "Crucis",
+   "artista_slug": "crucis",
+   "anio": 1976,
+   "primer_lanzamiento": "1976",
+   "era": "clasica",
+   "analisis_actual": "Debut sorprendentemente maduro: canciones todavía, pero ya con la densidad instrumental que los definiría. El punto de partida del sinfónico argentino serio.",
+   "pistas": [
+    "1. Todo tiempo posible (4:11)",
+    "2. Mes (4:58)",
+    "3. Corto amanecer (2:59)",
+    "4. La triste visión del entierro propio (4:58)",
+    "5. Irónico ser (4:11)",
+    "6. Determinados espejos (6:58)",
+    "7. Recluso artista (6:46)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "crucis-los-delirios-del-mariscal",
+   "titulo": "Los delirios del mariscal",
+   "artista": "Crucis",
+   "artista_slug": "crucis",
+   "anio": 1976,
+   "primer_lanzamiento": "1976",
+   "era": "clasica",
+   "analisis_actual": "La obra mayor: instrumental casi todo, tenso y preciso, sin el relleno habitual del género. Consenso retrospectivo como cima del prog sinfónico argentino y uno de los grandes discos del prog latinoamericano.",
+   "pistas": [
+    "1. No me separen de mí (6:06)",
+    "2. Los delirios del mariscal (10:10)",
+    "3. Pollo frito (5:45)",
+    "4. Abismo terrenal (12:30)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "dixie-dregs-the-great-spectacular",
+   "titulo": "The Great Spectacular",
+   "artista": "Dixie Dregs",
+   "artista_slug": "dixie-dregs",
+   "anio": 1975,
+   "primer_lanzamiento": "1975",
+   "era": "clasica",
+   "analisis_actual": "Debut autoeditado de la banda todavía universitaria: el estilo ya está delineado, la producción no acompaña. Documento de origen más que disco de cabecera.",
+   "pistas": [
+    "1. Refried Funky Chicken (3:53)",
+    "2. Holiday (4:10)",
+    "3. Wages of Weirdness (3:57)",
+    "4. T.O. Witcher (2:10)",
+    "5. The Great Spectacular (3:18)",
+    "6. Ice Cakes (3:49)",
+    "7. Leprechaun Promenade (3:21)",
+    "8. Country House Shuffle (4:03)",
+    "9. What If (3:30)",
+    "10. Kathreen (2:53)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "dixie-dregs-free-fall",
+   "titulo": "Free Fall",
+   "artista": "Dixie Dregs",
+   "artista_slug": "dixie-dregs",
+   "anio": 1977,
+   "primer_lanzamiento": "1977",
+   "era": "clasica",
+   "analisis_actual": "El debut oficial ya trae la fórmula completa: violín y guitarra en unísonos imposibles, humor sureño y cero grasa. Fresco todavía hoy.",
+   "pistas": [
+    "1. Free Fall (4:40)",
+    "2. Holiday (4:29)",
+    "3. Hand Jig (3:16)",
+    "4. Moe Down (3:51)",
+    "5. Refried Funky Chicken (3:25)",
+    "6. Sleep (2:04)",
+    "7. Cruise Control (6:16)",
+    "8. Cosmopolitan Traveler (3:02)",
+    "9. Dig the Ditch (4:09)",
+    "10. Wages of Weirdness (3:48)",
+    "11. Northern Lights (3:14)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [
+     "Diana Marie Kaylan (art direction)",
+     "John Kehe (design)",
+     "Bob Seidemann (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "dixie-dregs-what-if",
+   "titulo": "What If",
+   "artista": "Dixie Dregs",
+   "artista_slug": "dixie-dregs",
+   "anio": 1978,
+   "primer_lanzamiento": "1978-03",
+   "era": "clasica",
+   "analisis_actual": "Su obra mayor: composición ambiciosa sin perder el pulso, del lamento de Night Meets Light a los sprints eléctricos. Si hay que elegir un solo disco de los Dregs, es este.",
+   "pistas": [
+    "1. Take It Off the Top (4:06)",
+    "2. Odyssey (7:36)",
+    "3. What If (5:03)",
+    "4. Travel Tunes (4:36)",
+    "5. Ice Cakes (4:38)",
+    "6. Little Kids (2:05)",
+    "7. Gina Lola Breakdown (3:59)",
+    "8. Night Meets Light (7:58)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [
+     "Diana Marie Kaylan (art direction)",
+     "Earl R. Klasky (design)",
+     "Michael De Camp (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "dixie-dregs-night-of-the-living-dregs",
+   "titulo": "Night of the Living Dregs",
+   "artista": "Dixie Dregs",
+   "artista_slug": "dixie-dregs",
+   "anio": 1979,
+   "primer_lanzamiento": "1979",
+   "era": "clasica",
+   "analisis_actual": "Mitad estudio, mitad escenario, y la mitad en vivo demuestra que la precisión no era truco de consola. La banda en su hábitat.",
+   "pistas": [
+    "1. Punk Sandwich (3:17)",
+    "2. Country House Shuffle (4:11)",
+    "3. The Riff Raff (3:16)",
+    "4. Long Slow Distance (6:43)",
+    "5. Night of the Living Dregs (4:15)",
+    "6. The Bash (4:20)",
+    "7. Leprechaun Promenade (3:40)",
+    "8. Patchwork (4:45)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "dixie-dregs-dregs-of-the-earth",
+   "titulo": "Dregs of the Earth",
+   "artista": "Dixie Dregs",
+   "artista_slug": "dixie-dregs",
+   "anio": 1980,
+   "primer_lanzamiento": "1980",
+   "era": "clasica",
+   "analisis_actual": "Cambio de sello sin cambio de exigencia: más músculo eléctrico, la escritura intacta. El último disco plenamente esencial del catálogo.",
+   "pistas": [
+    "1. Road Expense (3:24)",
+    "2. Pride o’ the Farm (3:40)",
+    "3. Twiggs Approved (4:29)",
+    "4. Hereafter (6:21)",
+    "5. The Great Spectacular (3:20)",
+    "6. Broad Street Strut (3:54)",
+    "7. I’m Freaking Out (9:06)",
+    "8. Old World (2:00)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "dixie-dregs-unsung-heroes",
+   "titulo": "Unsung Heroes",
+   "artista": "Dixie Dregs",
+   "artista_slug": "dixie-dregs",
+   "anio": 1981,
+   "primer_lanzamiento": "1981",
+   "era": "siguiente",
+   "analisis_actual": "Primer disco de la etapa como The Dregs: el virtuosismo intacto en un envase más pulido y radial, señal de los tiempos. Correcto, aunque menos filoso que la racha clásica.",
+   "pistas": [
+    "1. Cruise Control (3:44)",
+    "2. Divided We Stand (5:00)",
+    "3. I'll Just Pick (3:27)",
+    "4. Day 444 (7:02)",
+    "5. Rock & Roll Park (4:35)",
+    "6. Attila The Hun (4:01)",
+    "7. Kat Food (4:58)",
+    "8. Go For Baroque (3:56)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "dixie-dregs-industry-standard",
+   "titulo": "Industry Standard",
+   "artista": "Dixie Dregs",
+   "artista_slug": "dixie-dregs",
+   "anio": 1982,
+   "primer_lanzamiento": "1982",
+   "era": "siguiente",
+   "analisis_actual": "Cierre de la primera etapa, con voces invitadas en un intento de ampliar público. Tiene pasajes instrumentales de primera, pero el compromiso comercial se nota.",
+   "pistas": [
+    "1. Assembly Line (4:25)",
+    "2. Crank It Up (3:35)",
+    "3. Chips Ahoy (3:39)",
+    "4. Bloodsucking Leeches (3:59)",
+    "5. Up in the Air (2:27)",
+    "6. Ridin’ High (3:40)",
+    "7. Where’s Dixie? (3:57)",
+    "8. Conversation Piece (6:12)",
+    "9. Vitamin Q (5:32)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "dixie-dregs-full-circle",
+   "titulo": "Full Circle",
+   "artista": "Dixie Dregs",
+   "artista_slug": "dixie-dregs",
+   "anio": 1994,
+   "primer_lanzamiento": "1994-06-07",
+   "era": "siguiente",
+   "analisis_actual": "Reunión de estudio con el oficio intacto y pocas sorpresas. Digno epílogo discográfico del grupo en estudio.",
+   "pistas": [
+    "1. Aftershock (3:45)",
+    "2. Perpetual Reality (5:33)",
+    "3. Calcutta (5:28)",
+    "4. Goin’ to Town (3:39)",
+    "5. Pompous Circumstances (3:22)",
+    "6. Shapes of Things (3:47)",
+    "7. Sleeveless in Seattle (4:06)",
+    "8. Good Intentions (4:00)",
+    "9. Yeolde (2:18)",
+    "10. Ionized (4:00)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "egg-egg",
+   "titulo": "Egg",
+   "artista": "Egg",
+   "artista_slug": "egg",
+   "anio": 1970,
+   "primer_lanzamiento": "1970",
+   "era": "clasica",
+   "analisis_actual": "Debut del trío: órgano al frente, compases cambiantes y un descaro juvenil que ya apunta al método. El laboratorio de Stewart abre sus puertas.",
+   "pistas": [
+    "1. Bulb (0:09)",
+    "2. While Growing My Hair (4:02)",
+    "3. I Will Be Absorbed (5:11)",
+    "4. Fugue in D Minor (2:49)",
+    "5. They Laughed When I Sat Down at the Piano... (1:21)",
+    "6. The Song of McGillicudie the Pusillanimous (Or Don't Worry James, Your Socks Are Hanging in the Coal Cellar With Thomas) (5:09)",
+    "7. Boilk (1:03)",
+    "8. Symphony No. 2: Movement 1 / Movement 2 / Blane / Movement 4 (20:43)",
+    "9. Seven Is a Jolly Good Time (2:48)",
+    "10. You Are All Princes (3:44)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "egg-the-polite-force",
+   "titulo": "The Polite Force",
+   "artista": "Egg",
+   "artista_slug": "egg",
+   "anio": 1971,
+   "primer_lanzamiento": "1971",
+   "era": "clasica",
+   "analisis_actual": "El experimento en su punto más denso: la escritura métrica de Stewart alcanza aquí su formulación más rigurosa. Para muchos, la obra central del trío.",
+   "pistas": [
+    "1. A Visit to Newport Hospital (8:26)",
+    "2. Contrasong (4:24)",
+    "3. Boilk (9:21)",
+    "4. Long Piece No. 3, Part 1 (5:07)",
+    "5. Long Piece No. 3, Part 2 (7:37)",
+    "6. Long Piece No. 3, Part 3 (5:02)",
+    "7. Long Piece No. 3, Part 4 (2:51)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "egg-the-civil-surface",
+   "titulo": "The Civil Surface",
+   "artista": "Egg",
+   "artista_slug": "egg",
+   "anio": 1974,
+   "primer_lanzamiento": "1974",
+   "era": "clasica",
+   "analisis_actual": "Reunión póstuma para grabar el material que había quedado en el cajón. Menos urgente que sus predecesores, pero cierra el catálogo con coherencia.",
+   "pistas": [
+    "1. Germ Patrol (8:31)",
+    "2. Wind Quartet I (2:25)",
+    "3. Enneagram (9:09)",
+    "4. Prelude (4:17)",
+    "5. Wring Out the Ground (Loosely Now) (8:11)",
+    "6. Nearch (3:27)",
+    "7. Wind Quartet II (4:45)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [],
+    "arte": [],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "elo-the-electric-light-orchestra-no-answer",
+   "titulo": "The Electric Light Orchestra (No Answer)",
+   "artista": "ELO",
+   "artista_slug": "elo",
+   "anio": 1971,
+   "primer_lanzamiento": "1971-12-03",
+   "era": "clasica",
+   "analisis_actual": "El plan de Roy Wood: continuar donde «I Am the Walrus» quedó. Chelos crudos, caos hermoso, y el título americano nacido de un recado telefónico mal anotado.",
+   "pistas": [
+    "1. 10538 Overture (5:30)",
+    "2. Look at Me Now (3:16)",
+    "3. Nellie Takes Her Bow (5:58)",
+    "4. Battle of Marston Moor (July 2nd 1644) (6:02)",
+    "5. 1st Movement (Jumping Biz) (2:58)",
+    "6. Mr. Radio (5:02)",
+    "7. Manhattan Rumble (49th Street Massacre) (4:21)",
+    "8. Queen of the Hours (3:21)",
+    "9. Whisper in the Night (4:48)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Rob Caiger (producer)"
+    ],
+    "musicos": [
+     "Bev Bevan: percussion",
+     "Bill Hunt: French horn",
+     "Jeff Lynne: percussion",
+     "Roy Wood: percussion",
+     "Steve Woolam: violin",
+     "Jeff Lynne: vocal",
+     "Roy Wood: vocal"
+    ],
+    "arte": [
+     "Darren Evans (design)",
+     "Hipgnosis (design)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "elo-elo-2",
+   "titulo": "ELO 2",
+   "artista": "ELO",
+   "artista_slug": "elo",
+   "anio": 1973,
+   "primer_lanzamiento": "1973-03-02",
+   "era": "clasica",
+   "analisis_actual": "Wood se fue a los meses de fundar la banda; Lynne toma el mando. «Roll Over Beethoven» con Beethoven citado adentro: la declaración de método.",
+   "pistas": [
+    "1. In Old England Town (Boogie #2) (6:56)",
+    "2. Mama (7:03)",
+    "3. Roll Over Beethoven (8:11)",
+    "4. From the Sun to the World (Boogie #1) (8:22)",
+    "5. Kuiama (11:19)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Jeff Lynne (producer)"
+    ],
+    "musicos": [
+     "Bev Bevan: membranophone, percussion",
+     "Michael d’Albuquerque: bass",
+     "Mike Edwards: cello",
+     "Wilfred Gibson: violin",
+     "Jeff Lynne: guitar family, Moog",
+     "Richard Tandy: keyboard, Moog",
+     "Colin Walker: cello",
+     "Michael d’Albuquerque: background vocals",
+     "Jeff Lynne: vocal",
+     "Richard Tandy: background vocals"
+    ],
+    "arte": [
+     "Mike Salisbury (art direction)",
+     "Hipgnosis (design)",
+     "Lloyd Ziff (design)",
+     "Al Vandenberg (photography)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "elo-on-the-third-day",
+   "titulo": "On the Third Day",
+   "artista": "ELO",
+   "artista_slug": "elo",
+   "anio": 1973,
+   "primer_lanzamiento": "1973-11",
+   "era": "clasica",
+   "analisis_actual": "Transición: el formato canción va ganándole terreno al experimento.",
+   "pistas": [
+    "1. Ocean Breakup / King of the Universe (4:06)",
+    "2. Bluebird Is Dead (4:22)",
+    "3. Oh No Not Susan (3:27)",
+    "4. New World Rising / Ocean Breakup (reprise) (4:06)",
+    "5. Showdown (4:12)",
+    "6. Daybreaker (3:50)",
+    "7. Ma-Ma-Ma Belle (3:52)",
+    "8. Dreaming of 4000 (5:03)",
+    "9. In the Hall of the Mountain King (6:32)"
+   ],
+   "creditos_mb": {
+    "produccion": [],
+    "musicos": [
+     "Bev Bevan: drums (drum set)",
+     "Michael d’Albuquerque: bass",
+     "Mike Edwards: cello",
+     "Mik Kaminski: violin",
+     "Jeff Lynne: guitar",
+     "Richard Tandy: piano",
+     "Jeff Lynne: vocal"
+    ],
+    "arte": [
+     "Bob Cato (art direction)",
+     "John Kehe (design)",
+     "Richard Avedon (photography)",
+     "Mainartery (design)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "elo-eldorado",
+   "titulo": "Eldorado",
+   "artista": "ELO",
+   "artista_slug": "elo",
+   "anio": 1974,
+   "primer_lanzamiento": "1974-09",
+   "era": "clasica",
+   "analisis_actual": "Su álbum conceptual pleno —un soñador tipo Walter Mitty huyendo a mundos de fantasía— y su primera orquesta real en vez de sobregrabados. La credencial que los mete en este mapa.",
+   "pistas": [
+    "1. Eldorado Overture (2:13)",
+    "2. Can’t Get It Out of My Head (4:21)",
+    "3. Boy Blue (5:19)",
+    "4. Laredo Tornado (5:30)",
+    "5. Poor Boy (The Greenwood) (2:55)",
+    "6. Mister Kingdom (5:30)",
+    "7. Nobody’s Child (3:56)",
+    "8. Illusions in G Major (2:37)",
+    "9. Eldorado (5:18)",
+    "10. Eldorado Finale (1:29)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Louis Clark (arranger)",
+     "Jeff Lynne (arranger)",
+     "Richard Tandy (arranger)",
+     "Louis Clark (conductor)",
+     "Jeff Lynne (producer)",
+     "Al Quaglieri (producer)"
+    ],
+    "musicos": [
+     "Bev Bevan: percussion",
+     "Michael d’Albuquerque: bass",
+     "Mike Edwards: cello",
+     "Mik Kaminski: violin",
+     "Jeff Lynne: guitar",
+     "Hugh McDowell: cello",
+     "Richard Tandy: piano",
+     "Jeff Lynne: background vocals",
+     "Richard Tandy: background vocals"
+    ],
+    "arte": [
+     "John Kehe (design)",
+     "Christine Wilson (art direction)",
+     "John Williams (art direction)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "elo-face-the-music",
+   "titulo": "Face the Music",
+   "artista": "ELO",
+   "artista_slug": "elo",
+   "anio": 1975,
+   "primer_lanzamiento": "1975-10",
+   "era": "clasica",
+   "analisis_actual": "«Evil Woman»: el hit como nueva unidad de medida. El prog queda atrás sin drama.",
+   "pistas": [
+    "1. Fire on High (5:30)",
+    "2. Waterfall (4:09)",
+    "3. Evil Woman (4:35)",
+    "4. Nightrider (4:22)",
+    "5. Poker (3:31)",
+    "6. Strange Magic (4:31)",
+    "7. Down Home Town (3:51)",
+    "8. One Summer Dream (5:46)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Louis Clark (arranger)",
+     "Jeff Lynne (arranger)",
+     "Richard Tandy (arranger)",
+     "Louis Clark (conductor)",
+     "Louis Clark (instrument arranger: strings)",
+     "Jeff Lynne (instrument arranger: strings)",
+     "Richard Tandy (instrument arranger: strings)",
+     "Marc Mann (engineer)",
+     "Ryan Ulyate (engineer)",
+     "Jeff Lynne (producer)",
+     "Jeff Magid (producer)"
+    ],
+    "musicos": [
+     "Bev Bevan: percussion",
+     "Melvyn Gale: cello",
+     "Kelly Groucutt: bass",
+     "Mik Kaminski: violin",
+     "Jeff Lynne: guitar",
+     "Hugh McDowell: cello",
+     "Richard Tandy: piano",
+     "Bev Bevan: background vocals",
+     "Kelly Groucutt: background vocals",
+     "Jeff Lynne: background vocals"
+    ],
+    "arte": [
+     "Mick Haggerty (design)",
+     "John Kehe (design)",
+     "Norman Seeff (photography)",
+     "Fred Valentine (photography)",
+     "Bob Ellis (photography)",
+     "Gary Merrin (photography)",
+     "Barry Plummer (photography)",
+     "Michael Putland (photography)",
+     "Mainartery (design)"
+    ],
+    "lugares": []
+   }
+  },
+  {
+   "album_slug": "elo-a-new-world-record",
+   "titulo": "A New World Record",
+   "artista": "ELO",
+   "artista_slug": "elo",
+   "anio": 1976,
+   "primer_lanzamiento": "1976-09-11",
+   "era": "clasica",
+   "analisis_actual": "La máquina pop perfecta ya montada; el chelo como decoración de lujo.",
+   "pistas": [
+    "1. Tightrope (5:05)",
+    "2. Telephone Line (4:40)",
+    "3. Rockaria! (3:14)",
+    "4. Mission (A World Record) (4:28)",
+    "5. So Fine (3:56)",
+    "6. Livin’ Thing (3:33)",
+    "7. Above the Clouds (2:18)",
+    "8. Do Ya (3:46)",
+    "9. Shangri‐La (5:34)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Louis Clark (conductor)",
+     "Louis Clark (orchestrator)",
+     "Jeff Lynne (orchestrator)",
+     "Richard Tandy (orchestrator)",
+     "Louis Clark (vocal arranger: choir vocals)",
+     "Jeff Lynne (vocal arranger: choir vocals)",
+     "Richard Tandy (vocal arranger: choir vocals)",
+     "Jeff Lynne (composer)",
+     "Mack (engineer)",
+     "Dick Plant (engineer)",
+     "John Richards (engineer)",
+     "Duane Scott (engineer)",
+     "Jeff Lynne (lyricist)",
+     "Jeff Lynne (producer)",
+     "Marc Mann (engineer)",
+     "Ryan Ulyate (engineer)",
+     "Jeff Magid (producer)"
+    ],
+    "musicos": [
+     "Bev Bevan: percussion",
+     "Melvyn Gale: cello",
+     "Kelly Groucutt: percussion",
+     "Mik Kaminski: violin",
+     "Jeff Lynne: percussion",
+     "Hugh McDowell: cello",
+     "Richard Tandy: percussion",
+     "Bev Bevan: background vocals",
+     "Kelly Groucutt: vocal",
+     "Jeff Lynne: background vocals",
+     "Richard Tandy: background vocals"
+    ],
+    "arte": [
+     "Ria Lewerke (art direction)",
+     "John Kosh (design/illustration)",
+     "Moshe Brakha (photography)",
+     "John Kosh (photography)",
+     "Andrew Kent (photography)",
+     "Barry Plummer (photography)"
+    ],
+    "lugares": [
+     "Musicland Studios (mixed at)",
+     "De Lane Lea Studios (recorded at)",
+     "Musicland Studios (recorded at)"
+    ]
+   }
+  },
+  {
+   "album_slug": "elo-out-of-the-blue",
+   "titulo": "Out of the Blue",
+   "artista": "ELO",
+   "artista_slug": "elo",
+   "anio": 1977,
+   "primer_lanzamiento": "1977-10-28",
+   "era": "clasica",
+   "analisis_actual": "Doble monumental escrito en tres semanas y media en un chalet suizo; «Mr. Blue Sky» como Sgt. Pepper de bolsillo.",
+   "pistas": [
+    "[12\" Vinyl 1] 1. Turn to Stone (3:42)",
+    "[12\" Vinyl 1] 2. It’s Over (4:08)",
+    "[12\" Vinyl 1] 3. Sweet Talkin’ Woman (3:48)",
+    "[12\" Vinyl 1] 4. Across the Border (3:52)",
+    "[12\" Vinyl 1] 5. Night in the City (4:02)",
+    "[12\" Vinyl 1] 6. Starlight (4:30)",
+    "[12\" Vinyl 1] 7. Jungle (3:51)",
+    "[12\" Vinyl 1] 8. Believe Me Now (1:21)",
+    "[12\" Vinyl 1] 9. Steppin’ Out (4:38)",
+    "[12\" Vinyl 2] 1. Standin’ in the Rain (4:20)",
+    "[12\" Vinyl 2] 2. Big Wheels (5:10)",
+    "[12\" Vinyl 2] 3. Summer and Lightning (4:13)",
+    "[12\" Vinyl 2] 4. Mr. Blue Sky (5:05)",
+    "[12\" Vinyl 2] 5. Sweet Is the Night (3:26)",
+    "[12\" Vinyl 2] 6. The Whale (5:05)",
+    "[12\" Vinyl 2] 7. Birmingham Blues (4:21)",
+    "[12\" Vinyl 2] 8. Wild West Hero (4:40)"
+   ],
+   "creditos_mb": {
+    "produccion": [
+     "Louis Clark (orchestrator)",
+     "Jeff Lynne (orchestrator)",
+     "Richard Tandy (orchestrator)",
+     "Louis Clark (vocal arranger: choir vocals)",
+     "Jeff Lynne (vocal arranger: choir vocals)",
+     "Richard Tandy (vocal arranger: choir vocals)",
+     "Jeff Lynne (composer)",
+     "Mack (engineer)",
+     "Jeff Lynne (lyricist)",
+     "Jeff Lynne (producer)",
+     "Louis Clark (conductor)"
+    ],
+    "musicos": [
+     "Bev Bevan: percussion",
+     "Melvyn Gale: cello",
+     "Kelly Groucutt: percussion",
+     "Mik Kaminski: violin",
+     "Jeff Lynne: percussion",
+     "Hugh McDowell: cello",
+     "Richard Tandy: synthesizer",
+     "Bev Bevan: background vocals",
+     "Kelly Groucutt: vocal",
+     "Jeff Lynne: background vocals"
+    ],
+    "arte": [
+     "John Kosh (art direction)",
+     "Ria Lewerke (art direction)",
+     "Michael Bryan (design/illustration)",
+     "長岡秀星 (design/illustration)",
+     "Ria Lewerke (design)",
+     "長岡秀星 (illustration)"
+    ],
+    "lugares": [
+     "Musicland Studios (mixed at)",
+     "Musicland Studios (recorded at)"
+    ]
+   }
+  }
+ ]
+}

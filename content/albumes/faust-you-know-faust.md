@@ -16,6 +16,25 @@ critica_nota: "Recepción correcta dentro del nicho; sin peso canónico."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación mínima, sello propio."
+historia: "editorial"
 ---
 
 Disco de estudio de la etapa Klangbad, con Hans Joachim Irmler al frente de la cocina sonora: viñetas instrumentales que alternan abrasión y calma. Menos citado que Rien, pero coherente con el método de siempre.
+
+<!-- historia:editorial -->
+
+## La historia
+
+La reactivación de Faust en los noventa no produjo un grupo sino un territorio compartido, con varios de sus integrantes históricos trabajando en paralelo y no siempre juntos. You Know Faust, de 1996, corresponde a la órbita de Hans Joachim Irmler, el organista del grupo original, que había montado su propio estudio y sello en el sur de Alemania y desde ahí condujo una parte considerable de la obra posterior. El disco llega poco después de Rien y suena a otra cosa: donde ese título trabajaba con grandes masas de sonido tratado, este vuelve al formato que la banda había inventado en su etapa clásica, el de la sucesión de fragmentos.
+
+La estructura es la tesis. Diecisiete cortes, varios de menos de un minuto, alternan piezas desarrolladas con viñetas que apenas alcanzan a instalarse. «Hurricane» abre con energía de banda, y enseguida «Tenne Laufen» corta el impulso con veinte segundos de nada. El recurso se repite con los cortes titulados «Pause», que no son transiciones sino interrupciones declaradas, y con miniaturas como «Irons», «Winds» o «Hüttenfreak», que funcionan como respiraderos. El peso del disco recae en unas pocas piezas largas: «C Pluus/Pause» estira un clima insistente, «Na Sowas» se toma más de catorce minutos para desplegar una deriva casi sin acontecimientos y «Teutonentango», con ese título que hace la broma sola, cierra retomando el humor pesado que la banda nunca abandonó. No hay concepto narrativo ni letras que sostengan un relato; el disco es instrumental en su mayor parte y su tema es la textura.
+
+## La producción
+
+Todo el trabajo pasa por el criterio de estudio de Irmler, con el órgano y los tratamientos electrónicos como columna del sonido y con la mesa entendida otra vez como instrumento. La alternancia entre abrasión y calma no es un accidente de secuencia sino una decisión de producción: los pasajes de mayor densidad se cortan a propósito antes de agotarse, y las viñetas breves cumplen la función de reajustar el oído. El registro suena menos pulido que el de un disco de sello grande y más nítido que el de los vinilos de Wümme, con espacio y aire alrededor de cada fuente.
+
+Los créditos verificables de esta edición no detallan formación, ingeniería ni arte, de modo que no corresponde nombrar participantes más allá de la conducción del proyecto. Lo que sí queda claro es la lógica de trabajo: estudio propio, tiempo propio, ninguna presión externa de formato.
+
+## Recepción y legado
+
+Se lo cita bastante menos que Rien, y no sin motivo: le falta un centro, y la insistencia en fragmentar puede leerse tanto como fidelidad al método como como falta de material. Pero es un disco coherente con lo que la banda había hecho siempre, y hay pasajes que sostienen la comparación con la etapa clásica. Su lugar es el de pieza fundacional de una segunda discografía, la que se construyó alrededor del estudio de Irmler y produjo varios títulos en pocos años. Para el oyente que llega desde la trilogía no es la escala siguiente, pero para entender que Faust no fue una banda sino un método transferible, este disco es un ejemplo útil.

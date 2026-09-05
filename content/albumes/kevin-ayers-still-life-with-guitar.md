@@ -16,6 +16,23 @@ critica_nota: "Recibido con simpatía discreta; sin mayor eco."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Escala de culto, como casi todo lo suyo."
+historia: "editorial"
 ---
 
 Formato despojado, voz gastada y dignidad recuperada: un disco menor pero honesto, que cerró su catálogo durante quince años.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Still Life With Guitar llega después de un disco que había servido para frenar la caída y adopta la decisión opuesta: en lugar de más producción, menos. Ayers se planta con la guitarra, un puñado de canciones cortas y una voz que ya no disimula el desgaste, y por primera vez en años el desgaste no es un problema sino el material. El título lo dice sin adornos: un bodegón, naturaleza muerta con guitarra, la escena quieta de alguien que ha dejado de perseguir cualquier cosa.
+
+Las canciones son pequeñas y casi todas mirando hacia atrás. «Feeling This Way» y «Something in Between» hablan desde una zona intermedia entre la resignación y la calma, «There Goes Johnny» y «Ghost Train» recuperan la vena narrativa que había abandonado, y «Thank You Very Much» agradece sin especificar a quién, con esa cortesía ambigua que era su recurso favorito. «I Don't Depend on You» es lo más cercano a una declaración de independencia tardía, y «When Your Parents Go to Sleep» vuelve al terreno del deseo adolescente con una mirada que ya no puede ser inocente. «M‑16» rompe el tono con una alusión seca a las armas y a la violencia, y el cierre elige «Irene Goodnight», el viejo estándar que popularizó Leadbelly, cantado como una canción de cuna al final de una noche larga. Es un repertorio menor y consciente de serlo, ordenado con un pudor que no había tenido en toda la década anterior.
+
+## La producción
+
+La clave es la contención. El disco está grabado con formato reducido, guitarras acústicas y eléctricas al frente, teclados y percusión discretos, sin coros procesados ni sintetizadores que fechen el conjunto, y con la voz colocada muy cerca, aceptando el aire y las asperezas. Es la primera vez desde los setenta que una grabación suya suena como suena él, y ese acierto es de dirección más que de tecnología. Ollie Halsall vuelve a acompañarlo y su guitarra sostiene varias piezas; murió ese mismo año, y con él terminó la sociedad musical más larga y más productiva de la vida de Ayers. No constan créditos verificados de estudio, ingeniería ni portada para la edición original, así que no cabe atribuir el sonido a manos concretas más allá de lo evidente.
+
+## Recepción y legado
+
+Se lo recibió con simpatía y con la sensación de que llegaba tarde, y después vino el silencio: quince años sin disco nuevo, un retiro no anunciado que a nadie sorprendió. Hoy se escucha como el mejor de sus títulos tardíos anteriores al regreso, precisamente porque no intenta demostrar nada. No hay aquí una canción que reordene su discografía, pero sí una dignidad recuperada que explica por qué la generación siguiente pudo acercarse a él sin condescendencia. Cuando volvió a grabar, lo hizo con este disco como referencia de tono: voz gastada, arreglos sobrios y melancolía sin autocompasión. La cadena de discos que empezó como un incumplimiento se cierra aquí con algo pequeño y verdadero.

@@ -16,6 +16,23 @@ critica_nota: "Recibido con calidez como testamento digno."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación reducida, valor sobre todo simbólico."
+historia: "editorial"
 ---
 
 Despedida en clave de blues descarnado, con May y Frank Holland en formato casi desnudo, publicada tras la muerte del cantante ese mismo año. El círculo se cierra donde había empezado: en el blues.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El último disco de The Pretty Things es también el más despojado de todos, y llega tras una decisión consciente: retirarse de los escenarios eléctricos y seguir tocando solo en formato acústico. Phil May y Dick Taylor, que se habían conocido en la escuela de arte antes incluso de que existiera el grupo, vuelven al material que los había puesto en marcha, el blues del delta y sus derivaciones, sin la distorsión ni la velocidad con que lo habían atacado en los sesenta. El disco se publicó en 2020, el mismo año de la muerte de May, lo que convirtió un proyecto pensado como epílogo en un adiós literal.
+
+El repertorio es en su mayoría ajeno y elegido con criterio de veterano. «Can't Be Satisfied» y «Come Into My Kitchen» son las dos raíces, Muddy Waters y Robert Johnson, y «Love in Vain» cierra ese triángulo. «Ain't No Grave» y «Black Girl» vienen del cancionero tradicional y funcionan como memento mori sin subrayado. «Redemption Day» aporta el material más moderno del conjunto, y las piezas propias —«Faultline», «Bright as Blood», «To Build a Wall», «Another World»— se sostienen sin desentonar junto a los clásicos, algo que no siempre le sale bien a una banda de esta edad. La voz de May, agrietada y sin ningún intento de disimularlo, es el argumento central del disco: canta como quien ya no tiene nada que demostrar.
+
+## La producción
+
+Mark St. John figura como productor, ingeniero y responsable de la mezcla, y además aporta percusión, lo que da idea de lo reducido del operativo. La instrumentación es casi toda de guitarras acústicas: Taylor, Henry Padovani, George Woosey y Sam Brothers se reparten las cuerdas, y el violín de Jon Wigg aparece como único color ajeno al formato, con una función más de sombra que de adorno. No hay batería convencional ni bajo eléctrico marcando el suelo; el pulso lo llevan las púas y los golpes de percusión, y el espacio que queda alrededor de la voz es enorme y deliberado. La grabación deja respirar los ruidos de mástil y las respiraciones, decisión coherente con un repertorio que se hunde o se salva por la credibilidad del cantante. El arte y el diseño corren a cargo de Beech, con St. John también en la parte gráfica.
+
+## Recepción y legado
+
+Se recibió con la mezcla de respeto y tristeza que impone la circunstancia, y esa lectura sentimental le ha hecho tanto favor como daño: es un disco pequeño, sin ambición formal, que no compite con SF Sorrow ni pretende hacerlo. Su valor está en el cierre del círculo, en que un grupo que empezó tocando blues británico de garaje termine tocando blues sin más, y en que lo haga sin caricatura ni reverencia de curador. Como último capítulo de una discografía larga y desordenada es una despedida más digna que la que suelen conseguir sus contemporáneos.

@@ -15,6 +15,25 @@ comercial_fuente: "charts"
 estrellas_critica: 3
 critica_fuente: "editorial"
 critica_nota: "Debut orquestal ambicioso; recepción tibia, revalorización parcial posterior."
+historia: "editorial"
 ---
 
 Debut con orquesta propia de gira: la ambición instalada antes que el presupuesto.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El grupo se forma en Oldham, un pueblo de molinos al norte de Manchester, con la fusión de dos bandas locales de las que salen las cuatro piezas definitivas: John Lees a la guitarra y la voz, Stuart «Woolly» Wolstenholme a los teclados, Les Holroyd al bajo y Mel Pritchard a la batería. Antes del debut viven en régimen comunal en una granja alquilada de los alrededores, ensayando a diario con el dinero de un empresario local que creyó en ellos; de ahí sale un repertorio ya escrito cuando el sello Harvest los ficha, y con él la decisión que marcaría su carrera entera: escribir para banda y orquesta desde el primer disco, sin haber vendido todavía un solo álbum.
+
+El resultado es un debut sin concepto pero con una ambición muy clara. «Taking Some Time On» abre en clave de blues eléctrico y órgano sucio, la cara más terrenal del grupo; «Mother Dear» y «The Sun Will Never Shine» instalan el tono pastoral y melancólico que sería su marca, con armonías vocales a tres voces heredadas del folk-rock californiano; «Good Love Child» y «The Iron Maiden» ensayan un rock más directo, y esta última se quedaría años en el repertorio en vivo. El disco se juega todo en «Dark Now My Sky», doce minutos de texto apocalíptico, guitarra y orquesta en los que el grupo confunde a propósito la escala de sus medios con la de sus intenciones. El siguiente álbum ordenaría esa fórmula; este la propone en bruto.
+
+## La producción
+
+Se grabó en Londres con la formación fundacional y una orquesta contratada para la ocasión, cuyos arreglos y dirección corrieron a cargo de Robert John Godfrey, un músico entonces jovencísimo que sería también el arquitecto de la Barclay James Harvest Symphony Orchestra con la que salieron de gira. Esa orquesta propia, sostenida a pérdida, es la anécdota central de la etapa: los conciertos costaban más de lo que ingresaban y el grupo cargó con la deuda durante años. Godfrey reclamaría después su parte en aquellos arreglos y la relación terminó en litigio, con lo que su nombre desapareció de la historia oficial del grupo durante mucho tiempo.
+
+En lo sonoro conviven dos discos. Uno es de banda de rock, con la guitarra de Lees y el órgano de Wolstenholme peleando por el mismo espacio; el otro es de cámara, con cuerdas escritas de verdad y no como colchón decorativo. El Mellotron, que sería su instrumento emblema, aparece aquí todavía como recurso entre otros.
+
+## Recepción y legado
+
+Pasó sin ruido y con reseñas condescendientes, que ya empezaron a compararlos con los Moody Blues en lugar de escucharlos. Visto desde hoy es un debut desigual y valioso: tiene las canciones peor terminadas de su primera etapa y, a la vez, la ambición intacta que en dos discos daría frutos mejores. «Dark Now My Sky» no aguanta comparada con lo que harían después, pero explica el proyecto entero. Y el precio de la orquesta condicionó todo lo demás, incluido el repliegue posterior hacia el Mellotron como sustituto barato y luego como identidad. Es, más que un disco a defender, el documento de una banda de clase obrera decidida a sonar más grande de lo que podía pagar.

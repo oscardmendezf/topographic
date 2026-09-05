@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Muy valorado como su disco más psicodélico y autosuficiente"
+historia: "editorial"
 ---
 
 Fuera la orquesta, adentro el Mellotron de Pinder: la solución barata que definió el sonido de todo el género. Misticismo de divulgación («Om», Timothy Leary).
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después de un disco que debía su forma a una orquesta prestada, los Moody Blues tomaron la decisión que definiría su sonido: prescindir de músicos externos y tocarlo todo ellos. La idea era menos artística que práctica —no había presupuesto ni ganas de repetir el montaje anterior—, pero obligó a Mike Pinder a convertir el Mellotron en el sustituto integral de las cuerdas, y de esa sustitución nace buena parte del vocabulario del prog sinfónico. El grupo se repartió además una colección de instrumentos que no dominaba, del sitar a la tabla, con la lógica de que la torpeza era preferible a la contratación.
+
+El concepto es una búsqueda: el acorde perdido del título funciona como metáfora de una revelación que se persigue por vías químicas, orientales y sentimentales. «Departure» es un preludio hablado de Graeme Edge que anuncia el viaje; «Ride My See‐Saw», de Lodge, lo empuja con un riff que sería su caballo de batalla en directo; «Dr. Livingstone, I Presume» convierte la exploración geográfica en chiste; «House of Four Doors», partida en dos, recorre puertas que se abren a distintas épocas de la música occidental. «Legend of a Mind», de Ray Thomas, es el centro cómico y afectuoso del disco, dedicado a Timothy Leary y sostenido por un solo de flauta que se estira como un planeo. «Visions of Paradise» y «The Actor» aportan el costado melódico, y el final encadena el poema «The Word» con «Om», un mantra con cuerdas de Mellotron que cierra la búsqueda sin resolverla.
+
+## La producción
+
+La grabación se hizo con la banda cubriendo todos los papeles: Hayward alterna guitarras de doce cuerdas, sitar, tabla, clavecín y Mellotron; Pinder suma piano, autoarpa, violonchelo y su propio Mellotron; Lodge toca bajo, violonchelo y percusión; Thomas aporta flauta en varios registros y saxo soprano; Edge, además de la batería, se ocupa de tabla y timbales. Adrian Martins figura como asistente de ingeniería. El resultado es un disco de capas, construido por superposición más que por interpretación en vivo, con efectos de fase y filtrados que en «The Best Way to Travel» buscan directamente la sensación del viaje mental que describe la letra. La tapa ilustrada por Phil Travers, con su figura sentada dentro de un ciclo de imágenes, inaugura la identidad gráfica del grupo para toda la etapa.
+
+## Recepción y legado
+
+Es el disco donde la fórmula queda fijada, para bien y para mal: Mellotron omnipresente, poemas recitados en los extremos, misticismo accesible y armonías vocales muy trabajadas. Funcionó de inmediato y marcó a una generación de teclistas que entendió aquí que un solo instrumento podía hacer las veces de orquesta. Su punto débil es la ingenuidad de la divulgación esotérica, que hoy se escucha con más ternura que respeto, y cierto exceso de ideas por minuto. Aun así conserva una frescura que a los discos siguientes les falta: todavía se oye a un grupo probando cosas que no sabe si van a salir bien.

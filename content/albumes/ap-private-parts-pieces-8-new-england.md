@@ -16,6 +16,23 @@ critica_nota: "Consenso tibio: correcta, sin relieve dentro de la serie."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Catálogo de culto, sin presencia comercial."
+historia: "editorial"
 ---
 
 Octava entrega de la serie: piezas acústicas breves grabadas en la intimidad habitual. Sin giros nuevos respecto de las anteriores. El valor está en la constancia, no en la sorpresa.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Venía de firmar su obra continua más ambiciosa y volvió, sin transición y sin explicaciones, al cuaderno de apuntes. La octava entrega de la serie íntima llega con veinte cortes, la mayoría por debajo de los cuatro minutos, y con el mismo procedimiento de siempre: piezas escritas y grabadas en casa, reunidas cuando ya son suficientes para llenar un disco. A esta altura la serie ya no necesita justificarse; es un formato asentado, y el interés está en lo que hace dentro de él y no en la sorpresa que provoque.
+
+El hilo temático, cuando aparece, es marítimo. La «New England Suite» reparte tres movimientos y da nombre al conjunto, «Sunrise and Sea Monsters» ocupa diez minutos, los más extensos del disco, con una escritura que se desarrolla con paciencia poco habitual en la serie, y la suite «Pieces of Eight» juega con el vocabulario de la navegación antigua en sus tres partes, de la leva forzosa de marineros al mar de los Sargazos y a una canción de cubierta. Alrededor de ese eje se ordenan las miniaturas: «Aubade» abre en un minuto exacto, «Sanctuary» y «Cathedral Woods» buscan el registro sacro que le sale con naturalidad, «La Dolorosa» y «Unheard Cry» ponen la nota grave, «Iona» pasa en menos de un minuto como una estampa insular, y «Jaunty Roads», «Spirals» e «In the Maze» son apuntes de pocos segundos dejados tal cual. El cierre, «Now They've All Gone», es la pieza más larga del tramo final y también la más melancólica, con un título que en un catálogo tan solitario suena a balance.
+
+## La producción
+
+Sin productor ni estudio acreditados, el disco es otra vez producto del estudio propio, y en esta entrega la balanza vuelve hacia lo acústico después del predominio de los teclados en la anterior. Las guitarras clásica y de doce cuerdas están grabadas de cerca, con poca reverberación añadida, y los teclados se limitan a sostener fondos en las piezas más extensas. La diferencia técnica respecto de las entregas de los setenta está en la limpieza: ya no hay ruido de cinta ni saltos de nivel entre corte y corte, lo que da al conjunto una uniformidad que se agradece y que al mismo tiempo le quita algo del encanto casero de los primeros volúmenes. Las piezas breves se dejan sin desarrollar deliberadamente, con finales abiertos, y las tres suites son las únicas que reciben tratamiento de composición cerrada.
+
+## Recepción y legado
+
+Pasó sin ruido, como todas las entregas de la serie, y su lugar en el catálogo es de continuidad: no aporta un giro, no propone una regla nueva y no intenta convencer a nadie que no estuviera ya convencido. Lo que ofrece es constancia y un nivel de escritura sostenido, con «Sunrise and Sea Monsters» y la suite marinera como los tramos que se recuerdan. Para el oyente que llega desde su pasado en Genesis resulta indiferenciable de las entregas anteriores, y ese es a la vez el reproche y la explicación de por qué la serie duró tanto: era el sitio donde podía trabajar sin rendir cuentas.

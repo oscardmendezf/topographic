@@ -16,6 +16,25 @@ critica_nota: "Más irregular que el Acto I; «Watermelon» lo redime."
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Acompañó el arrastre del primer acto."
+historia: "editorial"
 ---
 
 Cierre de la ópera: más disperso que el primer acto, pero contiene «Watermelon in Easter Hay», quizá su solo de guitarra más querido. El conjunto se lee mejor como obra única.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El segundo tramo de Joe's Garage lleva la ópera hacia donde el primer acto solo insinuaba: la degradación completa del protagonista y la victoria del sistema que lo vigila. Joe pasa por la Iglesia de la Aparatología, descubre el sexo con electrodomésticos, contagia y es contagiado, termina preso y sale a un mundo donde la música ya está prohibida. «A Token of His Extreme» y «Stick It Out» abren con el episodio de la máquina y una letra en alemán deliberadamente absurda; «Syborg» es la escena central de esa deriva, con el robot doméstico que acaba destrozado; «Dong Work for Yuda» retrata en clave de jerga al jefe de plomeros y guardaespaldas de la banda; «Keep It Greasy» es la canción más brillante del acto, con una métrica irregular que la banda toca como si fuera natural.
+
+La última parte cambia de temperatura. «Outside Now» muestra a Joe en la celda imaginando los solos de guitarra que ya no podrá tocar, y es el corazón conceptual de toda la obra: la música existe en la cabeza incluso cuando está prohibida. «He Used to Cut the Grass» y «Packard Goose» prolongan el desahogo, esta última con la diatriba contra los críticos y la frase que resume la ética del disco, aquello de que la información no es conocimiento, el conocimiento no es sabiduría y la sabiduría no es verdad. Después llega «Watermelon in Easter Hay», el solo que Joe imagina antes de rendirse: una melodía lenta sobre un pulso suspendido, sin ironía y sin coartada, probablemente lo más emotivo que Zappa grabó. Y como si eso resultara insoportable, cierra con «A Little Green Rosetta», un coro desafinado de todos los presentes en el estudio que desactiva la solemnidad de un manotazo.
+
+## La producción
+
+La banda es la misma del primer acto y el método también: bases de estudio ejecutadas con precisión mecánica, voces principales de Ike Willis, la narración del Central Scrutinizer interviniendo para hilar los episodios, y solos incorporados mediante xenocronía, extraídos de grabaciones en directo y montados sobre pistas con las que no coincidían en origen. La excepción notoria es «Watermelon in Easter Hay», tocada de principio a fin sobre su propia base, lo que explica su carácter distinto: hay respiración, no montaje.
+
+El sonido es más seco y menos cantable que el del primer disco, con largos tramos instrumentales y una mezcla que privilegia la claridad por encima del volumen. La secuencia de estos dos actos, publicados como álbum doble poco después del primero, obliga a escuchar la obra completa en orden para que la historia se sostenga.
+
+## Recepción y legado
+
+Cayó con menos entusiasmo que el acto inicial, y la objeción es razonable: hay tramos donde la narración pesa más que la música y el chiste escatológico se repite. Pero también contiene lo mejor del proyecto. «Watermelon in Easter Hay» se convirtió en la pieza que sus seguidores reclaman por encima de todas, y «Outside Now» y «Packard Goose» son de sus letras más citadas. Hoy la ópera se lee como bloque único, y en ese formato Joe's Garage es la obra en la que Zappa juntó sátira, virtuosismo y una idea seria sobre la libertad artística sin que ninguna de las tres tapara a las otras.

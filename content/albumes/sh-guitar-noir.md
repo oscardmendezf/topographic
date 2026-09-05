@@ -16,6 +16,23 @@ critica_nota: "Recepción mixta: celebrado el regreso, discutidas las canciones.
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Circulación de sello chico, sin llegada masiva."
+historia: "editorial"
 ---
 
 Regreso al disco eléctrico con canciones tras años de silencio discográfico. Atmósferas nocturnas, voz hablada-cantada y guitarra más contenida que virtuosa: un intento de sonar contemporáneo en los noventa sin renegar del oficio. Reabrió una carrera que parecía estancada, aunque el material es desparejo.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después de Momentum, Hackett pasó años sin publicar un disco eléctrico y sin contrato con un sello grande, en una travesía del desierto que amenazaba con volverse definitiva. Guitar Noir es el regreso, y lo interesante es que no intenta recuperar el terreno perdido imitando lo que había funcionado antes. El título propone una clave estética antes que un género: atmósferas nocturnas, penumbra, cierta sordidez urbana, y una guitarra que renuncia a la exhibición para acompañar climas. Es un intento de sonar contemporáneo en los noventa sin renegar del oficio de los setenta.
+
+«There Are Many Sides to the Night» es la pieza que da sentido a todo el proyecto: casi siete minutos de guitarra española, voz casi hablada y una melodía que se despliega con una calma que Hackett no se había permitido en una década. «Vampyre With a Healthy Appetite» lleva la vertiente narrativa al extremo, con un relato de terror recitado sobre una base inquietante, y «Dark as the Grave» insiste en la misma penumbra. «In the Heart of the City» mira la miseria urbana con una mezcla de compasión y espanto, y «Little America» dispara contra la colonización cultural. «Sierra Quemada» y «Walking Away From Rainbows» son los instrumentales, ambos de raíz acústica y ambos entre lo mejor del disco. «Take These Pearls» y «Lost in Your Eyes» buscan el formato canción con menos convicción, y «Tristesse» cierra confirmando que el material más logrado es el que menos ruido hace.
+
+## La producción
+
+Hackett produjo el álbum con apoyo ejecutivo externo, en un contexto de medios modestos que se traduce en un sonido menos aparatoso que el de sus discos de los ochenta. La programación rítmica sigue presente, pero está tratada con más sobriedad y sirve de fondo en lugar de ocupar el centro, y los teclados dibujan planos oscuros sobre los que la guitarra entra y sale. La voz cambia de registro: en lugar de forzar el canto, Hackett adopta un tono intermedio entre lo hablado y lo cantado que le sienta mucho mejor y que se convertiría en un recurso habitual de sus discos posteriores. El álbum es largo, con doce piezas de estilos dispares, y esa extensión juega en su contra. Kim Poor firmó la dirección de arte y la ilustración, cerrando una colaboración que había acompañado casi todo el catálogo.
+
+## Recepción y legado
+
+Reabrió una carrera que parecía estancada y devolvió a Hackett a la conversación del progresivo justo cuando el género empezaba a rehabilitarse. El material es desparejo, y esa es la objeción constante: hay tres o cuatro piezas de primer nivel repartidas entre otras que no pasan de correctas. Su valor está en el hallazgo del tono, esa penumbra de guitarra contenida y voz baja que definiría toda su etapa posterior y que le permitió trabajar con independencia durante las décadas siguientes. «There Are Many Sides to the Night» dio nombre a un disco en vivo y quedó como una de las cimas tardías de su repertorio.

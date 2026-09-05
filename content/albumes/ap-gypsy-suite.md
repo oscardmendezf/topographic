@@ -16,6 +16,23 @@ critica_nota: "Edición periférica, prácticamente sin crítica registrada."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Distribución mínima; sin impacto."
+historia: "editorial"
 ---
 
 Suite instrumental grabada con Harry Williamson y publicada mucho después de su gestación. Compañera menor de Tarka: colores orquestales y acústicos parecidos, menos ambición. Pieza para completistas.
+
+<!-- historia:editorial -->
+
+## La historia
+
+La sociedad con Harry Williamson dio dos obras y solo una llegó a tiempo. Mientras trabajaban en la pieza orquestal sobre la nutria de Devon, los dos compusieron también esta suite de cuatro movimientos, más corta, más ligera y de vocación menos solemne, que se quedó guardada durante años a la espera de una edición que no aparecía. Cuando por fin salió, el contexto había cambiado por completo: lo que en su momento habría sido el complemento natural de aquel proyecto llegó a los discos como recuperación de archivo, con su autor ya instalado en la lógica del catálogo independiente.
+
+La suite no cuenta una historia, propone un día. «First Light» abre con casi ocho minutos de amanecer, con la escritura descriptiva que ambos compartían; «Siesta» es el movimiento más quieto y el más deudor del color mediterráneo que sugiere el título del conjunto; «Evening Circle» recoge el motivo comunitario, con las voces instrumentales entrando por turnos como si se sentaran alrededor de un fuego; «The Crystal Ball» cierra con diez minutos que son el tramo de mayor desarrollo y también el más orquestal. La edición añade después varios movimientos de la obra sobre la nutria en versiones anteriores a la publicada, con lo que el disco funciona como cuaderno de la sociedad entera: se oye en qué punto estaban los materiales antes de que la producción definitiva los ordenara. Para quien conoce el resultado final, esa segunda mitad es la parte más informativa.
+
+## La producción
+
+No constan créditos verificados de estudio ni de personal técnico, y lo que se oye lleva las marcas de una grabación de comienzos de los ochenta publicada mucho después. La instrumentación combina colores orquestales y acústicos con teclados, más cerca de la cámara ampliada que de la orquesta plena, y la guitarra acústica de Phillips aparece con más protagonismo que en la obra hermana, sosteniendo temas enteros en lugar de limitarse al color. Las versiones tempranas del material de la nutria muestran un tratamiento más escueto, con menos capas y arreglos aún sin terminar de vestir, y ese estado intermedio explica por qué esperaron tanto para salir. La calidad de registro es desigual entre las dos mitades del disco, y no se ha intentado disimularlo.
+
+## Recepción y legado
+
+Llegó cuando ya nadie esperaba nada nuevo de aquella sociedad y se recibió como lo que era, una pieza para completistas. Comparada con la obra mayor que la acompaña, tiene los mismos colores y menos ambición: no busca el arco trágico ni la solemnidad, y por momentos eso la vuelve más disfrutable y menos memorable. Su interés está en dos cosas: los movimientos de la suite propiamente dicha, que se defienden solos, y el valor documental de oír el otro proyecto en construcción. Es un apéndice bien puesto en el catálogo de un músico cuya obra está hecha, en buena medida, de apéndices que nadie más habría publicado.

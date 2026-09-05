@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Celebrado como regreso genuino a su lenguaje setentista."
+historia: "editorial"
 ---
 
 El regreso al método artesanal de una sola persona por capas: su mejor disco en décadas y, hasta hoy, el último. Man on the Rocks (2014) lo precedió en modo banda.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del rodeo por el rock de banda de Man on the Rocks, Oldfield hizo lo que llevaba cuarenta años sin hacer de verdad: encerrarse solo con los instrumentos y construir una pieza larga desde cero, capa sobre capa, sin cantantes invitados, sin orquesta contratada y sin canciones. El título no anuncia una secuela argumental sino un regreso al método, y el disco elige como modelo Ommadawn, la tercera y más orgánica de sus obras fundacionales, aquella donde el folclore, la percusión y la guitarra se trenzaban sin la solemnidad de sus dos hermanas.
+
+La forma es la clásica: dos partes de veinte minutos, una por cara, con el desarrollo que exige ese formato. Cada mitad avanza por acumulación —un motivo de guitarra acústica que se repite, un bajo que entra a marcar el terreno, percusiones que se van sumando, un tema principal que se enuncia, se aparta y vuelve transformado— y desemboca en clímax de guitarra eléctrica sostenida, el gesto más reconocible de su vocabulario. No hay letra ni voz protagonista; hay coros sin texto usados como instrumento, en la línea del original. La ausencia de irrupciones ajenas al conjunto, de estribillos y de guiños al mercado es lo que da al disco su carácter: es la primera vez en décadas que Oldfield no intenta llegar a nadie en particular. Hasta hoy sigue siendo su último álbum.
+
+## La producción
+
+Lo grabó y produjo él mismo en su estudio, tocando todos los instrumentos: guitarras acústicas y eléctricas, bajo, teclados, mandolina, percusión y los coros. La decisión técnica que define el resultado es haber renunciado a la comodidad de los bancos de sonido y los bucles que dominaban sus discos anteriores para volver a grabar pistas reales, una a una, aceptando el tiempo y el error que eso implica. Sobre soporte digital reproduce la lógica del multipistas analógico: pocas correcciones evidentes, respiración humana en las entradas, capas que se oyen como capas y no como un bloque. El sonido es cálido y con relieve, con la guitarra distorsionada mucho más presente y sucia que en cualquier disco suyo de los treinta años previos.
+
+## Recepción y legado
+
+Fue recibido con un alivio casi unánime, y no solo por nostalgia: es el disco donde el método y la ambición vuelven a coincidir. Se le puede reprochar que se apoya en una fórmula probada y que ninguno de sus temas tiene la extrañeza de los originales de los setenta; el propio marco de la cita limita hasta dónde puede llegar. Pero funciona por lo que hace bien, que es lo que casi nadie hace ya: sostener veinte minutos de música instrumental sin trucos, con paciencia de constructor. Dentro de una discografía tardía llena de encargos, regrabaciones y ejercicios de plataforma, queda como la excepción y como un cierre digno.

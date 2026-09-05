@@ -15,6 +15,25 @@ comercial_fuente: "charts"
 estrellas_critica: 2
 critica_fuente: "editorial"
 critica_nota: "Consenso casi unánime como punto más bajo del catálogo."
+historia: "editorial"
 ---
 
 El intento pop sin coartada. De la fuga vocal de Knots a esto en seis años: la curva de rendición más triste del género.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Si The Missing Piece se partía en dos, Giant for a Day renuncia a la discusión y se entrega entero. Es el disco en que Gentle Giant decide sonar como una banda de rock estadounidense de finales de los setenta, con canciones de tres minutos, estribillos repetidos y estructuras sin sorpresas. La decisión no fue un capricho: el grupo llevaba años sosteniendo un repertorio imposible de tocar y de vender al mismo tiempo, y el peso de la ambición ya era mayor que el de la curiosidad. Kerry Minnear, el compositor de formación académica que había dado a la banda su vocabulario contrapuntístico, quedó reducido casi a instrumentista de sesión dentro de su propio grupo; Ray Shulman asumió el timón de la escritura y de la orientación sonora.
+
+El repertorio es coherente con esa rendición. «Words From the Wise» y «Thank You» son rock de radio con teclados brillantes; el tema titular convierte en eslogan la idea de ser gigante por un día, que en el contexto suena a autoparodia involuntaria; «Spooky Boogie» y «Little Brown Bag» buscan el gancho fácil y lo consiguen a costa de todo lo demás; «Friends» apenas pasa de los dos minutos. Solo «Rock Climber», al final, deja asomar algo del oficio antiguo, con un riff de Gary Green que recuerda que estos músicos podían hacer cosas que casi nadie podía. Frente a la fuga vocal a cinco partes de «Knots», seis años antes, la distancia no es estilística: es de proyecto.
+
+## La producción
+
+Grabó la misma formación de cinco —Derek Shulman, Ray Shulman, Kerry Minnear, Gary Green y John Weathers—, con la banda haciéndose cargo de la producción y con Ray Shulman como voz dominante en las decisiones de arreglo. El sonido es el de la época: guitarras comprimidas, teclados eléctricos con brillo, coros dobles y una batería seca y muy adelante en la mezcla. Desaparecen el vibráfono, el violín y los instrumentos de época que habían dado color a los discos de la primera mitad de la década, y con ellos la sensación de que cada pieza estaba construida como un objeto único.
+
+Lo llamativo es la competencia técnica de todo el asunto: nada suena mal hecho, y ese es exactamente el problema. Es un disco ejecutado con precisión por músicos que no creen del todo en lo que están tocando.
+
+## Recepción y legado
+
+Fue un fracaso en los dos frentes: no ganó el público nuevo que buscaba y perdió una parte considerable del antiguo, que se sintió estafado. Los propios integrantes lo han situado desde entonces en la parte baja de su catálogo, y ninguna revisión posterior lo ha rehabilitado del todo. Se rescata «Rock Climber» y poco más. Su valor hoy es documental: enseña con crudeza qué le pasó a un cierto tipo de música cuando el contexto que la sostenía se evaporó, y cómo incluso los grupos más dotados podían quedarse sin argumentos. Civilian, dos años después, será al menos un final honesto; esto es la parte incómoda del camino.

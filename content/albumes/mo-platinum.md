@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 3
 critica_fuente: "editorial"
 critica_nota: "Giro corto y funky recibido sin entusiasmo; revalorizado en parte."
+historia: "editorial"
 ---
 
 Giro pop asumido: caras cortas, covers, otra carrera empezando dentro del mismo nombre.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Platinum es el disco donde Oldfield decide, de manera consciente, dejar de ser el ermitaño de las suites de una hora. La gira que siguió a Incantations lo había puesto por primera vez frente a un público real y con una banda numerosa, y de esa experiencia salió un músico interesado en el pulso, en la brevedad y en el efecto inmediato. El resultado es un álbum partido en dos mitades: una suite dividida en cuatro secciones que ocupa la primera cara y un puñado de piezas sueltas en la segunda, incluidas dos versiones ajenas. Ya no hay una obra, hay un repertorio.
+
+La suite empieza con «Platinum, Part 1: Airborne», de motor rítmico marcado, sigue con la sección que da nombre al disco y con «Platinum, Part 3: Charleston», un guiño festivo y algo burlón, y cierra con «Platinum, Part 4: North Star / Platinum Finale», que se apoya en material de Philip Glass y luego resuelve con el gesto triunfal del final. En la otra mitad conviven «Woodhenge», el tramo más oscuro y sintético del álbum, «Sally», una canción cantada por él mismo, «Punkadiddle», una respuesta socarrona al clima musical del momento, y una lectura instrumental de «I Got Rhythm» que confirma hasta qué punto había cambiado el criterio de lo permitido.
+
+## La producción
+
+Tom Newman, presente desde el primer disco, vuelve como productor e ingeniero, y buena parte del álbum se apoya en el entorno del minimalismo neoyorquino: Kurt Munkacsi en la ingeniería y Michael Riesman y Peter Gordon en arreglos adicionales, todos ellos colaboradores habituales de Philip Glass, con David Bedford aportando también escritura complementaria. Oldfield toca guitarras, piano, sintetizador, marimba y vibráfono, pero por primera vez se rodea de músicos de sesión que hacen el trabajo rítmico: varios bajistas, entre ellos Neil Jason y Hansford Rowe, y una batería de percusionistas con Pierre Moerlen, Morris Pert y Allan Schwartzberg. El sonido resultante es más seco, más definido y bastante más frontal que el de sus discos de campo, con una batería real ocupando el centro donde antes había capas. La fotografía de portada corre por cuenta de Trevor Key.
+
+## Recepción y legado
+
+Es el disco bisagra de su carrera y, según a quién se le pregunte, el momento en que se abrió o el momento en que se rindió. Los oyentes de la trilogía inicial lo recibieron con desconfianza, porque las piezas cortas y las versiones ajenas parecían una renuncia; el público europeo que llegaría en los años siguientes lo tomó como el primer disco suyo verdaderamente escuchable de corrido. Hoy se lee mejor: hay energía y hay curiosidad, y el cruce con el círculo de Glass es más interesante que lo que ese cruce produce. Su valor está sobre todo en lo que anuncia, porque desde aquí empieza otra carrera dentro del mismo nombre, la del autor de canciones con vocalista invitada que dominaría la década siguiente.

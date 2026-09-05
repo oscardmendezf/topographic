@@ -16,6 +16,23 @@ critica_nota: "Catálogo tardío poco reseñado; sin consenso firme."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Prácticamente invisible."
+historia: "editorial"
 ---
 
 Oficio y encanto en dosis bajas: el dandy en piloto automático, con destellos sueltos que recuerdan por qué importaba.
+
+<!-- historia:editorial -->
+
+## La historia
+
+A finales de los setenta Kevin Ayers vivía a caballo entre Londres y Deià, el pueblo mallorquín donde había encontrado un refugio de sol y desgana. Rainbow Takeaway continúa la serie de discos que venía entregando a Harvest desde Sweet Deceiver con el mismo procedimiento: canciones sueltas, sin concepto ni programa, escritas al ritmo que permitía una vida deliberadamente poco laboriosa. La diferencia es que aquí el cansancio ya se oye. Donde antes había una excentricidad calculada, el dandi que esconde vanguardia bajo el encanto, ahora hay un oficio que se sostiene por costumbre y que solo de tanto en tanto recuerda de dónde viene.
+
+El repertorio alterna las dos voces habituales de Ayers. Por un lado la canción ligera y algo burlona: «Blaming It All On Love» abre con esa mezcla de balanceo perezoso y resignación amable que era su marca, y «Hat Song» cierra el disco en poco más de un minuto, como una ocurrencia que nadie quiso desarrollar. Por otro, las piezas donde se permite estirarse: «A View From The Mountain» es la más ambiciosa, un paisaje contemplativo que aprovecha su registro grave, y «Waltz For You» recupera el vals melancólico que siempre le funcionó. «Ballad Of A Salesman Who Sold Himself» presenta al vendedor que se vende a sí mismo, figura que le interesaba lo suficiente para volver a ella, rebautizada, en el disco siguiente. Y «Beware Of The Dog II» es literalmente una segunda visita a una canción de Bananamour: síntoma de un catálogo que empezaba a reciclarse.
+
+## La producción
+
+El disco está construido alrededor de Ollie Halsall, el guitarrista que desde mediados de la década se había vuelto su colaborador imprescindible y que aquí ejerce de arreglista de hecho. Sus intervenciones son casi siempre lo más despierto de cada tema, y su manera de doblar líneas de guitarra y teclado da cuerpo a canciones que sobre el papel son esqueléticas. La grabación se hizo con la eficiencia de un profesional de sello: sonido limpio, coros y arreglos añadidos donde hacían falta, y una batería seca muy de la época. No hay experimento de estudio digno de mención, y esa es justamente la objeción: quien había firmado Joy of a Toy y Whatevershebringswesing se conformaba con hacer bien lo que ya sabía hacer. Como no constan datos verificados de estudio ni de ingeniería, lo que queda es el resultado audible, y el resultado audible es correcto y poco arriesgado.
+
+## Recepción y legado
+
+Salió sin ruido y se apagó igual de rápido. La crítica británica, ocupada con el punk, no tenía sitio para un excéntrico de Canterbury que ya no proponía nada, y el público que le quedaba era pequeño y fiel. Hoy se escucha como lo que es: un disco de tránsito, con dos o tres canciones que merecen sobrevivir en cualquier recopilación y un resto que solo interesa a quien sigue la trayectoria completa. Su valor es sobre todo documental. Marca el momento en que el encanto de Ayers deja de ser una estrategia y empieza a ser una coartada, el paso previo al desmoronamiento del disco que vendría después.

@@ -16,6 +16,27 @@ critica_nota: "Sin consenso registrable."
 estrellas_comercial: null
 comercial_fuente: "editorial"
 comercial_nota: null
+historia: "editorial"
 ---
 
 Entrada de los noventa prácticamente indocumentada dentro de la discografía oficial del grupo; circulación mínima.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El título es un juego con el nombre del grupo: banco d'accusa es el banquillo de los acusados, y la broma consiste en sentar en él al Banco del Mutuo Soccorso. Más allá de la ocurrencia, el disco es un expediente casi vacío: circulación mínima, ninguna presencia en la discografía comentada del grupo y datos de publicación que no pueden darse por firmes. Lo primero, entonces, es decir lo que no se sabe, porque es bastante.
+
+Lo que sí puede afirmarse sale del propio repertorio. Salvo «Hey Joe», las ocho piezas son las siete de Non mettere le dita nel naso reordenadas: «Ti taglio i viveri», «Qualcosa che rimane», «E domani», «Lilliput», «Cielo», «Sandali» y «Non ci siamo», con duraciones que difieren en segundos respecto de aquella edición. Es decir: no es un disco nuevo, es el mismo material puesto otra vez en el mercado con otro título, otra portada y una adición llamativa. Esa adición es el estándar de Billy Roberts que Hendrix convirtió en himno, aquí estirado más allá de los nueve minutos, casi el doble que cualquier otra pieza del disco, lo que apunta a una versión con desarrollo instrumental largo, de las que se arman tocando y no montando.
+
+En la trayectoria del grupo el episodio se sitúa después de Il 13, cuando Banco había dejado de publicar material nuevo y su catálogo empezaba a circular en ediciones de difícil rastreo.
+
+## La producción
+
+No hay créditos verificados de producción, ingeniería, estudio ni formación, y en un título así el riesgo de atribuir nombres equivocados es mayor que el beneficio de completar el párrafo. Del material puede decirse que suena a lo que es: canciones de banda de rock con los teclados al frente, grabadas con los recursos del final de los ochenta y presentadas ahora sin retoque aparente, sin remezcla ni maquillaje que disimule su procedencia.
+
+La única pista de arreglo propia del disco es la del corte añadido, cuya extensión indica un tratamiento de jam antes que de canción, con espacio para solos y para la voz de Di Giacomo trabajando sobre un blues ajeno, algo que el grupo casi nunca hizo en sus discos oficiales. Del diseño y del arte de tapa no hay información fiable.
+
+## Recepción y legado
+
+No tuvo recepción crítica ni figura en las revisiones del prog italiano; en las discografías aparece, cuando aparece, como línea sin comentario. Su interés es exclusivamente el del rastreo de catálogo, y ahí sí sirve para algo: documenta la práctica, muy común en la Italia de aquellos años, de recolocar material reciente con envoltorio nuevo, y ofrece una rareza real en forma de versión larga de un estándar que no aparece en ningún otro disco de estudio del grupo. Para el oyente que quiera conocer a Banco no cambia nada y no hay motivo para buscarlo. Para quien reconstruye la discografía completa aclara uno de los muchos enigmas de esta etapa: no es un álbum perdido, es un álbum ya conocido con otro nombre.

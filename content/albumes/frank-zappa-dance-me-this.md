@@ -16,6 +16,27 @@ critica_nota: "Recibido con respeto como cierre del catálogo numerado."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "Interés limitado al círculo zappiano."
+historia: "editorial"
 ---
 
 El último álbum de estudio que Zappa dejó terminado antes de morir, editado dos décadas más tarde: Synclavier con voces guturales tuvanas, concebido para danza contemporánea antes que para el living. Cierre austero y coherente de su ciclo electrónico.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Zappa dejó este álbum terminado antes de morir y tardó dos décadas en aparecer, publicado en 2015 por el archivo de su obra como pieza que redondea el centenar de lanzamientos oficiales de su catálogo. No es un descarte ni un montaje ajeno: es el último disco de estudio que él secuenció y aprobó, y su contenido explica por qué lo dejó para el final.
+
+La idea que lo articula es la danza. Zappa había escrito antes para coreografía, con resultados que acabaron dispersos en discos orquestales, y aquí volvió a hacerlo con la herramienta que dominaba: música pensada para acompañar cuerpos en movimiento antes que para escucharse sentado en un salón. De ahí la insistencia en el pulso y en los timbres percusivos, y de ahí también los títulos, que apuntan a formas de baile trastocadas: «Pachuco Gavotte» cruza la gavota cortesana con la estampa del pachuco angelino, «Goat Polo» propone una polca imposible y «Rykoniki» suena a danza folclórica de un país inexistente. El centro del disco es la suite «Wolf Harbor», repartida en cinco movimientos que van del rumor casi inmóvil a la agitación rítmica. El elemento más inesperado son las voces guturales tuvanas que aparecen en varias piezas, aportadas por cantantes de esa tradición que pasaron por su estudio; su timbre ronco, sostenido y sin palabras reconocibles se integra en el tejido electrónico como si fuera otro banco de muestras.
+
+## La producción
+
+Todo se construyó en su estudio doméstico de Los Ángeles con el sistema digital de composición que usaba desde mediados de los ochenta, escribiendo nota a nota y afinando después timbres y balances. La diferencia respecto a sus discos electrónicos anteriores está en la presencia de material humano grabado: las voces tuvanas y algún registro de piano introducen una irregularidad, una respiración, que el resto de su obra con esa máquina evita por principio.
+
+La mezcla es austera y sin ornamento, con mucho silencio entre los planos y sin reverberaciones que ablanden los ataques. Esa desnudez tiene sentido si se piensa en el destino coreográfico: la música deja espacio, no ocupa todo el campo, y admite que algo suceda encima de ella. Es también lo que la hace difícil como escucha doméstica, porque el oyente recibe una parte de una obra cuya otra mitad no está.
+
+## Recepción y legado
+
+Se publicó como noticia de archivo y se escuchó como tal. Los seguidores de su etapa electrónica lo recibieron con interés genuino; el público general apenas se enteró, y quien se acercó buscando canciones se marchó a los pocos minutos. La crítica destacó sobre todo la coherencia del conjunto: es más corto, más contenido y más unitario que otros discos suyos del mismo periodo.
+
+Su lugar en la discografía es el de un epílogo consciente. No intenta resumir nada ni cerrar cuentas con nadie; simplemente lleva hasta el final una línea de trabajo que él había abierto años antes y que nadie más estaba recorriendo. Escuchado junto a sus otras obras digitales, completa el retrato de un compositor que en sus últimos años había dejado de escribir para el rock y seguía escribiendo, sin público asegurado, para lo que le interesaba.

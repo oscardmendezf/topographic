@@ -16,6 +16,23 @@ critica_nota: "Mal recibido; las voces volvieron a dividir."
 estrellas_comercial: 1
 comercial_fuente: "editorial"
 comercial_nota: "De escasa circulación incluso dentro del catálogo."
+historia: "editorial"
 ---
 
 Poemas de William Blake cantados sobre electrónica digital de fines de los ochenta: el segundo gran experimento vocal del grupo y el más resistido. Hasta los incondicionales lo tratan con pinzas.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Tangerine Dream ya había probado con la voz humana a comienzos de la década, con resultados discutidos, y a esta altura volvió a intentarlo con una apuesta mayor: poner música a poemas de William Blake. La idea encaja con el gusto de Edgar Froese por la literatura visionaria inglesa, y llegaba en un momento en que el grupo, con Paul Haslinger ya integrado, buscaba salir de la rueda de encargos cinematográficos con un disco que se pareciese a una obra. Para las voces recurrieron a Jocelyn Bernadette Smith, cantante afincada en Berlín y de formación muy alejada de la electrónica, cuyo timbre de raíz soul es el elemento más chocante del álbum.
+
+El material poético manda sobre la música. «Tyger» abre con el poema más conocido de Blake, convertido en canción de estructura casi convencional; «London» estira su texto sombrío a lo largo de un desarrollo extenso, con el grupo trabajando por acumulación de capas; «Alchemy of the Heart» es la pieza más ambiciosa y también la más difusa, con secciones instrumentales largas entre las entradas vocales. «Smile» rebaja la tensión, y «21st Century Common Man» se aparta del cuerpo del disco: es instrumental, se divide en dos partes y suena a lo que el grupo hacía en sus discos de esos años, como si hubiese quedado ahí para recordar quiénes eran sin Blake de por medio.
+
+## La producción
+
+Todo está construido sobre el equipo digital que la banda usaba entonces: sintetizadores y muestreadores de última hornada, secuencias programadas y percusión electrónica, con muy poca presencia de la guitarra. El problema no es la ejecución, que es cuidadosa, sino el contraste: los timbres brillantes y las cajas de ritmo de la época conviven mal con textos del siglo XVIII y con una voz de tradición gospel, y el disco pasa buena parte del tiempo intentando resolver esa distancia. La mezcla coloca la voz muy al frente, lo que acentúa el desajuste en lugar de disimularlo, y las armonías vocales dobladas añaden un acabado que suena a producción de radio antes que a experimento. Como en casi toda su obra del período, el grupo se produjo a sí mismo, sin una mirada externa que discutiera las decisiones.
+
+## Recepción y legado
+
+Fue mal recibido y sigue siéndolo, con la particularidad de que la resistencia viene sobre todo de dentro: los seguidores del grupo lo tratan con pinzas, y muchos lo colocan directamente entre los tropiezos de la discografía. Se le reconoce el arrojo de intentar algo distinto en mitad de una etapa dominada por el encargo, y hay quien defiende «London» como pieza capaz de sostener sus catorce minutos. Pero el veredicto general es que el vestido digital envejeció muy mal y que la voz nunca termina de encontrar sitio entre las capas. Queda como un experimento honesto y fallido, y como la prueba de que la banda seguía buscando salidas incluso cuando el camino elegido no llevaba a ninguna parte.

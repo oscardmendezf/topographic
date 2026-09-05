@@ -16,6 +16,23 @@ critica_nota: "Bien recibido dentro del género, sin unanimidad."
 estrellas_comercial: 3
 comercial_fuente: "editorial"
 comercial_nota: "Presencia en listas acorde a la etapa."
+historia: "editorial"
 ---
 
 Alegato pacifista con músicos e instrumentos de varias tradiciones sobre la base sinfónica de siempre. El mensaje pesa más que el filo, pero el oficio sostiene. La racha tardía ya era rutina de calidad.
+
+<!-- historia:editorial -->
+
+## La historia
+
+The Night Siren, de 2017, es el disco más explícitamente político de Steve Hackett, y su argumento es tan sencillo como difícil de sostener sin caer en el sermón: si músicos de tradiciones enfrentadas pueden tocar juntos sin problema, la enemistad entre sus pueblos es una construcción y no un destino. La sirena del título es a la vez la alarma antiaérea y el canto que seduce, doble sentido que ordena un álbum sobre fronteras, desplazamientos y la facilidad con que se fabrica un enemigo.
+
+«Behind the Smoke» abre con el tema del exilio forzado y es, probablemente, la mejor pieza del conjunto: la urgencia del asunto se traduce en una escritura más apretada que la del resto. «West to East» y «In Another Life» insisten en el cruce de tradiciones desde el título mismo; «Other Side of the Wall» trabaja la imagen del muro; «Fifty Miles From the North Pole» y «Inca Terra» amplían el mapa hacia el Ártico y los Andes. «Martian Sea» y «In the Skeleton Gallery» aportan el costado más extraño y psicodélico, «El Niño» el instrumental de fuerza, y «After the Ordeal» recupera un título de la Genesis de los setenta que su autor siempre reivindicó como propio. El cierre con «Jazz on a Summer's Night» baja las revoluciones y deja el disco en un tono conciliador que es coherente con su mensaje.
+
+## La producción
+
+La construcción sigue el método habitual de la etapa, con la base sinfónica de siempre y músicos convocados de escenas y países distintos. Los créditos verificados reúnen a John Hackett en flauta, Rob Townsend en maderas, Christine Townsend en violín y voz, Roger King en instrumentación varia, Amanda Lehmann en voz, el azerbaiyano Malik Mansurov en tar, el islandés Gunnlaugur Briem y el estadounidense Nick D'Virgilio en percusión, Gary O'Toole en batería, Troy Donockley en gaita irlandesa y Ben Fenner en instrumentos adicionales. Esa lista es el disco: cada instrumento traído de una tradición distinta cumple una función argumental además de musical, y el mérito del arreglo está en integrarlos sin que ninguno quede como adorno turístico. El diseño gráfico corresponde a Thomas Ewerhard, con fotografías de Angéla y Maurizio Vicedomini.
+
+## Recepción y legado
+
+Se lo recibió bien, dentro de la lógica de una racha tardía que ya funcionaba como rutina de calidad: disco cada dos años, nivel parejo, público fiel. El reparo es de fondo y vale reconocerlo: el mensaje pesa más que el filo, y hay momentos en que la buena intención sustituye a la tensión musical que sí tenían Darktown o las mejores partes de Wolflight. Lo que sostiene el álbum es el oficio, la calidad de los arreglos y una convicción que no suena impostada. En el conjunto de la etapa es el disco más generoso y el menos oscuro, contracara exacta de At the Edge of Light, que dos años después trabajaría el mismo material temático desde la amenaza.

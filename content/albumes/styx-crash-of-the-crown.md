@@ -16,6 +16,25 @@ critica_nota: "Favorable aunque un escalón debajo de The Mission."
 estrellas_comercial: 2
 comercial_fuente: "editorial"
 comercial_nota: "Para la base fiel; sin proyección masiva."
+historia: "editorial"
 ---
 
 Continuidad del repunte de The Mission, con canciones cortas encadenadas y espíritu setentero asumido. Menos concepto, misma convicción artesanal.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del recibimiento inesperadamente cálido de The Mission, Styx volvió al mismo método sin esperar tanto tiempo: Tommy Shaw y Will Evankovich escribiendo juntos, canciones cortas pensadas para encadenarse y una idea general que sostiene el conjunto sin llegar a ser un argumento. Buena parte del material estaba encaminada cuando el mundo se detuvo, y el trabajo terminó completándose a distancia, cada uno grabando por su lado y armando el rompecabezas después. Esa circunstancia, que en otros discos de la época se nota como frialdad, aquí quedó disimulada por la costumbre del grupo de trabajar por capas de voces y teclados.
+
+El disco no cuenta una historia, pero insiste en un tema: qué hace la gente común cuando el poder falla y las certezas se caen. «The Fight of Our Lives» abre con esa declaración; «A Monster» y «Save Us From Ourselves» miran al enemigo interior antes que al externo; «Crash of the Crown» y «Long Live the King» juegan con la caída de las coronas como metáfora política; «Common Ground» y «Coming Out the Other Side» buscan una salida sin caer en el sermón. Las piezas mínimas —«Lost at Sea», «Another Farewell», que no llegan al minuto— funcionan como bisagras, un recurso que el grupo ya había usado antes y que aquí lleva al extremo: quince cortes que suenan más como cuatro o cinco movimientos largos. Lawrence Gowan aporta las melodías más sinfónicas y Shaw las más pegadizas; James Young pone el contrapeso áspero.
+
+## La producción
+
+Evankovich vuelve a ocuparse de la producción y esta vez terminó incorporándose formalmente al grupo, un movimiento lógico dado su peso en la escritura y en el sonido de estos años. La grabación mantiene la estética retro deliberada del disco anterior: pianos y órganos con timbre de los setenta, coros apilados, guitarras acústicas de doce cuerdas y una mezcla que evita la compresión brutal habitual en las producciones actuales. Chuck Panozzo vuelve a aparecer en algunos temas, con el resto del bajo a cargo de la formación estable. La banda ha contado que el material se armó en tandas, aprovechando ideas que habían quedado fuera del proyecto anterior y otras escritas en pleno encierro.
+
+El arte volvió a Todd Gallopo, que firma dirección de arte, diseño e ilustración, con fotografías del propio grupo; la línea gráfica es continuidad directa de The Mission, hasta el punto de que los dos discos se leen como un díptico.
+
+## Recepción y legado
+
+La crítica lo recibió como confirmación más que como sorpresa: si el anterior podía atribuirse a un golpe de suerte, este demostró que la fórmula era sostenible. Los reparos son los previsibles, y son justos: la ausencia de un tema que se despegue del conjunto y cierta uniformidad de tono, consecuencia inevitable de encadenar canciones de tres minutos. Su valor está en otra parte. Es el disco donde la formación posterior a Dennis DeYoung deja de justificarse por comparación y sencillamente trabaja, con una idea clara de qué clase de banda quiere ser en su vejez: artesanal, melódica y sin apuro por sonar contemporánea.

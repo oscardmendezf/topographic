@@ -15,6 +15,25 @@ comercial_fuente: "charts"
 estrellas_critica: 5
 critica_fuente: "editorial"
 critica_nota: "Canon del rock de los setenta, dentro y fuera del prog."
+historia: "editorial"
 ---
 
 Himnos contra la religión organizada y retratos de marginales. Anderson insiste en que no es conceptual; nadie le creyó nunca, y de esa irritación nació el disco siguiente.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Aqualung nace de una doble mudanza: la de la formación, con Jeffrey Hammond ocupando el bajo que deja Glenn Cornick y John Evan ya instalado en los teclados, y la del oficio de Anderson, que pasa de escribir canciones sobre sí mismo a escribir sobre otros. El punto de partida fueron unas fotografías de vagabundos tomadas junto al Támesis por Jennie Franks, entonces su mujer, que además firma parte de la letra de la canción titular. De ahí sale el personaje: un hombre sin techo al que la sociedad mira entre el asco y la mala conciencia, retratado sin sentimentalismo.
+
+La primera mitad es una galería de marginales. «Aqualung» alterna el riff más reconocible del grupo con un pasaje acústico de compasión incómoda; «Cross-Eyed Mary» describe a una colegiala que se prostituye y elige a sus clientes por pobreza; «Cheap Day Return» es una miniatura escrita en un tren, de vuelta de ver a un padre enfermo; «Mother Goose» acumula figuras absurdas en un paseo londinense y «Up to Me» baja el tono a lo doméstico. La segunda mitad cambia de enemigo: «My God» acusa a la religión organizada de haber secuestrado a su propia divinidad, con un largo intermedio de flauta y coros de aire eclesiástico; «Hymn 43» convierte el reproche en rock con estribillo; «Locomotive Breath» describe una humanidad embarcada en un tren sin frenos; «Wind-Up» cierra con la memoria del colegio religioso y la frase que resume el disco, la de un dios al que no hace falta darle cuerda los domingos. Anderson repitió siempre que esto no era un álbum conceptual, sino un puñado de canciones; el hartazgo de que nadie le creyera fue el motor directo del disco siguiente.
+
+## La producción
+
+Se grabó en Londres, en los estudios de su distribuidora instalados en una antigua iglesia reconvertida, un espacio grande y frío del que Anderson ha hablado siempre con poco cariño y donde coincidieron con Led Zeppelin. La instrumentación se abre respecto a Benefit: flauta y voz principal de Anderson, guitarra eléctrica y flauta dulce soprano de Barre, Mellotron de Evan, bajo y voces adicionales de Hammond, percusión de Clive Bunker en su último disco con el grupo. La grabación fue laboriosa y por piezas, con capas de acústicas dobladas que dan al disco su brillo característico, y de esa manera de trabajar salió la anécdota más repetida: «Locomotive Breath» se montó por partes, con Anderson tocando él mismo la base rítmica para conseguir el balanceo que buscaba, sobre el arranque de piano de Evan.
+
+La portada, ilustrada por Burton Silverman con dirección de diseño de CCS, es un retrato al óleo del personaje con rasgos que recuerdan a Anderson, y quedó tan asociada al disco que el propio pintor discutió después su uso.
+
+## Recepción y legado
+
+Es el disco que fijó a Jethro Tull en la memoria colectiva y el que sigue funcionando como puerta de entrada, con dos riffs que cualquiera reconoce sin saber de quién son. Se le reprocha, con razón, cierta desigualdad: entre los himnos hay bocetos que suenan a relleno. Lo que se rescata es la voz de un autor que había aprendido a mirar hacia fuera y una manera de alternar acústico y eléctrico que buena parte del rock británico posterior copió sin decirlo.

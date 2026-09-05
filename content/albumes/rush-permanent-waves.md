@@ -15,6 +15,23 @@ comercial_fuente: "charts"
 estrellas_critica: 4
 critica_fuente: "editorial"
 critica_nota: "Muy valorado; la transición a la concisión, bien resuelta."
+historia: "editorial"
 ---
 
 La new wave asimilada sin rendición: «The Spirit of Radio». El prog aprendiendo a ser conciso, que era la única salida digna disponible.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después de la extenuación de Hemispheres, Rush llegó a una conclusión que a casi ningún grupo de su generación se le ocurrió: si la suite de veinte minutos ya no daba más de sí, el problema no era la ambición sino el formato. Permanent Waves conserva la métrica impar, los cambios de tiempo y las letras con lecturas detrás, pero los mete en canciones de cinco minutos. La nueva ola y el punto de vista que traía —economía, urgencia, desconfianza hacia la pompa— se asimilan sin humillación, y el resultado es un disco que suena moderno sin renunciar a nada esencial.
+
+«The Spirit of Radio» abre con un arpegio de guitarra que parece una señal electrónica y celebra la radio libre antes de girar hacia la sospecha de que también eso se vende, con un tramo final en tiempo de reggae y una cita irónica a la vieja canción sobre el silencio y los profetas escritos en las paredes del metro. «Freewill» pone en verso el argumento contra el determinismo con una claridad que pocas letras de rock alcanzan, y su estribillo insiste en que elegir no decidir ya es una elección. «Jacob's Ladder» describe un cielo que se abre en rayos de luz y es la pieza que más conserva del Rush anterior. «Entre nous» habla de la distancia inevitable entre dos personas, «Different Strings» es una balada con letra de Geddy Lee, y «Natural Science» cierra en tres movimientos con las mareas, la ciencia y la vanidad humana, la última pieza extensa del grupo antes de que las abandonaran del todo.
+
+## La producción
+
+Se grabó en el estudio de Morin Heights, en el campo de Quebec, con Terry Brown y el grupo produciendo y firmando también los arreglos. El sonido es el más limpio que habían conseguido: la batería con aire alrededor, el bajo articulado y separado del pedal, las guitarras acústicas y de doce cuerdas ocupando el espacio que antes llenaba la saturación. Los sintetizadores están presentes pero al servicio de la textura, y hay un steelpan invitado que aporta un color inesperado. La dirección artística fue de Hugh Syme, con Neil Peart participando en el diseño y un collage de portada donde una figura saluda ante un litoral arrasado por la tormenta.
+
+## Recepción y legado
+
+Fue el disco que los convirtió en un grupo de radio sin que nadie pudiera acusarlos de haberse rendido, y marcó el camino que otros seguirían: prog concentrado, ejecutado con precisión y en formato de canción. En la discografía es la bisagra entre la etapa de suites y la síntesis del disco siguiente. Lo que se rescata es la escritura; lo que ya no se discute es que era la única salida digna que quedaba.
