@@ -34,7 +34,9 @@ const escenas = [...new Set(puntos.map((p) => p.escena))];
     <h1>De dónde salió esto</h1>
     <p class="lede">Lugar de formación de cada banda (o de nacimiento del solista), según Wikidata.
     El calor pondera por cantidad de fichas en el atlas: el prog fue un fenómeno británico con
-    tres focos continentales — Canterbury como pueblo, Italia y Alemania como respuestas propias.</p>
+    focos continentales — Canterbury como pueblo, Italia y Alemania como respuestas propias — y
+    ecos propios en Estados Unidos y en el Cono Sur. Los artistas que comparten ciudad se
+    reparten en anillo alrededor del punto.</p>
   </div></header>
 
   <section class="block"><div class="wrap">
@@ -43,6 +45,9 @@ const escenas = [...new Set(puntos.map((p) => p.escena))];
         <button class="chip on" data-escena={e}><i style={`background:${puntos.find((p) => p.escena === e)?.color}`}></i>{e}</button>
       ))}
       <label class="chip todas"><input type="checkbox" id="ver-calor" checked /> capa de calor</label>
+      <span class="chip vista" data-vista="europa">Europa</span>
+      <span class="chip vista" data-vista="america">América</span>
+      <span class="chip vista" data-vista="todo">Todo</span>
     </div>
     <div id="mapa" data-puntos={JSON.stringify(puntos)} data-base={u('/')}></div>
     {sinGeo.length > 0 && (
@@ -58,6 +63,8 @@ const escenas = [...new Set(puntos.map((p) => p.escena))];
 .chip.on{opacity:1;border-color:#4a5462}
 .chip i{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;background:var(--dim)}
 .chip.todas{opacity:1;color:var(--dim);display:flex;align-items:center;gap:6px}
+.chip.vista{opacity:1;color:var(--acento);margin-left:auto}
+.chip.vista + .chip.vista{margin-left:0}
 :global(.leaflet-popup-content-wrapper),:global(.leaflet-popup-tip){background:#1B212A;color:#E9E2D0;border:1px solid #2A313C}
 :global(.leaflet-popup-content a){color:#D08C2E}
 :global(.leaflet-container){background:#14181D;font:13px Georgia,serif}
@@ -86,18 +93,48 @@ const escenas = [...new Set(puntos.map((p) => p.escena))];
     { radius: 34, blur: 26, minOpacity: 0.25 },
   ).addTo(mapa);
 
+  // Artistas con las mismas coordenadas: se reparten en un anillo (en píxeles, así se
+  // separan a cualquier zoom) y cada popup lista a los vecinos del mismo lugar.
+  const clave = (p: any) => `${p.lat.toFixed(3)},${p.lon.toFixed(3)}`;
+  const grupos = new Map<string, any[]>();
+  for (const p of puntos) grupos.set(clave(p), [...(grupos.get(clave(p)) ?? []), p]);
+  function posicion(p: any): L.LatLng {
+    const g = grupos.get(clave(p))!;
+    if (g.length === 1) return L.latLng(p.lat, p.lon);
+    const i = g.indexOf(p);
+    const r = 10 + 2.4 * g.length;
+    const ang = (2 * Math.PI * i) / g.length - Math.PI / 2;
+    const pt = mapa.latLngToLayerPoint([p.lat, p.lon]).add([r * Math.cos(ang), r * Math.sin(ang)]);
+    return mapa.layerPointToLatLng(pt);
+  }
+
   const marcadores = new Map<string, L.CircleMarker>();
   for (const p of puntos) {
-    const m = L.circleMarker([p.lat, p.lon], {
+    const m = L.circleMarker(posicion(p), {
       radius: 5 + 7 * (p.peso / maxPeso),
       color: p.color, weight: 1.5, fillColor: p.color, fillOpacity: 0.55,
     }).addTo(mapa);
+    const vecinos = grupos.get(clave(p))!.filter((q) => q !== p);
+    const listaVecinos = vecinos.length
+      ? `<br><span style="color:#9AA0A8">Mismo lugar:</span> ` +
+        vecinos.map((q) => `<a href="${base}artista/${q.slug}/">${q.nombre}</a>`).join(' · ')
+      : '';
     m.bindPopup(
       `<b>${p.nombre}</b><br>${p.lugar ?? ''} · ${p.escena}<br>` +
-      `${p.peso} ficha${p.peso === 1 ? '' : 's'} · <a href="${base}artista/${p.slug}/">abrir ficha →</a>`,
+      `${p.peso} ficha${p.peso === 1 ? '' : 's'} · <a href="${base}artista/${p.slug}/">abrir ficha →</a>` +
+      listaVecinos,
+      { maxWidth: 320 },
     );
     marcadores.set(p.slug, m);
   }
+  mapa.on('zoomend', () => { for (const p of puntos) marcadores.get(p.slug)!.setLatLng(posicion(p)); });
+
+  // vistas rápidas
+  const vistas: Record<string, [L.LatLngExpression, number]> = {
+    europa: [[50.5, 4], 5], america: [[-10, -60], 3], todo: [[20, -20], 2],
+  };
+  document.querySelectorAll<HTMLElement>('.chip.vista').forEach((b) =>
+    b.addEventListener('click', () => { const [c, z] = vistas[b.dataset.vista!]; mapa.setView(c, z); }));
 
   // filtros por escena + toggle de calor
   const chips = [...document.querySelectorAll<HTMLButtonElement>('#filtros-mapa .chip[data-escena]')];
