@@ -1,0 +1,313 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "life-span": {
+    "end": "1976",
+    "begin": "1974",
+    "ended": true
+  },
+  "disambiguation": "Argentinean rock supergroup",
+  "country": "AR",
+  "name": "PorSuiGieco",
+  "gender-id": null,
+  "isnis": [],
+  "begin-area": {
+    "name": "Buenos Aires",
+    "sort-name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "disambiguation": "",
+    "type": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "type-id": null
+  },
+  "gender": null,
+  "area": {
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "name": "Argentina",
+    "sort-name": "Argentina",
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "disambiguation": "",
+    "type": null,
+    "type-id": null
+  },
+  "end-area": {
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "sort-name": "Buenos Aires",
+    "name": "Buenos Aires",
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "iso-3166-2-codes": [
+      "AR-C"
+    ]
+  },
+  "relations": [
+    {
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1974",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": "1976",
+      "type": "member of band",
+      "artist": {
+        "sort-name": "García, Charly",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "name": "Charly García",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1974",
+      "attribute-ids": {},
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "AR",
+        "name": "León Gieco",
+        "id": "dbe1d6c8-1319-4369-924a-65bb1f9fced5",
+        "sort-name": "Gieco, León"
+      },
+      "target-credit": "",
+      "end": "1976",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "artist": {
+        "name": "Nito Mestre",
+        "sort-name": "Mestre, Nito",
+        "id": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "end": "1976",
+      "attributes": [],
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "begin": "1974",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1974",
+      "ended": true,
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "1976",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "AR",
+        "name": "Raúl Porchetto",
+        "id": "bc1d103a-7f39-407b-a588-e1a0b581bb1a",
+        "sort-name": "Porchetto, Raul"
+      },
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "type": "member of band",
+      "end": "1976",
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Yorio, María Rosa",
+        "id": "4e301a12-f934-49eb-a950-99b552468d9f",
+        "name": "María Rosa Yorio"
+      },
+      "attributes": [],
+      "begin": "1974",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "allmusic",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0001264616",
+        "id": "5e0219d3-a47d-43f1-8ed4-75e3a27395b2"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "url": {
+        "resource": "https://www.discogs.com/artist/3191494",
+        "id": "4155a062-5a5e-419d-8dfd-c9c740027e3e"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "discogs",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "4ab37dee-f5ce-4976-98d3-d46ee927a005",
+        "resource": "https://open.spotify.com/artist/4LoFcBNitqIC130rvzS6BG"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "type": "free streaming",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "http://rock.com.ar/artistas/porsuigieco",
+        "id": "522934fe-030d-4445-8abb-4ae00df75f21"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "other databases",
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "url": {
+        "id": "8070cc35-e22b-4be2-956c-24c61aecd7e9",
+        "resource": "https://rateyourmusic.com/artist/porsuigieco"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://itunes.apple.com/ar/artist/id445003273",
+        "id": "5818b107-8205-4a9f-b755-858a12a197ea"
+      },
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "purchase for download",
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "setlistfm",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "url": {
+        "id": "f97c380d-63da-4411-9762-ccbe0649ffa2",
+        "resource": "https://www.setlist.fm/setlists/porsuigieco-63d64a6f.html"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "id": "3c89dccb-bfd0-4d3c-9391-a65206529c96",
+        "resource": "https://www.wikidata.org/wiki/Q5665986"
+      },
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attributes": [],
+      "target-credit": "",
+      "end": null,
+      "type": "wikidata",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": ""
+    }
+  ],
+  "type": "Group",
+  "ipis": [],
+  "id": "25d804a4-4990-43af-97ea-cd17456183d2",
+  "sort-name": "PorSuiGieco",
+  "aliases": []
+}

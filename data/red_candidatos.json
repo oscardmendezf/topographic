@@ -34,10 +34,11 @@
    "sh",
    "small-faces"
   ],
-  "n_albumes": 15,
+  "n_albumes": 19,
   "roles": [
    "artwork",
    "design",
+   "design/illustration",
    "graphic design",
    "illustration",
    "photography"
@@ -73,7 +74,7 @@
    "gong",
    "mo"
   ],
-  "n_albumes": 6,
+  "n_albumes": 7,
   "roles": [
    "mastering"
   ],
@@ -106,7 +107,7 @@
    "mothers-of-invention",
    "pf"
   ],
-  "n_albumes": 18,
+  "n_albumes": 19,
   "roles": [
    "lacquer cut",
    "liner notes",
@@ -123,7 +124,7 @@
    "pf",
    "who"
   ],
-  "n_albumes": 14,
+  "n_albumes": 15,
   "roles": [
    "art direction",
    "artwork",
@@ -335,7 +336,7 @@
    "pretty-things",
    "who"
   ],
-  "n_albumes": 12,
+  "n_albumes": 13,
   "roles": [
    "engineer",
    "liner notes",
@@ -360,6 +361,24 @@
    "mastering",
    "mix",
    "remixer"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "7029c38e-46ff-4b7c-bd1d-e9a3bef8eb2f",
+  "nombre": "Prof. Stoned",
+  "artistas": [
+   "beatles",
+   "kinks",
+   "pf"
+  ],
+  "n_albumes": 9,
+  "roles": [
+   "compiler",
+   "liner notes",
+   "mastering",
+   "mix",
+   "transfer"
   ],
   "es_musico_universo": false
  },
@@ -438,6 +457,21 @@
   "es_musico_universo": true
  },
  {
+  "mbid": "18acec19-11e8-46f1-a775-69930b7da481",
+  "nombre": "Vartan",
+  "artistas": [
+   "elo",
+   "kansas",
+   "who"
+  ],
+  "n_albumes": 5,
+  "roles": [
+   "art direction",
+   "design"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "3de5944f-63c8-428a-a1d7-51a2f5f3e831",
   "nombre": "Kevin Gray",
   "artistas": [
@@ -480,6 +514,21 @@
   "n_albumes": 4,
   "roles": [
    "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "9bea300f-ad94-4c0b-b0e2-f41776b53af0",
+  "nombre": "Glyn Johns",
+  "artistas": [
+   "kinks",
+   "small-faces",
+   "who"
+  ],
+  "n_albumes": 4,
+  "roles": [
+   "engineer",
+   "producer"
   ],
   "es_musico_universo": false
  },
@@ -615,6 +664,34 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "e6ff68e7-303c-4286-8e74-18aa3ec68f46",
+  "nombre": "Dezo Hoffmann",
+  "artistas": [
+   "pf",
+   "who",
+   "yes"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "photography"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "787c2d3c-51b4-41a9-92b1-1e8e059f6262",
+  "nombre": "Sean Magee",
+  "artistas": [
+   "beatles",
+   "rush"
+  ],
+  "n_albumes": 20,
+  "roles": [
+   "lacquer cut",
+   "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "b05a233f-a6df-4917-97f3-d39ca51bbc39",
   "nombre": "Hugh O'Donnell",
   "artistas": [
@@ -626,20 +703,6 @@
    "design",
    "graphic design",
    "illustration"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "787c2d3c-51b4-41a9-92b1-1e8e059f6262",
-  "nombre": "Sean Magee",
-  "artistas": [
-   "beatles",
-   "rush"
-  ],
-  "n_albumes": 14,
-  "roles": [
-   "lacquer cut",
-   "mastering"
   ],
   "es_musico_universo": false
  },
@@ -675,6 +738,19 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "5eed4030-2c54-4399-9219-e00c1e5f6f64",
+  "nombre": "Dan Hersch",
+  "artistas": [
+   "kinks",
+   "yes"
+  ],
+  "n_albumes": 13,
+  "roles": [
+   "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "52998f43-1df1-481c-a6a1-5f83ca2de000",
   "nombre": "Storm Thorgerson",
   "artistas": [
@@ -706,15 +782,17 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "5eed4030-2c54-4399-9219-e00c1e5f6f64",
-  "nombre": "Dan Hersch",
+  "mbid": "bbd494e5-7e49-4fd2-9451-bd19ec2dce64",
+  "nombre": "Bill Inglot",
   "artistas": [
    "kinks",
    "yes"
   ],
   "n_albumes": 10,
   "roles": [
-   "mastering"
+   "mastering",
+   "misc",
+   "producer"
   ],
   "es_musico_universo": false
  },
@@ -810,21 +888,6 @@
    "design/illustration",
    "graphic design",
    "illustration"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "bbd494e5-7e49-4fd2-9451-bd19ec2dce64",
-  "nombre": "Bill Inglot",
-  "artistas": [
-   "kinks",
-   "yes"
-  ],
-  "n_albumes": 9,
-  "roles": [
-   "mastering",
-   "misc",
-   "producer"
   ],
   "es_musico_universo": false
  },
@@ -1536,19 +1599,6 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "18acec19-11e8-46f1-a775-69930b7da481",
-  "nombre": "Vartan",
-  "artistas": [
-   "kansas",
-   "who"
-  ],
-  "n_albumes": 3,
-  "roles": [
-   "art direction"
-  ],
-  "es_musico_universo": false
- },
- {
   "mbid": "b07f899f-8f81-407a-b314-09763f6c8035",
   "nombre": "Robin Thompson",
   "artistas": [
@@ -1585,22 +1635,6 @@
   "roles": [
    "instrument",
    "photography"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "7029c38e-46ff-4b7c-bd1d-e9a3bef8eb2f",
-  "nombre": "Prof. Stoned",
-  "artistas": [
-   "kinks",
-   "pf"
-  ],
-  "n_albumes": 3,
-  "roles": [
-   "compiler",
-   "mastering",
-   "mix",
-   "transfer"
   ],
   "es_musico_universo": false
  },

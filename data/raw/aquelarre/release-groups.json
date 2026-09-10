@@ -1,0 +1,73 @@
+{
+  "release-group-count": 6,
+  "release-groups": [
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "27d0390a-333a-4bcf-b990-074deaf4bb70",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Otras Pistas",
+      "first-release-date": "2008",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "title": "Siesta",
+      "first-release-date": "1975",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "5fc9f13c-48c8-3e5d-8525-e4ac20730126",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "Corazones del lado del fuego",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "1999",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "75910283-f01b-3305-8fa5-f3596b20e974"
+    },
+    {
+      "first-release-date": "1973",
+      "secondary-types": [],
+      "title": "Candiles",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "85c5cd66-824a-47c7-ac57-c0d5789d2951",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "id": "b9604aae-9efa-33ad-9c36-1c26e3207d22",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1972",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "title": "Aquelarre"
+    },
+    {
+      "id": "f9fd142b-c7d0-3d64-850f-77549111effd",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1974",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "title": "Brumas"
+    }
+  ]
+}

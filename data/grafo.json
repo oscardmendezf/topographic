@@ -614,6 +614,159 @@
   },
   {
    "data": {
+    "id": "a:almendra",
+    "slug": "almendra",
+    "label": "Almendra",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:pescado-rabioso",
+    "slug": "pescado-rabioso",
+    "label": "Pescado Rabioso",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:spinetta-jade",
+    "slug": "spinetta-jade",
+    "label": "Spinetta Jade",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:spinetta",
+    "slug": "spinetta",
+    "label": "Luis Alberto Spinetta",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:socios-del-desierto",
+    "slug": "socios-del-desierto",
+    "label": "Spinetta y los Socios del Desierto",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:sui-generis",
+    "slug": "sui-generis",
+    "label": "Sui Generis",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:seru-giran",
+    "slug": "seru-giran",
+    "label": "Serú Girán",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:charly-garcia",
+    "slug": "charly-garcia",
+    "label": "Charly García",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:porsuigieco",
+    "slug": "porsuigieco",
+    "label": "PorSuiGieco",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:aquelarre",
+    "slug": "aquelarre",
+    "label": "Aquelarre",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:arco-iris",
+    "slug": "arco-iris",
+    "label": "Arco Iris",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:alas",
+    "slug": "alas",
+    "label": "Alas",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:color-humano",
+    "slug": "color-humano",
+    "label": "Color Humano",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:vox-dei",
+    "slug": "vox-dei",
+    "label": "Vox Dei",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:pastoral",
+    "slug": "pastoral",
+    "label": "Pastoral",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:bubu",
+    "slug": "bubu",
+    "label": "Bubu",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
+    "id": "a:tantor",
+    "slug": "tantor",
+    "label": "Tantor",
+    "tipo": "artista",
+    "grupo": "latinoamerica"
+   }
+  },
+  {
+   "data": {
     "id": "r:advision-trident-abbey-road-the-manor",
     "slug": "advision-trident-abbey-road-the-manor",
     "label": "Advision · Trident · Abbey Road · The Manor",
@@ -915,6 +1068,105 @@
     "tipo": "member_of",
     "relacion": "miembro de",
     "etiqueta": "guitar, lead vocals, original, spoken vocals (1964–1975)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:spinetta:invisible:member_of",
+    "source": "a:spinetta",
+    "target": "a:invisible",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (¿?–act.)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:charly-garcia:la-maquina-de-hacer-pajaros:member_of",
+    "source": "a:charly-garcia",
+    "target": "a:la-maquina-de-hacer-pajaros",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (¿?–act.)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:spinetta:almendra:member_of",
+    "source": "a:spinetta",
+    "target": "a:almendra",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "guitar, lead vocals, original (1968-11-11–1980-12-23)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:spinetta:pescado-rabioso:member_of",
+    "source": "a:spinetta",
+    "target": "a:pescado-rabioso",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "guitar, lead vocals, original (1971–1973)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:spinetta:spinetta-jade:member_of",
+    "source": "a:spinetta",
+    "target": "a:spinetta-jade",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (¿?–act.)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:spinetta:socios-del-desierto:member_of",
+    "source": "a:spinetta",
+    "target": "a:socios-del-desierto",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "guitar, lead vocals, original (¿?–act.)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:charly-garcia:sui-generis:member_of",
+    "source": "a:charly-garcia",
+    "target": "a:sui-generis",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "lead vocals, original (1968–1975-09-05)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:charly-garcia:seru-giran:member_of",
+    "source": "a:charly-garcia",
+    "target": "a:seru-giran",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (¿?–act.)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:charly-garcia:porsuigieco:member_of",
+    "source": "a:charly-garcia",
+    "target": "a:porsuigieco",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1974–1976)",
     "estado": "musicbrainz"
    }
   },

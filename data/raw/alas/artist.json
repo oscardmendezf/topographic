@@ -1,0 +1,446 @@
+{
+  "begin-area": {
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "disambiguation": "",
+    "name": "Buenos Aires",
+    "type-id": null,
+    "type": null,
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "sort-name": "Buenos Aires"
+  },
+  "area": {
+    "type-id": null,
+    "type": null,
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "sort-name": "Argentina",
+    "disambiguation": "",
+    "name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ]
+  },
+  "sort-name": "Alas",
+  "id": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+  "isnis": [],
+  "gender": null,
+  "name": "Alas",
+  "end-area": {
+    "type": null,
+    "type-id": null,
+    "sort-name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "disambiguation": "",
+    "name": "Buenos Aires"
+  },
+  "life-span": {
+    "ended": true,
+    "end": "1978",
+    "begin": "1975"
+  },
+  "country": "AR",
+  "disambiguation": "Latin-American 70s prog",
+  "type": "Group",
+  "relations": [
+    {
+      "direction": "backward",
+      "attributes": [
+        "guitar"
+      ],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "id": "21dcc3a2-9fc8-41d2-8736-cdcbde270f4c",
+        "sort-name": "Aznar, Pedro",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Pedro Aznar",
+        "country": "AR",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "begin": null,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "attribute-credits": {}
+    },
+    {
+      "begin": null,
+      "type": "member of band",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Aznar, Pedro",
+        "id": "21dcc3a2-9fc8-41d2-8736-cdcbde270f4c",
+        "country": "AR",
+        "disambiguation": "",
+        "name": "Pedro Aznar"
+      },
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type": "member of band",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "name": "Gustavo Moretto",
+        "country": "AR",
+        "disambiguation": "Argentine trumpeter, keyboardist and composer",
+        "sort-name": "Moretto, Gustavo",
+        "id": "c1521aa6-f875-4397-bbc3-322ab8ac4484",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "attribute-credits": {},
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "begin": null,
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "wind instruments": "77a0f1d3-f9ec-4055-a6e7-24d7258c21f7"
+      },
+      "artist": {
+        "name": "Gustavo Moretto",
+        "country": "AR",
+        "disambiguation": "Argentine trumpeter, keyboardist and composer",
+        "id": "c1521aa6-f875-4397-bbc3-322ab8ac4484",
+        "sort-name": "Moretto, Gustavo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [
+        "original",
+        "wind instruments"
+      ],
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "name": "Gustavo Moretto",
+        "country": "AR",
+        "disambiguation": "Argentine trumpeter, keyboardist and composer",
+        "sort-name": "Moretto, Gustavo",
+        "id": "c1521aa6-f875-4397-bbc3-322ab8ac4484",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "member of band",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "country": null,
+        "disambiguation": "",
+        "name": "Carlos Riganti",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c2802b5a-9cca-462d-bfd3-b56c8db3d759",
+        "sort-name": "Riganti, Carlos"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [
+        "original",
+        "percussion"
+      ],
+      "direction": "backward",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": null
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "id": "c2802b5a-9cca-462d-bfd3-b56c8db3d759",
+        "sort-name": "Riganti, Carlos",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Carlos Riganti",
+        "country": null,
+        "disambiguation": ""
+      },
+      "end": null,
+      "attribute-values": {},
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "direction": "backward"
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "begin": null,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Zuker, Alex",
+        "id": "36931875-f38b-4ff8-a098-772d7cf64696",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Alex Zuker",
+        "disambiguation": "",
+        "country": "AR"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "type": "member of band",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Alex Zuker",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "36931875-f38b-4ff8-a098-772d7cf64696",
+        "sort-name": "Zuker, Alex"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar",
+        "original"
+      ]
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0001453405",
+        "id": "03d5c85f-6508-483b-91b8-4dbd7e233735"
+      },
+      "type": "allmusic",
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/1814284",
+        "id": "84e42ff5-5810-49f6-9482-892e6c80ed2f"
+      },
+      "type": "discogs",
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "url": {
+        "id": "3eb7aba9-19d8-44ff-8931-03f861d2df98",
+        "resource": "https://open.spotify.com/artist/1DAJ5jfLrqvB6DU52HByvb"
+      },
+      "type": "free streaming",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "type": "last.fm",
+      "url": {
+        "id": "a939d5b1-72f6-4ea4-9fc7-74cc021ffffd",
+        "resource": "https://www.last.fm/music/Alas"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f"
+    },
+    {
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "fdcd8dd2-2b8b-4cb3-b78b-acbe4899f659",
+        "resource": "https://rateyourmusic.com/artist/alas_f1"
+      },
+      "type": "other databases",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "type": "other databases",
+      "url": {
+        "id": "df865695-12d9-4002-bc12-a0dbc29dc1d6",
+        "resource": "https://www.progarchives.com/artist.asp?id=2060"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type": "wikidata",
+      "url": {
+        "id": "e99694a4-7646-4a55-a904-5a725e308412",
+        "resource": "https://www.wikidata.org/wiki/Q4652246"
+      },
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    }
+  ],
+  "aliases": [],
+  "ipis": [],
+  "gender-id": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+}

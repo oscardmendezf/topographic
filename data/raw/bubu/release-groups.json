@@ -1,0 +1,49 @@
+{
+  "release-group-count": 4,
+  "release-groups": [
+    {
+      "first-release-date": "2018-09-07",
+      "id": "82007fac-34bc-4590-abcf-01797857812b",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "El eco del sol",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "title": "Tumar Moromere",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "22a628ad-c082-3c4f-b1b6-d41665107b88"
+      ],
+      "secondary-types": [
+        "Soundtrack"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "9457ab7c-3b9d-4f99-ac84-9175b8b255e2",
+      "first-release-date": "2006-04-03"
+    },
+    {
+      "first-release-date": "2026",
+      "id": "a64ca0fc-0a55-459f-8b8c-b570ccb280be",
+      "disambiguation": "",
+      "title": "El Último Cortejo",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": []
+    },
+    {
+      "primary-type": "Album",
+      "title": "Anabelas",
+      "disambiguation": "",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "e8b28b47-1dae-3929-a6b5-7d9fe23b5eac",
+      "first-release-date": "1978"
+    }
+  ]
+}

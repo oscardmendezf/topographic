@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "spinetta-kamikaze"
+titulo: "Kamikaze"
+artista: "Luis Alberto Spinetta"
+artista_slug: "spinetta"
+anio_ficha: 1982
+era: "siguiente"
+escena: "latinoamerica"
+mb_rgid: "d6e6ed92-9e10-30e9-b8e5-931b2be57954"
+primer_lanzamiento: "1982"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 5
+critica_fuente: "editorial"
+critica_nota: "Canon indiscutido del rock argentino."
+estrellas_comercial: 4
+comercial_fuente: "editorial"
+comercial_nota: "Alcance amplio, bastante más allá del público del prog."
+historia: "editorial"
+---
+
+Voz, guitarra acústica y casi nada más: el disco donde Spinetta demuestra que su repertorio aguanta sin banda. Reúne canciones de épocas distintas —«Barro tal vez» la escribió siendo adolescente— alrededor de una idea, el sacrificio, que la coyuntura de Malvinas resignificó de un modo que nadie había buscado. Poco prog en la superficie y mucho de lo esencial de su obra: uno de sus tres o cuatro discos imprescindibles.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Kamikaze es el disco donde Spinetta se queda solo con la voz y una guitarra acústica y demuestra que no necesita nada más. Llega en 1982, después de la disolución de Spinetta Jade y del desvío en inglés, y funciona como una vuelta al hueso: sin banda, sin arreglos, sin capas. El repertorio reúne canciones escritas en épocas muy distintas —«Barro tal vez» la había compuesto siendo adolescente y llevaba más de una década sin publicar— alrededor de una idea que las ordena: el sacrificio, la entrega sin retorno, la decisión de ir hacia adelante sabiendo el costo.
+
+El tema que abre y da nombre al álbum plantea esa idea en su forma más literal, y la coyuntura la resignificó de un modo que nadie había buscado: el disco salió mientras el país estaba en guerra por Malvinas, y una canción sobre pilotos que se lanzan a morir dejó de ser una metáfora abstracta. «Águila de trueno» la desarrolla en dos partes; «Almendra» mira hacia atrás sin nostalgia; «Barro tal vez» se convirtió en una de las canciones más cantadas del rock argentino gracias a una simplicidad que ningún arreglo habría mejorado. «Ella también» y «Y tu amor es una vieja medalla» sostienen el costado amoroso, «Ah!... Basta de pensar» y «Quedándote o yéndote» aportan la ironía, y «Casas marcadas» cierra con el tramo más extenso y más sombrío. «La aventura de la Abeja Reina» es la pieza más abierta del conjunto.
+
+## La producción
+
+La producción consiste, básicamente, en no producir. Voz y guitarra acústica, alguna segunda voz, algún detalle mínimo de otro instrumento: el criterio es que nada se interponga entre la canción y quien escucha. Es una decisión difícil de sostener y acá funciona porque el material la aguanta; con canciones menores, la misma austeridad habría sonado a falta de recursos.
+
+El sonido es cercano, con la guitarra registrada de manera que se oyen las cuerdas y la respiración, y la voz sin efectos que la embellezcan. En un año en que el rock argentino empezaba a llenarse de sintetizadores y cajas de ritmo, ese despojamiento fue una toma de posición además de una estética, y es la razón por la que el disco no envejeció mientras varios de sus contemporáneos sí.
+
+## Recepción y legado
+
+Se lo recibió bien y con el tiempo se volvió uno de sus tres o cuatro títulos imprescindibles, además del más recomendable para entrar a su obra. Tiene poco de progresivo en la superficie y mucho de lo esencial de su escritura: la elipsis, las imágenes que no se explican, las melodías que parecen simples hasta que se intentan cantar. Su lugar en la discografía es central por una razón adicional: probó que el repertorio de Spinetta existía por encima de cualquier formación, y que las bandas eran vehículos y no condiciones. Lo que se rescata es el disco entero; lo que no aparece acá es la ambición formal, y no hace falta.

@@ -1,0 +1,334 @@
+{
+  "aliases": [],
+  "gender-id": null,
+  "country": "AR",
+  "gender": null,
+  "end-area": null,
+  "name": "Tantor",
+  "type": "Group",
+  "area": {
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "sort-name": "Argentina",
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "name": "Argentina"
+  },
+  "disambiguation": "Argentinean jazz rock band",
+  "ipis": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "disambiguation": "",
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "type": null,
+    "name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "sort-name": "Buenos Aires",
+    "type-id": null
+  },
+  "sort-name": "Tantor",
+  "relations": [
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1977",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "disambiguation": "Argentine drummer and musician",
+        "name": "Rodolfo García",
+        "type": "Person",
+        "id": "673ead05-8e75-480f-8890-ff60ffe5b35a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "García, Rodolfo",
+        "country": "AR"
+      },
+      "end": "1983",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ]
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1977",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1983",
+      "artist": {
+        "name": "Héctor Starc",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Starc, Héctor",
+        "country": "AR",
+        "id": "025396fd-c02c-49f9-bc32-2abc53a5b7d1"
+      },
+      "source-credit": "",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "end": "1980",
+      "artist": {
+        "disambiguation": "",
+        "name": "Machi Rufino",
+        "type": "Person",
+        "id": "9be4b04e-96f0-41ee-8553-924f751c1aaa",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "AR",
+        "sort-name": "Rufino, Machi"
+      },
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": "1978",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "1980",
+      "artist": {
+        "id": "16c6b187-a30f-4484-922f-e189556783c9",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "AR",
+        "sort-name": "Sujatovich, Leo",
+        "disambiguation": "Argentine musician",
+        "name": "Leo Sujatovich",
+        "type": "Person"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1978",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "keyboard"
+      ]
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "begin": "1978",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "end": "1980",
+      "artist": {
+        "id": "800b68a2-7cb8-424f-af00-179e32d3dce0",
+        "country": "AR",
+        "sort-name": "Vitale, Lito",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Lito Vitale"
+      },
+      "ended": true,
+      "source-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1981",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "1983",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Cerviño, Babú",
+        "country": "AR",
+        "id": "72f58d48-481c-4c35-8029-9e4c4749710d",
+        "name": "Babú Cerviño",
+        "type": "Person",
+        "disambiguation": ""
+      }
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "",
+        "name": "Marcelo Torres",
+        "type": "Person",
+        "id": "2130fccc-e699-46b4-a44f-33cfd373a64e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Torres, Marcelo"
+      },
+      "end": "1983",
+      "ended": true,
+      "begin": "1981",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "source-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "discogs",
+      "end": null,
+      "url": {
+        "id": "64d3b074-be97-4c10-8407-93d60df15b1b",
+        "resource": "https://www.discogs.com/artist/610956"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "http://rock.com.ar/artistas/398",
+        "id": "e5134488-97ac-400b-9c8a-7a5d5189ea89"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/tantor",
+        "id": "ab914946-cf35-424d-b5a9-e82d6a56dc42"
+      },
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "id": "d4451290-7a30-4158-a221-331e429c5099",
+        "resource": "https://www.setlist.fm/setlists/tantor-2bcd1c1e.html"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "setlistfm",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "wikidata",
+      "direction": "forward",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "682406bf-2da7-41de-be2e-c0c5e80aaf80",
+        "resource": "https://www.wikidata.org/wiki/Q16637816"
+      },
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    }
+  ],
+  "isnis": [],
+  "life-span": {
+    "begin": "1977",
+    "ended": true,
+    "end": "1983"
+  },
+  "id": "0149b34a-36da-45f8-99c6-e3668f80c781"
+}

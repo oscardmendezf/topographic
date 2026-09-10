@@ -1,0 +1,335 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "life-span": {
+    "begin": "1968",
+    "end": "2006",
+    "ended": true
+  },
+  "country": "AR",
+  "disambiguation": "Argentinian rock band",
+  "isnis": [],
+  "name": "Arco Iris",
+  "gender-id": null,
+  "end-area": null,
+  "area": {
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "sort-name": "Argentina",
+    "name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ]
+  },
+  "relations": [
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "AR",
+        "disambiguation": "",
+        "id": "1b92cecf-4708-4224-8e52-951b92e70207",
+        "sort-name": "Rapoport, Diego",
+        "name": "Diego Rapoport"
+      },
+      "target-credit": "",
+      "type": "member of band",
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "target-type": "artist",
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": null,
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Tokatlián, Ara",
+        "id": "e3f5d45f-fdae-4310-ab61-604311c4d391",
+        "name": "Ara Tokatlián"
+      },
+      "end": null,
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "original"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": null,
+      "target-type": "artist",
+      "attribute-credits": {},
+      "ended": true,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "end": null,
+      "type": "member of band",
+      "artist": {
+        "id": "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+        "sort-name": "Santaolalla, Gustavo",
+        "name": "Gustavo Santaolalla",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Argentine score composer",
+        "type": "Person",
+        "country": "AR"
+      },
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000503229",
+        "id": "a8ed88d5-6bc3-4bc7-ba1f-f557e0685aa4"
+      },
+      "target-type": "url",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "allmusic",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "type": "discogs",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "id": "2587e43f-644d-45da-8290-d3cdcf93b9e2",
+        "resource": "https://www.discogs.com/artist/375661"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "url": {
+        "id": "0cbbcd12-7c9b-4907-b2e0-fe0d45609907",
+        "resource": "https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW"
+      },
+      "ended": false
+    },
+    {
+      "end": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.deezer.com/artist/348226",
+        "id": "0a851cf0-5ca1-4fa4-a0a8-aaff0e79b557"
+      },
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "url": {
+        "resource": "http://www.arcoirismusic.net/",
+        "id": "ff9cd812-0049-4630-ab9e-eb54a2ef11a7"
+      },
+      "target-type": "url",
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "official homepage",
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "url": {
+        "resource": "http://rock.com.ar/artistas/arco-iris",
+        "id": "b0ccdcf4-1025-4e0c-8363-ed9f7466b06e"
+      },
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "b8eec9a9-e7fe-4ff3-bca2-647458ee49bb",
+        "resource": "https://rateyourmusic.com/artist/arco_iris"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-type": "url",
+      "url": {
+        "resource": "https://itunes.apple.com/ar/artist/id254093257",
+        "id": "6bedb4a6-5387-4a0a-b470-037b3544fd50"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "type": "purchase for download",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "url": {
+        "id": "db486ac4-04ec-467c-ac9f-116cba8f0c29",
+        "resource": "https://www.setlist.fm/setlists/arco-iris-5bd76b78.html"
+      },
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "setlistfm"
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "9e01a5d8-4665-4300-a5bf-9c9bd363abb4",
+        "resource": "https://www.songkick.com/artists/513940"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "songkick",
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "10c83d9c-ffc4-4e52-9016-57807ac3a7a2",
+        "resource": "https://tidal.com/artist/3584289"
+      },
+      "attributes": [],
+      "type": "streaming",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "url": {
+        "id": "2a90b8f7-6e28-469c-96c0-0a62689c092a",
+        "resource": "https://www.wikidata.org/wiki/Q4787420"
+      },
+      "target-type": "url",
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "type": "wikidata"
+    }
+  ],
+  "type": "Group",
+  "begin-area": {
+    "name": "El Palomar",
+    "type-id": null,
+    "id": "a1761270-bcb0-4f48-8ef3-6a8b83b4bcf7",
+    "sort-name": "El Palomar",
+    "disambiguation": "",
+    "type": null
+  },
+  "gender": null,
+  "id": "ab30a356-59f4-435e-bc1c-2d2a1f95b8c5",
+  "sort-name": "Arco Iris",
+  "aliases": [],
+  "ipis": []
+}

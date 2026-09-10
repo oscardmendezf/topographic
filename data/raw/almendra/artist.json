@@ -1,0 +1,438 @@
+{
+  "end-area": null,
+  "country": "AR",
+  "disambiguation": "",
+  "sort-name": "Almendra",
+  "isnis": [
+    "0000000469089541"
+  ],
+  "life-span": {
+    "ended": true,
+    "begin": "1967",
+    "end": "1981"
+  },
+  "name": "Almendra",
+  "id": "0b144888-0e76-465c-be88-882cf4f4cb5e",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "aliases": [],
+  "begin-area": {
+    "type": null,
+    "type-id": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "disambiguation": "",
+    "sort-name": "Buenos Aires"
+  },
+  "type": "Group",
+  "ipis": [],
+  "area": {
+    "type": null,
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "name": "Argentina",
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "disambiguation": "",
+    "sort-name": "Argentina"
+  },
+  "gender": null,
+  "relations": [
+    {
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "source-credit": "",
+      "end": "1980-12-23",
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "AR",
+        "name": "Luis Alberto Spinetta",
+        "id": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "disambiguation": "“El Flaco”",
+        "sort-name": "Spinetta, Luis Alberto"
+      },
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "original"
+      ],
+      "attribute-credits": {},
+      "attribute-values": {},
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "begin": "1968-11-11",
+      "direction": "backward"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "type": "member of band",
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "AR",
+        "type": "Person",
+        "disambiguation": "",
+        "sort-name": "del Guercio, Emilio",
+        "name": "Emilio del Guercio",
+        "id": "f3c75be3-ce8c-4aa9-8a35-a4fdc261ea09"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "bass guitar"
+      ],
+      "attribute-values": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "direction": "backward",
+      "begin": null
+    },
+    {
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "direction": "backward",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "membranophone"
+      ],
+      "artist": {
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "García, Rodolfo",
+        "disambiguation": "Argentine drummer and musician",
+        "name": "Rodolfo García",
+        "id": "673ead05-8e75-480f-8890-ff60ffe5b35a"
+      },
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": null,
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "disambiguation": "",
+        "sort-name": "Molinari, Edelmiro",
+        "id": "48aec27d-2491-4862-854c-c9eb615dd011",
+        "name": "Edelmiro Molinari",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "AR",
+        "type": "Person"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "guitar"
+      ]
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "target-type": "url",
+      "url": {
+        "id": "6153cd46-9aee-4c54-8ad7-3ef21371ffa3",
+        "resource": "https://www.allmusic.com/artist/mn0000013740"
+      },
+      "type": "allmusic",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "target-credit": "",
+      "type": "BBC Music page",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/0b144888-0e76-465c-be88-882cf4f4cb5e",
+        "id": "c83fdccb-e984-4566-b756-ae1898eb0935"
+      },
+      "source-credit": "",
+      "ended": true,
+      "end": "2020-11-19",
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.discogs.com/artist/1006852",
+        "id": "f791a140-315c-439e-860a-250ea9034fe2"
+      },
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "type": "discogs",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "ended": false,
+      "url": {
+        "id": "18c66728-5c3e-493a-a697-cc95f8badc11",
+        "resource": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
+      },
+      "target-type": "url",
+      "type": "free streaming",
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "id": "50a58a61-86f9-4d16-9998-9df4eff6bf91",
+        "resource": "https://www.deezer.com/artist/355716"
+      },
+      "target-type": "url",
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "id": "5b0fc22d-a732-4e56-a27a-a7f648e42d26",
+        "resource": "https://www.imdb.com/name/nm1084815/"
+      },
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "target-credit": "",
+      "type": "IMDb",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "ended": false,
+      "url": {
+        "id": "c6318b8a-5e40-4d70-8941-a301459bc718",
+        "resource": "https://www.last.fm/music/Almendra"
+      },
+      "target-type": "url",
+      "type": "last.fm",
+      "target-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-credit": "",
+      "type": "lyrics",
+      "target-type": "url",
+      "url": {
+        "resource": "https://genius.com/artists/Almendra",
+        "id": "f7244908-10ab-4563-a185-e1ede5e48a43"
+      },
+      "source-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "type": "other databases",
+      "target-type": "url",
+      "url": {
+        "id": "1454925b-1b76-4733-a318-4ad39cb01858",
+        "resource": "http://rock.com.ar/artistas/almendra"
+      },
+      "ended": false,
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/almendra",
+        "id": "5514901d-2a9d-4b21-a402-5b7023846e82"
+      },
+      "target-type": "url",
+      "type": "other databases",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download",
+      "target-type": "url",
+      "url": {
+        "id": "9863ffe5-65dd-415b-8123-645dc8977f7d",
+        "resource": "https://play.google.com/store/music/artist?id=A4kq3ji7fz7star55cq6c6qc6ui"
+      },
+      "end": "2020-10-12",
+      "ended": true,
+      "source-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "type": "purchase for download",
+      "url": {
+        "id": "d3508e31-a27e-4e9a-9fa6-83e96dce44a2",
+        "resource": "https://music.apple.com/us/artist/120619236"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/almendra-bd6398e.html",
+        "id": "bdc3005a-4955-4e03-bfe6-380809d86f0b"
+      },
+      "target-type": "url",
+      "type": "setlistfm",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "url": {
+        "id": "226b2594-a270-4142-961c-f0757f44d1fc",
+        "resource": "https://tidal.com/artist/4151506"
+      },
+      "type": "streaming",
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "type": "wikidata",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1571799",
+        "id": "32b9e392-d8c3-4d56-85f4-94541b92531e"
+      },
+      "source-credit": "",
+      "ended": false,
+      "end": null
+    }
+  ]
+}

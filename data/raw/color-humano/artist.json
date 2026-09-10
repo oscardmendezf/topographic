@@ -1,0 +1,308 @@
+{
+  "name": "Color Humano",
+  "type": "Group",
+  "area": {
+    "type-id": null,
+    "sort-name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "name": "Argentina",
+    "type": null,
+    "disambiguation": ""
+  },
+  "disambiguation": "Argentinian rock band",
+  "ipis": [],
+  "begin-area": {
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "type-id": null,
+    "sort-name": "Buenos Aires",
+    "disambiguation": "",
+    "name": "Buenos Aires",
+    "type": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ]
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "ended": false,
+      "artist": {
+        "id": "6e46f85e-9d9b-4079-87e6-eab785300ad7",
+        "sort-name": "Lebón, David",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "David Lebón"
+      },
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "artist": {
+        "sort-name": "Molinari, Edelmiro",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "48aec27d-2491-4862-854c-c9eb615dd011",
+        "type": "Person",
+        "name": "Edelmiro Molinari",
+        "disambiguation": ""
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Oscar Moro",
+        "type": "Person",
+        "id": "8d9e7192-63f2-4d6f-b003-655bdd142c40",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "AR",
+        "sort-name": "Moro, Oscar"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "artist": {
+        "id": "a9a00dae-06f5-4574-af09-11b1a873cd04",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Rafanelli, Rinaldo",
+        "country": "AR",
+        "disambiguation": "",
+        "name": "Rinaldo Rafanelli",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000550486",
+        "id": "6c9ebc72-1865-4f83-81f6-54f880f8cbab"
+      },
+      "ended": false,
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "allmusic"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discogs",
+      "url": {
+        "resource": "https://www.discogs.com/artist/1105633",
+        "id": "65ae1085-7ce7-4cb8-8fb1-98f241a9b6aa"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "676369ea-bdb0-4a36-a1e7-43fa49284156",
+        "resource": "https://open.spotify.com/artist/6AETRCQep85mUtIlX7BaFV"
+      },
+      "type": "free streaming",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "926ada34-2ae9-435b-8fe0-04afb2a635c1",
+        "resource": "http://rock.com.ar/artistas/color-humano"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/color_humano",
+        "id": "35710622-6f4f-4c60-bc61-acf9d6e15e20"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "ended": false,
+      "url": {
+        "id": "21203552-5837-45d2-950d-8cc82ee03abb",
+        "resource": "https://www.setlist.fm/setlists/color-humano-73d7fab5.html"
+      },
+      "end": null,
+      "type": "setlistfm",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.songkick.com/artists/342578",
+        "id": "09c1d42c-4304-4bcb-9371-90d3b76a55c8"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "songkick",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "ended": false,
+      "url": {
+        "id": "01e26982-2e79-48ed-95fd-b3e1817f57cb",
+        "resource": "https://www.wikidata.org/wiki/Q5148557"
+      },
+      "end": null,
+      "type": "wikidata",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q5148557",
+        "id": "01e26982-2e79-48ed-95fd-b3e1817f57cb"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikipedia",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    }
+  ],
+  "sort-name": "Color Humano",
+  "isnis": [],
+  "life-span": {
+    "end": "1974",
+    "ended": true,
+    "begin": "1972"
+  },
+  "id": "6a8adb55-47e5-465e-b9fc-394879fb7bf3",
+  "aliases": [],
+  "gender": null,
+  "country": "AR",
+  "gender-id": null,
+  "end-area": {
+    "sort-name": "Buenos Aires",
+    "type-id": null,
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "type": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "name": "Buenos Aires",
+    "disambiguation": ""
+  }
+}

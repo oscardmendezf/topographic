@@ -1,0 +1,283 @@
+{
+ "id": "ar-otros",
+ "escena": "latinoamerica",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "vox-dei",
+   "nombre": "Vox Dei",
+   "tipo": "Group",
+   "pais": "AR",
+   "inicio": "1967",
+   "fin": "2017-06",
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Vox_Dei",
+   "formaciones_mb": [
+    "Rubén Basoalto (background vocals, membranophone, original, percussion; 1967–2010)",
+    "Juan Carlos “Yodi” Godoy (guitar, original; 1967–2013)",
+    "Ricardo Soulé (guitar, harmonica, lead vocals, original, piano, violin; 1967–2013)",
+    "Willy Quiroga (bass guitar, guitar, keyboard, lead vocals, original; 1967–2017-06)",
+    "Nacho Smilari (electric guitar; 1971–1971)",
+    "Carlos Michelini (electric guitar, lead vocals; 1974–1975)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "vox-dei-caliente",
+     "titulo": "Caliente",
+     "anio": 1970,
+     "mbid": "a80e2217-0718-3975-b5ce-20db04e54844",
+     "primer_lanzamiento": "1970",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-la-biblia-1971",
+     "titulo": "La Biblia",
+     "anio": 1971,
+     "mbid": "04e658ff-608c-347a-8268-18d23fe01160",
+     "primer_lanzamiento": "1971-03-15",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-jeremias-pies-de-plomo",
+     "titulo": "Jeremías pies de plomo",
+     "anio": 1972,
+     "mbid": "a783f045-8732-3d4d-ad9b-fafef8d55918",
+     "primer_lanzamiento": "1972",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-cuero-caliente",
+     "titulo": "Cuero caliente",
+     "anio": 1972,
+     "mbid": "b4d0e040-451b-340a-81e2-d5412c5d3b71",
+     "primer_lanzamiento": "1972-12",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-es-una-nube-no-hay-duda",
+     "titulo": "Es una nube, no hay duda",
+     "anio": 1973,
+     "mbid": "75c5377c-e416-3263-8e93-ac7ccd1d0bea",
+     "primer_lanzamiento": "1973",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-vox-dei-para-vox-dei",
+     "titulo": "Vox Dei para Vox Dei",
+     "anio": 1974,
+     "mbid": "f768f1f3-8dcd-468f-b92d-4a96abd31698",
+     "primer_lanzamiento": "1974",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-estamos-en-la-pecera",
+     "titulo": "Estamos en la pecera",
+     "anio": 1975,
+     "mbid": "784ffbf8-3f6a-3e60-8b6c-f5a954872d99",
+     "primer_lanzamiento": "1975",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-ciegos-de-siglos",
+     "titulo": "Ciegos de siglos",
+     "anio": 1976,
+     "mbid": "4b034040-5c96-3afe-a9de-7b52b5a4a526",
+     "primer_lanzamiento": "1976",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-gata-de-noche",
+     "titulo": "Gata de noche",
+     "anio": 1978,
+     "mbid": "6e5a821e-a406-4a12-9f2f-7d37a4495d36",
+     "primer_lanzamiento": "1978",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-tengo-razones-para-seguir",
+     "titulo": "Tengo razones para seguir",
+     "anio": 1988,
+     "mbid": "25a14e30-e53f-4ba2-b9cb-f08d8277d8f2",
+     "primer_lanzamiento": "1988",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-sin-darle-ya-mas-vueltas",
+     "titulo": "Sin darle ya más vueltas",
+     "anio": 1994,
+     "mbid": "ab38adb1-7478-4552-9021-a5f7cffd38ac",
+     "primer_lanzamiento": "1994",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-la-biblia-1997",
+     "titulo": "La Biblia",
+     "anio": 1997,
+     "mbid": "176b2c5c-94fd-4d27-9e6e-d8db2cd3886f",
+     "primer_lanzamiento": "1997",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-el-camino",
+     "titulo": "El camino",
+     "anio": 2005,
+     "mbid": "eebf1693-6b20-3a8d-89e7-29cd9a30898c",
+     "primer_lanzamiento": "2005",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "vox-dei-la-cinta-perdida",
+     "titulo": "La Cinta Perdida",
+     "anio": 2025,
+     "mbid": "907f426d-11b4-4c14-b57b-53b33891efcf",
+     "primer_lanzamiento": "2025-08-29",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "pastoral",
+   "nombre": "Pastoral",
+   "tipo": "Group",
+   "pais": "AR",
+   "inicio": "1971",
+   "fin": "1983-05-20",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Pastoral_(d%C3%BAo_de_rock)",
+   "formaciones_mb": [
+    "Alejandro De Michele (lead vocals; ?–act.)",
+    "Alejandro De Michele (guitar; ?–act.)",
+    "Miguel Ángel Erausquin (lead vocals; ?–act.)",
+    "Miguel Ángel Erausquin (guitar; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "pastoral-pastoral",
+     "titulo": "Pastoral",
+     "anio": 1973,
+     "mbid": "cfda9433-6873-42dd-b6fd-1bcf6070079f",
+     "primer_lanzamiento": "1973",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "pastoral-en-el-hospicio",
+     "titulo": "En el hospicio",
+     "anio": 1975,
+     "mbid": "dac25612-1fb4-4d81-9f65-606b6b3f6c2a",
+     "primer_lanzamiento": "1975",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "pastoral-humanos",
+     "titulo": "Humanos",
+     "anio": 1976,
+     "mbid": "72a1e667-6480-4b9e-bb62-0dc664baf561",
+     "primer_lanzamiento": "1976",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "pastoral-atrapados-en-el-cielo",
+     "titulo": "Atrapados en el cielo",
+     "anio": 1977,
+     "mbid": "dca9075f-206f-4b81-8b52-20635fd1c8f4",
+     "primer_lanzamiento": "1977",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "pastoral-de-michele-erausquin",
+     "titulo": "De Michele - Erausquin",
+     "anio": 1979,
+     "mbid": "18e4b341-1c53-49e2-aa4a-7965d3d8f4c3",
+     "primer_lanzamiento": "1979",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "pastoral-generacion",
+     "titulo": "Generación",
+     "anio": 1982,
+     "mbid": "43ffa940-beab-47b4-bec0-b76df5a5cf52",
+     "primer_lanzamiento": "1982",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "bubu",
+   "nombre": "Bubu",
+   "tipo": "Group",
+   "pais": "AR",
+   "inicio": "1973",
+   "fin": "1978",
+   "wikipedia_url": null,
+   "formaciones_mb": [],
+   "catalogo": [
+    {
+     "album_slug": "bubu-anabelas",
+     "titulo": "Anabelas",
+     "anio": 1978,
+     "mbid": "e8b28b47-1dae-3929-a6b5-7d9fe23b5eac",
+     "primer_lanzamiento": "1978",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "bubu-tumar-moromere",
+     "titulo": "Tumar Moromere",
+     "anio": 2006,
+     "mbid": "9457ab7c-3b9d-4f99-ac84-9175b8b255e2",
+     "primer_lanzamiento": "2006-04-03",
+     "soundtrack": true
+    },
+    {
+     "album_slug": "bubu-el-eco-del-sol",
+     "titulo": "El eco del sol",
+     "anio": 2018,
+     "mbid": "82007fac-34bc-4590-abcf-01797857812b",
+     "primer_lanzamiento": "2018-09-07",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "bubu-el-ultimo-cortejo",
+     "titulo": "El Último Cortejo",
+     "anio": 2026,
+     "mbid": "a64ca0fc-0a55-459f-8b8c-b570ccb280be",
+     "primer_lanzamiento": "2026",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "tantor",
+   "nombre": "Tantor",
+   "tipo": "Group",
+   "pais": "AR",
+   "inicio": "1977",
+   "fin": "1983",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Tantor",
+   "formaciones_mb": [
+    "Rodolfo García (drums (drum set), original; 1977–1983)",
+    "Héctor Starc (guitar, original; 1977–1983)",
+    "Machi Rufino (bass guitar; 1978–1980)",
+    "Leo Sujatovich (keyboard; 1978–1980)",
+    "Lito Vitale (keyboard; 1978–1980)",
+    "Babú Cerviño (keyboard; 1981–1983)",
+    "Marcelo Torres (bass guitar; 1981–1983)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "tantor-tantor",
+     "titulo": "Tantor",
+     "anio": 1979,
+     "mbid": "e94e57b5-a231-483d-8db2-2651e0f2bde6",
+     "primer_lanzamiento": "1979",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "tantor-magico-y-natural",
+     "titulo": "Mágico Y Natural",
+     "anio": 2015,
+     "mbid": "d7be0758-a511-4927-b14d-9e36a745a162",
+     "primer_lanzamiento": "2015",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

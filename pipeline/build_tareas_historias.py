@@ -14,7 +14,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT = ROOT / "content" / "albumes"
 OUT = ROOT / "data" / "tareas_historias.json"
-LOTE = int(sys.argv[1]) if len(sys.argv) > 1 else 20
+ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
+LOTE = int(ARGS[0]) if ARGS else 20
+SOLO_PENDIENTES = "--pendientes" in sys.argv          # solo álbumes sin historia escrita
+PREFIJO = next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--prefijo=")), "his")
 
 # Créditos útiles para la producción original (no los de reedición/fabricación).
 TIPOS_PROD = {"producer", "engineer", "mix", "recording", "arranger", "orchestrator",
@@ -74,10 +77,19 @@ def main() -> None:
         fm, body = parse_md(p)
         artistas[fm.get("slug", p.stem)] = body[:900]
 
+    hechos = set()
+    if SOLO_PENDIENTES:
+        ed = ROOT / "data" / "editorial_historias"
+        for q in ed.glob("*.json"):
+            hechos |= {a["album_slug"] for a in json.loads(q.read_text(encoding="utf-8"))["albumes"]}
+        for q in ed.glob("partes/*/*.json"):
+            hechos.add(json.loads(q.read_text(encoding="utf-8"))["album_slug"])
     albumes = []
     for p in sorted(CONTENT.glob("*.md")):
         fm, analisis = parse_md(p)
         slug = fm["slug"]
+        if slug in hechos:
+            continue
         lista = canciones.get(slug)
         pistas = []
         if lista:
@@ -112,11 +124,12 @@ def main() -> None:
     for i, g in enumerate(grupos, 1):
         slugs_art = sorted({a["artista_slug"] for a in g})
         manifest["grupos"].append({
-            "id": f"his-{i:02d}",
+            "id": f"{PREFIJO}-{i:02d}",
             "contexto_artistas": {s: artistas.get(s, "") for s in slugs_art},
             "albumes": g,
         })
-    OUT.write_text(json.dumps(manifest, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    if not SOLO_PENDIENTES:
+        OUT.write_text(json.dumps(manifest, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     # Un archivo por grupo para que cada agente lea solo lo suyo.
     por_grupo = ROOT / "data" / "tareas_historias"
     por_grupo.mkdir(exist_ok=True)

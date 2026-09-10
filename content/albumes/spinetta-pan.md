@@ -1,0 +1,39 @@
+---
+tipo: "album"
+slug: "spinetta-pan"
+titulo: "Pan"
+artista: "Luis Alberto Spinetta"
+artista_slug: "spinetta"
+anio_ficha: 2006
+era: "moderna"
+escena: "latinoamerica"
+mb_rgid: "0db4c632-28d6-3541-a7b6-db9e9c278821"
+primer_lanzamiento: "2006-03"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Regreso convincente al jazz-rock; el arreglo por delante de la canción."
+estrellas_comercial: 3
+comercial_fuente: "editorial"
+comercial_nota: "Alcance medio, con público ya consolidado."
+historia: "editorial"
+---
+
+El disco donde el jazz-rock de Spinetta Jade vuelve por la puerta grande: teclados al frente, métricas cruzadas y una banda que toca con una soltura que los discos programados de los ochenta no tenían. Es la mejor noticia para quien llega a Spinetta por el lado prog, aunque las canciones no siempre estén a la altura del arreglo. Un reencuentro más que un descubrimiento.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Pan es el disco donde el jazz-rock de Spinetta Jade vuelve por la puerta grande, veinte años después de que aquel proyecto se disolviera. Después de Para los árboles, un álbum de superficies programadas y clima contemplativo, este suena a grupo: teclados al frente, métricas cruzadas, temas que se abren en secciones y una banda que toca junta en lugar de encimar capas. No es un disco conceptual, aunque el título invite a buscarle un sentido; el juego está en la ambigüedad entre el alimento y el dios griego, y el álbum no la resuelve ni le hace falta.
+
+Los doce temas rondan o superan los cinco minutos y esa duración no es capricho: hay desarrollo, hay pasajes instrumentales con función y hay solos con espacio real. «Sinfín» abre marcando la ambición, con un título que ya describe el procedimiento. «Bolsodios» y «Preconición» juegan con la invención léxica que Spinetta cultivó toda su vida, y «Proseropina» deforma un nombre mitológico hasta volverlo suyo. «Canción de noche» y «Dale luz al instante» son las piezas donde la melodía manda; «Atado a tu frontera» y «Espuma mística» son las que más se estiran, y el cierre queda a cargo de esta última. «¡Qué hermosa estás!» y «Cabecita calesita» aportan el costado liviano, y ahí aparece el problema del disco: no todas las canciones están a la altura del arreglo que las rodea.
+
+## La producción
+
+La diferencia con los discos de los ochenta y con los tardíos programados está en el método. Acá hay una banda tocando, con teclados que cumplen el rol que en Jade tenían los eléctricos —colchones, contracantos, solos— y una sección rítmica que se mueve con soltura en compases que el rock argentino frecuenta poco. La mezcla deja escuchar la interacción: los instrumentos se responden, los finales están tocados y no desvanecidos, y los pasajes instrumentales no suenan a relleno entre estrofas. La guitarra de Spinetta vuelve a un registro jazzístico de acordes abiertos y frases cortas, más cerca de Alma de Diamante que de cualquier cosa que hubiera grabado en las dos décadas previas. Es una producción cálida, sin efectos de época, que apuesta al sonido del grupo en la sala.
+
+## Recepción y legado
+
+Fue el disco que reconcilió a Spinetta con el público que lo seguía por el lado instrumental. Para quien llega a su obra desde el progresivo es la mejor noticia de su etapa moderna y la puerta de entrada más lógica después de Invisible y Jade. La objeción es justa y conviene mantenerla: el material compositivo no siempre justifica el despliegue, y algunos temas se apoyan más en lo que toca la banda que en lo que dice la canción. Queda entonces como un reencuentro antes que como un descubrimiento, y como el preparativo directo de Un mañana, que dos años después haría lo mismo con canciones mejores.

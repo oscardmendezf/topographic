@@ -1,0 +1,1298 @@
+{
+  "type": "Person",
+  "sort-name": "García, Charly",
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "end-area": null,
+  "ipis": [
+    "00076626061"
+  ],
+  "gender": "Male",
+  "name": "Charly García",
+  "relations": [
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "Charly García",
+        "country": "AR",
+        "name": "Say No More",
+        "type": "Person",
+        "sort-name": "Say No More",
+        "id": "eccce396-020e-4f29-a8c1-b6de36b2aa47",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "dd9886f2-1dfe-4270-97db-283f6839a666",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "is person",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "b2bf7a5d-2da6-4742-baf4-e38d8a7ad029",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "married",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "country": "AR",
+        "name": "María Rosa Yorio",
+        "type": "Person",
+        "sort-name": "Yorio, María Rosa",
+        "id": "4e301a12-f934-49eb-a950-99b552468d9f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "electric guitar",
+        "original"
+      ],
+      "end": "1968",
+      "begin": "1967",
+      "type": "member of band",
+      "direction": "forward",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "To Walk Spanish",
+        "type": "Group",
+        "id": "24611dd8-424b-48fb-8121-e6b0e69dba9e",
+        "country": "AR",
+        "name": "To Walk Spanish",
+        "disambiguation": "Argentine beat band"
+      }
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "type": "Group",
+        "sort-name": "To Walk Spanish",
+        "id": "24611dd8-424b-48fb-8121-e6b0e69dba9e",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Argentine beat band",
+        "country": "AR",
+        "name": "To Walk Spanish"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "end": "1968",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "artist",
+      "begin": "1967",
+      "type": "member of band"
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "original",
+        "piano"
+      ],
+      "attribute-credits": {},
+      "end": "1968",
+      "type": "member of band",
+      "begin": "1967",
+      "target-type": "artist",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "name": "To Walk Spanish",
+        "country": "AR",
+        "disambiguation": "Argentine beat band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "24611dd8-424b-48fb-8121-e6b0e69dba9e",
+        "sort-name": "To Walk Spanish",
+        "type": "Group"
+      },
+      "ended": true
+    },
+    {
+      "direction": "forward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1968",
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "end": "1975-09-05",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Sui Generis",
+        "type": "Group",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "country": "AR",
+        "name": "Sui Generis",
+        "disambiguation": "Argentinean band"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true
+    },
+    {
+      "type": "member of band",
+      "begin": "1968",
+      "direction": "forward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [
+        "original",
+        "piano"
+      ],
+      "attribute-credits": {},
+      "end": "1975-09-05",
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Sui Generis",
+        "type": "Group",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Argentinean band",
+        "country": "AR",
+        "name": "Sui Generis"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "ended": true
+    },
+    {
+      "direction": "forward",
+      "target-type": "artist",
+      "begin": "1968",
+      "type": "member of band",
+      "attribute-credits": {},
+      "end": "1975-09-05",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "Argentinean band",
+        "country": "AR",
+        "name": "Sui Generis",
+        "type": "Group",
+        "sort-name": "Sui Generis",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true
+    },
+    {
+      "begin": "1968",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "end": "1975-09-05",
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "Argentinean band",
+        "country": "AR",
+        "name": "Sui Generis",
+        "sort-name": "Sui Generis",
+        "type": "Group",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true
+    },
+    {
+      "begin": "1974",
+      "type": "member of band",
+      "direction": "forward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [],
+      "end": "1976",
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "id": "25d804a4-4990-43af-97ea-cd17456183d2",
+        "sort-name": "PorSuiGieco",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Argentinean rock supergroup",
+        "name": "PorSuiGieco",
+        "country": "AR"
+      },
+      "attribute-ids": {},
+      "ended": true
+    },
+    {
+      "artist": {
+        "name": "Billy Bond and The Jets",
+        "country": "AR",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "e6d79041-5b54-46fa-8655-22cb3e697ada",
+        "sort-name": "Bond, Billy and Jets, The",
+        "type": "Group"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true,
+      "direction": "forward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1978",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "end": "1978",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "disambiguation": "Argentinean band",
+        "country": "AR",
+        "name": "Sui Generis",
+        "type": "Group",
+        "sort-name": "Sui Generis",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "end": "1981",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "artist",
+      "begin": "1981",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "artist": {
+        "name": "Sui Generis",
+        "country": "AR",
+        "disambiguation": "Argentinean band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "type": "Group",
+        "sort-name": "Sui Generis"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [
+        "piano"
+      ],
+      "attribute-credits": {},
+      "end": "1981",
+      "type": "member of band",
+      "begin": "1981",
+      "direction": "forward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "end": "1981",
+      "begin": "1981",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "name": "Sui Generis",
+        "country": "AR",
+        "disambiguation": "Argentinean band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "sort-name": "Sui Generis",
+        "type": "Group"
+      },
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "artist",
+      "begin": "1981",
+      "type": "member of band",
+      "attribute-credits": {},
+      "end": "1981",
+      "attributes": [
+        "keyboard"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "type": "Group",
+        "sort-name": "Sui Generis",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Argentinean band",
+        "country": "AR",
+        "name": "Sui Generis"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      }
+    },
+    {
+      "type": "member of band",
+      "begin": "2000",
+      "target-type": "artist",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2001",
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "type": "Group",
+        "sort-name": "Sui Generis",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "Argentinean band",
+        "name": "Sui Generis",
+        "country": "AR"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "ended": true
+    },
+    {
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "artist": {
+        "country": "AR",
+        "name": "Sui Generis",
+        "disambiguation": "Argentinean band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Sui Generis",
+        "type": "Group",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833"
+      },
+      "ended": true,
+      "attribute-credits": {},
+      "attributes": [
+        "piano"
+      ],
+      "end": "2001",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "forward",
+      "begin": "2000",
+      "type": "member of band",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type": "member of band",
+      "begin": "2000",
+      "direction": "forward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "2001",
+      "attributes": [
+        "guitar"
+      ],
+      "ended": true,
+      "artist": {
+        "disambiguation": "Argentinean band",
+        "name": "Sui Generis",
+        "country": "AR",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "sort-name": "Sui Generis",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Sui Generis",
+        "type": "Group",
+        "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "country": "AR",
+        "name": "Sui Generis",
+        "disambiguation": "Argentinean band"
+      },
+      "ended": true,
+      "attribute-credits": {},
+      "end": "2001",
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "forward",
+      "type": "member of band",
+      "begin": "2000",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "name": "La Máquina de Hacer Pájaros",
+        "country": "AR",
+        "disambiguation": "Argentinian group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "e40edab2-bf76-4675-b0d9-a8350b4d2564",
+        "type": "Group",
+        "sort-name": "Máquina de Hacer Pájaros, La"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "type": "member of band",
+      "direction": "forward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "end": null,
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Serú Girán",
+        "country": "AR",
+        "id": "f1cd52dc-49d1-4df6-93ea-3587d8fba30b",
+        "type": "Group",
+        "sort-name": "Serú Girán",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "direction": "forward",
+      "type": "member of band",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "country": "AR",
+        "name": "Ray Milland Band",
+        "disambiguation": "Argentine rock supergroup",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Ray Milland Band",
+        "id": "481d9d34-ab3d-4d7d-ad45-92fe418c0293"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-type": "artist",
+      "type": "parent",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "9421ca84-934f-49fe-9e66-dea242430406",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "id": "d670b99b-4101-42b8-a60a-5efb5f331f56",
+        "type": "Person",
+        "sort-name": "García, Migue",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Migue García",
+        "country": "AR"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "type": "sibling",
+      "begin": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "b42b7966-b904-449e-b8f9-8c7297b863d0",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "name": "Josi García",
+        "sort-name": "García, Josi",
+        "type": null,
+        "id": "c7b3be33-296c-4af2-9bfc-512d234b80c5",
+        "type-id": null
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "name": "Diego Dubarry",
+        "country": "AR",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9952d120-7d33-459c-b4fd-51fc58d2f6f1",
+        "sort-name": "Dubarry, Diego",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "end": "2002",
+      "attributes": [],
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1997",
+      "type": "supporting musician"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "end": "2012",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "supporting musician",
+      "begin": "2011",
+      "ended": true,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "backing band for Charly García",
+        "name": "The Prostitution",
+        "country": "AR",
+        "id": "cc39cd35-bae1-421a-889d-c2fb56c88c7e",
+        "type": "Group",
+        "sort-name": "Prostitution, The",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      }
+    },
+    {
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Núñez, Fernando Damián",
+        "id": "fdd2bb6f-5358-4a83-bf39-ebf40335f319",
+        "country": "UY",
+        "name": "Fernando Damián Núñez",
+        "disambiguation": "Uruguayan candombe drummer"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "type": "supporting musician",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type": "teacher",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "artist",
+      "type-id": "249fc24f-d573-4290-9d74-0547712d1f1e",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "piano"
+      ],
+      "ended": false,
+      "artist": {
+        "name": "Julieta Sandoval",
+        "country": "AR",
+        "disambiguation": "Charly García music teacher",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9d5095af-f140-464f-82e0-e846b457f547",
+        "type": "Person",
+        "sort-name": "Sandoval, Julieta"
+      },
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "tribute",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Beats Modernos",
+        "type": "Group",
+        "sort-name": "Beats Modernos",
+        "id": "dbe90ee2-2895-4d09-887c-00cb37403f7c",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Cinema Verité",
+        "id": "afd5db29-87c4-474d-b29d-37f837c4a12b",
+        "country": null,
+        "name": "Cinema Verité",
+        "disambiguation": "Argentinian Serú Girán cover band"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "tribute",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type": "allmusic",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "url": {
+        "id": "75b19f35-24fa-41a2-afdc-3ebb290e4aa4",
+        "resource": "https://www.allmusic.com/artist/mn0000096142"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0002376814",
+        "id": "2c1c0498-e811-4bfb-977c-151f412dab60"
+      },
+      "target-credit": "",
+      "source-credit": "Carlos Alberto García",
+      "type": "allmusic",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/908651",
+        "id": "322c3b61-2e56-4aee-bef8-122aa3f4d299"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "discogs",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "8beaef25-122d-4d94-92ee-39bd2b6ebb71",
+        "resource": "https://fanart.tv/artist/dd999ced-1dd4-44b8-ab67-ee5ec23e52b7/"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "fanpage",
+      "end": null,
+      "attributes": [],
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "attribute-values": {}
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "65dbf1be-add8-4d51-9177-2b00a2d9d300",
+        "resource": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "type": "free streaming",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "free streaming",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "88e4530c-893b-4869-a609-f8935c94b8a7",
+        "resource": "https://www.deezer.com/artist/4300"
+      },
+      "ended": false
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "image",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "c42aecfb-1b13-46ba-9d8d-fc0a8f124f2c",
+        "resource": "https://commons.wikimedia.org/wiki/File:Homenaje_Gustavo_Cerati_(15712287501).jpg"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "IMDb",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.imdb.com/name/nm0306023/",
+        "id": "cc1c16cf-a337-49c8-b04a-aa5c1a16af5b"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "43b06e65-baad-4fea-8ea9-005a37591623",
+        "resource": "https://www.last.fm/music/Charly+Garc%C3%ADa"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "last.fm",
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://charlygarcia.blogspot.com/",
+        "id": "7d1cba6b-7eb6-442d-9c31-0f6ad696388d"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "end": null,
+      "attributes": [],
+      "type": "official homepage",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "other databases",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n87937181",
+        "id": "bfbc1976-432d-429a-8317-dc79d4ad0b9a"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "5e580709-bb37-45d7-a2e2-de7a3370fa80",
+        "resource": "http://rock.com.ar/artistas/charly-garcia"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "end": null,
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "8c75f3b8-8e43-4176-bd72-0b6863650bd9",
+        "resource": "https://d-nb.info/gnd/139530290"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/charly_garcia",
+        "id": "b9868395-ff08-4141-a08b-a8be511cc3db"
+      },
+      "ended": false,
+      "type": "other databases",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "end": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "2bdf8eb7-a4c2-4ce0-9e01-817239b15cbe",
+        "resource": "https://www.worldcat.org/identities/lccn-n87-937181"
+      },
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/charly-garcia-1bd6d974.html",
+        "id": "106ee38d-eba7-475b-b24b-76318725aa42"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "setlistfm",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "songkick",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.songkick.com/artists/273649",
+        "id": "bd45e869-5ed9-4049-8213-6f597e8f914e"
+      }
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "streaming",
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "023a9d37-6d02-4896-9e1b-da33b5c1eead",
+        "resource": "https://music.apple.com/es/artist/573925"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/573925",
+        "id": "64be47b5-29fc-4fc2-b140-26141bc44152"
+      },
+      "ended": false,
+      "type": "streaming",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "b6f67259-1bcc-469b-9449-2877024d1be3",
+        "resource": "https://tidal.com/artist/3508562"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "VIAF",
+      "ended": false,
+      "url": {
+        "id": "8b9c53a3-5046-463c-a935-6a43959ccfdd",
+        "resource": "http://viaf.org/viaf/23675103"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q467940",
+        "id": "1971e886-1cc4-4438-a93d-1600693f6065"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "wikidata",
+      "attributes": [],
+      "end": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://www.youtube.com/@CharlyGarciaOk",
+        "id": "dff7fdf1-493f-4fa6-a098-1d570593e33b"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "type": "youtube",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": ""
+    }
+  ],
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "country": "AR",
+  "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1951-10-23"
+  },
+  "isnis": [
+    "0000000078245180"
+  ],
+  "area": {
+    "sort-name": "Argentina",
+    "type": null,
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "disambiguation": "",
+    "name": "Argentina"
+  },
+  "disambiguation": "",
+  "aliases": [
+    {
+      "name": "Carlos Alberto García",
+      "ended": false,
+      "locale": null,
+      "primary": null,
+      "end": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "sort-name": "Carlos Alberto García",
+      "type": "Search hint",
+      "begin": null
+    },
+    {
+      "sort-name": "García Moreno, Carlos Alberto",
+      "begin": null,
+      "type": "Legal name",
+      "end": null,
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "ended": false,
+      "name": "Carlos Alberto García Moreno",
+      "primary": null,
+      "locale": null
+    },
+    {
+      "locale": null,
+      "primary": null,
+      "name": "Charly Garcia",
+      "ended": false,
+      "sort-name": "Charly Garcia",
+      "begin": null,
+      "type": null,
+      "type-id": null,
+      "end": null
+    },
+    {
+      "sort-name": "Charly Garcma",
+      "begin": null,
+      "type": null,
+      "end": null,
+      "type-id": null,
+      "ended": false,
+      "name": "Charly Garcma",
+      "locale": null,
+      "primary": null
+    }
+  ],
+  "begin-area": {
+    "disambiguation": "",
+    "name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "sort-name": "Buenos Aires",
+    "type": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "type-id": null
+  }
+}

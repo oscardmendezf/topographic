@@ -1,0 +1,466 @@
+{
+  "isnis": [],
+  "id": "e4612ab8-6271-43ad-8f60-6d88eeee19db",
+  "life-span": {
+    "end": "2017-06",
+    "ended": true,
+    "begin": "1967"
+  },
+  "begin-area": {
+    "type-id": null,
+    "sort-name": "Buenos Aires",
+    "id": "a6e0a033-8f5d-438b-a99c-2d956f7a9661",
+    "name": "Buenos Aires",
+    "type": null,
+    "iso-3166-2-codes": [
+      "AR-B"
+    ],
+    "disambiguation": ""
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "attributes": [
+        "background vocals",
+        "membranophone",
+        "original",
+        "percussion"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "end": "2010",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Rubén Basoalto",
+        "id": "5e85c70d-fec5-48ce-9397-1a2d2a49bdf0",
+        "sort-name": "Basoalto, Rubén",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1967",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "country": "AR",
+        "sort-name": "Godoy, Juan Carlos “Yodi”",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "429c847d-616e-41a7-b6b0-4b57aecedd0a",
+        "type": "Person",
+        "name": "Juan Carlos “Yodi” Godoy",
+        "disambiguation": "guitarist and singer, member of Vox Dei"
+      },
+      "end": "2013",
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "guitar",
+        "harmonica",
+        "lead vocals",
+        "original",
+        "piano",
+        "violin"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+        "harmonica": "63e37f1a-30b6-4746-8a49-dfb55be3cdd1"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1967",
+      "ended": true,
+      "end": "2013",
+      "artist": {
+        "type": "Person",
+        "name": "Ricardo Soulé",
+        "disambiguation": "",
+        "sort-name": "Soulé, Ricardo",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5bedc641-6490-4029-93de-e29b85dc3a98"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward"
+    },
+    {
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "begin": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "end": "2017-06",
+      "artist": {
+        "disambiguation": "",
+        "name": "Willy Quiroga",
+        "type": "Person",
+        "id": "223824bc-e7fc-4083-9be5-005783877b0e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Quiroga, Willy",
+        "country": "AR"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "attributes": [
+        "bass guitar",
+        "guitar",
+        "keyboard",
+        "lead vocals",
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "electric guitar"
+      ],
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "direction": "backward",
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "ended": true,
+      "end": "1971",
+      "artist": {
+        "type": "Person",
+        "name": "Nacho Smilari",
+        "disambiguation": "",
+        "country": "AR",
+        "sort-name": "Smilari, Nacho",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "34b896c8-f1ea-41eb-a659-95e2404dd3b2"
+      }
+    },
+    {
+      "attributes": [
+        "electric guitar",
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "artist": {
+        "sort-name": "Michelini, Carlos",
+        "country": "ES",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "797f1077-b4ad-4d65-9987-0c6440e4e7e0",
+        "type": "Person",
+        "name": "Carlos Michelini",
+        "disambiguation": "Argentinian guitarist and songwriter"
+      },
+      "end": "1975",
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1974",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "type": "allmusic",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000183256",
+        "id": "a9cb4ee2-7062-4d4c-a073-76df6eb13cae"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "discogs",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.discogs.com/artist/1685204",
+        "id": "694c4aad-82ba-4e1b-a223-ebfa3e95883c"
+      }
+    },
+    {
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR",
+        "id": "213b08ae-8a51-476d-bed1-28be50688e1f"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "free streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "373797fd-7409-4743-8884-43d89ff5991d",
+        "resource": "https://commons.wikimedia.org/wiki/File:Vox_Dei_-_Recital_en_Casa_Rosada_-_16MAR07_-presidencia-govar.jpg"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "direction": "forward",
+      "type": "image",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "249bf2e1-0ce0-4725-b6e9-c821c2b6e967",
+        "resource": "https://www.last.fm/music/Vox+Dei"
+      },
+      "end": null,
+      "attribute-ids": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "begin": null,
+      "direction": "forward",
+      "type": "last.fm",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "official homepage",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "95334762-bbc6-4d31-97fd-7bdc9082b44c",
+        "resource": "http://www.voxdei.com.ar/"
+      }
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "7490b9da-2dc7-46e5-a8d8-cc9849501bc5",
+        "resource": "http://rock.com.ar/artistas/vox-dei"
+      },
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "id": "4e142f86-6d10-47a6-88c5-3593f460027a",
+        "resource": "https://rateyourmusic.com/artist/vox_dei"
+      },
+      "end": null,
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "url": {
+        "id": "19269139-37d4-4373-a191-43e204cb08cb",
+        "resource": "https://itunes.apple.com/artist/id78500474"
+      },
+      "end": null,
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/vox-dei-63d7ee3f.html",
+        "id": "9ec7ea8c-6a5b-41de-9f81-ad12f4ce89b1"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "setlistfm"
+    },
+    {
+      "type": "wikidata",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "ddbac65d-93d5-41d8-94b9-1da522eb9fd8",
+        "resource": "https://www.wikidata.org/wiki/Q2838063"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "wikidata",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "74684033-918c-47a5-8cf6-404d16936f8e",
+        "resource": "https://www.wikidata.org/wiki/Q3106188"
+      }
+    }
+  ],
+  "sort-name": "Vox Dei",
+  "area": {
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "sort-name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "name": "Argentina"
+  },
+  "ipis": [],
+  "disambiguation": "Argentinian progressive rock band",
+  "name": "Vox Dei",
+  "type": "Group",
+  "end-area": {
+    "id": "a6e0a033-8f5d-438b-a99c-2d956f7a9661",
+    "type-id": null,
+    "sort-name": "Buenos Aires",
+    "disambiguation": "",
+    "name": "Buenos Aires",
+    "iso-3166-2-codes": [
+      "AR-B"
+    ],
+    "type": null
+  },
+  "gender": null,
+  "country": "AR",
+  "gender-id": null,
+  "aliases": []
+}

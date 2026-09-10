@@ -1,0 +1,171 @@
+{
+ "id": "ar-spinetta",
+ "escena": "latinoamerica",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "almendra",
+   "nombre": "Almendra",
+   "tipo": "Group",
+   "pais": "AR",
+   "inicio": "1967",
+   "fin": "1981",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Almendra_(banda)",
+   "formaciones_mb": [
+    "Luis Alberto Spinetta (guitar, lead vocals, original; 1968-11-11–1980-12-23)",
+    "Emilio del Guercio (background vocals, bass guitar; ?–act.)",
+    "Rodolfo García (background vocals, membranophone; ?–act.)",
+    "Edelmiro Molinari (background vocals, guitar; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "almendra-almendra-1969",
+     "titulo": "Almendra",
+     "anio": 1969,
+     "mbid": "0859aa08-fbb3-300b-b8f6-eff1410b1b54",
+     "primer_lanzamiento": "1969-11-29",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "almendra-almendra-1970",
+     "titulo": "Almendra",
+     "anio": 1970,
+     "mbid": "3082dac3-5463-4133-9655-f98145f7a91f",
+     "primer_lanzamiento": "1970-12-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "almendra-el-valle-interior",
+     "titulo": "El valle interior",
+     "anio": 1980,
+     "mbid": "cfbdda7b-b79c-36c4-954a-020b8167a9f0",
+     "primer_lanzamiento": "1980",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "pescado-rabioso",
+   "nombre": "Pescado Rabioso",
+   "tipo": "Group",
+   "pais": "AR",
+   "inicio": "1971",
+   "fin": "1973",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Pescado_Rabioso",
+   "formaciones_mb": [
+    "Osvaldo Frascino (bass guitar; 1971–1972-10)",
+    "Black Amaya (membranophone; 1971–1973)",
+    "Luis Alberto Spinetta (guitar, lead vocals, original; 1971–1973)",
+    "David Lebón (bass guitar; 1972-10–1973)",
+    "Carlos Cutaia (keyboard; 1972–1973)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "pescado-rabioso-desatormentandonos",
+     "titulo": "Desatormentándonos",
+     "anio": 1972,
+     "mbid": "9aa68f09-38a3-3a50-b7d3-0a2ba56b610e",
+     "primer_lanzamiento": "1972",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "pescado-rabioso-pescado-2",
+     "titulo": "Pescado 2",
+     "anio": 1973,
+     "mbid": "b9c530cd-a04a-3d41-93bb-6b4baa82fbb1",
+     "primer_lanzamiento": "1973-02",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "pescado-rabioso-artaud",
+     "titulo": "Artaud",
+     "anio": 1973,
+     "mbid": "8e50433a-c1d5-3019-a48d-0d6b97a5f32b",
+     "primer_lanzamiento": "1973-10",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "spinetta-jade",
+   "nombre": "Spinetta Jade",
+   "tipo": "Group",
+   "pais": "AR",
+   "inicio": "1980-05-03",
+   "fin": "1985",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Spinetta_Jade",
+   "formaciones_mb": [
+    "Leo Sujatovich (keyboard; 1981–1984)",
+    "Héctor “Pomo” Lorenzo (miembro; ?–act.)",
+    "Diego Rapoport (miembro; ?–act.)",
+    "Luis Alberto Spinetta (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "spinetta-jade-alma-de-diamante",
+     "titulo": "Alma de Diamante",
+     "anio": 1980,
+     "mbid": "05808750-d8f6-34b8-85d7-c968cf721f6a",
+     "primer_lanzamiento": "1980-08",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "spinetta-jade-los-ninos-que-escriben-en-el-cielo",
+     "titulo": "Los niños que escriben en el cielo",
+     "anio": 1981,
+     "mbid": "0896d054-e258-37bb-8fec-3803ef330be2",
+     "primer_lanzamiento": "1981",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "spinetta-jade-bajo-belgrano",
+     "titulo": "Bajo Belgrano",
+     "anio": 1983,
+     "mbid": "0c0af932-09c4-384d-90c4-2e314f2a6f4b",
+     "primer_lanzamiento": "1983",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "spinetta-jade-madre-en-anos-luz",
+     "titulo": "Madre en años luz",
+     "anio": 1991,
+     "mbid": "4be78d14-54c5-36f9-b317-5ebef8e60603",
+     "primer_lanzamiento": "1991",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "socios-del-desierto",
+   "nombre": "Spinetta y los Socios del Desierto",
+   "tipo": "Group",
+   "pais": "AR",
+   "inicio": "1997",
+   "fin": "1999",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Spinetta_y_los_Socios_del_Desierto",
+   "formaciones_mb": [
+    "Luis Alberto Spinetta (guitar, lead vocals, original; ?–act.)",
+    "Marcelo Torres (background vocals, bass guitar; ?–act.)",
+    "Daniel Wirzt (membranophone; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "socios-del-desierto-spinetta-y-los-socios-del-desierto",
+     "titulo": "Spinetta y los Socios del Desierto",
+     "anio": 1997,
+     "mbid": "1b365ab6-66e2-3312-9c58-51d8eafe394a",
+     "primer_lanzamiento": "1997-04-30",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "socios-del-desierto-los-ojos",
+     "titulo": "Los ojos",
+     "anio": 1999,
+     "mbid": "abb0a204-0707-3a6d-9bde-ad61c8b2ce65",
+     "primer_lanzamiento": "1999",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

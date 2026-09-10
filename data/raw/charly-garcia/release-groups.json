@@ -1,0 +1,641 @@
+{
+  "release-group-count": 50,
+  "release-groups": [
+    {
+      "title": "El aguante",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1998",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "0b4072c4-5c29-3575-bedb-c03f758636c9"
+    },
+    {
+      "first-release-date": "1993",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Funes, un gran amor",
+      "id": "210b7787-aeb4-4d22-a873-fb680a9d70e0",
+      "secondary-type-ids": [
+        "22a628ad-c082-3c4f-b1b6-d41665107b88"
+      ],
+      "secondary-types": [
+        "Soundtrack"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1994",
+      "title": "La hija de la lágrima",
+      "secondary-type-ids": [],
+      "id": "23cef9b9-da66-39ba-bbfa-1f752d65d379",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": []
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "269aac77-74c0-4cde-9692-f692f0de335f",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2012-05-06",
+      "title": "La Vanguardia es así"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "33eaf398-1164-32e3-9055-3bcbff8f3b12",
+      "title": "Clics modernos",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1983-11-05"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "3807402f-22a1-4857-830a-b06afd12d634",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1994",
+      "title": "El fantasma de Canterville"
+    },
+    {
+      "title": "Say No More",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1996",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "396b4a3a-354b-3c6b-9f73-9d7c996f8c72"
+    },
+    {
+      "id": "3cff5bd9-cf1a-3bee-b6a0-0efcc512f5f0",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1982-10-28",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Pubis angelical / Yendo de la cama al living"
+    },
+    {
+      "first-release-date": "1987",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Parte de la religión",
+      "id": "4575dab8-93b3-3412-8a99-545ecd4c13a6",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2009",
+      "title": "Demasiado Beatles",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "4fa51a0a-6312-4f5b-ad7e-a21f9577fe8a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "title": "Rock and Roll YO",
+      "first-release-date": "2003",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "50a896c4-4048-34eb-a657-a3f71fb4c42a",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "Influencia",
+      "first-release-date": "2002",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "5341f83a-5c9d-314f-bc6b-0a1c490fd18b",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "60 x 60",
+      "first-release-date": "2012",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "55754c58-621e-41f4-b35f-9fe67b165b71",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "first-release-date": "1991",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Radio Pinti",
+      "id": "64fd7281-fd6b-4e55-af71-3e8c97cbf83b",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "Tango 4",
+      "first-release-date": "1991",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "675bc722-40e6-3c48-8674-e5da45a4d7b1",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "6e74ec33-1d29-3800-b4a6-ffd6d5c95bb4",
+      "secondary-type-ids": [],
+      "title": "Filosofía barata y zapatos de goma",
+      "first-release-date": "1990",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "79b9c179-5713-34f7-82f3-155b53d27792",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "El álbum",
+      "first-release-date": "1988",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "title": "Cómo conseguir chicas",
+      "first-release-date": "1989-02-16",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7d6c018f-ed78-3d22-8ee3-89363657d775",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "821bda36-9da8-48e2-ba5d-71ae4c640ea1",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "El Ángel vigía",
+      "first-release-date": "2012-05-06",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "id": "829175b8-4486-3758-8380-c425a6d987de",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2003",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "2003-02-24: Festival de la canción de Viña del Mar 2003: Viña del Mar, Chile"
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "8a7fbbda-346d-3e3c-8840-1c4ede1ea054",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "12 años",
+      "first-release-date": "1994",
+      "primary-type": "Album",
+      "disambiguation": ""
+    },
+    {
+      "title": "Detrás de las paredes",
+      "first-release-date": "2012-05-06",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "8b92e82e-d344-4f28-ab43-2c3ebbb10b25",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "id": "8bc05884-6284-3a28-8f87-30b521fde7a2",
+      "secondary-type-ids": [
+        "22a628ad-c082-3c4f-b1b6-d41665107b88"
+      ],
+      "secondary-types": [
+        "Soundtrack"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1988",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Lo que vendrá"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "9731bea9-8fd6-3608-bc3c-e3b735747407",
+      "title": "Hello! MTV Unplugged",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1995"
+    },
+    {
+      "title": "Kill Gil",
+      "first-release-date": "2007",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "97690669-017c-35e9-8c0e-93c3a8f9d64a",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "Oro",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1994",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "9856650c-c03f-3d71-8c34-853b1e9a3802"
+    },
+    {
+      "id": "a1cc063a-9cb6-4c2d-a5df-7bbbd2b61ac9",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2024-09-11",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "La lógica del escorpión"
+    },
+    {
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "a56c18d5-cfd9-4575-baff-50b45c58bcfa",
+      "secondary-type-ids": [],
+      "title": "Random",
+      "first-release-date": "2017-02-24",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "title": "Piano bar",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1984-11-22",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "b50af62f-7e39-3899-8ee5-5550f7b35b65"
+    },
+    {
+      "first-release-date": "1980-07-02",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Música del alma",
+      "id": "b8ffeb0c-44e9-34fd-a701-4bf1b9cd8054",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "bb9a63a8-fd02-38c0-ac77-d84375828d03",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2003",
+      "title": "Oro: Grandes éxitos"
+    },
+    {
+      "id": "bcaa41d8-5d28-3b24-937a-6816eccfedfe",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1995-04-20",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Estaba en llamas cuando me acosté"
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "be8f50a4-7e4a-4cb0-9fb7-06222f99442e",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Prix D'ami",
+      "first-release-date": "1992-08-18",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2009-08-20",
+      "title": "García, el más grande",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "c1258ddb-3178-4e3b-a2ce-8319d1c4b91a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "id": "c12a6c55-e39b-3d6d-a980-b65d74c664f0",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1986-01",
+      "title": "Tango"
+    },
+    {
+      "title": "Charly & Charly: en vivo en Olivos",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1999",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "c2d79a76-2c0e-3fbd-9fdf-922a9747fc84"
+    },
+    {
+      "first-release-date": "2009",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Inconsciente colectivo",
+      "id": "cbc7fcd9-5a0a-4a89-9446-ec651ac67231",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "Obras cumbres",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1999",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "cf70d4b4-0a9c-305a-af4d-9e2855a2969e"
+    },
+    {
+      "first-release-date": "1999",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "title": "Demasiado ego",
+      "id": "d079ac67-eb02-3809-a2c7-e0fa968facde",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "title": "Yendo de la cama al living",
+      "first-release-date": "1982",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "d1083fe5-09e1-37f9-b1d8-886eb853fc57",
+      "secondary-type-ids": []
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1995",
+      "title": "Oro, volumen II",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "dbe00cd2-3ae9-3efc-baca-920940ee87b8",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "title": "García 87-93",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1993",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "dd2dd9c8-2d84-345f-acb0-74d31bc9453c"
+    },
+    {
+      "title": "Pic-Nic",
+      "first-release-date": "1992",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "e0ad6a13-756a-4c4a-88ee-c199581bbb82",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2009",
+      "title": "El concierto subacuático",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "e3b43f1f-e278-4a9a-9468-639f3268d33a",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "e4793c43-55a4-4ec1-81a0-84278dbdad31",
+      "title": "20 éxitos originales",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2005"
+    },
+    {
+      "title": "The Collection",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "eb00b8ef-4e3c-49e7-9f7e-c892df01645d"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "eb156c53-5485-4867-bd97-19e71130896c",
+      "title": "Grandes éxitos",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2002"
+    },
+    {
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1999-05-15",
+      "title": "Superhéroe",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "ed601259-7032-46a2-bdfa-1725eec91cf7",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-types": [
+        "Soundtrack"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "ed6af9bf-f180-3da3-b4b5-5860e133e6c7",
+      "secondary-type-ids": [
+        "22a628ad-c082-3c4f-b1b6-d41665107b88"
+      ],
+      "title": "Pubis angelical",
+      "first-release-date": "1982",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "title": "Crónica",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1987",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "f48be81d-781a-4d00-ae48-dece7e0af981"
+    }
+  ]
+}

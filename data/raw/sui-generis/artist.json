@@ -1,0 +1,1724 @@
+{
+  "type": "Group",
+  "sort-name": "Sui Generis",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "end-area": {
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "type-id": null,
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "sort-name": "Buenos Aires",
+    "type": null,
+    "name": "Buenos Aires",
+    "disambiguation": ""
+  },
+  "gender": null,
+  "ipis": [],
+  "country": "AR",
+  "gender-id": null,
+  "name": "Sui Generis",
+  "relations": [
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "1968",
+      "attributes": [
+        "bass guitar",
+        "original"
+      ],
+      "begin": "1968",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ab7c78be-a13a-46b9-bdaf-34176c6c1073",
+        "type": "Person",
+        "sort-name": "Correa, Alejandro",
+        "name": "Alejandro Correa",
+        "country": "AR",
+        "disambiguation": "Argentinean guitarist/bassist"
+      }
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "artist": {
+        "name": "Juan Bellia",
+        "country": "US",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "58e337fa-32a5-4e38-a764-f87af5c323a9",
+        "type": "Person",
+        "sort-name": "Bellia, Juan"
+      },
+      "ended": true,
+      "end": "1971",
+      "attribute-credits": {},
+      "attributes": [
+        "electric guitar",
+        "original"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1968",
+      "type": "member of band",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "end": "1971",
+      "attribute-credits": {},
+      "attributes": [
+        "electric bass guitar",
+        "original"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1968",
+      "type": "member of band",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "8c811f27-beb1-43c2-bf47-374129be73fb",
+        "type": "Person",
+        "sort-name": "Fortich, Rolando",
+        "name": "Rolando Fortich",
+        "country": "AR",
+        "disambiguation": ""
+      },
+      "ended": true
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1968",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals",
+        "original"
+      ],
+      "end": "1971",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "id": "c21cb356-303a-4954-9efb-7a3ed0c337d8",
+        "sort-name": "Piégari, Carlos",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Carlos Piégari",
+        "country": "AR"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "end": "1971",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "1968",
+      "type": "member of band",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "disambiguation": "",
+        "name": "Carlos Piégari",
+        "country": "AR",
+        "id": "c21cb356-303a-4954-9efb-7a3ed0c337d8",
+        "sort-name": "Piégari, Carlos",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "end": "1971",
+      "type": "member of band",
+      "begin": "1968",
+      "target-type": "artist",
+      "direction": "backward",
+      "target-credit": "Beto Rodríguez",
+      "source-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "type": "Person",
+        "sort-name": "Rodríguez, Alberto",
+        "id": "83753c3d-6acd-4f47-b5bf-64050cbb3f1f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "original drummer for Sui Generis",
+        "country": "AR",
+        "name": "Alberto Rodríguez"
+      },
+      "ended": true
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "name": "Charly García",
+        "country": "AR",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "type": "Person",
+        "sort-name": "García, Charly"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "attribute-credits": {},
+      "end": "1975-09-05",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1968",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "artist": {
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "type": "Person",
+        "sort-name": "García, Charly",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Charly García",
+        "country": "AR"
+      },
+      "ended": true,
+      "attribute-credits": {},
+      "attributes": [
+        "original",
+        "piano"
+      ],
+      "end": "1975-09-05",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1968",
+      "type": "member of band",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "1975-09-05",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "begin": "1968",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "name": "Charly García",
+        "country": "AR",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "type": "Person",
+        "sort-name": "García, Charly"
+      },
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "attribute-credits": {},
+      "end": "1975-09-05",
+      "type": "member of band",
+      "begin": "1968",
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "country": "AR",
+        "name": "Charly García",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "García, Charly",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7"
+      }
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1968",
+      "attribute-credits": {},
+      "end": "1975-09-05",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "id": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "sort-name": "Mestre, Nito",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Nito Mestre",
+        "country": "AR"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": true
+    },
+    {
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "artist": {
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Nito Mestre",
+        "type": "Person",
+        "sort-name": "Mestre, Nito",
+        "id": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-credits": {},
+      "attributes": [
+        "flute",
+        "original"
+      ],
+      "end": "1975-09-05",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1968",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Mestre, Nito",
+        "id": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "country": "AR",
+        "name": "Nito Mestre",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "type": "member of band",
+      "begin": "1968",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "end": "1975-09-05"
+    },
+    {
+      "ended": true,
+      "artist": {
+        "country": "AR",
+        "name": "Alejandro Correa",
+        "disambiguation": "Argentinean guitarist/bassist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Correa, Alejandro",
+        "id": "ab7c78be-a13a-46b9-bdaf-34176c6c1073"
+      },
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1972",
+      "type": "member of band",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "attribute-credits": {},
+      "end": "1973",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "type": "Person",
+        "sort-name": "Prati, Francisco",
+        "id": "a5271eeb-25b2-41fb-85ef-f4f2d705a6fa",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Francisco Prati"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "1974",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1972"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "end": "1975-09-05",
+      "begin": "1973",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Rinaldo Rafanelli",
+        "sort-name": "Rafanelli, Rinaldo",
+        "type": "Person",
+        "id": "a9a00dae-06f5-4574-af09-11b1a873cd04",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true
+    },
+    {
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "artist": {
+        "disambiguation": "",
+        "name": "Rinaldo Rafanelli",
+        "country": "AR",
+        "id": "a9a00dae-06f5-4574-af09-11b1a873cd04",
+        "sort-name": "Rafanelli, Rinaldo",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "end": "1975-09-05",
+      "begin": "1973",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "sort-name": "García, Charly",
+        "type": "Person",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Charly García"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-credits": {},
+      "end": "1981",
+      "attributes": [
+        "lead vocals"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1981"
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "artist": {
+        "disambiguation": "",
+        "name": "Charly García",
+        "country": "AR",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "type": "Person",
+        "sort-name": "García, Charly",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "end": "1981",
+      "attributes": [
+        "piano"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "1981"
+    },
+    {
+      "artist": {
+        "sort-name": "García, Charly",
+        "type": "Person",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Charly García"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "ended": true,
+      "begin": "1981",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": "1981",
+      "attributes": [
+        "guitar"
+      ],
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "artist": {
+        "country": "AR",
+        "name": "Charly García",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "García, Charly",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "1981",
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-credits": {},
+      "end": "1981",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type": "member of band",
+      "begin": "1981",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "attribute-credits": {},
+      "end": "1981",
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "name": "Nito Mestre",
+        "country": "AR",
+        "id": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "type": "Person",
+        "sort-name": "Mestre, Nito",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      }
+    },
+    {
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "artist": {
+        "id": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "type": "Person",
+        "sort-name": "Mestre, Nito",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Nito Mestre",
+        "country": "AR"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "end": "1981",
+      "attributes": [
+        "flute"
+      ],
+      "type": "member of band",
+      "begin": "1981",
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Mestre, Nito",
+        "type": "Person",
+        "id": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "country": "AR",
+        "name": "Nito Mestre",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type": "member of band",
+      "begin": "1981",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "1981",
+      "attributes": [
+        "guitar"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "artist": {
+        "disambiguation": "",
+        "name": "Mariela Chintalo",
+        "country": "AR",
+        "id": "f1fb5554-abbb-4e30-9b16-27c652fd001d",
+        "type": "Person",
+        "sort-name": "Chintalo, Mariela",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "end": "2001",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2000",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2000",
+      "attribute-credits": {},
+      "attributes": [
+        "saxophone"
+      ],
+      "end": "2001",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Chintalo, Mariela",
+        "type": "Person",
+        "id": "f1fb5554-abbb-4e30-9b16-27c652fd001d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Mariela Chintalo"
+      },
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "ended": true
+    },
+    {
+      "artist": {
+        "country": "AR",
+        "name": "Érika Di Salvo",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Di Salvo, Érika",
+        "id": "ff7ee6a8-e9e1-4e6e-a212-0981bf6cb52f"
+      },
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "ended": true,
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2000",
+      "attribute-credits": {},
+      "end": "2001",
+      "attributes": [
+        "violin"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2000",
+      "attribute-credits": {},
+      "attributes": [
+        "cello"
+      ],
+      "end": "2001",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Di Salvo, Ulises",
+        "type": "Person",
+        "id": "eff96114-66c9-4361-8b1c-7c6f980c22cf",
+        "country": "AR",
+        "name": "Ulises Di Salvo",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      }
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9952d120-7d33-459c-b4fd-51fc58d2f6f1",
+        "type": "Person",
+        "sort-name": "Dubarry, Diego",
+        "name": "Diego Dubarry",
+        "country": "AR",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "end": "2001",
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "2000",
+      "type": "member of band"
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "electronic drum set": "174d408c-2e3c-4dd6-aeee-3583ea9b206e"
+      },
+      "artist": {
+        "name": "Diego Dubarry",
+        "country": "AR",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9952d120-7d33-459c-b4fd-51fc58d2f6f1",
+        "type": "Person",
+        "sort-name": "Dubarry, Diego"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "electronic drum set"
+      ],
+      "end": "2001",
+      "begin": "2000",
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2000",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "end": "2001",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "disambiguation": "",
+        "country": "AR",
+        "name": "María Gabriela Epumer",
+        "type": "Person",
+        "sort-name": "Epumer, María Gabriela",
+        "id": "28cc4ba0-2835-43e0-8d72-0cce8e25f2de",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      }
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "electric guitar"
+      ],
+      "attribute-credits": {},
+      "end": "2001",
+      "begin": "2000",
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "artist": {
+        "disambiguation": "",
+        "country": "AR",
+        "name": "María Gabriela Epumer",
+        "type": "Person",
+        "sort-name": "Epumer, María Gabriela",
+        "id": "28cc4ba0-2835-43e0-8d72-0cce8e25f2de",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "artist": {
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "sort-name": "García, Charly",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Charly García",
+        "country": "AR"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-credits": {},
+      "end": "2001",
+      "attributes": [
+        "lead vocals"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2000"
+    },
+    {
+      "ended": true,
+      "artist": {
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "sort-name": "García, Charly",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Charly García",
+        "country": "AR"
+      },
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "begin": "2000",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "piano"
+      ],
+      "end": "2001",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-credits": {},
+      "end": "2001",
+      "attributes": [
+        "guitar"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "2000",
+      "type": "member of band",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "country": "AR",
+        "name": "Charly García",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "García, Charly",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7"
+      },
+      "ended": true
+    },
+    {
+      "artist": {
+        "name": "Charly García",
+        "country": "AR",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "sort-name": "García, Charly",
+        "type": "Person"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "ended": true,
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "2000",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "2001",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Mestre, Nito",
+        "id": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "country": "AR",
+        "name": "Nito Mestre",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "ended": true,
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2000",
+      "end": "2001",
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": "2000",
+      "end": "2001",
+      "attribute-credits": {},
+      "attributes": [
+        "flute"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "name": "Nito Mestre",
+        "country": "AR",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "type": "Person",
+        "sort-name": "Mestre, Nito"
+      },
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "ended": true
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": "2000",
+      "attribute-credits": {},
+      "end": "2001",
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Mestre, Nito",
+        "type": "Person",
+        "id": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "country": "AR",
+        "name": "Nito Mestre",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Said, Gabriel",
+        "id": "dd2d7800-c882-466b-9bea-d2a5d42603c8",
+        "country": "AR",
+        "name": "Gabriel Said",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "ended": true,
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "2000",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "percussion"
+      ],
+      "end": "2001",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "type": "member of band",
+      "begin": "2000",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "2001",
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Serra, Mario",
+        "type": "Person",
+        "id": "855bd870-ffaf-4a60-809c-b63a8b0b34a0",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": null,
+        "name": "Mario Serra"
+      },
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "ended": true
+    },
+    {
+      "ended": true,
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Rodríguez, Juan",
+        "id": "72354a2f-33f0-4929-9897-8cffce71ca98",
+        "country": null,
+        "name": "Juan Rodríguez",
+        "disambiguation": "drummer from Sui Generis, Polifemo, Pappos Blues, ..."
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-credits": {},
+      "end": "1974-09-05",
+      "attributes": [
+        "membranophone"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": null,
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "disambiguation": "drummer from Sui Generis, Polifemo, Pappos Blues, ...",
+        "country": null,
+        "name": "Juan Rodríguez",
+        "type": "Person",
+        "sort-name": "Rodríguez, Juan",
+        "id": "72354a2f-33f0-4929-9897-8cffce71ca98",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "1974-09-05",
+      "begin": null,
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "sort-name": "Bernareggi, Daniel",
+        "id": "56d9c4c3-91d0-46a4-9f41-6799c2d60521",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "bassist for Sui Generis",
+        "country": "AR",
+        "name": "Daniel Bernareggi"
+      },
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": null,
+      "end": null,
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": null,
+      "ended": true,
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "artist": {
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Diego Fraschetti",
+        "type": "Person",
+        "sort-name": "Fraschetti, Diego",
+        "id": "5859eb7f-46d5-41a1-8d9e-2f440ed68365",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "106ad463-0cbe-41e4-b9b4-d839f02abd87",
+        "type": "Person",
+        "sort-name": "L'areu, Carlos",
+        "name": "Carlos L'areu",
+        "country": "AR",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "end": null,
+      "type": "member of band",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "target-credit": "Carlos \"Lito\" L'areu",
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "attribute-credits": {},
+      "attributes": [
+        "mandolin"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {
+        "mandolin": "37fa9bb5-d5d7-4b0f-aa4d-531339ba9c32"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b73155db-eafa-4f20-aed7-22678049ab31",
+        "sort-name": "Monteverde, Diego",
+        "type": "Person",
+        "name": "Diego Monteverde",
+        "country": "AR",
+        "disambiguation": "bassist for Sui Generis"
+      },
+      "ended": true
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": null,
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b73155db-eafa-4f20-aed7-22678049ab31",
+        "type": "Person",
+        "sort-name": "Monteverde, Diego",
+        "name": "Diego Monteverde",
+        "country": "AR",
+        "disambiguation": "bassist for Sui Generis"
+      },
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "end": null,
+      "begin": null,
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": true,
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "96f3a381-a1fd-4183-9a4e-03c584edd8f2",
+        "type": "Person",
+        "sort-name": "Negri, Hugo Alfredo",
+        "name": "Hugo Alfredo Negri",
+        "country": "AR",
+        "disambiguation": "bassist for Sui Generis"
+      }
+    },
+    {
+      "type": "allmusic",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "6b621552-c75d-44c2-b7e7-5ea07ac54942",
+        "resource": "https://www.allmusic.com/artist/mn0000583106"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "a6a05c1a-2ba4-46ac-ae39-ff566029be24",
+        "resource": "https://www.discogs.com/artist/2354203"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "discogs",
+      "attributes": [],
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {}
+    },
+    {
+      "type": "free streaming",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "534cdf8b-8cfb-4cf3-b13f-0f8ec7b6a3fb",
+        "resource": "https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://www.deezer.com/artist/8355",
+        "id": "5bf44b32-aa78-4f1c-bfd0-002e070b48da"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "free streaming",
+      "end": null,
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "IMDb",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "7f5d6cd3-c082-46f1-83c4-eb0a0c519c36",
+        "resource": "https://www.imdb.com/name/nm4935422/"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "last.fm",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "2cf3b24d-d33e-4b1e-9526-654b58cc1a42",
+        "resource": "https://www.last.fm/music/Sui+Generis"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://genius.com/artists/Sui-generis-arg",
+        "id": "1dc53fd9-b61f-481e-b0dc-9a9d71c337d6"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "lyrics",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://rock.com.ar/artistas/sui-generis",
+        "id": "d113f983-7ea9-4c2f-ac4d-44819fa30e65"
+      },
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "f0cef613-6bc9-4345-9c0e-a7f7f0e3a3e0",
+        "resource": "https://rateyourmusic.com/artist/sui-generis"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.beatport.com/artist/sui-generis/61771",
+        "id": "53316b9c-e10b-4b90-8152-9145a811b414"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "purchase for download",
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.traxsource.com/artist/44440",
+        "id": "e7eb96d2-ee07-461c-912c-6f6b6acb1e7f"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "type": "purchase for download",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "03660709-720f-4200-8407-8b03134cce52",
+        "resource": "https://www.setlist.fm/setlists/sui-generis-2bd68c82.html"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "type": "setlistfm",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-values": {}
+    },
+    {
+      "type": "songkick",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.songkick.com/artists/194095",
+        "id": "1147d9d2-9601-4a35-879a-290b6f7c393b"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "url": {
+        "id": "9303c77b-21fe-4d74-b788-8052088b7d7f",
+        "resource": "https://www.wikidata.org/wiki/Q3503136"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "wikidata",
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "youtube",
+      "end": null,
+      "attributes": [],
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.youtube.com/@SuiGenerisOficial",
+        "id": "4e8fbc19-ee15-4988-ad50-7882eecd1812"
+      },
+      "attribute-ids": {},
+      "ended": false
+    }
+  ],
+  "id": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+  "life-span": {
+    "end": "2002",
+    "ended": true,
+    "begin": "1968"
+  },
+  "area": {
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "type-id": null,
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "sort-name": "Argentina",
+    "type": null,
+    "name": "Argentina",
+    "disambiguation": ""
+  },
+  "isnis": [
+    "000000046981570X"
+  ],
+  "disambiguation": "Argentinean band",
+  "begin-area": {
+    "disambiguation": "",
+    "name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "type": null,
+    "sort-name": "Buenos Aires",
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "type-id": null
+  },
+  "aliases": []
+}

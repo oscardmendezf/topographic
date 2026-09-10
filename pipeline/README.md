@@ -57,3 +57,21 @@ Cada ficha de álbum lleva, tras la entradilla original, tres secciones editoria
 - `merge_historias.py [--check]` → aplica las historias a `content/albumes/*.md`. Lint (sale ≠0 y no
   aplica la historia): posiciones de chart, ventas, certificaciones, fechas completas, secciones faltantes.
   Re-ejecutar reemplaza la historia sin tocar la entradilla.
+
+## Ampliar una escena con artistas nuevos (receta, usada en Argentina 09-sep-2026)
+
+1. Agregar los artistas a `artists_seed.json` (`grupo`/`escena`, `fase`, `type`, `country`,
+   `disambiguation_hint` si el nombre es ambiguo).
+2. `musicbrainz.py resolve` (re-resuelve todo; ~1 s por artista; revisar que los previos no
+   cambien de MBID) → `fetch` (solo baja lo nuevo) → `normalize`.
+3. `build_tareas_escena.py <nombre>` (grupos en `CONFIG`) → `data/tareas_<nombre>/<grupo>.json`
+   con catálogo de estudio, `formaciones_mb` y enlaces. Instrucciones para redactores en
+   `data/tareas_<nombre>/INSTRUCCIONES.md`.
+4. Redactores → `data/editorial_<nombre>/<grupo>.json` (ficha larga de artista, entradilla y
+   estrellas por álbum, `excluidos` con motivo). `merge_f3.py <nombre> --check` verifica lint
+   y cobertura del catálogo; sin `--check` escribe `content/` y registra exclusiones.
+5. `fetch_credits.py` → `fetch_tracklists.py` → `build_credits.py` → `build_tracklists.py`;
+   `geo.py`; `build_grafo.py`; `audit_cobertura.py`.
+6. Historias largas: `build_tareas_historias.py 12 --pendientes --prefijo=his-xx` genera solo
+   los grupos de álbumes sin historia (no pisa el manifiesto principal) → redactores →
+   `merge_historias.py`.

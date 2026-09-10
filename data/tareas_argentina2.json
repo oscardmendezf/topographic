@@ -1,0 +1,1250 @@
+{
+ "grupos": [
+  {
+   "id": "ar-spinetta",
+   "escena": "latinoamerica",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "almendra",
+     "nombre": "Almendra",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1967",
+     "fin": "1981",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Almendra_(banda)",
+     "formaciones_mb": [
+      "Luis Alberto Spinetta (guitar, lead vocals, original; 1968-11-11–1980-12-23)",
+      "Emilio del Guercio (background vocals, bass guitar; ?–act.)",
+      "Rodolfo García (background vocals, membranophone; ?–act.)",
+      "Edelmiro Molinari (background vocals, guitar; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "almendra-almendra-1969",
+       "titulo": "Almendra",
+       "anio": 1969,
+       "mbid": "0859aa08-fbb3-300b-b8f6-eff1410b1b54",
+       "primer_lanzamiento": "1969-11-29",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "almendra-almendra-1970",
+       "titulo": "Almendra",
+       "anio": 1970,
+       "mbid": "3082dac3-5463-4133-9655-f98145f7a91f",
+       "primer_lanzamiento": "1970-12-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "almendra-el-valle-interior",
+       "titulo": "El valle interior",
+       "anio": 1980,
+       "mbid": "cfbdda7b-b79c-36c4-954a-020b8167a9f0",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "pescado-rabioso",
+     "nombre": "Pescado Rabioso",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1971",
+     "fin": "1973",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Pescado_Rabioso",
+     "formaciones_mb": [
+      "Osvaldo Frascino (bass guitar; 1971–1972-10)",
+      "Black Amaya (membranophone; 1971–1973)",
+      "Luis Alberto Spinetta (guitar, lead vocals, original; 1971–1973)",
+      "David Lebón (bass guitar; 1972-10–1973)",
+      "Carlos Cutaia (keyboard; 1972–1973)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "pescado-rabioso-desatormentandonos",
+       "titulo": "Desatormentándonos",
+       "anio": 1972,
+       "mbid": "9aa68f09-38a3-3a50-b7d3-0a2ba56b610e",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pescado-rabioso-pescado-2",
+       "titulo": "Pescado 2",
+       "anio": 1973,
+       "mbid": "b9c530cd-a04a-3d41-93bb-6b4baa82fbb1",
+       "primer_lanzamiento": "1973-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pescado-rabioso-artaud",
+       "titulo": "Artaud",
+       "anio": 1973,
+       "mbid": "8e50433a-c1d5-3019-a48d-0d6b97a5f32b",
+       "primer_lanzamiento": "1973-10",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "spinetta-jade",
+     "nombre": "Spinetta Jade",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1980-05-03",
+     "fin": "1985",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Spinetta_Jade",
+     "formaciones_mb": [
+      "Leo Sujatovich (keyboard; 1981–1984)",
+      "Héctor “Pomo” Lorenzo (miembro; ?–act.)",
+      "Diego Rapoport (miembro; ?–act.)",
+      "Luis Alberto Spinetta (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "spinetta-jade-alma-de-diamante",
+       "titulo": "Alma de Diamante",
+       "anio": 1980,
+       "mbid": "05808750-d8f6-34b8-85d7-c968cf721f6a",
+       "primer_lanzamiento": "1980-08",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-jade-los-ninos-que-escriben-en-el-cielo",
+       "titulo": "Los niños que escriben en el cielo",
+       "anio": 1981,
+       "mbid": "0896d054-e258-37bb-8fec-3803ef330be2",
+       "primer_lanzamiento": "1981",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-jade-bajo-belgrano",
+       "titulo": "Bajo Belgrano",
+       "anio": 1983,
+       "mbid": "0c0af932-09c4-384d-90c4-2e314f2a6f4b",
+       "primer_lanzamiento": "1983",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-jade-madre-en-anos-luz",
+       "titulo": "Madre en años luz",
+       "anio": 1991,
+       "mbid": "4be78d14-54c5-36f9-b317-5ebef8e60603",
+       "primer_lanzamiento": "1991",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "socios-del-desierto",
+     "nombre": "Spinetta y los Socios del Desierto",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1997",
+     "fin": "1999",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Spinetta_y_los_Socios_del_Desierto",
+     "formaciones_mb": [
+      "Luis Alberto Spinetta (guitar, lead vocals, original; ?–act.)",
+      "Marcelo Torres (background vocals, bass guitar; ?–act.)",
+      "Daniel Wirzt (membranophone; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "socios-del-desierto-spinetta-y-los-socios-del-desierto",
+       "titulo": "Spinetta y los Socios del Desierto",
+       "anio": 1997,
+       "mbid": "1b365ab6-66e2-3312-9c58-51d8eafe394a",
+       "primer_lanzamiento": "1997-04-30",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "socios-del-desierto-los-ojos",
+       "titulo": "Los ojos",
+       "anio": 1999,
+       "mbid": "abb0a204-0707-3a6d-9bde-ad61c8b2ce65",
+       "primer_lanzamiento": "1999",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ar-spinetta-solo",
+   "escena": "latinoamerica",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "spinetta",
+     "nombre": "Luis Alberto Spinetta",
+     "tipo": "Person",
+     "pais": "AR",
+     "inicio": "1950-01-23",
+     "fin": "2012-02-08",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Luis_Alberto_Spinetta",
+     "formaciones_mb": [
+      "Almendra (guitar, lead vocals, original; 1968-11-11–1980-12-23)",
+      "Pescado Rabioso (guitar, lead vocals, original; 1971–1973)",
+      "Invisible (miembro; ?–act.)",
+      "Spinetta Jade (miembro; ?–act.)",
+      "Spinetta y los Socios del Desierto (guitar, lead vocals, original; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "spinetta-spinettalandia-y-sus-amigos",
+       "titulo": "Spinettalandia y sus amigos",
+       "anio": 1971,
+       "mbid": "42df884f-6d63-3a3c-879f-060cf7d142d3",
+       "primer_lanzamiento": "1971-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-a-18-del-sol",
+       "titulo": "A 18′ del sol",
+       "anio": 1977,
+       "mbid": "0b2c9b5c-c490-3274-86ed-eddf05285735",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-only-love-can-sustain",
+       "titulo": "Only Love Can Sustain",
+       "anio": 1979,
+       "mbid": "e25a0c3b-78d6-3b37-a51f-b22405118967",
+       "primer_lanzamiento": "1979",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-kamikaze",
+       "titulo": "Kamikaze",
+       "anio": 1982,
+       "mbid": "d6e6ed92-9e10-30e9-b8e5-931b2be57954",
+       "primer_lanzamiento": "1982",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-mondo-di-cromo",
+       "titulo": "Mondo di cromo",
+       "anio": 1983,
+       "mbid": "964b1d9e-7909-3c2d-8790-4c770b9ef1cf",
+       "primer_lanzamiento": "1983",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-prive",
+       "titulo": "Privé",
+       "anio": 1985,
+       "mbid": "2a82eeef-afaa-310f-80e6-33da282705cb",
+       "primer_lanzamiento": "1985",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-la-la-la",
+       "titulo": "La la la",
+       "anio": 1986,
+       "mbid": "c2edcde1-99ed-3fc3-ac56-7b7d29ca61c3",
+       "primer_lanzamiento": "1986",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-tester-de-violencia",
+       "titulo": "Tester de violencia",
+       "anio": 1988,
+       "mbid": "46c83cd1-9e0d-3b65-93fa-c2f4ea386b99",
+       "primer_lanzamiento": "1988",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-don-lucero",
+       "titulo": "Don Lucero",
+       "anio": 1989,
+       "mbid": "55253831-2552-3751-be93-e28ca9efac49",
+       "primer_lanzamiento": "1989",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-peluson-of-milk",
+       "titulo": "Pelusón of Milk",
+       "anio": 1991,
+       "mbid": "d3bdcce4-baeb-37ac-8280-fc530018ee6f",
+       "primer_lanzamiento": "1991",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-fuego-gris",
+       "titulo": "Fuego gris",
+       "anio": 1993,
+       "mbid": "cf0447d5-b138-39ca-8eba-9ed43e244ab2",
+       "primer_lanzamiento": "1993",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "spinetta-silver-sorgo",
+       "titulo": "Silver Sorgo",
+       "anio": 2001,
+       "mbid": "bf8587ae-8dea-3866-ad01-1776f3b4981f",
+       "primer_lanzamiento": "2001",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-para-los-arboles",
+       "titulo": "Para los árboles",
+       "anio": 2003,
+       "mbid": "eb96ab96-5307-362d-b3b5-0d8fd82062f3",
+       "primer_lanzamiento": "2003",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-pan",
+       "titulo": "Pan",
+       "anio": 2006,
+       "mbid": "0db4c632-28d6-3541-a7b6-db9e9c278821",
+       "primer_lanzamiento": "2006-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-un-manana",
+       "titulo": "Un mañana",
+       "anio": 2008,
+       "mbid": "69d9389d-e2e0-30ff-a521-f82b7aeedfa8",
+       "primer_lanzamiento": "2008-06-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-los-amigo",
+       "titulo": "Los Amigo",
+       "anio": 2015,
+       "mbid": "9d765648-73b3-4d33-a708-b51286fdacbf",
+       "primer_lanzamiento": "2015-11-27",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spinetta-ya-no-mires-atras",
+       "titulo": "Ya no mires atrás",
+       "anio": 2020,
+       "mbid": "f331d302-6eb6-48e8-9551-a951505c864a",
+       "primer_lanzamiento": "2020-01-23",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ar-garcia",
+   "escena": "latinoamerica",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "sui-generis",
+     "nombre": "Sui Generis",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1968",
+     "fin": "2002",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Sui_Generis_(banda)",
+     "formaciones_mb": [
+      "Alejandro Correa (bass guitar, original; 1968–1968)",
+      "Juan Bellia (electric guitar, original; 1968–1971)",
+      "Rolando Fortich (electric bass guitar, original; 1968–1971)",
+      "Carlos Piégari (background vocals, original; 1968–1971)",
+      "Carlos Piégari (guitar, original; 1968–1971)",
+      "Alberto Rodríguez (drums (drum set), original; 1968–1971)",
+      "Charly García (lead vocals, original; 1968–1975-09-05)",
+      "Charly García (original, piano; 1968–1975-09-05)",
+      "Charly García (guitar, original; 1968–1975-09-05)",
+      "Charly García (keyboard, original; 1968–1975-09-05)",
+      "Nito Mestre (lead vocals, original; 1968–1975-09-05)",
+      "Nito Mestre (flute, original; 1968–1975-09-05)",
+      "Nito Mestre (guitar, original; 1968–1975-09-05)",
+      "Alejandro Correa (electric bass guitar; 1972–1973)",
+      "Francisco Prati (drums (drum set); 1972–1974)",
+      "Rinaldo Rafanelli (guitar; 1973–1975-09-05)",
+      "Rinaldo Rafanelli (bass guitar; 1973–1975-09-05)",
+      "Charly García (lead vocals; 1981–1981)",
+      "Charly García (piano; 1981–1981)",
+      "Charly García (guitar; 1981–1981)",
+      "Charly García (keyboard; 1981–1981)",
+      "Nito Mestre (lead vocals; 1981–1981)",
+      "Nito Mestre (flute; 1981–1981)",
+      "Nito Mestre (guitar; 1981–1981)",
+      "Mariela Chintalo (background vocals; 2000–2001)",
+      "Mariela Chintalo (saxophone; 2000–2001)",
+      "Érika Di Salvo (violin; 2000–2001)",
+      "Ulises Di Salvo (cello; 2000–2001)",
+      "Diego Dubarry (keyboard; 2000–2001)",
+      "Diego Dubarry (electronic drum set; 2000–2001)",
+      "María Gabriela Epumer (background vocals; 2000–2001)",
+      "María Gabriela Epumer (electric guitar; 2000–2001)",
+      "Charly García (lead vocals; 2000–2001)",
+      "Charly García (piano; 2000–2001)",
+      "Charly García (guitar; 2000–2001)",
+      "Charly García (keyboard; 2000–2001)",
+      "Nito Mestre (lead vocals; 2000–2001)",
+      "Nito Mestre (flute; 2000–2001)",
+      "Nito Mestre (guitar; 2000–2001)",
+      "Gabriel Said (percussion; 2000–2001)",
+      "Mario Serra (drums (drum set); 2000–2001)",
+      "Juan Rodríguez (membranophone; ?–1974-09-05)",
+      "Juan Rodríguez (drums (drum set); ?–1974-09-05)",
+      "Daniel Bernareggi (bass guitar; ?–?)",
+      "Diego Fraschetti (drums (drum set); ?–?)",
+      "Carlos L'areu (guitar; ?–?)",
+      "Diego Monteverde (mandolin; ?–?)",
+      "Diego Monteverde (bass guitar; ?–?)",
+      "Hugo Alfredo Negri (bass guitar; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "sui-generis-vida",
+       "titulo": "Vida",
+       "anio": 1972,
+       "mbid": "7257d8e4-702b-36a7-bc38-b54cd0031b7d",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "sui-generis-confesiones-de-invierno",
+       "titulo": "Confesiones de invierno",
+       "anio": 1973,
+       "mbid": "3ede0b9f-8b75-3809-920a-e9739f957db2",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "sui-generis-pequenas-anecdotas-sobre-las-instituciones",
+       "titulo": "Pequeñas anécdotas sobre las instituciones",
+       "anio": 1974,
+       "mbid": "c81b7c5b-5673-3fa9-9edc-a6e9c63905d3",
+       "primer_lanzamiento": "1974-12-16",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "sui-generis-sinfonias-para-adolescentes",
+       "titulo": "Sinfonías para adolescentes",
+       "anio": 2000,
+       "mbid": "fe548c2b-6ab1-32ad-b06e-4df76130f6a2",
+       "primer_lanzamiento": "2000-10-30",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "porsuigieco",
+     "nombre": "PorSuiGieco",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1974",
+     "fin": "1976",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/PorSuiGieco",
+     "formaciones_mb": [
+      "Charly García (miembro; 1974–1976)",
+      "León Gieco (miembro; 1974–1976)",
+      "Nito Mestre (miembro; 1974–1976)",
+      "Raúl Porchetto (miembro; 1974–1976)",
+      "María Rosa Yorio (miembro; 1974–1976)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "porsuigieco-porsuigieco",
+       "titulo": "PorSuiGieco",
+       "anio": 1976,
+       "mbid": "3ce7fb9a-c27b-3b78-a842-4a267b2bdc4b",
+       "primer_lanzamiento": "1976-03-07",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "seru-giran",
+     "nombre": "Serú Girán",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1978",
+     "fin": "1982",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Ser%C3%BA_Gir%C3%A1n",
+     "formaciones_mb": [
+      "Pedro Aznar (miembro; ?–act.)",
+      "Charly García (miembro; ?–act.)",
+      "David Lebón (miembro; ?–act.)",
+      "Oscar Moro (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "seru-giran-seru-giran",
+       "titulo": "Serú Girán",
+       "anio": 1978,
+       "mbid": "e73e47ca-b9ea-3be5-9505-8eb3fcfb2e17",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "seru-giran-la-grasa-de-las-capitales",
+       "titulo": "La grasa de las capitales",
+       "anio": 1979,
+       "mbid": "2e02ae17-685a-3b9e-b9bf-55294ea22447",
+       "primer_lanzamiento": "1979-08-19",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "seru-giran-bicicleta",
+       "titulo": "Bicicleta",
+       "anio": 1980,
+       "mbid": "31ddf318-d33b-432a-a500-29b5c28db33c",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "seru-giran-peperina",
+       "titulo": "Peperina",
+       "anio": 1981,
+       "mbid": "bc1a623a-cfd4-3957-b12b-7dcbe89c4cde",
+       "primer_lanzamiento": "1981",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "seru-giran-seru-92",
+       "titulo": "Seru '92",
+       "anio": 1992,
+       "mbid": "f0896fa1-ab00-3132-9182-76bd67365e8d",
+       "primer_lanzamiento": "1992",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "seru-giran-la-grasa-de-las-capitales-edicion-40o-aniversario-remasterizado-2019",
+       "titulo": "La Grasa de las Capitales: Edición 40º Aniversario (Remasterizado 2019)",
+       "anio": 2019,
+       "mbid": "00017651-290b-478e-a00c-2a427c4b7631",
+       "primer_lanzamiento": "2019-12-20",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ar-garcia-solo",
+   "escena": "latinoamerica",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "charly-garcia",
+     "nombre": "Charly García",
+     "tipo": "Person",
+     "pais": "AR",
+     "inicio": "1951-10-23",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Charly_Garc%C3%ADa",
+     "formaciones_mb": [
+      "To Walk Spanish (electric guitar, original; 1967–1968)",
+      "To Walk Spanish (lead vocals, original; 1967–1968)",
+      "To Walk Spanish (original, piano; 1967–1968)",
+      "Sui Generis (lead vocals, original; 1968–1975-09-05)",
+      "Sui Generis (original, piano; 1968–1975-09-05)",
+      "Sui Generis (guitar, original; 1968–1975-09-05)",
+      "Sui Generis (keyboard, original; 1968–1975-09-05)",
+      "PorSuiGieco (miembro; 1974–1976)",
+      "Billy Bond and The Jets (keyboard, original; 1978–1978)",
+      "Sui Generis (lead vocals; 1981–1981)",
+      "Sui Generis (piano; 1981–1981)",
+      "Sui Generis (guitar; 1981–1981)",
+      "Sui Generis (keyboard; 1981–1981)",
+      "Sui Generis (lead vocals; 2000–2001)",
+      "Sui Generis (piano; 2000–2001)",
+      "Sui Generis (guitar; 2000–2001)",
+      "Sui Generis (keyboard; 2000–2001)",
+      "La Máquina de Hacer Pájaros (miembro; ?–act.)",
+      "Serú Girán (miembro; ?–act.)",
+      "Ray Milland Band (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "charly-garcia-pubis-angelical",
+       "titulo": "Pubis angelical",
+       "anio": 1982,
+       "mbid": "ed6af9bf-f180-3da3-b4b5-5860e133e6c7",
+       "primer_lanzamiento": "1982",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "charly-garcia-yendo-de-la-cama-al-living",
+       "titulo": "Yendo de la cama al living",
+       "anio": 1982,
+       "mbid": "d1083fe5-09e1-37f9-b1d8-886eb853fc57",
+       "primer_lanzamiento": "1982",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-clics-modernos",
+       "titulo": "Clics modernos",
+       "anio": 1983,
+       "mbid": "33eaf398-1164-32e3-9055-3bcbff8f3b12",
+       "primer_lanzamiento": "1983-11-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-piano-bar",
+       "titulo": "Piano bar",
+       "anio": 1984,
+       "mbid": "b50af62f-7e39-3899-8ee5-5550f7b35b65",
+       "primer_lanzamiento": "1984-11-22",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-tango",
+       "titulo": "Tango",
+       "anio": 1986,
+       "mbid": "c12a6c55-e39b-3d6d-a980-b65d74c664f0",
+       "primer_lanzamiento": "1986-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-parte-de-la-religion",
+       "titulo": "Parte de la religión",
+       "anio": 1987,
+       "mbid": "4575dab8-93b3-3412-8a99-545ecd4c13a6",
+       "primer_lanzamiento": "1987",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-lo-que-vendra",
+       "titulo": "Lo que vendrá",
+       "anio": 1988,
+       "mbid": "8bc05884-6284-3a28-8f87-30b521fde7a2",
+       "primer_lanzamiento": "1988",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "charly-garcia-como-conseguir-chicas",
+       "titulo": "Cómo conseguir chicas",
+       "anio": 1989,
+       "mbid": "7d6c018f-ed78-3d22-8ee3-89363657d775",
+       "primer_lanzamiento": "1989-02-16",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-filosofia-barata-y-zapatos-de-goma",
+       "titulo": "Filosofía barata y zapatos de goma",
+       "anio": 1990,
+       "mbid": "6e74ec33-1d29-3800-b4a6-ffd6d5c95bb4",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-tango-4",
+       "titulo": "Tango 4",
+       "anio": 1991,
+       "mbid": "675bc722-40e6-3c48-8674-e5da45a4d7b1",
+       "primer_lanzamiento": "1991",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-funes-un-gran-amor",
+       "titulo": "Funes, un gran amor",
+       "anio": 1993,
+       "mbid": "210b7787-aeb4-4d22-a873-fb680a9d70e0",
+       "primer_lanzamiento": "1993",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "charly-garcia-la-hija-de-la-lagrima",
+       "titulo": "La hija de la lágrima",
+       "anio": 1994,
+       "mbid": "23cef9b9-da66-39ba-bbfa-1f752d65d379",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-say-no-more",
+       "titulo": "Say No More",
+       "anio": 1996,
+       "mbid": "396b4a3a-354b-3c6b-9f73-9d7c996f8c72",
+       "primer_lanzamiento": "1996",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-el-aguante",
+       "titulo": "El aguante",
+       "anio": 1998,
+       "mbid": "0b4072c4-5c29-3575-bedb-c03f758636c9",
+       "primer_lanzamiento": "1998",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-influencia",
+       "titulo": "Influencia",
+       "anio": 2002,
+       "mbid": "5341f83a-5c9d-314f-bc6b-0a1c490fd18b",
+       "primer_lanzamiento": "2002",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-rock-and-roll-yo",
+       "titulo": "Rock and Roll YO",
+       "anio": 2003,
+       "mbid": "50a896c4-4048-34eb-a657-a3f71fb4c42a",
+       "primer_lanzamiento": "2003",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-kill-gil",
+       "titulo": "Kill Gil",
+       "anio": 2007,
+       "mbid": "97690669-017c-35e9-8c0e-93c3a8f9d64a",
+       "primer_lanzamiento": "2007",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-random",
+       "titulo": "Random",
+       "anio": 2017,
+       "mbid": "a56c18d5-cfd9-4575-baff-50b45c58bcfa",
+       "primer_lanzamiento": "2017-02-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "charly-garcia-la-logica-del-escorpion",
+       "titulo": "La lógica del escorpión",
+       "anio": 2024,
+       "mbid": "a1cc063a-9cb6-4c2d-a5df-7bbbd2b61ac9",
+       "primer_lanzamiento": "2024-09-11",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ar-sinfonico",
+   "escena": "latinoamerica",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "aquelarre",
+     "nombre": "Aquelarre",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1971",
+     "fin": "1999",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Aquelarre_(banda)",
+     "formaciones_mb": [
+      "Emilio del Guercio (bass guitar, lead vocals, original; 1971–1977)",
+      "Rodolfo García (membranophone, original; 1971–1977)",
+      "Hugo González Neira (keyboard, lead vocals; 1971–1977)",
+      "Héctor Starc (guitar, original; 1971–1977)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "aquelarre-aquelarre",
+       "titulo": "Aquelarre",
+       "anio": 1972,
+       "mbid": "b9604aae-9efa-33ad-9c36-1c26e3207d22",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aquelarre-candiles",
+       "titulo": "Candiles",
+       "anio": 1973,
+       "mbid": "85c5cd66-824a-47c7-ac57-c0d5789d2951",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aquelarre-brumas",
+       "titulo": "Brumas",
+       "anio": 1974,
+       "mbid": "f9fd142b-c7d0-3d64-850f-77549111effd",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aquelarre-siesta",
+       "titulo": "Siesta",
+       "anio": 1975,
+       "mbid": "5fc9f13c-48c8-3e5d-8525-e4ac20730126",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "arco-iris",
+     "nombre": "Arco Iris",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1968",
+     "fin": "2006",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Arco_Iris_(banda)",
+     "formaciones_mb": [
+      "Diego Rapoport (miembro; ?–act.)",
+      "Ara Tokatlián (miembro; ?–act.)",
+      "Gustavo Santaolalla (guitar, lead vocals, original; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "arco-iris-arco-iris",
+       "titulo": "Arco Iris",
+       "anio": 1970,
+       "mbid": "c0705536-bed3-4c55-a177-013bb5f1d864",
+       "primer_lanzamiento": "1970",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arco-iris-sudamerica-o-el-regreso-a-la-aurora",
+       "titulo": "Sudamérica o el regreso a la aurora",
+       "anio": 1972,
+       "mbid": "e578d6d4-c74c-3eed-9af8-480d2cd89c6e",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arco-iris-tiempo-de-resurreccion",
+       "titulo": "Tiempo de resurrección",
+       "anio": 1972,
+       "mbid": "4b78de51-5e27-4d67-ab0d-0c97f1bc014f",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arco-iris-inti-raymi",
+       "titulo": "Inti-Raymi",
+       "anio": 1973,
+       "mbid": "b7d7ed9c-5f7c-4427-a5ca-13ea09e5d956",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arco-iris-agitor-lucens-v",
+       "titulo": "Agitor Lucens V",
+       "anio": 1975,
+       "mbid": "419a7829-94ca-4e41-a7b0-9ebf10e4c28b",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arco-iris-suite-no-1",
+       "titulo": "Suite No. 1",
+       "anio": 1976,
+       "mbid": "87310d78-79de-4ef8-8c48-b6d84029a6dd",
+       "primer_lanzamiento": "1976",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arco-iris-los-elementales",
+       "titulo": "Los elementales",
+       "anio": 1977,
+       "mbid": "6525f91d-d19b-423a-b157-9a73a9dd5327",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arco-iris-faisan-azul",
+       "titulo": "Faisán azul",
+       "anio": 1983,
+       "mbid": "cfa3a8dd-2fbd-45ad-bd1d-0d63156e8ea6",
+       "primer_lanzamiento": "1983",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arco-iris-peace-pipes",
+       "titulo": "Peace Pipes",
+       "anio": 1987,
+       "mbid": "41eb5e93-1bf9-4b6c-8a2c-4b5ceabbaf72",
+       "primer_lanzamiento": "1987",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arco-iris-peace-will-save-the-rainbow",
+       "titulo": "Peace Will Save the Rainbow",
+       "anio": 1998,
+       "mbid": "9935e127-4026-4d47-b003-23ad1091b446",
+       "primer_lanzamiento": "1998-08-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arco-iris-desde-el-jardin",
+       "titulo": "Desde el jardín",
+       "anio": 2012,
+       "mbid": "2a7ae984-d3ef-4585-9548-fc79465d02f9",
+       "primer_lanzamiento": "2012",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "alas",
+     "nombre": "Alas",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1975",
+     "fin": "1978",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Alas_(banda)",
+     "formaciones_mb": [
+      "Pedro Aznar (guitar; ?–act.)",
+      "Pedro Aznar (bass guitar; ?–act.)",
+      "Gustavo Moretto (lead vocals, original; ?–act.)",
+      "Gustavo Moretto (original, wind instruments; ?–act.)",
+      "Gustavo Moretto (keyboard, original; ?–act.)",
+      "Carlos Riganti (original, percussion; ?–act.)",
+      "Carlos Riganti (drums (drum set), original; ?–act.)",
+      "Alex Zuker (guitar, original; ?–act.)",
+      "Alex Zuker (bass guitar, original; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "alas-alas",
+       "titulo": "Alas",
+       "anio": 1976,
+       "mbid": "e3bbbf13-c148-4e91-87a3-42bd5aa433ca",
+       "primer_lanzamiento": "1976",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "alas-pinta-tu-aldea",
+       "titulo": "Pinta tu aldea",
+       "anio": 1983,
+       "mbid": "e6a6f1f2-dea7-4da9-9ccf-4a03be069a03",
+       "primer_lanzamiento": "1983",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "alas-mimame-bandoneon",
+       "titulo": "Mímame bandoneón",
+       "anio": 2005,
+       "mbid": "421388fa-504a-4aae-9264-d94f192ed6e5",
+       "primer_lanzamiento": "2005-01-01",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "color-humano",
+     "nombre": "Color Humano",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1972",
+     "fin": "1974",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Color_Humano",
+     "formaciones_mb": [
+      "David Lebón (miembro; ?–act.)",
+      "Edelmiro Molinari (miembro; ?–act.)",
+      "Oscar Moro (miembro; ?–act.)",
+      "Rinaldo Rafanelli (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "color-humano-color-humano-1972",
+       "titulo": "Color Humano",
+       "anio": 1972,
+       "mbid": "0637df8a-7f7c-3171-bea6-f8f2f923d432",
+       "primer_lanzamiento": "1972-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "color-humano-color-humano-1973",
+       "titulo": "Color Humano",
+       "anio": 1973,
+       "mbid": "f1c00072-4d86-3dea-b902-f21531764f46",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "color-humano-color-humano-1974",
+       "titulo": "Color Humano",
+       "anio": 1974,
+       "mbid": "0a16b784-ea89-314c-b6da-47218aeb4a88",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ar-otros",
+   "escena": "latinoamerica",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "vox-dei",
+     "nombre": "Vox Dei",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1967",
+     "fin": "2017-06",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Vox_Dei",
+     "formaciones_mb": [
+      "Rubén Basoalto (background vocals, membranophone, original, percussion; 1967–2010)",
+      "Juan Carlos “Yodi” Godoy (guitar, original; 1967–2013)",
+      "Ricardo Soulé (guitar, harmonica, lead vocals, original, piano, violin; 1967–2013)",
+      "Willy Quiroga (bass guitar, guitar, keyboard, lead vocals, original; 1967–2017-06)",
+      "Nacho Smilari (electric guitar; 1971–1971)",
+      "Carlos Michelini (electric guitar, lead vocals; 1974–1975)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "vox-dei-caliente",
+       "titulo": "Caliente",
+       "anio": 1970,
+       "mbid": "a80e2217-0718-3975-b5ce-20db04e54844",
+       "primer_lanzamiento": "1970",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-la-biblia-1971",
+       "titulo": "La Biblia",
+       "anio": 1971,
+       "mbid": "04e658ff-608c-347a-8268-18d23fe01160",
+       "primer_lanzamiento": "1971-03-15",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-jeremias-pies-de-plomo",
+       "titulo": "Jeremías pies de plomo",
+       "anio": 1972,
+       "mbid": "a783f045-8732-3d4d-ad9b-fafef8d55918",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-cuero-caliente",
+       "titulo": "Cuero caliente",
+       "anio": 1972,
+       "mbid": "b4d0e040-451b-340a-81e2-d5412c5d3b71",
+       "primer_lanzamiento": "1972-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-es-una-nube-no-hay-duda",
+       "titulo": "Es una nube, no hay duda",
+       "anio": 1973,
+       "mbid": "75c5377c-e416-3263-8e93-ac7ccd1d0bea",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-vox-dei-para-vox-dei",
+       "titulo": "Vox Dei para Vox Dei",
+       "anio": 1974,
+       "mbid": "f768f1f3-8dcd-468f-b92d-4a96abd31698",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-estamos-en-la-pecera",
+       "titulo": "Estamos en la pecera",
+       "anio": 1975,
+       "mbid": "784ffbf8-3f6a-3e60-8b6c-f5a954872d99",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-ciegos-de-siglos",
+       "titulo": "Ciegos de siglos",
+       "anio": 1976,
+       "mbid": "4b034040-5c96-3afe-a9de-7b52b5a4a526",
+       "primer_lanzamiento": "1976",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-gata-de-noche",
+       "titulo": "Gata de noche",
+       "anio": 1978,
+       "mbid": "6e5a821e-a406-4a12-9f2f-7d37a4495d36",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-tengo-razones-para-seguir",
+       "titulo": "Tengo razones para seguir",
+       "anio": 1988,
+       "mbid": "25a14e30-e53f-4ba2-b9cb-f08d8277d8f2",
+       "primer_lanzamiento": "1988",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-sin-darle-ya-mas-vueltas",
+       "titulo": "Sin darle ya más vueltas",
+       "anio": 1994,
+       "mbid": "ab38adb1-7478-4552-9021-a5f7cffd38ac",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-la-biblia-1997",
+       "titulo": "La Biblia",
+       "anio": 1997,
+       "mbid": "176b2c5c-94fd-4d27-9e6e-d8db2cd3886f",
+       "primer_lanzamiento": "1997",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-el-camino",
+       "titulo": "El camino",
+       "anio": 2005,
+       "mbid": "eebf1693-6b20-3a8d-89e7-29cd9a30898c",
+       "primer_lanzamiento": "2005",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vox-dei-la-cinta-perdida",
+       "titulo": "La Cinta Perdida",
+       "anio": 2025,
+       "mbid": "907f426d-11b4-4c14-b57b-53b33891efcf",
+       "primer_lanzamiento": "2025-08-29",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "pastoral",
+     "nombre": "Pastoral",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1971",
+     "fin": "1983-05-20",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Pastoral_(d%C3%BAo_de_rock)",
+     "formaciones_mb": [
+      "Alejandro De Michele (lead vocals; ?–act.)",
+      "Alejandro De Michele (guitar; ?–act.)",
+      "Miguel Ángel Erausquin (lead vocals; ?–act.)",
+      "Miguel Ángel Erausquin (guitar; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "pastoral-pastoral",
+       "titulo": "Pastoral",
+       "anio": 1973,
+       "mbid": "cfda9433-6873-42dd-b6fd-1bcf6070079f",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pastoral-en-el-hospicio",
+       "titulo": "En el hospicio",
+       "anio": 1975,
+       "mbid": "dac25612-1fb4-4d81-9f65-606b6b3f6c2a",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pastoral-humanos",
+       "titulo": "Humanos",
+       "anio": 1976,
+       "mbid": "72a1e667-6480-4b9e-bb62-0dc664baf561",
+       "primer_lanzamiento": "1976",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pastoral-atrapados-en-el-cielo",
+       "titulo": "Atrapados en el cielo",
+       "anio": 1977,
+       "mbid": "dca9075f-206f-4b81-8b52-20635fd1c8f4",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pastoral-de-michele-erausquin",
+       "titulo": "De Michele - Erausquin",
+       "anio": 1979,
+       "mbid": "18e4b341-1c53-49e2-aa4a-7965d3d8f4c3",
+       "primer_lanzamiento": "1979",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pastoral-generacion",
+       "titulo": "Generación",
+       "anio": 1982,
+       "mbid": "43ffa940-beab-47b4-bec0-b76df5a5cf52",
+       "primer_lanzamiento": "1982",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "bubu",
+     "nombre": "Bubu",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1973",
+     "fin": "1978",
+     "wikipedia_url": null,
+     "formaciones_mb": [],
+     "catalogo": [
+      {
+       "album_slug": "bubu-anabelas",
+       "titulo": "Anabelas",
+       "anio": 1978,
+       "mbid": "e8b28b47-1dae-3929-a6b5-7d9fe23b5eac",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "bubu-tumar-moromere",
+       "titulo": "Tumar Moromere",
+       "anio": 2006,
+       "mbid": "9457ab7c-3b9d-4f99-ac84-9175b8b255e2",
+       "primer_lanzamiento": "2006-04-03",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "bubu-el-eco-del-sol",
+       "titulo": "El eco del sol",
+       "anio": 2018,
+       "mbid": "82007fac-34bc-4590-abcf-01797857812b",
+       "primer_lanzamiento": "2018-09-07",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "bubu-el-ultimo-cortejo",
+       "titulo": "El Último Cortejo",
+       "anio": 2026,
+       "mbid": "a64ca0fc-0a55-459f-8b8c-b570ccb280be",
+       "primer_lanzamiento": "2026",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "tantor",
+     "nombre": "Tantor",
+     "tipo": "Group",
+     "pais": "AR",
+     "inicio": "1977",
+     "fin": "1983",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Tantor",
+     "formaciones_mb": [
+      "Rodolfo García (drums (drum set), original; 1977–1983)",
+      "Héctor Starc (guitar, original; 1977–1983)",
+      "Machi Rufino (bass guitar; 1978–1980)",
+      "Leo Sujatovich (keyboard; 1978–1980)",
+      "Lito Vitale (keyboard; 1978–1980)",
+      "Babú Cerviño (keyboard; 1981–1983)",
+      "Marcelo Torres (bass guitar; 1981–1983)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "tantor-tantor",
+       "titulo": "Tantor",
+       "anio": 1979,
+       "mbid": "e94e57b5-a231-483d-8db2-2651e0f2bde6",
+       "primer_lanzamiento": "1979",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "tantor-magico-y-natural",
+       "titulo": "Mágico Y Natural",
+       "anio": 2015,
+       "mbid": "d7be0758-a511-4927-b14d-9e36a745a162",
+       "primer_lanzamiento": "2015",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

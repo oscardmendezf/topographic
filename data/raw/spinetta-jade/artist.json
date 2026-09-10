@@ -1,0 +1,339 @@
+{
+  "disambiguation": "",
+  "aliases": [],
+  "begin-area": {
+    "type-id": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "type": null,
+    "sort-name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "name": "Buenos Aires",
+    "disambiguation": ""
+  },
+  "id": "78b8c4c6-d329-4b01-98ed-02b183fe0bf8",
+  "life-span": {
+    "begin": "1980-05-03",
+    "end": "1985",
+    "ended": true
+  },
+  "area": {
+    "disambiguation": "",
+    "name": "Argentina",
+    "sort-name": "Argentina",
+    "type": null,
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "type-id": null
+  },
+  "isnis": [],
+  "ipis": [],
+  "gender": null,
+  "name": "Spinetta Jade",
+  "relations": [
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1981",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "1984",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": true,
+      "artist": {
+        "country": "AR",
+        "name": "Leo Sujatovich",
+        "disambiguation": "Argentine musician",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Sujatovich, Leo",
+        "type": "Person",
+        "id": "16c6b187-a30f-4484-922f-e189556783c9"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      }
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "id": "f52e3d30-58bd-4f0c-b7a4-4758fe92f2a9",
+        "type": "Person",
+        "sort-name": "Lorenzo, Héctor “Pomo”",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Héctor “Pomo” Lorenzo",
+        "country": "AR"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "ended": false,
+      "artist": {
+        "type": "Person",
+        "sort-name": "Rapoport, Diego",
+        "id": "1b92cecf-4708-4224-8e52-951b92e70207",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Diego Rapoport"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "end": null,
+      "type": "member of band",
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "type": "Person",
+        "sort-name": "Spinetta, Luis Alberto",
+        "id": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "“El Flaco”",
+        "country": "AR",
+        "name": "Luis Alberto Spinetta"
+      },
+      "ended": false
+    },
+    {
+      "url": {
+        "id": "8d5109c5-090f-4302-ac6c-9364e42eb80c",
+        "resource": "https://www.allmusic.com/artist/mn0001461047"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "type": "allmusic",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "id": "b689ad0a-2d11-49db-92c4-08dfe5171e83",
+        "resource": "https://www.discogs.com/artist/1711636"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type": "discogs",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "free streaming",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "ecb1842e-c962-4c37-9055-7d6b86fa4bb6",
+        "resource": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "free streaming",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "63f13747-005f-48ac-aea6-331c17749d2b",
+        "resource": "https://www.deezer.com/artist/75281"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "end": null,
+      "attributes": [],
+      "type": "last.fm",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.last.fm/music/Spinetta+Jade",
+        "id": "26f86b59-2a65-4310-9501-7805bcd6d03e"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "ce5d1af9-8768-49d1-a380-09cbe9e0921f",
+        "resource": "http://rock.com.ar/artistas/spinetta-jade"
+      }
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "id": "4b0d25bd-ed40-4679-b68f-725fdc35dde6",
+        "resource": "https://rateyourmusic.com/artist/spinetta-jade-1"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "url": {
+        "id": "8d05abf3-9d06-4782-b103-220a760be83a",
+        "resource": "https://www.progarchives.com/artist.asp?id=2731"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "type": "setlistfm",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "05c5b60b-34bf-4730-8742-fa9bf6b84b6e",
+        "resource": "https://www.setlist.fm/setlists/spinetta-jade-1bd63988.html"
+      },
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/254062411",
+        "id": "43ace2df-6978-4ad0-a648-65c6c7624b87"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "streaming",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "c96f727f-bd46-409a-a64f-8567bddc94de",
+        "resource": "https://www.wikidata.org/wiki/Q7577542"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "wikidata",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": ""
+    }
+  ],
+  "country": "AR",
+  "gender-id": null,
+  "type": "Group",
+  "sort-name": "Spinetta Jade",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "end-area": null
+}

@@ -1,0 +1,272 @@
+{
+  "sort-name": "Pastoral",
+  "type": "Group",
+  "end-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender": null,
+  "ipis": [],
+  "country": "AR",
+  "gender-id": null,
+  "relations": [
+    {
+      "ended": false,
+      "artist": {
+        "id": "2fc0617e-1028-497d-9c37-ff65d8264d2f",
+        "sort-name": "De Michele, Alejandro",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Alejandro De Michele",
+        "country": "AR"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "type": "member of band",
+      "begin": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "lead vocals"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "name": "Alejandro De Michele",
+        "country": "AR",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "2fc0617e-1028-497d-9c37-ff65d8264d2f",
+        "sort-name": "De Michele, Alejandro",
+        "type": "Person"
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "end": null,
+      "begin": null,
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "id": "528b6fe7-7888-46c4-bf73-435e311c3c84",
+        "type": "Person",
+        "sort-name": "Erausquin, Miguel Ángel",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Miguel Ángel Erausquin",
+        "country": "AR"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "ended": false,
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": null,
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "lead vocals"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "guitar"
+      ],
+      "target-credit": "",
+      "source-credit": "",
+      "artist": {
+        "country": "AR",
+        "name": "Miguel Ángel Erausquin",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Erausquin, Miguel Ángel",
+        "id": "528b6fe7-7888-46c4-bf73-435e311c3c84"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attributes": [],
+      "type": "allmusic",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "1c5b9dc4-8300-4e47-b6f7-bb13251666b9",
+        "resource": "https://www.allmusic.com/artist/mn0000132998"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type": "discogs",
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "8f092666-9edf-4889-bd65-e0ab653b190e",
+        "resource": "https://www.discogs.com/artist/1770959"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "official homepage",
+      "end": null,
+      "attributes": [],
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "e01a6117-df02-4187-bf14-162258bad1cd",
+        "resource": "http://www.todopastoral.com.ar/"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/pastoral",
+        "id": "37061b43-6a05-4e6a-a686-26a967c016d1"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "664d3e23-c80a-41e0-b195-df82fc010c98",
+        "resource": "https://www.rock.com.ar/artistas/pastoral"
+      },
+      "ended": false,
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "begin": null,
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "setlistfm",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "7c06c091-51b8-4196-b914-28d35ba4cd75",
+        "resource": "https://www.setlist.fm/setlists/pastoral-3d565ef.html"
+      },
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "type": "wikidata",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q6066147",
+        "id": "cc378315-2435-4717-ba85-c16de42f32f7"
+      },
+      "ended": false
+    }
+  ],
+  "name": "Pastoral",
+  "life-span": {
+    "begin": "1971",
+    "end": "1983-05-20",
+    "ended": true
+  },
+  "id": "e2d636de-6c43-4f26-bfcb-cadb3f69d9c9",
+  "isnis": [],
+  "area": {
+    "type": null,
+    "sort-name": "Argentina",
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "disambiguation": "",
+    "name": "Argentina"
+  },
+  "disambiguation": "Argentine folk rock duo",
+  "begin-area": null,
+  "aliases": []
+}

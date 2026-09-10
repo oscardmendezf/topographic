@@ -1,0 +1,39 @@
+---
+tipo: "album"
+slug: "vox-dei-sin-darle-ya-mas-vueltas"
+titulo: "Sin darle ya más vueltas"
+artista: "Vox Dei"
+artista_slug: "vox-dei"
+anio_ficha: 1994
+era: "siguiente"
+escena: "latinoamerica"
+mb_rgid: "ab38adb1-7478-4552-9021-a5f7cffd38ac"
+primer_lanzamiento: "1994"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Disco de oficio, prescindible dentro del catálogo."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Alcance acotado al seguidor del nombre."
+historia: "editorial"
+---
+
+Vox Dei sostenido más por la marca que por un proyecto: hard rock competente, escrito sin riesgo y grabado sin memoria. Ni la peor versión del grupo ni una razón para volver a él.
+
+<!-- historia:editorial -->
+
+## La historia
+
+A mediados de los noventa Vox Dei era, sobre todo, un nombre. El grupo seguía tocando, tenía un público fiel que se renovaba lentamente y una historia que le garantizaba respeto, pero no un proyecto artístico en marcha: los discos de esta etapa se hacen porque una banda en actividad graba, no porque haya algo que decir. Sin darle ya más vueltas es el ejemplo más nítido de esa situación, y hasta su título tiene el aire de alguien que decide no darle más pensamiento al asunto.
+
+Las canciones son hard rock de escritura convencional, resueltas con los recursos que el grupo domina desde siempre y sin una sola decisión que sorprenda. El tema título abre con el riff más firme del conjunto, «Como toro» y «Cazador implacable» apuestan a la imaginería de fuerza sin ironía, e «Igual que un ariete» insiste en el mismo terreno. «Susana en un sueño» y «Mi forma de amar» son las baladas, escritas en el molde más previsible posible, mientras «El amor cabalga en el viento» y «No es eterno el sol» buscan la imagen poética y quedan a medio camino. «Si vas por bien» y «El perverso cara dos» aportan el pulso más directo y «Mamalita» cierra como una broma corta. No hay malas canciones, en el sentido de que ninguna está mal hecha; hay una ausencia general de motivo, letras que repiten fórmulas que el propio grupo había usado mejor veinte años antes y una escritura que no se arriesga en ningún compás. Tres años después llegaría la regrabación de La Biblia, que al menos tenía una idea detrás.
+
+## La producción
+
+El registro es competente y anónimo. Guitarras al frente con una saturación estándar, bajo funcional, batería marcada con firmeza y sin variaciones, voces bien arriba y coros de refuerzo en los estribillos: el manual del hard rock de los noventa aplicado sin desvíos. La mezcla es limpia y ecualizada con criterio comercial, más brillante que la de los discos setentistas y con menos cuerpo en el registro medio, y no hay una sola decisión de estudio que se recuerde después de la escucha. Falta lo que sí tenían los álbumes clásicos, la sensación de una banda ocupando un espacio físico. No constan créditos verificados de producción, ingeniería, estudio ni portada, y no vale la pena atribuirlos.
+
+## Recepción y legado
+
+Pasó desapercibido incluso entre los seguidores del grupo y no dejó ninguna canción en el repertorio permanente. No es la peor versión de Vox Dei —hay oficio, la banda toca bien y el disco no tiene el problema de sonido de fines de los ochenta— pero tampoco existe una razón para volver a él una vez conocidos los discos que importan. Su lugar en la discografía es de relleno cronológico, y en la historia del prog argentino, ninguno. Se rescata, si se quiere, la constancia de un grupo que siguió grabando sin depender de la nostalgia; no se rescata el material, que confirma que la marca puede sostener una carrera pero no reemplazar a la necesidad de escribir algo nuevo.

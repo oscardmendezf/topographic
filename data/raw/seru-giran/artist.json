@@ -1,0 +1,363 @@
+{
+  "name": "Serú Girán",
+  "relations": [
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "name": "Pedro Aznar",
+        "country": "AR",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "21dcc3a2-9fc8-41d2-8736-cdcbde270f4c",
+        "type": "Person",
+        "sort-name": "Aznar, Pedro"
+      },
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "member of band",
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": null,
+      "type": "member of band",
+      "attributes": [],
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "sort-name": "García, Charly",
+        "id": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "AR",
+        "name": "Charly García"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "type": "Person",
+        "sort-name": "Lebón, David",
+        "id": "6e46f85e-9d9b-4079-87e6-eab785300ad7",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "AR",
+        "name": "David Lebón"
+      }
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": null,
+      "type": "member of band",
+      "ended": false,
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Oscar Moro",
+        "country": "AR",
+        "id": "8d9e7192-63f2-4d6f-b003-655bdd142c40",
+        "type": "Person",
+        "sort-name": "Moro, Oscar",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "tribute",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "attribute-values": {},
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "afd5db29-87c4-474d-b29d-37f837c4a12b",
+        "sort-name": "Cinema Verité",
+        "type": "Group",
+        "name": "Cinema Verité",
+        "country": null,
+        "disambiguation": "Argentinian Serú Girán cover band"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000744347",
+        "id": "7ca309e4-f6cb-4b13-a13d-b628a58dfd5b"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attributes": [],
+      "begin": null,
+      "type": "allmusic",
+      "target-type": "url",
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "type": "discogs",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "ended": false,
+      "url": {
+        "id": "47accc52-f204-4c63-ab03-7bd979deb493",
+        "resource": "https://www.discogs.com/artist/1539220"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "free streaming",
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "resource": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1",
+        "id": "93d238a9-b355-48d2-9203-52cbcbee6949"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "type": "free streaming",
+      "begin": null,
+      "target-credit": "",
+      "source-credit": "",
+      "url": {
+        "id": "bd84707c-3946-40df-930f-357fa683efdd",
+        "resource": "https://www.deezer.com/artist/103602"
+      },
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "ended": false,
+      "url": {
+        "id": "1b69c54c-8086-4948-9723-2832b81c4bac",
+        "resource": "https://rateyourmusic.com/artist/seru-giran"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "6d649987-ab7f-4c41-af16-8ccdb8e7fe64",
+        "resource": "https://www.rock.com.ar/artistas/seru-giran"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "other databases",
+      "end": null,
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "setlistfm",
+      "ended": false,
+      "url": {
+        "id": "89313ef6-8c24-4986-b33b-2f7fcaaf5776",
+        "resource": "https://www.setlist.fm/setlists/seru-giran-13d6cd25.html"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "streaming",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "d2f728ae-b6ec-459e-9a90-91b5b053241f",
+        "resource": "https://music.apple.com/gb/artist/430041996"
+      },
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "a9f8c179-c7a3-4bb4-8e77-2ac5d23c522a",
+        "resource": "https://www.wikidata.org/wiki/Q2994217"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "wikidata",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "source-credit": "",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "5b8987d7-ac0f-447a-912c-fb882d76f488",
+        "resource": "https://www.youtube.com/serugiranok"
+      },
+      "ended": false,
+      "target-type": "url",
+      "direction": "forward",
+      "type": "youtube",
+      "begin": null,
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-credit": "",
+      "source-credit": ""
+    }
+  ],
+  "gender-id": null,
+  "country": "AR",
+  "ipis": [],
+  "gender": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "end-area": {
+    "disambiguation": "",
+    "name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "type": null,
+    "sort-name": "Buenos Aires",
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "type-id": null
+  },
+  "type": "Group",
+  "sort-name": "Serú Girán",
+  "aliases": [
+    {
+      "type-id": null,
+      "end": null,
+      "type": null,
+      "begin": null,
+      "sort-name": "Seru Giran",
+      "primary": null,
+      "locale": null,
+      "name": "Seru Giran",
+      "ended": false
+    }
+  ],
+  "begin-area": {
+    "disambiguation": "",
+    "name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "sort-name": "Buenos Aires",
+    "type": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "type-id": null
+  },
+  "disambiguation": "",
+  "isnis": [
+    "0000000470921999"
+  ],
+  "area": {
+    "disambiguation": "",
+    "name": "Argentina",
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "sort-name": "Argentina",
+    "type": null,
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "type-id": null
+  },
+  "id": "f1cd52dc-49d1-4df6-93ea-3587d8fba30b",
+  "life-span": {
+    "begin": "1978",
+    "ended": true,
+    "end": "1982"
+  }
+}

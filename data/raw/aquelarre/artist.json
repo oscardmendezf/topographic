@@ -1,0 +1,328 @@
+{
+  "disambiguation": "Argentinian prog rock band",
+  "ipis": [],
+  "area": {
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "type-id": null,
+    "sort-name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "disambiguation": "",
+    "name": "Argentina",
+    "type": null
+  },
+  "type": "Group",
+  "name": "Aquelarre",
+  "life-span": {
+    "ended": true,
+    "end": "1999",
+    "begin": "1971"
+  },
+  "id": "ca298081-8492-4591-9f65-7aee865ce237",
+  "isnis": [],
+  "relations": [
+    {
+      "attributes": [
+        "bass guitar",
+        "lead vocals",
+        "original"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "1971",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "end": "1977",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "del Guercio, Emilio",
+        "country": "AR",
+        "id": "f3c75be3-ce8c-4aa9-8a35-a4fdc261ea09",
+        "name": "Emilio del Guercio",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "ended": true,
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "membranophone",
+        "original"
+      ],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "artist": {
+        "type": "Person",
+        "name": "Rodolfo García",
+        "disambiguation": "Argentine drummer and musician",
+        "country": "AR",
+        "sort-name": "García, Rodolfo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "673ead05-8e75-480f-8890-ff60ffe5b35a"
+      },
+      "end": "1977",
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {}
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": true,
+      "end": "1977",
+      "artist": {
+        "type": "Person",
+        "name": "Hugo González Neira",
+        "disambiguation": "",
+        "sort-name": "González Neira, Hugo",
+        "country": "AR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "8a1f33e1-4105-4d66-8d92-e3d0465aa60d"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "keyboard",
+        "lead vocals"
+      ]
+    },
+    {
+      "artist": {
+        "country": "AR",
+        "sort-name": "Starc, Héctor",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "025396fd-c02c-49f9-bc32-2abc53a5b7d1",
+        "type": "Person",
+        "name": "Héctor Starc",
+        "disambiguation": ""
+      },
+      "end": "1977",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0001836516",
+        "id": "65a28e6a-2e26-496f-8e14-b0389213a6b6"
+      },
+      "attribute-ids": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "begin": null,
+      "direction": "forward",
+      "type": "allmusic",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.discogs.com/artist/1149562",
+        "id": "60ca0f6a-9fc3-4bf5-9837-010b5a27b888"
+      },
+      "end": null,
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discogs"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://open.spotify.com/artist/3cG8AMyTTUk3Y6LIqyjOxc",
+        "id": "7a2796a8-b4c1-4c8c-851c-ede1cd699b08"
+      },
+      "end": null,
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "type": "free streaming",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "4537ef13-fd33-48f5-9169-0f37378b53a6",
+        "resource": "https://www.deezer.com/artist/348576"
+      },
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "http://rock.com.ar/artistas/aquelarre",
+        "id": "0a6c4ff8-9f55-4756-8210-b3690fb11ed8"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/aquelarre",
+        "id": "4f46f7f9-251f-4f2b-8360-4de24169f08a"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": ""
+    },
+    {
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://itunes.apple.com/ar/artist/id274392734",
+        "id": "5188465b-06fb-44ea-af22-99157d6f69b5"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "type": "setlistfm",
+      "target-credit": "",
+      "attribute-values": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/aquelarre-3bd4a0d4.html",
+        "id": "813c91a2-513c-425f-aae7-5703c2ed5e37"
+      },
+      "attribute-ids": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "target-credit": "",
+      "type": "wikidata",
+      "direction": "forward",
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q2888050",
+        "id": "0d674829-380b-43ef-9eb0-3a8869c49a5c"
+      },
+      "ended": false
+    }
+  ],
+  "sort-name": "Aquelarre",
+  "begin-area": {
+    "sort-name": "Buenos Aires",
+    "type-id": null,
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "type": null,
+    "name": "Buenos Aires",
+    "disambiguation": ""
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [],
+  "end-area": null,
+  "gender": null,
+  "country": "AR",
+  "gender-id": null
+}

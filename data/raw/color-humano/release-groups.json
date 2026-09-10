@@ -1,0 +1,63 @@
+{
+  "release-group-count": 5,
+  "release-groups": [
+    {
+      "primary-type": "Album",
+      "disambiguation": "1",
+      "title": "Color Humano",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "0637df8a-7f7c-3171-bea6-f8f2f923d432",
+      "secondary-type-ids": [],
+      "first-release-date": "1972-02",
+      "secondary-types": []
+    },
+    {
+      "id": "0a16b784-ea89-314c-b6da-47218aeb4a88",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "1974",
+      "disambiguation": "3",
+      "title": "Color Humano",
+      "primary-type": "Album"
+    },
+    {
+      "title": "Color Humano 2",
+      "disambiguation": "double album",
+      "primary-type": "Album",
+      "first-release-date": "1996",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "58e680fc-b4ec-4bde-8725-eaee9f185d90",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "first-release-date": "1995",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "96d62e40-088d-35a0-9f16-7690472ab087",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type": "Album",
+      "title": "En \"The Roxy\"",
+      "disambiguation": ""
+    },
+    {
+      "id": "f1c00072-4d86-3dea-b902-f21531764f46",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "1973",
+      "disambiguation": "2",
+      "title": "Color Humano",
+      "primary-type": "Album"
+    }
+  ]
+}

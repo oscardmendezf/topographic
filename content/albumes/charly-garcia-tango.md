@@ -1,0 +1,39 @@
+---
+tipo: "album"
+slug: "charly-garcia-tango"
+titulo: "Tango"
+artista: "Charly García"
+artista_slug: "charly-garcia"
+anio_ficha: 1986
+era: "siguiente"
+escena: "latinoamerica"
+mb_rgid: "c12a6c55-e39b-3d6d-a980-b65d74c664f0"
+primer_lanzamiento: "1986-01"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Recepción tibia; se lo valora como experimento entre dos músicos mayores."
+estrellas_comercial: 3
+comercial_fuente: "editorial"
+comercial_nota: "Público fiel de ambos, sin la difusión de sus discos con banda."
+historia: "editorial"
+---
+
+Dúo con Pedro Aznar que apuesta a la escritura de cámara: teclados, bajo, voces cruzadas y muy poca batería, más cerca del laboratorio que del disco de canciones. Tiene momentos de belleza real y otros que se quedan en el ejercicio, y el título promete un cruce con el género porteño que el disco apenas roza. Vale por la sociedad, no por el conjunto.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Tango reanuda una sociedad que se había cortado a fines de los setenta, cuando Pedro Aznar dejó Serú Girán para irse a trabajar afuera y terminó tocando en la primera línea del jazz estadounidense. El reencuentro se produce en Nueva York y no toma la forma de un disco de canciones sino de un trabajo a dos, con teclados, bajo y voces cruzadas como material principal y la batería reducida al mínimo. Después de la trilogía que lo había convertido en el músico central del rock argentino, García elige el camino contrario: seis piezas, ningún esfuerzo por el estribillo memorable, un cuidado casi obsesivo por el detalle armónico. Es un disco de laboratorio, hecho por dos músicos que se conocen las manos.
+
+El título promete un cruce con el género porteño que el conjunto apenas roza, y esa distancia entre nombre y contenido es parte del problema. Lo que hay es otra cosa: «Ángeles y predicadores» abre con una imagen de fe administrada; «Culpable eternamente» trabaja la letanía y la culpa con una insistencia casi litúrgica; «Pasajera en trance» es la pieza que quedó, una melodía de aire suspendido que después tuvo vida propia lejos de este disco. «Gramercy Park Hotel» nombra el lugar del exilio voluntario y suena a eso, a habitación de paso con vista a una ciudad que no es la propia. «Hablando a tu corazón» es el momento de mayor belleza y el más despojado, y «La gente es la misma» cierra con una observación amarga sobre la repetición de las conductas humanas. Entre las seis hay dos o tres que son canciones terminadas y otras que se quedan en el estado de apunte bien escrito.
+
+## La producción
+
+La instrumentación es la clave de todo. Los teclados de García arman el colchón armónico y el contrapunto; el bajo de Aznar cumple simultáneamente el papel de base y de voz melódica, con el fraseo de alguien que venía de tocar música escrita con exigencia; las voces se apilan y se responden en arreglos corales que en el rock argentino de esos años no tenían precedente. La percusión casi no está, o aparece programada y muy atrás, lo que le da al disco un aire flotante y sin ancla rítmica. La mezcla es transparente y con mucho aire entre los elementos, más cercana al criterio de un disco de cámara que al de un álbum de rock. Esa limpieza favorece a los pasajes de armonía compleja y deja al descubierto los temas donde la idea no alcanza para sostener cuatro minutos.
+
+## Recepción y legado
+
+Cayó como una rareza, y así se lo sigue leyendo. Venía después de tres discos que habían reordenado la escena y ofrecía justo lo contrario de lo que se esperaba: nada de guitarras, nada de himnos, ningún gesto hacia el público que se había ganado. Con los años quedó como el primer capítulo de una sociedad que funcionaría mejor en su segunda entrega, cuando los dos encontraron el equilibrio que acá no existe y García dejó de tratar el material como ejercicio. Se rescata «Pasajera en trance», se discute el resto y se valora sobre todo el gesto: en el momento de mayor poder de su carrera eligió hacer un disco difícil, cortito y sin concesiones.

@@ -1,0 +1,98 @@
+{
+  "end-area": null,
+  "country": "AR",
+  "gender-id": null,
+  "gender": null,
+  "aliases": [],
+  "id": "eeb9900c-5d9e-4e7d-a2ed-e0ee1cc9ef30",
+  "life-span": {
+    "begin": "1973",
+    "ended": true,
+    "end": "1978"
+  },
+  "isnis": [],
+  "sort-name": "Bubu",
+  "relations": [
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discogs",
+      "end": null,
+      "url": {
+        "id": "73236fa2-1ff1-409a-ac6c-56c1970a9ef5",
+        "resource": "https://www.discogs.com/artist/1999495"
+      },
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/bubu",
+        "id": "c41efeb3-472f-4896-9d17-133f3a20d533"
+      },
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "url": {
+        "id": "ce1292dd-c16c-40b4-8fde-afc66c8b89fe",
+        "resource": "https://www.progarchives.com/artist.asp?id=626"
+      },
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": ""
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "name": "Buenos Aires",
+    "type": null,
+    "iso-3166-2-codes": [
+      "AR-C"
+    ],
+    "disambiguation": "",
+    "type-id": null,
+    "sort-name": "Buenos Aires",
+    "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588"
+  },
+  "disambiguation": "Argentine eclectic prog group",
+  "ipis": [],
+  "area": {
+    "name": "Argentina",
+    "type": null,
+    "disambiguation": "",
+    "type-id": null,
+    "sort-name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b"
+  },
+  "type": "Group",
+  "name": "Bubu"
+}

@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "arco-iris-faisan-azul"
+titulo: "Faisán azul"
+artista: "Arco Iris"
+artista_slug: "arco-iris"
+anio_ficha: 1983
+era: "siguiente"
+escena: "latinoamerica"
+mb_rgid: "cfa3a8dd-2fbd-45ad-bd1d-0d63156e8ea6"
+primer_lanzamiento: "1983"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Escasa atención crítica; disco de la etapa tardía."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Distribución marginal fuera del circuito del grupo."
+historia: "editorial"
+---
+
+Ya en el exilio estadounidense, Arco Iris es el proyecto de Tokatlián y Dana, y el rock queda como recuerdo: instrumental amable, texturas de teclado y una intención más espiritual que musical. Documenta la continuidad de la comunidad, no la de la banda. Se escucha como otra cosa que lleva el mismo nombre.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Faisán azul se graba ya en el exilio estadounidense, con Arco Iris reducido a lo esencial de su estructura original: Ara Tokatlián como responsable musical y Danais Winnycka como guía del proyecto. En 1983 el nombre sigue en la tapa pero la banda de rock que lo llevaba no existe, y el disco no intenta disimularlo. Lo que hay es música instrumental de intención contemplativa, pensada como acompañamiento de una práctica espiritual antes que como obra para escuchar sentado.
+
+El repertorio se organiza por evocación. «Aconcagua» abre y cierra el disco en dos versiones, amanecer y atardecer, enmarcando el conjunto como el recorrido de un día y dejando claro que la referencia sigue siendo el paisaje sudamericano visto desde lejos. «Chacarera Dance» retoma un ritmo del folklore argentino y lo trata como forma de danza sin la tensión eléctrica que el grupo le habría dado una década antes. «Danais» está dedicado a Winnycka y es la pieza más íntima del álbum. «Faisán azul» aporta el título y la imaginería, y «Gob» recupera el nombre del maestro-mago de los gnomos del disco de los elementos, señal de que la cosmología del grupo seguía intacta aunque la música hubiera cambiado de función.
+
+## La producción
+
+La producción es la de un disco instrumental de comienzos de los ochenta hecho con medios modestos: teclados sosteniendo bases y colchones armónicos, vientos de Tokatlián llevando las melodías, percusión discreta y muy poca guitarra eléctrica. La textura es pareja y de dinámica estrecha, sin los contrastes de intensidad que habían sido característicos del grupo, y la reverberación se usa de forma abundante para dar sensación de espacio abierto.
+
+No hay decisiones de estudio arriesgadas, y esa contención parece deliberada. El disco está armado para no interrumpir: nada entra de golpe, nada se destaca demasiado, las piezas empiezan y terminan por desvanecimiento. Es un criterio legítimo para lo que el material pretende, pero implica renunciar a todo lo que hacía reconocible a Arco Iris en el estudio, desde la precisión rítmica hasta la integración de la instrumentación andina como voz protagonista.
+
+## Recepción y legado
+
+Circuló poco y sobre todo fuera del circuito del rock argentino, que a esa altura ya trataba al grupo como capítulo cerrado. Documenta la continuidad de la comunidad y de sus ideas, no la de la banda, y por eso su interés es más biográfico que musical: sirve para saber qué pasó después, no para entender qué había pasado antes. Escuchado sin ese contexto se percibe como otra cosa que lleva el mismo nombre, amable y bien intencionada, sin relación audible con los discos que le dieron sentido al nombre.

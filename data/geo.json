@@ -86,8 +86,8 @@
  "vdgg": {
   "lugar": "Mánchester",
   "lugar_qid": "Q18125",
-  "lat": 53.4667,
-  "lon": -2.2333,
+  "lat": 53.4794,
+  "lon": -2.2453,
   "propiedad": "P740"
  },
  "gg": {
@@ -473,6 +473,125 @@
   "lugar_qid": "Q155",
   "lat": -14,
   "lon": -53,
+  "propiedad": "mb:begin-area"
+ },
+ "almendra": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
+  "propiedad": "P740"
+ },
+ "pescado-rabioso": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
+  "propiedad": "mb:begin-area"
+ },
+ "spinetta-jade": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
+  "propiedad": "P740"
+ },
+ "spinetta": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
+  "propiedad": "P19"
+ },
+ "socios-del-desierto": {
+  "lugar": "Argentina",
+  "lugar_qid": "Q414",
+  "lat": -34,
+  "lon": -64,
+  "propiedad": "mb:begin-area"
+ },
+ "sui-generis": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
+  "propiedad": "mb:begin-area"
+ },
+ "seru-giran": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
+  "propiedad": "P740"
+ },
+ "charly-garcia": {
+  "lugar": "Caballito",
+  "lugar_qid": "Q536312",
+  "lat": -34.6167,
+  "lon": -58.45,
+  "propiedad": "P19"
+ },
+ "porsuigieco": {
+  "lugar": "Argentina",
+  "lugar_qid": "Q414",
+  "lat": -34,
+  "lon": -64,
+  "propiedad": "P740"
+ },
+ "aquelarre": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
+  "propiedad": "mb:begin-area"
+ },
+ "arco-iris": {
+  "lugar": null,
+  "lugar_qid": "Q2609530",
+  "lat": -34.6263,
+  "lon": -58.593,
+  "propiedad": "P740"
+ },
+ "alas": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
+  "propiedad": "mb:begin-area"
+ },
+ "color-humano": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
+  "propiedad": "mb:begin-area"
+ },
+ "vox-dei": {
+  "lugar": "Provincia de Buenos Aires",
+  "lugar_qid": "Q44754",
+  "lat": -37,
+  "lon": -60,
+  "propiedad": "mb:begin-area"
+ },
+ "pastoral": {
+  "lugar": "Argentina",
+  "lugar_qid": "Q414",
+  "lat": -34,
+  "lon": -64,
+  "propiedad": "mb:begin-area"
+ },
+ "bubu": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
+  "propiedad": "mb:begin-area"
+ },
+ "tantor": {
+  "lugar": "Buenos Aires",
+  "lugar_qid": "Q1486",
+  "lat": -34.5997,
+  "lon": -58.3819,
   "propiedad": "mb:begin-area"
  }
 }

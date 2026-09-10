@@ -1,0 +1,39 @@
+---
+tipo: "album"
+slug: "sui-generis-sinfonias-para-adolescentes"
+titulo: "Sinfonías para adolescentes"
+artista: "Sui Generis"
+artista_slug: "sui-generis"
+anio_ficha: 2000
+era: "moderna"
+escena: "latinoamerica"
+mb_rgid: "fe548c2b-6ab1-32ad-b06e-4df76130f6a2"
+primer_lanzamiento: "2000-10-30"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Recibimiento tibio; se lo lee como reunión más que como disco."
+estrellas_comercial: 4
+comercial_fuente: "editorial"
+comercial_nota: "El reencuentro movilizó a un público muy amplio en Argentina."
+historia: "editorial"
+---
+
+Reunión veinticinco años después, con banda ampliada —guitarra de María Gabriela Epumer, cuerdas, saxo, percusión— y producción cuidada. Suena competente y hasta cálido, pero no hay una razón musical detrás: revisita un repertorio de juventud sin nada urgente que decir. Documento de la relación entre García y Mestre, no un capítulo de la obra.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Veinticinco años después de la separación, García y Mestre volvieron a grabar juntos, y el disco que hicieron dice bastante sobre por qué volvieron. No es un retorno al cancionero de Sui Generis ni un intento de continuarlo: el corazón del álbum son las canciones que los dos escuchaban cuando eran adolescentes, pop y soul angloamericano de los años sesenta, traducido y adaptado al castellano con títulos nuevos que a veces son chistes privados. «Take Me for a Little While» pasa a ser «Usame un poquito más», «Can We Still Be Friends» se convierte en «Yo soy tu papá», «Her Town Too» en «Tu pueblo también», «Set You Free This Time» en «Aguante la amistad», y así hasta «Be My Baby», que cierra el disco como «Sé mi nena». La idea es clara y hasta entrañable: reconstruir la banda de sonido de la amistad que dio origen al dúo.
+
+Alrededor de esas versiones hay canciones nuevas, y son la parte más despareja. «El día que apagaron la luz» abre con oficio, «Afuera de la ciudad» y «Espejos» buscan el tono melancólico de siempre sin encontrarle una razón, «Todos van a News Café» y «Monoblock» se apoyan en la anécdota urbana, y «Noveno ‘B’» vuelve explícitamente al colegio donde empezó todo. La revisión de «Juan Represión», tema del propio catálogo, es el único momento en que el disco se mide con su pasado de frente. El problema no es la calidad de la ejecución sino la ausencia de necesidad: diecinueve pistas que suenan a reencuentro entre amigos y no a obra, hechas por dos autores que ya no comparten un proyecto sino un recuerdo.
+
+## La producción
+
+Es el disco mejor grabado de la historia del grupo y el que menos falta le hacía. La formación es amplia: guitarra de María Gabriela Epumer, sección rítmica de estudio, cuerdas, saxo y percusión, con arreglos escritos que respetan la forma original de cada versión en lugar de reinterpretarla. La producción es prolija en el peor sentido posible, cálida y sin aristas, con las dos voces bien separadas en la mezcla y un tratamiento de estudio moderno que suaviza todo lo que en los discos de los setenta era aspereza. La flauta de Mestre aparece como cita de sí misma más que como instrumento activo. No constan créditos verificados de producción, ingeniería o diseño.
+
+## Recepción y legado
+
+Funcionó como acontecimiento: la vuelta del dúo interesaba a mucha gente y el disco fue el papel oficial de ese regreso, más comentado por lo que representaba que por lo que contenía. En la discografía queda como apéndice, no como capítulo: no aporta nada a la historia del prog argentino ni pretende hacerlo, y su interés real es biográfico, el documento de una relación que sobrevivió a la ruptura. Se rescatan un puñado de versiones bien resueltas y la simpatía del gesto. No se rescata la sensación general de trámite, que es lo que separa un disco necesario de una celebración.

@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-02T01:21:09+00:00",
+  "generado": "2026-09-10T03:01:48+00:00",
   "fuente": "MusicBrainz (https://musicbrainz.org), licencia de datos CC0/CC BY-NC-SA",
   "fase": 1,
   "nodos": {
@@ -1159,6 +1159,294 @@
         "discogs_id": "1345178",
         "wikipedia_url": "https://en.wikipedia.org/wiki/O_Ter%C3%A7o",
         "analisis_md": null
+      },
+      {
+        "slug": "almendra",
+        "mbid": "0b144888-0e76-465c-be88-882cf4f4cb5e",
+        "nombre": "Almendra",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1967",
+        "fin": "1981",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1006852",
+          "wikidata": "https://www.wikidata.org/wiki/Q1571799"
+        },
+        "discogs_id": "1006852",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Almendra_(banda)",
+        "analisis_md": null
+      },
+      {
+        "slug": "pescado-rabioso",
+        "mbid": "ff401398-6d43-4e91-8f87-33fe19aafd84",
+        "nombre": "Pescado Rabioso",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1971",
+        "fin": "1973",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1750870",
+          "wikidata": "https://www.wikidata.org/wiki/Q5638010"
+        },
+        "discogs_id": "1750870",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Pescado_Rabioso",
+        "analisis_md": null
+      },
+      {
+        "slug": "spinetta-jade",
+        "mbid": "78b8c4c6-d329-4b01-98ed-02b183fe0bf8",
+        "nombre": "Spinetta Jade",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1980-05-03",
+        "fin": "1985",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1711636",
+          "wikidata": "https://www.wikidata.org/wiki/Q7577542"
+        },
+        "discogs_id": "1711636",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Spinetta_Jade",
+        "analisis_md": null
+      },
+      {
+        "slug": "spinetta",
+        "mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "nombre": "Luis Alberto Spinetta",
+        "tipo": "Person",
+        "pais": "AR",
+        "inicio": "1950-01-23",
+        "fin": "2012-02-08",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1006851",
+          "wikidata": "https://www.wikidata.org/wiki/Q957627"
+        },
+        "discogs_id": "1006851",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Luis_Alberto_Spinetta",
+        "analisis_md": null
+      },
+      {
+        "slug": "socios-del-desierto",
+        "mbid": "04b2e6fd-6967-4ff4-900c-d3b4254d8f45",
+        "nombre": "Spinetta y los Socios del Desierto",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1997",
+        "fin": "1999",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/2750404",
+          "wikidata": "https://www.wikidata.org/wiki/Q6133255"
+        },
+        "discogs_id": "2750404",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Spinetta_y_los_Socios_del_Desierto",
+        "analisis_md": null
+      },
+      {
+        "slug": "sui-generis",
+        "mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "nombre": "Sui Generis",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1968",
+        "fin": "2002",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/2354203",
+          "wikidata": "https://www.wikidata.org/wiki/Q3503136"
+        },
+        "discogs_id": "2354203",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Sui_Generis_(banda)",
+        "analisis_md": null
+      },
+      {
+        "slug": "seru-giran",
+        "mbid": "f1cd52dc-49d1-4df6-93ea-3587d8fba30b",
+        "nombre": "Serú Girán",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1978",
+        "fin": "1982",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1539220",
+          "wikidata": "https://www.wikidata.org/wiki/Q2994217"
+        },
+        "discogs_id": "1539220",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Ser%C3%BA_Gir%C3%A1n",
+        "analisis_md": null
+      },
+      {
+        "slug": "charly-garcia",
+        "mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "nombre": "Charly García",
+        "tipo": "Person",
+        "pais": "AR",
+        "inicio": "1951-10-23",
+        "fin": null,
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/908651",
+          "wikidata": "https://www.wikidata.org/wiki/Q467940"
+        },
+        "discogs_id": "908651",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Charly_Garc%C3%ADa",
+        "analisis_md": null
+      },
+      {
+        "slug": "porsuigieco",
+        "mbid": "25d804a4-4990-43af-97ea-cd17456183d2",
+        "nombre": "PorSuiGieco",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1974",
+        "fin": "1976",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/3191494",
+          "wikidata": "https://www.wikidata.org/wiki/Q5665986"
+        },
+        "discogs_id": "3191494",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/PorSuiGieco",
+        "analisis_md": null
+      },
+      {
+        "slug": "aquelarre",
+        "mbid": "ca298081-8492-4591-9f65-7aee865ce237",
+        "nombre": "Aquelarre",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1971",
+        "fin": "1999",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1149562",
+          "wikidata": "https://www.wikidata.org/wiki/Q2888050"
+        },
+        "discogs_id": "1149562",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Aquelarre_(banda)",
+        "analisis_md": null
+      },
+      {
+        "slug": "arco-iris",
+        "mbid": "ab30a356-59f4-435e-bc1c-2d2a1f95b8c5",
+        "nombre": "Arco Iris",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1968",
+        "fin": "2006",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/375661",
+          "wikidata": "https://www.wikidata.org/wiki/Q4787420"
+        },
+        "discogs_id": "375661",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Arco_Iris_(banda)",
+        "analisis_md": null
+      },
+      {
+        "slug": "alas",
+        "mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+        "nombre": "Alas",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1975",
+        "fin": "1978",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1814284",
+          "wikidata": "https://www.wikidata.org/wiki/Q4652246"
+        },
+        "discogs_id": "1814284",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Alas_(banda)",
+        "analisis_md": null
+      },
+      {
+        "slug": "color-humano",
+        "mbid": "6a8adb55-47e5-465e-b9fc-394879fb7bf3",
+        "nombre": "Color Humano",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1972",
+        "fin": "1974",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1105633",
+          "wikidata": "https://www.wikidata.org/wiki/Q5148557"
+        },
+        "discogs_id": "1105633",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Color_Humano",
+        "analisis_md": null
+      },
+      {
+        "slug": "vox-dei",
+        "mbid": "e4612ab8-6271-43ad-8f60-6d88eeee19db",
+        "nombre": "Vox Dei",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1967",
+        "fin": "2017-06",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1685204",
+          "wikidata": "https://www.wikidata.org/wiki/Q2838063"
+        },
+        "discogs_id": "1685204",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Vox_Dei",
+        "analisis_md": null
+      },
+      {
+        "slug": "pastoral",
+        "mbid": "e2d636de-6c43-4f26-bfcb-cadb3f69d9c9",
+        "nombre": "Pastoral",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1971",
+        "fin": "1983-05-20",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1770959",
+          "wikidata": "https://www.wikidata.org/wiki/Q6066147"
+        },
+        "discogs_id": "1770959",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Pastoral_(d%C3%BAo_de_rock)",
+        "analisis_md": null
+      },
+      {
+        "slug": "bubu",
+        "mbid": "eeb9900c-5d9e-4e7d-a2ed-e0ee1cc9ef30",
+        "nombre": "Bubu",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1973",
+        "fin": "1978",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/1999495"
+        },
+        "discogs_id": "1999495",
+        "wikipedia_url": null,
+        "analisis_md": null
+      },
+      {
+        "slug": "tantor",
+        "mbid": "0149b34a-36da-45f8-99c6-e3668f80c781",
+        "nombre": "Tantor",
+        "tipo": "Group",
+        "pais": "AR",
+        "inicio": "1977",
+        "fin": "1983",
+        "grupo": "latinoamerica",
+        "links": {
+          "discogs": "https://www.discogs.com/artist/610956",
+          "wikidata": "https://www.wikidata.org/wiki/Q16637816"
+        },
+        "discogs_id": "610956",
+        "wikipedia_url": "https://es.wikipedia.org/wiki/Tantor",
+        "analisis_md": null
       }
     ],
     "personas": [
@@ -1217,8 +1505,26 @@
         "analisis_md": null
       },
       {
+        "mbid": "83753c3d-6acd-4f47-b5bf-64050cbb3f1f",
+        "nombre": "Alberto Rodríguez",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "d9e800a4-95b2-41cb-a688-cec5680ce514",
         "nombre": "Aldo Tagliapietra",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "ab7c78be-a13a-46b9-bdaf-34176c6c1073",
+        "nombre": "Alejandro Correa",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "2fc0617e-1028-497d-9c37-ff65d8264d2f",
+        "nombre": "Alejandro De Michele",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -1247,6 +1553,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "36931875-f38b-4ff8-a098-772d7cf64696",
+        "nombre": "Alex Zuker",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "a6396e33-9298-493e-9409-f0e1366b326b",
         "nombre": "Allan Holdsworth",
         "tipo": "Person",
@@ -1256,6 +1568,12 @@
         "mbid": "2362b674-d51f-41d3-aaf6-7639d76aa288",
         "nombre": "Allen Sloan",
         "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "0b144888-0e76-465c-be88-882cf4f4cb5e",
+        "nombre": "Almendra",
+        "tipo": "Group",
         "analisis_md": null
       },
       {
@@ -1379,6 +1697,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "e3f5d45f-fdae-4310-ab61-604311c4d391",
+        "nombre": "Ara Tokatlián",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "627f048e-b445-4e73-b8a6-54defceb8ce7",
         "nombre": "Ares Tavolazzi",
         "tipo": "Person",
@@ -1412,6 +1736,12 @@
         "mbid": "7e62de5d-1cc6-4779-a588-8923cf9fe09d",
         "nombre": "Ash Ra Tempel",
         "tipo": "Group",
+        "analisis_md": null
+      },
+      {
+        "mbid": "72f58d48-481c-4c35-8029-9e4c4749710d",
+        "nombre": "Babú Cerviño",
+        "tipo": "Person",
         "analisis_md": null
       },
       {
@@ -1523,6 +1853,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "e6d79041-5b54-46fa-8655-22cb3e697ada",
+        "nombre": "Billy Bond and The Jets",
+        "tipo": "Group",
+        "analisis_md": null
+      },
+      {
         "mbid": "558942b0-28bf-4c1b-be3c-bd33382c2e7b",
         "nombre": "Billy Greer",
         "tipo": "Person",
@@ -1537,6 +1873,12 @@
       {
         "mbid": "7782442c-e71e-42b7-8197-fe15f513bb42",
         "nombre": "Billy Sherwood",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "5f7ea389-21d1-41d5-a876-248ab7db680a",
+        "nombre": "Black Amaya",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -1633,6 +1975,30 @@
       {
         "mbid": "0f1586e3-6c11-476a-a27a-cfd8e56ac147",
         "nombre": "Carlos Cutaia",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "106ad463-0cbe-41e4-b9b4-d839f02abd87",
+        "nombre": "Carlos L'areu",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "797f1077-b4ad-4d65-9987-0c6440e4e7e0",
+        "nombre": "Carlos Michelini",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "c21cb356-303a-4954-9efb-7a3ed0c337d8",
+        "nombre": "Carlos Piégari",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "c2802b5a-9cca-462d-bfd3-b56c8db3d759",
+        "nombre": "Carlos Riganti",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -1877,6 +2243,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "56d9c4c3-91d0-46a4-9f41-6799c2d60521",
+        "nombre": "Daniel Bernareggi",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "68c2463b-a3ae-4c3d-b6dd-ed031a7bd8aa",
         "nombre": "Daniel Fichelscher",
         "tipo": "Person",
@@ -1885,6 +2257,12 @@
       {
         "mbid": "a2e3502a-d497-4407-b595-9953fbeb95ca",
         "nombre": "Daniel Leonardo Frenkel",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "82e2010c-74f7-4753-908e-8d8d8ee71f49",
+        "nombre": "Daniel Wirzt",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -2135,6 +2513,30 @@
         "analisis_md": null
       },
       {
+        "mbid": "9952d120-7d33-459c-b4fd-51fc58d2f6f1",
+        "nombre": "Diego Dubarry",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "5859eb7f-46d5-41a1-8d9e-2f440ed68365",
+        "nombre": "Diego Fraschetti",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "b73155db-eafa-4f20-aed7-22678049ab31",
+        "nombre": "Diego Monteverde",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "1b92cecf-4708-4224-8e52-951b92e70207",
+        "nombre": "Diego Rapoport",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "92c12a51-081a-41df-ab05-a2d7dc5704f6",
         "nombre": "Dinho Leme",
         "tipo": "Person",
@@ -2219,6 +2621,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "48aec27d-2491-4862-854c-c9eb615dd011",
+        "nombre": "Edelmiro Molinari",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "610a62e8-541b-42e4-a3fe-8dd595be93a8",
         "nombre": "Edgar Froese",
         "tipo": "Person",
@@ -2257,6 +2665,12 @@
       {
         "mbid": "e47b4862-a587-488f-b7a7-bd329726693d",
         "nombre": "Emil Schult",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "f3c75be3-ce8c-4aa9-8a35-a4fdc261ea09",
+        "nombre": "Emilio del Guercio",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -2387,6 +2801,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "a5271eeb-25b2-41fb-85ef-f4f2d705a6fa",
+        "nombre": "Francisco Prati",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "3971d6aa-f737-4407-96c6-93d48fba9402",
         "nombre": "Franco Mussida",
         "tipo": "Person",
@@ -2467,6 +2887,12 @@
       {
         "mbid": "b19fce61-1322-40a4-b800-868d3236d5a0",
         "nombre": "Gabriel Parra",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "dd2d7800-c882-466b-9bea-d2a5d42603c8",
+        "nombre": "Gabriel Said",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -2723,6 +3149,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "c1521aa6-f875-4397-bbc3-322ab8ac4484",
+        "nombre": "Gustavo Moretto",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+        "nombre": "Gustavo Santaolalla",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "3bc26e8d-28d4-4021-a699-3b26645de2db",
         "nombre": "Guy Allison",
         "tipo": "Person",
@@ -2819,8 +3257,26 @@
         "analisis_md": null
       },
       {
+        "mbid": "96f3a381-a1fd-4183-9a4e-03c584edd8f2",
+        "nombre": "Hugo Alfredo Negri",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "8a1f33e1-4105-4d66-8d92-e3d0465aa60d",
+        "nombre": "Hugo González Neira",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "a4451cbd-10fb-4678-9ecd-494e362f23cf",
         "nombre": "Hugo Pirovich",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "025396fd-c02c-49f9-bc32-2abc53a5b7d1",
+        "nombre": "Héctor Starc",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -2888,6 +3344,12 @@
         "mbid": "2571dad7-0a84-42ba-9929-e7046aaf888c",
         "nombre": "Igor Khoroshev",
         "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "41e360e4-c5e1-405c-96ab-73984e825cbf",
+        "nombre": "Invisible",
+        "tipo": "Group",
         "analisis_md": null
       },
       {
@@ -3371,6 +3833,24 @@
         "analisis_md": null
       },
       {
+        "mbid": "58e337fa-32a5-4e38-a764-f87af5c323a9",
+        "nombre": "Juan Bellia",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "429c847d-616e-41a7-b6b0-4b57aecedd0a",
+        "nombre": "Juan Carlos “Yodi” Godoy",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "72354a2f-33f0-4929-9897-8cffce71ca98",
+        "nombre": "Juan Rodríguez",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "cf15c740-a848-4652-af4c-365941d1c65f",
         "nombre": "Juanita Parra",
         "tipo": "Person",
@@ -3563,6 +4043,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "e40edab2-bf76-4675-b0d9-a8350b4d2564",
+        "nombre": "La Máquina de Hacer Pájaros",
+        "tipo": "Group",
+        "analisis_md": null
+      },
+      {
         "mbid": "ea855b0c-cf71-4602-b710-42dd31d56877",
         "nombre": "Lanse Hapshash",
         "tipo": "Person",
@@ -3611,6 +4097,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "16c6b187-a30f-4484-922f-e189556783c9",
+        "nombre": "Leo Sujatovich",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "032a023c-5c4a-4208-bf8e-14657a0e5ff5",
         "nombre": "Leo Traversa",
         "tipo": "Person",
@@ -3625,6 +4117,12 @@
       {
         "mbid": "71ebb76a-d019-4a60-8b9d-edfa7635d919",
         "nombre": "Les Holyrod",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "dbe1d6c8-1319-4369-924a-65bb1f9fced5",
+        "nombre": "León Gieco",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -3773,6 +4271,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "2130fccc-e699-46b4-a44f-33cfd373a64e",
+        "nombre": "Marcelo Torres",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "6d12e4ad-2057-4bca-8c16-4212a43a1686",
         "nombre": "Marco Capozi",
         "tipo": "Person",
@@ -3797,8 +4301,20 @@
         "analisis_md": null
       },
       {
+        "mbid": "f1fb5554-abbb-4e30-9b16-27c652fd001d",
+        "nombre": "Mariela Chintalo",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "850cf500-59fa-49d5-97a6-3ce25a9bfce5",
         "nombre": "Marino Rebeschini",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "855bd870-ffaf-4a60-809c-b63a8b0b34a0",
+        "nombre": "Mario Serra",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -3889,6 +4405,18 @@
       {
         "mbid": "c4e0ae4a-cd41-491d-98ff-6ee924ec5fbf",
         "nombre": "Marty Walsh",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "28cc4ba0-2835-43e0-8d72-0cce8e25f2de",
+        "nombre": "María Gabriela Epumer",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "4e301a12-f934-49eb-a950-99b552468d9f",
+        "nombre": "María Rosa Yorio",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -4043,6 +4571,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "528b6fe7-7888-46c4-bf73-435e311c3c84",
+        "nombre": "Miguel Ángel Erausquin",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "512c6f66-6880-472c-9679-3c599c45c1dd",
         "nombre": "Mik Kaminski",
         "tipo": "Person",
@@ -4139,6 +4673,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "34b896c8-f1ea-41eb-a659-95e2404dd3b2",
+        "nombre": "Nacho Smilari",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "48f6e698-93bb-4f17-bcb2-78f193b4c0c4",
         "nombre": "Naomi Star",
         "tipo": "Person",
@@ -4217,6 +4757,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "nombre": "Nito Mestre",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "20cde378-18f9-4066-9a0d-d757feffed7a",
         "nombre": "Nono Belvis",
         "tipo": "Person",
@@ -4255,6 +4801,12 @@
       {
         "mbid": "8d9e7192-63f2-4d6f-b003-655bdd142c40",
         "nombre": "Oscar Moro",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "c2176298-b34e-4eff-a1b7-9365d9c0bbc0",
+        "nombre": "Osvaldo Frascino",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -4367,9 +4919,21 @@
         "analisis_md": null
       },
       {
+        "mbid": "21dcc3a2-9fc8-41d2-8736-cdcbde270f4c",
+        "nombre": "Pedro Aznar",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "a80e0b0c-6fb5-4a87-bc00-7f5b79cead93",
         "nombre": "Peggy Baldwin",
         "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "ff401398-6d43-4e91-8f87-33fe19aafd84",
+        "nombre": "Pescado Rabioso",
+        "tipo": "Group",
         "analisis_md": null
       },
       {
@@ -4577,6 +5141,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "25d804a4-4990-43af-97ea-cd17456183d2",
+        "nombre": "PorSuiGieco",
+        "tipo": "Group",
+        "analisis_md": null
+      },
+      {
         "mbid": "310df4f3-4cfb-468c-b068-e5637411d7d7",
         "nombre": "Pye Hastings",
         "tipo": "Person",
@@ -4643,6 +5213,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "481d9d34-ab3d-4d7d-ad45-92fe418c0293",
+        "nombre": "Ray Milland Band",
+        "tipo": "Group",
+        "analisis_md": null
+      },
+      {
         "mbid": "59b1f8ee-0a84-4590-8156-eede6f6349f3",
         "nombre": "Ray Shulman",
         "tipo": "Person",
@@ -4667,6 +5243,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "bc1d103a-7f39-407b-a588-e1a0b581bb1a",
+        "nombre": "Raúl Porchetto",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "7d003695-15bc-43f5-b5f2-c06829c9b8c5",
         "nombre": "Rebop Kwaku Baah",
         "tipo": "Person",
@@ -4681,6 +5263,12 @@
       {
         "mbid": "bf8176d7-48e8-4cc0-adde-ccc0a4cac757",
         "nombre": "Ric Sanders",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "5bedc641-6490-4029-93de-e29b85dc3a98",
+        "nombre": "Ricardo Soulé",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -4769,6 +5357,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "a9a00dae-06f5-4574-af09-11b1a873cd04",
+        "nombre": "Rinaldo Rafanelli",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "300c4c73-33ac-4255-9d57-4e32627f5e13",
         "nombre": "Ringo Starr",
         "tipo": "Person",
@@ -4829,6 +5423,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "673ead05-8e75-480f-8890-ff60ffe5b35a",
+        "nombre": "Rodolfo García",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "ef3bef44-c041-427f-b5b2-1356b192cefb",
         "nombre": "Rodolfo Maltese",
         "tipo": "Person",
@@ -4855,6 +5455,12 @@
       {
         "mbid": "0f50beab-d77d-4f0f-ac26-0b87d3e9b11b",
         "nombre": "Roger Waters",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "8c811f27-beb1-43c2-bf47-374129be73fb",
+        "nombre": "Rolando Fortich",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -4931,6 +5537,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "5e85c70d-fec5-48ce-9397-1a2d2a49bdf0",
+        "nombre": "Rubén Basoalto",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "d7c8631c-8c34-4b62-9ab5-f52e408c4e56",
         "nombre": "Rudolf Sosna",
         "tipo": "Person",
@@ -4991,6 +5603,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "f1cd52dc-49d1-4df6-93ea-3587d8fba30b",
+        "nombre": "Serú Girán",
+        "tipo": "Group",
+        "analisis_md": null
+      },
+      {
         "mbid": "26764053-7e0d-4947-b01d-ac304e0e0223",
         "nombre": "Shaun Murphy",
         "tipo": "Person",
@@ -5036,6 +5654,18 @@
         "mbid": "acd4772d-6f88-4d76-9b71-8cd68d91e734",
         "nombre": "Sophia Domancich",
         "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "78b8c4c6-d329-4b01-98ed-02b183fe0bf8",
+        "nombre": "Spinetta Jade",
+        "tipo": "Group",
+        "analisis_md": null
+      },
+      {
+        "mbid": "04b2e6fd-6967-4ff4-900c-d3b4254d8f45",
+        "nombre": "Spinetta y los Socios del Desierto",
+        "tipo": "Group",
         "analisis_md": null
       },
       {
@@ -5207,6 +5837,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "nombre": "Sui Generis",
+        "tipo": "Group",
+        "analisis_md": null
+      },
+      {
         "mbid": "d8219fd9-2d29-43d2-a200-e4127ecb97fe",
         "nombre": "Susan Shattock",
         "tipo": "Person",
@@ -5360,6 +5996,12 @@
         "mbid": "8f4be405-84d5-4cac-bdf9-bf02d9e04962",
         "nombre": "Tim Hardin",
         "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "24611dd8-424b-48fb-8121-e6b0e69dba9e",
+        "nombre": "To Walk Spanish",
+        "tipo": "Group",
         "analisis_md": null
       },
       {
@@ -5525,6 +6167,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "eff96114-66c9-4361-8b1c-7c6f980c22cf",
+        "nombre": "Ulises Di Salvo",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "29f6333a-b4c8-4416-8fdf-598bcef1122a",
         "nombre": "Ulrich Schnauss",
         "tipo": "Person",
@@ -5609,6 +6257,12 @@
         "analisis_md": null
       },
       {
+        "mbid": "223824bc-e7fc-4083-9be5-005783877b0e",
+        "nombre": "Willy Quiroga",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
         "mbid": "6c29e868-e40a-4ff0-b251-bc383ba88ba4",
         "nombre": "Wolfgang Flür",
         "tipo": "Person",
@@ -5641,6 +6295,12 @@
       {
         "mbid": "afc99b75-f453-4123-8bd7-3aeea65cb521",
         "nombre": "Zélia Duncan",
+        "tipo": "Person",
+        "analisis_md": null
+      },
+      {
+        "mbid": "ff7ee6a8-e9e1-4e6e-a212-0981bf6cb52f",
+        "nombre": "Érika Di Salvo",
         "tipo": "Person",
         "analisis_md": null
       },
@@ -6929,10 +7589,30 @@
         "analisis_md": null
       },
       {
+        "mbid": "0859aa08-fbb3-300b-b8f6-eff1410b1b54",
+        "titulo": "Almendra",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "1969-11-29",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "22522846-d640-39d8-8311-cc957f1b75b3",
         "titulo": "Renaissance",
         "artist_slug": "ren",
         "primer_lanzamiento": "1969-12",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "c0705536-bed3-4c55-a177-013bb5f1d864",
+        "titulo": "Arco Iris",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1970",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
@@ -6960,6 +7640,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "a80e2217-0718-3975-b5ce-20db04e54844",
+        "titulo": "Caliente",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1970",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -7449,6 +8139,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "3082dac3-5463-4133-9655-f98145f7a91f",
+        "titulo": "Almendra",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "1970-12-09",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "abe5a8ec-20c9-3d49-bb2d-4c371bf1ef25",
         "titulo": "Lizard",
         "artist_slug": "kc",
@@ -7835,6 +8535,26 @@
         "analisis_md": null
       },
       {
+        "mbid": "42df884f-6d63-3a3c-879f-060cf7d142d3",
+        "titulo": "Spinettalandia y sus amigos",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1971-03",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "04e658ff-608c-347a-8268-18d23fe01160",
+        "titulo": "La Biblia",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1971-03-15",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "204cc47e-2e1a-3877-8e1e-d14bfffd19aa",
         "titulo": "Aqualung",
         "artist_slug": "jt",
@@ -8101,6 +8821,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "b9604aae-9efa-33ad-9c36-1c26e3207d22",
+        "titulo": "Aquelarre",
+        "artist_slug": "aquelarre",
+        "primer_lanzamiento": "1972",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "a8ef0033-60c2-37b1-87a2-0bb524087e10",
         "titulo": "Baby James Harvest",
         "artist_slug": "bjh",
@@ -8153,6 +8883,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "9aa68f09-38a3-3a50-b7d3-0a2ba56b610e",
+        "titulo": "Desatormentándonos",
+        "artist_slug": "pescado-rabioso",
+        "primer_lanzamiento": "1972",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "f3b602eb-e9a8-332b-a914-af4787e48756",
         "titulo": "Early Morning Onwards",
         "artist_slug": "bjh",
@@ -8180,6 +8920,16 @@
         "mbid": "9414b9a3-c8f5-3892-826e-91c804afb082",
         "titulo": "Grave New World",
         "artist_slug": "str",
+        "primer_lanzamiento": "1972",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "a783f045-8732-3d4d-ad9b-fafef8d55918",
+        "titulo": "Jeremías pies de plomo",
+        "artist_slug": "vox-dei",
         "primer_lanzamiento": "1972",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -8305,6 +9055,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "e578d6d4-c74c-3eed-9af8-480d2cd89c6e",
+        "titulo": "Sudamérica o el regreso a la aurora",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1972",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "0bc5a04f-e531-48d0-80d3-c007a873b107",
         "titulo": "Superstarshine, Vol. 13",
         "artist_slug": "mothers-of-invention",
@@ -8314,6 +9074,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "4b78de51-5e27-4d67-ab0d-0c97f1bc014f",
+        "titulo": "Tiempo de resurrección",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1972",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -8330,6 +9100,16 @@
         "mbid": "00b7f813-6ddf-319c-b3d2-00f4827c2c16",
         "titulo": "Ut",
         "artist_slug": "new-trolls",
+        "primer_lanzamiento": "1972",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "7257d8e4-702b-36a7-bc38-b54cd0031b7d",
+        "titulo": "Vida",
+        "artist_slug": "sui-generis",
         "primer_lanzamiento": "1972",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -8391,6 +9171,16 @@
         "titulo": "Irrlicht",
         "artist_slug": "klaus-schulze",
         "primer_lanzamiento": "1972-01-01",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "0637df8a-7f7c-3171-bea6-f8f2f923d432",
+        "titulo": "Color Humano",
+        "artist_slug": "color-humano",
+        "primer_lanzamiento": "1972-02",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
@@ -8681,6 +9471,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "b4d0e040-451b-340a-81e2-d5412c5d3b71",
+        "titulo": "Cuero caliente",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1972-12",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "708d7199-d8c8-45b8-99d0-ed9327dcb1da",
         "titulo": "1971‐06‐26: Amstel Free Concert, Amsterdamse Bos, Amsterdam, Netherlands",
         "artist_slug": "pf",
@@ -8769,6 +9569,36 @@
         "analisis_md": null
       },
       {
+        "mbid": "85c5cd66-824a-47c7-ac57-c0d5789d2951",
+        "titulo": "Candiles",
+        "artist_slug": "aquelarre",
+        "primer_lanzamiento": "1973",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "f1c00072-4d86-3dea-b902-f21531764f46",
+        "titulo": "Color Humano",
+        "artist_slug": "color-humano",
+        "primer_lanzamiento": "1973",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "3ede0b9f-8b75-3809-920a-e9739f957db2",
+        "titulo": "Confesiones de invierno",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "1973",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "7179ee72-022a-4c9c-a487-cdca4a32d14a",
         "titulo": "Dolf Hartmann präsentiert Die Frank Zappa Story",
         "artist_slug": "frank-zappa",
@@ -8778,6 +9608,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "75c5377c-e416-3263-8e93-ac7ccd1d0bea",
+        "titulo": "Es una nube, no hay duda",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1973",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -8843,6 +9683,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "b7d7ed9c-5f7c-4427-a5ca-13ea09e5d956",
+        "titulo": "Inti-Raymi",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1973",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "af87af37-2612-3885-a0be-43bf04fcebe5",
         "titulo": "Io sono nato libero",
         "artist_slug": "banco",
@@ -8850,6 +9700,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "0492641b-9a88-336e-9dd5-d1f03e58324f",
+        "titulo": "La nave infernal",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1973",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
         "analisis_md": null
       },
       {
@@ -8928,6 +9790,16 @@
           "Soundtrack"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "cfda9433-6873-42dd-b6fd-1bcf6070079f",
+        "titulo": "Pastoral",
+        "artist_slug": "pastoral",
+        "primer_lanzamiento": "1973",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -9091,6 +9963,16 @@
         "mbid": "e50c96ab-8822-3483-a111-336f47aa2c84",
         "titulo": "Camel",
         "artist_slug": "cam",
+        "primer_lanzamiento": "1973-02",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "b9c530cd-a04a-3d41-93bb-6b4baa82fbb1",
+        "titulo": "Pescado 2",
+        "artist_slug": "pescado-rabioso",
         "primer_lanzamiento": "1973-02",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -9288,6 +10170,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "8e50433a-c1d5-3019-a48d-0d6b97a5f32b",
+        "titulo": "Artaud",
+        "artist_slug": "pescado-rabioso",
+        "primer_lanzamiento": "1973-10",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "5a2ccc70-8aec-3119-80d7-7b1e8de4140e",
         "titulo": "Ashes Are Burning",
         "artist_slug": "ren",
@@ -9458,9 +10350,29 @@
         "analisis_md": null
       },
       {
+        "mbid": "f9fd142b-c7d0-3d64-850f-77549111effd",
+        "titulo": "Brumas",
+        "artist_slug": "aquelarre",
+        "primer_lanzamiento": "1974",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "70e31796-09e9-3319-ac0c-2bb7453ebf18",
         "titulo": "Caution Radiation Area",
         "artist_slug": "area",
+        "primer_lanzamiento": "1974",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "0a16b784-ea89-314c-b6da-47218aeb4a88",
+        "titulo": "Color Humano",
+        "artist_slug": "color-humano",
         "primer_lanzamiento": "1974",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -9773,6 +10685,16 @@
         "mbid": "262ab7e8-236e-393f-adff-12ecc228653d",
         "titulo": "Tudo foi feito pelo sol",
         "artist_slug": "os-mutantes",
+        "primer_lanzamiento": "1974",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "f768f1f3-8dcd-468f-b92d-4a96abd31698",
+        "titulo": "Vox Dei para Vox Dei",
+        "artist_slug": "vox-dei",
         "primer_lanzamiento": "1974",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -10186,6 +11108,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "c81b7c5b-5673-3fa9-9edc-a6e9c63905d3",
+        "titulo": "Pequeñas anécdotas sobre las instituciones",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "1974-12-16",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "ed954a82-d037-4f0f-83c2-0af1d9799c8f",
         "titulo": "1975‐01‐24: Shrine Auditorium, Los Angeles, CA, USA",
         "artist_slug": "gen",
@@ -10231,6 +11163,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "419a7829-94ca-4e41-a7b0-9ebf10e4c28b",
+        "titulo": "Agitor Lucens V",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1975",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -10303,6 +11245,26 @@
         "mbid": "3524edd0-241a-3238-a596-02a27eb28c86",
         "titulo": "Cunning Stunts",
         "artist_slug": "car",
+        "primer_lanzamiento": "1975",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "dac25612-1fb4-4d81-9f65-606b6b3f6c2a",
+        "titulo": "En el hospicio",
+        "artist_slug": "pastoral",
+        "primer_lanzamiento": "1975",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "784ffbf8-3f6a-3e60-8b6c-f5a954872d99",
+        "titulo": "Estamos en la pecera",
+        "artist_slug": "vox-dei",
         "primer_lanzamiento": "1975",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -10489,6 +11451,16 @@
         "mbid": "3c9d256f-c5a5-3bc0-8ee1-553f8f6afe2e",
         "titulo": "Shamal",
         "artist_slug": "gong",
+        "primer_lanzamiento": "1975",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "5fc9f13c-48c8-3e5d-8525-e4ac20730126",
+        "titulo": "Siesta",
+        "artist_slug": "aquelarre",
         "primer_lanzamiento": "1975",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -11190,6 +12162,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "e3bbbf13-c148-4e91-87a3-42bd5aa433ca",
+        "titulo": "Alas",
+        "artist_slug": "alas",
+        "primer_lanzamiento": "1976",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "55bfda75-5dcb-3168-a79c-8f15fca41dfe",
         "titulo": "Ao vivo",
         "artist_slug": "os-mutantes",
@@ -11265,6 +12247,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "4b034040-5c96-3afe-a9de-7b52b5a4a526",
+        "titulo": "Ciegos de siglos",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1976",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -11398,6 +12390,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "72a1e667-6480-4b9e-bb62-0dc664baf561",
+        "titulo": "Humanos",
+        "artist_slug": "pastoral",
+        "primer_lanzamiento": "1976",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "ad1bda9f-3401-3520-a444-5a640a79fec5",
         "titulo": "L",
         "artist_slug": "steve-hillage",
@@ -11435,6 +12437,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "3cb56b31-0861-3943-9fc9-9440758b3d4a",
+        "titulo": "Lo mejor de Pescado Rabioso",
+        "artist_slug": "pescado-rabioso",
+        "primer_lanzamiento": "1976",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -11559,6 +12573,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "87310d78-79de-4ef8-8c48-b6d84029a6dd",
+        "titulo": "Suite No. 1",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1976",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -11720,6 +12744,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "3ce7fb9a-c27b-3b78-a842-4a267b2bdc4b",
+        "titulo": "PorSuiGieco",
+        "artist_slug": "porsuigieco",
+        "primer_lanzamiento": "1976-03-07",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "792fb12f-2f5a-31a8-ae32-a29700ffa09b",
         "titulo": "Moonmadness",
         "artist_slug": "cam",
@@ -11855,6 +12889,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "1287922f-164b-4fbe-a36e-6274e80cbaf8",
+        "titulo": "1976-09-10: Teatro Coliseo, Buenos Aires, Argentina",
+        "artist_slug": "alas",
+        "primer_lanzamiento": "1976-09-10",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -12024,9 +13070,29 @@
         "analisis_md": null
       },
       {
+        "mbid": "0b2c9b5c-c490-3274-86ed-eddf05285735",
+        "titulo": "A 18′ del sol",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1977",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "19b989ec-29e3-3109-b3c9-3b99e3272e5f",
         "titulo": "Almost Alive…",
         "artist_slug": "amon-duul-ii",
+        "primer_lanzamiento": "1977",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "dca9075f-206f-4b81-8b52-20635fd1c8f4",
+        "titulo": "Atrapados en el cielo",
+        "artist_slug": "pastoral",
         "primer_lanzamiento": "1977",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -12185,6 +13251,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "6525f91d-d19b-423a-b157-9a73a9dd5327",
+        "titulo": "Los elementales",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1977",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -12865,6 +13941,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "e8b28b47-1dae-3929-a6b5-7d9fe23b5eac",
+        "titulo": "Anabelas",
+        "artist_slug": "bubu",
+        "primer_lanzamiento": "1978",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "de1ca6eb-9646-4a6c-afa6-b9f1b7d4dc53",
         "titulo": "Archives",
         "artist_slug": "rush",
@@ -12950,6 +14036,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "6e5a821e-a406-4a12-9f2f-7d37a4495d36",
+        "titulo": "Gata de noche",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1978",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -13076,6 +14172,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "e73e47ca-b9ea-3be5-9505-8eb3fcfb2e17",
+        "titulo": "Serú Girán",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1978",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -13539,6 +14645,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "18e4b341-1c53-49e2-aa4a-7965d3d8f4c3",
+        "titulo": "De Michele - Erausquin",
+        "artist_slug": "pastoral",
+        "primer_lanzamiento": "1979",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "3707903e-f693-3979-a46d-a08933099ecf",
         "titulo": "ELO’s Greatest Hits",
         "artist_slug": "elo",
@@ -13655,6 +14771,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "688951ec-e38d-4bd1-b6a1-3f8dc0ee5097",
+        "titulo": "Mañana campestre",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1979",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "f94ee177-b981-42b9-9a51-45f350091b4c",
         "titulo": "New Trolls",
         "artist_slug": "new-trolls",
@@ -13668,6 +14796,16 @@
         "mbid": "f583feb9-ff12-352a-a359-08a8f6618a4b",
         "titulo": "Night of the Living Dregs",
         "artist_slug": "dixie-dregs",
+        "primer_lanzamiento": "1979",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "e25a0c3b-78d6-3b37-a51f-b22405118967",
+        "titulo": "Only Love Can Sustain",
+        "artist_slug": "spinetta",
         "primer_lanzamiento": "1979",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -13712,6 +14850,16 @@
         "mbid": "cc67c949-ff5b-3a71-be56-47303cd649a5",
         "titulo": "Rainbow Dome Musick",
         "artist_slug": "steve-hillage",
+        "primer_lanzamiento": "1979",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "e94e57b5-a231-483d-8db2-2651e0f2bde6",
+        "titulo": "Tantor",
+        "artist_slug": "tantor",
         "primer_lanzamiento": "1979",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -13959,6 +15107,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "2e02ae17-685a-3b9e-b9bf-55294ea22447",
+        "titulo": "La grasa de las capitales",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1979-08-19",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "e4fa7b83-d14a-3093-a17f-ea46ad308cd8",
         "titulo": "Dune",
         "artist_slug": "klaus-schulze",
@@ -14119,6 +15277,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "31ddf318-d33b-432a-a500-29b5c28db33c",
+        "titulo": "Bicicleta",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1980",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "c5c65652-511a-389d-a586-f2b3c6ac51bd",
         "titulo": "Civilian",
         "artist_slug": "gg",
@@ -14164,6 +15332,16 @@
         "mbid": "67b71746-194a-3940-b7cb-f71d37028c0d",
         "titulo": "Dregs of the Earth",
         "artist_slug": "dixie-dregs",
+        "primer_lanzamiento": "1980",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "cfbdda7b-b79c-36c4-954a-020b8167a9f0",
+        "titulo": "El valle interior",
+        "artist_slug": "almendra",
         "primer_lanzamiento": "1980",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -14219,9 +15397,33 @@
         "analisis_md": null
       },
       {
+        "mbid": "e0d0408b-1422-4623-b34d-b5b91daeaf4b",
+        "titulo": "Muchacha ojos de papel",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "1980",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "cdde3392-aa74-304e-bae5-c92aadabfb62",
         "titulo": "Necessity Is…",
         "artist_slug": "mothers-of-invention",
+        "primer_lanzamiento": "1980",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "32b84369-7a83-4f82-bc50-c46d1b19dccb",
+        "titulo": "Pic Nic",
+        "artist_slug": "seru-giran",
         "primer_lanzamiento": "1980",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -14460,6 +15662,28 @@
           "Soundtrack"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "b8ffeb0c-44e9-34fd-a701-4bf1b9cd8054",
+        "titulo": "Música del alma",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1980-07-02",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "05808750-d8f6-34b8-85d7-c968cf721f6a",
+        "titulo": "Alma de Diamante",
+        "artist_slug": "spinetta-jade",
+        "primer_lanzamiento": "1980-08",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -14819,6 +16043,28 @@
         "analisis_md": null
       },
       {
+        "mbid": "b9e9cc56-d042-3574-b434-8cf669082790",
+        "titulo": "La historia de Sui Generis",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "1981",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "0896d054-e258-37bb-8fec-3803ef330be2",
+        "titulo": "Los niños que escriben en el cielo",
+        "artist_slug": "spinetta-jade",
+        "primer_lanzamiento": "1981",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "b0758482-0e3d-4d15-9697-de8823a30532",
         "titulo": "Mike Oldfield's Wonderland",
         "artist_slug": "mo",
@@ -14876,6 +16122,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "bc1a623a-cfd4-3957-b12b-7dcbe89c4cde",
+        "titulo": "Peperina",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1981",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -15433,6 +16689,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "43ffa940-beab-47b4-bec0-b76df5a5cf52",
+        "titulo": "Generación",
+        "artist_slug": "pastoral",
+        "primer_lanzamiento": "1982",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "8b5c3e99-d5c7-4909-a275-d0e9d62afe5e",
         "titulo": "Gentle Giant",
         "artist_slug": "gg",
@@ -15487,6 +16753,28 @@
         "analisis_md": null
       },
       {
+        "mbid": "d6e6ed92-9e10-30e9-b8e5-931b2be57954",
+        "titulo": "Kamikaze",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1982",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "526afff7-1bf6-31ca-880b-ba72405cc2c6",
+        "titulo": "No llores por mí, Argentina",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1982",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "47c8aa73-f57b-41bb-97e4-51c51ab74424",
         "titulo": "Old Playfellows",
         "artist_slug": "robert-wyatt",
@@ -15528,6 +16816,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "ed6af9bf-f180-3da3-b4b5-5860e133e6c7",
+        "titulo": "Pubis angelical",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1982",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Soundtrack"
+        ],
+        "es_estudio": false,
         "analisis_md": null
       },
       {
@@ -15628,6 +16928,16 @@
         "mbid": "88a9ac1a-ddd7-3041-b9c5-583ec4b4b657",
         "titulo": "Venerdì",
         "artist_slug": "le-orme",
+        "primer_lanzamiento": "1982",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "d1083fe5-09e1-37f9-b1d8-886eb853fc57",
+        "titulo": "Yendo de la cama al living",
+        "artist_slug": "charly-garcia",
         "primer_lanzamiento": "1982",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -15861,6 +17171,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "3cff5bd9-cf1a-3bee-b6a0-0efcc512f5f0",
+        "titulo": "Pubis angelical / Yendo de la cama al living",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1982-10-28",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "ddb78602-e8e3-3762-ae84-ff34c5ac94e0",
         "titulo": "Logos",
         "artist_slug": "tangerine-dream",
@@ -15929,6 +17251,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "0c0af932-09c4-384d-90c4-2e314f2a6f4b",
+        "titulo": "Bajo Belgrano",
+        "artist_slug": "spinetta-jade",
+        "primer_lanzamiento": "1983",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "8ce7b36d-cd5a-3933-890a-063b8e96f9b3",
         "titulo": "Banco",
         "artist_slug": "banco",
@@ -15958,6 +17290,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "cfa3a8dd-2fbd-45ad-bd1d-0d63156e8ea6",
+        "titulo": "Faisán azul",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1983",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -16054,9 +17396,29 @@
         "analisis_md": null
       },
       {
+        "mbid": "964b1d9e-7909-3c2d-8790-4c770b9ef1cf",
+        "titulo": "Mondo di cromo",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1983",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "88062055-a435-3663-8239-2ddf9ed2a5ac",
         "titulo": "Oblivion",
         "artist_slug": "utopia",
+        "primer_lanzamiento": "1983",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "e6a6f1f2-dea7-4da9-9ccf-4a03be069a03",
+        "titulo": "Pinta tu aldea",
+        "artist_slug": "alas",
         "primer_lanzamiento": "1983",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -16412,6 +17774,16 @@
         "titulo": "Bay of Kings",
         "artist_slug": "sh",
         "primer_lanzamiento": "1983-10-28",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "33eaf398-1164-32e3-9055-3bcbff8f3b12",
+        "titulo": "Clics modernos",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1983-11-05",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
@@ -16984,6 +18356,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "b50af62f-7e39-3899-8ee5-5550f7b35b65",
+        "titulo": "Piano bar",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1984-11-22",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "775e8585-c703-356d-bcaf-be8cd3c89ad3",
         "titulo": "The Killing Fields: Original Film Soundtrack",
         "artist_slug": "mo",
@@ -17215,6 +18597,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "2a82eeef-afaa-310f-80e6-33da282705cb",
+        "titulo": "Privé",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1985",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -17676,6 +19068,28 @@
         "analisis_md": null
       },
       {
+        "mbid": "249804b2-7e08-32be-9a8f-c6a40e08c438",
+        "titulo": "La Biblia en vivo",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1986",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "c2edcde1-99ed-3fc3-ac56-7b7d29ca61c3",
+        "titulo": "La la la",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1986",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "6b684482-96dc-324a-a1d5-d78deb58f41e",
         "titulo": "Legend: Music From the Motion Picture Soundtrack",
         "artist_slug": "tangerine-dream",
@@ -17877,6 +19291,16 @@
         "mbid": "698759a2-f716-3a83-8fca-6fb142d12d5e",
         "titulo": "Green Desert",
         "artist_slug": "tangerine-dream",
+        "primer_lanzamiento": "1986-01",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "c12a6c55-e39b-3d6d-a980-b65d74c664f0",
+        "titulo": "Tango",
+        "artist_slug": "charly-garcia",
         "primer_lanzamiento": "1986-01",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -18220,6 +19644,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "f48be81d-781a-4d00-ae48-dece7e0af981",
+        "titulo": "Crónica",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1987",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "5c68cacf-01fa-3c8f-8ca1-c1122a98eb09",
         "titulo": "Don’t Say Goodbye",
         "artist_slug": "str",
@@ -18335,6 +19771,26 @@
         "mbid": "356347cc-3945-3c39-9151-b0c5e44831f7",
         "titulo": "Out of the Island",
         "artist_slug": "pretty-things",
+        "primer_lanzamiento": "1987",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "4575dab8-93b3-3412-8a99-545ecd4c13a6",
+        "titulo": "Parte de la religión",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1987",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "41eb5e93-1bf9-4b6c-8a2c-4b5ceabbaf72",
+        "titulo": "Peace Pipes",
+        "artist_slug": "arco-iris",
         "primer_lanzamiento": "1987",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -18916,6 +20372,30 @@
         "analisis_md": null
       },
       {
+        "mbid": "fb261b04-7138-3ee0-83ea-341b7b80682d",
+        "titulo": "El album",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1988",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "79b9c179-5713-34f7-82f3-155b53d27792",
+        "titulo": "El álbum",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1988",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "0e986744-f2d8-4066-b6d2-51487aee38df",
         "titulo": "Hey Jude",
         "artist_slug": "beatles",
@@ -19012,6 +20492,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "8bc05884-6284-3a28-8f87-30b521fde7a2",
+        "titulo": "Lo que vendrá",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1988",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Soundtrack"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "5c618831-9698-3a74-8979-22b03d2b40e7",
         "titulo": "Looking Back",
         "artist_slug": "car",
@@ -19083,6 +20575,26 @@
         "mbid": "e2ebbfb4-1c01-32a4-ae2d-f1d55e429982",
         "titulo": "Tarka",
         "artist_slug": "ap",
+        "primer_lanzamiento": "1988",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "25a14e30-e53f-4ba2-b9cb-f08d8277d8f2",
+        "titulo": "Tengo razones para seguir",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1988",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "46c83cd1-9e0d-3b65-93fa-c2f4ea386b99",
+        "titulo": "Tester de violencia",
+        "artist_slug": "spinetta",
         "primer_lanzamiento": "1988",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -19573,6 +21085,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "c85fabd9-1473-4449-aa43-7c91675e4537",
+        "titulo": "Teatro Broadway, CABA (25/11/1988)",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1988-11-25",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "28e006a8-caf7-310a-ad8d-66e4b6e547fc",
         "titulo": "A Show of Hands",
         "artist_slug": "rush",
@@ -19773,6 +21297,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "55253831-2552-3751-be93-e28ca9efac49",
+        "titulo": "Don Lucero",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1989",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -20489,6 +22023,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "7d6c018f-ed78-3d22-8ee3-89363657d775",
+        "titulo": "Cómo conseguir chicas",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1989-02-16",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "c0143c2a-4c1d-302d-9195-3e079e738217",
         "titulo": "Greatest Hits",
         "artist_slug": "kinks",
@@ -21083,6 +22627,28 @@
         "analisis_md": null
       },
       {
+        "mbid": "1074222f-8060-3632-baa0-1dc7dbf8a0fc",
+        "titulo": "Exactas",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1990",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "6e74ec33-1d29-3800-b4a6-ffd6d5c95bb4",
+        "titulo": "Filosofía barata y zapatos de goma",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1990",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "7d96da6c-6514-4a59-8e3a-109c613b0b8b",
         "titulo": "From Lifehouse to Leeds",
         "artist_slug": "who",
@@ -21360,6 +22926,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "e679372f-34d7-4bf0-a650-87be0d43a2c1",
+        "titulo": "Piel de piel",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1990",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
         "analisis_md": null
       },
       {
@@ -22844,6 +24422,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "4be78d14-54c5-36f9-b317-5ebef8e60603",
+        "titulo": "Madre en años luz",
+        "artist_slug": "spinetta-jade",
+        "primer_lanzamiento": "1991",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "b2e77472-77ba-4371-9374-df2ce87d9a90",
         "titulo": "My Generation",
         "artist_slug": "who",
@@ -22889,6 +24477,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "d3bdcce4-baeb-37ac-8280-fc530018ee6f",
+        "titulo": "Pelusón of Milk",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1991",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -22965,6 +24563,18 @@
         "mbid": "8672e71e-b370-484e-9b77-e51a63bd6dc9",
         "titulo": "Radio - Made Hits 1975 - 1991 Special Radio Sampler",
         "artist_slug": "styx",
+        "primer_lanzamiento": "1991",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "64fd7281-fd6b-4e55-af71-3e8c97cbf83b",
+        "titulo": "Radio Pinti",
+        "artist_slug": "charly-garcia",
         "primer_lanzamiento": "1991",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -23095,6 +24705,16 @@
         "mbid": "c3f51d54-87f7-438d-912f-2a4f79abf0f5",
         "titulo": "Strange Tales of the Sailors",
         "artist_slug": "kc",
+        "primer_lanzamiento": "1991",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "675bc722-40e6-3c48-8674-e5da45a4d7b1",
+        "titulo": "Tango 4",
+        "artist_slug": "charly-garcia",
         "primer_lanzamiento": "1991",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -23866,6 +25486,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "777eaabf-1f3c-4325-9708-d7c6ff25f47d",
+        "titulo": "Antología",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "1992",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "631ff391-2d89-341e-bc13-06aa81773607",
         "titulo": "Atmospheric",
         "artist_slug": "rush",
@@ -23974,6 +25606,42 @@
         "analisis_md": null
       },
       {
+        "mbid": "b54f14d6-503f-4a53-b177-f433a399c943",
+        "titulo": "Cronica",
+        "artist_slug": "spinetta-jade",
+        "primer_lanzamiento": "1992",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "b54f14d6-503f-4a53-b177-f433a399c943",
+        "titulo": "Cronica",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1992",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "ece7477f-1d5a-4a02-8483-0e59d7f4d717",
+        "titulo": "Cronología",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1992",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "33200ca6-68d5-3e4f-bf19-ad01b032671a",
         "titulo": "Deadly Care",
         "artist_slug": "tangerine-dream",
@@ -24061,6 +25729,18 @@
         "mbid": "aff92dc1-ad06-44b8-bfe2-7f5e69d92ae4",
         "titulo": "Electric Aunt Jemima",
         "artist_slug": "frank-zappa",
+        "primer_lanzamiento": "1992",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "b70e7cbb-0c66-4744-b8ea-74543d810ad7",
+        "titulo": "En vivo en el Teatro California",
+        "artist_slug": "spinetta",
         "primer_lanzamiento": "1992",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -24507,6 +26187,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "e0ad6a13-756a-4c4a-88ee-c199581bbb82",
+        "titulo": "Pic-Nic",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1992",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "cda1daa2-6aaf-3946-a3f2-7b2c5f8c9544",
         "titulo": "Quasi Mystical Vision",
         "artist_slug": "yes",
@@ -24626,6 +26318,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "f0896fa1-ab00-3132-9182-76bd67365e8d",
+        "titulo": "Seru '92",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1992",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -25425,6 +27127,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "be8f50a4-7e4a-4cb0-9fb7-06222f99442e",
+        "titulo": "Prix D'ami",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1992-08-18",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "131ce362-2a50-36c6-b49a-8e5c8d72422b",
         "titulo": "Private Parts & Pieces 8: New England",
         "artist_slug": "ap",
@@ -25755,6 +27469,30 @@
         "analisis_md": null
       },
       {
+        "mbid": "07d8fc9d-525d-492e-941a-458b360afe94",
+        "titulo": "Adiós Sui Generis, parte 1",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "1993",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "108d415c-9308-4972-a21f-0bbac861e0ba",
+        "titulo": "Adiós Sui Generis, parte 2",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "1993",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "427b818d-5eb1-3ac4-bf79-c572c6a30cfd",
         "titulo": "All Too Much",
         "artist_slug": "beatles",
@@ -25899,6 +27637,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "6ea90516-5872-4a23-aebe-7e22e0ab5077",
+        "titulo": "Cronología II",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1993",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "452b2cfc-751e-466f-b1fc-042418955da0",
         "titulo": "Dangerous",
         "artist_slug": "who",
@@ -25972,6 +27722,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "34b8a315-a012-4e94-80e3-0698e6ab243e",
+        "titulo": "En vivo",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1993",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "f812908f-2707-3b21-9627-aba2b1bfe2ab",
         "titulo": "From One Fan to All Others",
         "artist_slug": "gen",
@@ -25979,6 +27741,42 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "cf0447d5-b138-39ca-8eba-9ed43e244ab2",
+        "titulo": "Fuego gris",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1993",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Soundtrack"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "210b7787-aeb4-4d22-a873-fb680a9d70e0",
+        "titulo": "Funes, un gran amor",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1993",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Soundtrack"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "dd2dd9c8-2d84-345f-acb0-74d31bc9453c",
+        "titulo": "García 87-93",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1993",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -27125,6 +28923,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "8a7fbbda-346d-3e3c-8840-1c4ede1ea054",
+        "titulo": "12 años",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1994",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "0af5e915-6198-359e-a002-9a1cd28b5d1e",
         "titulo": "1987-09-28: A Clear View: Rosemont Horizon, Chicago, IL, USA",
         "artist_slug": "pf",
@@ -27441,6 +29251,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "3807402f-22a1-4857-830a-b06afd12d634",
+        "titulo": "El fantasma de Canterville",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1994",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "3a9f562f-2c32-4bb4-8599-73c46a0d120f",
         "titulo": "Endless Dream",
         "artist_slug": "yes",
@@ -27560,6 +29382,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "23cef9b9-da66-39ba-bbfa-1f752d65d379",
+        "titulo": "La hija de la lágrima",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1994",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "31320be1-c169-427c-8451-62811f617d69",
         "titulo": "Last Stand With Keith Moon",
         "artist_slug": "who",
@@ -27627,6 +29459,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "e274673e-8064-3337-9375-577c07c484d8",
+        "titulo": "Lo mejor de Seru Giran",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1994",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -27754,6 +29598,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "9856650c-c03f-3d71-8c34-853b1e9a3802",
+        "titulo": "Oro",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1994",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "f8758b91-3ffe-455b-935c-07ec08d44dc9",
         "titulo": "Papagayo Club - 1972",
         "artist_slug": "banco",
@@ -27872,6 +29728,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "ab38adb1-7478-4552-9021-a5f7cffd38ac",
+        "titulo": "Sin darle ya más vueltas",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1994",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -28234,6 +30100,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "053f7e0c-c3ad-4b61-92d9-5ded431cef72",
+        "titulo": "Todo Pastoral",
+        "artist_slug": "pastoral",
+        "primer_lanzamiento": "1994",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "e20c9f9f-e53f-4ffa-9f8c-bfbf473f8bc3",
         "titulo": "Tuxedo Tuesday",
         "artist_slug": "rush",
@@ -28241,6 +30119,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "bb200ede-dbc2-4580-b031-1724ab116cef",
+        "titulo": "Un pájaro te sostiene",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "1994",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -28745,6 +30635,30 @@
         "analisis_md": null
       },
       {
+        "mbid": "f406cc5d-df1b-4ee6-8dab-1682300e9dd9",
+        "titulo": "1995-08-10: Bariloche, Río Negro, Argentina",
+        "artist_slug": "socios-del-desierto",
+        "primer_lanzamiento": "1995",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "43de4877-2468-334a-b157-e243e750bad6",
+        "titulo": "20 éxitos",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "1995",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "63226601-4ccf-303a-8f20-614ac52c426e",
         "titulo": "A Collection of Great Trance Remixes",
         "artist_slug": "pf",
@@ -28903,6 +30817,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "96d62e40-088d-35a0-9f16-7690472ab087",
+        "titulo": "En \"The Roxy\"",
+        "artist_slug": "color-humano",
+        "primer_lanzamiento": "1995",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "2cf95604-321c-46eb-8cf2-0cc5f53aa694",
         "titulo": "Free As A Bird",
         "artist_slug": "beatles",
@@ -28946,6 +30872,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "9731bea9-8fd6-3608-bc3c-e3b735747407",
+        "titulo": "Hello! MTV Unplugged",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1995",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
         "analisis_md": null
       },
       {
@@ -29131,6 +31069,30 @@
         "analisis_md": null
       },
       {
+        "mbid": "d2bdc2a8-7865-428a-a58a-2db1be0a7f5f",
+        "titulo": "Oro",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1995",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "dbe00cd2-3ae9-3efc-baca-920940ee87b8",
+        "titulo": "Oro, volumen II",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1995",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "85328bb5-2cef-3409-b2fd-7559814e624f",
         "titulo": "Pre-Modernist Wireless: The Peel Sessions",
         "artist_slug": "gong",
@@ -29199,6 +31161,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "e9446956-8671-3f31-b14c-698aa1692345",
+        "titulo": "Spinetta – Aznar / Aznar – Spinetta",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1995",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
         "analisis_md": null
       },
       {
@@ -29624,6 +31598,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "bcaa41d8-5d28-3b24-937a-6816eccfedfe",
+        "titulo": "Estaba en llamas cuando me acosté",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1995-04-20",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "b8ef6054-fcd0-392c-ab48-6b9424d4bd00",
         "titulo": "In Concert (BBC) Hammersmith 1991",
         "artist_slug": "jt",
@@ -29816,9 +31802,33 @@
         "analisis_md": null
       },
       {
+        "mbid": "237df71e-db1e-3be1-a280-c3e616c37825",
+        "titulo": "20 grandes éxitos",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "1996",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "ca23d4c1-a66e-3012-b396-6fdc2a26a57a",
         "titulo": "2112 Days",
         "artist_slug": "rush",
+        "primer_lanzamiento": "1996",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "30e1d337-9a6f-44dd-9353-bac10d7dfe14",
+        "titulo": "Adiós Sui Generis, parte 3",
+        "artist_slug": "sui-generis",
         "primer_lanzamiento": "1996",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -29835,6 +31845,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "ebda461b-905c-4d7a-a506-8c7319fbb5b2",
+        "titulo": "Almendra en Obras I y II",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "1996",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
         "analisis_md": null
       },
       {
@@ -29863,6 +31885,18 @@
         "mbid": "aa3b5cbf-2b12-3f7d-9a95-95b5c951f56e",
         "titulo": "Champions of Rock",
         "artist_slug": "gg",
+        "primer_lanzamiento": "1996",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "58e680fc-b4ec-4bde-8725-eaee9f185d90",
+        "titulo": "Color Humano 2",
+        "artist_slug": "color-humano",
         "primer_lanzamiento": "1996",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -29973,6 +32007,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "70ef07ff-c635-3f53-8270-051e0eb89cb9",
+        "titulo": "El regreso de la leyenda",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1996",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -30310,6 +32356,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "396b4a3a-354b-3c6b-9f73-9d7c996f8c72",
+        "titulo": "Say No More",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1996",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -31275,6 +33331,28 @@
         "analisis_md": null
       },
       {
+        "mbid": "176b2c5c-94fd-4d27-9e6e-d8db2cd3886f",
+        "titulo": "La Biblia",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1997",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "72649672-c151-4f50-9f71-82a33cf40d5d",
+        "titulo": "La Biblia: En vivo en la Catedral de La Plata",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "1997",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "938cb806-d8e5-3535-a7a5-1152eec03a5f",
         "titulo": "Live",
         "artist_slug": "happy-the-man",
@@ -31992,6 +34070,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "1b365ab6-66e2-3312-9c58-51d8eafe394a",
+        "titulo": "Spinetta y los Socios del Desierto",
+        "artist_slug": "socios-del-desierto",
+        "primer_lanzamiento": "1997-04-30",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "ba651b83-8ed2-3e64-8abf-f312f9084e34",
         "titulo": "Retrospective I: 1974–1980",
         "artist_slug": "rush",
@@ -32578,6 +34666,28 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "0b4072c4-5c29-3575-bedb-c03f758636c9",
+        "titulo": "El aguante",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1998",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "582a6cf9-164e-3893-9042-239a6fcd1d9c",
+        "titulo": "El álbum",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "1998",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -33415,6 +35525,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "9935e127-4026-4d47-b003-23ad1091b446",
+        "titulo": "Peace Will Save the Rainbow",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "1998-08-25",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "45eea997-e18f-46ef-a1dd-2de465f35d9f",
         "titulo": "Yes, Friends and Relatives",
         "artist_slug": "yes",
@@ -33615,6 +35735,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "366d78f2-c4cf-303b-8ed6-c1b9eb7330f9",
+        "titulo": "Almendra 68/70",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "8cec82ef-73b8-4aeb-a1e0-b99a0a263c37",
         "titulo": "Alturas de Macchu Picchu en concierto",
         "artist_slug": "los-jaivas",
@@ -33769,6 +35901,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "c2d79a76-2c0e-3fbd-9fdf-922a9747fc84",
+        "titulo": "Charly & Charly: en vivo en Olivos",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "79361c53-8583-34dd-9a20-caf8687e6952",
         "titulo": "City in My Head",
         "artist_slug": "utopia",
@@ -33788,6 +35932,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "75910283-f01b-3305-8fa5-f3596b20e974",
+        "titulo": "Corazones del lado del fuego",
+        "artist_slug": "aquelarre",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -33815,9 +35971,58 @@
         "analisis_md": null
       },
       {
+        "mbid": "d079ac67-eb02-3809-a2c7-e0fa968facde",
+        "titulo": "Demasiado ego",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "bcd5ee13-6f64-3f4a-bac7-7c4ab3af0cc1",
         "titulo": "Der Robotmix",
         "artist_slug": "kraftwerk",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "3d069a90-2cdd-3821-9469-e0a248cdca4b",
+        "titulo": "El legado de Sui Generis (en vivo), volumen 2",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation",
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "fcec1dfc-8cde-3b8b-a395-a65cf10c1df4",
+        "titulo": "El legado de Sui Generis, volumen 1",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "f2ad2a34-a2d2-3110-9945-41aca1557f2c",
+        "titulo": "Elija y gane",
+        "artist_slug": "spinetta",
         "primer_lanzamiento": "1999",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -34189,6 +36394,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "abb0a204-0707-3a6d-9bde-ad61c8b2ce65",
+        "titulo": "Los ojos",
+        "artist_slug": "socios-del-desierto",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "d4e53299-5f36-47ab-81fd-ed5f04c318ef",
         "titulo": "Lucky Man: Best of Emerson, Lake & Palmer",
         "artist_slug": "elp",
@@ -34289,6 +36504,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "cf70d4b4-0a9c-305a-af4d-9e2855a2969e",
+        "titulo": "Obras cumbres",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "6ab2cda9-63db-3b98-8517-229de6cdfdd7",
         "titulo": "Other Side of the Sky: ‘A Collection’",
         "artist_slug": "gong",
@@ -34354,6 +36581,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "35b99de8-5a40-3756-911a-7ad3a6c045f1",
+        "titulo": "San Cristóforo",
+        "artist_slug": "socios-del-desierto",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
         "analisis_md": null
       },
       {
@@ -34648,6 +36887,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "846609e7-b59d-3b10-82c9-fe63de9f50dc",
+        "titulo": "Yo no quiero volverme tan loco",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "1999",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "61a6de4c-99b6-4480-9d35-439b4589ccd9",
         "titulo": "Легенды Зарубежного Рока",
         "artist_slug": "beatles",
@@ -34794,6 +37045,30 @@
         "titulo": "The Definitive Collection",
         "artist_slug": "small-faces",
         "primer_lanzamiento": "1999-04-16",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "6fa366cf-d1f2-44ae-8077-e2d040a67bf9",
+        "titulo": "Rasguña las piedras",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "1999-04-27",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "ed601259-7032-46a2-bdfa-1725eec91cf7",
+        "titulo": "Superhéroe",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "1999-05-15",
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Compilation"
@@ -35290,6 +37565,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "b87421e7-19ae-4590-9d5e-10a291014dca",
+        "titulo": "Abre tu mente",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "2000",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "26847348-411f-453b-92d1-8368cd5a786f",
         "titulo": "Animals / A Saucer Full of Secrets",
         "artist_slug": "pf",
@@ -35374,6 +37661,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "0c014256-de34-4238-97f0-4065c4f4e70b",
+        "titulo": "Completo",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "2000",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "49fb1740-9a94-405f-9e97-13ff18c9b2e5",
         "titulo": "Day by Day Vol. 8: The Complete Get Back Sessions",
         "artist_slug": "beatles",
@@ -35425,6 +37724,18 @@
         "mbid": "cade7a32-b6b6-305f-824d-c09af5837c3a",
         "titulo": "Early Flights, Volume 2",
         "artist_slug": "pf",
+        "primer_lanzamiento": "2000",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "9eb6d600-a52c-4a93-8d1e-6ee642b9cff9",
+        "titulo": "El marcapiel",
+        "artist_slug": "spinetta",
         "primer_lanzamiento": "2000",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -36522,6 +38833,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "fe548c2b-6ab1-32ad-b06e-4df76130f6a2",
+        "titulo": "Sinfonías para adolescentes",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "2000-10-30",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "1fc59a3f-4223-4123-90d4-85f499671b0c",
         "titulo": "The HTD Years",
         "artist_slug": "car",
@@ -36541,6 +38862,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "a77223d4-e182-3abe-b07a-94b66a2fd714",
+        "titulo": "Antología",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "2000-11-03",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -36725,6 +39058,18 @@
         "mbid": "e9424be1-bb1b-4549-ba40-37021dc835cb",
         "titulo": "Archives 1966–1967",
         "artist_slug": "pf",
+        "primer_lanzamiento": "2001",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "13dd2c67-af0f-4a1f-9b3b-3d15edbecf05",
+        "titulo": "Archivos EMI",
+        "artist_slug": "alas",
         "primer_lanzamiento": "2001",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -37126,6 +39471,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "f1ff9ce6-f9fd-3d15-a294-9746a3ce78d0",
+        "titulo": "Obras cumbres",
+        "artist_slug": "pescado-rabioso",
+        "primer_lanzamiento": "2001",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "f4422df3-697e-4402-9fb3-e066198834f0",
         "titulo": "Pigs Might Fly?",
         "artist_slug": "pf",
@@ -37194,6 +39551,28 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "4f988335-6dc6-42d2-ad3f-d1a3a709e589",
+        "titulo": "Si (Detrás de las paredes)",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "2001",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "bf8587ae-8dea-3866-ad01-1776f3b4981f",
+        "titulo": "Silver Sorgo",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2001",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -37701,6 +40080,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "01654a4a-402e-428a-80fc-ec26342b6a63",
+        "titulo": "Estrelicia: MTV Unplugged",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2001-04-18",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "f297a824-aebe-45a7-8e4e-d0920cf15d61",
         "titulo": "Deface the Music Tour",
         "artist_slug": "utopia",
@@ -37757,6 +40148,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "5ae29296-858f-4227-a476-d6a061c9724d",
+        "titulo": "RCA Victor 100 Años",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "2001-05-02",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -38545,6 +40948,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "eb156c53-5485-4867-bd97-19e71130896c",
+        "titulo": "Grandes éxitos",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2002",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "f1fe706f-4f01-498b-920a-e88b3570d5f9",
         "titulo": "Greatest Video Hits",
         "artist_slug": "yes",
@@ -38584,6 +40999,16 @@
         "mbid": "97971b7c-e664-451f-b566-1c6e98e3d36f",
         "titulo": "Howdy Austin",
         "artist_slug": "frank-zappa",
+        "primer_lanzamiento": "2002",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "5341f83a-5c9d-314f-bc6b-0a1c490fd18b",
+        "titulo": "Influencia",
+        "artist_slug": "charly-garcia",
         "primer_lanzamiento": "2002",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -38754,6 +41179,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "86e2e937-ba29-36e6-ae86-ff16623f3d80",
+        "titulo": "Obras en vivo",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2002",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Mixtape/Street"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -39564,6 +42001,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "564b3dac-6ede-4805-b58f-f95f19ed9602",
+        "titulo": "Argentina Sorgo Films (vivo en Obras 2001)",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2002-07-21",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "ea4f2e72-0e41-3d6b-be1f-4180cec1ec3c",
         "titulo": "A Nod and a Wink",
         "artist_slug": "cam",
@@ -39884,6 +42333,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "829175b8-4486-3758-8380-c425a6d987de",
+        "titulo": "2003-02-24: Festival de la canción de Viña del Mar 2003: Viña del Mar, Chile",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2003",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "985b43fe-b7f0-4e59-9fbf-fdc9917022a9",
         "titulo": "Abzu",
         "artist_slug": "faust",
@@ -39915,6 +42376,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Demo"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "14ed8907-cd1f-3363-9950-2b177b6b6b74",
+        "titulo": "Antología rock argentino",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "2003",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -40278,6 +42751,28 @@
         "analisis_md": null
       },
       {
+        "mbid": "bb9a63a8-fd02-38c0-ac77-d84375828d03",
+        "titulo": "Oro: Grandes éxitos",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2003",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "eb96ab96-5307-362d-b3b5-0d8fd82062f3",
+        "titulo": "Para los árboles",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2003",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "f07b076a-213c-4cde-a6b7-8396858eecdd",
         "titulo": "Platinum & Gold Collection",
         "artist_slug": "app",
@@ -40317,6 +42812,16 @@
         "mbid": "2c2993d6-8e4d-4491-b835-3f34f8af7809",
         "titulo": "Radio Clyde",
         "artist_slug": "ap",
+        "primer_lanzamiento": "2003",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "50a896c4-4048-34eb-a657-a3f71fb4c42a",
+        "titulo": "Rock and Roll YO",
+        "artist_slug": "charly-garcia",
         "primer_lanzamiento": "2003",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -41303,6 +43808,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "65b5b7be-48c1-37d9-b999-3baad790a648",
+        "titulo": "Lo mejor de Vox Dei",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "2003-08",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "6099c519-757a-4af2-b919-3076fac908f4",
         "titulo": "The Bootmoon Series: Sydney – February 22nd 1982",
         "artist_slug": "tangerine-dream",
@@ -41341,6 +43858,18 @@
         "titulo": "With Strings Attached",
         "artist_slug": "car",
         "primer_lanzamiento": "2003-08-11",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "c565c155-4082-3133-83e6-31167c730c4d",
+        "titulo": "Inolvidables RCA: 20 grandes éxitos",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "2003-08-12",
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Compilation"
@@ -41975,6 +44504,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "4f3d92f9-7284-4a72-bdd2-69d4865a1f0f",
+        "titulo": "Grandes exitos",
+        "artist_slug": "alas",
+        "primer_lanzamiento": "2004",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -43298,6 +45839,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "9312fea1-4226-4f75-ae34-31fecee1ad63",
+        "titulo": "En vivo en el Teatro del Globo",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "2004-09-12",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "c7f3ccde-0fa9-4add-a25a-c6e9548d0a00",
         "titulo": "Live in Boston",
         "artist_slug": "who",
@@ -43486,6 +46039,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "e4793c43-55a4-4ec1-81a0-84278dbdad31",
+        "titulo": "20 éxitos originales",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2005",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "cbe25733-329b-4d05-9fef-a3fb6e5cba0d",
         "titulo": "40th Anniversary SACD Sampler",
         "artist_slug": "kinks",
@@ -43535,6 +46100,16 @@
         "mbid": "46a424c2-1d48-4dfd-993a-695419268a94",
         "titulo": "Deutsche Wertarbeit",
         "artist_slug": "kraftwerk",
+        "primer_lanzamiento": "2005",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "eebf1693-6b20-3a8d-89e7-29cd9a30898c",
+        "titulo": "El camino",
+        "artist_slug": "vox-dei",
         "primer_lanzamiento": "2005",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
@@ -44116,6 +46691,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "421388fa-504a-4aae-9264-d94f192ed6e5",
+        "titulo": "Mímame bandoneón",
+        "artist_slug": "alas",
+        "primer_lanzamiento": "2005-01-01",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -45958,6 +48543,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "0db4c632-28d6-3541-a7b6-db9e9c278821",
+        "titulo": "Pan",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2006-03",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "ac02eb3a-6dfa-4a09-8746-d40b86b64303",
         "titulo": "1969-10-25: Let's Be Frank: Festival Actuel, Mont de l'enclus, Amougies, Belgium",
         "artist_slug": "pf",
@@ -46013,6 +48608,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "9457ab7c-3b9d-4f99-ac84-9175b8b255e2",
+        "titulo": "Tumar Moromere",
+        "artist_slug": "bubu",
+        "primer_lanzamiento": "2006-04-03",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Soundtrack"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -46290,6 +48897,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "2840a276-12e2-4514-99c6-7d82d9be5db7",
+        "titulo": "Obras cumbres",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2006-08-29",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -47491,6 +50110,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "97690669-017c-35e9-8c0e-93c3a8f9d64a",
+        "titulo": "Kill Gil",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2007",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -49490,6 +52119,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "27d0390a-333a-4bcf-b990-074deaf4bb70",
+        "titulo": "Otras Pistas",
+        "artist_slug": "aquelarre",
+        "primer_lanzamiento": "2008",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "50d72019-fdaf-4780-acc6-74acf0539989",
         "titulo": "PFM canta De André",
         "artist_slug": "pfm",
@@ -49902,6 +52543,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "49553eaa-b84f-3c10-87b3-eb99437baa7c",
+        "titulo": "Sí o sí: Diario del rock argentino",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2008-05-27",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "0b8bbb04-3142-4074-bf5b-a69433e5b2cf",
         "titulo": "The Vintage Years Anthology",
         "artist_slug": "tangerine-dream",
@@ -49953,6 +52606,16 @@
         "titulo": "Tangram 2008",
         "artist_slug": "tangerine-dream",
         "primer_lanzamiento": "2008-06-20",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "69d9389d-e2e0-30ff-a521-f82b7aeedfa8",
+        "titulo": "Un mañana",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2008-06-25",
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
@@ -50489,9 +53152,45 @@
         "analisis_md": null
       },
       {
+        "mbid": "4fa51a0a-6312-4f5b-ad7e-a21f9577fe8a",
+        "titulo": "Demasiado Beatles",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2009",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "c425199a-1bc0-4a1c-9e3c-7c0bc2a9e0b7",
         "titulo": "Drop",
         "artist_slug": "sm",
+        "primer_lanzamiento": "2009",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "e3b43f1f-e278-4a9a-9468-639f3268d33a",
+        "titulo": "El concierto subacuático",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2009",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "37a7a32d-e99b-48bc-8a9a-febb4e8bae4b",
+        "titulo": "En vivo hoy",
+        "artist_slug": "arco-iris",
         "primer_lanzamiento": "2009",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -50564,6 +53263,18 @@
         "mbid": "8636b599-ab85-42f6-b162-e06b0e68d45f",
         "titulo": "In Memoriam",
         "artist_slug": "small-faces",
+        "primer_lanzamiento": "2009",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "cbc7fcd9-5a0a-4a89-9446-ec651ac67231",
+        "titulo": "Inconsciente colectivo",
+        "artist_slug": "charly-garcia",
         "primer_lanzamiento": "2009",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -50652,6 +53363,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [],
         "es_estudio": true,
+        "analisis_md": null
+      },
+      {
+        "mbid": "55b57ae8-47d5-4a7e-8f2d-cbf8696098fb",
+        "titulo": "Oro: Grandes éxitos",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "2009",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
         "analisis_md": null
       },
       {
@@ -51287,6 +54010,18 @@
         "titulo": "La Vie électronique 4",
         "artist_slug": "klaus-schulze",
         "primer_lanzamiento": "2009-08-07",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "c1258ddb-3178-4e3b-a2ce-8319d1c4b91a",
+        "titulo": "García, el más grande",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2009-08-20",
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Compilation"
@@ -52393,6 +55128,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "6eabaa60-6d60-493a-b179-6bf9905aabbc",
+        "titulo": "En vivo, teatro Odeon 1972",
+        "artist_slug": "pescado-rabioso",
+        "primer_lanzamiento": "2010-08-30",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "fe82ec20-2353-4824-a79c-b5c5115fa100",
         "titulo": "La Vie électronique 8",
         "artist_slug": "klaus-schulze",
@@ -52596,6 +55343,18 @@
         "mbid": "e93f689a-eeeb-47fa-82c8-de3a446544d2",
         "titulo": "Live in Lisbon: Concert Performance at the Coliseu Lisbon 2010",
         "artist_slug": "tangerine-dream",
+        "primer_lanzamiento": "2010-12-10",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "131b05ec-0f1f-4726-8abe-b46846122b13",
+        "titulo": "Spinetta y las bandas eternas",
+        "artist_slug": "spinetta",
         "primer_lanzamiento": "2010-12-10",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -53897,6 +56656,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "55754c58-621e-41f4-b35f-9fe67b165b71",
+        "titulo": "60 x 60",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2012",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "42ef6001-3113-440c-ae7c-3667c7351e35",
         "titulo": "Abbey Road Remix",
         "artist_slug": "beatles",
@@ -53969,6 +56740,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "21d10053-f07a-4b22-b902-5d285d5939ec",
+        "titulo": "Colección Rock Nacional",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "2012",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "bf9bd3df-1903-4980-815e-7d7c5ba06826",
         "titulo": "Days of Future Passed / To Our Children’s Children’s Children",
         "artist_slug": "mb",
@@ -53990,6 +56773,16 @@
           "Compilation"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "2a7ae984-d3ef-4585-9548-fc79465d02f9",
+        "titulo": "Desde el jardín",
+        "artist_slug": "arco-iris",
+        "primer_lanzamiento": "2012",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -54469,6 +57262,42 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "8b92e82e-d344-4f28-ab43-2c3ebbb10b25",
+        "titulo": "Detrás de las paredes",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2012-05-06",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "821bda36-9da8-48e2-ba5d-71ae4c640ea1",
+        "titulo": "El Ángel vigía",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2012-05-06",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "269aac77-74c0-4cde-9692-f692f0de335f",
+        "titulo": "La Vanguardia es así",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2012-05-06",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -55739,6 +58568,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "ba1e7fb8-6579-412e-8ff4-fe375d54882c",
+        "titulo": "La Biblia En Vivo 40 Aniversario",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "2013-07-01",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "865527c8-696f-4277-8188-bfd9e616b124",
         "titulo": "Decades: 1980s",
         "artist_slug": "tangerine-dream",
@@ -55944,6 +58785,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "3b2ce0e0-ed2c-4277-9245-8ee17e349da8",
+        "titulo": "Obras cumbres",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2013-12-01",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -57496,6 +60349,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "d7be0758-a511-4927-b14d-9e36a745a162",
+        "titulo": "Mágico Y Natural",
+        "artist_slug": "tantor",
+        "primer_lanzamiento": "2015",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "50f7100f-be20-419d-a1d0-2320715e024e",
         "titulo": "Palepolitana",
         "artist_slug": "osanna",
@@ -58380,6 +61243,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "9d765648-73b3-4d33-a708-b51286fdacbf",
+        "titulo": "Los Amigo",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2015-11-27",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -59785,6 +62658,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "a56c18d5-cfd9-4575-baff-50b45c58bcfa",
+        "titulo": "Random",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2017-02-24",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "4ed8f42c-2db3-44ef-b48b-b76393aa60c0",
         "titulo": "Summer Storms & Rocking Rivers",
         "artist_slug": "sh",
@@ -61000,6 +63883,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "82007fac-34bc-4590-abcf-01797857812b",
+        "titulo": "El eco del sol",
+        "artist_slug": "bubu",
+        "primer_lanzamiento": "2018-09-07",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "e7fb04bc-4025-4596-828e-d8331df642cb",
         "titulo": "Original Album Classics",
         "artist_slug": "elo",
@@ -62149,6 +65042,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "00017651-290b-478e-a00c-2a427c4b7631",
+        "titulo": "La Grasa de las Capitales: Edición 40º Aniversario (Remasterizado 2019)",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": "2019-12-20",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "0d06ae5d-587f-45dc-8c47-f134bf508029",
         "titulo": "The Hot Rats Sessions",
         "artist_slug": "frank-zappa",
@@ -62265,6 +65168,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "ac011a03-0eb3-457b-8095-59df12cd40bf",
+        "titulo": "Obras Cumbres",
+        "artist_slug": "pescado-rabioso",
+        "primer_lanzamiento": "2020",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -62402,6 +65317,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "f331d302-6eb6-48e8-9551-a951505c864a",
+        "titulo": "Ya no mires atrás",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2020-01-23",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -62670,6 +65595,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "d3f53a9b-3671-4853-8b13-4f92bd0a4572",
+        "titulo": "Presentación Artaud - 1973 - Teatro Astral",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2020-06-26",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "322c3d25-2859-417f-a289-0981bd2c251e",
         "titulo": "The Mothers 1970",
         "artist_slug": "frank-zappa",
@@ -62886,6 +65823,18 @@
         "titulo": "The Ultimate Collection",
         "artist_slug": "elp",
         "primer_lanzamiento": "2020-09-04",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "a99ea36d-ab20-3c07-bc78-b0d29bdafb81",
+        "titulo": "Obras cumbres",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "2020-09-09",
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Compilation"
@@ -63276,6 +66225,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "938afea0-8b89-44cb-8a3c-1a5a02fef2de",
+        "titulo": "Obras Cumbres",
+        "artist_slug": "spinetta",
+        "primer_lanzamiento": "2021",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "ed200e7d-4ba5-4dd1-b8ca-973c2ca6270a",
         "titulo": "The Michigan Muffin Man (Detroit broadcast 1976)",
         "artist_slug": "frank-zappa",
@@ -63339,6 +66300,18 @@
         "titulo": "Mr Stormy’s Monday Selection, Vol. 10",
         "artist_slug": "kc",
         "primer_lanzamiento": "2021-01-13",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "7ea631fa-3510-4bda-89f2-6f27c4b10464",
+        "titulo": "Obras cumbres",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": "2021-01-21",
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Compilation"
@@ -63492,6 +66465,18 @@
         "mbid": "6b04ee17-1628-460c-a9ce-0d168d940ea1",
         "titulo": "Point of Know Return: Live & Beyond",
         "artist_slug": "kansas",
+        "primer_lanzamiento": "2021-05-28",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "1f37b5e0-7bc4-41a0-9513-4f1fe8d8bfc5",
+        "titulo": "Presentación Artaud - 1973 - Teatro Astral, vol. 2",
+        "artist_slug": "spinetta",
         "primer_lanzamiento": "2021-05-28",
         "tipo_primario": "Album",
         "tipos_secundarios": [
@@ -64759,6 +67744,18 @@
         "titulo": "The Sessions Box Set: United Kingdom & Ireland 2022",
         "artist_slug": "tangerine-dream",
         "primer_lanzamiento": "2022-11-30",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "867e5930-851e-46b2-9263-c6d949aa6b67",
+        "titulo": "Rio no solo es piedra -En vivo Brasil 2003-",
+        "artist_slug": "alas",
+        "primer_lanzamiento": "2022-12-07",
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
@@ -66393,6 +69390,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "a1cc063a-9cb6-4c2d-a5df-7bbbd2b61ac9",
+        "titulo": "La lógica del escorpión",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": "2024-09-11",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "fd79a1d2-cf83-4b3f-a21b-f203932eeab6",
         "titulo": "Blickwinkel (curated by Zappi W. Diermaier)",
         "artist_slug": "faust",
@@ -67261,6 +70268,16 @@
         "analisis_md": null
       },
       {
+        "mbid": "907f426d-11b4-4c14-b57b-53b33891efcf",
+        "titulo": "La Cinta Perdida",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": "2025-08-29",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
+        "analisis_md": null
+      },
+      {
         "mbid": "f49d1e63-dca9-4abc-8030-cc90e381ff39",
         "titulo": "1973‐01‐24: In Concert, Shepherd’s Bush Empire, London, Britain",
         "artist_slug": "kinks",
@@ -67279,6 +70296,19 @@
         "primer_lanzamiento": "2025-10-24",
         "tipo_primario": "Album",
         "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "16ee4974-79d2-4caa-a384-7e786742e32d",
+        "titulo": "Adiós Sui Generis (50 años)",
+        "artist_slug": "sui-generis",
+        "primer_lanzamiento": "2025-11-07",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation",
           "Live"
         ],
         "es_estudio": false,
@@ -67406,6 +70436,16 @@
           "Live"
         ],
         "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "a64ca0fc-0a55-459f-8b8c-b570ccb280be",
+        "titulo": "El Último Cortejo",
+        "artist_slug": "bubu",
+        "primer_lanzamiento": "2026",
+        "tipo_primario": "Album",
+        "tipos_secundarios": [],
+        "es_estudio": true,
         "analisis_md": null
       },
       {
@@ -72476,6 +75516,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "48f2c9ce-f2ca-40ea-b30f-8c97b2d390c2",
+        "titulo": "El 1er álbum más los singles",
+        "artist_slug": "almendra",
+        "primer_lanzamiento": null,
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "ca3be00a-7531-48b6-8b42-ffe1844c35d7",
         "titulo": "Electric Light Orchestra",
         "artist_slug": "elo",
@@ -72543,6 +75595,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "c649fbba-87a1-3ae4-b868-8c6954187a3e",
+        "titulo": "Estamos en la pecera / Ciegos de siglos",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": null,
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -74153,6 +77217,18 @@
         "analisis_md": null
       },
       {
+        "mbid": "aedadbc6-9d79-3829-b145-40cbdef528b2",
+        "titulo": "Obras cumbres",
+        "artist_slug": "vox-dei",
+        "primer_lanzamiento": null,
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "c3b1ec30-f13a-3283-bf4a-38696775ff77",
         "titulo": "Obscured by Clouds: Limited Edition Trance Remix",
         "artist_slug": "pf",
@@ -75073,6 +78149,30 @@
         "analisis_md": null
       },
       {
+        "mbid": "d4342b11-cbd6-412c-84f0-9f2ec249c6fd",
+        "titulo": "Spinetta Jade y Serú Girán",
+        "artist_slug": "spinetta-jade",
+        "primer_lanzamiento": null,
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "d4342b11-cbd6-412c-84f0-9f2ec249c6fd",
+        "titulo": "Spinetta Jade y Serú Girán",
+        "artist_slug": "seru-giran",
+        "primer_lanzamiento": null,
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
         "mbid": "4512ba50-b73b-3980-bd5d-de7b5f723ddc",
         "titulo": "Split Hares",
         "artist_slug": "rush",
@@ -75702,6 +78802,18 @@
         "tipo_primario": "Album",
         "tipos_secundarios": [
           "Live"
+        ],
+        "es_estudio": false,
+        "analisis_md": null
+      },
+      {
+        "mbid": "eb00b8ef-4e3c-49e7-9f7e-c892df01645d",
+        "titulo": "The Collection",
+        "artist_slug": "charly-garcia",
+        "primer_lanzamiento": null,
+        "tipo_primario": "Album",
+        "tipos_secundarios": [
+          "Compilation"
         ],
         "es_estudio": false,
         "analisis_md": null
@@ -90152,6 +93264,1657 @@
         "hasta": null,
         "vigente": true,
         "roles": []
+      },
+      {
+        "person_mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "person_nombre": "Luis Alberto Spinetta",
+        "artist_slug": "almendra",
+        "artist_mbid": "0b144888-0e76-465c-be88-882cf4f4cb5e",
+        "desde": "1968-11-11",
+        "hasta": "1980-12-23",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "f3c75be3-ce8c-4aa9-8a35-a4fdc261ea09",
+        "person_nombre": "Emilio del Guercio",
+        "artist_slug": "almendra",
+        "artist_mbid": "0b144888-0e76-465c-be88-882cf4f4cb5e",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "background vocals",
+          "bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "673ead05-8e75-480f-8890-ff60ffe5b35a",
+        "person_nombre": "Rodolfo García",
+        "artist_slug": "almendra",
+        "artist_mbid": "0b144888-0e76-465c-be88-882cf4f4cb5e",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "background vocals",
+          "membranophone"
+        ]
+      },
+      {
+        "person_mbid": "48aec27d-2491-4862-854c-c9eb615dd011",
+        "person_nombre": "Edelmiro Molinari",
+        "artist_slug": "almendra",
+        "artist_mbid": "0b144888-0e76-465c-be88-882cf4f4cb5e",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "background vocals",
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "c2176298-b34e-4eff-a1b7-9365d9c0bbc0",
+        "person_nombre": "Osvaldo Frascino",
+        "artist_slug": "pescado-rabioso",
+        "artist_mbid": "ff401398-6d43-4e91-8f87-33fe19aafd84",
+        "desde": "1971",
+        "hasta": "1972-10",
+        "vigente": false,
+        "roles": [
+          "bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "5f7ea389-21d1-41d5-a876-248ab7db680a",
+        "person_nombre": "Black Amaya",
+        "artist_slug": "pescado-rabioso",
+        "artist_mbid": "ff401398-6d43-4e91-8f87-33fe19aafd84",
+        "desde": "1971",
+        "hasta": "1973",
+        "vigente": false,
+        "roles": [
+          "membranophone"
+        ]
+      },
+      {
+        "person_mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "person_nombre": "Luis Alberto Spinetta",
+        "artist_slug": "pescado-rabioso",
+        "artist_mbid": "ff401398-6d43-4e91-8f87-33fe19aafd84",
+        "desde": "1971",
+        "hasta": "1973",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "6e46f85e-9d9b-4079-87e6-eab785300ad7",
+        "person_nombre": "David Lebón",
+        "artist_slug": "pescado-rabioso",
+        "artist_mbid": "ff401398-6d43-4e91-8f87-33fe19aafd84",
+        "desde": "1972-10",
+        "hasta": "1973",
+        "vigente": false,
+        "roles": [
+          "bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "0f1586e3-6c11-476a-a27a-cfd8e56ac147",
+        "person_nombre": "Carlos Cutaia",
+        "artist_slug": "pescado-rabioso",
+        "artist_mbid": "ff401398-6d43-4e91-8f87-33fe19aafd84",
+        "desde": "1972",
+        "hasta": "1973",
+        "vigente": false,
+        "roles": [
+          "keyboard"
+        ]
+      },
+      {
+        "person_mbid": "16c6b187-a30f-4484-922f-e189556783c9",
+        "person_nombre": "Leo Sujatovich",
+        "artist_slug": "spinetta-jade",
+        "artist_mbid": "78b8c4c6-d329-4b01-98ed-02b183fe0bf8",
+        "desde": "1981",
+        "hasta": "1984",
+        "vigente": false,
+        "roles": [
+          "keyboard"
+        ]
+      },
+      {
+        "person_mbid": "f52e3d30-58bd-4f0c-b7a4-4758fe92f2a9",
+        "person_nombre": "Héctor “Pomo” Lorenzo",
+        "artist_slug": "spinetta-jade",
+        "artist_mbid": "78b8c4c6-d329-4b01-98ed-02b183fe0bf8",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "1b92cecf-4708-4224-8e52-951b92e70207",
+        "person_nombre": "Diego Rapoport",
+        "artist_slug": "spinetta-jade",
+        "artist_mbid": "78b8c4c6-d329-4b01-98ed-02b183fe0bf8",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "person_nombre": "Luis Alberto Spinetta",
+        "artist_slug": "spinetta-jade",
+        "artist_mbid": "78b8c4c6-d329-4b01-98ed-02b183fe0bf8",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "0b144888-0e76-465c-be88-882cf4f4cb5e",
+        "person_nombre": "Almendra",
+        "artist_slug": "spinetta",
+        "artist_mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "desde": "1968-11-11",
+        "hasta": "1980-12-23",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "ff401398-6d43-4e91-8f87-33fe19aafd84",
+        "person_nombre": "Pescado Rabioso",
+        "artist_slug": "spinetta",
+        "artist_mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "desde": "1971",
+        "hasta": "1973",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "41e360e4-c5e1-405c-96ab-73984e825cbf",
+        "person_nombre": "Invisible",
+        "artist_slug": "spinetta",
+        "artist_mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "78b8c4c6-d329-4b01-98ed-02b183fe0bf8",
+        "person_nombre": "Spinetta Jade",
+        "artist_slug": "spinetta",
+        "artist_mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "04b2e6fd-6967-4ff4-900c-d3b4254d8f45",
+        "person_nombre": "Spinetta y los Socios del Desierto",
+        "artist_slug": "spinetta",
+        "artist_mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "guitar",
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "person_nombre": "Luis Alberto Spinetta",
+        "artist_slug": "socios-del-desierto",
+        "artist_mbid": "04b2e6fd-6967-4ff4-900c-d3b4254d8f45",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "guitar",
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "2130fccc-e699-46b4-a44f-33cfd373a64e",
+        "person_nombre": "Marcelo Torres",
+        "artist_slug": "socios-del-desierto",
+        "artist_mbid": "04b2e6fd-6967-4ff4-900c-d3b4254d8f45",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "background vocals",
+          "bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "82e2010c-74f7-4753-908e-8d8d8ee71f49",
+        "person_nombre": "Daniel Wirzt",
+        "artist_slug": "socios-del-desierto",
+        "artist_mbid": "04b2e6fd-6967-4ff4-900c-d3b4254d8f45",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "membranophone"
+        ]
+      },
+      {
+        "person_mbid": "ab7c78be-a13a-46b9-bdaf-34176c6c1073",
+        "person_nombre": "Alejandro Correa",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1968",
+        "vigente": false,
+        "roles": [
+          "bass guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "58e337fa-32a5-4e38-a764-f87af5c323a9",
+        "person_nombre": "Juan Bellia",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1971",
+        "vigente": false,
+        "roles": [
+          "electric guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "8c811f27-beb1-43c2-bf47-374129be73fb",
+        "person_nombre": "Rolando Fortich",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1971",
+        "vigente": false,
+        "roles": [
+          "electric bass guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "c21cb356-303a-4954-9efb-7a3ed0c337d8",
+        "person_nombre": "Carlos Piégari",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1971",
+        "vigente": false,
+        "roles": [
+          "background vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "c21cb356-303a-4954-9efb-7a3ed0c337d8",
+        "person_nombre": "Carlos Piégari",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1971",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "83753c3d-6acd-4f47-b5bf-64050cbb3f1f",
+        "person_nombre": "Alberto Rodríguez",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1971",
+        "vigente": false,
+        "roles": [
+          "drums (drum set)",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "original",
+          "piano"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "keyboard",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "person_nombre": "Nito Mestre",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "person_nombre": "Nito Mestre",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "flute",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "person_nombre": "Nito Mestre",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "ab7c78be-a13a-46b9-bdaf-34176c6c1073",
+        "person_nombre": "Alejandro Correa",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1972",
+        "hasta": "1973",
+        "vigente": false,
+        "roles": [
+          "electric bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "a5271eeb-25b2-41fb-85ef-f4f2d705a6fa",
+        "person_nombre": "Francisco Prati",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1972",
+        "hasta": "1974",
+        "vigente": false,
+        "roles": [
+          "drums (drum set)"
+        ]
+      },
+      {
+        "person_mbid": "a9a00dae-06f5-4574-af09-11b1a873cd04",
+        "person_nombre": "Rinaldo Rafanelli",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1973",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "a9a00dae-06f5-4574-af09-11b1a873cd04",
+        "person_nombre": "Rinaldo Rafanelli",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1973",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "lead vocals"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "piano"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "keyboard"
+        ]
+      },
+      {
+        "person_mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "person_nombre": "Nito Mestre",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "lead vocals"
+        ]
+      },
+      {
+        "person_mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "person_nombre": "Nito Mestre",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "flute"
+        ]
+      },
+      {
+        "person_mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "person_nombre": "Nito Mestre",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "f1fb5554-abbb-4e30-9b16-27c652fd001d",
+        "person_nombre": "Mariela Chintalo",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "background vocals"
+        ]
+      },
+      {
+        "person_mbid": "f1fb5554-abbb-4e30-9b16-27c652fd001d",
+        "person_nombre": "Mariela Chintalo",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "saxophone"
+        ]
+      },
+      {
+        "person_mbid": "ff7ee6a8-e9e1-4e6e-a212-0981bf6cb52f",
+        "person_nombre": "Érika Di Salvo",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "violin"
+        ]
+      },
+      {
+        "person_mbid": "eff96114-66c9-4361-8b1c-7c6f980c22cf",
+        "person_nombre": "Ulises Di Salvo",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "cello"
+        ]
+      },
+      {
+        "person_mbid": "9952d120-7d33-459c-b4fd-51fc58d2f6f1",
+        "person_nombre": "Diego Dubarry",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "keyboard"
+        ]
+      },
+      {
+        "person_mbid": "9952d120-7d33-459c-b4fd-51fc58d2f6f1",
+        "person_nombre": "Diego Dubarry",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "electronic drum set"
+        ]
+      },
+      {
+        "person_mbid": "28cc4ba0-2835-43e0-8d72-0cce8e25f2de",
+        "person_nombre": "María Gabriela Epumer",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "background vocals"
+        ]
+      },
+      {
+        "person_mbid": "28cc4ba0-2835-43e0-8d72-0cce8e25f2de",
+        "person_nombre": "María Gabriela Epumer",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "electric guitar"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "lead vocals"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "piano"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "keyboard"
+        ]
+      },
+      {
+        "person_mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "person_nombre": "Nito Mestre",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "lead vocals"
+        ]
+      },
+      {
+        "person_mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "person_nombre": "Nito Mestre",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "flute"
+        ]
+      },
+      {
+        "person_mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "person_nombre": "Nito Mestre",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "dd2d7800-c882-466b-9bea-d2a5d42603c8",
+        "person_nombre": "Gabriel Said",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "percussion"
+        ]
+      },
+      {
+        "person_mbid": "855bd870-ffaf-4a60-809c-b63a8b0b34a0",
+        "person_nombre": "Mario Serra",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "drums (drum set)"
+        ]
+      },
+      {
+        "person_mbid": "72354a2f-33f0-4929-9897-8cffce71ca98",
+        "person_nombre": "Juan Rodríguez",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": null,
+        "hasta": "1974-09-05",
+        "vigente": false,
+        "roles": [
+          "membranophone"
+        ]
+      },
+      {
+        "person_mbid": "72354a2f-33f0-4929-9897-8cffce71ca98",
+        "person_nombre": "Juan Rodríguez",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": null,
+        "hasta": "1974-09-05",
+        "vigente": false,
+        "roles": [
+          "drums (drum set)"
+        ]
+      },
+      {
+        "person_mbid": "56d9c4c3-91d0-46a4-9f41-6799c2d60521",
+        "person_nombre": "Daniel Bernareggi",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": null,
+        "hasta": null,
+        "vigente": false,
+        "roles": [
+          "bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "5859eb7f-46d5-41a1-8d9e-2f440ed68365",
+        "person_nombre": "Diego Fraschetti",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": null,
+        "hasta": null,
+        "vigente": false,
+        "roles": [
+          "drums (drum set)"
+        ]
+      },
+      {
+        "person_mbid": "106ad463-0cbe-41e4-b9b4-d839f02abd87",
+        "person_nombre": "Carlos L'areu",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": null,
+        "hasta": null,
+        "vigente": false,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "b73155db-eafa-4f20-aed7-22678049ab31",
+        "person_nombre": "Diego Monteverde",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": null,
+        "hasta": null,
+        "vigente": false,
+        "roles": [
+          "mandolin"
+        ]
+      },
+      {
+        "person_mbid": "b73155db-eafa-4f20-aed7-22678049ab31",
+        "person_nombre": "Diego Monteverde",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": null,
+        "hasta": null,
+        "vigente": false,
+        "roles": [
+          "bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "96f3a381-a1fd-4183-9a4e-03c584edd8f2",
+        "person_nombre": "Hugo Alfredo Negri",
+        "artist_slug": "sui-generis",
+        "artist_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "desde": null,
+        "hasta": null,
+        "vigente": false,
+        "roles": [
+          "bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "21dcc3a2-9fc8-41d2-8736-cdcbde270f4c",
+        "person_nombre": "Pedro Aznar",
+        "artist_slug": "seru-giran",
+        "artist_mbid": "f1cd52dc-49d1-4df6-93ea-3587d8fba30b",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "seru-giran",
+        "artist_mbid": "f1cd52dc-49d1-4df6-93ea-3587d8fba30b",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "6e46f85e-9d9b-4079-87e6-eab785300ad7",
+        "person_nombre": "David Lebón",
+        "artist_slug": "seru-giran",
+        "artist_mbid": "f1cd52dc-49d1-4df6-93ea-3587d8fba30b",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "8d9e7192-63f2-4d6f-b003-655bdd142c40",
+        "person_nombre": "Oscar Moro",
+        "artist_slug": "seru-giran",
+        "artist_mbid": "f1cd52dc-49d1-4df6-93ea-3587d8fba30b",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "24611dd8-424b-48fb-8121-e6b0e69dba9e",
+        "person_nombre": "To Walk Spanish",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1967",
+        "hasta": "1968",
+        "vigente": false,
+        "roles": [
+          "electric guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "24611dd8-424b-48fb-8121-e6b0e69dba9e",
+        "person_nombre": "To Walk Spanish",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1967",
+        "hasta": "1968",
+        "vigente": false,
+        "roles": [
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "24611dd8-424b-48fb-8121-e6b0e69dba9e",
+        "person_nombre": "To Walk Spanish",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1967",
+        "hasta": "1968",
+        "vigente": false,
+        "roles": [
+          "original",
+          "piano"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "original",
+          "piano"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1968",
+        "hasta": "1975-09-05",
+        "vigente": false,
+        "roles": [
+          "keyboard",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "25d804a4-4990-43af-97ea-cd17456183d2",
+        "person_nombre": "PorSuiGieco",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1974",
+        "hasta": "1976",
+        "vigente": false,
+        "roles": []
+      },
+      {
+        "person_mbid": "e6d79041-5b54-46fa-8655-22cb3e697ada",
+        "person_nombre": "Billy Bond and The Jets",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1978",
+        "hasta": "1978",
+        "vigente": false,
+        "roles": [
+          "keyboard",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "lead vocals"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "piano"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "1981",
+        "hasta": "1981",
+        "vigente": false,
+        "roles": [
+          "keyboard"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "lead vocals"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "piano"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+        "person_nombre": "Sui Generis",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": "2000",
+        "hasta": "2001",
+        "vigente": false,
+        "roles": [
+          "keyboard"
+        ]
+      },
+      {
+        "person_mbid": "e40edab2-bf76-4675-b0d9-a8350b4d2564",
+        "person_nombre": "La Máquina de Hacer Pájaros",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "f1cd52dc-49d1-4df6-93ea-3587d8fba30b",
+        "person_nombre": "Serú Girán",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "481d9d34-ab3d-4d7d-ad45-92fe418c0293",
+        "person_nombre": "Ray Milland Band",
+        "artist_slug": "charly-garcia",
+        "artist_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+        "person_nombre": "Charly García",
+        "artist_slug": "porsuigieco",
+        "artist_mbid": "25d804a4-4990-43af-97ea-cd17456183d2",
+        "desde": "1974",
+        "hasta": "1976",
+        "vigente": false,
+        "roles": []
+      },
+      {
+        "person_mbid": "dbe1d6c8-1319-4369-924a-65bb1f9fced5",
+        "person_nombre": "León Gieco",
+        "artist_slug": "porsuigieco",
+        "artist_mbid": "25d804a4-4990-43af-97ea-cd17456183d2",
+        "desde": "1974",
+        "hasta": "1976",
+        "vigente": false,
+        "roles": []
+      },
+      {
+        "person_mbid": "82d496dc-d89e-4227-8fc4-31d0ed3df6ff",
+        "person_nombre": "Nito Mestre",
+        "artist_slug": "porsuigieco",
+        "artist_mbid": "25d804a4-4990-43af-97ea-cd17456183d2",
+        "desde": "1974",
+        "hasta": "1976",
+        "vigente": false,
+        "roles": []
+      },
+      {
+        "person_mbid": "bc1d103a-7f39-407b-a588-e1a0b581bb1a",
+        "person_nombre": "Raúl Porchetto",
+        "artist_slug": "porsuigieco",
+        "artist_mbid": "25d804a4-4990-43af-97ea-cd17456183d2",
+        "desde": "1974",
+        "hasta": "1976",
+        "vigente": false,
+        "roles": []
+      },
+      {
+        "person_mbid": "4e301a12-f934-49eb-a950-99b552468d9f",
+        "person_nombre": "María Rosa Yorio",
+        "artist_slug": "porsuigieco",
+        "artist_mbid": "25d804a4-4990-43af-97ea-cd17456183d2",
+        "desde": "1974",
+        "hasta": "1976",
+        "vigente": false,
+        "roles": []
+      },
+      {
+        "person_mbid": "f3c75be3-ce8c-4aa9-8a35-a4fdc261ea09",
+        "person_nombre": "Emilio del Guercio",
+        "artist_slug": "aquelarre",
+        "artist_mbid": "ca298081-8492-4591-9f65-7aee865ce237",
+        "desde": "1971",
+        "hasta": "1977",
+        "vigente": false,
+        "roles": [
+          "bass guitar",
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "673ead05-8e75-480f-8890-ff60ffe5b35a",
+        "person_nombre": "Rodolfo García",
+        "artist_slug": "aquelarre",
+        "artist_mbid": "ca298081-8492-4591-9f65-7aee865ce237",
+        "desde": "1971",
+        "hasta": "1977",
+        "vigente": false,
+        "roles": [
+          "membranophone",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "8a1f33e1-4105-4d66-8d92-e3d0465aa60d",
+        "person_nombre": "Hugo González Neira",
+        "artist_slug": "aquelarre",
+        "artist_mbid": "ca298081-8492-4591-9f65-7aee865ce237",
+        "desde": "1971",
+        "hasta": "1977",
+        "vigente": false,
+        "roles": [
+          "keyboard",
+          "lead vocals"
+        ]
+      },
+      {
+        "person_mbid": "025396fd-c02c-49f9-bc32-2abc53a5b7d1",
+        "person_nombre": "Héctor Starc",
+        "artist_slug": "aquelarre",
+        "artist_mbid": "ca298081-8492-4591-9f65-7aee865ce237",
+        "desde": "1971",
+        "hasta": "1977",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "1b92cecf-4708-4224-8e52-951b92e70207",
+        "person_nombre": "Diego Rapoport",
+        "artist_slug": "arco-iris",
+        "artist_mbid": "ab30a356-59f4-435e-bc1c-2d2a1f95b8c5",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "e3f5d45f-fdae-4310-ab61-604311c4d391",
+        "person_nombre": "Ara Tokatlián",
+        "artist_slug": "arco-iris",
+        "artist_mbid": "ab30a356-59f4-435e-bc1c-2d2a1f95b8c5",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "3abc3eb1-7318-41d2-a52b-cbe14a14d8a0",
+        "person_nombre": "Gustavo Santaolalla",
+        "artist_slug": "arco-iris",
+        "artist_mbid": "ab30a356-59f4-435e-bc1c-2d2a1f95b8c5",
+        "desde": null,
+        "hasta": null,
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "21dcc3a2-9fc8-41d2-8736-cdcbde270f4c",
+        "person_nombre": "Pedro Aznar",
+        "artist_slug": "alas",
+        "artist_mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "21dcc3a2-9fc8-41d2-8736-cdcbde270f4c",
+        "person_nombre": "Pedro Aznar",
+        "artist_slug": "alas",
+        "artist_mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "c1521aa6-f875-4397-bbc3-322ab8ac4484",
+        "person_nombre": "Gustavo Moretto",
+        "artist_slug": "alas",
+        "artist_mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "c1521aa6-f875-4397-bbc3-322ab8ac4484",
+        "person_nombre": "Gustavo Moretto",
+        "artist_slug": "alas",
+        "artist_mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "original",
+          "wind instruments"
+        ]
+      },
+      {
+        "person_mbid": "c1521aa6-f875-4397-bbc3-322ab8ac4484",
+        "person_nombre": "Gustavo Moretto",
+        "artist_slug": "alas",
+        "artist_mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "keyboard",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "c2802b5a-9cca-462d-bfd3-b56c8db3d759",
+        "person_nombre": "Carlos Riganti",
+        "artist_slug": "alas",
+        "artist_mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "original",
+          "percussion"
+        ]
+      },
+      {
+        "person_mbid": "c2802b5a-9cca-462d-bfd3-b56c8db3d759",
+        "person_nombre": "Carlos Riganti",
+        "artist_slug": "alas",
+        "artist_mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "drums (drum set)",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "36931875-f38b-4ff8-a098-772d7cf64696",
+        "person_nombre": "Alex Zuker",
+        "artist_slug": "alas",
+        "artist_mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "36931875-f38b-4ff8-a098-772d7cf64696",
+        "person_nombre": "Alex Zuker",
+        "artist_slug": "alas",
+        "artist_mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "bass guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "6e46f85e-9d9b-4079-87e6-eab785300ad7",
+        "person_nombre": "David Lebón",
+        "artist_slug": "color-humano",
+        "artist_mbid": "6a8adb55-47e5-465e-b9fc-394879fb7bf3",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "48aec27d-2491-4862-854c-c9eb615dd011",
+        "person_nombre": "Edelmiro Molinari",
+        "artist_slug": "color-humano",
+        "artist_mbid": "6a8adb55-47e5-465e-b9fc-394879fb7bf3",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "8d9e7192-63f2-4d6f-b003-655bdd142c40",
+        "person_nombre": "Oscar Moro",
+        "artist_slug": "color-humano",
+        "artist_mbid": "6a8adb55-47e5-465e-b9fc-394879fb7bf3",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "a9a00dae-06f5-4574-af09-11b1a873cd04",
+        "person_nombre": "Rinaldo Rafanelli",
+        "artist_slug": "color-humano",
+        "artist_mbid": "6a8adb55-47e5-465e-b9fc-394879fb7bf3",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": []
+      },
+      {
+        "person_mbid": "5e85c70d-fec5-48ce-9397-1a2d2a49bdf0",
+        "person_nombre": "Rubén Basoalto",
+        "artist_slug": "vox-dei",
+        "artist_mbid": "e4612ab8-6271-43ad-8f60-6d88eeee19db",
+        "desde": "1967",
+        "hasta": "2010",
+        "vigente": false,
+        "roles": [
+          "background vocals",
+          "membranophone",
+          "original",
+          "percussion"
+        ]
+      },
+      {
+        "person_mbid": "429c847d-616e-41a7-b6b0-4b57aecedd0a",
+        "person_nombre": "Juan Carlos “Yodi” Godoy",
+        "artist_slug": "vox-dei",
+        "artist_mbid": "e4612ab8-6271-43ad-8f60-6d88eeee19db",
+        "desde": "1967",
+        "hasta": "2013",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "5bedc641-6490-4029-93de-e29b85dc3a98",
+        "person_nombre": "Ricardo Soulé",
+        "artist_slug": "vox-dei",
+        "artist_mbid": "e4612ab8-6271-43ad-8f60-6d88eeee19db",
+        "desde": "1967",
+        "hasta": "2013",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "harmonica",
+          "lead vocals",
+          "original",
+          "piano",
+          "violin"
+        ]
+      },
+      {
+        "person_mbid": "223824bc-e7fc-4083-9be5-005783877b0e",
+        "person_nombre": "Willy Quiroga",
+        "artist_slug": "vox-dei",
+        "artist_mbid": "e4612ab8-6271-43ad-8f60-6d88eeee19db",
+        "desde": "1967",
+        "hasta": "2017-06",
+        "vigente": false,
+        "roles": [
+          "bass guitar",
+          "guitar",
+          "keyboard",
+          "lead vocals",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "34b896c8-f1ea-41eb-a659-95e2404dd3b2",
+        "person_nombre": "Nacho Smilari",
+        "artist_slug": "vox-dei",
+        "artist_mbid": "e4612ab8-6271-43ad-8f60-6d88eeee19db",
+        "desde": "1971",
+        "hasta": "1971",
+        "vigente": false,
+        "roles": [
+          "electric guitar"
+        ]
+      },
+      {
+        "person_mbid": "797f1077-b4ad-4d65-9987-0c6440e4e7e0",
+        "person_nombre": "Carlos Michelini",
+        "artist_slug": "vox-dei",
+        "artist_mbid": "e4612ab8-6271-43ad-8f60-6d88eeee19db",
+        "desde": "1974",
+        "hasta": "1975",
+        "vigente": false,
+        "roles": [
+          "electric guitar",
+          "lead vocals"
+        ]
+      },
+      {
+        "person_mbid": "2fc0617e-1028-497d-9c37-ff65d8264d2f",
+        "person_nombre": "Alejandro De Michele",
+        "artist_slug": "pastoral",
+        "artist_mbid": "e2d636de-6c43-4f26-bfcb-cadb3f69d9c9",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "lead vocals"
+        ]
+      },
+      {
+        "person_mbid": "2fc0617e-1028-497d-9c37-ff65d8264d2f",
+        "person_nombre": "Alejandro De Michele",
+        "artist_slug": "pastoral",
+        "artist_mbid": "e2d636de-6c43-4f26-bfcb-cadb3f69d9c9",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "528b6fe7-7888-46c4-bf73-435e311c3c84",
+        "person_nombre": "Miguel Ángel Erausquin",
+        "artist_slug": "pastoral",
+        "artist_mbid": "e2d636de-6c43-4f26-bfcb-cadb3f69d9c9",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "lead vocals"
+        ]
+      },
+      {
+        "person_mbid": "528b6fe7-7888-46c4-bf73-435e311c3c84",
+        "person_nombre": "Miguel Ángel Erausquin",
+        "artist_slug": "pastoral",
+        "artist_mbid": "e2d636de-6c43-4f26-bfcb-cadb3f69d9c9",
+        "desde": null,
+        "hasta": null,
+        "vigente": true,
+        "roles": [
+          "guitar"
+        ]
+      },
+      {
+        "person_mbid": "673ead05-8e75-480f-8890-ff60ffe5b35a",
+        "person_nombre": "Rodolfo García",
+        "artist_slug": "tantor",
+        "artist_mbid": "0149b34a-36da-45f8-99c6-e3668f80c781",
+        "desde": "1977",
+        "hasta": "1983",
+        "vigente": false,
+        "roles": [
+          "drums (drum set)",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "025396fd-c02c-49f9-bc32-2abc53a5b7d1",
+        "person_nombre": "Héctor Starc",
+        "artist_slug": "tantor",
+        "artist_mbid": "0149b34a-36da-45f8-99c6-e3668f80c781",
+        "desde": "1977",
+        "hasta": "1983",
+        "vigente": false,
+        "roles": [
+          "guitar",
+          "original"
+        ]
+      },
+      {
+        "person_mbid": "9be4b04e-96f0-41ee-8553-924f751c1aaa",
+        "person_nombre": "Machi Rufino",
+        "artist_slug": "tantor",
+        "artist_mbid": "0149b34a-36da-45f8-99c6-e3668f80c781",
+        "desde": "1978",
+        "hasta": "1980",
+        "vigente": false,
+        "roles": [
+          "bass guitar"
+        ]
+      },
+      {
+        "person_mbid": "16c6b187-a30f-4484-922f-e189556783c9",
+        "person_nombre": "Leo Sujatovich",
+        "artist_slug": "tantor",
+        "artist_mbid": "0149b34a-36da-45f8-99c6-e3668f80c781",
+        "desde": "1978",
+        "hasta": "1980",
+        "vigente": false,
+        "roles": [
+          "keyboard"
+        ]
+      },
+      {
+        "person_mbid": "800b68a2-7cb8-424f-af00-179e32d3dce0",
+        "person_nombre": "Lito Vitale",
+        "artist_slug": "tantor",
+        "artist_mbid": "0149b34a-36da-45f8-99c6-e3668f80c781",
+        "desde": "1978",
+        "hasta": "1980",
+        "vigente": false,
+        "roles": [
+          "keyboard"
+        ]
+      },
+      {
+        "person_mbid": "72f58d48-481c-4c35-8029-9e4c4749710d",
+        "person_nombre": "Babú Cerviño",
+        "artist_slug": "tantor",
+        "artist_mbid": "0149b34a-36da-45f8-99c6-e3668f80c781",
+        "desde": "1981",
+        "hasta": "1983",
+        "vigente": false,
+        "roles": [
+          "keyboard"
+        ]
+      },
+      {
+        "person_mbid": "2130fccc-e699-46b4-a44f-33cfd373a64e",
+        "person_nombre": "Marcelo Torres",
+        "artist_slug": "tantor",
+        "artist_mbid": "0149b34a-36da-45f8-99c6-e3668f80c781",
+        "desde": "1981",
+        "hasta": "1983",
+        "vigente": false,
+        "roles": [
+          "bass guitar"
+        ]
       }
     ]
   }

@@ -1,0 +1,160 @@
+{
+  "aliases": [],
+  "begin-area": null,
+  "disambiguation": "",
+  "area": {
+    "disambiguation": "",
+    "name": "Argentina",
+    "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+    "type": null,
+    "sort-name": "Argentina",
+    "iso-3166-1-codes": [
+      "AR"
+    ],
+    "type-id": null
+  },
+  "isnis": [],
+  "life-span": {
+    "end": "1999",
+    "ended": true,
+    "begin": "1997"
+  },
+  "id": "04b2e6fd-6967-4ff4-900c-d3b4254d8f45",
+  "relations": [
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "lead vocals",
+        "original"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "target-type": "artist",
+      "type": "member of band",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "artist": {
+        "disambiguation": "“El Flaco”",
+        "name": "Luis Alberto Spinetta",
+        "country": "AR",
+        "id": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+        "type": "Person",
+        "sort-name": "Spinetta, Luis Alberto",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "source-credit": "",
+      "target-credit": "",
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "begin": null,
+      "attribute-credits": {},
+      "end": null,
+      "attributes": [
+        "background vocals",
+        "bass guitar"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "disambiguation": "",
+        "name": "Marcelo Torres",
+        "country": null,
+        "id": "2130fccc-e699-46b4-a44f-33cfd373a64e",
+        "sort-name": "Torres, Marcelo",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Wirzt, Daniel",
+        "id": "82e2010c-74f7-4753-908e-8d8d8ee71f49",
+        "country": "AR",
+        "name": "Daniel Wirzt",
+        "disambiguation": ""
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [
+        "membranophone"
+      ],
+      "attribute-credits": {},
+      "end": null,
+      "begin": null,
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "5640291a-634a-40a1-b876-6b58fbe56aff",
+        "resource": "https://www.discogs.com/artist/2750404"
+      },
+      "target-credit": "",
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "type": "discogs",
+      "attributes": [],
+      "end": null,
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q6133255",
+        "id": "23d51f55-3707-413c-b409-971459391ff1"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "end": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "type": "wikidata"
+    }
+  ],
+  "name": "Spinetta y los Socios del Desierto",
+  "country": "AR",
+  "gender-id": null,
+  "ipis": [],
+  "gender": null,
+  "end-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Spinetta y los Socios del Desierto",
+  "type": "Group"
+}

@@ -1,0 +1,53 @@
+{
+  "release-group-count": 4,
+  "release-groups": [
+    {
+      "secondary-types": [],
+      "first-release-date": "1997-04-30",
+      "title": "Spinetta y los Socios del Desierto",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "1b365ab6-66e2-3312-9c58-51d8eafe394a",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "title": "San Cristóforo",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "first-release-date": "1999",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "35b99de8-5a40-3756-911a-7ad3a6c045f1"
+    },
+    {
+      "title": "Los ojos",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "first-release-date": "1999",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "abb0a204-0707-3a6d-9bde-ad61c8b2ce65"
+    },
+    {
+      "first-release-date": "1995",
+      "secondary-types": [
+        "Live"
+      ],
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "1995-08-10: Bariloche, Río Negro, Argentina",
+      "id": "f406cc5d-df1b-4ee6-8dab-1682300e9dd9",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": ""
+    }
+  ]
+}

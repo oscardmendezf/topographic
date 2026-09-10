@@ -1,0 +1,91 @@
+{
+  "release-group-count": 7,
+  "release-groups": [
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1976-09-10",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "1287922f-164b-4fbe-a36e-6274e80cbaf8",
+      "secondary-types": [
+        "Live"
+      ],
+      "title": "1976-09-10: Teatro Coliseo, Buenos Aires, Argentina"
+    },
+    {
+      "title": "Archivos EMI",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2001",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "13dd2c67-af0f-4a1f-9b3b-3d15edbecf05",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ]
+    },
+    {
+      "title": "Mímame bandoneón",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2005-01-01",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "421388fa-504a-4aae-9264-d94f192ed6e5"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "4f3d92f9-7284-4a72-bdd2-69d4865a1f0f",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2004",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Grandes exitos"
+    },
+    {
+      "first-release-date": "2022-12-07",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "id": "867e5930-851e-46b2-9263-c6d949aa6b67",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "title": "Rio no solo es piedra -En vivo Brasil 2003-"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1976",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "id": "e3bbbf13-c148-4e91-87a3-42bd5aa433ca",
+      "secondary-types": [],
+      "title": "Alas"
+    },
+    {
+      "title": "Pinta tu aldea",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1983",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "id": "e6a6f1f2-dea7-4da9-9ccf-4a03be069a03"
+    }
+  ]
+}

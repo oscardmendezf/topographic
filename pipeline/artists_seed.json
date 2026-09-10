@@ -1,78 +1,739 @@
 {
   "_nota": "Universo Fase 1 = el del prototipo mapa-del-prog.html. El prototipo cuenta '26 artistas' porque agrupa a los conceptuales no-prog (Beatles, Pretty Things, Kinks, Small Faces) como una sola entrada; como entidades de MusicBrainz son 29. Los slugs replican los códigos data-b del HTML; los no-prog llevan slug propio y grupo 'npr'. Los hints (type/country/disambiguation_hint) solo guían la resolución de MBID: el dato duro sale de la API.",
   "artistas": [
-    { "slug": "beatles", "name": "The Beatles", "grupo": "npr", "type": "Group", "country": "GB" },
-    { "slug": "pretty-things", "name": "The Pretty Things", "grupo": "npr", "type": "Group", "country": "GB" },
-    { "slug": "kinks", "name": "The Kinks", "grupo": "npr", "type": "Group", "country": "GB" },
-    { "slug": "small-faces", "name": "Small Faces", "grupo": "npr", "type": "Group", "country": "GB" },
-    { "slug": "who", "name": "The Who", "grupo": "who", "type": "Group", "country": "GB" },
-    { "slug": "mb", "name": "The Moody Blues", "grupo": "mb", "type": "Group", "country": "GB" },
-    { "slug": "pf", "name": "Pink Floyd", "grupo": "pf", "type": "Group", "country": "GB" },
-    { "slug": "kc", "name": "King Crimson", "grupo": "kc", "type": "Group", "country": "GB" },
-    { "slug": "gen", "name": "Genesis", "grupo": "gen", "type": "Group", "country": "GB", "disambiguation_hint": "english rock band" },
-    { "slug": "yes", "name": "Yes", "grupo": "yes", "type": "Group", "country": "GB", "disambiguation_hint": "prog" },
-    { "slug": "elp", "name": "Emerson, Lake & Palmer", "grupo": "elp", "type": "Group", "country": "GB" },
-    { "slug": "jt", "name": "Jethro Tull", "grupo": "jt", "type": "Group", "country": "GB" },
-    { "slug": "vdgg", "name": "Van der Graaf Generator", "grupo": "vdgg", "type": "Group", "country": "GB" },
-    { "slug": "gg", "name": "Gentle Giant", "grupo": "gg", "type": "Group", "country": "GB" },
-    { "slug": "car", "name": "Caravan", "grupo": "car", "type": "Group", "country": "GB", "disambiguation_hint": "canterbury" },
-    { "slug": "sm", "name": "Soft Machine", "grupo": "sm", "type": "Group", "country": "GB" },
-    { "slug": "cam", "name": "Camel", "grupo": "cam", "type": "Group", "country": "GB", "disambiguation_hint": "prog" },
-    { "slug": "mo", "name": "Mike Oldfield", "grupo": "mo", "type": "Person", "country": "GB" },
-    { "slug": "app", "name": "The Alan Parsons Project", "grupo": "app", "type": "Group", "country": "GB" },
-    { "slug": "ap", "name": "Anthony Phillips", "grupo": "ap", "type": "Person", "country": "GB", "disambiguation_hint": "genesis" },
-    { "slug": "rush", "name": "Rush", "grupo": "rush", "type": "Group", "country": "CA", "disambiguation_hint": "canadian" },
-    { "slug": "sup", "name": "Supertramp", "grupo": "sup", "type": "Group", "country": "GB" },
-    { "slug": "elo", "name": "Electric Light Orchestra", "grupo": "elo", "type": "Group", "country": "GB" },
-    { "slug": "foc", "name": "Focus", "grupo": "foc", "type": "Group", "country": "NL", "disambiguation_hint": "dutch" },
-    { "slug": "ren", "name": "Renaissance", "grupo": "ren", "type": "Group", "country": "GB", "disambiguation_hint": "prog" },
-    { "slug": "str", "name": "Strawbs", "grupo": "str", "type": "Group", "country": "GB" },
-    { "slug": "ca", "name": "Curved Air", "grupo": "ca", "type": "Group", "country": "GB" },
-    { "slug": "bjh", "name": "Barclay James Harvest", "grupo": "bjh", "type": "Group", "country": "GB" },
-    { "slug": "sh", "name": "Steve Hackett", "grupo": "sh", "type": "Person", "country": "GB", "disambiguation_hint": "genesis" },
-
-    { "slug": "robert-wyatt", "name": "Robert Wyatt", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Person", "country": "GB", "disambiguation_hint": "soft machine" },
-    { "slug": "matching-mole", "name": "Matching Mole", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Group", "country": "GB" },
-    { "slug": "hatfield", "name": "Hatfield and the North", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Group", "country": "GB" },
-    { "slug": "national-health", "name": "National Health", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Group", "country": "GB" },
-    { "slug": "gong", "name": "Gong", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Group", "disambiguation_hint": "psychedelic" },
-    { "slug": "egg", "name": "Egg", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Group", "country": "GB", "disambiguation_hint": "canterbury" },
-    { "slug": "steve-hillage", "name": "Steve Hillage", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Person", "country": "GB" },
-    { "slug": "kevin-ayers", "name": "Kevin Ayers", "grupo": "canterbury", "fase": 3, "escena": "canterbury", "type": "Person", "country": "GB" },
-
-    { "slug": "pfm", "name": "Premiata Forneria Marconi", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
-    { "slug": "banco", "name": "Banco del Mutuo Soccorso", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
-    { "slug": "le-orme", "name": "Le Orme", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
-    { "slug": "area", "name": "Area", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT", "disambiguation_hint": "ital" },
-    { "slug": "museo-rosenbach", "name": "Museo Rosenbach", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
-    { "slug": "il-balletto-di-bronzo", "name": "Il Balletto di Bronzo", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
-    { "slug": "osanna", "name": "Osanna", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
-    { "slug": "new-trolls", "name": "New Trolls", "grupo": "italia", "fase": 3, "escena": "italia", "type": "Group", "country": "IT" },
-
-    { "slug": "can", "name": "Can", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE", "disambiguation_hint": "krautrock" },
-    { "slug": "tangerine-dream", "name": "Tangerine Dream", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE" },
-    { "slug": "klaus-schulze", "name": "Klaus Schulze", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Person", "country": "DE" },
-    { "slug": "faust", "name": "Faust", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE", "disambiguation_hint": "krautrock" },
-    { "slug": "neu", "name": "Neu!", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE" },
-    { "slug": "amon-duul-ii", "name": "Amon Düül II", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE" },
-    { "slug": "kraftwerk", "name": "Kraftwerk", "grupo": "alemania", "fase": 3, "escena": "alemania", "type": "Group", "country": "DE" },
-
-    { "slug": "kansas", "name": "Kansas", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US", "disambiguation_hint": "progressive" },
-    { "slug": "styx", "name": "Styx", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US" },
-    { "slug": "utopia", "name": "Utopia", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US", "disambiguation_hint": "rundgren" },
-    { "slug": "happy-the-man", "name": "Happy the Man", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US" },
-    { "slug": "dixie-dregs", "name": "Dixie Dregs", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US" },
-    { "slug": "frank-zappa", "name": "Frank Zappa", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Person", "country": "US" },
-    { "slug": "mothers-of-invention", "name": "The Mothers of Invention", "grupo": "eeuu", "fase": 6, "escena": "eeuu", "type": "Group", "country": "US" },
-
-    { "slug": "crucis", "name": "Crucis", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "AR" },
-    { "slug": "invisible", "name": "Invisible", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "AR", "disambiguation_hint": "spinetta" },
-    { "slug": "la-maquina-de-hacer-pajaros", "name": "La Máquina de Hacer Pájaros", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "AR" },
-    { "slug": "mia", "name": "MIA", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "AR", "disambiguation_hint": "argentin" },
-    { "slug": "espiritu", "name": "Espíritu", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "AR" },
-    { "slug": "los-jaivas", "name": "Los Jaivas", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "CL" },
-    { "slug": "congreso", "name": "Congreso", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "CL" },
-    { "slug": "os-mutantes", "name": "Os Mutantes", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "BR" },
-    { "slug": "o-terco", "name": "O Terço", "grupo": "latinoamerica", "fase": 6, "escena": "latinoamerica", "type": "Group", "country": "BR" }
+    {
+      "slug": "beatles",
+      "name": "The Beatles",
+      "grupo": "npr",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "pretty-things",
+      "name": "The Pretty Things",
+      "grupo": "npr",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "kinks",
+      "name": "The Kinks",
+      "grupo": "npr",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "small-faces",
+      "name": "Small Faces",
+      "grupo": "npr",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "who",
+      "name": "The Who",
+      "grupo": "who",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "mb",
+      "name": "The Moody Blues",
+      "grupo": "mb",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "pf",
+      "name": "Pink Floyd",
+      "grupo": "pf",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "kc",
+      "name": "King Crimson",
+      "grupo": "kc",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "gen",
+      "name": "Genesis",
+      "grupo": "gen",
+      "type": "Group",
+      "country": "GB",
+      "disambiguation_hint": "english rock band"
+    },
+    {
+      "slug": "yes",
+      "name": "Yes",
+      "grupo": "yes",
+      "type": "Group",
+      "country": "GB",
+      "disambiguation_hint": "prog"
+    },
+    {
+      "slug": "elp",
+      "name": "Emerson, Lake & Palmer",
+      "grupo": "elp",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "jt",
+      "name": "Jethro Tull",
+      "grupo": "jt",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "vdgg",
+      "name": "Van der Graaf Generator",
+      "grupo": "vdgg",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "gg",
+      "name": "Gentle Giant",
+      "grupo": "gg",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "car",
+      "name": "Caravan",
+      "grupo": "car",
+      "type": "Group",
+      "country": "GB",
+      "disambiguation_hint": "canterbury"
+    },
+    {
+      "slug": "sm",
+      "name": "Soft Machine",
+      "grupo": "sm",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "cam",
+      "name": "Camel",
+      "grupo": "cam",
+      "type": "Group",
+      "country": "GB",
+      "disambiguation_hint": "prog"
+    },
+    {
+      "slug": "mo",
+      "name": "Mike Oldfield",
+      "grupo": "mo",
+      "type": "Person",
+      "country": "GB"
+    },
+    {
+      "slug": "app",
+      "name": "The Alan Parsons Project",
+      "grupo": "app",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "ap",
+      "name": "Anthony Phillips",
+      "grupo": "ap",
+      "type": "Person",
+      "country": "GB",
+      "disambiguation_hint": "genesis"
+    },
+    {
+      "slug": "rush",
+      "name": "Rush",
+      "grupo": "rush",
+      "type": "Group",
+      "country": "CA",
+      "disambiguation_hint": "canadian"
+    },
+    {
+      "slug": "sup",
+      "name": "Supertramp",
+      "grupo": "sup",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "elo",
+      "name": "Electric Light Orchestra",
+      "grupo": "elo",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "foc",
+      "name": "Focus",
+      "grupo": "foc",
+      "type": "Group",
+      "country": "NL",
+      "disambiguation_hint": "dutch"
+    },
+    {
+      "slug": "ren",
+      "name": "Renaissance",
+      "grupo": "ren",
+      "type": "Group",
+      "country": "GB",
+      "disambiguation_hint": "prog"
+    },
+    {
+      "slug": "str",
+      "name": "Strawbs",
+      "grupo": "str",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "ca",
+      "name": "Curved Air",
+      "grupo": "ca",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "bjh",
+      "name": "Barclay James Harvest",
+      "grupo": "bjh",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "sh",
+      "name": "Steve Hackett",
+      "grupo": "sh",
+      "type": "Person",
+      "country": "GB",
+      "disambiguation_hint": "genesis"
+    },
+    {
+      "slug": "robert-wyatt",
+      "name": "Robert Wyatt",
+      "grupo": "canterbury",
+      "fase": 3,
+      "escena": "canterbury",
+      "type": "Person",
+      "country": "GB",
+      "disambiguation_hint": "soft machine"
+    },
+    {
+      "slug": "matching-mole",
+      "name": "Matching Mole",
+      "grupo": "canterbury",
+      "fase": 3,
+      "escena": "canterbury",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "hatfield",
+      "name": "Hatfield and the North",
+      "grupo": "canterbury",
+      "fase": 3,
+      "escena": "canterbury",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "national-health",
+      "name": "National Health",
+      "grupo": "canterbury",
+      "fase": 3,
+      "escena": "canterbury",
+      "type": "Group",
+      "country": "GB"
+    },
+    {
+      "slug": "gong",
+      "name": "Gong",
+      "grupo": "canterbury",
+      "fase": 3,
+      "escena": "canterbury",
+      "type": "Group",
+      "disambiguation_hint": "psychedelic"
+    },
+    {
+      "slug": "egg",
+      "name": "Egg",
+      "grupo": "canterbury",
+      "fase": 3,
+      "escena": "canterbury",
+      "type": "Group",
+      "country": "GB",
+      "disambiguation_hint": "canterbury"
+    },
+    {
+      "slug": "steve-hillage",
+      "name": "Steve Hillage",
+      "grupo": "canterbury",
+      "fase": 3,
+      "escena": "canterbury",
+      "type": "Person",
+      "country": "GB"
+    },
+    {
+      "slug": "kevin-ayers",
+      "name": "Kevin Ayers",
+      "grupo": "canterbury",
+      "fase": 3,
+      "escena": "canterbury",
+      "type": "Person",
+      "country": "GB"
+    },
+    {
+      "slug": "pfm",
+      "name": "Premiata Forneria Marconi",
+      "grupo": "italia",
+      "fase": 3,
+      "escena": "italia",
+      "type": "Group",
+      "country": "IT"
+    },
+    {
+      "slug": "banco",
+      "name": "Banco del Mutuo Soccorso",
+      "grupo": "italia",
+      "fase": 3,
+      "escena": "italia",
+      "type": "Group",
+      "country": "IT"
+    },
+    {
+      "slug": "le-orme",
+      "name": "Le Orme",
+      "grupo": "italia",
+      "fase": 3,
+      "escena": "italia",
+      "type": "Group",
+      "country": "IT"
+    },
+    {
+      "slug": "area",
+      "name": "Area",
+      "grupo": "italia",
+      "fase": 3,
+      "escena": "italia",
+      "type": "Group",
+      "country": "IT",
+      "disambiguation_hint": "ital"
+    },
+    {
+      "slug": "museo-rosenbach",
+      "name": "Museo Rosenbach",
+      "grupo": "italia",
+      "fase": 3,
+      "escena": "italia",
+      "type": "Group",
+      "country": "IT"
+    },
+    {
+      "slug": "il-balletto-di-bronzo",
+      "name": "Il Balletto di Bronzo",
+      "grupo": "italia",
+      "fase": 3,
+      "escena": "italia",
+      "type": "Group",
+      "country": "IT"
+    },
+    {
+      "slug": "osanna",
+      "name": "Osanna",
+      "grupo": "italia",
+      "fase": 3,
+      "escena": "italia",
+      "type": "Group",
+      "country": "IT"
+    },
+    {
+      "slug": "new-trolls",
+      "name": "New Trolls",
+      "grupo": "italia",
+      "fase": 3,
+      "escena": "italia",
+      "type": "Group",
+      "country": "IT"
+    },
+    {
+      "slug": "can",
+      "name": "Can",
+      "grupo": "alemania",
+      "fase": 3,
+      "escena": "alemania",
+      "type": "Group",
+      "country": "DE",
+      "disambiguation_hint": "krautrock"
+    },
+    {
+      "slug": "tangerine-dream",
+      "name": "Tangerine Dream",
+      "grupo": "alemania",
+      "fase": 3,
+      "escena": "alemania",
+      "type": "Group",
+      "country": "DE"
+    },
+    {
+      "slug": "klaus-schulze",
+      "name": "Klaus Schulze",
+      "grupo": "alemania",
+      "fase": 3,
+      "escena": "alemania",
+      "type": "Person",
+      "country": "DE"
+    },
+    {
+      "slug": "faust",
+      "name": "Faust",
+      "grupo": "alemania",
+      "fase": 3,
+      "escena": "alemania",
+      "type": "Group",
+      "country": "DE",
+      "disambiguation_hint": "krautrock"
+    },
+    {
+      "slug": "neu",
+      "name": "Neu!",
+      "grupo": "alemania",
+      "fase": 3,
+      "escena": "alemania",
+      "type": "Group",
+      "country": "DE"
+    },
+    {
+      "slug": "amon-duul-ii",
+      "name": "Amon Düül II",
+      "grupo": "alemania",
+      "fase": 3,
+      "escena": "alemania",
+      "type": "Group",
+      "country": "DE"
+    },
+    {
+      "slug": "kraftwerk",
+      "name": "Kraftwerk",
+      "grupo": "alemania",
+      "fase": 3,
+      "escena": "alemania",
+      "type": "Group",
+      "country": "DE"
+    },
+    {
+      "slug": "kansas",
+      "name": "Kansas",
+      "grupo": "eeuu",
+      "fase": 6,
+      "escena": "eeuu",
+      "type": "Group",
+      "country": "US",
+      "disambiguation_hint": "progressive"
+    },
+    {
+      "slug": "styx",
+      "name": "Styx",
+      "grupo": "eeuu",
+      "fase": 6,
+      "escena": "eeuu",
+      "type": "Group",
+      "country": "US"
+    },
+    {
+      "slug": "utopia",
+      "name": "Utopia",
+      "grupo": "eeuu",
+      "fase": 6,
+      "escena": "eeuu",
+      "type": "Group",
+      "country": "US",
+      "disambiguation_hint": "rundgren"
+    },
+    {
+      "slug": "happy-the-man",
+      "name": "Happy the Man",
+      "grupo": "eeuu",
+      "fase": 6,
+      "escena": "eeuu",
+      "type": "Group",
+      "country": "US"
+    },
+    {
+      "slug": "dixie-dregs",
+      "name": "Dixie Dregs",
+      "grupo": "eeuu",
+      "fase": 6,
+      "escena": "eeuu",
+      "type": "Group",
+      "country": "US"
+    },
+    {
+      "slug": "frank-zappa",
+      "name": "Frank Zappa",
+      "grupo": "eeuu",
+      "fase": 6,
+      "escena": "eeuu",
+      "type": "Person",
+      "country": "US"
+    },
+    {
+      "slug": "mothers-of-invention",
+      "name": "The Mothers of Invention",
+      "grupo": "eeuu",
+      "fase": 6,
+      "escena": "eeuu",
+      "type": "Group",
+      "country": "US"
+    },
+    {
+      "slug": "crucis",
+      "name": "Crucis",
+      "grupo": "latinoamerica",
+      "fase": 6,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR"
+    },
+    {
+      "slug": "invisible",
+      "name": "Invisible",
+      "grupo": "latinoamerica",
+      "fase": 6,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "spinetta"
+    },
+    {
+      "slug": "la-maquina-de-hacer-pajaros",
+      "name": "La Máquina de Hacer Pájaros",
+      "grupo": "latinoamerica",
+      "fase": 6,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR"
+    },
+    {
+      "slug": "mia",
+      "name": "MIA",
+      "grupo": "latinoamerica",
+      "fase": 6,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "argentin"
+    },
+    {
+      "slug": "espiritu",
+      "name": "Espíritu",
+      "grupo": "latinoamerica",
+      "fase": 6,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR"
+    },
+    {
+      "slug": "los-jaivas",
+      "name": "Los Jaivas",
+      "grupo": "latinoamerica",
+      "fase": 6,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "CL"
+    },
+    {
+      "slug": "congreso",
+      "name": "Congreso",
+      "grupo": "latinoamerica",
+      "fase": 6,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "CL"
+    },
+    {
+      "slug": "os-mutantes",
+      "name": "Os Mutantes",
+      "grupo": "latinoamerica",
+      "fase": 6,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "BR"
+    },
+    {
+      "slug": "o-terco",
+      "name": "O Terço",
+      "grupo": "latinoamerica",
+      "fase": 6,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "BR"
+    },
+    {
+      "slug": "almendra",
+      "name": "Almendra",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "spinetta"
+    },
+    {
+      "slug": "pescado-rabioso",
+      "name": "Pescado Rabioso",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR"
+    },
+    {
+      "slug": "spinetta-jade",
+      "name": "Spinetta Jade",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR"
+    },
+    {
+      "slug": "spinetta",
+      "name": "Luis Alberto Spinetta",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Person",
+      "country": "AR"
+    },
+    {
+      "slug": "socios-del-desierto",
+      "name": "Spinetta y los Socios del Desierto",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR"
+    },
+    {
+      "slug": "sui-generis",
+      "name": "Sui Generis",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "argentin"
+    },
+    {
+      "slug": "seru-giran",
+      "name": "Serú Girán",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR"
+    },
+    {
+      "slug": "charly-garcia",
+      "name": "Charly García",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Person",
+      "country": "AR"
+    },
+    {
+      "slug": "porsuigieco",
+      "name": "PorSuiGieco",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR"
+    },
+    {
+      "slug": "aquelarre",
+      "name": "Aquelarre",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "argentin"
+    },
+    {
+      "slug": "arco-iris",
+      "name": "Arco Iris",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "argentin"
+    },
+    {
+      "slug": "alas",
+      "name": "Alas",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "argentin"
+    },
+    {
+      "slug": "color-humano",
+      "name": "Color Humano",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR"
+    },
+    {
+      "slug": "vox-dei",
+      "name": "Vox Dei",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "argentin"
+    },
+    {
+      "slug": "pastoral",
+      "name": "Pastoral",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "argentin"
+    },
+    {
+      "slug": "bubu",
+      "name": "Bubu",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "argentin"
+    },
+    {
+      "slug": "tantor",
+      "name": "Tantor",
+      "grupo": "latinoamerica",
+      "fase": 7,
+      "escena": "latinoamerica",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation_hint": "argentin"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generado": "2026-09-02T01:19:14+00:00",
+  "generado": "2026-09-10T02:58:09+00:00",
   "fuente": "búsqueda API MusicBrainz (ningún MBID de memoria)",
   "artistas": {
     "beatles": {
@@ -693,30 +693,7 @@
       "disambiguation": "Argentinian prog rock, aka Músicos Independientes Asociados",
       "mb_score": 87,
       "status": "ok",
-      "alternativas": [
-        {
-          "mbid": "6a0f0a74-8689-4bf6-aa8e-6a954ac5f0cb",
-          "mb_name": "MIA.",
-          "country": "DE",
-          "disambiguation": "German rock/pop group",
-          "mb_score": 100
-        },
-        {
-          "mbid": "50fd0dd8-330a-4197-bfa0-28e98688ed72",
-          "mb_name": "Mia",
-          "country": null,
-          "disambiguation": "U.K. space-rock band.",
-          "mb_score": 80
-        },
-        {
-          "mbid": "46811e03-b178-4323-8ae1-629ffd081a90",
-          "mb_name": "MIA",
-          "country": null,
-          "disambiguation": "Mexican Duo",
-          "mb_score": 79
-        }
-      ],
-      "nota_revision": "confirmado por desambiguación de la API (Músicos Independientes Asociados), 01-sep-2026"
+      "alternativas": []
     },
     "espiritu": {
       "name": "Espíritu",
@@ -769,6 +746,193 @@
       "type": "Group",
       "country": "BR",
       "disambiguation": "",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "almendra": {
+      "name": "Almendra",
+      "mbid": "0b144888-0e76-465c-be88-882cf4f4cb5e",
+      "mb_name": "Almendra",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "pescado-rabioso": {
+      "name": "Pescado Rabioso",
+      "mbid": "ff401398-6d43-4e91-8f87-33fe19aafd84",
+      "mb_name": "Pescado Rabioso",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "spinetta-jade": {
+      "name": "Spinetta Jade",
+      "mbid": "78b8c4c6-d329-4b01-98ed-02b183fe0bf8",
+      "mb_name": "Spinetta Jade",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "spinetta": {
+      "name": "Luis Alberto Spinetta",
+      "mbid": "1fc56cff-f0a0-4ce2-ab1f-ac49cf3b073f",
+      "mb_name": "Luis Alberto Spinetta",
+      "type": "Person",
+      "country": "AR",
+      "disambiguation": "“El Flaco”",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "socios-del-desierto": {
+      "name": "Spinetta y los Socios del Desierto",
+      "mbid": "04b2e6fd-6967-4ff4-900c-d3b4254d8f45",
+      "mb_name": "Spinetta y los Socios del Desierto",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "sui-generis": {
+      "name": "Sui Generis",
+      "mbid": "b3a6ebdf-4ee6-4ec0-912c-be03ade6c833",
+      "mb_name": "Sui Generis",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "Argentinean band",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "seru-giran": {
+      "name": "Serú Girán",
+      "mbid": "f1cd52dc-49d1-4df6-93ea-3587d8fba30b",
+      "mb_name": "Serú Girán",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "charly-garcia": {
+      "name": "Charly García",
+      "mbid": "dd999ced-1dd4-44b8-ab67-ee5ec23e52b7",
+      "mb_name": "Charly García",
+      "type": "Person",
+      "country": "AR",
+      "disambiguation": "",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "porsuigieco": {
+      "name": "PorSuiGieco",
+      "mbid": "25d804a4-4990-43af-97ea-cd17456183d2",
+      "mb_name": "PorSuiGieco",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "Argentinean rock supergroup",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "aquelarre": {
+      "name": "Aquelarre",
+      "mbid": "ca298081-8492-4591-9f65-7aee865ce237",
+      "mb_name": "Aquelarre",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "Argentinian prog rock band",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "arco-iris": {
+      "name": "Arco Iris",
+      "mbid": "ab30a356-59f4-435e-bc1c-2d2a1f95b8c5",
+      "mb_name": "Arco Iris",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "Argentinian rock band",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "alas": {
+      "name": "Alas",
+      "mbid": "3ef588c2-a844-4310-bf5c-75c9bd2700dc",
+      "mb_name": "Alas",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "Latin-American 70s prog",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "color-humano": {
+      "name": "Color Humano",
+      "mbid": "6a8adb55-47e5-465e-b9fc-394879fb7bf3",
+      "mb_name": "Color Humano",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "Argentinian rock band",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "vox-dei": {
+      "name": "Vox Dei",
+      "mbid": "e4612ab8-6271-43ad-8f60-6d88eeee19db",
+      "mb_name": "Vox Dei",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "Argentinian progressive rock band",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "pastoral": {
+      "name": "Pastoral",
+      "mbid": "e2d636de-6c43-4f26-bfcb-cadb3f69d9c9",
+      "mb_name": "Pastoral",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "Argentine folk rock duo",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "bubu": {
+      "name": "Bubu",
+      "mbid": "eeb9900c-5d9e-4e7d-a2ed-e0ee1cc9ef30",
+      "mb_name": "Bubu",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "Argentine eclectic prog group",
+      "mb_score": 100,
+      "status": "ok",
+      "alternativas": []
+    },
+    "tantor": {
+      "name": "Tantor",
+      "mbid": "0149b34a-36da-45f8-99c6-e3668f80c781",
+      "mb_name": "Tantor",
+      "type": "Group",
+      "country": "AR",
+      "disambiguation": "Argentinean jazz rock band",
       "mb_score": 100,
       "status": "ok",
       "alternativas": []
