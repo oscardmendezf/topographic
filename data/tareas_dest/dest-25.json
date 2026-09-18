@@ -1,0 +1,3273 @@
+{
+ "id": "dest-25",
+ "albumes": [
+  {
+   "album_slug": "sh-sketches-of-satie",
+   "titulo": "Sketches of Satie",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2000,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sh-sketches-of-satie.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Gnossienne no. 3",
+     "ms": 144986
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Gnossienne no. 2",
+     "ms": 116373
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Gnossienne no. 1",
+     "ms": 198240
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Gymnopédie no. 3",
+     "ms": 156760
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Gymnopédie no. 2",
+     "ms": 172986
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Gymnopédie no. 1",
+     "ms": 235520
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Pièces froides no. 1 (Airs à faire fuir I)",
+     "ms": 166666
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Pièces froides no. 1 (Airs à faire fuir II)",
+     "ms": 96466
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Pièces froides no. 2 (Danse de travers II)",
+     "ms": 125120
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Avant dernières pensées (Idylle à Debussy)",
+     "ms": 57680
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Avant dernières pensées (Aubade à Paul Dukas)",
+     "ms": 71053
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Avant dernières pensées (Méditation à Albert Roussel)",
+     "ms": 54933
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Gnossienne no. 4",
+     "ms": 161333
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Gnossienne no. 5",
+     "ms": 200746
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Gnossienne no. 6",
+     "ms": 101133
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "Nocturnes no. 1",
+     "ms": 211933
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "Nocturnes no. 2",
+     "ms": 134946
+    },
+    {
+     "medio": 1,
+     "n": 18,
+     "titulo": "Nocturnes no. 3",
+     "ms": 216386
+    },
+    {
+     "medio": 1,
+     "n": 19,
+     "titulo": "Nocturnes no. 4",
+     "ms": 169866
+    },
+    {
+     "medio": 1,
+     "n": 20,
+     "titulo": "Nocturnes no. 5",
+     "ms": 147453
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-spectral-mornings",
+   "titulo": "Spectral Mornings",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1979,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/sh-spectral-mornings.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Every Day",
+     "ms": 374466
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Virgin and the Gypsy",
+     "ms": 268466
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Red Flower of Tachai Blooms Everywhere",
+     "ms": 124973
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Clocks – The Angel of Mons",
+     "ms": 257466
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Ballad of the Decomposing Man",
+     "ms": 228333
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Lost Time in Córdoba",
+     "ms": 243293
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Tigermoth",
+     "ms": 455333
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Spectral Mornings",
+     "ms": 391000
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-surrender-of-silence",
+   "titulo": "Surrender of Silence",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2021,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sh-surrender-of-silence.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Obliterati",
+     "ms": 136853
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Natalia",
+     "ms": 377186
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Relaxation Music for Sharks (featuring Feeding Frenzy)",
+     "ms": 276106
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Wingbeats",
+     "ms": 319733
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Devil’s Cathedral",
+     "ms": 390840
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Held in the Shadows",
+     "ms": 380160
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Shanghai to Samarkand",
+     "ms": 507066
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Fox’s Tango",
+     "ms": 261160
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Day of the Dead",
+     "ms": 384973
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Scorched Earth",
+     "ms": 362946
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Esperanza",
+     "ms": 64093
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "The Obliterati",
+     "ms": 136853
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Natalia",
+     "ms": 377186
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "Relaxation Music for Sharks (featuring Feeding Frenzy)",
+     "ms": 276106
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Wingbeats",
+     "ms": 319733
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "The Devil’s Cathedral",
+     "ms": 390840
+    },
+    {
+     "medio": 2,
+     "n": 6,
+     "titulo": "Held in the Shadows",
+     "ms": 380160
+    },
+    {
+     "medio": 2,
+     "n": 7,
+     "titulo": "Shanghai to Samarkand",
+     "ms": 507066
+    },
+    {
+     "medio": 2,
+     "n": 8,
+     "titulo": "Fox’s Tango",
+     "ms": 261160
+    },
+    {
+     "medio": 2,
+     "n": 9,
+     "titulo": "Day of the Dead",
+     "ms": 384973
+    },
+    {
+     "medio": 2,
+     "n": 10,
+     "titulo": "Scorched Earth",
+     "ms": 362946
+    },
+    {
+     "medio": 2,
+     "n": 11,
+     "titulo": "Esperanza",
+     "ms": 64093
+    },
+    {
+     "medio": 2,
+     "n": 12,
+     "titulo": "The Obliterati (5.1 mix)",
+     "ms": 137000
+    },
+    {
+     "medio": 2,
+     "n": 13,
+     "titulo": "Natalia (5.1 mix)",
+     "ms": 377000
+    },
+    {
+     "medio": 2,
+     "n": 14,
+     "titulo": "Relaxation Music for Sharks (featuring Feeding Frenzy) (5.1 mix)",
+     "ms": 276000
+    },
+    {
+     "medio": 2,
+     "n": 15,
+     "titulo": "Wingbeats (5.1 mix)",
+     "ms": 320000
+    },
+    {
+     "medio": 2,
+     "n": 16,
+     "titulo": "The Devil’s Cathedral (5.1 mix)",
+     "ms": 391000
+    },
+    {
+     "medio": 2,
+     "n": 17,
+     "titulo": "Held in the Shadows (5.1 mix)",
+     "ms": 380000
+    },
+    {
+     "medio": 2,
+     "n": 18,
+     "titulo": "Shanghai to Samarkand (5.1 mix)",
+     "ms": 507000
+    },
+    {
+     "medio": 2,
+     "n": 19,
+     "titulo": "Fox’s Tango (5.1 mix)",
+     "ms": 261000
+    },
+    {
+     "medio": 2,
+     "n": 20,
+     "titulo": "Day of the Dead (5.1 mix)",
+     "ms": 385000
+    },
+    {
+     "medio": 2,
+     "n": 21,
+     "titulo": "Scorched Earth (5.1 mix)",
+     "ms": 363000
+    },
+    {
+     "medio": 2,
+     "n": 22,
+     "titulo": "Esperanza (5.1 mix)",
+     "ms": 64000
+    },
+    {
+     "medio": 2,
+     "n": 23,
+     "titulo": "Sirocco",
+     "ms": 358000
+    },
+    {
+     "medio": 2,
+     "n": 24,
+     "titulo": "Andalusian Heart",
+     "ms": 328000
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-the-book-of-bilbo-and-gandalf",
+   "titulo": "The Book of Bilbo and Gandalf",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2010,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/sh-the-book-of-bilbo-and-gandalf.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Fellowship on Entering the Magic Forest of Lothlorien",
+     "ms": 723000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Galadriel ⁓ Elf Song",
+     "ms": 384000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Dark and Light ⁓ “The Book of Gandalf”",
+     "ms": 828000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Galadriel",
+     "ms": 187000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Medieval Melodies: n.1 “Théoden’s Meditation”",
+     "ms": 100000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Medieval Melodies: n.2 “The Knights of Rohan”",
+     "ms": 154000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Thoughts Turn Homeward",
+     "ms": 257000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Hobbit Book ⁓ “Bilbo and Gandalf”",
+     "ms": 1097000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Visions From Minas Tirith ⁓ The White Tree",
+     "ms": 689000
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-the-circus-and-the-nightwhale",
+   "titulo": "The Circus and the Nightwhale",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2024,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/sh-the-circus-and-the-nightwhale.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "People of the Smoke",
+     "ms": 290760
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "These Passing Clouds",
+     "ms": 95066
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Taking You Down",
+     "ms": 257026
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Found and Lost",
+     "ms": 109986
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Enter the Ring",
+     "ms": 233293
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Get Me Out!",
+     "ms": 255866
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Ghost Moon and Living Love",
+     "ms": 403760
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Circo Inferno",
+     "ms": 150000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Breakout",
+     "ms": 97093
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "All at Sea",
+     "ms": 106320
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Into the Nightwhale",
+     "ms": 246080
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Wherever You Are",
+     "ms": 258533
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "White Dove",
+     "ms": 194666
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-the-night-siren",
+   "titulo": "The Night Siren",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2017,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sh-the-night-siren.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Behind the Smoke",
+     "ms": 418000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Martian Sea",
+     "ms": 281000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Fifty Miles From the North Pole",
+     "ms": 428000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "El Niño",
+     "ms": 232000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Other Side of the Wall",
+     "ms": 241000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Anything but Love",
+     "ms": 356000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Inca Terra",
+     "ms": 354000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "In Another Life",
+     "ms": 367000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "In the Skeleton Gallery",
+     "ms": 309000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "West to East",
+     "ms": 314000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Gift",
+     "ms": 164000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "After the Ordeal",
+     "ms": 123000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Jazz on a Summer’s Night",
+     "ms": 242000
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-the-roaring-waves",
+   "titulo": "The Roaring Waves",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2026,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/sh-the-roaring-waves.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Storm",
+     "ms": 410000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Sandsend",
+     "ms": 285000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Red Dragon",
+     "ms": 258000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Roaring Waves",
+     "ms": 430000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "K‐129",
+     "ms": 472000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Black Sea",
+     "ms": 400000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Pacific Coast Highway",
+     "ms": 452000
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-till-we-have-faces",
+   "titulo": "Till We Have Faces",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1984,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/sh-till-we-have-faces.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Duel",
+     "ms": 290000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Matilda Smith‐Williams Home for the Aged",
+     "ms": 486000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Let Me Count the Ways",
+     "ms": 366000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "A Doll That’s Made in Japan",
+     "ms": 237000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Myopia",
+     "ms": 176000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "What’s My Name",
+     "ms": 425000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Rio Connection",
+     "ms": 204000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Taking the Easy Way Out",
+     "ms": 229000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "When You Wish Upon a Star",
+     "ms": 51000
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-to-watch-the-storms",
+   "titulo": "To Watch the Storms",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2003,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sh-to-watch-the-storms.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Strutton Ground",
+     "ms": 184906
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Circus of Becoming",
+     "ms": 228840
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Devil Is an Englishman",
+     "ms": 267800
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Frozen Statues",
+     "ms": 178760
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Mechanical Bride",
+     "ms": 400266
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Wind, Sand and Stars",
+     "ms": 308266
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Brand New",
+     "ms": 281053
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "This World",
+     "ms": 319586
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Rebecca",
+     "ms": 260600
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "The Silk Road",
+     "ms": 325080
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Pollution B",
+     "ms": 59533
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Fire Island",
+     "ms": 324640
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Marijuana, Assassin of Youth",
+     "ms": 349760
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Come Away",
+     "ms": 192666
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "The Moon Under Water",
+     "ms": 134066
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "Serpentine Song",
+     "ms": 412533
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "If You Only Knew",
+     "ms": 145146
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-tribute",
+   "titulo": "Tribute",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2007,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sh-tribute.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Gavottes, BWV 1012",
+     "ms": 239000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Courante, BWV 1009",
+     "ms": 185000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Jesu Joy, BWV 147",
+     "ms": 206000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Fountain Suite",
+     "ms": 499000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Earle of Salisbury",
+     "ms": 90000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "La catedral",
+     "ms": 173000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "El noy de la mare",
+     "ms": 133000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Cascada",
+     "ms": 184000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Sapphires",
+     "ms": 102000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Prelude in D, BWV 998",
+     "ms": 110000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Prelude in C min, BWV 999",
+     "ms": 74000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Chaconne, BWV 1004",
+     "ms": 755000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "La maja de Goya",
+     "ms": 299000
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-under-a-mediterranean-sky",
+   "titulo": "Under a Mediterranean Sky",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2021,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/sh-under-a-mediterranean-sky.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Mdina (The Walled City)",
+     "ms": 525320
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Adriatic Blue",
+     "ms": 291146
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Sirocco",
+     "ms": 313840
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Joie de vivre",
+     "ms": 221293
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Memory of Myth",
+     "ms": 208986
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Scarlatti Sonata",
+     "ms": 220346
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Casa del fauno",
+     "ms": 231920
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Dervish and the Djin",
+     "ms": 297386
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Lorato",
+     "ms": 149920
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Andalusian Heart",
+     "ms": 334320
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Call of the Sea",
+     "ms": 284746
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-voyage-of-the-acolyte",
+   "titulo": "Voyage of the Acolyte",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 1975,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/sh-voyage-of-the-acolyte.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Ace of Wands",
+     "ms": 325026
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Hands of the Priestess, Part I",
+     "ms": 208906
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "A Tower Struck Down",
+     "ms": 292400
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Hands of the Priestess, Part II",
+     "ms": 94333
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Hermit",
+     "ms": 289293
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Star of Sirius",
+     "ms": 427800
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Lovers",
+     "ms": 109640
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Shadow of the Hierophant",
+     "ms": 704893
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-wild-orchids",
+   "titulo": "Wild Orchids",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2006,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sh-wild-orchids.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "A Dark Night in Toytown",
+     "ms": 219000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Waters of the Wild",
+     "ms": 335000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Set Your Compass",
+     "ms": 218000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Down Street",
+     "ms": 454000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "A Girl Called Linda",
+     "ms": 286000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "To a Close",
+     "ms": 289000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Ego and Id",
+     "ms": 248000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Man in the Long Black Coat",
+     "ms": 309000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Wolfwork",
+     "ms": 289000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Why",
+     "ms": 47000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "She Moves in Memories",
+     "ms": 300000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "The Fundamentals of Brainwashing",
+     "ms": 181000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Howl",
+     "ms": 272000
+    }
+   ]
+  },
+  {
+   "album_slug": "sh-wolflight",
+   "titulo": "Wolflight",
+   "artista": "Steve Hackett",
+   "artista_slug": "sh",
+   "anio": 2015,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/sh-wolflight.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Out of the Body",
+     "ms": 149000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Wolflight",
+     "ms": 480000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Love Song to a Vampire",
+     "ms": 557000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Wheel’s Turning",
+     "ms": 443000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Corycian Fire",
+     "ms": 346000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Earthshine",
+     "ms": 200000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Loving Sea",
+     "ms": 202000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Black Thunder",
+     "ms": 452000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Dust and Dreams",
+     "ms": 333000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Heart Song",
+     "ms": 171000
+    }
+   ]
+  },
+  {
+   "album_slug": "silver-apples-a-lake-of-teardrops",
+   "titulo": "A Lake of Teardrops",
+   "artista": "Silver Apples",
+   "artista_slug": "silver-apples",
+   "anio": 1999,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/silver-apples-a-lake-of-teardrops.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Streams of Sorrow",
+     "ms": 312760
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Sixth Sense",
+     "ms": 55040
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Edge",
+     "ms": 257533
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Second Sight",
+     "ms": 31760
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Whirlwind",
+     "ms": 322800
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "(I Don't Care If You) Never Come Back",
+     "ms": 156107
+    }
+   ]
+  },
+  {
+   "album_slug": "silver-apples-beacon",
+   "titulo": "Beacon",
+   "artista": "Silver Apples",
+   "artista_slug": "silver-apples",
+   "anio": 1997,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/silver-apples-beacon.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "I Have Known Love",
+     "ms": 229493
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Together",
+     "ms": 253240
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Lovelights",
+     "ms": 266226
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "You and I",
+     "ms": 264040
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Hocus Pocus",
+     "ms": 206066
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Cosmic String",
+     "ms": 311893
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Ancient Path",
+     "ms": 253040
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Dance",
+     "ms": 219226
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Gift",
+     "ms": 317506
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Daisy",
+     "ms": 326560
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Misty Mountain",
+     "ms": 271707
+    }
+   ]
+  },
+  {
+   "album_slug": "silver-apples-clinging-to-a-dream",
+   "titulo": "Clinging to a Dream",
+   "artista": "Silver Apples",
+   "artista_slug": "silver-apples",
+   "anio": 2016,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/silver-apples-clinging-to-a-dream.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Edge of Wonder",
+     "ms": 241000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Missin You",
+     "ms": 223000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Colors",
+     "ms": 264000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Nothing Matters",
+     "ms": 275000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Mist",
+     "ms": 343000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Susie",
+     "ms": 238000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Fractal Flow",
+     "ms": 265000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Drifting",
+     "ms": 297000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Charred Fragments",
+     "ms": 342000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Concerto for Monkey and Oscillator",
+     "ms": 273000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Rain",
+     "ms": 258000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "The Edge of Wonder (demo version)",
+     "ms": 233000
+    }
+   ]
+  },
+  {
+   "album_slug": "silver-apples-contact",
+   "titulo": "Contact",
+   "artista": "Silver Apples",
+   "artista_slug": "silver-apples",
+   "anio": 1969,
+   "escena": "rarezas",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/silver-apples-contact.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "You and I",
+     "ms": 200840
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Water",
+     "ms": 257666
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Ruby",
+     "ms": 151173
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Gypsy Love",
+     "ms": 333506
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "You're Not Foolin' Me",
+     "ms": 361200
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "I Have Known Love",
+     "ms": 230653
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "A Pox on You",
+     "ms": 310013
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Confusion",
+     "ms": 213880
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Fantasies",
+     "ms": 362906
+    }
+   ]
+  },
+  {
+   "album_slug": "silver-apples-decatur",
+   "titulo": "Decatur",
+   "artista": "Silver Apples",
+   "artista_slug": "silver-apples",
+   "anio": 1998,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/silver-apples-decatur.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Decatur",
+     "ms": 2530000
+    }
+   ]
+  },
+  {
+   "album_slug": "silver-apples-mirage",
+   "titulo": "Mirage",
+   "artista": "Silver Apples",
+   "artista_slug": "silver-apples",
+   "anio": 2023,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/silver-apples-mirage.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Dragonfly's First Flight",
+     "ms": 920954
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Abduction of the Guilty",
+     "ms": 547646
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Mirage",
+     "ms": 400312
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Future Reminiscence",
+     "ms": 365633
+    }
+   ]
+  },
+  {
+   "album_slug": "silver-apples-silver-apples",
+   "titulo": "Silver Apples",
+   "artista": "Silver Apples",
+   "artista_slug": "silver-apples",
+   "anio": 1968,
+   "escena": "rarezas",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/silver-apples-silver-apples.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Oscillations",
+     "ms": 170506
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Seagreen Serenades",
+     "ms": 175866
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Lovefingers",
+     "ms": 251600
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Program",
+     "ms": 248000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Velvet Cave",
+     "ms": 210040
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Whirly-Bird",
+     "ms": 160986
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Dust",
+     "ms": 221240
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Dancing Gods",
+     "ms": 357440
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Misty Mountain",
+     "ms": 163933
+    }
+   ]
+  },
+  {
+   "album_slug": "silver-apples-the-garden",
+   "titulo": "The Garden",
+   "artista": "Silver Apples",
+   "artista_slug": "silver-apples",
+   "anio": 1998,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/silver-apples-the-garden.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "I Don't Care What the People Say",
+     "ms": 189053
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Tabouli Noodle",
+     "ms": 258986
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Walkin",
+     "ms": 248080
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Cannonball Noodle",
+     "ms": 330560
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "John Hardy",
+     "ms": 144160
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Cockroach Noodle",
+     "ms": 144453
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Owl",
+     "ms": 204493
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Swamp Noodle",
+     "ms": 180080
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Mustang Sally",
+     "ms": 196200
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Anasazi Noodle",
+     "ms": 199973
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Again",
+     "ms": 179706
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Starlight Noodle",
+     "ms": 280506
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Man Man Blues",
+     "ms": 194946
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Fire Ant Noodle",
+     "ms": 223400
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-bundles",
+   "titulo": "Bundles",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1975,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/sm-bundles.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Hazard Profile, Part One",
+     "ms": 557800
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Hazard Profile, Part Two (Toccatina)",
+     "ms": 135160
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Hazard Profile, Part Three",
+     "ms": 32973
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Hazard Profile, Part Four",
+     "ms": 85693
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Hazard Profile, Part Five",
+     "ms": 326706
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Gone Sailing",
+     "ms": 62266
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Bundles",
+     "ms": 194133
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Land of the Bag Snake",
+     "ms": 215760
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Man Who Waved at Trains",
+     "ms": 110773
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Peff",
+     "ms": 117800
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Four Gongs Two Drums",
+     "ms": 249693
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "The Floating World",
+     "ms": 432240
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-fifth",
+   "titulo": "Fifth",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1972,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sm-fifth.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "All White",
+     "ms": 361453
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Drop",
+     "ms": 469200
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "MC",
+     "ms": 294426
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "As if",
+     "ms": 503520
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "LBO",
+     "ms": 93333
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Pigling Bland",
+     "ms": 264026
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-fourth",
+   "titulo": "Fourth",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1971,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/sm-fourth.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Teeth",
+     "ms": 552000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Kings and Queens",
+     "ms": 300000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Fletcher’s Blemish",
+     "ms": 274000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Virtually, Part 1",
+     "ms": 317000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Virtually, Part 2",
+     "ms": 426000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Virtually, Part 3",
+     "ms": 271000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Virtually, Part 4",
+     "ms": 200000
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-hidden-details",
+   "titulo": "Hidden Details",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 2018,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/sm-hidden-details.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Hidden Details",
+     "ms": 456000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Man Who Waved at Trains",
+     "ms": 300000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Ground Lift",
+     "ms": 321000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Heart Off Guard",
+     "ms": 149000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Broken Hill",
+     "ms": 229000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Flight of the Jett",
+     "ms": 132000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "One Glove",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Out Bloody Intro",
+     "ms": 161000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Out Bloody Rageous (Part 1)",
+     "ms": 296000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Drifting White",
+     "ms": 107000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Life on Bridges",
+     "ms": 485000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Fourteen Hour Dream",
+     "ms": 384000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Breathe",
+     "ms": 312000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Night Sky",
+     "ms": 199000
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-land-of-cockayne",
+   "titulo": "Land of Cockayne",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1981,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/sm-land-of-cockayne.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Over ’n’ Above",
+     "ms": 444866
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Lotus Groves",
+     "ms": 297093
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Isle of the Blessed",
+     "ms": 116933
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Panoramania",
+     "ms": 427866
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Behind the Crystal Curtain",
+     "ms": 54373
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Palace of Glass",
+     "ms": 202026
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Hot‐Biscuit Slim",
+     "ms": 447200
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "(Black) Velvet Mountain",
+     "ms": 310173
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Sly Monkey",
+     "ms": 300400
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "‘A Lot of What You Fancy…’",
+     "ms": 35067
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-other-doors",
+   "titulo": "Other Doors",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 2023,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sm-other-doors.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Careless Eyes",
+     "ms": 148880
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Penny Hitch",
+     "ms": 409880
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Other Doors",
+     "ms": 291907
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Crocked Usage",
+     "ms": 509573
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Joy of a Toy",
+     "ms": 204467
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "A Flock of Holes",
+     "ms": 138680
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Whisper Back",
+     "ms": 100880
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Stars Apart",
+     "ms": 262973
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Now! Is the Time",
+     "ms": 136307
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Fell to Earth",
+     "ms": 351680
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Visitors at the Window",
+     "ms": 248120
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Maybe Never",
+     "ms": 146240
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Back in Season",
+     "ms": 437520
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Backwards",
+     "ms": 451907
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Out of Interest",
+     "ms": 128237
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "Alice Clair",
+     "ms": 146757
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "Look You Know",
+     "ms": 142317
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-rubber-riff",
+   "titulo": "Rubber Riff",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1976,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/sm-rubber-riff.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Crunch",
+     "ms": 160800
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Pavan",
+     "ms": 163400
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Jombles",
+     "ms": 181200
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "A Little Floating Music",
+     "ms": 171493
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Hi-Power",
+     "ms": 178666
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Little Miss B",
+     "ms": 160573
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Splot",
+     "ms": 117000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Rubber Riff",
+     "ms": 162000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Sam’s Short Shuffle",
+     "ms": 144066
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Melina",
+     "ms": 172826
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "City Steps",
+     "ms": 183106
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Gentle Turn",
+     "ms": 196426
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Porky",
+     "ms": 169400
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Travelogy",
+     "ms": 165040
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-seven",
+   "titulo": "Seven",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1973,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sm-seven.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Nettle Bed",
+     "ms": 288800
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Carol Ann",
+     "ms": 224773
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Day’s Eye",
+     "ms": 303626
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Bone Fire",
+     "ms": 33640
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Tarabos",
+     "ms": 272160
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "D.I.S.",
+     "ms": 181106
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Snodland",
+     "ms": 110000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Penny Hitch",
+     "ms": 400000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Block",
+     "ms": 260000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Down the Road",
+     "ms": 363000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The German Lesson",
+     "ms": 93000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "The French Lesson",
+     "ms": 59000
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-six",
+   "titulo": "Six",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1973,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sm-six.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Fanfare",
+     "ms": 44000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "All White",
+     "ms": 288000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Between",
+     "ms": 144000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Riff",
+     "ms": 272000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "37 ½",
+     "ms": 411000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Gesolreut",
+     "ms": 375000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "E.P.V.",
+     "ms": 167000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Lefty",
+     "ms": 301000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Stumble",
+     "ms": 96000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "5 From 13 (For Phil Seamen With Love & Thanks)",
+     "ms": 319000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Riff II",
+     "ms": 83000
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "The Soft Weed Factor",
+     "ms": 672000
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Stanley Stamps Gibbon Album (For B.O.)",
+     "ms": 356000
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "Chloe and the Pirates",
+     "ms": 566000
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "1983",
+     "ms": 431000
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-softs",
+   "titulo": "Softs",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1976,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/sm-softs.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Aubade",
+     "ms": 111733
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Tale of Taliesin",
+     "ms": 437666
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Ban Ban Caliban",
+     "ms": 562333
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Song of Aeolus",
+     "ms": 271573
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Out of Season",
+     "ms": 332360
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Second Bundle",
+     "ms": 157200
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Kayoo",
+     "ms": 207640
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Camden Tandem",
+     "ms": 121800
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Nexus",
+     "ms": 49826
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "One Over the Eight",
+     "ms": 331240
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Etika",
+     "ms": 141200
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-spaced",
+   "titulo": "Spaced",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1996,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/sm-spaced.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Spaced One",
+     "ms": 724866
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Spaced Two",
+     "ms": 458066
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Spaced Three",
+     "ms": 178626
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Spaced Four",
+     "ms": 1932866
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Spaced Five",
+     "ms": 258040
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Spaced Six",
+     "ms": 252560
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Spaced Seven",
+     "ms": 232974
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-the-soft-machine",
+   "titulo": "The Soft Machine",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1968,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/sm-the-soft-machine.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Hope for Happiness",
+     "ms": 260000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Joy of a Toy",
+     "ms": 169000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Hope for Happiness (reprise)",
+     "ms": 97000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Why Am I So Short?",
+     "ms": 98000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "So Boot If at All",
+     "ms": 442000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "A Certain Kind",
+     "ms": 250000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Save Yourself",
+     "ms": 145000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Priscilla",
+     "ms": 65000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Lullabye Letter",
+     "ms": 277000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "We Did It Again",
+     "ms": 226000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Plus belle qu’une poubelle",
+     "ms": 61000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Why Are We Sleeping?",
+     "ms": 331000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Box 25/4 Lid",
+     "ms": 47000
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-third",
+   "titulo": "Third",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1970,
+   "escena": null,
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/sm-third.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Facelift",
+     "ms": 1125560
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Slightly All the Time",
+     "ms": 1092573
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Moon in June",
+     "ms": 1148000
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Out-Bloody-Rageous",
+     "ms": 1154000
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-thirteen",
+   "titulo": "Thirteen",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 2026,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/sm-thirteen.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Lemon Poem Song",
+     "ms": 201000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Open Road",
+     "ms": 450000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Seven Hours",
+     "ms": 312000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Waltz for Robert",
+     "ms": 259000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Longest Night",
+     "ms": 788000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Disappear",
+     "ms": 235000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Green Books",
+     "ms": 333000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Beledo Balado",
+     "ms": 272000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Pens to the Foal Mode",
+     "ms": 162000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Time Station",
+     "ms": 166000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Which Bridge Did You Cross",
+     "ms": 178000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Turmoil",
+     "ms": 312000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Daevid’s Special Cuppa",
+     "ms": 190000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Curious Dust",
+     "ms": 307000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Chloe and the Pirates",
+     "ms": 194000
+    }
+   ]
+  },
+  {
+   "album_slug": "sm-volume-two",
+   "titulo": "Volume Two",
+   "artista": "Soft Machine",
+   "artista_slug": "sm",
+   "anio": 1969,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/sm-volume-two.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Pataphysical Introduction Pt. 1",
+     "ms": 60000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "A Concise British Alphabet Pt. 1",
+     "ms": 9800
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Hibou, Anenome and Bear",
+     "ms": 358000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "A Concise British Alphabet Pt. 2",
+     "ms": 12093
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Hulloder",
+     "ms": 52000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Dada Was Here",
+     "ms": 205000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Thank You Pierrot Lunaire",
+     "ms": 47000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Have You Ever Bean Grean?",
+     "ms": 83000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Pataphysical Introduction Pt. 2",
+     "ms": 50000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Out of Tunes",
+     "ms": 150000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "As Long as He Lies Perfectly Still",
+     "ms": 150000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Dedicated to You but You Weren't Listening",
+     "ms": 150000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Fire Engine Passing With Bells Clanging",
+     "ms": 110000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Pig",
+     "ms": 127000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Orange Skin Food",
+     "ms": 112000
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "A Door Opens and Closes",
+     "ms": 69000
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "10:30 Returns to the Bedroom",
+     "ms": 254466
+    }
+   ]
+  },
+  {
+   "album_slug": "small-faces-78-in-the-shade",
+   "titulo": "78 in the Shade",
+   "artista": "Small Faces",
+   "artista_slug": "small-faces",
+   "anio": 1978,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/small-faces-78-in-the-shade.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Over Too Soon",
+     "ms": 187000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Too Many Crossroads",
+     "ms": 138000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Let Me Down Gently",
+     "ms": 218000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Thinkin’ About Love",
+     "ms": 226000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Stand by Me (Stand by You)",
+     "ms": 206000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Brown Man Do",
+     "ms": 182000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Real Sour",
+     "ms": 235000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Soldier Boy",
+     "ms": 244000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "You Ain’t Seen Nothing Yet",
+     "ms": 179000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Filthy Rich",
+     "ms": 159000
+    }
+   ]
+  },
+  {
+   "album_slug": "small-faces-ogdens-nut-gone-flake",
+   "titulo": "Ogdens' Nut Gone Flake",
+   "artista": "Small Faces",
+   "artista_slug": "small-faces",
+   "anio": 1968,
+   "escena": null,
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/small-faces-ogdens-nut-gone-flake.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Ogden’s Nut Gone Flake",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Afterglow",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Long Agos and Worlds Apart",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Rene",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Song of a Baker",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Lazy Sunday",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Happiness Stan",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Rollin’ Over",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Hungry Intruder",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "The Journey",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Mad John",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Happydaystoytown",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "small-faces-playmates",
+   "titulo": "Playmates",
+   "artista": "Small Faces",
+   "artista_slug": "small-faces",
+   "anio": 1977,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/small-faces-playmates.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "High and Happy",
+     "ms": 160000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Never Too Late",
+     "ms": 229000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Tonight",
+     "ms": 224000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Saylarvee",
+     "ms": 137000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Find It",
+     "ms": 358000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Lookin’ for a Love",
+     "ms": 192000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Playmates",
+     "ms": 215000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "This Song’s Just for You",
+     "ms": 245000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Drive‐In Romance",
+     "ms": 307000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Smilin’ in Tune",
+     "ms": 283000
+    }
+   ]
+  }
+ ]
+}

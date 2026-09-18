@@ -1,0 +1,3081 @@
+{
+ "id": "dest-12",
+ "albumes": [
+  {
+   "album_slug": "happy-the-man-happy-the-man",
+   "titulo": "Happy the Man",
+   "artista": "Happy the Man",
+   "artista_slug": "happy-the-man",
+   "anio": 1977,
+   "escena": "eeuu",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/happy-the-man-happy-the-man.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Starborne",
+     "ms": 262000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Stumpy Meets the Firecracker in Stencil Forest",
+     "ms": 256000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Upon the Rainbow (Befrost)",
+     "ms": 282000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Mr. Mirror's Reflection on Dreams",
+     "ms": 534000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Carousel",
+     "ms": 246000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Knee Bitten Nymphs in Limbo",
+     "ms": 322000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "On Time as a Helix of Precious Laughs",
+     "ms": 322000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Hidden Moods",
+     "ms": 221000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "New York Dream's Suite",
+     "ms": 512000
+    }
+   ]
+  },
+  {
+   "album_slug": "happy-the-man-the-muse-awakens",
+   "titulo": "The Muse Awakens",
+   "artista": "Happy the Man",
+   "artista_slug": "happy-the-man",
+   "anio": 2004,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/happy-the-man-the-muse-awakens.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Contemporary Insanity",
+     "ms": 208400
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Muse Awakens",
+     "ms": 335666
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Stepping Through Time",
+     "ms": 392266
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Maui Sunset",
+     "ms": 337106
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Lunch at the Psychedelicatessen",
+     "ms": 299893
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Slipstream",
+     "ms": 286266
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Barking Spiders",
+     "ms": 255426
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Adrift",
+     "ms": 245933
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Shadowlites",
+     "ms": 234266
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Kindred Spirits",
+     "ms": 328346
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Il Quinto Mare",
+     "ms": 442213
+    }
+   ]
+  },
+  {
+   "album_slug": "hatfield-hatfield-and-the-north",
+   "titulo": "Hatfield and the North",
+   "artista": "Hatfield and the North",
+   "artista_slug": "hatfield",
+   "anio": 1973,
+   "escena": "canterbury",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/hatfield-hatfield-and-the-north.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Stubbs Effect",
+     "ms": 22000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Big Jobs (Poo Poo Extract)",
+     "ms": 36000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Going Up to People and Tinkling",
+     "ms": 145000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Calyx",
+     "ms": 165000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Son of \"There's No Place Like Homerton\"",
+     "ms": 610000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Aigrette",
+     "ms": 97000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Rifferama",
+     "ms": 178000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Fol De Rol",
+     "ms": 187000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Shaving Is Boring",
+     "ms": 525000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Licks for the Ladies",
+     "ms": 157000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Bossa Nochance",
+     "ms": 40000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Big Jobs No. 2 (by Poo and the Wee Wees)",
+     "ms": 134000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Lobster in Cleavage Probe",
+     "ms": 237000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Gigantic Land-Crabs in Earth Takeover Bid",
+     "ms": 201000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "The Other Stubbs Effect",
+     "ms": 37000
+    }
+   ]
+  },
+  {
+   "album_slug": "hatfield-the-rotters-club",
+   "titulo": "The Rotters’ Club",
+   "artista": "Hatfield and the North",
+   "artista_slug": "hatfield",
+   "anio": 1975,
+   "escena": "canterbury",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/hatfield-the-rotters-club.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Share It",
+     "ms": 183000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Lounging There Trying",
+     "ms": 195000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "(Big) John Wayne Socks Psychology on the Jaw",
+     "ms": 43000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Chaos at the Greasy Spoon",
+     "ms": 30000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Yes No Interlude",
+     "ms": 421000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Fitter Stoke Has a Bath",
+     "ms": 453000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Didn't Matter Anyway",
+     "ms": 213000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Underdub",
+     "ms": 242000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Mumps: a. Your Majesty Is Like a Cream Donut (Quiet) / b. Lumps / c. Prenut / d. Your Majesty Is Like a Cream Donut (Loud)",
+     "ms": 1223000
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-acoustic-daze",
+   "titulo": "Acoustic Daze",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2019,
+   "escena": "rarezas",
+   "estrellas_critica_album": "1",
+   "ficha": "content/albumes/hawkwind-acoustic-daze.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Psi Power",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Hymn to the Sun",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Watcher",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Generator Door",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Micro Man",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Intro the Night",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Down Through the Night",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Flying Doctor",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Get Yourself Together",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Ascent of Man",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "We Took the Wrong Step Years Ago",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-alien-4",
+   "titulo": "Alien 4",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1995,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-alien-4.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Abducted",
+     "ms": 165400
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Alien (I Am)",
+     "ms": 466400
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Reject Your Human Touch",
+     "ms": 141333
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Blue Skin",
+     "ms": 428306
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Beam Me Up",
+     "ms": 250426
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Vega",
+     "ms": 231040
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Xenomorph",
+     "ms": 291693
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Journey",
+     "ms": 192440
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Sputnik Stan",
+     "ms": 423493
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Kapal",
+     "ms": 310800
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Festivals",
+     "ms": 408266
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Death Trap",
+     "ms": 237000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Wastelands",
+     "ms": 83906
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Are You Losing Your Mind?",
+     "ms": 152067
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-all-aboard-the-skylark",
+   "titulo": "All Aboard the Skylark",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2019,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-all-aboard-the-skylark.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Flesh Fondue",
+     "ms": 303026
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Nets of Space",
+     "ms": 183053
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Last Man on Earth",
+     "ms": 301080
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "We Are Not Dead… Only Sleeping",
+     "ms": 201080
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "All Aboard the Skylark",
+     "ms": 325506
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "65 Million Years Ago",
+     "ms": 251493
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "In the Beginning",
+     "ms": 120146
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Road to…",
+     "ms": 313000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Fantasy of Faldum",
+     "ms": 554853
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Psi Power",
+     "ms": 315973
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Hymn to the Sun",
+     "ms": 169066
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "The Watcher",
+     "ms": 294120
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Generator Door",
+     "ms": 41320
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "Micro Man",
+     "ms": 308266
+    },
+    {
+     "medio": 2,
+     "n": 6,
+     "titulo": "Intro the Night",
+     "ms": 131226
+    },
+    {
+     "medio": 2,
+     "n": 7,
+     "titulo": "Down Through the Night",
+     "ms": 372333
+    },
+    {
+     "medio": 2,
+     "n": 8,
+     "titulo": "Flying Doctor",
+     "ms": 346640
+    },
+    {
+     "medio": 2,
+     "n": 9,
+     "titulo": "Get Yourself Together",
+     "ms": 420320
+    },
+    {
+     "medio": 2,
+     "n": 10,
+     "titulo": "Ascent of Man",
+     "ms": 304133
+    },
+    {
+     "medio": 2,
+     "n": 11,
+     "titulo": "We Took the Wrong Step Years Ago",
+     "ms": 233160
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-astounding-sounds-amazing-music",
+   "titulo": "Astounding Sounds, Amazing Music",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1976,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-astounding-sounds-amazing-music.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Reefer Madness",
+     "ms": 363093
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Steppenwolf",
+     "ms": 586440
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "City of Lagoons",
+     "ms": 309066
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Aubergine That Ate Rangoon",
+     "ms": 217200
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Kerb Crawler",
+     "ms": 225360
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Kadu Flyer",
+     "ms": 307373
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Chronoglide Skyway",
+     "ms": 303467
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-blood-of-the-earth",
+   "titulo": "Blood of the Earth",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2010,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-blood-of-the-earth.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Seahawks",
+     "ms": 374000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Blood of the Earth",
+     "ms": 179000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Wraith",
+     "ms": 367000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Green Machine",
+     "ms": 244000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Inner Visions",
+     "ms": 269000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Sweet Obsession",
+     "ms": 285000
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Comfy Chair",
+     "ms": 294000
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Prometheus",
+     "ms": 348000
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "You'd Better Believe It",
+     "ms": 431000
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Sentinel",
+     "ms": 363000
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "Starshine",
+     "ms": 431000
+    },
+    {
+     "medio": 2,
+     "n": 6,
+     "titulo": "Sunship",
+     "ms": 174000
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-choose-your-masques",
+   "titulo": "Choose Your Masques",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1982,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-choose-your-masques.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Choose Your Masks",
+     "ms": 328000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Dream Worker",
+     "ms": 298000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Arrival in Utopia",
+     "ms": 347000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Utopia",
+     "ms": 180000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Silver Machine",
+     "ms": 262000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Void City",
+     "ms": 408000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Solitary Mind Games",
+     "ms": 238000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Fahrenheit 451",
+     "ms": 288000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Scan",
+     "ms": 62000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Waiting for Tomorrow",
+     "ms": 226000
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-church-of-hawkwind",
+   "titulo": "Church of Hawkwind",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1982,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/hawkwind-church-of-hawkwind.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Angel Voices",
+     "ms": 81306
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Nuclear Drive",
+     "ms": 219293
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Star Cannibal",
+     "ms": 331706
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Phenomenon of Luminosity",
+     "ms": 160026
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Fall of Earth City",
+     "ms": 204200
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Church",
+     "ms": 92440
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Joker at the Gate",
+     "ms": 111040
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Some People Never Die",
+     "ms": 232906
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Light Specific Data",
+     "ms": 228666
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Experiment With Destiny",
+     "ms": 151666
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Last Messiah",
+     "ms": 87666
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Looking in the Future",
+     "ms": 243560
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-distant-horizons",
+   "titulo": "Distant Horizons",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1997,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-distant-horizons.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Distant Horizons",
+     "ms": 319546
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Phetamine Street",
+     "ms": 341720
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Waimea Canyon Drive",
+     "ms": 293640
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Alchemy",
+     "ms": 193240
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Clouded Vision",
+     "ms": 229320
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Reptoid Vision",
+     "ms": 459466
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Population Overload",
+     "ms": 410866
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Wheels",
+     "ms": 384146
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Kauai / Taxi for Max",
+     "ms": 170840
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Love in Space",
+     "ms": 290214
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-doremi-fasol-latido",
+   "titulo": "Doremi Fasol Latido",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1972,
+   "escena": "rarezas",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/hawkwind-doremi-fasol-latido.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Brainstorm",
+     "ms": 695000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Space Is Deep",
+     "ms": 381000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "One Change",
+     "ms": 49000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Lord of Light",
+     "ms": 419000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Down Through the Night",
+     "ms": 186000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Time We Left This World Today",
+     "ms": 524000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Watcher",
+     "ms": 248000
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-electric-tepee",
+   "titulo": "Electric Tepee",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1992,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/hawkwind-electric-tepee.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "L.S.D.",
+     "ms": 496373
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Blue Shift",
+     "ms": 258866
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Death of War",
+     "ms": 287760
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Secret Agent",
+     "ms": 491466
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Garden Pests",
+     "ms": 129840
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Space Dust",
+     "ms": 320600
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Snake Dance",
+     "ms": 232693
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Mask of the Morning",
+     "ms": 530000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Rites of Netherworld",
+     "ms": 36800
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Don’t Understand",
+     "ms": 424066
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Sadness Runs Deep",
+     "ms": 358333
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Right to Decide",
+     "ms": 265706
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Going to Hawaii",
+     "ms": 472666
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Electric Tepee",
+     "ms": 169400
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-hall-of-the-mountain-grill",
+   "titulo": "Hall of the Mountain Grill",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1974,
+   "escena": "rarezas",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/hawkwind-hall-of-the-mountain-grill.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Psychedelic Warlords (Disappear in Smoke)",
+     "ms": 439533
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Wind of Change",
+     "ms": 276133
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "D-Rider",
+     "ms": 374173
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Web Weaver",
+     "ms": 190066
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "You’d Better Believe It",
+     "ms": 434760
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Hall of the Mountain Grill",
+     "ms": 144106
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Lost Johnny",
+     "ms": 208093
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Goat Willow",
+     "ms": 97466
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Paradox",
+     "ms": 324240
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-hawkwind",
+   "titulo": "Hawkwind",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1970,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/hawkwind-hawkwind.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Hurry on Sundown",
+     "ms": 294653
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Reason Is?",
+     "ms": 213426
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Be Yourself",
+     "ms": 493000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Paranoia, Part 1",
+     "ms": 55480
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Paranoia, Part 2",
+     "ms": 252106
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Seeing It as You Really Are",
+     "ms": 639373
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Mirror of Illusion",
+     "ms": 415960
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-in-search-of-space",
+   "titulo": "In Search of Space",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1971,
+   "escena": "rarezas",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/hawkwind-in-search-of-space.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "You Shouldn’t Do That",
+     "ms": 941173
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "You Know You’re Only Dreaming",
+     "ms": 398573
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Master of the Universe",
+     "ms": 375640
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "We Took the Wrong Step Years Ago",
+     "ms": 290546
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Adjust Me",
+     "ms": 345906
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Children of the Sun",
+     "ms": 193040
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-into-the-woods",
+   "titulo": "Into the Woods",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2017,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-into-the-woods.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Into the Woods",
+     "ms": 376000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Cottage in the Woods",
+     "ms": 232000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Woodpecker",
+     "ms": 52000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Have You Seen Them?",
+     "ms": 418000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Ascent",
+     "ms": 221000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Space Ship Blues",
+     "ms": 395000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Wind",
+     "ms": 249000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Vegan Lunch",
+     "ms": 318000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Magic Scenes",
+     "ms": 372000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Darkland",
+     "ms": 134000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Wood Nymph",
+     "ms": 357000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Deep Cavern",
+     "ms": 147000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Magic Mushroom",
+     "ms": 568000
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-it-is-the-business-of-the-future-to-be-dangerous",
+   "titulo": "It Is the Business of the Future to Be Dangerous",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1993,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-it-is-the-business-of-the-future-to-be-dangerous.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "It Is the Business of the Future to Be Dangerous",
+     "ms": 386133
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Space Is Their (Palestine)",
+     "ms": 706333
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Tibet Is Not China (Part 1)",
+     "ms": 219866
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Tibet Is Not China (Part 2)",
+     "ms": 200733
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Let Barking Dogs Lie",
+     "ms": 541560
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Wave Upon Wave",
+     "ms": 192933
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Letting in the Past",
+     "ms": 173640
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Camera That Could Lie",
+     "ms": 295560
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "3 or 4 Erections in the Course of a Night",
+     "ms": 123706
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Techno Tropic Zone Exists",
+     "ms": 271426
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Gimme Shelter",
+     "ms": 333800
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Avante",
+     "ms": 362266
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-levitation",
+   "titulo": "Levitation",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1980,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/hawkwind-levitation.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Levitation",
+     "ms": 348600
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Motorway City",
+     "ms": 406933
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Psychosis",
+     "ms": 142733
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "World of Tiers",
+     "ms": 198800
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Prelude",
+     "ms": 101093
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Who's Gonna Win the War",
+     "ms": 285133
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Space Chase",
+     "ms": 189573
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Fifth Second of Forever",
+     "ms": 207133
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Dust of Time",
+     "ms": 379093
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-onward",
+   "titulo": "Onward",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2012,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-onward.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Seasons",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Hills Have Ears",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Mind Cut",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "System Check",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Death Trap",
+     "ms": 231426
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Southern Cross",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Prophecy",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Electric Tears",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Drive By",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Computer Cowards",
+     "ms": 328000
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Right to Decide",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Aerospace Age",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "The Flowering of the Rose",
+     "ms": 505000
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Howling Moon",
+     "ms": 132000
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "Trans Air Trucking",
+     "ms": 158000
+    },
+    {
+     "medio": 2,
+     "n": 6,
+     "titulo": "Deep Vents",
+     "ms": 32000
+    },
+    {
+     "medio": 2,
+     "n": 7,
+     "titulo": "Green Finned Demon",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 8,
+     "titulo": "[unknown]",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-pxr5",
+   "titulo": "PXR5",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1979,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/hawkwind-pxr5.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Death Trap",
+     "ms": 231426
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Jack of Shadows",
+     "ms": 208000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Uncle Sams on Mars",
+     "ms": 344600
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Infinity",
+     "ms": 257040
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Life Form",
+     "ms": 104266
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Robot",
+     "ms": 494600
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "High Rise",
+     "ms": 281000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "P.X.R.5",
+     "ms": 317000
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-quark-strangeness-and-charm",
+   "titulo": "Quark, Strangeness and Charm",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1977,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/hawkwind-quark-strangeness-and-charm.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Spirit of the Age",
+     "ms": 439386
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Damnation Alley",
+     "ms": 548200
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Fable of a Failed Race",
+     "ms": 198400
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Quark, Strangeness and Charm",
+     "ms": 221640
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Hassan I Sahba",
+     "ms": 322120
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Forge of Vulcan",
+     "ms": 185600
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Days of the Underground",
+     "ms": 190186
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Iron Dream",
+     "ms": 109746
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-road-to-utopia",
+   "titulo": "Road to Utopia",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2018,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-road-to-utopia.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Quark, Strangeness and Charm",
+     "ms": 272146
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Watcher",
+     "ms": 305413
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "We Took the Wrong Step Years Ago",
+     "ms": 296906
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Flying Doctor",
+     "ms": 351520
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Psychic Power",
+     "ms": 319720
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Hymn to the Sun",
+     "ms": 171253
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Age of the Micro Man",
+     "ms": 331826
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Intro the Night",
+     "ms": 131093
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Down Through the Night",
+     "ms": 431066
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-somnia",
+   "titulo": "Somnia",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2021,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-somnia.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Unsomnia",
+     "ms": 620000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Strange Encounters",
+     "ms": 394000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Alcyone",
+     "ms": 328000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Counting Sheep",
+     "ms": 204000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "China Blues",
+     "ms": 443000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "It’s Only a Dream",
+     "ms": 197000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Meditation",
+     "ms": 260000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Sweet Dreams",
+     "ms": 140000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "I Can’t Get You Off My Mind",
+     "ms": 238000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Small Objects in Space",
+     "ms": 307000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Pulsestar",
+     "ms": 104000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Barkus",
+     "ms": 286000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Cave of Phantom Dreams",
+     "ms": 253000
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-sonic-attack",
+   "titulo": "Sonic Attack",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1981,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-sonic-attack.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Sonic Attack",
+     "ms": 285000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Rocky Paths",
+     "ms": 218000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Psychosonia",
+     "ms": 164000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Virgin of the World",
+     "ms": 262000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Angels of Death",
+     "ms": 362000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Living on a Knife Edge",
+     "ms": 289000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Coded Languages",
+     "ms": 293000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Disintegration",
+     "ms": 67000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Streets of Fear",
+     "ms": 252000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Lost Chances",
+     "ms": 345000
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-space-bandits",
+   "titulo": "Space Bandits",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1990,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-space-bandits.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Images",
+     "ms": 573866
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Black Elk Speaks",
+     "ms": 314400
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Wings",
+     "ms": 322933
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Out of the Shadows",
+     "ms": 301960
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Realms",
+     "ms": 206600
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Ship of Dreams",
+     "ms": 309840
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "T.V. Suicide",
+     "ms": 321400
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-spacebrock",
+   "titulo": "Spacebrock",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2000,
+   "escena": "rarezas",
+   "estrellas_critica_album": "1",
+   "ficha": "content/albumes/hawkwind-spacebrock.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Life Form",
+     "ms": 102626
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Some People Never Die",
+     "ms": 242133
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Dreamers",
+     "ms": 220213
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Earth Breath",
+     "ms": 96280
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "You Burn Me Up",
+     "ms": 274040
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Right Way",
+     "ms": 53466
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Sex Dreams",
+     "ms": 228680
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "To Be or Not to Be",
+     "ms": 132653
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Kauai",
+     "ms": 95720
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Earth Calling",
+     "ms": 227746
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Starkness of the Capsule",
+     "ms": 193760
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Behind the Face",
+     "ms": 195373
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Space Brock",
+     "ms": 287946
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Space Pilots",
+     "ms": 121053
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "1st Landing",
+     "ms": 106666
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "The Journey",
+     "ms": 168986
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "Do You Want This Body",
+     "ms": 393654
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-stories-from-time-and-space",
+   "titulo": "Stories From Time and Space",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2024,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-stories-from-time-and-space.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Our Lives Can’t Last Forever",
+     "ms": 337533
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Starship (One Love One Life)",
+     "ms": 460240
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "What Are We Going to Do While We’re Here",
+     "ms": 424773
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Tracker",
+     "ms": 300400
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Eternal Light",
+     "ms": 100013
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Till I Found You",
+     "ms": 291933
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Underwater City",
+     "ms": 185280
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Night Sky",
+     "ms": 148053
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Traveller of Time & Space",
+     "ms": 447146
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Re‐Generate",
+     "ms": 302600
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Black Sea",
+     "ms": 71000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Frozen in Time",
+     "ms": 205200
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Stargazers",
+     "ms": 315600
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-take-me-to-your-future",
+   "titulo": "Take Me to Your Future",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2006,
+   "escena": "rarezas",
+   "estrellas_critica_album": "1",
+   "ficha": "content/albumes/hawkwind-take-me-to-your-future.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Uncle Sams on Mars",
+     "ms": 498000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Small Boy (The Swing)",
+     "ms": 197000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Reality of Poverty",
+     "ms": 548000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Ode to a Time Flower",
+     "ms": 246000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Silver Machine (21st Century remix)",
+     "ms": 417000
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Images",
+     "ms": 358000
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Utopia",
+     "ms": 579000
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "Assassins of Allah",
+     "ms": 520000
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "The Golden Void",
+     "ms": 449000
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "Steppenwolf",
+     "ms": 460000
+    },
+    {
+     "medio": 2,
+     "n": 6,
+     "titulo": "Paradox",
+     "ms": 193000
+    },
+    {
+     "medio": 2,
+     "n": 7,
+     "titulo": "Don’t Be Donkish",
+     "ms": 360000
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-take-me-to-your-leader",
+   "titulo": "Take Me to Your Leader",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2005,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/hawkwind-take-me-to-your-leader.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Spirit of the Age",
+     "ms": 403026
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Out Here We Are",
+     "ms": 356640
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Greenback Massacre",
+     "ms": 254106
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "To Love a Machine",
+     "ms": 360320
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Take Me to Your Leader",
+     "ms": 350146
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Digital Nation",
+     "ms": 325266
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Sunray",
+     "ms": 235786
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Sighs",
+     "ms": 82880
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Angela Android",
+     "ms": 308040
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "A Letter to Robert",
+     "ms": 369000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Paradox 2005",
+     "ms": 359000
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Spirit of the Age (promo video)",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Silver Machine (live with Lemmy)",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "The Right to Decide (live)",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Spirit of the Age (live)",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "Psychedelic Warlords (live)",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-the-chronicle-of-the-black-sword",
+   "titulo": "The Chronicle of the Black Sword",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1985,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/hawkwind-the-chronicle-of-the-black-sword.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Song of the Swords",
+     "ms": 208000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Shade Gate",
+     "ms": 181000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Sea King",
+     "ms": 204000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Pulsing Cavern",
+     "ms": 153000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Elric the Enchanter",
+     "ms": 290000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Needle Gun",
+     "ms": 253000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Zarozinia",
+     "ms": 201000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Demise",
+     "ms": 63000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Sleep of a Thousand Tears",
+     "ms": 250000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Chaos Army",
+     "ms": 52000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Horn of Destiny",
+     "ms": 380000
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-the-future-never-waits",
+   "titulo": "The Future Never Waits",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2023,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/hawkwind-the-future-never-waits.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Future Never Waits",
+     "ms": 616493
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The End",
+     "ms": 250093
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Aldous Huxley",
+     "ms": 277773
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "They’re So Easily Distracted",
+     "ms": 625133
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Rama (The Prophecy)",
+     "ms": 509573
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "USB1",
+     "ms": 236400
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Outside of Time",
+     "ms": 457826
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "I’m Learning to Live Today",
+     "ms": 485386
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Beginning",
+     "ms": 501733
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Trapped in This Modern Age",
+     "ms": 179946
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-the-machine-stops",
+   "titulo": "The Machine Stops",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2016,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/hawkwind-the-machine-stops.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "All Hail the Machine",
+     "ms": 203960
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Machine",
+     "ms": 278746
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Katie",
+     "ms": 55613
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "King of the World",
+     "ms": 171053
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "In My Room",
+     "ms": 222880
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Thursday",
+     "ms": 249400
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Synchronized Blue",
+     "ms": 324226
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Hexagone",
+     "ms": 291640
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Living on Earth",
+     "ms": 387346
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "The Harmonic Hall",
+     "ms": 295826
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Yum‐Yum",
+     "ms": 63773
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "A Solitary Man",
+     "ms": 303080
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Tube",
+     "ms": 268320
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Lost in Science",
+     "ms": 392906
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-the-xenon-codex",
+   "titulo": "The Xenon Codex",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1988,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-the-xenon-codex.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The War I Survived",
+     "ms": 324666
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Wastelands of Sleep",
+     "ms": 258600
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Neon Skyline / Lost Chronicles",
+     "ms": 460893
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Tides",
+     "ms": 175933
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Heads",
+     "ms": 301640
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Mutation Zone",
+     "ms": 236600
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "E.M.C.",
+     "ms": 293760
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Sword of the East",
+     "ms": 326240
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Good Evening",
+     "ms": 276826
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-there-is-no-space-for-us",
+   "titulo": "There Is No Space for Us",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 2025,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/hawkwind-there-is-no-space-for-us.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "There Is Still Danger There",
+     "ms": 334493
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Space Continues (Lifeform)",
+     "ms": 497987
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Co‐Pilot",
+     "ms": 502547
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Changes (Burning Suns and Frozen Waste)",
+     "ms": 554427
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "There Is No Space for Us",
+     "ms": 220387
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Outer Region of the Universe",
+     "ms": 476693
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Neutron Stars (Pulsating Light)",
+     "ms": 297533
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "A Long Long Way From Home",
+     "ms": 308653
+    }
+   ]
+  },
+  {
+   "album_slug": "hawkwind-warrior-on-the-edge-of-time",
+   "titulo": "Warrior on the Edge of Time",
+   "artista": "Hawkwind",
+   "artista_slug": "hawkwind",
+   "anio": 1975,
+   "escena": "rarezas",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/hawkwind-warrior-on-the-edge-of-time.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Assault and Battery, Part I",
+     "ms": 336626
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Golden Void, Part II",
+     "ms": 277640
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Wizard Blew His Horn",
+     "ms": 117133
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Opa-Loka",
+     "ms": 312866
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Demented Man",
+     "ms": 237533
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Magnu",
+     "ms": 502200
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Standing at the Edge",
+     "ms": 160200
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Spiral Galaxy 28948",
+     "ms": 226466
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Warriors",
+     "ms": 118733
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Dying Seas",
+     "ms": 185160
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Kings of Speed",
+     "ms": 212040
+    }
+   ]
+  },
+  {
+   "album_slug": "high-tide-a-fierce-nature",
+   "titulo": "A Fierce Nature",
+   "artista": "High Tide",
+   "artista_slug": "high-tide",
+   "anio": 1990,
+   "escena": "rarezas",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/high-tide-a-fierce-nature.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Chess",
+     "ms": 333266
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Roll On",
+     "ms": 250026
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "A Fierce Nature",
+     "ms": 414173
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Tribute",
+     "ms": 752000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Time To Change",
+     "ms": 203626
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Incitement",
+     "ms": 540840
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Power And Purpose",
+     "ms": 179133
+    }
+   ]
+  },
+  {
+   "album_slug": "high-tide-ancient-gates",
+   "titulo": "Ancient Gates",
+   "artista": "High Tide",
+   "artista_slug": "high-tide",
+   "anio": 1990,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/high-tide-ancient-gates.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Resonance",
+     "ms": 330000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Golden Space",
+     "ms": 1017000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Raga Kanda",
+     "ms": 929000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "AHT Variant",
+     "ms": 909000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Ancient Gates / Starless Skylines",
+     "ms": 1009000
+    }
+   ]
+  },
+  {
+   "album_slug": "high-tide-high-tide",
+   "titulo": "High Tide",
+   "artista": "High Tide",
+   "artista_slug": "high-tide",
+   "anio": 1970,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/high-tide-high-tide.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Blankman Cries Again",
+     "ms": 509160
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Joke",
+     "ms": 572106
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Saneonymous",
+     "ms": 869733
+    }
+   ]
+  }
+ ]
+}

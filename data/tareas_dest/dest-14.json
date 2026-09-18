@@ -1,0 +1,3039 @@
+{
+ "id": "dest-14",
+ "albumes": [
+  {
+   "album_slug": "jt-the-zealot-gene",
+   "titulo": "The Zealot Gene",
+   "artista": "Jethro Tull",
+   "artista_slug": "jt",
+   "anio": 2022,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/jt-the-zealot-gene.md",
+   "medios": 6,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Mrs Tibbets",
+     "ms": 354000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Jacob’s Tales",
+     "ms": 133000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Mine Is the Mountain",
+     "ms": 340000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Zealot Gene",
+     "ms": 234000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Shoshana Sleeping",
+     "ms": 221000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Sad City Sisters",
+     "ms": 220000
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Barren Beth, Wild Desert John",
+     "ms": 217000
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "The Betrayal of Joshua Kynde",
+     "ms": 246000
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "Where Did Saturday Go?",
+     "ms": 233000
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Three Loves, Three",
+     "ms": 210000
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "In Brief Visitation",
+     "ms": 180000
+    },
+    {
+     "medio": 2,
+     "n": 6,
+     "titulo": "The Fisherman of Ephesus",
+     "ms": 221000
+    },
+    {
+     "medio": 3,
+     "n": 1,
+     "titulo": "Mrs Tibbets (rough demo)",
+     "ms": 157000
+    },
+    {
+     "medio": 3,
+     "n": 2,
+     "titulo": "Mine Is the Mountain (rough demo)",
+     "ms": 146000
+    },
+    {
+     "medio": 3,
+     "n": 3,
+     "titulo": "The Zealot Gene (rough demo)",
+     "ms": 126000
+    },
+    {
+     "medio": 3,
+     "n": 4,
+     "titulo": "Shoshana Sleeping (rough demo)",
+     "ms": 164000
+    },
+    {
+     "medio": 3,
+     "n": 5,
+     "titulo": "Barren Beth, Wild Desert John (rough demo)",
+     "ms": 180000
+    },
+    {
+     "medio": 3,
+     "n": 6,
+     "titulo": "The Betrayal of Joshua Kynde (rough demo)",
+     "ms": 197000
+    },
+    {
+     "medio": 3,
+     "n": 7,
+     "titulo": "The Fisherman of Ephesus (rough demo)",
+     "ms": 184000
+    },
+    {
+     "medio": 4,
+     "n": 1,
+     "titulo": "Mrs Tibbets",
+     "ms": 354000
+    },
+    {
+     "medio": 4,
+     "n": 2,
+     "titulo": "Jacob’s Tales",
+     "ms": 133000
+    },
+    {
+     "medio": 4,
+     "n": 3,
+     "titulo": "Mine Is the Mountain",
+     "ms": 340000
+    },
+    {
+     "medio": 4,
+     "n": 4,
+     "titulo": "The Zealot Gene",
+     "ms": 234000
+    },
+    {
+     "medio": 4,
+     "n": 5,
+     "titulo": "Shoshana Sleeping",
+     "ms": 221000
+    },
+    {
+     "medio": 4,
+     "n": 6,
+     "titulo": "Sad City Sisters",
+     "ms": 220000
+    },
+    {
+     "medio": 4,
+     "n": 7,
+     "titulo": "Barren Beth, Wild Desert John",
+     "ms": 217000
+    },
+    {
+     "medio": 4,
+     "n": 8,
+     "titulo": "The Betrayal of Joshua Kynde",
+     "ms": 246000
+    },
+    {
+     "medio": 4,
+     "n": 9,
+     "titulo": "Where Did Saturday Go?",
+     "ms": 233000
+    },
+    {
+     "medio": 4,
+     "n": 10,
+     "titulo": "Three Loves, Three",
+     "ms": 210000
+    },
+    {
+     "medio": 4,
+     "n": 11,
+     "titulo": "In Brief Visitation",
+     "ms": 180000
+    },
+    {
+     "medio": 4,
+     "n": 12,
+     "titulo": "The Fisherman of Ephesus",
+     "ms": 221000
+    },
+    {
+     "medio": 5,
+     "n": 1,
+     "titulo": "Mrs Tibbets (rough demo)",
+     "ms": 157000
+    },
+    {
+     "medio": 5,
+     "n": 2,
+     "titulo": "Mine Is the Mountain (rough demo)",
+     "ms": 146000
+    },
+    {
+     "medio": 5,
+     "n": 3,
+     "titulo": "The Zealot Gene (rough demo)",
+     "ms": 126000
+    },
+    {
+     "medio": 5,
+     "n": 4,
+     "titulo": "Shoshana Sleeping (rough demo)",
+     "ms": 164000
+    },
+    {
+     "medio": 5,
+     "n": 5,
+     "titulo": "Barren Beth, Wild Desert John (rough demo)",
+     "ms": 180000
+    },
+    {
+     "medio": 5,
+     "n": 6,
+     "titulo": "The Betrayal of Joshua Kynde (rough demo)",
+     "ms": 197000
+    },
+    {
+     "medio": 5,
+     "n": 7,
+     "titulo": "The Fisherman of Ephesus (rough demo)",
+     "ms": 184000
+    },
+    {
+     "medio": 5,
+     "n": 8,
+     "titulo": "Jacob’s Tales (initial idea demo)",
+     "ms": 84000
+    },
+    {
+     "medio": 5,
+     "n": 9,
+     "titulo": "Sad City Sisters (initial idea demo)",
+     "ms": 152000
+    },
+    {
+     "medio": 5,
+     "n": 10,
+     "titulo": "Where Did Saturday Go? (initial idea demo)",
+     "ms": 213000
+    },
+    {
+     "medio": 5,
+     "n": 11,
+     "titulo": "Three Loves, Three (initial idea demo)",
+     "ms": 124000
+    },
+    {
+     "medio": 5,
+     "n": 12,
+     "titulo": "In Brief Visitation (initial idea demo)",
+     "ms": 74000
+    },
+    {
+     "medio": 5,
+     "n": 13,
+     "titulo": "She Smells So Sweet (initial idea demo)",
+     "ms": 69000
+    },
+    {
+     "medio": 6,
+     "n": 1,
+     "titulo": "Mrs Tibbets (5.1 surround mix)",
+     "ms": 354000
+    },
+    {
+     "medio": 6,
+     "n": 2,
+     "titulo": "Jacob’s Tales (5.1 surround mix)",
+     "ms": 133000
+    },
+    {
+     "medio": 6,
+     "n": 3,
+     "titulo": "Mine Is the Mountain (5.1 surround mix)",
+     "ms": 340000
+    },
+    {
+     "medio": 6,
+     "n": 4,
+     "titulo": "The Zealot Gene (5.1 surround mix)",
+     "ms": 234000
+    },
+    {
+     "medio": 6,
+     "n": 5,
+     "titulo": "Shoshana Sleeping (5.1 surround mix)",
+     "ms": 221000
+    },
+    {
+     "medio": 6,
+     "n": 6,
+     "titulo": "Sad City Sisters (5.1 surround mix)",
+     "ms": 220000
+    },
+    {
+     "medio": 6,
+     "n": 7,
+     "titulo": "Barren Beth, Wild Desert John (5.1 surround mix)",
+     "ms": 217000
+    },
+    {
+     "medio": 6,
+     "n": 8,
+     "titulo": "The Betrayal of Joshua Kynde (5.1 surround mix)",
+     "ms": 246000
+    },
+    {
+     "medio": 6,
+     "n": 9,
+     "titulo": "Where Did Saturday Go? (5.1 surround mix)",
+     "ms": 233000
+    },
+    {
+     "medio": 6,
+     "n": 10,
+     "titulo": "Three Loves, Three (5.1 surround mix)",
+     "ms": 210000
+    },
+    {
+     "medio": 6,
+     "n": 11,
+     "titulo": "In Brief Visitation (5.1 surround mix)",
+     "ms": 180000
+    },
+    {
+     "medio": 6,
+     "n": 12,
+     "titulo": "The Fisherman of Ephesus (5.1 surround mix)",
+     "ms": 221000
+    }
+   ]
+  },
+  {
+   "album_slug": "jt-thick-as-a-brick",
+   "titulo": "Thick as a Brick",
+   "artista": "Jethro Tull",
+   "artista_slug": "jt",
+   "anio": 1972,
+   "escena": null,
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/jt-thick-as-a-brick.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Thick as a Brick, Part 1",
+     "ms": 1356920
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Thick as a Brick, Part 2",
+     "ms": 1263400
+    }
+   ]
+  },
+  {
+   "album_slug": "jt-this-was",
+   "titulo": "This Was",
+   "artista": "Jethro Tull",
+   "artista_slug": "jt",
+   "anio": 1968,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/jt-this-was.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "My Sunday Feeling",
+     "ms": 228000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Some Day the Sun Won’t Shine for You",
+     "ms": 162000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Beggar’s Farm",
+     "ms": 259000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Move On Alone",
+     "ms": 120000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Serenade to a Cuckoo",
+     "ms": 361000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Dharma for One",
+     "ms": 251000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "It’s Breaking Me Up",
+     "ms": 296000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Cat’s Squirrel",
+     "ms": 336000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "A Song for Jeffrey",
+     "ms": 198000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Round",
+     "ms": 50000
+    }
+   ]
+  },
+  {
+   "album_slug": "jt-too-old-to-rock-n-roll-too-young-to-die",
+   "titulo": "Too Old to Rock 'n' Roll: Too Young to Die!",
+   "artista": "Jethro Tull",
+   "artista_slug": "jt",
+   "anio": 1976,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/jt-too-old-to-rock-n-roll-too-young-to-die.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Quizz Kid",
+     "ms": 311866
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Crazed Institution",
+     "ms": 286720
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Salamander",
+     "ms": 172066
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Taxi Grab",
+     "ms": 238733
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "From a Deadbeat to an Old Greaser",
+     "ms": 251226
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Bad‐Eyed and Loveless",
+     "ms": 132666
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Big Dipper",
+     "ms": 215000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Too Old to Rock ’n’ Roll: Too Young to Die",
+     "ms": 343173
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Pied Piper",
+     "ms": 275133
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "The Chequered Flag (Dead or Alive)",
+     "ms": 326414
+    }
+   ]
+  },
+  {
+   "album_slug": "jt-under-wraps",
+   "titulo": "Under Wraps",
+   "artista": "Jethro Tull",
+   "artista_slug": "jt",
+   "anio": 1984,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/jt-under-wraps.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Lap of Luxury",
+     "ms": 216426
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Under Wraps #1",
+     "ms": 242840
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "European Legacy",
+     "ms": 202960
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Later, That Same Evening",
+     "ms": 232666
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Saboteur",
+     "ms": 212666
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Radio Free Moscow",
+     "ms": 221666
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Astronomy",
+     "ms": 218040
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Tundra",
+     "ms": 221360
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Nobody’s Car",
+     "ms": 248200
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Heat",
+     "ms": 337906
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Under Wraps #2",
+     "ms": 134293
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Paparazzi",
+     "ms": 227866
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Apogee",
+     "ms": 329506
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Automotive Engineering",
+     "ms": 245733
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "General Crossing",
+     "ms": 241867
+    }
+   ]
+  },
+  {
+   "album_slug": "jt-war-child",
+   "titulo": "War Child",
+   "artista": "Jethro Tull",
+   "artista_slug": "jt",
+   "anio": 1974,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/jt-war-child.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "War Child",
+     "ms": 274133
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Queen and Country",
+     "ms": 181893
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Ladies",
+     "ms": 199506
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Back‐Door Angels",
+     "ms": 329266
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Sealion",
+     "ms": 217426
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Skating Away on the Thin Ice of the New Day",
+     "ms": 238333
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Bungle in the Jungle",
+     "ms": 217240
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Only Solitaire",
+     "ms": 89893
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Third Hoorah",
+     "ms": 291040
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Two Fingers",
+     "ms": 309066
+    }
+   ]
+  },
+  {
+   "album_slug": "kaleidoscope-uk-faintly-blowing",
+   "titulo": "Faintly Blowing",
+   "artista": "Kaleidoscope",
+   "artista_slug": "kaleidoscope-uk",
+   "anio": 1969,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kaleidoscope-uk-faintly-blowing.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Faintly Blowing",
+     "ms": 249573
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Poem",
+     "ms": 174293
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Snapdragon",
+     "ms": 163973
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "A Story From Tom Bitz",
+     "ms": 226333
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "(Love Song) For Annie",
+     "ms": 155826
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "If You So Wish",
+     "ms": 221733
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Opinion",
+     "ms": 20773
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Bless the Executioner",
+     "ms": 179760
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Black Fjord",
+     "ms": 195906
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "The Feathered Tiger",
+     "ms": 311693
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "I'll Kiss You Once",
+     "ms": 59306
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Music",
+     "ms": 368066
+    }
+   ]
+  },
+  {
+   "album_slug": "kaleidoscope-uk-tangerine-dream",
+   "titulo": "Tangerine Dream",
+   "artista": "Kaleidoscope",
+   "artista_slug": "kaleidoscope-uk",
+   "anio": 1967,
+   "escena": "rarezas",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/kaleidoscope-uk-tangerine-dream.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Kaleidoscope",
+     "ms": 135426
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Please Excuse My Face",
+     "ms": 131373
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Dive Into Yesterday",
+     "ms": 286400
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Mr. Small, the Watch Repairer Man",
+     "ms": 163560
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Flight From Ashiya",
+     "ms": 160453
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Murder of Lewis Tollani",
+     "ms": 167453
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "(Further Reflections) In the Room of Percussion",
+     "ms": 199600
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Dear Nellie Goodrich",
+     "ms": 166520
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Holidaymaker",
+     "ms": 149600
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "A Lesson, Perhaps",
+     "ms": 162226
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Sky Children",
+     "ms": 480800
+    }
+   ]
+  },
+  {
+   "album_slug": "kaleidoscope-uk-white-faced-lady",
+   "titulo": "White Faced Lady",
+   "artista": "Kaleidoscope",
+   "artista_slug": "kaleidoscope-uk",
+   "anio": 1990,
+   "escena": "rarezas",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kaleidoscope-uk-white-faced-lady.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Overture",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Broken Mirrors",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Angel's Song: \"Dear Elvis Presley...\"",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Nursey, Nursey",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Small Song - Heaven in the Back Row",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Burning Bright",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Matchseller",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Coronation of the Fledgling",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "All Hail to the Hero",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "White-Faced Lady",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Freefall",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Standing",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "Diary Song: The Indian Head",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Song From Jon",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "Long Way Down",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 6,
+     "titulo": "The Locket",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 7,
+     "titulo": "Picture With Conversation",
+     "ms": null
+    },
+    {
+     "medio": 2,
+     "n": 8,
+     "titulo": "Epitaph: Angel",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-always-never-the-same",
+   "titulo": "Always Never the Same",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1998,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/kansas-always-never-the-same.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Eleanor Rigby",
+     "ms": 202066
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Dust in the Wind",
+     "ms": 241093
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Preamble",
+     "ms": 205840
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Song for America",
+     "ms": 557160
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "In Your Eyes",
+     "ms": 271266
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Miracles out of Nowhere",
+     "ms": 388733
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Hold On",
+     "ms": 258773
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Sky Is Falling",
+     "ms": 471666
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Cheyenne Anthem",
+     "ms": 451733
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Prelude & Introduction",
+     "ms": 293160
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Wall",
+     "ms": 329733
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Need to Know",
+     "ms": 239306
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Nobody’s Home",
+     "ms": 361733
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-audiovisions",
+   "titulo": "Audio‐Visions",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1980,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kansas-audiovisions.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Relentless",
+     "ms": 297960
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Anything for You",
+     "ms": 239000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Hold On",
+     "ms": 233000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Loner",
+     "ms": 150000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Curtain of Iron",
+     "ms": 371000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Got to Rock On",
+     "ms": 201000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Don’t Open Your Eyes",
+     "ms": 246093
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "No One Together",
+     "ms": 419000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "No Room for a Stranger",
+     "ms": 181000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Back Door",
+     "ms": 263000
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-drastic-measures",
+   "titulo": "Drastic Measures",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1983,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/kansas-drastic-measures.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Fight Fire With Fire",
+     "ms": 222600
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Everybody’s My Friend",
+     "ms": 241293
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Mainstream",
+     "ms": 396600
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Andi",
+     "ms": 257399
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Going Through the Motions",
+     "ms": 348040
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Get Rich",
+     "ms": 224226
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Don’t Take Your Love Away",
+     "ms": 219506
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "End of the Age",
+     "ms": 273266
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Incident on a Bridge",
+     "ms": 338733
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-freaks-of-nature",
+   "titulo": "Freaks of Nature",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1995,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/kansas-freaks-of-nature.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "I Can Fly",
+     "ms": 321000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Desperate Times",
+     "ms": 325000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Hope Once Again",
+     "ms": 274000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Black Fathom 4",
+     "ms": 354000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Under the Knife",
+     "ms": 294000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Need",
+     "ms": 239000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Freaks of Nature",
+     "ms": 245000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Cold Grey Morning",
+     "ms": 254000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Peaceful and Warm",
+     "ms": 404000
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-in-the-spirit-of-things",
+   "titulo": "In the Spirit of Things",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1988,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kansas-in-the-spirit-of-things.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Ghosts",
+     "ms": 248373
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "One Big Sky",
+     "ms": 317626
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Inside of Me",
+     "ms": 284533
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "One Man, One Heart",
+     "ms": 259640
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "House on Fire",
+     "ms": 282200
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Once in a Lifetime",
+     "ms": 253560
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Stand Beside Me",
+     "ms": 211533
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "I Counted on Love",
+     "ms": 213533
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Preacher",
+     "ms": 258773
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Rainmaker",
+     "ms": 404800
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "T.O. Witcher",
+     "ms": 99760
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Bells of Saint James",
+     "ms": 339266
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-kansas",
+   "titulo": "Kansas",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1974,
+   "escena": "eeuu",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kansas-kansas.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Can I Tell You",
+     "ms": 212333
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Bringing It Back",
+     "ms": 213066
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Lonely Wind",
+     "ms": 256826
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Belexes",
+     "ms": 263573
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Journey From Mariabronn",
+     "ms": 475826
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Pilgrimage",
+     "ms": 222466
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Apercu",
+     "ms": 583800
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Death of Mother Nature Suite",
+     "ms": 463040
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-leftoverture",
+   "titulo": "Leftoverture",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1976,
+   "escena": "eeuu",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/kansas-leftoverture.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Carry On Wayward Son",
+     "ms": 313000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Wall",
+     "ms": 287000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "What’s on My Mind",
+     "ms": 267000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Miracles Out of Nowhere",
+     "ms": 389000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Opus Insert",
+     "ms": 266000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Questions of My Childhood",
+     "ms": 218000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Cheyenne Anthem",
+     "ms": 410000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Magnum Opus: Father Padilla Meets the Perfect Gnat / Howling at the Moon / Man Overboard / Industry on Parade / Release the Beavers / Gnat Attack",
+     "ms": 507000
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-masque",
+   "titulo": "Masque",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1975,
+   "escena": "eeuu",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kansas-masque.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "It Takes a Woman’s Love (to Make a Man)",
+     "ms": 186000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Two Cents Worth",
+     "ms": 187000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Icarus—Borne on Wings of Steel",
+     "ms": 362000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "All the World",
+     "ms": 428000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Child of Innocence",
+     "ms": 273000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "It’s You",
+     "ms": 152000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Mysteries and Mayhem",
+     "ms": 259000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Pinnacle",
+     "ms": 574000
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-monolith",
+   "titulo": "Monolith",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1979,
+   "escena": "eeuu",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kansas-monolith.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "On the Other Side",
+     "ms": 383000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "People of the South Wind",
+     "ms": 220000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Angels Have Fallen",
+     "ms": 396000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "How My Soul Cries Out for You",
+     "ms": 318000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "A Glimpse of Home",
+     "ms": 430000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Away From You",
+     "ms": 260000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Stay Out of Trouble",
+     "ms": 252000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Reason to Be",
+     "ms": 230000
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-point-of-know-return",
+   "titulo": "Point of Know Return",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1977,
+   "escena": "eeuu",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/kansas-point-of-know-return.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Point of Know Return",
+     "ms": 191000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Paradox",
+     "ms": 229000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Spider",
+     "ms": 128000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Portrait (He Knew)",
+     "ms": 272000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Closet Chronicles",
+     "ms": 390000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Lightning’s Hand",
+     "ms": 261000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Dust in the Wind",
+     "ms": 206000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Sparks of the Tempest",
+     "ms": 255000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Nobody’s Home",
+     "ms": 277000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Hopelessly Human",
+     "ms": 430000
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-power",
+   "titulo": "Power",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1986,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kansas-power.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Silhouettes in Disguise",
+     "ms": 268333
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Power",
+     "ms": 266466
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "All I Wanted",
+     "ms": 201960
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Secret Service",
+     "ms": 281173
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "We’re Not Alone Anymore",
+     "ms": 256160
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Musicatto",
+     "ms": 212866
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Taking In the View",
+     "ms": 177306
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Three Pretenders",
+     "ms": 235333
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Tomb 19",
+     "ms": 230626
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Can’t Cry Anymore",
+     "ms": 239440
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-somewhere-to-elsewhere",
+   "titulo": "Somewhere to Elsewhere",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 2000,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kansas-somewhere-to-elsewhere.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Icarus II",
+     "ms": 437146
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "When the World Was Young",
+     "ms": 350986
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Grand Fun Alley",
+     "ms": 278866
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Coming Dawn (Thanatopsis)",
+     "ms": 344453
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Myriad",
+     "ms": 535520
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Look at the Time",
+     "ms": 337266
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Disappearing Skin Tight Blues",
+     "ms": 422706
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Distant Vision",
+     "ms": 528413
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Byzantium",
+     "ms": 255040
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Not Man Big",
+     "ms": 519440
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Geodesic Dome",
+     "ms": 84026
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-song-for-america",
+   "titulo": "Song for America",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1975,
+   "escena": "eeuu",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/kansas-song-for-america.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Down the Road",
+     "ms": 223760
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Song for America",
+     "ms": 603200
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Lamplight Symphony",
+     "ms": 497666
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Lonely Street",
+     "ms": 343000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Devil Game",
+     "ms": 304506
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Incomudro - Hymn to the Atman",
+     "ms": 731960
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-the-absence-of-presence",
+   "titulo": "The Absence of Presence",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 2020,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kansas-the-absence-of-presence.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Absence of Presence",
+     "ms": 502159
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Throwing Mountains",
+     "ms": 381192
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Jets Overhead",
+     "ms": 317407
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Propulsion 1",
+     "ms": 137269
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Memories Down the Line",
+     "ms": 278307
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Circus of Illusion",
+     "ms": 319211
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Animals on the Roof",
+     "ms": 312831
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Never",
+     "ms": 290925
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Song the River Sang",
+     "ms": 305751
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-the-prelude-implicit",
+   "titulo": "The Prelude Implicit",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 2016,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kansas-the-prelude-implicit.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "With This Heart",
+     "ms": 253626
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Visibility Zero",
+     "ms": 267946
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Unsung Heroes",
+     "ms": 302160
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Rhythm in the Spirit",
+     "ms": 358866
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Refugee",
+     "ms": 263600
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Voyage of Eight Eighteen",
+     "ms": 498680
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Camouflage",
+     "ms": 402786
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Summer",
+     "ms": 247426
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Crowded Isolation",
+     "ms": 370960
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Section 60",
+     "ms": 269253
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Home on the Range",
+     "ms": 205760
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Oh Shenandoah",
+     "ms": 218533
+    }
+   ]
+  },
+  {
+   "album_slug": "kansas-vinyl-confessions",
+   "titulo": "Vinyl Confessions",
+   "artista": "Kansas",
+   "artista_slug": "kansas",
+   "anio": 1982,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kansas-vinyl-confessions.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Play the Game Tonight",
+     "ms": 204000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Right Away",
+     "ms": 243000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Fair Exchange",
+     "ms": 296000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Chasing Shadows",
+     "ms": 197000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Diamonds and Pearls",
+     "ms": 287000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Face It",
+     "ms": 255000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Windows",
+     "ms": 209000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Borderline",
+     "ms": 237000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Play On",
+     "ms": 219000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Crossfire",
+     "ms": 395000
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-beat",
+   "titulo": "Beat",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1982,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kc-beat.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Neal and Jack and Me",
+     "ms": 263200
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Heartbeat",
+     "ms": 234906
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Sartori in Tangier",
+     "ms": 215466
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Waiting Man",
+     "ms": 264426
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Neurotica",
+     "ms": 288666
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Two Hands",
+     "ms": 203666
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Howler",
+     "ms": 252133
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Requiem",
+     "ms": 396533
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-discipline",
+   "titulo": "Discipline",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1981,
+   "escena": null,
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/kc-discipline.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Elephant Talk",
+     "ms": 280000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Frame by Frame",
+     "ms": 305000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Matte Kudasai",
+     "ms": 226000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Indiscipline",
+     "ms": 270000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Thela Hun Ginjeet",
+     "ms": 383000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Sheltering Sky",
+     "ms": 499000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Discipline",
+     "ms": 300000
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-in-the-court-of-the-crimson-king",
+   "titulo": "In the Court of the Crimson King",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1969,
+   "escena": null,
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/kc-in-the-court-of-the-crimson-king.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "21st Century Schizoid Man (including Mirrors)",
+     "ms": 412000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "I Talk to the Wind",
+     "ms": 340000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Epitaph (including March for No Reason and Tomorrow and Tomorrow)",
+     "ms": 510000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Moonchild (including The Dream and The Illusion)",
+     "ms": 729000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Court of the Crimson King (including The Return of the Fire Witch and The Dance of the Puppets)",
+     "ms": 528000
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-in-the-wake-of-poseidon",
+   "titulo": "In the Wake of Poseidon",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1970,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kc-in-the-wake-of-poseidon.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Peace: A Beginning",
+     "ms": 50426
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Pictures of a City (including 42nd at Treadmill)",
+     "ms": 481933
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Cadence and Cascade",
+     "ms": 278173
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "In the Wake of Poseidon (including Libra’s Theme)",
+     "ms": 478266
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Peace: A Theme",
+     "ms": 75000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Cat Food",
+     "ms": 292626
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Devil’s Triangle (including Merday Morn / Hand of Sceiron / Garden of Worm)",
+     "ms": 698906
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Peace: An End",
+     "ms": 113333
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-islands",
+   "titulo": "Islands",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1971,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kc-islands.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Formentera Lady",
+     "ms": 615933
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Sailor’s Tale",
+     "ms": 454200
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Letters",
+     "ms": 272400
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Ladies of the Road",
+     "ms": 335133
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Prelude: Song of the Gulls",
+     "ms": 254826
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Islands",
+     "ms": 714440
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-larks-tongues-in-aspic",
+   "titulo": "Larks' Tongues in Aspic",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1973,
+   "escena": null,
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/kc-larks-tongues-in-aspic.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Larks’ Tongues in Aspic, Part One",
+     "ms": 817400
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Book of Saturday",
+     "ms": 176440
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Exiles",
+     "ms": 462026
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Easy Money",
+     "ms": 474373
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Talking Drum",
+     "ms": 446493
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Larks’ Tongues in Aspic, Part Two",
+     "ms": 428266
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-lizard",
+   "titulo": "Lizard",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1970,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kc-lizard.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Cirkus (including Entry of the Chameleons)",
+     "ms": 388933
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Indoor Games",
+     "ms": 339693
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Happy Family",
+     "ms": 264173
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Lady of the Dancing Water",
+     "ms": 165266
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Lizard: a) Prince Rupert Awakes - b) Bolero: The Peacock's Tale - c) The Battle of Glass Tears (including I. Dawn Song - II. Last Skirmish - III. Prince Rupert's Lament) - d) Big Top",
+     "ms": 1402493
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-red",
+   "titulo": "Red",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1974,
+   "escena": null,
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/kc-red.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Red",
+     "ms": 376733
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Fallen Angel",
+     "ms": 364200
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "One More Red Nightmare",
+     "ms": 427826
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Providence",
+     "ms": 491533
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Starless",
+     "ms": 738773
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-starless-and-bible-black",
+   "titulo": "Starless and Bible Black",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1974,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/kc-starless-and-bible-black.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Great Deceiver",
+     "ms": 242000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Lament",
+     "ms": 240000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "We’ll Let You Know",
+     "ms": 226000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Night Watch",
+     "ms": 277000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Trio",
+     "ms": 340840
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Mincer",
+     "ms": 250000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Starless and Bible Black",
+     "ms": 551306
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Fracture",
+     "ms": 674000
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-the-construkction-of-light",
+   "titulo": "The ConstruKction of Light",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 2000,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/kc-the-construkction-of-light.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "ProzaKc Blues",
+     "ms": 328733
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The ConstruKction of Light",
+     "ms": 349800
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The ConstruKction of Light",
+     "ms": 170200
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Into the Frying Pan",
+     "ms": 414000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "FraKctured",
+     "ms": 546066
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The World’s My Oyster Soup Kitchen Floor Wax Museum",
+     "ms": 384160
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Larks’ Tongues in Aspic, Part IV",
+     "ms": 221573
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Larks’ Tongues in Aspic, Part IV",
+     "ms": 170466
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Larks’ Tongues in Aspic, Part IV",
+     "ms": 156293
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Coda: I Have a Dream",
+     "ms": 291573
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Heaven and Earth",
+     "ms": 466134
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-the-power-to-believe",
+   "titulo": "The Power to Believe",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 2003,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/kc-the-power-to-believe.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Power to Believe I: A Cappella",
+     "ms": 44053
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Level Five",
+     "ms": 437640
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Eyes Wide Open",
+     "ms": 248560
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Elektrik",
+     "ms": 479973
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Facts of Life (intro)",
+     "ms": 98733
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Facts of Life",
+     "ms": 305680
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Power to Believe II",
+     "ms": 463840
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Dangerous Curves",
+     "ms": 402560
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Happy With What You Have to Be Happy With",
+     "ms": 197640
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "The Power to Believe III",
+     "ms": 249333
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Power to Believe IV: Coda",
+     "ms": 149346
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-thrak",
+   "titulo": "THRAK",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1995,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kc-thrak.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "VROOOM",
+     "ms": 278800
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Coda: Marine 475",
+     "ms": 161826
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Dinosaur",
+     "ms": 397506
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Walking on Air",
+     "ms": 278293
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "B’Boom",
+     "ms": 251200
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "THRAK",
+     "ms": 239400
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Inner Garden I",
+     "ms": 107173
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "People",
+     "ms": 353666
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Radio I",
+     "ms": 43933
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "One Time",
+     "ms": 322133
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Radio II",
+     "ms": 62960
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Inner Garden II",
+     "ms": 76200
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Sex Sleep Eat Drink Dream",
+     "ms": 290666
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "VROOOM VROOOM",
+     "ms": 349733
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "VROOOM VROOOM: Coda",
+     "ms": 183506
+    }
+   ]
+  },
+  {
+   "album_slug": "kc-three-of-a-perfect-pair",
+   "titulo": "Three of a Perfect Pair",
+   "artista": "King Crimson",
+   "artista_slug": "kc",
+   "anio": 1984,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/kc-three-of-a-perfect-pair.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Three of a Perfect Pair",
+     "ms": 254400
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Model Man",
+     "ms": 231133
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Sleepless",
+     "ms": 319400
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Man With an Open Heart",
+     "ms": 185760
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Nuages (That Which Passes, Passes Like Clouds)",
+     "ms": 287306
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Industry",
+     "ms": 424933
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Dig Me",
+     "ms": 196960
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "No Warning",
+     "ms": 209373
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Larks’ Tongues in Aspic, Part III",
+     "ms": 362560
+    }
+   ]
+  },
+  {
+   "album_slug": "kevin-ayers-as-close-as-you-think",
+   "titulo": "As Close As You Think",
+   "artista": "Kevin Ayers",
+   "artista_slug": "kevin-ayers",
+   "anio": 1986,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/kevin-ayers-as-close-as-you-think.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Steppin’ Out",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Fool After Midnight",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Wish I Could Fall",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Only Heaven Knows",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Too Old to Die Young",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Howlin’ Man",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Never My Baby",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Budget Tours, Part One",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Budget Tours, Part Two",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "kevin-ayers-bananamour",
+   "titulo": "Bananamour",
+   "artista": "Kevin Ayers",
+   "artista_slug": "kevin-ayers",
+   "anio": 1973,
+   "escena": "canterbury",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/kevin-ayers-bananamour.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Don't Let It Get You Down (For Rachel)",
+     "ms": 241960
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Shouting in a Bucket Blues",
+     "ms": 224200
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "When Your Parents Go to Sleep",
+     "ms": 345773
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Interview",
+     "ms": 284666
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Internotional Anthem",
+     "ms": 40826
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Decadence",
+     "ms": 484000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Oh! Wot a Dream",
+     "ms": 168240
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Hymn",
+     "ms": 274360
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Beware of the Dog",
+     "ms": 80173
+    }
+   ]
+  }
+ ]
+}

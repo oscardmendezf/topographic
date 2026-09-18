@@ -1,0 +1,3639 @@
+{
+ "id": "dest-01",
+ "albumes": [
+  {
+   "album_slug": "alas-alas",
+   "titulo": "Alas",
+   "artista": "Alas",
+   "artista_slug": "alas",
+   "anio": 1976,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/alas-alas.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Buenos Aires sólo es piedra: Tango / Sueño / Recuerdo / Trompetango / Tanguito / Soldó",
+     "ms": 948000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "La muerte contó el dinero: Vidala / Smog / Galope / Mal-ambo / Vidala Again / Amanecer/Tormenta / Final",
+     "ms": 1056000
+    }
+   ]
+  },
+  {
+   "album_slug": "alas-mimame-bandoneon",
+   "titulo": "Mímame bandoneón",
+   "artista": "Alas",
+   "artista_slug": "alas",
+   "anio": 2005,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/alas-mimame-bandoneon.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Somos lo que somos",
+     "ms": 335413
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Mímame bandoneón",
+     "ms": 466960
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Dos mil uno",
+     "ms": 356573
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "La caza del mosquito",
+     "ms": 410213
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Buenos Aires solo es piedra",
+     "ms": 868080
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Aire",
+     "ms": 233226
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Marcia",
+     "ms": 406413
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Pinta tu aldea",
+     "ms": 698066
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Silencio de aguas profundas",
+     "ms": 628173
+    }
+   ]
+  },
+  {
+   "album_slug": "alas-pinta-tu-aldea",
+   "titulo": "Pinta tu aldea",
+   "artista": "Alas",
+   "artista_slug": "alas",
+   "anio": 1983,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/alas-pinta-tu-aldea.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "A quiénes sino",
+     "ms": 594000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Pinta tu aldea",
+     "ms": 612000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "La caza del mosquito",
+     "ms": 424000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Silencio de aguas profundas",
+     "ms": 811000
+    }
+   ]
+  },
+  {
+   "album_slug": "almendra-almendra-1969",
+   "titulo": "Almendra",
+   "artista": "Almendra",
+   "artista_slug": "almendra",
+   "anio": 1969,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/almendra-almendra-1969.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Muchacha (ojos de papel)",
+     "ms": 187000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Color humano",
+     "ms": 552000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Figuración",
+     "ms": 212000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Ana no duerme",
+     "ms": 167000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Fermín",
+     "ms": 200000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Plegaria para un niño dormido",
+     "ms": 243000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "A estos hombres tristes",
+     "ms": 360000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Que el viento borró tus manos",
+     "ms": 158000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Laura va",
+     "ms": 172000
+    }
+   ]
+  },
+  {
+   "album_slug": "almendra-almendra-1970",
+   "titulo": "Almendra",
+   "artista": "Almendra",
+   "artista_slug": "almendra",
+   "anio": 1970,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/almendra-almendra-1970.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Toma el tren hacia el sur",
+     "ms": 226000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Jingle",
+     "ms": 89000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "No tengo idea",
+     "ms": 169000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Camino difícil",
+     "ms": 151000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Rutas argentinas",
+     "ms": 160000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Vete de mí, cuervo negro",
+     "ms": 73000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Aire de amor",
+     "ms": 180000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Mestizo",
+     "ms": 149000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Agnus dei",
+     "ms": 868000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Para ir",
+     "ms": 239000
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Parvas",
+     "ms": 315000
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Cometa azul",
+     "ms": 267000
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "Florecen los nardos",
+     "ms": 410000
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Carmen",
+     "ms": 187000
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "Obertura",
+     "ms": 185000
+    },
+    {
+     "medio": 2,
+     "n": 6,
+     "titulo": "Amor de aire",
+     "ms": 159000
+    },
+    {
+     "medio": 2,
+     "n": 7,
+     "titulo": "Verde llano",
+     "ms": 97000
+    },
+    {
+     "medio": 2,
+     "n": 8,
+     "titulo": "Leves instrucciones",
+     "ms": 94000
+    },
+    {
+     "medio": 2,
+     "n": 9,
+     "titulo": "Los elefantes",
+     "ms": 383000
+    },
+    {
+     "medio": 2,
+     "n": 10,
+     "titulo": "Un pájaro te sostiene",
+     "ms": 147000
+    },
+    {
+     "medio": 2,
+     "n": 11,
+     "titulo": "En las cúpulas",
+     "ms": 282000
+    }
+   ]
+  },
+  {
+   "album_slug": "almendra-el-valle-interior",
+   "titulo": "El valle interior",
+   "artista": "Almendra",
+   "artista_slug": "almendra",
+   "anio": 1980,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/almendra-el-valle-interior.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Las cosas para hacer",
+     "ms": 400000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "A mi dama",
+     "ms": 205000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Miguelito, mi espíritu ha partido a tiempo",
+     "ms": 480000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Espejada",
+     "ms": 125000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Cielo fuerte (Amor guaraní)",
+     "ms": 278000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "El fantasma de la buena suerte",
+     "ms": 405000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Buen día, día de sol",
+     "ms": 280000
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-almost-alive",
+   "titulo": "Almost Alive…",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1977,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/amon-duul-ii-almost-alive.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "One Blue Morning",
+     "ms": 452333
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Good Bye My Love",
+     "ms": 497666
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Ain't Today Tomorrow Yesterday",
+     "ms": 442333
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Hallelujah",
+     "ms": 261333
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Feeling Uneasy",
+     "ms": 375160
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Live in Jericho",
+     "ms": 727174
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-bee-as-such",
+   "titulo": "Bee as Such",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 2010,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/amon-duul-ii-bee-as-such.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Mambo La Libertad",
+     "ms": 514000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Du kommst in's Heim",
+     "ms": 562000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Still Standing",
+     "ms": 495000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Psychedelic Suite",
+     "ms": 1561000
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-carnival-in-babylon",
+   "titulo": "Carnival in Babylon",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1972,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/amon-duul-ii-carnival-in-babylon.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "C.I.D. in Uruk",
+     "ms": 338200
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "All the Years Round",
+     "ms": 445733
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Shimmering Sand",
+     "ms": 396466
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Kronwinkl 12",
+     "ms": 236666
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Tables Are Turned",
+     "ms": 218693
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Hawknose Harlequin",
+     "ms": 589240
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-duulirium",
+   "titulo": "Düülirium",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 2014,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/amon-duul-ii-duulirium.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "On the Highway (Mambo la Liberta)",
+     "ms": 515000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Du kommst ins Heim",
+     "ms": 563000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Standing in the Shadow",
+     "ms": 495000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Back to the Rules / Walking to the Park",
+     "ms": 1562000
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-eternal-flashback",
+   "titulo": "Eternal Flashback",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1996,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/amon-duul-ii-eternal-flashback.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Eternal Flashback",
+     "ms": 4069000
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-flawless",
+   "titulo": "Flawless",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1997,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/amon-duul-ii-flawless.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Nada Cairo",
+     "ms": 407693
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Surrounded by the Stars",
+     "ms": 446000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Castaneda da Dream (In Another World)",
+     "ms": 224573
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Wie Der Wind Am Ende Einer Strasse",
+     "ms": 342600
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Kiss Ma Eee",
+     "ms": 316000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Cerberus",
+     "ms": 257399
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Speed Inside My Shoes",
+     "ms": 172000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "La paloma",
+     "ms": 154960
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Nada Moonshine Union",
+     "ms": 415506
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Dancing on Fire",
+     "ms": 320226
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Jam 71",
+     "ms": 556706
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "What You Gonna Do",
+     "ms": 300026
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Jim Hai Jam UK 96",
+     "ms": 381173
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-hijack",
+   "titulo": "Hijack",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1974,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/amon-duul-ii-hijack.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "I Can't Wait (Part 1+2)",
+     "ms": 377400
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Mirror",
+     "ms": 288800
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Traveller",
+     "ms": 268080
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "You're Not Alone",
+     "ms": 417360
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Explode Like a Star",
+     "ms": 242533
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Da Guadeloop",
+     "ms": 423560
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Lonely Woman",
+     "ms": 283786
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Liquid Whisper",
+     "ms": 212493
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Archy the Robot",
+     "ms": 209987
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-kobe-reconstructions",
+   "titulo": "Kobe (Reconstructions)",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1996,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/amon-duul-ii-kobe-reconstructions.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "In Six Pieces",
+     "ms": 3941000
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-made-in-germany",
+   "titulo": "Made in Germany",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1975,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/amon-duul-ii-made-in-germany.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Dreams",
+     "ms": 247889
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Ludwig / The King’s Chocolate‐Waltz / Blue Grotto",
+     "ms": 516809
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "5.5.55",
+     "ms": 193289
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Emigrant Song",
+     "ms": 203102
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "La Krautoma",
+     "ms": 289195
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Metropolis",
+     "ms": 219409
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Loosey Girls",
+     "ms": 319342
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Gala Gnome",
+     "ms": 77755
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Top of the Mud",
+     "ms": 224475
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Mr. Kraut’s Jinx",
+     "ms": 532913
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-nada-moonshine",
+   "titulo": "Nada Moonshine #",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1995,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/amon-duul-ii-nada-moonshine.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Casteneda da dream",
+     "ms": 467200
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Nada Moonshine #",
+     "ms": 524893
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Speed Inside My Shoes",
+     "ms": 262573
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Sirens in Germanistan",
+     "ms": 356760
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Lilac Lillies",
+     "ms": 296973
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Kiss ma eee",
+     "ms": 501466
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Carpetride in Velvet Night",
+     "ms": 318426
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Black Pearl of Wisdom",
+     "ms": 305133
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Ça va",
+     "ms": 339040
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Guadalquivir",
+     "ms": 296133
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-only-human",
+   "titulo": "Only Human",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1978,
+   "escena": null,
+   "estrellas_critica_album": "1",
+   "ficha": "content/albumes/amon-duul-ii-only-human.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Another Morning",
+     "ms": 244666
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Don't Turn Too Stone",
+     "ms": 236666
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Kirk Morgan",
+     "ms": 202000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Spaniards & Spacemen",
+     "ms": 350666
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Kismet",
+     "ms": 478666
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Pharao",
+     "ms": 286826
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Ruby Lane",
+     "ms": 234507
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-phallus-dei",
+   "titulo": "Phallus Dei",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1969,
+   "escena": "alemania",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/amon-duul-ii-phallus-dei.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Kanaan",
+     "ms": 236000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Dem Guten, Schönen, Wahren",
+     "ms": 360000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Luzifers Ghilom",
+     "ms": 482000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Henriette Krötenschwanz",
+     "ms": 119000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Phallus Dei",
+     "ms": 1245000
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-pyragony-x",
+   "titulo": "Pyragony X",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1976,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/amon-duul-ii-pyragony-x.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Flower of the Orient",
+     "ms": 360000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Merlin",
+     "ms": 264000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Crystal Hexagram",
+     "ms": 338000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Lost in Space",
+     "ms": 252000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Sally the Seducer",
+     "ms": 183000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Telly Vision",
+     "ms": 246840
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Only Thing",
+     "ms": 450000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Capuccino",
+     "ms": 188000
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-tanz-der-lemminge",
+   "titulo": "Tanz der Lemminge",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1971,
+   "escena": "alemania",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/amon-duul-ii-tanz-der-lemminge.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Syntelman’s March of the Roaring Seventies: In the Glassgarden / Pull Down Your Mask / Prayer to the Silence / Telephonecomplex",
+     "ms": 951000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Restless Skylight-Transistor-Child: Landing in a Ditch / Dehypnotized Toothpaste / A Short Stop at the Transylvanian Brain Surgery / Race From Here to Your Ears / Paralized Paradise / H.G. Well's Take-Off",
+     "ms": 1173000
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "The Marilyn Monroe-Memorial-Church (Impr)",
+     "ms": 1085000
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Chewing Gum Telegram",
+     "ms": 161000
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "Stumbling Over Melted Moonlight",
+     "ms": 273000
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Toxicological Whispering",
+     "ms": 465000
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-vive-la-trance",
+   "titulo": "Vive La Trance",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1973,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/amon-duul-ii-vive-la-trance.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "A Morning Excuse",
+     "ms": 199306
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Fly United",
+     "ms": 210360
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Jalousie",
+     "ms": 209000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Im Krater blühn wieder die Bäume",
+     "ms": 188133
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Mozambique",
+     "ms": 464306
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Apocalyptic Bore",
+     "ms": 398000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Dr. Jeckyll",
+     "ms": 179666
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Trap",
+     "ms": 216493
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Pig Man Part 1 and 2",
+     "ms": 158000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Mañana",
+     "ms": 203000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Ladies Mimikry",
+     "ms": 259800
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-vortex",
+   "titulo": "Vortex",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1981,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/amon-duul-ii-vortex.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Vortex",
+     "ms": 346986
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Holy West",
+     "ms": 306920
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Die 7 fetten Jahr'",
+     "ms": 270720
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Wings of the Wind",
+     "ms": 287333
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Mona",
+     "ms": 304466
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "We Are Machine",
+     "ms": 313813
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Das Gestern is das Heute von Morgen",
+     "ms": 267213
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Vibes in the Air",
+     "ms": 388547
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-wolf-city",
+   "titulo": "Wolf City",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1972,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/amon-duul-ii-wolf-city.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Surrounded by the Stars",
+     "ms": 466760
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Green Bubble Raincoated Man",
+     "ms": 303666
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Jail-House-Frog",
+     "ms": 292106
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Wolf City",
+     "ms": 199533
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Wie der Wind am Ende einer Strasse",
+     "ms": 344533
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Deutsch Nepal",
+     "ms": 178960
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Sleepwalker's Timeless Bridge",
+     "ms": 293440
+    }
+   ]
+  },
+  {
+   "album_slug": "amon-duul-ii-yeti",
+   "titulo": "Yeti",
+   "artista": "Amon Düül II",
+   "artista_slug": "amon-duul-ii",
+   "anio": 1970,
+   "escena": "alemania",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/amon-duul-ii-yeti.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Soap Shop Rock, A. Burning Sister, B. Halluzination Guillotine, C. Gulp a Sonata, D. Flesh-Coloured Anti-Aircraft Alarm",
+     "ms": 826000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "She Came Through the Chimney",
+     "ms": 236000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Archangels Thunderbird",
+     "ms": 210000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Cerberus",
+     "ms": 258000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Return of Ruebezahl",
+     "ms": 95000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Eye-Shaking King",
+     "ms": 397000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Pale Gallery",
+     "ms": 131000
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Yeti (Improvisation)",
+     "ms": 1080000
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Yeti Talks to Yogi (Improvisation)",
+     "ms": 366000
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "Sandoz in the Rain (Improvisation)",
+     "ms": 535000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-1984",
+   "titulo": "1984",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 1981,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/ap-1984.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Prelude '84",
+     "ms": 263813
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "1984, Part One",
+     "ms": 1142666
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "1984, Part Two",
+     "ms": 926626
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Anthem 1984",
+     "ms": 147546
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-ahead-of-the-field",
+   "titulo": "Ahead of the Field",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2010,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-ahead-of-the-field.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "High Potential",
+     "ms": 186480
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Stress Factor",
+     "ms": 134920
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Ahead of the Field",
+     "ms": 125360
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Directions",
+     "ms": 128866
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "View Points",
+     "ms": 140053
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Activator",
+     "ms": 143533
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Data Express",
+     "ms": 131760
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Time Runner",
+     "ms": 133853
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Metal Man",
+     "ms": 149106
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Knowledge of Man",
+     "ms": 138760
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Forging Ahead",
+     "ms": 126120
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Data Bank",
+     "ms": 154893
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Incentives",
+     "ms": 137493
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Touchline",
+     "ms": 150253
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-battle-of-the-birds",
+   "titulo": "Battle of the Birds",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2003,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-battle-of-the-birds.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Wren & The Raven",
+     "ms": 172000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Raven Flight",
+     "ms": 188000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Magic Bundle",
+     "ms": 292000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Promise",
+     "ms": 187000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The First Test",
+     "ms": 213000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Second Test",
+     "ms": 267000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Wed the Giants Daughter",
+     "ms": 154000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The First Spell",
+     "ms": 234000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Last Spell",
+     "ms": 143000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "From Rags to Riches",
+     "ms": 386000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Auburn Mary",
+     "ms": 188000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "The Choice",
+     "ms": 135000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Sombre",
+     "ms": 79000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Flight",
+     "ms": 189000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Twilight",
+     "ms": 229000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-beyond-the-outer-reaches",
+   "titulo": "Beyond The Outer Reaches",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2024,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-beyond-the-outer-reaches.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Divine Eternity",
+     "ms": 156000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Universe of Wonders",
+     "ms": 146000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Strange Unknown",
+     "ms": 159000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Rivers of Sunlight",
+     "ms": 159000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Sea of Eternity",
+     "ms": 141000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "On Starry Nights",
+     "ms": 187000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "To Worlds Beyond",
+     "ms": 166000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Quest Continues",
+     "ms": 181000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Through Space and Time",
+     "ms": 149000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "To the Skies Above",
+     "ms": 142000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Dark Powers",
+     "ms": 167000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "The Wings of Serenity",
+     "ms": 159000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "To the Farthest Stars",
+     "ms": 157000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "The Eyes of the Mind",
+     "ms": 148000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Catching Starlight",
+     "ms": 129000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-cinematic-ambient",
+   "titulo": "Cinematic Ambient",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2024,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-cinematic-ambient.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Cinematic Ambient",
+     "ms": 142000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Warmth and Light",
+     "ms": 142000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Last of Rust",
+     "ms": 152000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Microgravity",
+     "ms": 158000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Star Birth",
+     "ms": 141000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Frozen Space",
+     "ms": 150000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Down the Gravity Well",
+     "ms": 115000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Space for Hope",
+     "ms": 149000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Sonar Dreams",
+     "ms": 152000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Neutral Space",
+     "ms": 137000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Headlight Drifting",
+     "ms": 149000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "A Place Beyond",
+     "ms": 155000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-cinematic-guitars",
+   "titulo": "Cinematic Guitars",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2024,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-cinematic-guitars.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Ocean Shelf",
+     "ms": 154000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Caverns Collide",
+     "ms": 134000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Sun Spots",
+     "ms": 128000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Archimedes Belt",
+     "ms": 166000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Mid Atlantic Ridge",
+     "ms": 130000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Resurrection Boulevard",
+     "ms": 147000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Dying Star",
+     "ms": 185000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Return From the Abyss",
+     "ms": 152000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Antarctic Expedition",
+     "ms": 190000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Deeper Spirits",
+     "ms": 155000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-docudrama-night-scenes",
+   "titulo": "Docudrama: Night Scenes",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2024,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-docudrama-night-scenes.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Intimate Shadows",
+     "ms": 123000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Cross Traffic",
+     "ms": 114000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Insistent Night",
+     "ms": 122000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Deep Fate",
+     "ms": 133000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Inner City Jungle",
+     "ms": 120000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Acid Rain",
+     "ms": 161000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Aris Circulation",
+     "ms": 119000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Light Shaft",
+     "ms": 122000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Digital Surveillance",
+     "ms": 141000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Black Star",
+     "ms": 162000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-field-day",
+   "titulo": "Field Day",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2005,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/ap-field-day.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Voyage Out",
+     "ms": 83000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "High Fives",
+     "ms": 113000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Credo",
+     "ms": 115000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Cerise",
+     "ms": 78000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Runaway Horse",
+     "ms": 152000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Home Sweet Home",
+     "ms": 45000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Steps Retraced",
+     "ms": 251000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Field Day",
+     "ms": 104000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Nocturne",
+     "ms": 227000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Tryst",
+     "ms": 264000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Girl in the Gallery",
+     "ms": 64000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Bel Ami",
+     "ms": 123000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Concerto de Álvarez",
+     "ms": 506000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Lifer",
+     "ms": 196000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Chasing the Light",
+     "ms": 100000
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "Parlour Suite I",
+     "ms": 99000
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "Parlour Suite II",
+     "ms": 61000
+    },
+    {
+     "medio": 1,
+     "n": 18,
+     "titulo": "Parlout Suite III",
+     "ms": 67000
+    },
+    {
+     "medio": 1,
+     "n": 19,
+     "titulo": "Parlour Suite IV",
+     "ms": 56000
+    },
+    {
+     "medio": 1,
+     "n": 20,
+     "titulo": "Parlous Suite V",
+     "ms": 107000
+    },
+    {
+     "medio": 1,
+     "n": 21,
+     "titulo": "Parlour Suite VI",
+     "ms": 95000
+    },
+    {
+     "medio": 1,
+     "n": 22,
+     "titulo": "Parlous Suite VII",
+     "ms": 46000
+    },
+    {
+     "medio": 1,
+     "n": 23,
+     "titulo": "Parlour Suite VIII",
+     "ms": 107000
+    },
+    {
+     "medio": 1,
+     "n": 24,
+     "titulo": "Swoon",
+     "ms": 55000
+    },
+    {
+     "medio": 1,
+     "n": 25,
+     "titulo": "River of Life",
+     "ms": 185000
+    },
+    {
+     "medio": 1,
+     "n": 26,
+     "titulo": "Memento",
+     "ms": 48000
+    },
+    {
+     "medio": 1,
+     "n": 27,
+     "titulo": "Open Road",
+     "ms": 65000
+    },
+    {
+     "medio": 1,
+     "n": 28,
+     "titulo": "White Spider",
+     "ms": 397000
+    },
+    {
+     "medio": 1,
+     "n": 29,
+     "titulo": "Half Way Out",
+     "ms": 61000
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Weeping Willow",
+     "ms": 350000
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "The Love Not Shared",
+     "ms": 51000
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "Sojourn",
+     "ms": 167000
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Dawn Over the Field of Eternity",
+     "ms": 83000
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "Fallen City",
+     "ms": 289000
+    },
+    {
+     "medio": 2,
+     "n": 6,
+     "titulo": "Rain on Sag Harbour",
+     "ms": 98000
+    },
+    {
+     "medio": 2,
+     "n": 7,
+     "titulo": "Days of Grace",
+     "ms": 155000
+    },
+    {
+     "medio": 2,
+     "n": 8,
+     "titulo": "Timeline",
+     "ms": 36000
+    },
+    {
+     "medio": 2,
+     "n": 9,
+     "titulo": "Oubliette",
+     "ms": 212000
+    },
+    {
+     "medio": 2,
+     "n": 10,
+     "titulo": "Tania",
+     "ms": 176000
+    },
+    {
+     "medio": 2,
+     "n": 11,
+     "titulo": "Babbling Brook",
+     "ms": 54000
+    },
+    {
+     "medio": 2,
+     "n": 12,
+     "titulo": "Shimmering Sharon",
+     "ms": 30000
+    },
+    {
+     "medio": 2,
+     "n": 13,
+     "titulo": "The Room in Tierra del Fuego",
+     "ms": 71000
+    },
+    {
+     "medio": 2,
+     "n": 14,
+     "titulo": "Mudlark",
+     "ms": 101000
+    },
+    {
+     "medio": 2,
+     "n": 15,
+     "titulo": "Tearaway",
+     "ms": 84000
+    },
+    {
+     "medio": 2,
+     "n": 16,
+     "titulo": "Midnight Blue",
+     "ms": 40000
+    },
+    {
+     "medio": 2,
+     "n": 17,
+     "titulo": "Evening Shroud",
+     "ms": 74000
+    },
+    {
+     "medio": 2,
+     "n": 18,
+     "titulo": "Rapscallion",
+     "ms": 44000
+    },
+    {
+     "medio": 2,
+     "n": 19,
+     "titulo": "Beyond the Castle Walls",
+     "ms": 69000
+    },
+    {
+     "medio": 2,
+     "n": 20,
+     "titulo": "Forgotten Pathway",
+     "ms": 135000
+    },
+    {
+     "medio": 2,
+     "n": 21,
+     "titulo": "Fairy Ring",
+     "ms": 43000
+    },
+    {
+     "medio": 2,
+     "n": 22,
+     "titulo": "Largo d'amour",
+     "ms": 197000
+    },
+    {
+     "medio": 2,
+     "n": 23,
+     "titulo": "Whippersnapper",
+     "ms": 81000
+    },
+    {
+     "medio": 2,
+     "n": 24,
+     "titulo": "Kissing Gate",
+     "ms": 113000
+    },
+    {
+     "medio": 2,
+     "n": 25,
+     "titulo": "To the Lighthouse",
+     "ms": 490000
+    },
+    {
+     "medio": 2,
+     "n": 26,
+     "titulo": "Driftwood",
+     "ms": 27000
+    },
+    {
+     "medio": 2,
+     "n": 27,
+     "titulo": "Festoons and Billows",
+     "ms": 57000
+    },
+    {
+     "medio": 2,
+     "n": 28,
+     "titulo": "Flotsam and Jetsam",
+     "ms": 51000
+    },
+    {
+     "medio": 2,
+     "n": 29,
+     "titulo": "Sunfish Shallows",
+     "ms": 75000
+    },
+    {
+     "medio": 2,
+     "n": 30,
+     "titulo": "Smart Alec",
+     "ms": 102000
+    },
+    {
+     "medio": 2,
+     "n": 31,
+     "titulo": "Prayer for Natalie",
+     "ms": 130000
+    },
+    {
+     "medio": 2,
+     "n": 32,
+     "titulo": "Out and Beyond",
+     "ms": 141000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-finger-painting-missing-links-volume-1",
+   "titulo": "Finger Painting: Missing Links, Volume 1",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 1989,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/ap-finger-painting-missing-links-volume-1.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Force Majeure",
+     "ms": 235866
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Mountain Voices",
+     "ms": 188493
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Lord of the Smoking Mirror",
+     "ms": 182506
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Sea Horses",
+     "ms": 183093
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Dungeons",
+     "ms": 161333
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Between the Rings",
+     "ms": 194306
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Evening Ascent",
+     "ms": 211893
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Streamer",
+     "ms": 81933
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "After the Rain",
+     "ms": 167773
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Rottweiler",
+     "ms": 168200
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Sad Fish",
+     "ms": 172400
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "A Song",
+     "ms": 39666
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "God’s Chosen Car Park Suite",
+     "ms": 407493
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Tropical Moon Over Dorking Suite",
+     "ms": 309400
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Fountain Pool",
+     "ms": 32640
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "C.Q.",
+     "ms": 66760
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "Three Piece Suite",
+     "ms": 248133
+    },
+    {
+     "medio": 1,
+     "n": 18,
+     "titulo": "Boulevard of Fallen Leaves",
+     "ms": 128706
+    },
+    {
+     "medio": 1,
+     "n": 19,
+     "titulo": "Land of Dragons Suite",
+     "ms": 775000
+    },
+    {
+     "medio": 1,
+     "n": 20,
+     "titulo": "And a Prayer",
+     "ms": 72266
+    },
+    {
+     "medio": 1,
+     "n": 21,
+     "titulo": "Tierra del Fuego",
+     "ms": 69933
+    },
+    {
+     "medio": 1,
+     "n": 22,
+     "titulo": "Paradise Found",
+     "ms": 133760
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-gemini-pieces-for-piano",
+   "titulo": "Gemini: Pieces for Piano",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2026,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-gemini-pieces-for-piano.md",
+   "medios": 2,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "River of Serenity",
+     "ms": 227200
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Sanctum",
+     "ms": 211000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Oblique",
+     "ms": 183720
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Testament",
+     "ms": 272813
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Twister",
+     "ms": 152613
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Solitude",
+     "ms": 124613
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Kaleidoscope",
+     "ms": 240000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Spring Fair",
+     "ms": 396587
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Gravitas",
+     "ms": 183093
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Piece for C.S.",
+     "ms": 337400
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Odyssey of a Somnambulant",
+     "ms": 334253
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Confessional",
+     "ms": 197280
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Penitence",
+     "ms": 111307
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Lost Love",
+     "ms": 144667
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Cradle of Night",
+     "ms": 267627
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "Golden Days",
+     "ms": 146907
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "Empyrean",
+     "ms": 306547
+    },
+    {
+     "medio": 1,
+     "n": 18,
+     "titulo": "Dying Star",
+     "ms": 103867
+    },
+    {
+     "medio": 1,
+     "n": 19,
+     "titulo": "Forest Green",
+     "ms": 122867
+    },
+    {
+     "medio": 1,
+     "n": 20,
+     "titulo": "Memoir",
+     "ms": 178701
+    },
+    {
+     "medio": 2,
+     "n": 1,
+     "titulo": "Gemini",
+     "ms": 235373
+    },
+    {
+     "medio": 2,
+     "n": 2,
+     "titulo": "Hymnal",
+     "ms": 201800
+    },
+    {
+     "medio": 2,
+     "n": 3,
+     "titulo": "Frost Flower",
+     "ms": 196813
+    },
+    {
+     "medio": 2,
+     "n": 4,
+     "titulo": "Pablo Farceur",
+     "ms": 155307
+    },
+    {
+     "medio": 2,
+     "n": 5,
+     "titulo": "Labyrinth",
+     "ms": 214533
+    },
+    {
+     "medio": 2,
+     "n": 6,
+     "titulo": "Sanctity",
+     "ms": 249320
+    },
+    {
+     "medio": 2,
+     "n": 7,
+     "titulo": "Fathomless Caverns",
+     "ms": 303547
+    },
+    {
+     "medio": 2,
+     "n": 8,
+     "titulo": "Perdita",
+     "ms": 178787
+    },
+    {
+     "medio": 2,
+     "n": 9,
+     "titulo": "Faded Glory",
+     "ms": 148453
+    },
+    {
+     "medio": 2,
+     "n": 10,
+     "titulo": "Marking Time",
+     "ms": 66720
+    },
+    {
+     "medio": 2,
+     "n": 11,
+     "titulo": "Lady Moon",
+     "ms": 163307
+    },
+    {
+     "medio": 2,
+     "n": 12,
+     "titulo": "Sundowner",
+     "ms": 130387
+    },
+    {
+     "medio": 2,
+     "n": 13,
+     "titulo": "Canticle",
+     "ms": 157773
+    },
+    {
+     "medio": 2,
+     "n": 14,
+     "titulo": "Crossed Lines",
+     "ms": 52000
+    },
+    {
+     "medio": 2,
+     "n": 15,
+     "titulo": "Chansons Sans Mots (I)",
+     "ms": 159613
+    },
+    {
+     "medio": 2,
+     "n": 16,
+     "titulo": "Chansons Sans Mots (II)",
+     "ms": 217947
+    },
+    {
+     "medio": 2,
+     "n": 17,
+     "titulo": "Chansons Sans Mots (III)",
+     "ms": 176053
+    },
+    {
+     "medio": 2,
+     "n": 18,
+     "titulo": "Chansons Sans Mots (IV)",
+     "ms": 193987
+    },
+    {
+     "medio": 2,
+     "n": 19,
+     "titulo": "Chansons Sans Mots (V)",
+     "ms": 138733
+    },
+    {
+     "medio": 2,
+     "n": 20,
+     "titulo": "Chansons Sans Mots (VI)",
+     "ms": 225267
+    },
+    {
+     "medio": 2,
+     "n": 21,
+     "titulo": "In Repose",
+     "ms": 171440
+    },
+    {
+     "medio": 2,
+     "n": 22,
+     "titulo": "Sliding Doors",
+     "ms": 46773
+    },
+    {
+     "medio": 2,
+     "n": 23,
+     "titulo": "Pool of Memory",
+     "ms": 200000
+    },
+    {
+     "medio": 2,
+     "n": 24,
+     "titulo": "Into the Firmament",
+     "ms": 100680
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-gypsy-suite",
+   "titulo": "Gypsy Suite",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 1995,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-gypsy-suite.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Gypsy Suite Movement I: First Light",
+     "ms": 479640
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Gypsy Suite Movement II: Siesta",
+     "ms": 311093
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Gypsy Suite Movement III: Evening Circle",
+     "ms": 344040
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Gypsy Suite Movement IV: The Crystal Ball",
+     "ms": 604226
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Tarka Movement I: The Early Years",
+     "ms": 526120
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Tarka Movement IIa: Streams River and Salmon Hunting",
+     "ms": 401920
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Tarka Movement IIb: Drums & Estuary",
+     "ms": 398000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Tarka Movement IIc: Moonfield - Postscript",
+     "ms": 81560
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-invisible-men",
+   "titulo": "Invisible Men",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 1990,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/ap-invisible-men.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Golden Bodies",
+     "ms": 196000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Women Were Watching",
+     "ms": 288000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Traces",
+     "ms": 291000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Exocet",
+     "ms": 203000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Love in a Hot Air Balloon",
+     "ms": 226000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Going for Broke",
+     "ms": 211000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Falling for Love",
+     "ms": 216000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Sally",
+     "ms": 237000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "I Want Your Heart",
+     "ms": 233000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Guru",
+     "ms": 284000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "It's Not Easy",
+     "ms": 290000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "My Time Has Come",
+     "ms": 294000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Trail of Tears",
+     "ms": 335000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "The Ballad of Penlee",
+     "ms": 219000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Alex",
+     "ms": 340000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-missing-links-volume-3-time-and-tide",
+   "titulo": "Missing Links, Volume 3: Time and Tide",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 1997,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/ap-missing-links-volume-3-time-and-tide.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Amazonas",
+     "ms": 82000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Peruvian Plains",
+     "ms": 66000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Manatee Garden",
+     "ms": 161000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Turtle Race",
+     "ms": 241000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Indio Wedding",
+     "ms": 162000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Underwater Forest",
+     "ms": 117000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Fiesta del Charangos",
+     "ms": 142000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Slow Hand Sloth",
+     "ms": 110000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "River Chase",
+     "ms": 63000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Sacred Kingdom",
+     "ms": 121000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "African Dream",
+     "ms": 88000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Bedouin Train",
+     "ms": 145000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Sandstorm",
+     "ms": 188000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Kalahari March",
+     "ms": 172000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "SongoKu",
+     "ms": 231000
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "Schuan Journey",
+     "ms": 199000
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "Slow Boat to China",
+     "ms": 256000
+    },
+    {
+     "medio": 1,
+     "n": 18,
+     "titulo": "Back in the Land of Dragons",
+     "ms": 126000
+    },
+    {
+     "medio": 1,
+     "n": 19,
+     "titulo": "Shadow Puppet",
+     "ms": 202000
+    },
+    {
+     "medio": 1,
+     "n": 20,
+     "titulo": "Sea Jewel",
+     "ms": 187000
+    },
+    {
+     "medio": 1,
+     "n": 21,
+     "titulo": "End Theme for Five",
+     "ms": 62000
+    },
+    {
+     "medio": 1,
+     "n": 22,
+     "titulo": "Minnow Dance",
+     "ms": 62000
+    },
+    {
+     "medio": 1,
+     "n": 23,
+     "titulo": "Sunken Galleons",
+     "ms": 117000
+    },
+    {
+     "medio": 1,
+     "n": 24,
+     "titulo": "Haunting the Dark Sea",
+     "ms": 119000
+    },
+    {
+     "medio": 1,
+     "n": 25,
+     "titulo": "Time and Tide",
+     "ms": 130000
+    },
+    {
+     "medio": 1,
+     "n": 26,
+     "titulo": "Okavanga",
+     "ms": 128000
+    },
+    {
+     "medio": 1,
+     "n": 27,
+     "titulo": "Under Desert Stars",
+     "ms": 76000
+    },
+    {
+     "medio": 1,
+     "n": 28,
+     "titulo": "Lost in a Desert Night",
+     "ms": 84000
+    },
+    {
+     "medio": 1,
+     "n": 29,
+     "titulo": "Blue Lagoons",
+     "ms": 153000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-missing-links-volume-iv-pathways-promenades",
+   "titulo": "Missing Links, Volume IV: Pathways & Promenades",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2009,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-missing-links-volume-iv-pathways-promenades.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Golden Road to Samarkand",
+     "ms": 93000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Promenade",
+     "ms": 242000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Sceptred Isle",
+     "ms": 166000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Danza Cuccaracha",
+     "ms": 343000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Fallen Idol",
+     "ms": 142000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Cascades",
+     "ms": 128000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Sky Dawn",
+     "ms": 377000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Misty Mountains",
+     "ms": 154000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "It’s All Greek to Me",
+     "ms": 147000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Haven From the Sea",
+     "ms": 143000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Heavenly Gene",
+     "ms": 138000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Ironclad (Dungeons)",
+     "ms": 158000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Water Gardens",
+     "ms": 156000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Night Train",
+     "ms": 62000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Sleeping Giant",
+     "ms": 99000
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "Sombrero",
+     "ms": 157000
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "Irish Lament",
+     "ms": 86000
+    },
+    {
+     "medio": 1,
+     "n": 18,
+     "titulo": "Aurora",
+     "ms": 183000
+    },
+    {
+     "medio": 1,
+     "n": 19,
+     "titulo": "Without You",
+     "ms": 99000
+    },
+    {
+     "medio": 1,
+     "n": 20,
+     "titulo": "Sad Exodus",
+     "ms": 150000
+    },
+    {
+     "medio": 1,
+     "n": 21,
+     "titulo": "Summer of Love",
+     "ms": 190000
+    },
+    {
+     "medio": 1,
+     "n": 22,
+     "titulo": "Light Rain",
+     "ms": 200000
+    },
+    {
+     "medio": 1,
+     "n": 23,
+     "titulo": "Halycon Days",
+     "ms": 355000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-mystery-and-documentary",
+   "titulo": "Mystery And Documentary",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2001,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-mystery-and-documentary.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "A Path Not Taken (Simple Version)",
+     "ms": 112000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "A Path Not Taken (Faster Version)",
+     "ms": 144000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Pure Water",
+     "ms": 126000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Liquid Mirror",
+     "ms": 104000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Liquid Mirror",
+     "ms": 121000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Galleria",
+     "ms": 112000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Pizz Pace",
+     "ms": 167000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Thermal",
+     "ms": 90000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Warm Haze",
+     "ms": 77000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Wonder Gene",
+     "ms": 103000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Cumulus",
+     "ms": 95000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Solaris",
+     "ms": 84000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Biosphere",
+     "ms": 139000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Inferno",
+     "ms": 83000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Nemesis",
+     "ms": 127000
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "Nemesis",
+     "ms": 109000
+    },
+    {
+     "medio": 1,
+     "n": 17,
+     "titulo": "Winter Campaign",
+     "ms": 94000
+    },
+    {
+     "medio": 1,
+     "n": 18,
+     "titulo": "Woman's Grief",
+     "ms": 128000
+    },
+    {
+     "medio": 1,
+     "n": 19,
+     "titulo": "Graveyard",
+     "ms": 118000
+    },
+    {
+     "medio": 1,
+     "n": 20,
+     "titulo": "Paranormal",
+     "ms": 101000
+    },
+    {
+     "medio": 1,
+     "n": 21,
+     "titulo": "Deadly Past",
+     "ms": 83000
+    },
+    {
+     "medio": 1,
+     "n": 22,
+     "titulo": "Surveillance",
+     "ms": 115000
+    },
+    {
+     "medio": 1,
+     "n": 23,
+     "titulo": "Random Elements",
+     "ms": 124000
+    },
+    {
+     "medio": 1,
+     "n": 24,
+     "titulo": "Deceived",
+     "ms": 99000
+    },
+    {
+     "medio": 1,
+     "n": 25,
+     "titulo": "Underwater Tomb",
+     "ms": 85000
+    },
+    {
+     "medio": 1,
+     "n": 26,
+     "titulo": "Crime Scene",
+     "ms": 111000
+    },
+    {
+     "medio": 1,
+     "n": 27,
+     "titulo": "Lost Cause",
+     "ms": 92000
+    },
+    {
+     "medio": 1,
+     "n": 28,
+     "titulo": "No Survivors",
+     "ms": 76000
+    },
+    {
+     "medio": 1,
+     "n": 29,
+     "titulo": "Black Plague",
+     "ms": 93000
+    },
+    {
+     "medio": 1,
+     "n": 30,
+     "titulo": "Black Plague",
+     "ms": 90000
+    },
+    {
+     "medio": 1,
+     "n": 31,
+     "titulo": "Dark Ages",
+     "ms": 130000
+    },
+    {
+     "medio": 1,
+     "n": 32,
+     "titulo": "Dark Ages",
+     "ms": 22000
+    },
+    {
+     "medio": 1,
+     "n": 33,
+     "titulo": "Scary Throb",
+     "ms": 93000
+    },
+    {
+     "medio": 1,
+     "n": 34,
+     "titulo": "Terminate",
+     "ms": 114000
+    },
+    {
+     "medio": 1,
+     "n": 35,
+     "titulo": "Souls",
+     "ms": 86000
+    },
+    {
+     "medio": 1,
+     "n": 36,
+     "titulo": "The Abyss",
+     "ms": 92000
+    },
+    {
+     "medio": 1,
+     "n": 37,
+     "titulo": "Sirens",
+     "ms": 113000
+    },
+    {
+     "medio": 1,
+     "n": 38,
+     "titulo": "Ocean Current",
+     "ms": 102000
+    },
+    {
+     "medio": 1,
+     "n": 39,
+     "titulo": "Clear Water",
+     "ms": 93000
+    },
+    {
+     "medio": 1,
+     "n": 40,
+     "titulo": "Illuminations",
+     "ms": 79000
+    },
+    {
+     "medio": 1,
+     "n": 41,
+     "titulo": "Cavern",
+     "ms": 97000
+    },
+    {
+     "medio": 1,
+     "n": 42,
+     "titulo": "Hidden Depths",
+     "ms": 93000
+    },
+    {
+     "medio": 1,
+     "n": 43,
+     "titulo": "Snow Blind",
+     "ms": 91000
+    },
+    {
+     "medio": 1,
+     "n": 44,
+     "titulo": "Cold Planet",
+     "ms": 133000
+    }
+   ]
+  },
+  {
+   "album_slug": "ap-natural-world",
+   "titulo": "Natural World",
+   "artista": "Anthony Phillips",
+   "artista_slug": "ap",
+   "anio": 2018,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/ap-natural-world.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Glacial Winds",
+     "ms": 177000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Deep Breath",
+     "ms": 162000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Lost Horizons",
+     "ms": 183000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Mystic Sands",
+     "ms": 147000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Sea Bloom",
+     "ms": 156000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Moonrise",
+     "ms": 172000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Perilous Earth",
+     "ms": 129000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Aeronautical",
+     "ms": 177000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Insidious",
+     "ms": 163000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Abandoned Shores",
+     "ms": 182000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Eastern Moon",
+     "ms": 154000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Somewhere New",
+     "ms": 170000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Barren Lands",
+     "ms": 177000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Tranquil Waters",
+     "ms": 174000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "Submerged",
+     "ms": 174000
+    }
+   ]
+  }
+ ]
+}

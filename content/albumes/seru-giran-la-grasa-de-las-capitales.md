@@ -20,7 +20,7 @@ comercial_nota: "Éxito enorme y duradero, con canciones instaladas en la memori
 historia: "editorial"
 ---
 
-El salto: jazz-rock de precisión, armonías vocales sin relleno y una sátira de la prensa y del consumo que empieza en la tapa y no afloja hasta el final. «Seminare» y «Perro andaluz» conviven con pasajes de escritura instrumental compleja que nunca suenan a exhibición. Uno de los mejores discos del rock argentino, y la prueba de que se podía ser sofisticado y masivo a la vez.
+El salto: jazz-rock de precisión, armonías vocales sin relleno y una sátira de la prensa y del consumo que empieza en la tapa y no afloja hasta el final. «Perro andaluz» y «Viernes 3 AM» conviven con pasajes de escritura instrumental compleja que nunca suenan a exhibición. Uno de los mejores discos del rock argentino, y la prueba de que se podía ser sofisticado y masivo a la vez.
 
 <!-- historia:editorial -->
 

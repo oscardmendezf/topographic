@@ -1,0 +1,2679 @@
+{
+ "id": "dest-18",
+ "albumes": [
+  {
+   "album_slug": "los-jaivas-aconcagua",
+   "titulo": "Aconcagua",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1982,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/los-jaivas-aconcagua.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Aconcagua",
+     "ms": 220373
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Desde un barrial",
+     "ms": 328733
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Debajo de las higueras",
+     "ms": 209800
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Takirari del puerto",
+     "ms": 230133
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Mambo de Machaguay",
+     "ms": 296026
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Huairuro",
+     "ms": 181573
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Corre que te pillo",
+     "ms": 586893
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-alturas-de-macchu-picchu",
+   "titulo": "Alturas de Macchu Picchu",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1981,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/los-jaivas-alturas-de-macchu-picchu.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Del aire al aire",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "La poderosa muerte",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Amor americano",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Águila sideral",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Antigua América",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Sube a nacer conmigo hermano",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Final",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-arrebol",
+   "titulo": "Arrebol",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 2001,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/los-jaivas-arrebol.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Arrebol",
+     "ms": 408000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Milonga carcelaria",
+     "ms": 441000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Alegría de mi amor",
+     "ms": 197000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Todos americanos",
+     "ms": 293000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Por los niños del mundo",
+     "ms": 191000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Libre albedrío",
+     "ms": 318000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Vamos por ancho camino",
+     "ms": 192000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Chile",
+     "ms": 381000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Me encontré al diablo",
+     "ms": 179000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Pololeo por computer",
+     "ms": 155000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Amores de antes",
+     "ms": 129000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Que suerte tengo",
+     "ms": 215000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "El residente nacional",
+     "ms": 246000
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-cancion-del-sur",
+   "titulo": "Canción del sur",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1977,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/los-jaivas-cancion-del-sur.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "La vida mágica, ay sí",
+     "ms": 201000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "En la cumbre de un cerro",
+     "ms": 306000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Canción para los pájaros",
+     "ms": 195000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Dum dum tambora",
+     "ms": 471000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Canción del sur",
+     "ms": 460000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Danzas",
+     "ms": 525000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Frescura antigua",
+     "ms": 198000
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-el-volantin",
+   "titulo": "El volantín",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1971,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/los-jaivas-el-volantin.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Piano introducción / Cacho",
+     "ms": 344000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "La vaquita",
+     "ms": 431000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Por veinticinco empaná",
+     "ms": 180000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Tamborcito de milagro",
+     "ms": 240000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Que o la tumba serás",
+     "ms": 202000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Foto de primera comunión",
+     "ms": 394000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Último día",
+     "ms": 505000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Bolerito",
+     "ms": 25000
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-hijos-de-la-tierra",
+   "titulo": "Hijos de la tierra",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1995,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/los-jaivas-hijos-de-la-tierra.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Hijos de la tierra",
+     "ms": 296693
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Arde el Amazonas",
+     "ms": 236640
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Litoraleña",
+     "ms": 461800
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "En el tren a Paysandú",
+     "ms": 270200
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Tan lejos del sol",
+     "ms": 388800
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Lluvia de estrellas",
+     "ms": 441533
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Virgen del amor",
+     "ms": 308960
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Bosques virginales",
+     "ms": 587266
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Nubecita blanca",
+     "ms": 202333
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-los-jaivas-1975",
+   "titulo": "Los Jaivas (El Indio)",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1975,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/los-jaivas-los-jaivas-1975.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Pregón para iluminarse",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Guajira cósmica",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "La conquistada",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Un mar de gente",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Un día de tus días",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Tarka y ocarina",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-los-jaivas",
+   "titulo": "Los Jaivas",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1972,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/los-jaivas-los-jaivas.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Marcha al interior del espíritu",
+     "ms": 136000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Mira niñita",
+     "ms": 417000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Todos juntos",
+     "ms": 352000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "La quebra' del ají",
+     "ms": 293000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Ciclo vital",
+     "ms": 603000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Los caminos que se abren",
+     "ms": 580000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "El pasillo del cóndor",
+     "ms": 25000
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-los-suenos-de-america",
+   "titulo": "Los sueños de América",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1979,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/los-jaivas-los-suenos-de-america.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Don Juan de la suerte",
+     "ms": 227000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "La centinela",
+     "ms": 259000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Date una vuelta en el aire",
+     "ms": 362000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Tá bom tá que tá",
+     "ms": 335000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Traguito de ron",
+     "ms": 200000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Los sueños de América",
+     "ms": 727000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Primer encuentro latinoamericano de la soledad",
+     "ms": 227000
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-obras-de-violeta-parra",
+   "titulo": "Obras de Violeta Parra",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1984,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/los-jaivas-obras-de-violeta-parra.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Arauco tiene una pena",
+     "ms": 664000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "El guillatún",
+     "ms": 523400
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Mañana me voy pa’l norte",
+     "ms": 277600
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Y arriba quemando el sol",
+     "ms": 658533
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "El gavilán",
+     "ms": 698800
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Un río de sangre",
+     "ms": 505733
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Run-run se fue pa’l norte",
+     "ms": 310400
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "En los jardines humanos",
+     "ms": 573266
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Violeta ausente",
+     "ms": 306426
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Qué pena siente el alma",
+     "ms": 80840
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-obras-sinfonicas-vol-1-mamalluca",
+   "titulo": "Obras Sinfónicas Vol. 1: Mamalluca",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1999,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/los-jaivas-obras-sinfonicas-vol-1-mamalluca.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Alumno",
+     "ms": 83240
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Uva madura",
+     "ms": 274280
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Chaski",
+     "ms": 182920
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "El tambo",
+     "ms": 290813
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Camino estrellado",
+     "ms": 277733
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Cerro de la Virgen",
+     "ms": 415653
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Gabriela",
+     "ms": 167706
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Interludio",
+     "ms": 271146
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Elqui",
+     "ms": 367866
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Mamalluca",
+     "ms": 944040
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-palomita-blanca",
+   "titulo": "Palomita blanca",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1973,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/los-jaivas-palomita-blanca.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Tema de los títulos",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Huaynito de la mañana",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Dónde estabas tú",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Vergüenza ajena",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Tema de las clases",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Tema del colegio",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Himno del Liceo Guillermo Rivera de Viña del Mar",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Cueca de los refranes",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Verbo divino",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Como el viento",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Vergüenza ajena (Orquestada)",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Piedra roja",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Disuación",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Vete dolor",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-si-tu-no-estas",
+   "titulo": "Si tú no estás",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1989,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/los-jaivas-si-tu-no-estas.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Si tú no estás",
+     "ms": 224000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Rosas en el jardín",
+     "ms": 282000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Pájaro errante",
+     "ms": 255000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Solitarios de un beso",
+     "ms": 271000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "El dormilón imposible",
+     "ms": 160000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Agua marina",
+     "ms": 245000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Niña serrana",
+     "ms": 258000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Como tus ríos te recorren",
+     "ms": 301000
+    }
+   ]
+  },
+  {
+   "album_slug": "los-jaivas-trilogia-el-rencuentro",
+   "titulo": "Trilogía: El rencuentro",
+   "artista": "Los Jaivas",
+   "artista_slug": "los-jaivas",
+   "anio": 1997,
+   "escena": null,
+   "estrellas_critica_album": null,
+   "ficha": "content/albumes/los-jaivas-trilogia-el-rencuentro.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Cholito pantalón blanco",
+     "ms": 302560
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Mira niñita",
+     "ms": 387400
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Indio hermano",
+     "ms": 361533
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Los momentos",
+     "ms": 215600
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Guajira cósmica",
+     "ms": 374440
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "La centinela",
+     "ms": 304933
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Atacama",
+     "ms": 292293
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Run-run se fue pa'l norte",
+     "ms": 419306
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Valparaíso",
+     "ms": 239546
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Date una vuelta en el aire",
+     "ms": 367800
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Un mar de gente",
+     "ms": 234506
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Todos juntos",
+     "ms": 295626
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Todos juntos (final)",
+     "ms": 623506
+    }
+   ]
+  },
+  {
+   "album_slug": "matching-mole-matching-mole",
+   "titulo": "Matching Mole",
+   "artista": "Matching Mole",
+   "artista_slug": "matching-mole",
+   "anio": 1972,
+   "escena": "canterbury",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/matching-mole-matching-mole.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "O Caroline",
+     "ms": 305840
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Instant Pussy",
+     "ms": 179093
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Signed Curtain",
+     "ms": 186040
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Part of the Dance",
+     "ms": 556800
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Instant Kitten",
+     "ms": 298400
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Dedicated to Hugh, but You Weren’t Listening",
+     "ms": 279733
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Beer as in Braindeer",
+     "ms": 242333
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Immediate Curtain",
+     "ms": 357760
+    }
+   ]
+  },
+  {
+   "album_slug": "matching-mole-matching-moles-little-red-record",
+   "titulo": "Matching Mole’s Little Red Record",
+   "artista": "Matching Mole",
+   "artista_slug": "matching-mole",
+   "anio": 1972,
+   "escena": "canterbury",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/matching-mole-matching-moles-little-red-record.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Starting in the Middle of the Day We Can Drink Our Politics Away",
+     "ms": 151000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Marchides",
+     "ms": 505000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Nan True’s Hole",
+     "ms": 216000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Righteous Rhumba",
+     "ms": 170000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Brandy as in Benj",
+     "ms": 264000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Gloria Gloom",
+     "ms": 486000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "God Song",
+     "ms": 179000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Flora Fidgit",
+     "ms": 207000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Smoke Signal",
+     "ms": 398000
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-a-question-of-balance",
+   "titulo": "A Question of Balance",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1970,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/mb-a-question-of-balance.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Question",
+     "ms": 340000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "How Is It (We Are Here)",
+     "ms": 168000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "And the Tide Rushes In",
+     "ms": 177000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Don’t You Feel Small",
+     "ms": 160000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Tortoise and the Hare",
+     "ms": 203000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "It’s Up to You",
+     "ms": 191000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Minstrel’s Song",
+     "ms": 267493
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Dawning Is the Day",
+     "ms": 262000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Melancholy Man",
+     "ms": 349000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "The Balance",
+     "ms": 213000
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-days-of-future-passed",
+   "titulo": "Days of Future Passed",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1967,
+   "escena": null,
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/mb-days-of-future-passed.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Day Begins",
+     "ms": 345000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Dawn: Dawn Is a Feeling",
+     "ms": 230000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "The Morning: Another Morning",
+     "ms": 220000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Lunch Break: Peak Hour",
+     "ms": 321000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Afternoon: Forever Afternoon (Tuesday?)",
+     "ms": 505000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Evening: The Sun Set: Twilight Time",
+     "ms": 399000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Night: Nights in White Satin",
+     "ms": 461000
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-december",
+   "titulo": "December",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 2003,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/mb-december.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Don’t Need a Reindeer",
+     "ms": 241000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "December Snow",
+     "ms": 311000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "In the Quiet of Christmas Morning (Bach 147)",
+     "ms": 171040
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "On This Christmas Day",
+     "ms": 220253
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Happy Xmas (War Is Over)",
+     "ms": 157440
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "A Winter’s Tale",
+     "ms": 268533
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Spirit of Christmas",
+     "ms": 292946
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Yes I Believe",
+     "ms": 261426
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "When a Child Is Born",
+     "ms": 214640
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "White Christmas",
+     "ms": 188760
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "In the Bleak Midwinter",
+     "ms": 207000
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-every-good-boy-deserves-favour",
+   "titulo": "Every Good Boy Deserves Favour",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1971,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/mb-every-good-boy-deserves-favour.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Procession",
+     "ms": 283693
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "The Story in Your Eyes",
+     "ms": 176733
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Our Guessing Game",
+     "ms": 214200
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Emily’s Song",
+     "ms": 222173
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "After You Came",
+     "ms": 273226
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "One More Time to Live",
+     "ms": 341800
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Nice to Be Here",
+     "ms": 263666
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "You Can Never Go Home",
+     "ms": 254866
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "My Song",
+     "ms": 379866
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-in-search-of-the-lost-chord",
+   "titulo": "In Search of the Lost Chord",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1968,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/mb-in-search-of-the-lost-chord.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Departure",
+     "ms": 44426
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Ride My See‐Saw",
+     "ms": 218933
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Dr. Livingstone, I Presume",
+     "ms": 178306
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "House of Four Doors",
+     "ms": 252693
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Legend of a Mind",
+     "ms": 396973
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "House of Four Doors, Part 2",
+     "ms": 102066
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Voices in the Sky",
+     "ms": 209733
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Best Way to Travel",
+     "ms": 192960
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Visions of Paradise",
+     "ms": 255240
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "The Actor",
+     "ms": 279160
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "The Word",
+     "ms": 49000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Om",
+     "ms": 346840
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-keys-of-the-kingdom",
+   "titulo": "Keys of the Kingdom",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1991,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/mb-keys-of-the-kingdom.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Say It With Love",
+     "ms": 235000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Bless the Wings (That Bring You Back)",
+     "ms": 310000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Is This Heaven?",
+     "ms": 244000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Say What You Mean (Part I & II)",
+     "ms": 337000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Lean on Me (Tonight)",
+     "ms": 296000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Hope & Pray",
+     "ms": 303000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Shadows on the Wall",
+     "ms": 306000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Celtic Sonant",
+     "ms": 300000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Magic",
+     "ms": 312000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Never Blame the Rainbows for the Rain",
+     "ms": 297000
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-long-distance-voyager",
+   "titulo": "Long Distance Voyager",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1981,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/mb-long-distance-voyager.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Voice",
+     "ms": 322200
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Talking Out of Turn",
+     "ms": 439533
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Gemini Dream",
+     "ms": 250493
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "In My World",
+     "ms": 442173
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Meanwhile",
+     "ms": 249133
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "22,000 Days",
+     "ms": 326360
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Nervous",
+     "ms": 346173
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Painted Smile",
+     "ms": 199400
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Reflective Smile",
+     "ms": 36333
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Veteran Cosmic Rocker",
+     "ms": 198866
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-octave",
+   "titulo": "Octave",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1978,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/mb-octave.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Steppin’ in a Slide Zone",
+     "ms": 326573
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Under Moonshine",
+     "ms": 297293
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Had to Fall in Love",
+     "ms": 220040
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "I’ll Be Level With You",
+     "ms": 226026
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Driftwood",
+     "ms": 301640
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Top Rank Suite",
+     "ms": 221093
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "I’m Your Man",
+     "ms": 258666
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Survival",
+     "ms": 300133
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "One Step Into the Light",
+     "ms": 266173
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "The Day We Meet Again",
+     "ms": 376533
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-on-the-threshold-of-a-dream",
+   "titulo": "On the Threshold of a Dream",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1969,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/mb-on-the-threshold-of-a-dream.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "In the Beginning",
+     "ms": 128000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Lovely to See You",
+     "ms": 154293
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Dear Diary",
+     "ms": 236506
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Send Me No Wine",
+     "ms": 141200
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "To Share Our Love",
+     "ms": 173333
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "So Deep Within You",
+     "ms": 190226
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Never Comes the Day",
+     "ms": 283906
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Lazy Day",
+     "ms": 163293
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Are You Sitting Comfortably?",
+     "ms": 210573
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "The Dream",
+     "ms": 57493
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Have You Heard, Part I",
+     "ms": 88200
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "The Voyage",
+     "ms": 250973
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Have You Heard, Part II",
+     "ms": 146320
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-seventh-sojourn",
+   "titulo": "Seventh Sojourn",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1972,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/mb-seventh-sojourn.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Lost in a Lost World",
+     "ms": 285293
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "New Horizons",
+     "ms": 310266
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "For My Lady",
+     "ms": 237506
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Isn’t Life Strange",
+     "ms": 360000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "You and Me",
+     "ms": 259706
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Land of Make‐Believe",
+     "ms": 291066
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "When You’re a Free Man",
+     "ms": 365000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "I’m Just a Singer (in a Rock and Roll Band)",
+     "ms": 262000
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-strange-times",
+   "titulo": "Strange Times",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1999,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/mb-strange-times.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "English Sunset",
+     "ms": 305133
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Haunted",
+     "ms": 271266
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Sooner or Later (Walkin’ on Air)",
+     "ms": 230000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Wherever You Are",
+     "ms": 215800
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Foolish Love",
+     "ms": 236000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Love Don’t Come Easy",
+     "ms": 273733
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "All That Is Real Is You",
+     "ms": 213760
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Strange Times",
+     "ms": 269200
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Words You Say",
+     "ms": 331800
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "My Little Lovely",
+     "ms": 105933
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Forever Now",
+     "ms": 277373
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "The One",
+     "ms": 219226
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "The Swallow",
+     "ms": 298933
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Nothing Changes",
+     "ms": 212600
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-sur-la-mer",
+   "titulo": "Sur la mer",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1988,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/mb-sur-la-mer.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "I Know You’re Out There Somewhere",
+     "ms": 398573
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Want to Be With You",
+     "ms": 288800
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "River of Endless Love",
+     "ms": 285893
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "No More Lies",
+     "ms": 315733
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Here Comes the Weekend",
+     "ms": 255306
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Vintage Wine",
+     "ms": 218333
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Breaking Point",
+     "ms": 295066
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Miracle",
+     "ms": 297400
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Love Is on the Run",
+     "ms": 302560
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Deep",
+     "ms": 411200
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-the-magnificent-moodies",
+   "titulo": "The Magnificent Moodies",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1965,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/mb-the-magnificent-moodies.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "I Go Crazy",
+     "ms": 128000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "And My Baby’s Gone",
+     "ms": 135000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Go Now",
+     "ms": 190000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "It’s Easy Child",
+     "ms": 190000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Can’t Nobody Love You",
+     "ms": 240000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "I Had a Dream",
+     "ms": 170000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Let Me Go",
+     "ms": 188000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "I Don’t Want to Go On Without You",
+     "ms": 165000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "True Story",
+     "ms": 100000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "It Ain’t Necessarily So",
+     "ms": 167000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Bye Bye Bird",
+     "ms": 170000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "From the Bottom of My Heart",
+     "ms": 200000
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-the-other-side-of-life",
+   "titulo": "The Other Side of Life",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1986,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/mb-the-other-side-of-life.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Your Wildest Dreams",
+     "ms": 291840
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Talkin’ Talkin’",
+     "ms": 235560
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Rock ’n’ Roll Over You",
+     "ms": 290800
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "I Just Don’t Care",
+     "ms": 208733
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Running Out of Love",
+     "ms": 265066
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Other Side of Life",
+     "ms": 412506
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "The Spirit",
+     "ms": 259133
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Slings and Arrows",
+     "ms": 269360
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "It May Be a Fire",
+     "ms": 296666
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-the-present",
+   "titulo": "The Present",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1983,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/mb-the-present.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Blue World",
+     "ms": 320000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Meet Me Halfway",
+     "ms": 248000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Sitting at the Wheel",
+     "ms": 340106
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Going Nowhere",
+     "ms": 333160
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Hole in the World",
+     "ms": 114000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Under My Feet",
+     "ms": 291600
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "It’s Cold Outside of Your Heart",
+     "ms": 267506
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Running Water",
+     "ms": 203200
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "I Am",
+     "ms": 100560
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Sorry",
+     "ms": 302800
+    }
+   ]
+  },
+  {
+   "album_slug": "mb-to-our-children-s-children-s-children",
+   "titulo": "To Our Children's Children's Children",
+   "artista": "The Moody Blues",
+   "artista_slug": "mb",
+   "anio": 1969,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/mb-to-our-children-s-children-s-children.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Higher and Higher",
+     "ms": 251626
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Eyes of a Child, Part 1",
+     "ms": 203506
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Floating",
+     "ms": 180226
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Eyes of a Child, Part 2",
+     "ms": 82240
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "I Never Thought I’d Live to Be a Hundred",
+     "ms": 66000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Beyond",
+     "ms": 178506
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Out and In",
+     "ms": 221893
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Gypsy",
+     "ms": 213440
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Eternity Road",
+     "ms": 258426
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Candle of Life",
+     "ms": 258040
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Sun Is Still Shining",
+     "ms": 216160
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "I Never Thought I’d Live to Be a Million",
+     "ms": 34000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Watching and Waiting",
+     "ms": 256240
+    }
+   ]
+  },
+  {
+   "album_slug": "mia-cornonstipicum",
+   "titulo": "Cornonstípicum",
+   "artista": "M.I.A.",
+   "artista_slug": "mia",
+   "anio": 1978,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/mia-cornonstipicum.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "La coronación del Farre",
+     "ms": 262000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Imagen III",
+     "ms": 233000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Crifana y Tamilstenes",
+     "ms": 471000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Las persianas no",
+     "ms": 44000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Piedras de color",
+     "ms": 119000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Cornonstípicum",
+     "ms": 1060000
+    }
+   ]
+  },
+  {
+   "album_slug": "mia-magicos-juegos-del-tiempo",
+   "titulo": "Mágicos juegos del tiempo",
+   "artista": "M.I.A.",
+   "artista_slug": "mia",
+   "anio": 1977,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/mia-magicos-juegos-del-tiempo.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Lírica del sol",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Crisálida, mi niña",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Los molinos de la calma",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Antiguas campanas de pueblo",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Archipiélagos de Güernaclara",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Romanza para una mujer que cose",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Corales de la cantata Saturno",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "mia-transparencias",
+   "titulo": "Transparencias",
+   "artista": "M.I.A.",
+   "artista_slug": "mia",
+   "anio": 1976,
+   "escena": "latinoamerica",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/mia-transparencias.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Reencontrando el camino",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "El casamiento de Alicia",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Imagen II",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Contrapunto rítmico",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Transparencias",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "mo-amarok",
+   "titulo": "Amarok",
+   "artista": "Mike Oldfield",
+   "artista_slug": "mo",
+   "anio": 1990,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/mo-amarok.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Amarok",
+     "ms": 1800000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Amarok (Continued)",
+     "ms": 1804000
+    }
+   ]
+  },
+  {
+   "album_slug": "mo-crises",
+   "titulo": "Crises",
+   "artista": "Mike Oldfield",
+   "artista_slug": "mo",
+   "anio": 1983,
+   "escena": null,
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/mo-crises.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Crises",
+     "ms": 1240000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Moonlight Shadow",
+     "ms": 217000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "In High Places",
+     "ms": 213000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Foreign Affair",
+     "ms": 233426
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Taurus 3",
+     "ms": 145466
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Shadow on the Wall",
+     "ms": 188000
+    }
+   ]
+  },
+  {
+   "album_slug": "mo-discovery",
+   "titulo": "Discovery",
+   "artista": "Mike Oldfield",
+   "artista_slug": "mo",
+   "anio": 1984,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/mo-discovery.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "To France",
+     "ms": 290000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Poison Arrows",
+     "ms": 225000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Crystal Gazing",
+     "ms": 182000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Tricks of the Light",
+     "ms": 232000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Discovery",
+     "ms": 272000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Talk About Your Life",
+     "ms": 264000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Saved by a Bell",
+     "ms": 276000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "The Lake (instrumental)",
+     "ms": 728000
+    }
+   ]
+  },
+  {
+   "album_slug": "mo-earth-moving",
+   "titulo": "Earth Moving",
+   "artista": "Mike Oldfield",
+   "artista_slug": "mo",
+   "anio": 1989,
+   "escena": null,
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/mo-earth-moving.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Holy",
+     "ms": 277960
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Hostage",
+     "ms": 249800
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Far Country",
+     "ms": 265000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Innocent",
+     "ms": 210800
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Runaway Son",
+     "ms": 247506
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "See the Light",
+     "ms": 239560
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Earth Moving",
+     "ms": 244200
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Blue Night",
+     "ms": 228866
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Nothing But / Bridge to Paradise",
+     "ms": 520240
+    }
+   ]
+  },
+  {
+   "album_slug": "mo-five-miles-out",
+   "titulo": "Five Miles Out",
+   "artista": "Mike Oldfield",
+   "artista_slug": "mo",
+   "anio": 1982,
+   "escena": null,
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/mo-five-miles-out.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Taurus II",
+     "ms": 1483000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Family Man",
+     "ms": 226000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Orabidoo",
+     "ms": 783000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Mount Teidi",
+     "ms": 250000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Five Miles Out",
+     "ms": 257000
+    }
+   ]
+  }
+ ]
+}
