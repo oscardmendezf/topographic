@@ -23,7 +23,7 @@ for (const y of anios) {
   porAnio.get(y)!.sort((a, b) => (a.data.primer_lanzamiento ?? '9999').localeCompare(b.data.primer_lanzamiento ?? '9999'));
 }
 ---
-<Base titulo={`Línea de tiempo ${info.rango}`}>
+<Base titulo={`Línea de tiempo ${info.rango}`} sinIndice={true}>
   <header class="page"><div class="wrap">
     <p class="eyebrow">{info.nombre} · año por año · {albumes.length} fichas</p>
     <h1>Línea de tiempo {info.rango}</h1>

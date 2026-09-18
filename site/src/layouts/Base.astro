@@ -1,6 +1,9 @@
 ---
 import { u } from '../lib/util';
-const { titulo = 'Atlas del Prog' } = Astro.props;
+import atlas from '../../../data/atlas.json';
+const nArtistas = atlas.nodos.artistas.length;
+// `tipo` alimenta el filtro del buscador (Pagefind); `sinIndice` saca la página del índice.
+const { titulo = 'Atlas del Prog', tipo = undefined, sinIndice = false } = Astro.props;
 ---
 <!doctype html>
 <html lang="es">
@@ -18,11 +21,17 @@ const { titulo = 'Atlas del Prog' } = Astro.props;
     <a href={u('mapa/')}>El mapa</a>
     <a href={u('buscar/')}>Buscar</a>
   </div></nav>
-  <slot />
+  <main
+    data-pagefind-body={sinIndice ? undefined : true}
+    data-pagefind-ignore={sinIndice ? true : undefined}
+    data-tipo={tipo}
+    data-pagefind-filter={tipo ? 'tipo[data-tipo]' : undefined}>
+    <slot />
+  </main>
   <footer><div class="wrap">
     <p><b>Verificabilidad delegada:</b> cada nodo enlaza a su ID de MusicBrainz, Discogs y Wikipedia.
     Los datos de charts se muestran con su estado de verificación declarado; «s.d.» = sin dato fiable,
-    «—» = no entró en listas. Fase 1: era clásica 1966–1980, 26 artistas.</p>
+    «—» = no entró en listas. {nArtistas} artistas, de 1963 a hoy.</p>
   </div></footer>
 
 <style is:global>

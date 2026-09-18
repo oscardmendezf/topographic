@@ -23,7 +23,7 @@ const conexiones = grafo.edges
   .map((e) => ({ ...e.data, nodo: grafo.nodes.find((n) => n.data.id === e.data.target)?.data }))
   .sort((a, b) => (a.nodo?.label ?? '').localeCompare(b.nodo?.label ?? ''));
 ---
-<Base titulo={d.nombre}>
+<Base titulo={d.nombre} tipo="Red">
   <header class="page"><div class="wrap">
     <p class="eyebrow">{d.rol}</p>
     <h1>{d.nombre}</h1>

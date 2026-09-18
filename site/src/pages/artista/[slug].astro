@@ -55,7 +55,7 @@ const conexiones = artista
       .map((e) => ({ ...e.data, nodo: grafo.nodes.find((n) => n.data.id === e.data.source)?.data }))
   : [];
 ---
-<Base titulo={nombre}>
+<Base titulo={nombre} tipo="Artista">
   <header class="page" style={`border-top:4px solid ${COLORES[grupo] ?? 'var(--dim)'}`}><div class="wrap">
     <p class="eyebrow">{artista ? (artista.tipo === 'Person' ? 'Solista' : 'Banda') : 'Colección editorial'}
       {artista && ` · ${artista.inicio?.slice(0, 4) ?? 's.d.'}${artista.fin ? `–${artista.fin.slice(0, 4)}` : '–act.'}`}
@@ -73,6 +73,11 @@ const conexiones = artista
   {(Content || coleccion) && (
     <section class="block"><div class="wrap analisis">
       {Content ? <Content /> : null}
+      {entrada?.data.copy === 'editorial' && (
+        <p class="sub nota-copy">Ficha editorial redactada por el Atlas, sin fuentes citadas: los datos duros
+          verificables son las membresías de MusicBrainz y la discografía de abajo.
+          <span class="badge warn">ficha editorial</span></p>
+      )}
       {!Content && coleccion && (
         <p>Ficha editorial compartida: <a href={u('artista/conceptuales-no-prog/')}>{coleccion.data.nombre}</a>.</p>
       )}
@@ -165,6 +170,8 @@ const conexiones = artista
 </Base>
 
 <style>
+.analisis > p:first-child{font-size:18px;font-style:italic}
+.nota-copy{margin-top:26px;font-size:12.5px}
 .rango{font-size:12px;color:var(--dim);letter-spacing:.1em;font-style:normal}
 .card.con-tapa{display:flex;gap:12px;align-items:flex-start}
 .tapita{width:64px;height:64px;object-fit:cover;border:1px solid var(--line);background:var(--panel2);flex-shrink:0}

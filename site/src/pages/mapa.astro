@@ -28,7 +28,7 @@ const puntos = atlas.nodos.artistas
 const sinGeo = atlas.nodos.artistas.filter((a) => !(geo as any)[a.slug]).map((a) => a.nombre);
 const escenas = [...new Set(puntos.map((p) => p.escena))];
 ---
-<Base titulo="El mapa geográfico">
+<Base titulo="El mapa geográfico" sinIndice={true}>
   <header class="page"><div class="wrap">
     <p class="eyebrow">Geografía del género · {puntos.length} artistas geolocalizados</p>
     <h1>De dónde salió esto</h1>

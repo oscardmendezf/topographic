@@ -14,7 +14,7 @@ const tiposArista = Object.keys(NOMBRES_ARISTA);
 const escenasActivas = Object.keys(ESCENAS).filter((e) => artistas.some((a) => a.grupo === e));
 const listaEscenas = escenasActivas.map((e) => ESCENAS[e]).join(', ').replace(/, ([^,]*)$/, ' y $1');
 ---
-<Base titulo="El grafo">
+<Base titulo="El grafo" sinIndice={true}>
   <header class="page"><div class="wrap">
     <p class="eyebrow">1966–hoy · {artistas.length} artistas · {nFichas} fichas · {escenasActivas.length} escenas hermanas</p>
     <h1>El Mapa del Prog</h1>

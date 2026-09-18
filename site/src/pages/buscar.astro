@@ -3,16 +3,17 @@ import Base from '../layouts/Base.astro';
 import { u } from '../lib/util';
 const base = u('/');
 ---
-<Base titulo="Buscar">
+<Base titulo="Buscar" sinIndice={true}>
   <header class="page"><div class="wrap">
     <p class="eyebrow">Búsqueda en todo el atlas</p>
     <h1>Buscar</h1>
-    <p class="lede">Artistas, discos, personas de la red, análisis. El índice se genera al compilar,
-    así que la búsqueda solo funciona en el sitio publicado (no en el servidor de desarrollo).</p>
+    <p class="lede">Artistas, discos, personas de la red y análisis largos: el texto completo de
+    todas las fichas. Escribí un nombre, un instrumento, un estudio o una idea.</p>
   </div></header>
 
   <section class="block"><div class="wrap">
     <div id="buscador" data-base={base}></div>
+    <p id="buscador-error" class="sub" hidden></p>
     <noscript><p class="sub">La búsqueda requiere JavaScript.</p></noscript>
   </div></section>
 </Base>
@@ -32,38 +33,58 @@ const base = u('/');
   min-height: 200px;
 }
 #buscador .pagefind-ui__result-link{color:var(--acento)}
+#buscador-error{color:#d9b44a}
 </style>
 
 <script is:inline>
   (function () {
     const cont = document.getElementById('buscador');
+    const err = document.getElementById('buscador-error');
     const base = cont.dataset.base;
+    // El bundle de Pagefind deduce su ruta de document.currentScript, que es null
+    // cuando el <script> se inyecta desde JS: hay que pasarle bundlePath a mano.
+    const bundlePath = base + 'pagefind/';
+
+    function fallar(msg) {
+      err.hidden = false;
+      err.textContent = msg;
+    }
+
     const css = document.createElement('link');
     css.rel = 'stylesheet';
-    css.href = base + 'pagefind/pagefind-ui.css';
+    css.href = bundlePath + 'pagefind-ui.css';
     document.head.appendChild(css);
+
     const js = document.createElement('script');
-    js.src = base + 'pagefind/pagefind-ui.js';
+    js.src = bundlePath + 'pagefind-ui.js';
     js.onload = function () {
-      new PagefindUI({
-        element: '#buscador',
-        baseUrl: base,
-        showImages: false,
-        translations: {
-          placeholder: 'Buscar en el atlas…',
-          zero_results: 'Sin resultados para «[SEARCH_TERM]»',
-          clear_search: 'Limpiar',
-          load_more: 'Más resultados',
-          many_results: '[COUNT] resultados por «[SEARCH_TERM]»',
-          one_result: 'Un resultado por «[SEARCH_TERM]»',
-          searching: 'Buscando…',
-        },
-      });
-      const input = cont.querySelector('input');
-      if (input) input.focus();
+      try {
+        new PagefindUI({
+          element: '#buscador',
+          bundlePath: bundlePath,
+          baseUrl: base,
+          showImages: false,
+          showSubResults: true,
+          pageSize: 8,
+          autofocus: true,
+          translations: {
+            placeholder: 'Buscar en el atlas…',
+            zero_results: 'Sin resultados para «[SEARCH_TERM]»',
+            clear_search: 'Limpiar',
+            load_more: 'Más resultados',
+            filters_label: 'Filtrar por tipo',
+            many_results: '[COUNT] resultados por «[SEARCH_TERM]»',
+            one_result: 'Un resultado por «[SEARCH_TERM]»',
+            searching: 'Buscando…',
+          },
+        });
+      } catch (e) {
+        fallar('No se pudo iniciar la búsqueda: ' + e.message);
+      }
     };
     js.onerror = function () {
-      cont.innerHTML = '<p class="sub">El índice de búsqueda no está disponible en modo desarrollo. Compilá el sitio (npm run build) o usá la versión publicada.</p>';
+      fallar('Falta el índice de búsqueda. En desarrollo se genera con «npm run search:index»; ' +
+             'en el sitio publicado lo genera el build.');
     };
     document.head.appendChild(js);
   })();
