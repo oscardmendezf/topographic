@@ -767,6 +767,204 @@
   },
   {
    "data": {
+    "id": "a:nice",
+    "slug": "nice",
+    "label": "The Nice",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:procol-harum",
+    "slug": "procol-harum",
+    "label": "Procol Harum",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:arthur-brown",
+    "slug": "arthur-brown",
+    "label": "The Crazy World of Arthur Brown",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:traffic",
+    "slug": "traffic",
+    "label": "Traffic",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:family",
+    "slug": "family",
+    "label": "Family",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:tomorrow",
+    "slug": "tomorrow",
+    "label": "Tomorrow",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:kaleidoscope-uk",
+    "slug": "kaleidoscope-uk",
+    "label": "Kaleidoscope",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:nirvana-uk",
+    "slug": "nirvana-uk",
+    "label": "Nirvana",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:zombies",
+    "slug": "zombies",
+    "label": "The Zombies",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:third-ear-band",
+    "slug": "third-ear-band",
+    "label": "Third Ear Band",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:high-tide",
+    "slug": "high-tide",
+    "label": "High Tide",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:quintessence",
+    "slug": "quintessence",
+    "label": "Quintessence",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:hawkwind",
+    "slug": "hawkwind",
+    "label": "Hawkwind",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:vanilla-fudge",
+    "slug": "vanilla-fudge",
+    "label": "Vanilla Fudge",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:iron-butterfly",
+    "slug": "iron-butterfly",
+    "label": "Iron Butterfly",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:spirit",
+    "slug": "spirit",
+    "label": "Spirit",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:electric-prunes",
+    "slug": "electric-prunes",
+    "label": "The Electric Prunes",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:united-states-of-america",
+    "slug": "united-states-of-america",
+    "label": "The United States of America",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:silver-apples",
+    "slug": "silver-apples",
+    "label": "Silver Apples",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:hp-lovecraft",
+    "slug": "hp-lovecraft",
+    "label": "H.P. Lovecraft",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:captain-beefheart",
+    "slug": "captain-beefheart",
+    "label": "Captain Beefheart & His Magic Band",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
+    "id": "a:aphrodites-child",
+    "slug": "aphrodites-child",
+    "label": "Aphrodite’s Child",
+    "tipo": "artista",
+    "grupo": "rarezas"
+   }
+  },
+  {
+   "data": {
     "id": "r:advision-trident-abbey-road-the-manor",
     "slug": "advision-trident-abbey-road-the-manor",
     "label": "Advision · Trident · Abbey Road · The Manor",
@@ -1359,6 +1557,17 @@
   },
   {
    "data": {
+    "id": "e:john-wetton:family:member_of",
+    "source": "r:john-wetton",
+    "target": "a:family",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1971–1972)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
     "id": "e:eddy-offord:yes:produced:0",
     "source": "r:eddy-offord",
     "target": "a:yes",
@@ -1701,8 +1910,8 @@
     "tipo": "recorded_at",
     "relacion": "grabó en",
     "etiqueta": "Abbey Road",
-    "estado": "prototipo",
-    "evidencia": null
+    "estado": "musicbrainz",
+    "evidencia": "A Hard Day’s Night"
    }
   },
   {

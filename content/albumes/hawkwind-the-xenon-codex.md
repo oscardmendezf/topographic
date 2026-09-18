@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "hawkwind-the-xenon-codex"
+titulo: "The Xenon Codex"
+artista: "Hawkwind"
+artista_slug: "hawkwind"
+anio_ficha: 1988
+era: "siguiente"
+escena: "rarezas"
+mb_rgid: "7b6c681f-904d-3cea-b2ef-5639019eb379"
+primer_lanzamiento: "1988-04-25"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Rutina bien tocada y sin ninguna apuesta."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Final de ciclo sin repercusión."
+historia: "editorial"
+---
+
+Último disco con Huw Lloyd-Langton y un cierre de década por inercia: producción de su tiempo, temas correctos, ninguna urgencia. Se escucha sin molestia y se olvida enseguida.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Tres años después del proyecto de Elric, Hawkwind cerró la década con un disco sin plan declarado. Ya no había concepto que sostuviera la secuencia ni espectáculo que la acompañara: solo un grupo veterano entrando al estudio porque tocaba hacerlo. Brock seguía al mando y Huw Lloyd-Langton, guitarrista que había pasado por la formación original y regresado años después, firmaba aquí su última colaboración, lo que convierte el álbum en el final de una etapa aunque nada en él suene a despedida.
+
+Los temas son reconocibles sin ser memorables. «The War I Survived» abre con la mirada del superviviente, un registro que la banda había frecuentado desde los setenta, y «Wastelands of Sleep» y «Tides» trabajan el terreno del sueño y el tiempo con más calma. «Neon Skyline / Lost Chronicles» es la pieza más larga y la única que intenta articular un tramo extenso, alternando la ciudad iluminada con el archivo de lo perdido. «Mutation Zone», «Heads» y «E.M.C.» insisten en el catálogo habitual de tecnología y alteración, mientras «Sword of the East» arrastra todavía el eco de la fantasía del disco anterior. El álbum termina con «Good Evening», un cierre amable que subraya el problema: ninguna de estas canciones parece haber sido escrita por necesidad.
+
+## La producción
+
+El sonido es exactamente el de finales de los ochenta y esa es su marca más visible: batería con reverberación amplia, guitarras limpias y comprimidas, teclados de timbre digital que ocupan el lugar donde antes había electrónica analógica áspera. La rugosidad que definía al grupo, aquella sensación de máquina mal domesticada, aquí está pulida. Lloyd-Langton aporta el trabajo melódico de guitarra, más ordenado y virtuoso que el de Brock, y esa combinación de dos guitarras con funciones distintas es lo que da al disco su textura reconocible.
+
+Los arreglos evitan el riesgo. Las canciones están construidas sobre estructuras cerradas, con solos situados donde se los espera y transiciones resueltas por corte o por barrido de sintetizador. Solo «Neon Skyline / Lost Chronicles» se permite cambiar de sección varias veces, y aun ahí el desarrollo se apoya en la repetición más que en la tensión. Todo está bien tocado y bien grabado, y esa corrección es precisamente lo que impide que el disco levante vuelo.
+
+## Recepción y legado
+
+Pasó sin ruido entonces y ocupa hoy un lugar menor incluso dentro de una discografía tan extensa. No es un disco fallido: no hay aquí nada que moleste, ningún experimento mal resuelto ni ninguna concesión vergonzosa. El problema es el contrario, la ausencia de urgencia en un grupo cuya razón de ser fue siempre la intensidad sostenida. Se lo recuerda sobre todo por ser el último con Lloyd-Langton y por cerrar una década entera de inercia, antes de que el contacto con la escena de fiestas libres y la nueva electrónica devolviera a la banda algo parecido a un propósito. Para quien recorra el catálogo completo es una parada prescindible; para quien estudie la trayectoria, el punto exacto donde la rutina toca fondo.

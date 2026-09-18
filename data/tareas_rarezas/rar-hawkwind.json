@@ -1,0 +1,363 @@
+{
+ "id": "rar-hawkwind",
+ "escena": "rarezas",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "hawkwind",
+   "nombre": "Hawkwind",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1969-10",
+   "fin": null,
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Hawkwind",
+   "formaciones_mb": [
+    "Dave Brock (guitar, original; 1969-07–1969-10)",
+    "Dik Mik Davies (keyboard, original; 1969-07–1969-10)",
+    "John Harrison (bass guitar, original; 1969-07–1969-10)",
+    "Terry Ollis (drums (drum set), original; 1969-07–1969-10)",
+    "Mick Slattery (guitar, original; 1969-07–1969-10)",
+    "Nik Turner (original, saxophone; 1969-07–1969-10)",
+    "Nik Turner (flute, lead vocals, original, saxophone; 1969-10–1976)",
+    "John Harrison (bass, original; 1969-11–1970-09)",
+    "Huw Lloyd‐Langton (guitar, original; 1969-11–1971)",
+    "Terry Ollis (drums (drum set), original; 1969-11–1972-02)",
+    "Dik Mik Davies (keyboard, original, synthesizer; 1969-11–1973)",
+    "Dave Brock (guitar, keyboard, lead vocals, original, synthesizer; 1969-11–act.)",
+    "Thomas Crimble (bass; 1970–1971)",
+    "Dave Anderson (bass; 1971-04–1971-10)",
+    "Del Dettmar (keyboard, synthesizer; 1971–1974)",
+    "Lemmy Kilmister (electric bass guitar; 1971–1975)",
+    "Robert Calvert (lead vocals; 1972–1973)",
+    "Simon King (drums (drum set); 1972–1979)",
+    "Simon House (keyboard, synthesizer, violin; 1973–1978)",
+    "Alan Powell (drums (drum set); 1974–1976)",
+    "Paul Rudolph (bass; 1975–1976)",
+    "Robert Calvert (lead vocals; 1975–1979)",
+    "Adrian Shaw (bass; 1976–1978)",
+    "Paul Hayles (keyboard, synthesizer; 1977–1978-03)",
+    "Mick Smith (drums (drum set); 1978–1978)",
+    "Martin Griffin (drums (drum set); 1978–1979)",
+    "Steve Swindells (keyboard, synthesizer; 1978–1979)",
+    "Harvey Bainbridge (bass, keyboard, synthesizer; 1978–1991)",
+    "Tim Blake (keyboard, lead vocals; 1979–1980)",
+    "Simon King (drums (drum set); 1979–1980)",
+    "Huw Lloyd‐Langton (guitar; 1979–1988)",
+    "Ginger Baker (drums (drum set); 1980–1981)",
+    "Keith Hale (keyboard, synthesizer; 1980–1981)",
+    "Martin Griffin (drums (drum set); 1981–1983)",
+    "Nik Turner (flute, lead vocals, saxophone; 1982–1985)",
+    "Andy Anderson (drums (drum set); 1983–1983)",
+    "Robert Heaton (drums (drum set); 1983–1983)",
+    "Rik Martinez (drums (drum set); 1983–1983)",
+    "Dead Fred (keyboard, lead vocals, violin; 1983–1984)",
+    "Clive Deamer (drums (drum set); 1983–1985)",
+    "Danny Thompson (drums (drum set); 1984–1988)",
+    "Alan Davey (bass; 1984–1996)",
+    "Richard Chadwick (drums (drum set), lead vocals; 1988–act.)",
+    "Simon House (keyboard, synthesizer, violin; 1989–1991)",
+    "Bridget Wishart (lead vocals; 1989–1991)",
+    "Steve Bemand (guitar; 1991–1991)",
+    "Jerry Richards (guitar; 1995–2001)",
+    "Ronald Tree (bass, lead vocals; 1995–2001)",
+    "Tim Blake (keyboard, lead vocals; 2000–2000)",
+    "Simon House (keyboard, synthesizer, violin; 2000–2002)",
+    "Alan Davey (bass; 2001–2007-07-10)",
+    "Tim Blake (keyboard, lead vocals; 2002–2002)",
+    "Huw Lloyd‐Langton (guitar; 2002–2005)",
+    "Jason Stuart (keyboard, synthesizer; 2004–2008-09-08)",
+    "Mr Dibs (bass, cello, lead vocals; 2007–2018-08-28)",
+    "Tim Blake (keyboard, lead vocals; 2008–2015)",
+    "Niall Hone (bass, guitar, keyboard, sampler, synthesizer; 2008–2021)",
+    "Dead Fred (keyboard, lead vocals, violin; 2012–2015)",
+    "Magnus Martin (guitar; 2016–act.)",
+    "Doug MacKinnon (bass guitar; 2021–act.)",
+    "Thighpaulsandra (keyboard; 2021–act.)",
+    "Julian Crimmins (miembro; ?–act.)",
+    "Chris Purdon (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "hawkwind-hawkwind",
+     "titulo": "Hawkwind",
+     "anio": 1970,
+     "mbid": "aeed00da-1866-31ca-9d92-584f7aee8ad2",
+     "primer_lanzamiento": "1970-08-14",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-in-search-of-space",
+     "titulo": "In Search of Space",
+     "anio": 1971,
+     "mbid": "e615c8a4-92c5-3121-8cbe-5362e226c6d1",
+     "primer_lanzamiento": "1971-10-08",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-doremi-fasol-latido",
+     "titulo": "Doremi Fasol Latido",
+     "anio": 1972,
+     "mbid": "681f5c83-f002-324b-a847-53c244a40a9b",
+     "primer_lanzamiento": "1972-11-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-hall-of-the-mountain-grill",
+     "titulo": "Hall of the Mountain Grill",
+     "anio": 1974,
+     "mbid": "9af5ed4f-c640-3db8-9f44-7e23ae57e87b",
+     "primer_lanzamiento": "1974-09-06",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-warrior-on-the-edge-of-time",
+     "titulo": "Warrior on the Edge of Time",
+     "anio": 1975,
+     "mbid": "f135db64-0d0f-32ca-9f2c-092a5d26aa58",
+     "primer_lanzamiento": "1975-05-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-astounding-sounds-amazing-music",
+     "titulo": "Astounding Sounds, Amazing Music",
+     "anio": 1976,
+     "mbid": "df505955-47f6-3d9b-8d85-0e174398c8de",
+     "primer_lanzamiento": "1976-08-27",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-quark-strangeness-and-charm",
+     "titulo": "Quark, Strangeness and Charm",
+     "anio": 1977,
+     "mbid": "abcdcac3-343b-33eb-badd-dea4b3007230",
+     "primer_lanzamiento": "1977-06-17",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-25-years-on",
+     "titulo": "25 Years On",
+     "anio": 1978,
+     "mbid": "5dd0e36f-3219-36a1-837b-ee4583c9081d",
+     "primer_lanzamiento": "1978-10",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-pxr5",
+     "titulo": "PXR5",
+     "anio": 1979,
+     "mbid": "648d50d6-0981-3229-bba5-56f5e59d10dd",
+     "primer_lanzamiento": "1979-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-levitation",
+     "titulo": "Levitation",
+     "anio": 1980,
+     "mbid": "4174e539-f5ee-382e-ac9f-f776b12c293e",
+     "primer_lanzamiento": "1980-10-27",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-sonic-attack",
+     "titulo": "Sonic Attack",
+     "anio": 1981,
+     "mbid": "8ee63271-26f5-3af1-8826-80dcb8607155",
+     "primer_lanzamiento": "1981-10-02",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-church-of-hawkwind",
+     "titulo": "Church of Hawkwind",
+     "anio": 1982,
+     "mbid": "58ae3bf1-88bf-31d2-9563-eb4ff95981c9",
+     "primer_lanzamiento": "1982-05-14",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-choose-your-masques",
+     "titulo": "Choose Your Masques",
+     "anio": 1982,
+     "mbid": "af3612b2-e5d5-3ae0-8639-35bad4fc7eed",
+     "primer_lanzamiento": "1982-10-29",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-the-chronicle-of-the-black-sword",
+     "titulo": "The Chronicle of the Black Sword",
+     "anio": 1985,
+     "mbid": "b0550f11-9811-396a-9eb1-60bc943a4781",
+     "primer_lanzamiento": "1985-11-11",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-the-xenon-codex",
+     "titulo": "The Xenon Codex",
+     "anio": 1988,
+     "mbid": "7b6c681f-904d-3cea-b2ef-5639019eb379",
+     "primer_lanzamiento": "1988-04-25",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-space-bandits",
+     "titulo": "Space Bandits",
+     "anio": 1990,
+     "mbid": "01fa21d1-0559-3cee-98ad-32e7ad042e9e",
+     "primer_lanzamiento": "1990-09-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-electric-tepee",
+     "titulo": "Electric Tepee",
+     "anio": 1992,
+     "mbid": "5e8871a0-cf60-3d92-b010-ea54c6e657d2",
+     "primer_lanzamiento": "1992-05-11",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-it-is-the-business-of-the-future-to-be-dangerous",
+     "titulo": "It Is the Business of the Future to Be Dangerous",
+     "anio": 1993,
+     "mbid": "3735927f-1482-3513-a00f-ba6ae4b26915",
+     "primer_lanzamiento": "1993-10",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-alien-4",
+     "titulo": "Alien 4",
+     "anio": 1995,
+     "mbid": "bd306e0d-f515-3873-b12f-dd6c7248d6ce",
+     "primer_lanzamiento": "1995-10-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-distant-horizons",
+     "titulo": "Distant Horizons",
+     "anio": 1997,
+     "mbid": "5c9ef70f-2e6f-3f03-a5bd-6c626e85f981",
+     "primer_lanzamiento": "1997-11-03",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-in-your-area",
+     "titulo": "In Your Area",
+     "anio": 1999,
+     "mbid": "1ebd13d4-ca8e-3cf9-843f-f3f66d1580ac",
+     "primer_lanzamiento": "1999-01-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-spacebrock",
+     "titulo": "Spacebrock",
+     "anio": 2000,
+     "mbid": "74797c58-1a31-37c5-94b9-ebac3514e014",
+     "primer_lanzamiento": "2000",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-take-me-to-your-leader",
+     "titulo": "Take Me to Your Leader",
+     "anio": 2005,
+     "mbid": "23200e4e-abf4-36c9-aafc-d0b55fb99c1c",
+     "primer_lanzamiento": "2005-09-12",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-take-me-to-your-future",
+     "titulo": "Take Me to Your Future",
+     "anio": 2006,
+     "mbid": "35f9c479-2f1c-43a1-b151-f0df28361ef9",
+     "primer_lanzamiento": "2006-09-04",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-blood-of-the-earth",
+     "titulo": "Blood of the Earth",
+     "anio": 2010,
+     "mbid": "11db8aa2-df5b-48a7-b67f-91d2b01f10c8",
+     "primer_lanzamiento": "2010-06-21",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-onward",
+     "titulo": "Onward",
+     "anio": 2012,
+     "mbid": "f982be06-a819-490c-86e1-2c0bfd996eae",
+     "primer_lanzamiento": "2012-04-30",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-the-machine-stops",
+     "titulo": "The Machine Stops",
+     "anio": 2016,
+     "mbid": "970ec890-1bfc-4aaa-aa4f-2191f1c257d1",
+     "primer_lanzamiento": "2016-04-15",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-into-the-woods",
+     "titulo": "Into the Woods",
+     "anio": 2017,
+     "mbid": "1f15c50f-d611-4433-ac24-e38aeb855b1e",
+     "primer_lanzamiento": "2017-05-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-road-to-utopia",
+     "titulo": "Road to Utopia",
+     "anio": 2018,
+     "mbid": "4a56830b-b033-45c5-8064-b6f89ff23f02",
+     "primer_lanzamiento": "2018-09-14",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-all-aboard-the-skylark",
+     "titulo": "All Aboard the Skylark",
+     "anio": 2019,
+     "mbid": "fa3f5a91-b754-4849-bd55-1e7c61c1184b",
+     "primer_lanzamiento": "2019-10-25",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-acoustic-daze",
+     "titulo": "Acoustic Daze",
+     "anio": 2019,
+     "mbid": "1344d7dc-2dfb-42db-9d70-df2735794845",
+     "primer_lanzamiento": "2019-10-27",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-somnia",
+     "titulo": "Somnia",
+     "anio": 2021,
+     "mbid": "79e6963a-da68-44dd-9daf-711ef335d257",
+     "primer_lanzamiento": "2021-09-10",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-the-future-never-waits",
+     "titulo": "The Future Never Waits",
+     "anio": 2023,
+     "mbid": "f01786b0-10a7-493c-86a9-923222908a6c",
+     "primer_lanzamiento": "2023-04-28",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-stories-from-time-and-space",
+     "titulo": "Stories From Time and Space",
+     "anio": 2024,
+     "mbid": "772ce998-5d5c-4614-9b04-1c39c63e5d05",
+     "primer_lanzamiento": "2024-04-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "hawkwind-there-is-no-space-for-us",
+     "titulo": "There Is No Space for Us",
+     "anio": 2025,
+     "mbid": "d8528328-d222-42d0-8412-ae0d6238f753",
+     "primer_lanzamiento": "2025-04-18",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,884 @@
+{
+  "country": "GB",
+  "sort-name": "Family",
+  "ipis": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "60s/70s English rock band",
+  "end-area": null,
+  "type": "Group",
+  "area": {
+    "type": null,
+    "sort-name": "United Kingdom",
+    "disambiguation": "",
+    "type-id": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ]
+  },
+  "isnis": [
+    "0000000086183215"
+  ],
+  "begin-area": {
+    "disambiguation": "",
+    "type-id": null,
+    "type": null,
+    "iso-3166-2-codes": [
+      "GB-LCE"
+    ],
+    "sort-name": "Leicester",
+    "id": "806b9b3b-5daf-4eaa-807d-7a2a29cde0da",
+    "name": "Leicester"
+  },
+  "life-span": {
+    "ended": true,
+    "begin": "1967",
+    "end": "1973"
+  },
+  "aliases": [],
+  "gender": null,
+  "name": "Family",
+  "gender-id": null,
+  "relations": [
+    {
+      "end": null,
+      "direction": "backward",
+      "begin": null,
+      "artist": {
+        "id": "41bc86f8-1aa5-4a7c-977e-61fb3bb80e3d",
+        "name": "The Farinas",
+        "sort-name": "Farinas, The",
+        "country": "GB",
+        "type": null,
+        "disambiguation": "Early version of Family",
+        "type-id": null
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "9752bfdf-13ca-441a-a8bc-18928c600c73",
+      "source-credit": "",
+      "ended": false,
+      "target-type": "artist",
+      "type": "artist rename",
+      "attributes": []
+    },
+    {
+      "artist": {
+        "name": "John “Poli” Palmer",
+        "id": "e8c0af3e-bfe4-4a2d-a056-a4f0ac70ca9c",
+        "type": "Person",
+        "country": "GB",
+        "sort-name": "Palmer, John “Poli”",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": ""
+      },
+      "begin": "1969",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "target-type": "artist",
+      "ended": true,
+      "end": "1972",
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attributes": [
+        "flute"
+      ],
+      "type": "member of band"
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "sort-name": "Palmer, John “Poli”",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "John “Poli” Palmer",
+        "id": "e8c0af3e-bfe4-4a2d-a056-a4f0ac70ca9c"
+      },
+      "begin": "1969",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "direction": "backward",
+      "end": "1972",
+      "type": "member of band",
+      "attributes": [
+        "synthesizer"
+      ],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "end": "1972",
+      "direction": "backward",
+      "type": "member of band",
+      "attributes": [
+        "piano"
+      ],
+      "source-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "country": "GB",
+        "sort-name": "Palmer, John “Poli”",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "John “Poli” Palmer",
+        "id": "e8c0af3e-bfe4-4a2d-a056-a4f0ac70ca9c"
+      },
+      "begin": "1969",
+      "target-type": "artist",
+      "ended": true,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      }
+    },
+    {
+      "direction": "backward",
+      "end": "1972",
+      "type": "member of band",
+      "attributes": [
+        "vibraphone"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": "1969",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Palmer, John “Poli”",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "e8c0af3e-bfe4-4a2d-a056-a4f0ac70ca9c",
+        "name": "John “Poli” Palmer"
+      },
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {
+        "vibraphone": "799af440-c0e7-4d8f-83d5-ecfee8b25787"
+      },
+      "attribute-credits": {}
+    },
+    {
+      "begin": "1971",
+      "artist": {
+        "id": "50bfd9b9-b5a5-4f25-ad19-b0b129d14267",
+        "name": "John Wetton",
+        "sort-name": "Wetton, John",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "end": "1972",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [],
+      "ended": true,
+      "type": "member of band",
+      "target-type": "artist"
+    },
+    {
+      "begin": "2013",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Palmer, John “Poli”",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "e8c0af3e-bfe4-4a2d-a056-a4f0ac70ca9c",
+        "name": "John “Poli” Palmer"
+      },
+      "end": "2016",
+      "direction": "backward",
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [],
+      "ended": true,
+      "type": "member of band",
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "direction": "backward",
+      "end": null,
+      "begin": null,
+      "artist": {
+        "id": "a7076726-dabf-443e-8dac-39befc997138",
+        "name": "Tony Ashton",
+        "type": "Person",
+        "sort-name": "Ashton, Tony",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "British pianist, singer, composer and producer"
+      },
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "direction": "backward",
+      "begin": null,
+      "artist": {
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Chapman, Roger",
+        "type": "Person",
+        "name": "Roger Chapman",
+        "id": "fafa62f4-7756-4fac-9d14-281d9de2031a"
+      }
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "ended": false,
+      "artist": {
+        "type": "Person",
+        "sort-name": "Cregan, Jim",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "producer & member of Family",
+        "id": "981e9e3e-f683-4923-a7fa-cf56ada171d9",
+        "name": "Jim Cregan"
+      },
+      "begin": null,
+      "direction": "backward",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "type": "member of band",
+      "end": null,
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "ended": false,
+      "target-type": "artist",
+      "begin": null,
+      "artist": {
+        "name": "Ric Grech",
+        "id": "3b9a2ea7-1f31-4fc3-8fb4-ca6027e34193",
+        "country": "GB",
+        "sort-name": "Grech, Ric",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "type": "member of band",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "direction": "backward",
+      "artist": {
+        "id": "1a757fac-cf2a-4629-9781-815854f9cb6e",
+        "name": "Jim King",
+        "type": "Person",
+        "sort-name": "King, Jim",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": ""
+      },
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "type": "member of band",
+      "target-type": "artist",
+      "ended": false,
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "direction": "backward",
+      "end": null,
+      "artist": {
+        "disambiguation": "drummer of Family and The Blues Band",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "sort-name": "Townsend, Rob",
+        "name": "Rob Townsend",
+        "id": "2519346e-40bd-4817-89a0-15347da5f7cb"
+      },
+      "begin": null
+    },
+    {
+      "end": null,
+      "direction": "backward",
+      "begin": null,
+      "artist": {
+        "sort-name": "Whitney, Charlie",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "UK rock guitarist and composer",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "2de40557-2295-4b31-a1fc-d3542bb58b59",
+        "name": "Charlie Whitney"
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "ended": true,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "id": "c1f89672-36a4-4943-b6e0-275cd4838cc4",
+        "name": "John Weider",
+        "type": "Person",
+        "sort-name": "Weider, John",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": ""
+      },
+      "begin": null,
+      "direction": "backward",
+      "end": null
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000171133",
+        "id": "5a4782a9-01a9-4011-9c1f-33833f26a977"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "type": "allmusic",
+      "target-type": "url",
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "id": "be850aa6-890a-4765-bfb2-4c56fa394c33",
+        "resource": "https://www.bandsintown.com/a/77945"
+      },
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "attribute-values": {},
+      "target-type": "url",
+      "type": "bandsintown",
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "type": "discogs",
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/310379",
+        "id": "13673a08-bb0e-4908-8678-7bdc3d8f0e22"
+      }
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "type": "free streaming",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "url": {
+        "resource": "https://open.spotify.com/artist/0FtsBt4gg67x9q0CS5FhB6",
+        "id": "27abfaa6-b7fa-4b28-a8ab-8441fae61b21"
+      }
+    },
+    {
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://open.spotify.com/artist/0L48BaVtgCVsLA6BUo7wta",
+        "id": "b8473be2-35da-4812-89c5-d0e2a9f15c4d"
+      },
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "type": "free streaming",
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.deezer.com/artist/322211",
+        "id": "44644683-3536-4db3-a6ef-09682c7f593c"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "type": "free streaming",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "url": {
+        "resource": "https://www.last.fm/music/Family",
+        "id": "2cfbebf7-3dc0-4295-826b-5482d5ca4382"
+      },
+      "attributes": [],
+      "target-type": "url",
+      "type": "last.fm",
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "source-credit": "",
+      "url": {
+        "id": "15681cfb-10f3-4322-b893-d0a03309cbbc",
+        "resource": "https://genius.com/artists/Family-uk-rock-band"
+      },
+      "attributes": [],
+      "ended": false,
+      "type": "lyrics",
+      "target-type": "url",
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "type": "other databases",
+      "attributes": [],
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n2014004913",
+        "id": "bba3184f-c116-494f-b08e-94cbbdd525ae"
+      },
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "url": {
+        "id": "fe6ad89e-5ef2-4889-93d4-a49952b86dbe",
+        "resource": "https://d-nb.info/gnd/5547759-8"
+      },
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "type": "other databases"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "d724fb5e-5652-462d-b466-f8197cd9f164",
+        "resource": "https://rateyourmusic.com/artist/family"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "end": null,
+      "attributes": [],
+      "type": "other databases",
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "id": "1384b134-ed8e-4f7d-aa33-6e14e4b78d85",
+        "resource": "https://www.45cat.com/artist/family"
+      }
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "id": "8d635884-a9bd-4e43-a161-90edc6b01b1d",
+        "resource": "https://www.musik-sammler.de/artist/family/"
+      },
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type": "other databases",
+      "target-type": "url",
+      "ended": false,
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=2207",
+        "id": "876d028d-3e33-4aac-8f78-1be97b6fe5d0"
+      },
+      "attributes": [],
+      "ended": false,
+      "type": "other databases",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "begin": null,
+      "target-type": "url",
+      "type": "other databases",
+      "ended": false,
+      "attributes": [],
+      "url": {
+        "id": "6c3511cd-084f-41b4-9dea-213e6eac7f63",
+        "resource": "https://www.worldcat.org/identities/lccn-n2014004913"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "begin": null,
+      "type": "purchase for download",
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/family/202663",
+        "id": "b2edd21a-353c-4b6d-a123-16e8f84cd4b3"
+      },
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "secondhandsongs",
+      "ended": false,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "url": {
+        "id": "f8ab2140-7118-43bf-8c51-304fd6d28d58",
+        "resource": "https://secondhandsongs.com/artist/26279"
+      },
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "ended": false,
+      "type": "setlistfm",
+      "target-type": "url",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/family-3d6adab.html",
+        "id": "d5846176-c011-46ca-b6ab-8d956c8301ed"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "url": {
+        "resource": "https://www.songkick.com/artists/2476051",
+        "id": "f6d558a5-e61a-4848-b6b4-b46e6e0d4711"
+      },
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-type": "url",
+      "type": "songkick",
+      "ended": false,
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "url": {
+        "id": "6626bd1b-0974-486f-8df9-6c3638ce84d6",
+        "resource": "https://music.apple.com/fr/artist/221753"
+      },
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "type": "streaming",
+      "begin": null,
+      "direction": "forward",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "id": "73fe45cf-7854-40dd-97a0-d74966b0cd66",
+        "resource": "https://music.apple.com/us/artist/221753"
+      },
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "type": "streaming"
+    },
+    {
+      "begin": null,
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "resource": "https://tidal.com/artist/3528535",
+        "id": "bbc3f261-e67c-4da7-aa55-73b7a1c89e67"
+      },
+      "attributes": [],
+      "type": "streaming",
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type": "streaming",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/family/202663",
+        "id": "b2edd21a-353c-4b6d-a123-16e8f84cd4b3"
+      }
+    },
+    {
+      "url": {
+        "id": "070aaa4f-63f7-4370-bedd-efb442fae4ca",
+        "resource": "http://viaf.org/viaf/138864420"
+      },
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-type": "url",
+      "type": "VIAF",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type": "wikidata",
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1395369",
+        "id": "5052118b-3e31-45ce-a799-3307f6f2a476"
+      },
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+    },
+    {
+      "url": {
+        "id": "45936c1a-749d-4148-8218-73d9516c760b",
+        "resource": "https://music.youtube.com/channel/UCFpCsie4KM8l7CNyL-2UkYQ"
+      },
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "target-type": "url",
+      "type": "youtube music",
+      "ended": false,
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "begin": null,
+      "target-credit": ""
+    }
+  ],
+  "id": "7745d370-9cf1-41be-916c-9c8d2e502628"
+}

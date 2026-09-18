@@ -1,0 +1,766 @@
+{
+  "type": "Group",
+  "id": "96ad1836-0a6e-423f-a2af-0f4a64a325ca",
+  "area": {
+    "type-id": null,
+    "type": null,
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "disambiguation": "",
+    "sort-name": "United States",
+    "name": "United States",
+    "iso-3166-1-codes": [
+      "US"
+    ]
+  },
+  "ipis": [],
+  "gender": null,
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1966"
+  },
+  "disambiguation": "",
+  "sort-name": "Vanilla Fudge",
+  "relations": [
+    {
+      "target-type": "artist",
+      "type": "member of band",
+      "direction": "backward",
+      "ended": true,
+      "artist": {
+        "name": "Tim Bogert",
+        "sort-name": "Bogert, Tim",
+        "disambiguation": "",
+        "country": "US",
+        "id": "8cbc1c01-c727-40e8-8ef8-0351a18387bc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "begin": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1970"
+    },
+    {
+      "ended": false,
+      "direction": "backward",
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "name": "Carmine Appice",
+        "sort-name": "Appice, Carmine",
+        "disambiguation": "",
+        "country": "US",
+        "id": "ba2a6b88-f467-48d0-a503-5f098aefd54e",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "direction": "backward",
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "sort-name": "Bremy, Pete",
+        "name": "Pete Bremy",
+        "country": "US",
+        "disambiguation": "",
+        "id": "b1569f0f-dbbe-4f63-8ff7-8a542b6e31fd",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "b7057b53-1122-452e-a558-553b6b1fcd4f",
+        "disambiguation": "guitarist, songwriter and producer",
+        "country": "US",
+        "name": "Lanny Cordola",
+        "sort-name": "Cordola, Lanny"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": false,
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-type": "artist",
+      "type": "member of band",
+      "direction": "backward",
+      "ended": false,
+      "artist": {
+        "id": "26d3b2f5-2315-49e1-9e15-5eb2496ab882",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Tom Croucier",
+        "sort-name": "Croucier, Tom",
+        "disambiguation": "",
+        "country": "US"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "25f52587-98fd-4c2a-b85a-a8c054c3f1d8",
+        "disambiguation": "",
+        "country": null,
+        "sort-name": "Dolfen, Mark",
+        "name": "Mark Dolfen"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": false,
+      "direction": "backward",
+      "type": "member of band"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "artist": {
+        "id": "046933fe-9623-4cc7-93e8-a251e470c2e8",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Paul Hanson",
+        "sort-name": "Hanson, Paul",
+        "disambiguation": "US guitarist for Vanilla Fudge",
+        "country": "US"
+      }
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "id": "24505a6e-4561-4372-a661-867adae8f36a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Vince Martell",
+        "sort-name": "Martell, Vince",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "direction": "backward",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-values": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "ended": false,
+      "artist": {
+        "id": "42b20121-adfb-481b-be7e-fe79e23e446e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Pascali, Bill",
+        "name": "Bill Pascali",
+        "disambiguation": "",
+        "country": null
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "type": "member of band",
+      "direction": "backward",
+      "target-type": "artist",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "sort-name": "Rondinelli, Teddy",
+        "name": "Teddy Rondinelli",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "bb6eca96-d86c-442e-a11c-34da43e5181c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "type": "member of band",
+      "direction": "backward",
+      "ended": false,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "artist": {
+        "disambiguation": "",
+        "country": "US",
+        "sort-name": "St. Holmes, Derek",
+        "name": "Derek St. Holmes",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "e5128ffa-61bc-4c81-b02c-65b5a0d0955a"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null,
+      "target-type": "artist",
+      "ended": false,
+      "direction": "backward",
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Stein, Mark",
+        "name": "Mark Stein",
+        "disambiguation": "",
+        "country": "US",
+        "id": "68951875-3dca-4d82-8898-3e5205f12099",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null,
+      "target-type": "artist",
+      "ended": true,
+      "type": "member of band",
+      "direction": "backward",
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Mancuso, Ron",
+        "name": "Ron Mancuso",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "1ac49a3b-d3d4-4663-baa3-3e04dbc8a18d"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": null,
+      "attributes": [],
+      "target-credit": "T.M. Stevens",
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "US bass player Thomas Michael Stevens",
+        "country": "US",
+        "name": "T. M. Stevens",
+        "sort-name": "Stevens, T. M.",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "9029ecaf-5a7a-47e1-a98b-f6f3aedb7398"
+      },
+      "ended": true,
+      "direction": "backward",
+      "type": "member of band",
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "end": "1966-12",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "begin": "1965",
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "name": "The Pigeons",
+        "sort-name": "Pigeons, The",
+        "disambiguation": "",
+        "country": null,
+        "id": "309ea497-65f9-4be0-8183-86ef70c3146b",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "ended": true,
+      "direction": "backward",
+      "type": "subgroup",
+      "target-type": "artist"
+    },
+    {
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000311674",
+        "id": "6d4656d1-6e05-41bd-8655-ef7af33584f0"
+      },
+      "ended": false,
+      "direction": "forward",
+      "type": "allmusic",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.discogs.com/artist/271140",
+        "id": "52be2e2d-a66c-4639-9ca3-4a7d3e1d6da1"
+      },
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "source-credit": "",
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "discogs",
+      "direction": "forward",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "type": "free streaming",
+      "ended": false,
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1",
+        "id": "b863899a-6ddc-4e96-9a18-637ad886f3ce"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "begin": null
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.deezer.com/artist/64763",
+        "id": "02d1f568-d8e5-48bc-9dd4-e96d38dd0001"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "ended": false,
+      "direction": "forward",
+      "type": "free streaming",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "url": {
+        "id": "ca71363a-557c-4db1-98c5-4442ff6a93be",
+        "resource": "https://www.last.fm/music/Vanilla%20Fudge"
+      },
+      "attribute-values": {},
+      "end": null,
+      "target-type": "url",
+      "direction": "forward",
+      "type": "last.fm",
+      "ended": false,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "ended": false,
+      "type": "lyrics",
+      "direction": "forward",
+      "target-type": "url",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "id": "a2defdf3-09e0-46f2-8ed6-93560edf4001",
+        "resource": "http://muzikum.eu/en/122-10923/vanilla-fudge/lyrics.html"
+      },
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "source-credit": "",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "url": {
+        "resource": "http://www.vanillafudge.com/",
+        "id": "f19f6b9f-23db-4324-928d-de4c14dbfa34"
+      },
+      "attribute-values": {},
+      "end": null,
+      "target-type": "url",
+      "ended": false,
+      "direction": "forward",
+      "type": "official homepage",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "type": "other databases",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/nr89011340",
+        "id": "25a0fb50-87a5-408b-bc59-a1ccede9f0a2"
+      }
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "id": "3bfcc4d3-1dd4-48bc-bc5a-83de3596c60f",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13907277z"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "source-credit": "",
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "other databases",
+      "direction": "forward",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://d-nb.info/gnd/5154419-2",
+        "id": "a47b541c-d326-4a19-a091-9aa1217417b7"
+      },
+      "attribute-values": {},
+      "end": null,
+      "target-type": "url",
+      "ended": false,
+      "type": "other databases",
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "ended": false,
+      "type": "other databases",
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "id": "f445d64d-2186-430f-aed9-ce88162adfa0",
+        "resource": "https://rateyourmusic.com/artist/vanilla_fudge"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "begin": null
+    },
+    {
+      "ended": false,
+      "direction": "forward",
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "id": "a0cb5647-8d22-4b22-8dca-71d33c951e5f",
+        "resource": "https://www.worldcat.org/identities/lccn-nr89011340"
+      }
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "resource": "https://open.qobuz.com/artist/333858",
+        "id": "e2a13e97-673b-4169-887b-f498066cd608"
+      },
+      "attribute-values": {},
+      "end": null,
+      "target-type": "url",
+      "ended": false,
+      "direction": "forward",
+      "type": "purchase for download",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "social network",
+      "direction": "forward",
+      "ended": false,
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "id": "9b6e6022-586a-4eaf-87c5-95a82a150c45",
+        "resource": "https://twitter.com/vanillafudgerox"
+      },
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "type": "social network",
+      "ended": false,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "source-credit": "",
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "url": {
+        "resource": "https://www.facebook.com/VanillaFudgeOfficialSite",
+        "id": "ab50c203-c1f0-4071-8160-31a215f25650"
+      },
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "target-type": "url",
+      "type": "songkick",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "url": {
+        "resource": "https://www.songkick.com/artists/371183",
+        "id": "a474c31c-d4f4-4f89-9e91-a3b9b9599c92"
+      },
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "direction": "forward",
+      "type": "streaming",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/711249",
+        "id": "5615c8ba-b549-4c25-b1d5-d936f93f3af9"
+      },
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "direction": "forward",
+      "type": "streaming",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "id": "e2a13e97-673b-4169-887b-f498066cd608",
+        "resource": "https://open.qobuz.com/artist/333858"
+      }
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://tidal.com/artist/13684",
+        "id": "bc32f923-93e3-4c42-9eba-ed3cf1db40dc"
+      },
+      "direction": "forward",
+      "type": "streaming",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "direction": "forward",
+      "type": "VIAF",
+      "url": {
+        "resource": "http://viaf.org/viaf/147155487",
+        "id": "43de81e7-980c-4fff-8129-2090d8761dbf"
+      },
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460"
+    },
+    {
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q765243",
+        "id": "a8d7e92d-cc2b-4e80-9575-9ffb1e31b6a8"
+      },
+      "ended": false,
+      "type": "wikidata",
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {}
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [],
+  "country": "US",
+  "end-area": null,
+  "gender-id": null,
+  "name": "Vanilla Fudge",
+  "isnis": [
+    "0000000123423266"
+  ],
+  "begin-area": {
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+    "sort-name": "New York",
+    "name": "New York"
+  }
+}

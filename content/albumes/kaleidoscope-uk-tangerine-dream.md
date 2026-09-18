@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "kaleidoscope-uk-tangerine-dream"
+titulo: "Tangerine Dream"
+artista: "Kaleidoscope"
+artista_slug: "kaleidoscope-uk"
+anio_ficha: 1967
+era: "clasica"
+escena: "rarezas"
+mb_rgid: "8e757961-772f-3be2-babb-980944c09965"
+primer_lanzamiento: "1967"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Referencia de culto de la psicodelia inglesa de cuento, sólida de principio a fin."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Sin repercusión en su momento; circuló entre coleccionistas."
+historia: "editorial"
+---
+
+La psicodelia pastoral inglesa en su versión más consistente: miniaturas con órgano en segundo plano, guitarra de tono cristalino y letras de cuento infantil torcido. Peter Daltrey canta como si narrara, y esa manera de contar en lugar de arengar es la que recogería después el prog más doméstico. Cuatro estrellas por oficio y unidad de tono, no por ambición: aquí todavía no hay suites ni ganas de tenerlas.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El grupo llevaba años tocando en Londres bajo otros nombres cuando en 1967 encontró el suyo y, con él, un registro propio. Este primer álbum es el catálogo de ese hallazgo: psicodelia pastoral inglesa, de jardín y cuento, sin una gota de blues, con Peter Daltrey escribiendo las letras y cantando, Eddy Pumer en la guitarra y los arreglos, Steve Clark en el bajo y Dan Bridgman en la batería. Lo que distingue al disco de la producción psicodélica de su año no es la audacia sonora sino el punto de vista: Daltrey no proclama nada, cuenta historias de personajes menores.
+
+El repertorio funciona como una galería de retratos. «Mr. Small, the Watch Repairer Man» dedica un tema entero a un relojero; «Dear Nellie Goodrich» y «Holidaymaker» siguen la misma lógica de viñeta doméstica; «The Murder of Lewis Tollani» introduce un crimen contado con la serenidad de quien lee un cuento en voz alta. «Dive Into Yesterday» y «(Further Reflections) In the Room of Percussion» son los momentos en que el grupo se permite disolver la forma canción, y «A Lesson, Perhaps» pone un guiño de ironía inglesa antes del cierre. Ese cierre es lo que interesa a esta historia: «The Sky Children» dura ocho minutos y sostiene una narración continua, con el relato empujando la música en lugar de someterse a la estructura de estrofa y estribillo. El disco siguiente, de 1969, tiraría de ese hilo hacia el peso y la duración.
+
+## La producción
+
+El sonido está construido por sustracción. El órgano queda en segundo plano y nunca toma el frente, las guitarras suenan de tono limpio y cristalino, con arpegios en lugar de acordes rasgados, y los coros aparecen y se van sin quedarse a decorar. Hay percusión de color repartida por el disco, sobre todo en la pieza que la menciona en el título, y un trabajo de paneo estéreo que separa las líneas en lugar de empastarlas, para que cada detalle se oiga en su lugar. Es una producción de miniaturista: cuidada, contenida y sin un solo gesto de volumen.
+
+Los créditos verificados no conservan nombres de productor, ingeniero ni estudio para esta edición, así que lo atribuible con certeza son las decisiones audibles. La más importante es haber grabado la voz de Daltrey seca y adelante, sin el eco largo que la psicodelia de entonces usaba por defecto: el resultado es un narrador, no un oficiante.
+
+## Recepción y legado
+
+Quedó como la versión más consistente de la psicodelia pastoral inglesa, valorada por oficio y unidad de tono antes que por ambición, porque aquí todavía no hay suites ni ganas de tenerlas. Lo que el prog recogió de este disco no es un formato sino una manera de contar: descriptiva, sin arenga, con personajes en lugar de visiones, que reaparecería en el ala más doméstica del género inglés de los años siguientes. «The Sky Children» es la excepción que anticipa el resto, una pieza larga sostenida por una historia y no por solos. La formación no se movería nunca, y esa estabilidad explica que lo que vino después suene al mismo grupo aunque haya cambiado de intención.

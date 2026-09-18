@@ -1,0 +1,233 @@
+{
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London",
+    "disambiguation": "Greater London",
+    "type-id": null,
+    "sort-name": "London",
+    "type": null
+  },
+  "life-span": {
+    "end": null,
+    "begin": "1967",
+    "ended": false
+  },
+  "aliases": [],
+  "gender": null,
+  "gender-id": null,
+  "name": "Nirvana",
+  "relations": [
+    {
+      "ended": false,
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "direction": "backward",
+      "begin": null,
+      "artist": {
+        "id": "2f2c5dda-15b3-4685-b175-d29490aa4b65",
+        "name": "Alex Spyropoulos",
+        "type": "Person",
+        "sort-name": "Spyropoulos, Alex",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": ""
+      }
+    },
+    {
+      "ended": true,
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "end": null,
+      "direction": "backward",
+      "begin": null,
+      "artist": {
+        "name": "Patrick Campbell-Lyons",
+        "id": "7527b0c3-abd4-4332-9ef4-c2ccb6ebf790",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "IE",
+        "sort-name": "Campbell-Lyons, Patrick"
+      }
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/9282c8b4-ca0b-4c6b-b7e3-4f7762dfc4d6",
+        "id": "98858c44-a517-4638-872c-68c78f3d528e"
+      },
+      "attributes": [],
+      "target-type": "url",
+      "type": "BBC Music page",
+      "ended": true,
+      "begin": null,
+      "end": "2020-11-19",
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "type": "discogs",
+      "ended": false,
+      "attributes": [],
+      "url": {
+        "resource": "https://www.discogs.com/artist/307513",
+        "id": "8610605a-880e-4cd6-b672-2a8d47220f54"
+      },
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "url": {
+        "resource": "https://www.deezer.com/artist/415",
+        "id": "05fd4bd7-b7c8-44f3-afdd-0f6b6b0b6092"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "ended": false,
+      "type": "free streaming",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "type": "other databases",
+      "ended": false,
+      "attributes": [],
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/nirvana_f2",
+        "id": "719c8339-7637-4782-8b4a-961a5ebb0af7"
+      },
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "url": {
+        "resource": "https://www.songkick.com/artists/250695",
+        "id": "e2be65a6-62e6-4b72-a855-dfd5a0b46c46"
+      },
+      "attributes": [],
+      "type": "songkick",
+      "target-type": "url",
+      "ended": false
+    },
+    {
+      "ended": false,
+      "target-type": "url",
+      "type": "streaming",
+      "attributes": [],
+      "url": {
+        "resource": "https://tidal.com/artist/7742591",
+        "id": "5dbee657-7dd5-4064-8c9b-63d7b105cc71"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1855965",
+        "id": "73c4e07a-57fa-4eb3-9924-6f236a0fe6f7"
+      },
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "type": "wikidata",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "type": "wikipedia",
+      "type-id": "29651736-fa6d-48e4-aadc-a557c6add1cb",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "url": {
+        "resource": "https://en.wikipedia.org/wiki/Nirvana_(British_band)",
+        "id": "5c22aa59-faa9-490d-ae14-e938b1e44d40"
+      },
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "direction": "forward"
+    }
+  ],
+  "id": "9282c8b4-ca0b-4c6b-b7e3-4f7762dfc4d6",
+  "area": {
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "United Kingdom"
+  },
+  "isnis": [
+    "0000000469676279"
+  ],
+  "type": "Group",
+  "end-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "60s band from the UK",
+  "ipis": [],
+  "country": "GB",
+  "sort-name": "Nirvana"
+}

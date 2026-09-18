@@ -1,0 +1,245 @@
+{
+ "id": "rar-underground-uk",
+ "escena": "rarezas",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "third-ear-band",
+   "nombre": "Third Ear Band",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1968",
+   "fin": "1993",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Third_Ear_Band",
+   "formaciones_mb": [
+    "Richard Coff (violin; ?–act.)",
+    "Richard Coff (viola; ?–act.)",
+    "Paul Minns (oboe; ?–act.)",
+    "Paul Minns (recorder; ?–act.)",
+    "Ursula Smith (cello; ?–act.)",
+    "Glen Sweeney (percussion; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "third-ear-band-alchemy",
+     "titulo": "Alchemy",
+     "anio": 1969,
+     "mbid": "767d6199-64be-3311-b0d3-fffcdef47381",
+     "primer_lanzamiento": "1969",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "third-ear-band-third-ear-band",
+     "titulo": "Third Ear Band",
+     "anio": 1970,
+     "mbid": "ea5ab2ca-7cc6-3e7e-bfd3-bdab05b9d349",
+     "primer_lanzamiento": "1970-06",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "third-ear-band-music-from-macbeth",
+     "titulo": "Music From Macbeth",
+     "anio": 1972,
+     "mbid": "a52cced6-db6d-3089-a939-cf9bfa7299e4",
+     "primer_lanzamiento": "1972",
+     "soundtrack": true
+    },
+    {
+     "album_slug": "third-ear-band-magic-music",
+     "titulo": "Magic Music",
+     "anio": 1990,
+     "mbid": "92efdc38-7af4-3512-8934-0650bb526056",
+     "primer_lanzamiento": "1990",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "third-ear-band-new-forecasts-from-the-third-ear-almanac",
+     "titulo": "New Forecasts From the Third Ear Almanac",
+     "anio": 1990,
+     "mbid": "364b7efe-1fe3-4325-8baf-ad36e566507d",
+     "primer_lanzamiento": "1990",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "third-ear-band-brain-waves",
+     "titulo": "Brain Waves",
+     "anio": 1993,
+     "mbid": "0486d1f3-ffdf-4ffc-9493-8830d2c9610b",
+     "primer_lanzamiento": "1993",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "third-ear-band-live",
+     "titulo": "Live",
+     "anio": 1996,
+     "mbid": "aaae6858-4deb-4059-9e77-d2fd2d6c6582",
+     "primer_lanzamiento": "1996",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "third-ear-band-the-magus",
+     "titulo": "The Magus",
+     "anio": 2004,
+     "mbid": "579a7b1e-8ef7-38fa-aa0e-9ca24633aad4",
+     "primer_lanzamiento": "2004-09-28",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "high-tide",
+   "nombre": "High Tide",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1969",
+   "fin": "1991",
+   "wikipedia_url": "https://en.wikipedia.org/wiki/High_Tide_(band)",
+   "formaciones_mb": [
+    "Roger Hadden (miembro; ?–act.)",
+    "Tony Hill (miembro; ?–act.)",
+    "Drachen Theaker (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "high-tide-sea-shanties",
+     "titulo": "Sea Shanties",
+     "anio": 1969,
+     "mbid": "0144a88b-27c7-35b9-8f4b-7433bc70de73",
+     "primer_lanzamiento": "1969",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "high-tide-high-tide",
+     "titulo": "High Tide",
+     "anio": 1970,
+     "mbid": "e9b28d19-de59-3e26-9dbc-995d215cacd9",
+     "primer_lanzamiento": "1970-07",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "high-tide-precious-cargo",
+     "titulo": "Precious Cargo",
+     "anio": 1989,
+     "mbid": "7e46395a-dab3-465c-886b-7fea744430fa",
+     "primer_lanzamiento": "1989",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "high-tide-a-fierce-nature",
+     "titulo": "A Fierce Nature",
+     "anio": 1990,
+     "mbid": "b006d98d-9fc0-434e-9ae3-359eb04bce5d",
+     "primer_lanzamiento": "1990",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "high-tide-ancient-gates",
+     "titulo": "Ancient Gates",
+     "anio": 1990,
+     "mbid": "ffe3a870-b20f-4843-95cd-4b6588fe095c",
+     "primer_lanzamiento": "1990",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "high-tide-the-flood",
+     "titulo": "The Flood",
+     "anio": 1990,
+     "mbid": "ef51e6d8-9367-4f5c-9e02-d8e04803b3c6",
+     "primer_lanzamiento": "1990",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "high-tide-interesting-times",
+     "titulo": "Interesting Times",
+     "anio": 1990,
+     "mbid": "544d2bda-75e1-4dbf-8abc-c9a2d646c8c2",
+     "primer_lanzamiento": "1990-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "high-tide-the-reason-of-success",
+     "titulo": "The Reason of Success",
+     "anio": 1991,
+     "mbid": "8f4a8bae-93bd-463d-be18-87e43a4890f9",
+     "primer_lanzamiento": "1991",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "high-tide-play-me-reggae",
+     "titulo": "Play Me Reggae",
+     "anio": 2007,
+     "mbid": "58bbb4aa-44e0-44af-b5ce-4ca565466ab3",
+     "primer_lanzamiento": "2007-12-05",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "quintessence",
+   "nombre": "Quintessence",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1969-04",
+   "fin": "1975",
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Quintessence_(band)",
+   "formaciones_mb": [
+    "Shambhu Babaji (miembro; ?–act.)",
+    "Phil Jones (miembro; ?–act.)",
+    "Maha Dev (miembro; ?–act.)",
+    "Jake Milton (miembro; ?–act.)",
+    "Allan Mostert (miembro; ?–act.)",
+    "Raja Ram (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "quintessence-in-blissful-company",
+     "titulo": "In Blissful Company",
+     "anio": 1969,
+     "mbid": "e66c3989-d6eb-3d4c-b40f-893b89c741b3",
+     "primer_lanzamiento": "1969",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "quintessence-quintessence",
+     "titulo": "Quintessence",
+     "anio": 1970,
+     "mbid": "4dce4061-84b8-3c37-aebf-42cb66862667",
+     "primer_lanzamiento": "1970",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "quintessence-dive-deep",
+     "titulo": "Dive Deep",
+     "anio": 1971,
+     "mbid": "132e2059-85ca-3756-8bdd-acc898e4ab48",
+     "primer_lanzamiento": "1971",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "quintessence-indweller",
+     "titulo": "Indweller",
+     "anio": 1972,
+     "mbid": "278db26f-da19-373e-912b-10fc0c3a634b",
+     "primer_lanzamiento": "1972",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "quintessence-self",
+     "titulo": "Self",
+     "anio": 1972,
+     "mbid": "5334ae0b-92ac-3aa3-8c46-abff7202fb09",
+     "primer_lanzamiento": "1972-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "quintessence-sonoma-rag",
+     "titulo": "Sonoma Rag",
+     "anio": 1980,
+     "mbid": "75605d0d-e9c0-4854-bf37-0363a08dbd26",
+     "primer_lanzamiento": "1980",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

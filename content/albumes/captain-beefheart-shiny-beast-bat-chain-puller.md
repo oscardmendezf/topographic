@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "captain-beefheart-shiny-beast-bat-chain-puller"
+titulo: "Shiny Beast (Bat Chain Puller)"
+artista: "Captain Beefheart & His Magic Band"
+artista_slug: "captain-beefheart"
+anio_ficha: 1978
+era: "clasica"
+escena: "rarezas"
+mb_rgid: "5887c600-15a7-3c40-9b8b-49aac410be6d"
+primer_lanzamiento: "1978"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Reconstrucción convincente del lenguaje propio, más disfrutable que dogmática."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Volvió a poner su nombre en circulación sin ampliar demasiado el público."
+historia: "editorial"
+---
+
+El regreso de 1978 recupera el sistema y le suma algo que antes no había: swing, color, incluso humor tocado con soltura. Eric Drew Feldman y Art Tripp sostienen un grupo que ejecuta lo imposible sin sonar a penitencia. La prueba de que el método aguantaba fuera del clima de encierro que lo originó.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Cuatro años sin disco después del doble desastre de 1974, y con la Magic Band histórica disuelta, el regreso de 1978 tenía todo en contra. Buena parte del material venía de unas sesiones anteriores que quedaron bloqueadas por un conflicto contractual y hubo que volver a grabarlas con una formación nueva, circunstancia que suele producir versiones apagadas y aquí produjo lo contrario. Van Vliet recuperó el sistema íntegro —las partes dictadas, los compases que no coinciden, la voz entrando a contramano— y le añadió algo que en los discos duros no aparecía: swing, color y humor tocado con soltura.
+
+El repertorio es el más variado del catálogo. «Tropical Hot Dog Night» monta un ritmo caribeño con vientos y lo cruza con la escritura habitual, y el efecto es de fiesta desquiciada más que de ejercicio; «Harry Irene» es un vodevil de salón, casi cómico, cantado con una dulzura impensable diez años antes; «Candle Mambo» tira en la misma dirección bailable. Frente a eso, «The Floppy Boot Stomp» y «Suction Prints» son ensamblajes duros de manual, y el tema titular sostiene el mejor riff del disco sobre una figura que avanza como una máquina. «Apes‐Ma», cuarenta segundos de recitado sobre un animal enjaulado que ha engordado y ya no cabe, cierra el disco con la pieza más breve y más amarga.
+
+## La producción
+
+La clave del salto está en el grupo. Eric Drew Feldman aporta sintetizador, un elemento nuevo en este vocabulario y usado con criterio, como textura y no como solo; Art Tripp vuelve a la marimba, que había definido el sonido de 1970; Richard Redus y Moris Tepper se reparten las guitarras, y Robert Williams se ocupa de la percusión. Bruce Fowler suma trombón, y con él entra un color de metal que separa este disco de todo lo anterior. Van Vliet canta, silba y toca saxo soprano.
+
+El resultado es una grabación limpia y con cuerpo, muy lejos de la sequedad documental de la etapa de Zappa. Las voces están cuidadas, hay armonías, los vientos tienen presencia y la mezcla admite profundidad. Es la primera vez que el método suena grabado con recursos plenos sin perder por ello su filo. La dirección de arte es de John Cabalka, con diseño de Brad Kanawyer y fotografías de Alec Duncan y Richard McCaffree; la obra de portada la firma el propio Don van Vliet, cuya pintura ya era para entonces una parte declarada de su trabajo.
+
+## Recepción y legado
+
+Se recibió como una resurrección y esa lectura se ha mantenido. El contexto ayudó: en 1978 había toda una generación de músicos que había llegado al catálogo desde el punk y desde lo que vino después, y que reconocía en esta música una genealogía propia. El disco les devolvió a un Van Vliet en funciones, no a un mito retirado.
+
+Su importancia real es que demuestra que el método aguantaba fuera del clima de encierro que lo originó. No hacía falta una casa, meses de ensayo y una banda al borde del colapso: hacía falta músicos capaces, y ahora los había. Todo lo que el rock angular de los años siguientes tomó de este catálogo pasa tanto por aquí como por 1969, y en versión ejecutable.

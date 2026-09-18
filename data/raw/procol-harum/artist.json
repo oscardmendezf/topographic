@@ -1,0 +1,1276 @@
+{
+  "begin-area": {
+    "iso-3166-2-codes": [
+      "GB-SOS"
+    ],
+    "disambiguation": "",
+    "sort-name": "Southend-on-Sea",
+    "id": "f706259c-989f-4a92-bbac-211135b5c207",
+    "type": null,
+    "name": "Southend-on-Sea",
+    "type-id": null
+  },
+  "sort-name": "Procol Harum",
+  "id": "44119570-4d53-46e7-a447-bd18608c28d8",
+  "disambiguation": "",
+  "type": "Group",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "end-area": null,
+  "aliases": [
+    {
+      "locale": null,
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "primary": null,
+      "type": null,
+      "name": "Procol Harem",
+      "type-id": null,
+      "sort-name": "Procol Harem"
+    },
+    {
+      "name": "Procol Harum & Gary Brooker",
+      "type-id": null,
+      "type": null,
+      "sort-name": "Procol Harum & Gary Brooker",
+      "end": null,
+      "locale": null,
+      "primary": null,
+      "begin": null,
+      "ended": false
+    },
+    {
+      "name": "Procul Harum",
+      "type-id": null,
+      "type": null,
+      "sort-name": "Procul Harum",
+      "locale": null,
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "primary": null
+    },
+    {
+      "sort-name": "プロコル・ハルム",
+      "type-id": null,
+      "name": "プロコル・ハルム",
+      "type": null,
+      "primary": null,
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "locale": null
+    },
+    {
+      "sort-name": "프로콜 하룸",
+      "type": "Artist name",
+      "name": "프로콜 하룸",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "locale": "ko"
+    }
+  ],
+  "isnis": [
+    "0000000123370467"
+  ],
+  "relations": [
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "direction": "backward",
+      "artist": {
+        "id": "2a9adc7a-b441-49ec-a38c-fb09a6398f4d",
+        "sort-name": "Royer, Ray",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Ray Royer",
+        "type": "Person"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "begin": "1967",
+      "attribute-values": {},
+      "end": "1967"
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "disambiguation": "UK organist for Procol Harum/Prairie Madness, engineer",
+        "country": "GB",
+        "id": "a1b23e2e-9f94-405d-a2d2-32be49580eb2",
+        "sort-name": "Fisher, Matthew",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Matthew Fisher"
+      },
+      "end": "1969",
+      "attribute-values": {},
+      "begin": "1967",
+      "target-credit": ""
+    },
+    {
+      "begin": "1967",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1969",
+      "artist": {
+        "id": "a186e747-74dd-4ba9-be6b-74cd055026f9",
+        "sort-name": "Knights, David",
+        "disambiguation": "",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "David Knights",
+        "type": "Person"
+      },
+      "direction": "backward",
+      "attributes": [],
+      "ended": true,
+      "source-credit": "",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "name": "Robin Trower",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Trower, Robin",
+        "id": "6605c2c6-f115-486c-8b1a-b786882de463"
+      },
+      "direction": "backward",
+      "attributes": [],
+      "begin": "1967",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1971"
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "disambiguation": "",
+        "country": "GB",
+        "id": "3ec4f676-9f3a-4ecd-8d5c-8c80afbb9a79",
+        "sort-name": "Wilson, Barrie James",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Barrie James Wilson"
+      },
+      "end": "1977",
+      "attribute-values": {},
+      "begin": "1967",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "source-credit": "",
+      "ended": true
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "source-credit": "",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "direction": "backward",
+      "artist": {
+        "id": "3e18ad2b-ee0e-4668-ab01-969e534902f0",
+        "sort-name": "Ball, Dave",
+        "country": "GB",
+        "disambiguation": "English guitarist",
+        "type": "Person",
+        "name": "Dave Ball",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "begin": "1971",
+      "attribute-values": {},
+      "end": "1972"
+    },
+    {
+      "end": "1976",
+      "attribute-values": {},
+      "begin": "1971",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "artist": {
+        "sort-name": "Cartwright, Alan",
+        "id": "6e8d82ae-2bd8-4fdf-b4c2-1ba0bbb510f9",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Alan Cartwright",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "ended": true,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": "1991",
+      "target-credit": "",
+      "begin": "1991",
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Robin Trower",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Trower, Robin",
+        "id": "6605c2c6-f115-486c-8b1a-b786882de463"
+      },
+      "direction": "backward"
+    },
+    {
+      "target-credit": "",
+      "begin": "1991",
+      "end": "2004",
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "name": "Matthew Fisher",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "UK organist for Procol Harum/Prairie Madness, engineer",
+        "id": "a1b23e2e-9f94-405d-a2d2-32be49580eb2",
+        "sort-name": "Fisher, Matthew"
+      },
+      "attributes": [],
+      "source-credit": "",
+      "ended": true,
+      "attribute-ids": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Matt Pegg",
+        "type": "Person",
+        "sort-name": "Pegg, Matt",
+        "id": "ec06012c-32fb-4d59-b56b-aa9ac8b142c9",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "direction": "backward",
+      "attributes": [],
+      "begin": "1993",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "artist": {
+        "country": "GB",
+        "disambiguation": "UK bass player",
+        "sort-name": "Bronze, Dave",
+        "id": "18327047-fbcf-4836-8e32-32b40bc1682c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Dave Bronze"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "source-credit": "",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "artist": {
+        "name": "Gary Brooker",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "id": "160eff18-7d6e-4000-a1d4-fe4c2e7a66ca",
+        "sort-name": "Brooker, Gary"
+      },
+      "direction": "backward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-type": "artist",
+      "ended": false,
+      "source-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {},
+      "source-credit": "",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Chris Copping",
+        "type": "Person",
+        "sort-name": "Copping, Chris",
+        "id": "ce73b26f-8541-4077-83af-ae8e9f551386",
+        "disambiguation": "",
+        "country": "GB"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mick Grabham",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Grabham, Mick",
+        "id": "8de79c04-0f36-436e-be42-e42c5c2efd78"
+      },
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "sort-name": "Renwick, Tim",
+        "id": "962b21ee-72ea-4ada-b506-7bb541b91225",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Tim Renwick",
+        "type": "Person"
+      },
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": false,
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "name": "Peter Solley",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "English pianist, songwriter and producer",
+        "country": "GB",
+        "id": "5ba24696-7699-4a7c-a0a9-622fe83b1c53",
+        "sort-name": "Solley, Peter"
+      },
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "direction": "backward",
+      "artist": {
+        "id": "1b2b40c1-0837-4038-a8b8-29408bfa983c",
+        "sort-name": "Liquorice John Death",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Liquorice John Death",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group"
+      },
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "type": "subgroup"
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "id": "efd337df-ee34-43bb-8469-63a607997b85",
+        "resource": "https://www.allmusic.com/artist/mn0000304401"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "type": "allmusic"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "type": "bandsintown",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.bandsintown.com/a/13823",
+        "id": "b598a0be-9095-4054-951a-2075f4fe1389"
+      },
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "2020-11-19",
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "id": "d93b8e55-6aa8-4f57-8be5-45631b68998e",
+        "resource": "https://www.bbc.co.uk/music/artists/44119570-4d53-46e7-a447-bd18608c28d8"
+      },
+      "source-credit": "",
+      "ended": true,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "type": "BBC Music page"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "60950a44-8270-4e63-879b-4eacb263384b",
+        "resource": "https://www.discogs.com/artist/254414"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "type": "discogs",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.procolharum.com/",
+        "id": "920dd8a3-991d-4b23-9ce8-bb4773c787fa"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "type": "fanpage"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "type": "free streaming",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "51336ad5-2fd5-49d6-8770-1f4553b4f52d",
+        "resource": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+      },
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "8e32dd4a-278d-4438-ba46-494345775a6e",
+        "resource": "https://www.deezer.com/artist/2053"
+      },
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "0fd9f813-7f93-4b6d-b165-86535943d544",
+        "resource": "https://commons.wikimedia.org/wiki/File:Procol_Harum.jpg"
+      },
+      "type": "image",
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c"
+    },
+    {
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "type": "IMDb",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "940b9271-0215-4e96-bf5a-9e9274bd73f4",
+        "resource": "https://www.imdb.com/name/nm1718978/"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "type": "last.fm",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.last.fm/music/Procol+Harum",
+        "id": "f11bb21a-3700-4905-a05a-1e7f78094b36"
+      },
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://genius.com/artists/Procol-harum",
+        "id": "33fc1e5f-bba1-410f-8642-7490486d1f4b"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "type": "lyrics"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://muzikum.eu/en/procol-harum/lyrics",
+        "id": "14ab4fed-7fa2-430a-90d3-01a7e78b820a"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "type": "lyrics"
+    },
+    {
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/nr89011339",
+        "id": "8c8aa239-d4cc-43f8-999c-df2475b50fe3"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13905909x",
+        "id": "90f316d6-19dd-4132-9b66-79db089f744a"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "resource": "https://d-nb.info/gnd/5323222-7",
+        "id": "33a87e6e-858f-4be4-87ce-1aea58b00140"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp83BQHFvgJgPPpgXRCF",
+        "id": "5512daa8-4e6d-45f6-a366-daf94e5048e4"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "id": "372288da-b860-4688-a196-27714260e947",
+        "resource": "https://imvdb.com/n/procol-harum"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/procol-harum",
+        "id": "629fe760-ee9e-41bf-b843-b3b3f090351b"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/procol-harum/",
+        "id": "58bdbc86-a708-4e79-84b1-12acddb1a162"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=1105",
+        "id": "365a7c3c-499d-4bc5-9e7e-0dcbc678daa3"
+      },
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Procol_Harum",
+        "id": "316d3cda-525e-43fb-8119-c2cb0cab0b60"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "url": {
+        "id": "eb4a217c-6deb-47a4-9442-d622c19e625a",
+        "resource": "https://www.whosampled.com/Procol-Harum/"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "f2518786-80e5-4d78-8d31-b44a5ff56275",
+        "resource": "https://itunes.apple.com/gb/artist/id389213"
+      },
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "2990bd19-5879-44e7-8cdb-9c68eda5edec",
+        "resource": "https://mora.jp/artist/746086/"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/389213",
+        "id": "fcad7ecf-26aa-4716-9f3f-57b4cdbafb73"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://music.bugs.co.kr/artist/50863",
+        "id": "5fe50753-5ae1-4439-9c98-13ac5917a2c6"
+      },
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/245862",
+        "id": "c818a7a3-5960-4e72-88d8-66bb3014c0af"
+      },
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+    },
+    {
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "id": "d9b26a5e-2987-4366-a99e-d2c9004b9b4c",
+        "resource": "https://uk.7digital.com/artist/procol-harum"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=107346",
+        "id": "69912be9-0fc7-4ddd-9300-e79e844a578d"
+      },
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "e61fcb01-c2a1-4a3c-addb-e3af7e175a26",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/procol-harum/75825"
+      },
+      "ended": false,
+      "source-credit": ""
+    },
+    {
+      "type": "secondhandsongs",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "22994f47-1612-475e-92f5-2260f116b4c7",
+        "resource": "https://secondhandsongs.com/artist/1230"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "type": "setlistfm",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "id": "49aa072f-6dd0-47a0-85bf-384d9a10ace0",
+        "resource": "https://www.setlist.fm/setlists/procol-harum-3d6b537.html"
+      },
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "8cb14834-f406-49e1-8560-bb60c60edea5",
+        "resource": "https://www.facebook.com/procolharummusic"
+      },
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "62f89dc1-167d-4abd-a6d1-d16a3a02c8dd",
+        "resource": "https://www.instagram.com/procolharumofficial/"
+      },
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+    },
+    {
+      "url": {
+        "id": "2c55be60-af91-44ef-a122-f8fac1357294",
+        "resource": "https://www.songkick.com/artists/368829"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "type": "songkick",
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "fcad7ecf-26aa-4716-9f3f-57b4cdbafb73",
+        "resource": "https://music.apple.com/gb/artist/389213"
+      },
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.bugs.co.kr/artist/50863",
+        "id": "5fe50753-5ae1-4439-9c98-13ac5917a2c6"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://tidal.com/artist/3514863",
+        "id": "e7b90fa0-bce4-481f-b7e3-94e784c181ac"
+      },
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "69912be9-0fc7-4ddd-9300-e79e844a578d",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=107346"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming"
+    },
+    {
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "e61fcb01-c2a1-4a3c-addb-e3af7e175a26",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/procol-harum/75825"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "type": "VIAF",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "http://viaf.org/viaf/145562561",
+        "id": "993e6a4d-8a57-492b-a9ce-ccf34b3b9fd5"
+      }
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "type": "wikidata",
+      "url": {
+        "id": "3337678e-c3b1-4e94-bbdf-c5a863036a1d",
+        "resource": "https://www.wikidata.org/wiki/Q214486"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "6443304e-1a0b-4c3a-b273-2346baf48075",
+        "resource": "https://music.youtube.com/channel/UCa9MClu1yI4u_Ci4daHYAIQ"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "type": "youtube music",
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": []
+    }
+  ],
+  "country": "GB",
+  "ipis": [],
+  "name": "Procol Harum",
+  "gender-id": null,
+  "gender": null,
+  "life-span": {
+    "ended": true,
+    "begin": "1967",
+    "end": "2022"
+  },
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "sort-name": "United Kingdom",
+    "disambiguation": "",
+    "type": null,
+    "type-id": null,
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ]
+  }
+}

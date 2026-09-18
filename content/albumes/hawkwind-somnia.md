@@ -1,0 +1,39 @@
+---
+tipo: "album"
+slug: "hawkwind-somnia"
+titulo: "Somnia"
+artista: "Hawkwind"
+artista_slug: "hawkwind"
+anio_ficha: 2021
+era: "moderna"
+escena: "rarezas"
+mb_rgid: "79e6963a-da68-44dd-9daf-711ef335d257"
+primer_lanzamiento: "2021-09-10"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Ambiente conseguido, tensión inexistente."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Alcance restringido a los suyos."
+historia: "editorial"
+---
+
+Disco sobre el sueño construido con texturas lentas y voces susurradas, más ambient que rock. La coherencia de tono es lo mejor que tiene; la falta de tensión, lo que lo hunde.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Somnia es un disco sobre el sueño, y por una vez el concepto no es una excusa de portada sino una instrucción de ejecución: Hawkwind decide que un álbum sobre dormir tiene que sonar como dormir. Trece piezas trazan el recorrido completo, desde el insomnio del arranque hasta la disolución final. «Unsomnia», la más extensa con más de diez minutos, abre con el estado previo al sueño y establece el procedimiento del disco entero, capas lentas que se superponen sin llegar a articular un tema. Después llegan «Counting Sheep», «Meditation», «Sweet Dreams» y «It's Only a Dream», títulos que no esconden nada, y el cierre de «Cave of Phantom Dreams» devuelve al oyente a la caverna donde empezó todo.
+
+Hay, dentro de esa deriva, algún desvío que recuerda a la banda que fue: «Strange Encounters» y «Small Objects in Space» recuperan el vocabulario de ciencia ficción de siempre, «China Blues» estira una figura durante más de siete minutos y «Pulsestar», que no llega a los dos, es un apunte más que una pieza. Pero el grupo ha renunciado aquí a la parte rock de su ecuación. Donde antes el riff sostenía la hipnosis, ahora la sostienen los teclados y unas voces dichas casi al oído, y el resultado está más cerca del ambient que de lo que Hawkwind hizo nunca bajo ese nombre. La coherencia de tono es genuina; lo que falta es la tensión que justificaba la duración.
+
+## La producción
+
+No constan créditos verificados de producción, ingeniería ni estudio en la documentación disponible, y no se suplen. Dave Brock vuelve a ser la constante que sostiene el proyecto, tanto en la escritura como en el criterio de sonido. Ese criterio es aquí muy explícito: dinámica comprimida y sin picos, ausencia casi total de percusión marcada, voces susurradas y mezcladas bajas, y una paleta de sintetizadores de ataque suave que se encadenan sin cortes entre pistas. Las transiciones importan más que los temas, y los cortes breves —«Pulsestar», «Sweet Dreams»— funcionan como enlaces dentro de una secuencia pensada para escucharse seguida. Es una producción de textura, hecha para no despertar a nadie, y cumple ese objetivo con una consecuencia notable.
+
+## Recepción y legado
+
+Se recibió como una rareza dentro de un catálogo tardío ya de por sí abundante, y dividió incluso al público habitual: quien buscaba la banda de la máquina eléctrica encontró un disco que le da la espalda, y quien acepta la premisa se queda con un ambient correcto y algo largo. Tiene el mérito de ser una decisión y no una inercia, algo que no puede decirse de varios de los títulos vecinos. Su lugar en la discografía es el de un paréntesis honesto: demuestra que el grupo todavía podía sostener una idea entera, aunque la idea elegida fuese precisamente la que desactiva su mayor virtud, la tensión acumulada por repetición.

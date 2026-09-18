@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "spirit-the-family-that-plays-together"
+titulo: "The Family That Plays Together"
+artista: "Spirit"
+artista_slug: "spirit"
+anio_ficha: 1968
+era: "clasica"
+escena: "rarezas"
+mb_rgid: "2d13c365-47dc-37f7-9491-663f62f65a17"
+primer_lanzamiento: "1968"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Sólido y accesible, pero el menos ambicioso del tramo con Ode."
+estrellas_comercial: 4
+comercial_fuente: "editorial"
+comercial_nota: "El título con mayor difusión popular de toda su discografía."
+historia: "editorial"
+---
+
+El disco de las canciones: más corto de miras que el debut y más eficaz, con «I Got a Line on You» como pieza de radio que terminó definiendo a la banda para el público general. Ferguson gana terreno como autor y la parte instrumental se repliega. Se escucha bien y se olvida rápido, salvo en sus dos o tres mejores cortes.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Meses después del debut, Spirit volvió al estudio con una consigna implícita: escribir canciones. El primer disco había demostrado que el grupo podía hacer cualquier cosa y había pagado el precio de no elegir ninguna; este segundo álbum elige, y lo que elige es el formato breve. Jay Ferguson gana terreno como autor y como voz, los desarrollos instrumentales se repliegan a puentes y codas, y el conjunto se vuelve más manejable sin perder del todo la rareza de la casa. El título, que juega con el proverbio sobre la familia que reza unida, apunta a la particularidad del grupo: Randy California y Ed Cassidy eran hijastro y padrastro, y esa convivencia doméstica era también el eje musical de la banda.
+
+«I Got a Line on You» abre el disco y decide su destino. Riff corto, estribillo inmediato, dos minutos y medio: es la pieza que convirtió a Spirit en un nombre para el público general y, con el tiempo, en una banda de un solo tema para quien no fue más allá. Alrededor hay material desigual pero no perezoso. «It Shall Be» y «Aren't You Glad» conservan los cambios de sección y el pulso elástico de Cassidy; «Silky Sam» cuenta una historia de fuga con un desarrollo instrumental que se permite respirar; «Drunkard» y «Darlin' If» son miniaturas de dos minutos y medio que se van antes de imponerse. «Jewish» y «Dream Within a Dream» sostienen la parte más atmosférica, con teclados de John Locke tejiendo por debajo de la voz. Es un disco de banda que sabe tocar y que se está midiendo el cuello para una camisa más estrecha.
+
+## La producción
+
+Segunda entrega producida por Lou Adler para Ode, y la mano se nota en la dirección opuesta a la del debut: menos orquesta, menos montaje, más canción entregada limpia. Las cuerdas y los arreglos amplios del primer álbum aparecen ahora dosificados, y el peso recae en la grabación del grupo tocando junto. No constan en los datos verificados los nombres de ingeniero ni de estudio, de modo que el detalle técnico queda en lo que se oye.
+
+Y lo que se oye es una mezcla más frontal. La voz de Ferguson está adelante y bastante seca; el bajo de Mark Andes camina con nitidez por el centro; la batería de Cassidy conserva el swing pero cede protagonismo, con menos espacio para las escobillas que en el debut. La guitarra de California trabaja con un tono comprimido y punzante, sobre todo en el riff de apertura, y los teclados de Locke pasan a función de color. Es una producción eficaz y sin ambición, ajustada al material.
+
+## Recepción y legado
+
+Funcionó donde el debut no había funcionado: la radio adoptó «I Got a Line on You» y el grupo consiguió una presencia que nunca volvería a tener con esa facilidad. El precio fue quedar fijado en una imagen que le venía chica. Escuchado hoy, el álbum es el más accesible de la etapa de Ode y también el que menos se sostiene entero: sus mejores cortes resisten, el resto se disuelve en una amabilidad californiana que cualquier grupo de su ciudad podría haber firmado.
+
+Su lugar en la discografía es el de bisagra. Confirmó que Spirit podía escribir para la radio y dejó pendiente la pregunta de qué haría con esa capacidad; el siguiente paso, Clear, contestaría alejándose todo lo posible del estribillo.

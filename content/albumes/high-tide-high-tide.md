@@ -1,0 +1,39 @@
+---
+tipo: "album"
+slug: "high-tide-high-tide"
+titulo: "High Tide"
+artista: "High Tide"
+artista_slug: "high-tide"
+anio_ficha: 1970
+era: "clasica"
+escena: "rarezas"
+mb_rgid: "e9b28d19-de59-3e26-9dbc-995d215cacd9"
+primer_lanzamiento: "1970-07"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Buen disco a la sombra permanente del debut."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Repercusión nula; la banda se disolvió poco después."
+historia: "editorial"
+---
+
+Segundo y último de la etapa original: más largo, más disperso y con menos riffs que justifiquen la duración. Tiene pasajes notables, sobre todo cuando el violín toma el mando, pero se oye un grupo sin sello, sin circuito y sin ideas nuevas.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El segundo álbum de High Tide, publicado en 1970 y sin más título que el nombre del grupo, es el último de la etapa original y se oye como lo que era: una banda que había gastado su idea fundacional y no encontraba la siguiente. El cuarteto de Tony Hill, Simon House, Peter Pavli y Roger Hadden sigue en pie, pero el método cambia. Donde el debut apretaba y no soltaba, aquí las piezas se alargan y respiran, y esa respiración resulta ser el problema: tres temas —«Blankman Cries Again», «The Joke» y «Saneonymous»— reparten poco más de media hora, con el último ocupando casi un cuarto de hora él solo, y no hay riffs suficientes que justifiquen esa extensión.
+
+Lo que el disco gana es espacio para el violín. En los tramos centrales de «The Joke» y en los largos desarrollos de «Saneonymous», House deja de pelear con la guitarra y toma el mando, y son esos pasajes los que se recuerdan; el instrumento sostiene líneas modales que la banda anterior no se habría permitido. Pero alrededor de esos momentos hay mucho tejido conectivo, secciones que avanzan por inercia y una escritura que ya no elige tonos menores por convicción sino por costumbre. El grupo se disolvió poco después, sin haber construido un público ni un circuito propio, y House acabaría llevando su violín y su mellotron a Hawkwind en 1973, donde encontró el contexto que aquí faltaba.
+
+## La producción
+
+No constan créditos verificados de producción, ingeniería ni estudio, y no se suplen con conjeturas. El sonido que sí puede describirse es más abierto y menos comprimido que el del debut: hay aire entre los instrumentos, la guitarra de Hill pierde algo del filo que tenía y el violín aparece con más presencia y menos distorsión, tratado ya como voz principal en varios tramos. Los arreglos dejan sitio a pasajes de dinámica baja que el primer disco no admitía, y la batería de Hadden acompaña en lugar de empujar. Es una producción más convencional para un grupo cuya fuerza estaba justamente en no serlo, y la limpieza deja al descubierto la falta de material.
+
+## Recepción y legado
+
+Pasó sin ruido en su momento y ha vivido desde entonces a la sombra del debut, que es exactamente donde le corresponde estar. Los coleccionistas lo han rescatado en sucesivas reediciones y hay defensores sinceros de sus pasajes de violín, pero ninguna de las genealogías que reivindican Sea Shanties —el doom, el heavy, la línea más oscura del prog británico— encuentra aquí un eslabón necesario. Su interés es el de un epílogo: muestra a un grupo sin sello discográfico estable, sin escena y sin ideas nuevas, tocando todavía con oficio. Para quien haya agotado el primer álbum es una escucha razonable; como puerta de entrada no funciona, y presentarlo como algo más sería inflar una discografía que se jugó entera en su primera entrega.

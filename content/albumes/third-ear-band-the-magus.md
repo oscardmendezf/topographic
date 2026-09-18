@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "third-ear-band-the-magus"
+titulo: "The Magus"
+artista: "Third Ear Band"
+artista_slug: "third-ear-band"
+anio_ficha: 2004
+era: "moderna"
+escena: "rarezas"
+mb_rgid: "579a7b1e-8ef7-38fa-aa0e-9ca24633aad4"
+primer_lanzamiento: "2004-09-28"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Valorado como documento, no como disco."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Publicación tardía para coleccionistas."
+historia: "editorial"
+---
+
+Editado en 2004, más de una década después del último disco en actividad, recoge material que no había circulado antes. Se escucha como archivo: cierra el catálogo sin agregarle nada.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Editado en 2004, más de una década después del último disco publicado con el grupo en actividad, The Magus no es un regreso sino un vaciado de cajón: recoge material que no había circulado antes y lo ordena como si fuera un álbum. Esa condición hay que tenerla presente desde el principio, porque explica tanto lo que el disco ofrece como lo que no puede ofrecer. No hay aquí un proyecto, una formación que ensayó junta con un objetivo ni una idea nueva que Glen Sweeney quisiera probar; hay grabaciones sueltas de la última vida del nombre, reunidas cuando esa vida ya había terminado.
+
+Los títulos siguen el mismo repertorio simbólico de siempre, ahora con el tarot como hilo visible: «The Magus» y «The Hierophant» son arcanos mayores, «The Key» abre, «Cosmic Wheel» y «Kozmik Wheel» son la misma rueda escrita de dos maneras —el doblete delata el origen de archivo, dos versiones del mismo material convertidas en dos pistas—, y «The Phoenix» aporta el ave que renace, que en este contexto suena a chiste involuntario. Las duraciones, entre cuatro y ocho minutos, quedan a mitad de camino: son demasiado cortas para que la acumulación haga su trabajo y demasiado largas para funcionar como viñetas. La pieza que da nombre al disco es la única que se estira lo suficiente como para instalarse.
+
+## La producción
+
+No constan datos verificados de productor, ingeniero ni estudio, y en un disco compuesto de tomas de distinta procedencia esa ausencia pesa más que en cualquier otro del catálogo: ni siquiera se puede afirmar que todo el material venga de las mismas sesiones. Lo que se oye apunta a la etapa tardía, con sintetizadores sosteniendo el fondo, un pulso parejo y ninguna traza del cuarteto acústico sin batería de los años de Harvest.
+
+La consecuencia es una falta de unidad que ninguna secuencia podría arreglar. Los niveles y las reverberaciones no siempre coinciden entre pistas, la presencia de los instrumentos cambia de un corte a otro, y el conjunto se escucha como lo que es: una compilación presentada con formato de álbum. Hay decisiones de montaje razonables —la apertura con «The Key», el cierre con la segunda rueda— pero son de ordenamiento, no de producción.
+
+## Recepción y legado
+
+Salió sin expectativa y se recibió como archivo, que es exactamente lo que es. Su público fue el de los seguidores que ya tenían todo lo demás, y no hubo relectura crítica que lo rescatara después. Cierra el catálogo sin agregarle nada.
+
+Su utilidad hoy es de inventario. Completa la documentación de un grupo cuyo aporte real —el drone, la repetición larga y la psicodelia hecha con instrumentos acústicos europeos— quedó fijado en los dos discos de Harvest y en la música para Macbeth, y del que todo lo posterior es una prolongación cada vez más tenue. Quien busque entender por qué Third Ear Band le importa al progresivo no encontrará la respuesta acá; quien ya la tenga, encontrará unas cuantas grabaciones que llenan un hueco en la cronología y poco más. Es el final administrativo de una obra que había terminado tres décadas antes.

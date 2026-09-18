@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "electric-prunes-artifact"
+titulo: "Artifact"
+artista: "The Electric Prunes"
+artista_slug: "electric-prunes"
+anio_ficha: 2001
+era: "moderna"
+escena: "rarezas"
+mb_rgid: "d67367d0-cc2c-4836-9065-ac8badd026f1"
+primer_lanzamiento: "2001-10-31"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Regreso digno, sin consecuencias."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Edición para seguidores del grupo."
+historia: "editorial"
+---
+
+Reencuentro de Lowe y Tulin en 2001, con oficio y sin urgencia: canciones bien hechas, producción limpia y ningún riesgo comparable al de los sesenta. Funciona como reanudación de una conversación, no como capítulo nuevo.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Más de tres décadas después del último disco con el nombre, James Lowe y Mark Tulin volvieron a reunirse y grabaron material nuevo. El título es una declaración con humor: un artefacto, algo desenterrado. La operación no tiene nada de oportunista, porque el catálogo de los Prunes nunca fue un negocio y porque estas canciones no intentan reproducir la fórmula de 1967; lo que hay es dos músicos retomando una conversación interrumpida, con oficio y sin urgencia.
+
+El disco es largo y está construido sin la presión de formato de un sello. «Lost Dream» abre marcando el tono, canción de estructura clara con la voz de Lowe reconocible y sin forzar; «The Dream I Had Last Night» dialoga abiertamente con el título que los hizo conocidos, una broma interna que el oyente atento agradece. «Bullet Thru the Backseat» y «Devil’s Candy» son las piezas más nerviosas, y «Analog Life» es la más explícita sobre la posición del grupo frente a su propia época. El tramo final se permite desarrollos que en los sesenta habrían sido impensables por duración: «All About Wires», «Castaway» y sobre todo «Mujo 22», que pasa de los ocho minutos, dejan que las ideas se estiren sin corte comercial. Incluyen además una versión de «7 and 7 Is», clásico del garaje de Los Ángeles, que funciona como reconocimiento de parentesco. «Halloween Ending», de apenas un minuto, es el guiño final.
+
+## La producción
+
+Los créditos verificados no conservan nombres de producción ni de estudio, y el disco suena a trabajo autogestionado, sin productor externo imponiendo criterio. Eso tiene ventajas y costos, y ambos son audibles. La producción es limpia y ordenada, con los instrumentos bien separados, las voces al frente y ninguna aspereza; el precio es que desaparece por completo el desorden que definía las grabaciones originales, donde el efecto estaba delante de la canción y no detrás.
+
+La diferencia de fondo respecto de los sesenta es de método. Entonces el estudio funcionaba como laboratorio y el grupo obedecía; aquí el grupo decide todo y el estudio se comporta. Es el intercambio que casi todas las bandas reunidas terminan aceptando, y los Prunes lo aceptan con más lucidez que la mayoría: no hay aquí ninguna imitación de sí mismos ni ningún intento de sonar antiguo.
+
+## Recepción y legado
+
+Se recibió con simpatía en el circuito que sigue este tipo de catálogos y no salió de ahí. Es un disco bien hecho, con canciones que se sostienen y una banda que toca ajustada, y al mismo tiempo no asume ningún riesgo comparable a los de su primera etapa. Funciona como reanudación de una conversación, no como capítulo nuevo.
+
+Su lugar en la historia del grupo es, paradójicamente, reparador. Después de una trayectoria en la que el nombre terminó sirviendo para obras ajenas y para un disco grabado por desconocidos, este es el primer álbum en mucho tiempo donde quienes firman son quienes tocan y quienes escribieron. Que el resultado sea modesto importa menos que el hecho de que, por una vez, el crédito coincide con el trabajo.

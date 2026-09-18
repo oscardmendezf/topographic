@@ -1,0 +1,2241 @@
+{
+ "grupos": [
+  {
+   "id": "rar-protoprog",
+   "escena": "rarezas",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "nice",
+     "nombre": "The Nice",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1967",
+     "fin": "1970",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/The_Nice",
+     "formaciones_mb": [
+      "Brian Davison (miembro; ?–act.)",
+      "Keith Emerson (miembro; ?–act.)",
+      "Lee Jackson (miembro; ?–act.)",
+      "David O’List (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "nice-the-thoughts-of-emerlist-davjack",
+       "titulo": "The Thoughts of Emerlist Davjack",
+       "anio": 1968,
+       "mbid": "0a969444-de45-3611-baac-ddbde18cc3a4",
+       "primer_lanzamiento": "1968-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "nice-ars-longa-vita-brevis",
+       "titulo": "Ars Longa Vita Brevis",
+       "anio": 1968,
+       "mbid": "5388c096-b8c9-3471-88a6-4d481f354223",
+       "primer_lanzamiento": "1968-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "nice-nice",
+       "titulo": "Nice",
+       "anio": 1969,
+       "mbid": "2484765f-b1dd-3a1b-af9d-e8aebcf3c55b",
+       "primer_lanzamiento": "1969-08",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "nice-elegy",
+       "titulo": "Elegy",
+       "anio": 1971,
+       "mbid": "2dec8266-2ecd-3779-83f8-d99912cbb26b",
+       "primer_lanzamiento": "1971-04-02",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "procol-harum",
+     "nombre": "Procol Harum",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1967",
+     "fin": "2022",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Procol_Harum",
+     "formaciones_mb": [
+      "Ray Royer (miembro; 1967–1967)",
+      "Matthew Fisher (miembro; 1967–1969)",
+      "David Knights (miembro; 1967–1969)",
+      "Robin Trower (miembro; 1967–1971)",
+      "Barrie James Wilson (miembro; 1967–1977)",
+      "Dave Ball (miembro; 1971–1972)",
+      "Alan Cartwright (bass guitar; 1971–1976)",
+      "Robin Trower (miembro; 1991–1991)",
+      "Matthew Fisher (miembro; 1991–2004)",
+      "Matt Pegg (miembro; 1993–act.)",
+      "Dave Bronze (miembro; ?–act.)",
+      "Gary Brooker (original; ?–act.)",
+      "Chris Copping (miembro; ?–act.)",
+      "Mick Grabham (miembro; ?–act.)",
+      "Tim Renwick (miembro; ?–act.)",
+      "Peter Solley (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "procol-harum-a-whiter-shade-of-pale",
+       "titulo": "A Whiter Shade of Pale",
+       "anio": 1967,
+       "mbid": "59c4b156-e1f6-374c-a5e6-ea0ccd51d433",
+       "primer_lanzamiento": "1967-09-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-shine-on-brightly",
+       "titulo": "Shine On Brightly",
+       "anio": 1968,
+       "mbid": "63b88b90-71f4-3ca9-86a4-3de315734e13",
+       "primer_lanzamiento": "1968-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-a-salty-dog",
+       "titulo": "A Salty Dog",
+       "anio": 1969,
+       "mbid": "4eebdc43-00e0-3463-b7f8-206622427feb",
+       "primer_lanzamiento": "1969-03-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-home",
+       "titulo": "Home",
+       "anio": 1970,
+       "mbid": "cf2d7697-b6c2-3e8e-9a42-59153daa2ec1",
+       "primer_lanzamiento": "1970",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-broken-barricades",
+       "titulo": "Broken Barricades",
+       "anio": 1971,
+       "mbid": "b75183bf-267a-3446-ad12-3c4459dd0d6f",
+       "primer_lanzamiento": "1971",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-grand-hotel",
+       "titulo": "Grand Hotel",
+       "anio": 1973,
+       "mbid": "b3a77032-e766-3a66-956f-1aeb10403d43",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-exotic-birds-and-fruit",
+       "titulo": "Exotic Birds and Fruit",
+       "anio": 1974,
+       "mbid": "5c50e1f1-32c5-303a-a271-63b6cfcdce3e",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-procols-ninth",
+       "titulo": "Procol’s Ninth",
+       "anio": 1975,
+       "mbid": "859b5b4a-2059-371c-815c-7814e10c2a51",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-something-magic",
+       "titulo": "Something Magic",
+       "anio": 1977,
+       "mbid": "d59a46fd-d08d-4342-8a4e-b2b9e4081bde",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-the-prodigal-stranger",
+       "titulo": "The Prodigal Stranger",
+       "anio": 1991,
+       "mbid": "0f4dcff8-288f-374f-b980-b1d4d3d36c3e",
+       "primer_lanzamiento": "1991-08-27",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-the-wells-on-fire",
+       "titulo": "The Well’s on Fire",
+       "anio": 2003,
+       "mbid": "106ea374-c87d-3279-803d-d3eb8956b218",
+       "primer_lanzamiento": "2003-03-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-novum",
+       "titulo": "Novum",
+       "anio": 2017,
+       "mbid": "eaf227f9-6953-4389-8fc1-e26420d6b08e",
+       "primer_lanzamiento": "2017-04-21",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "procol-harum-the-sunday-concert-john-peel-broadcast-1970",
+       "titulo": "The Sunday Concert (John Peel broadcast 1970)",
+       "anio": 2024,
+       "mbid": "11c18a6a-ee12-479f-8f66-6ec001805a3b",
+       "primer_lanzamiento": "2024-04-16",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "arthur-brown",
+     "nombre": "The Crazy World of Arthur Brown",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1967",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/The_Crazy_World_of_Arthur_Brown",
+     "formaciones_mb": [
+      "Carter Arrington (guitar; 2016–act.)",
+      "Tony Awin (miembro; ?–act.)",
+      "Arthur Brown (miembro; ?–act.)",
+      "Vincent Crane (miembro; ?–act.)",
+      "Carl Palmer (miembro; ?–act.)",
+      "Drachen Theaker (miembro; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "arthur-brown-the-crazy-world-of-arthur-brown",
+       "titulo": "The Crazy World of Arthur Brown",
+       "anio": 1968,
+       "mbid": "a6afac1f-5366-3c0f-8594-860342060c11",
+       "primer_lanzamiento": "1968-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arthur-brown-strangelands",
+       "titulo": "Strangelands",
+       "anio": 1988,
+       "mbid": "b69b43f2-ac14-347d-acb0-76869161caba",
+       "primer_lanzamiento": "1988",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arthur-brown-tantric-lover",
+       "titulo": "Tantric Lover",
+       "anio": 2000,
+       "mbid": "7a00bb1f-a6bb-304d-8fdc-5d6b2521bc5a",
+       "primer_lanzamiento": "2000",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arthur-brown-vampire-suite",
+       "titulo": "Vampire Suite",
+       "anio": 2003,
+       "mbid": "8e55eaab-00fb-3d10-b886-79438ccce077",
+       "primer_lanzamiento": "2003",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arthur-brown-the-voice-of-love",
+       "titulo": "The Voice of Love",
+       "anio": 2007,
+       "mbid": "7391d2c8-dde7-412f-8aad-1999bc939e27",
+       "primer_lanzamiento": "2007",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arthur-brown-zim-zam-zim",
+       "titulo": "Zim Zam Zim",
+       "anio": 2014,
+       "mbid": "be534766-66c6-40a7-8922-c8cfe79f0253",
+       "primer_lanzamiento": "2014-03-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arthur-brown-gypsy-voodoo",
+       "titulo": "Gypsy Voodoo",
+       "anio": 2019,
+       "mbid": "4d98ef5c-2851-4884-986e-9443142cf702",
+       "primer_lanzamiento": "2019",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arthur-brown-long-long-road",
+       "titulo": "Long Long Road",
+       "anio": 2022,
+       "mbid": "aa954fb1-8274-4c3f-ac24-3f6e5568465c",
+       "primer_lanzamiento": "2022-06-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arthur-brown-nature",
+       "titulo": "Nature",
+       "anio": 2026,
+       "mbid": "0aaeed1d-f8d1-4614-bf13-02ced4da92d6",
+       "primer_lanzamiento": "2026-09-04",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rar-psicodelia-uk",
+   "escena": "rarezas",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "tomorrow",
+     "nombre": "Tomorrow",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1965",
+     "fin": "1968-04",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Tomorrow_(band)",
+     "formaciones_mb": [
+      "Steve Howe (guitar; 1965-08–1968)",
+      "Les Jones (guitar, original; 1965–1965-07)",
+      "Simon Alcot (bass guitar, original; 1965–1965)",
+      "John \"Junior\" Wood (guitar, original; 1965–1965)",
+      "Ken Lawrence (drums (drum set), original; 1965–1966-08)",
+      "Keith West (lead vocals, original; 1965–1968)",
+      "John \"Junior\" Wood (bass guitar, original; 1965–1968)",
+      "Twink (drums (drum set); 1966-07–1968)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "tomorrow-tomorrow",
+       "titulo": "Tomorrow",
+       "anio": 1968,
+       "mbid": "7d7bebd6-d707-3abf-a028-6d64b01436ba",
+       "primer_lanzamiento": "1968-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "tomorrow-permanent-dream",
+       "titulo": "Permanent Dream",
+       "anio": 2023,
+       "mbid": "7ea3f9eb-c137-4cd4-a386-1b0aa9c8472f",
+       "primer_lanzamiento": "2023-04-28",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "kaleidoscope-uk",
+     "nombre": "Kaleidoscope",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1967",
+     "fin": "1970",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Kaleidoscope_(British_band)",
+     "formaciones_mb": [
+      "Dan Bridgman (miembro; ?–act.)",
+      "Steve Clark (miembro; ?–act.)",
+      "Peter Daltrey (miembro; ?–act.)",
+      "Eddy Pumer (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "kaleidoscope-uk-tangerine-dream",
+       "titulo": "Tangerine Dream",
+       "anio": 1967,
+       "mbid": "8e757961-772f-3be2-babb-980944c09965",
+       "primer_lanzamiento": "1967",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaleidoscope-uk-faintly-blowing",
+       "titulo": "Faintly Blowing",
+       "anio": 1969,
+       "mbid": "1e6e35b0-260d-31ba-8b31-dad0caf24091",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaleidoscope-uk-white-faced-lady",
+       "titulo": "White Faced Lady",
+       "anio": 1990,
+       "mbid": "2d7a79f2-20fc-4995-aafe-86431840821e",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "nirvana-uk",
+     "nombre": "Nirvana",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1967",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Nirvana_(British_band)",
+     "formaciones_mb": [
+      "Alex Spyropoulos (miembro; ?–act.)",
+      "Patrick Campbell-Lyons (miembro; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "nirvana-uk-the-story-of-simon-simopath",
+       "titulo": "The Story of Simon Simopath",
+       "anio": 1967,
+       "mbid": "a79e430c-6ee9-3b7e-a263-b15661bdffcf",
+       "primer_lanzamiento": "1967",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "nirvana-uk-all-of-us",
+       "titulo": "All of Us",
+       "anio": 1968,
+       "mbid": "e663bd4c-55dc-34de-b785-ed81643b5a7c",
+       "primer_lanzamiento": "1968",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "nirvana-uk-dedicated-to-markos-iii",
+       "titulo": "Dedicated to Markos III",
+       "anio": 1969,
+       "mbid": "c20b7c5f-bd85-366c-97db-cb99024e7b8b",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "nirvana-uk-local-anaesthetic",
+       "titulo": "Local Anaesthetic",
+       "anio": 1971,
+       "mbid": "87c54166-426a-3d15-a52d-9848423ecb33",
+       "primer_lanzamiento": "1971",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "nirvana-uk-songs-of-love-and-praise",
+       "titulo": "Songs of Love and Praise",
+       "anio": 1972,
+       "mbid": "2f6c1bda-d5f3-4136-af51-aba38690cc09",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "nirvana-uk-orange-and-blue",
+       "titulo": "Orange and Blue",
+       "anio": 1996,
+       "mbid": "be3bea5c-15f3-474a-b600-8614ddd65a1c",
+       "primer_lanzamiento": "1996",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "nirvana-uk-secrets",
+       "titulo": "Secrets",
+       "anio": 2023,
+       "mbid": "9cb95134-20bd-4e5d-b782-0794bf9a7048",
+       "primer_lanzamiento": "2023-01-27",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "zombies",
+     "nombre": "The Zombies",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1961",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/The_Zombies",
+     "formaciones_mb": [
+      "Tom Toomey (guitar; 2010–act.)",
+      "Rod Argent (keyboard; ?–act.)",
+      "Paul Atkinson (guitar; ?–act.)",
+      "Colin Blunstone (lead vocals; ?–act.)",
+      "Hugh Grundy (drums (drum set); ?–act.)",
+      "Jim Rodford (miembro; ?–act.)",
+      "Chris White (bass; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "zombies-begin-here",
+       "titulo": "Begin Here",
+       "anio": 1965,
+       "mbid": "1f9c2f54-2735-394f-911a-28918e41abf6",
+       "primer_lanzamiento": "1965",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zombies-the-zombies",
+       "titulo": "The Zombies",
+       "anio": 1965,
+       "mbid": "ff235fe9-c6e7-367a-971d-c023798abdbd",
+       "primer_lanzamiento": "1965-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zombies-odessey-and-oracle",
+       "titulo": "Odessey and Oracle",
+       "anio": 1968,
+       "mbid": "9a4a9ebf-f4f7-3dba-9b80-0b274cbc80f9",
+       "primer_lanzamiento": "1968-04-19",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zombies-new-world",
+       "titulo": "New World",
+       "anio": 1990,
+       "mbid": "0832d1fe-4996-3990-b279-484e34240784",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zombies-as-far-as-i-can-see",
+       "titulo": "As Far as I Can See.....",
+       "anio": 2004,
+       "mbid": "12830992-6196-3ff8-a19f-dd1fadecaa2b",
+       "primer_lanzamiento": "2004-04-26",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zombies-breathe-out-breathe-in",
+       "titulo": "Breathe Out, Breathe In",
+       "anio": 2011,
+       "mbid": "2148d34b-3479-49fe-aacb-1e607dab2df5",
+       "primer_lanzamiento": "2011-05-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zombies-still-got-that-hunger",
+       "titulo": "Still Got That Hunger",
+       "anio": 2015,
+       "mbid": "55d8b1a5-3a50-4d2a-9fe5-141d4c245b4d",
+       "primer_lanzamiento": "2015-10-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zombies-different-game",
+       "titulo": "Different Game",
+       "anio": 2023,
+       "mbid": "43b19d8f-e327-474e-a123-826543c20871",
+       "primer_lanzamiento": "2023-03-31",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rar-underground-uk",
+   "escena": "rarezas",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "third-ear-band",
+     "nombre": "Third Ear Band",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1968",
+     "fin": "1993",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Third_Ear_Band",
+     "formaciones_mb": [
+      "Richard Coff (violin; ?–act.)",
+      "Richard Coff (viola; ?–act.)",
+      "Paul Minns (oboe; ?–act.)",
+      "Paul Minns (recorder; ?–act.)",
+      "Ursula Smith (cello; ?–act.)",
+      "Glen Sweeney (percussion; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "third-ear-band-alchemy",
+       "titulo": "Alchemy",
+       "anio": 1969,
+       "mbid": "767d6199-64be-3311-b0d3-fffcdef47381",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "third-ear-band-third-ear-band",
+       "titulo": "Third Ear Band",
+       "anio": 1970,
+       "mbid": "ea5ab2ca-7cc6-3e7e-bfd3-bdab05b9d349",
+       "primer_lanzamiento": "1970-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "third-ear-band-music-from-macbeth",
+       "titulo": "Music From Macbeth",
+       "anio": 1972,
+       "mbid": "a52cced6-db6d-3089-a939-cf9bfa7299e4",
+       "primer_lanzamiento": "1972",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "third-ear-band-magic-music",
+       "titulo": "Magic Music",
+       "anio": 1990,
+       "mbid": "92efdc38-7af4-3512-8934-0650bb526056",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "third-ear-band-new-forecasts-from-the-third-ear-almanac",
+       "titulo": "New Forecasts From the Third Ear Almanac",
+       "anio": 1990,
+       "mbid": "364b7efe-1fe3-4325-8baf-ad36e566507d",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "third-ear-band-brain-waves",
+       "titulo": "Brain Waves",
+       "anio": 1993,
+       "mbid": "0486d1f3-ffdf-4ffc-9493-8830d2c9610b",
+       "primer_lanzamiento": "1993",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "third-ear-band-live",
+       "titulo": "Live",
+       "anio": 1996,
+       "mbid": "aaae6858-4deb-4059-9e77-d2fd2d6c6582",
+       "primer_lanzamiento": "1996",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "third-ear-band-the-magus",
+       "titulo": "The Magus",
+       "anio": 2004,
+       "mbid": "579a7b1e-8ef7-38fa-aa0e-9ca24633aad4",
+       "primer_lanzamiento": "2004-09-28",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "high-tide",
+     "nombre": "High Tide",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1969",
+     "fin": "1991",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/High_Tide_(band)",
+     "formaciones_mb": [
+      "Roger Hadden (miembro; ?–act.)",
+      "Tony Hill (miembro; ?–act.)",
+      "Drachen Theaker (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "high-tide-sea-shanties",
+       "titulo": "Sea Shanties",
+       "anio": 1969,
+       "mbid": "0144a88b-27c7-35b9-8f4b-7433bc70de73",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "high-tide-high-tide",
+       "titulo": "High Tide",
+       "anio": 1970,
+       "mbid": "e9b28d19-de59-3e26-9dbc-995d215cacd9",
+       "primer_lanzamiento": "1970-07",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "high-tide-precious-cargo",
+       "titulo": "Precious Cargo",
+       "anio": 1989,
+       "mbid": "7e46395a-dab3-465c-886b-7fea744430fa",
+       "primer_lanzamiento": "1989",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "high-tide-a-fierce-nature",
+       "titulo": "A Fierce Nature",
+       "anio": 1990,
+       "mbid": "b006d98d-9fc0-434e-9ae3-359eb04bce5d",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "high-tide-ancient-gates",
+       "titulo": "Ancient Gates",
+       "anio": 1990,
+       "mbid": "ffe3a870-b20f-4843-95cd-4b6588fe095c",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "high-tide-the-flood",
+       "titulo": "The Flood",
+       "anio": 1990,
+       "mbid": "ef51e6d8-9367-4f5c-9e02-d8e04803b3c6",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "high-tide-interesting-times",
+       "titulo": "Interesting Times",
+       "anio": 1990,
+       "mbid": "544d2bda-75e1-4dbf-8abc-c9a2d646c8c2",
+       "primer_lanzamiento": "1990-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "high-tide-the-reason-of-success",
+       "titulo": "The Reason of Success",
+       "anio": 1991,
+       "mbid": "8f4a8bae-93bd-463d-be18-87e43a4890f9",
+       "primer_lanzamiento": "1991",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "high-tide-play-me-reggae",
+       "titulo": "Play Me Reggae",
+       "anio": 2007,
+       "mbid": "58bbb4aa-44e0-44af-b5ce-4ca565466ab3",
+       "primer_lanzamiento": "2007-12-05",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "quintessence",
+     "nombre": "Quintessence",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1969-04",
+     "fin": "1975",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Quintessence_(band)",
+     "formaciones_mb": [
+      "Shambhu Babaji (miembro; ?–act.)",
+      "Phil Jones (miembro; ?–act.)",
+      "Maha Dev (miembro; ?–act.)",
+      "Jake Milton (miembro; ?–act.)",
+      "Allan Mostert (miembro; ?–act.)",
+      "Raja Ram (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "quintessence-in-blissful-company",
+       "titulo": "In Blissful Company",
+       "anio": 1969,
+       "mbid": "e66c3989-d6eb-3d4c-b40f-893b89c741b3",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "quintessence-quintessence",
+       "titulo": "Quintessence",
+       "anio": 1970,
+       "mbid": "4dce4061-84b8-3c37-aebf-42cb66862667",
+       "primer_lanzamiento": "1970",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "quintessence-dive-deep",
+       "titulo": "Dive Deep",
+       "anio": 1971,
+       "mbid": "132e2059-85ca-3756-8bdd-acc898e4ab48",
+       "primer_lanzamiento": "1971",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "quintessence-indweller",
+       "titulo": "Indweller",
+       "anio": 1972,
+       "mbid": "278db26f-da19-373e-912b-10fc0c3a634b",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "quintessence-self",
+       "titulo": "Self",
+       "anio": 1972,
+       "mbid": "5334ae0b-92ac-3aa3-8c46-abff7202fb09",
+       "primer_lanzamiento": "1972-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "quintessence-sonoma-rag",
+       "titulo": "Sonoma Rag",
+       "anio": 1980,
+       "mbid": "75605d0d-e9c0-4854-bf37-0363a08dbd26",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rar-traffic-family",
+   "escena": "rarezas",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "traffic",
+     "nombre": "Traffic",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1967-04",
+     "fin": "1994",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Traffic",
+     "formaciones_mb": [
+      "Rebop Kwaku Baah (miembro; 1971–1973)",
+      "Ric Grech (miembro; 1971–act.)",
+      "Barry Beckett (miembro; ?–act.)",
+      "Jim Capaldi (original; ?–act.)",
+      "Rosko Gee (miembro; ?–act.)",
+      "Jim Gordon (miembro; ?–act.)",
+      "Roger Hawkins (miembro; ?–act.)",
+      "David Hood (miembro; ?–act.)",
+      "Dave Mason (original; ?–act.)",
+      "Steve Winwood (original; ?–act.)",
+      "Chris Wood (original; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "traffic-mr-fantasy",
+       "titulo": "Mr. Fantasy",
+       "anio": 1967,
+       "mbid": "7527bd60-1df3-3f43-8d12-b7a5e8ee265c",
+       "primer_lanzamiento": "1967-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "traffic-here-we-go-round-the-mulberry-bush",
+       "titulo": "Here We Go 'Round the Mulberry Bush",
+       "anio": 1968,
+       "mbid": "b2871840-e164-3bf2-ab68-7aacba0a3285",
+       "primer_lanzamiento": "1968-03",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "traffic-traffic",
+       "titulo": "Traffic",
+       "anio": 1968,
+       "mbid": "7d426408-10e5-3c3b-b119-a72e81be8eba",
+       "primer_lanzamiento": "1968-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "traffic-last-exit",
+       "titulo": "Last Exit",
+       "anio": 1969,
+       "mbid": "36aec2ea-0fa2-33c0-b30c-ac650b7eb62a",
+       "primer_lanzamiento": "1969-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "traffic-john-barleycorn-must-die",
+       "titulo": "John Barleycorn Must Die",
+       "anio": 1970,
+       "mbid": "3770d5ce-e0e1-3389-9acf-cd38f0722baf",
+       "primer_lanzamiento": "1970-07",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "traffic-the-low-spark-of-high-heeled-boys",
+       "titulo": "The Low Spark of High Heeled Boys",
+       "anio": 1971,
+       "mbid": "12980c27-0af8-36eb-91a8-808b26b30a79",
+       "primer_lanzamiento": "1971-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "traffic-shoot-out-at-the-fantasy-factory",
+       "titulo": "Shoot Out at the Fantasy Factory",
+       "anio": 1973,
+       "mbid": "5eafbe29-d380-3299-ae69-08f3cf9581fe",
+       "primer_lanzamiento": "1973-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "traffic-when-the-eagle-flies",
+       "titulo": "When the Eagle Flies",
+       "anio": 1974,
+       "mbid": "d5a65706-c978-37bb-a83f-bee533539546",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "traffic-the-perfumed-garden",
+       "titulo": "The Perfumed Garden",
+       "anio": 1994,
+       "mbid": "f761d995-63ab-41e7-ace6-6474ef912b38",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "traffic-far-from-home",
+       "titulo": "Far From Home",
+       "anio": 1994,
+       "mbid": "53a4dc0e-47ad-4c36-b022-c02a28686d31",
+       "primer_lanzamiento": "1994-05-03",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "family",
+     "nombre": "Family",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1967",
+     "fin": "1973",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Family_(British_band)",
+     "formaciones_mb": [
+      "John “Poli” Palmer (flute; 1969–1972)",
+      "John “Poli” Palmer (synthesizer; 1969–1972)",
+      "John “Poli” Palmer (piano; 1969–1972)",
+      "John “Poli” Palmer (vibraphone; 1969–1972)",
+      "John Wetton (miembro; 1971–1972)",
+      "John “Poli” Palmer (miembro; 2013–2016)",
+      "Tony Ashton (miembro; ?–act.)",
+      "Roger Chapman (miembro; ?–act.)",
+      "Jim Cregan (miembro; ?–act.)",
+      "Ric Grech (electric bass guitar; ?–act.)",
+      "Jim King (miembro; ?–act.)",
+      "Rob Townsend (miembro; ?–act.)",
+      "Charlie Whitney (miembro; ?–act.)",
+      "John Weider (miembro; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "family-music-in-a-dolls-house",
+       "titulo": "Music in a Doll’s House",
+       "anio": 1968,
+       "mbid": "93ee3b48-4684-3b4b-ba6c-99f0f756e660",
+       "primer_lanzamiento": "1968",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "family-family-entertainment",
+       "titulo": "Family Entertainment",
+       "anio": 1969,
+       "mbid": "7ab313d0-1739-3f78-8e2c-ea08f892f62f",
+       "primer_lanzamiento": "1969-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "family-a-song-for-me",
+       "titulo": "A Song for Me",
+       "anio": 1970,
+       "mbid": "839703ef-b050-3bca-b602-8ccfe064580d",
+       "primer_lanzamiento": "1970",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "family-anyway",
+       "titulo": "Anyway",
+       "anio": 1971,
+       "mbid": "54d06ad5-576c-37a2-a466-009d21d06ef0",
+       "primer_lanzamiento": "1971",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "family-fearless",
+       "titulo": "Fearless",
+       "anio": 1971,
+       "mbid": "b660676f-1406-4d9b-87ce-872c51f4c181",
+       "primer_lanzamiento": "1971",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "family-bandstand",
+       "titulo": "Bandstand",
+       "anio": 1972,
+       "mbid": "c6ae9d60-bc3a-3cac-a1a6-f3a4765f0d42",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "family-its-only-a-movie",
+       "titulo": "It’s Only a Movie",
+       "anio": 1973,
+       "mbid": "d130fd05-bae1-3282-87df-8d3b315b7456",
+       "primer_lanzamiento": "1973-09-01",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rar-hawkwind",
+   "escena": "rarezas",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "hawkwind",
+     "nombre": "Hawkwind",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1969-10",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Hawkwind",
+     "formaciones_mb": [
+      "Dave Brock (guitar, original; 1969-07–1969-10)",
+      "Dik Mik Davies (keyboard, original; 1969-07–1969-10)",
+      "John Harrison (bass guitar, original; 1969-07–1969-10)",
+      "Terry Ollis (drums (drum set), original; 1969-07–1969-10)",
+      "Mick Slattery (guitar, original; 1969-07–1969-10)",
+      "Nik Turner (original, saxophone; 1969-07–1969-10)",
+      "Nik Turner (flute, lead vocals, original, saxophone; 1969-10–1976)",
+      "John Harrison (bass, original; 1969-11–1970-09)",
+      "Huw Lloyd‐Langton (guitar, original; 1969-11–1971)",
+      "Terry Ollis (drums (drum set), original; 1969-11–1972-02)",
+      "Dik Mik Davies (keyboard, original, synthesizer; 1969-11–1973)",
+      "Dave Brock (guitar, keyboard, lead vocals, original, synthesizer; 1969-11–act.)",
+      "Thomas Crimble (bass; 1970–1971)",
+      "Dave Anderson (bass; 1971-04–1971-10)",
+      "Del Dettmar (keyboard, synthesizer; 1971–1974)",
+      "Lemmy Kilmister (electric bass guitar; 1971–1975)",
+      "Robert Calvert (lead vocals; 1972–1973)",
+      "Simon King (drums (drum set); 1972–1979)",
+      "Simon House (keyboard, synthesizer, violin; 1973–1978)",
+      "Alan Powell (drums (drum set); 1974–1976)",
+      "Paul Rudolph (bass; 1975–1976)",
+      "Robert Calvert (lead vocals; 1975–1979)",
+      "Adrian Shaw (bass; 1976–1978)",
+      "Paul Hayles (keyboard, synthesizer; 1977–1978-03)",
+      "Mick Smith (drums (drum set); 1978–1978)",
+      "Martin Griffin (drums (drum set); 1978–1979)",
+      "Steve Swindells (keyboard, synthesizer; 1978–1979)",
+      "Harvey Bainbridge (bass, keyboard, synthesizer; 1978–1991)",
+      "Tim Blake (keyboard, lead vocals; 1979–1980)",
+      "Simon King (drums (drum set); 1979–1980)",
+      "Huw Lloyd‐Langton (guitar; 1979–1988)",
+      "Ginger Baker (drums (drum set); 1980–1981)",
+      "Keith Hale (keyboard, synthesizer; 1980–1981)",
+      "Martin Griffin (drums (drum set); 1981–1983)",
+      "Nik Turner (flute, lead vocals, saxophone; 1982–1985)",
+      "Andy Anderson (drums (drum set); 1983–1983)",
+      "Robert Heaton (drums (drum set); 1983–1983)",
+      "Rik Martinez (drums (drum set); 1983–1983)",
+      "Dead Fred (keyboard, lead vocals, violin; 1983–1984)",
+      "Clive Deamer (drums (drum set); 1983–1985)",
+      "Danny Thompson (drums (drum set); 1984–1988)",
+      "Alan Davey (bass; 1984–1996)",
+      "Richard Chadwick (drums (drum set), lead vocals; 1988–act.)",
+      "Simon House (keyboard, synthesizer, violin; 1989–1991)",
+      "Bridget Wishart (lead vocals; 1989–1991)",
+      "Steve Bemand (guitar; 1991–1991)",
+      "Jerry Richards (guitar; 1995–2001)",
+      "Ronald Tree (bass, lead vocals; 1995–2001)",
+      "Tim Blake (keyboard, lead vocals; 2000–2000)",
+      "Simon House (keyboard, synthesizer, violin; 2000–2002)",
+      "Alan Davey (bass; 2001–2007-07-10)",
+      "Tim Blake (keyboard, lead vocals; 2002–2002)",
+      "Huw Lloyd‐Langton (guitar; 2002–2005)",
+      "Jason Stuart (keyboard, synthesizer; 2004–2008-09-08)",
+      "Mr Dibs (bass, cello, lead vocals; 2007–2018-08-28)",
+      "Tim Blake (keyboard, lead vocals; 2008–2015)",
+      "Niall Hone (bass, guitar, keyboard, sampler, synthesizer; 2008–2021)",
+      "Dead Fred (keyboard, lead vocals, violin; 2012–2015)",
+      "Magnus Martin (guitar; 2016–act.)",
+      "Doug MacKinnon (bass guitar; 2021–act.)",
+      "Thighpaulsandra (keyboard; 2021–act.)",
+      "Julian Crimmins (miembro; ?–act.)",
+      "Chris Purdon (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "hawkwind-hawkwind",
+       "titulo": "Hawkwind",
+       "anio": 1970,
+       "mbid": "aeed00da-1866-31ca-9d92-584f7aee8ad2",
+       "primer_lanzamiento": "1970-08-14",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-in-search-of-space",
+       "titulo": "In Search of Space",
+       "anio": 1971,
+       "mbid": "e615c8a4-92c5-3121-8cbe-5362e226c6d1",
+       "primer_lanzamiento": "1971-10-08",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-doremi-fasol-latido",
+       "titulo": "Doremi Fasol Latido",
+       "anio": 1972,
+       "mbid": "681f5c83-f002-324b-a847-53c244a40a9b",
+       "primer_lanzamiento": "1972-11-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-hall-of-the-mountain-grill",
+       "titulo": "Hall of the Mountain Grill",
+       "anio": 1974,
+       "mbid": "9af5ed4f-c640-3db8-9f44-7e23ae57e87b",
+       "primer_lanzamiento": "1974-09-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-warrior-on-the-edge-of-time",
+       "titulo": "Warrior on the Edge of Time",
+       "anio": 1975,
+       "mbid": "f135db64-0d0f-32ca-9f2c-092a5d26aa58",
+       "primer_lanzamiento": "1975-05-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-astounding-sounds-amazing-music",
+       "titulo": "Astounding Sounds, Amazing Music",
+       "anio": 1976,
+       "mbid": "df505955-47f6-3d9b-8d85-0e174398c8de",
+       "primer_lanzamiento": "1976-08-27",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-quark-strangeness-and-charm",
+       "titulo": "Quark, Strangeness and Charm",
+       "anio": 1977,
+       "mbid": "abcdcac3-343b-33eb-badd-dea4b3007230",
+       "primer_lanzamiento": "1977-06-17",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-25-years-on",
+       "titulo": "25 Years On",
+       "anio": 1978,
+       "mbid": "5dd0e36f-3219-36a1-837b-ee4583c9081d",
+       "primer_lanzamiento": "1978-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-pxr5",
+       "titulo": "PXR5",
+       "anio": 1979,
+       "mbid": "648d50d6-0981-3229-bba5-56f5e59d10dd",
+       "primer_lanzamiento": "1979-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-levitation",
+       "titulo": "Levitation",
+       "anio": 1980,
+       "mbid": "4174e539-f5ee-382e-ac9f-f776b12c293e",
+       "primer_lanzamiento": "1980-10-27",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-sonic-attack",
+       "titulo": "Sonic Attack",
+       "anio": 1981,
+       "mbid": "8ee63271-26f5-3af1-8826-80dcb8607155",
+       "primer_lanzamiento": "1981-10-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-church-of-hawkwind",
+       "titulo": "Church of Hawkwind",
+       "anio": 1982,
+       "mbid": "58ae3bf1-88bf-31d2-9563-eb4ff95981c9",
+       "primer_lanzamiento": "1982-05-14",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-choose-your-masques",
+       "titulo": "Choose Your Masques",
+       "anio": 1982,
+       "mbid": "af3612b2-e5d5-3ae0-8639-35bad4fc7eed",
+       "primer_lanzamiento": "1982-10-29",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-the-chronicle-of-the-black-sword",
+       "titulo": "The Chronicle of the Black Sword",
+       "anio": 1985,
+       "mbid": "b0550f11-9811-396a-9eb1-60bc943a4781",
+       "primer_lanzamiento": "1985-11-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-the-xenon-codex",
+       "titulo": "The Xenon Codex",
+       "anio": 1988,
+       "mbid": "7b6c681f-904d-3cea-b2ef-5639019eb379",
+       "primer_lanzamiento": "1988-04-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-space-bandits",
+       "titulo": "Space Bandits",
+       "anio": 1990,
+       "mbid": "01fa21d1-0559-3cee-98ad-32e7ad042e9e",
+       "primer_lanzamiento": "1990-09-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-electric-tepee",
+       "titulo": "Electric Tepee",
+       "anio": 1992,
+       "mbid": "5e8871a0-cf60-3d92-b010-ea54c6e657d2",
+       "primer_lanzamiento": "1992-05-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-it-is-the-business-of-the-future-to-be-dangerous",
+       "titulo": "It Is the Business of the Future to Be Dangerous",
+       "anio": 1993,
+       "mbid": "3735927f-1482-3513-a00f-ba6ae4b26915",
+       "primer_lanzamiento": "1993-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-alien-4",
+       "titulo": "Alien 4",
+       "anio": 1995,
+       "mbid": "bd306e0d-f515-3873-b12f-dd6c7248d6ce",
+       "primer_lanzamiento": "1995-10-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-distant-horizons",
+       "titulo": "Distant Horizons",
+       "anio": 1997,
+       "mbid": "5c9ef70f-2e6f-3f03-a5bd-6c626e85f981",
+       "primer_lanzamiento": "1997-11-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-in-your-area",
+       "titulo": "In Your Area",
+       "anio": 1999,
+       "mbid": "1ebd13d4-ca8e-3cf9-843f-f3f66d1580ac",
+       "primer_lanzamiento": "1999-01-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-spacebrock",
+       "titulo": "Spacebrock",
+       "anio": 2000,
+       "mbid": "74797c58-1a31-37c5-94b9-ebac3514e014",
+       "primer_lanzamiento": "2000",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-take-me-to-your-leader",
+       "titulo": "Take Me to Your Leader",
+       "anio": 2005,
+       "mbid": "23200e4e-abf4-36c9-aafc-d0b55fb99c1c",
+       "primer_lanzamiento": "2005-09-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-take-me-to-your-future",
+       "titulo": "Take Me to Your Future",
+       "anio": 2006,
+       "mbid": "35f9c479-2f1c-43a1-b151-f0df28361ef9",
+       "primer_lanzamiento": "2006-09-04",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-blood-of-the-earth",
+       "titulo": "Blood of the Earth",
+       "anio": 2010,
+       "mbid": "11db8aa2-df5b-48a7-b67f-91d2b01f10c8",
+       "primer_lanzamiento": "2010-06-21",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-onward",
+       "titulo": "Onward",
+       "anio": 2012,
+       "mbid": "f982be06-a819-490c-86e1-2c0bfd996eae",
+       "primer_lanzamiento": "2012-04-30",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-the-machine-stops",
+       "titulo": "The Machine Stops",
+       "anio": 2016,
+       "mbid": "970ec890-1bfc-4aaa-aa4f-2191f1c257d1",
+       "primer_lanzamiento": "2016-04-15",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-into-the-woods",
+       "titulo": "Into the Woods",
+       "anio": 2017,
+       "mbid": "1f15c50f-d611-4433-ac24-e38aeb855b1e",
+       "primer_lanzamiento": "2017-05-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-road-to-utopia",
+       "titulo": "Road to Utopia",
+       "anio": 2018,
+       "mbid": "4a56830b-b033-45c5-8064-b6f89ff23f02",
+       "primer_lanzamiento": "2018-09-14",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-all-aboard-the-skylark",
+       "titulo": "All Aboard the Skylark",
+       "anio": 2019,
+       "mbid": "fa3f5a91-b754-4849-bd55-1e7c61c1184b",
+       "primer_lanzamiento": "2019-10-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-acoustic-daze",
+       "titulo": "Acoustic Daze",
+       "anio": 2019,
+       "mbid": "1344d7dc-2dfb-42db-9d70-df2735794845",
+       "primer_lanzamiento": "2019-10-27",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-somnia",
+       "titulo": "Somnia",
+       "anio": 2021,
+       "mbid": "79e6963a-da68-44dd-9daf-711ef335d257",
+       "primer_lanzamiento": "2021-09-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-the-future-never-waits",
+       "titulo": "The Future Never Waits",
+       "anio": 2023,
+       "mbid": "f01786b0-10a7-493c-86a9-923222908a6c",
+       "primer_lanzamiento": "2023-04-28",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-stories-from-time-and-space",
+       "titulo": "Stories From Time and Space",
+       "anio": 2024,
+       "mbid": "772ce998-5d5c-4614-9b04-1c39c63e5d05",
+       "primer_lanzamiento": "2024-04-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hawkwind-there-is-no-space-for-us",
+       "titulo": "There Is No Space for Us",
+       "anio": 2025,
+       "mbid": "d8528328-d222-42d0-8412-ae0d6238f753",
+       "primer_lanzamiento": "2025-04-18",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rar-acid-us",
+   "escena": "rarezas",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "vanilla-fudge",
+     "nombre": "Vanilla Fudge",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1966",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Vanilla_Fudge",
+     "formaciones_mb": [
+      "Tim Bogert (miembro; 1967–1970)",
+      "Carmine Appice (miembro; ?–act.)",
+      "Pete Bremy (miembro; ?–act.)",
+      "Lanny Cordola (miembro; ?–act.)",
+      "Tom Croucier (miembro; ?–act.)",
+      "Mark Dolfen (miembro; ?–act.)",
+      "Paul Hanson (miembro; ?–act.)",
+      "Vince Martell (miembro; ?–act.)",
+      "Bill Pascali (miembro; ?–act.)",
+      "Teddy Rondinelli (miembro; ?–act.)",
+      "Derek St. Holmes (miembro; ?–act.)",
+      "Mark Stein (miembro; ?–act.)",
+      "Ron Mancuso (miembro; ?–?)",
+      "T. M. Stevens (miembro; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "vanilla-fudge-vanilla-fudge",
+       "titulo": "Vanilla Fudge",
+       "anio": 1967,
+       "mbid": "52863bd6-7653-3f5c-bd48-949280d35987",
+       "primer_lanzamiento": "1967",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vanilla-fudge-the-beat-goes-on",
+       "titulo": "The Beat Goes On",
+       "anio": 1968,
+       "mbid": "353e8c93-ce1d-3569-b210-52fee4494265",
+       "primer_lanzamiento": "1968-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vanilla-fudge-renaissance",
+       "titulo": "Renaissance",
+       "anio": 1968,
+       "mbid": "901b68fc-958a-3a67-a91a-a574bbbd7764",
+       "primer_lanzamiento": "1968-06-14",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vanilla-fudge-near-the-beginning",
+       "titulo": "Near the Beginning",
+       "anio": 1969,
+       "mbid": "826a2dde-8ef5-3c0b-a3a8-af08fa8a9172",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vanilla-fudge-rock-roll",
+       "titulo": "Rock & Roll",
+       "anio": 1969,
+       "mbid": "aa102846-b783-3d7c-8592-16b4ddda504e",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vanilla-fudge-mystery",
+       "titulo": "Mystery",
+       "anio": 1984,
+       "mbid": "069f5922-dec1-304c-899f-72469b61729d",
+       "primer_lanzamiento": "1984",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vanilla-fudge-the-return",
+       "titulo": "The Return",
+       "anio": 2002,
+       "mbid": "7fbf150f-4903-3728-a78e-833a40688d11",
+       "primer_lanzamiento": "2002-09-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vanilla-fudge-out-through-the-in-door",
+       "titulo": "Out Through the In Door",
+       "anio": 2007,
+       "mbid": "7efca0af-c236-3b9d-8ae6-cf1950acdaab",
+       "primer_lanzamiento": "2007-03-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vanilla-fudge-rams-head-tavern-annapolis-md",
+       "titulo": "Rams Head Tavern Annapolis, MD",
+       "anio": 2008,
+       "mbid": "33d7210d-5f65-438d-b5b8-dc708809631d",
+       "primer_lanzamiento": "2008",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "vanilla-fudge-spirit-of-67",
+       "titulo": "Spirit of ’67",
+       "anio": 2015,
+       "mbid": "ffdebbfd-8517-43bd-a29e-f4b44cdf7e31",
+       "primer_lanzamiento": "2015-03-03",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "iron-butterfly",
+     "nombre": "Iron Butterfly",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1966",
+     "fin": "2012",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Iron_Butterfly",
+     "formaciones_mb": [
+      "Bruce Morris (miembro; 1966–1966)",
+      "Jack Pinney (miembro; 1966–1966)",
+      "Greg Willis (miembro; 1966–1966)",
+      "Darryl DeLoach (miembro; 1966–1967)",
+      "Jerry Penrod (miembro; 1966–1967)",
+      "Danny Weis (miembro; 1966–1967)",
+      "Doug Ingle (miembro; 1966–1971)",
+      "Ron Bushy (miembro; 1966–1977)",
+      "Erik Brann (miembro; 1967–1969)",
+      "Lee Dorman (miembro; 1967–1971)",
+      "Mike Pinera (miembro; 1969–1971)",
+      "Larry “Rhino” Reinhardt (miembro; 1969–1971)",
+      "Manny Bertematti (miembro; 1971–1971)",
+      "Howard Reitzes (miembro; 1974–1975)",
+      "Erik Brann (miembro; 1974–1977)",
+      "Philip Taylor Kramer (bass guitar; 1974–1977)",
+      "Bill DeMartines (miembro; 1975–1977)",
+      "Jimi Henderson (miembro; 1977–1978)",
+      "Kevin Karamitros (miembro; 1977–1978)",
+      "Larry Kirna (miembro; 1977–1978)",
+      "David Love (miembro; 1977–1978)",
+      "Larry “Rhino” Reinhardt (miembro; 1977–1979)",
+      "Lee Dorman (miembro; 1977–1985)",
+      "Keith Ian Ellis (miembro; 1978–1978)",
+      "Ron Bushy (miembro; 1978–1979)",
+      "Doug Ingle (miembro; 1978–1979)",
+      "John Leimsider (miembro; 1978–1979)",
+      "Mike Pinera (miembro; 1978–1979)",
+      "Bobby Caldwell (miembro; 1979–1979)",
+      "Nathan Pino (miembro; 1979–1979)",
+      "Erik Brann (miembro; 1979–1980)",
+      "Bobby Hasbrook (miembro; 1980–1980)",
+      "Tom Kislan (miembro; 1980–1980)",
+      "Sam Johnson (miembro; 1980–1982)",
+      "Starz Vanderlocket (miembro; 1980–1982)",
+      "John Leimsider (miembro; 1981–1982)",
+      "Randy Skirvin (miembro; 1981–1982)",
+      "Larry “Rhino” Reinhardt (miembro; 1981–1984)",
+      "Erik Brann (miembro; 1982–1982)",
+      "Ron Bushy (miembro; 1982–1982)",
+      "Jan Uvena (miembro; 1982–1982)",
+      "Guy Babylon (miembro; 1982–1983)",
+      "Luke (miembro; 1982–1983)",
+      "Mike Pinera (miembro; 1982–1983)",
+      "John Shearer (miembro; 1982–1983)",
+      "Doug Ingle (miembro; 1982–1985)",
+      "Jerry Sommers (miembro; 1983–1983)",
+      "Rick Rotante (miembro; 1983–1984)",
+      "Lenny Campanero (miembro; 1984–1985)",
+      "Steve Fister (miembro; 1984–1985)",
+      "Kurtis Teal (miembro; 1985–1985)",
+      "Alexander “Ace” Baker (miembro; 1987–1987)",
+      "Tim Von Hoffman (miembro; 1987–1987)",
+      "Mike Pinera (miembro; 1987–1987)",
+      "Glen Rappold (miembro; 1987–1987)",
+      "Kelly Reubens (miembro; 1987–1987)",
+      "Ron Bushy (miembro; 1987–1988)",
+      "Doug Ingle (miembro; 1987–1988)",
+      "Erik Brann (miembro; 1987–1989)",
+      "Lee Dorman (bass; 1987–2012-12-21)",
+      "Steve \"Mick\" Feldman (miembro; 1988–1990)",
+      "Kenny Suarez (miembro; 1988–1992)",
+      "Larry “Rhino” Reinhardt (miembro; 1988–1993)",
+      "Derek Hilland (miembro; 1988–1997)",
+      "Robert Tepper (miembro; 1990–1992)",
+      "Denny Artache (miembro; 1993–1993)",
+      "Burt Diaz (miembro; 1993–1993)",
+      "Mike Pinera (miembro; 1993–1994)",
+      "Derek Hilland (miembro; 1993–1997)",
+      "Ron Bushy (drums (drum set), percussion; 1993–2012)",
+      "Doug Bossey (miembro; 1994–1995)",
+      "Doug Ingle (miembro; 1994–1999)",
+      "Erik Barnett (miembro; 1995–2002)",
+      "Damian Bujanda (miembro; 1999–1999)",
+      "Larry Rust (miembro; 1999–2005)",
+      "Charlie Marinkovich (guitar; 2002–2012)",
+      "Martin Gerschwitz (keyboard; 2005–2012)",
+      "Ken Conlinpnik (miembro; 2006–2006)",
+      "Dave Meros (miembro; 2006–2006)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "iron-butterfly-heavy",
+       "titulo": "Heavy",
+       "anio": 1968,
+       "mbid": "5ea294d1-00f3-35f1-8089-6a128bc586b5",
+       "primer_lanzamiento": "1968-01-22",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iron-butterfly-inagaddadavida",
+       "titulo": "In‐A‐Gadda‐Da‐Vida",
+       "anio": 1968,
+       "mbid": "89a793a2-8a49-38f7-9a48-ae771b414198",
+       "primer_lanzamiento": "1968-06-14",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iron-butterfly-ball",
+       "titulo": "Ball",
+       "anio": 1969,
+       "mbid": "3f97f02c-a2b7-326a-8fee-826e9e1bff4c",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iron-butterfly-metamorphosis",
+       "titulo": "Metamorphosis",
+       "anio": 1970,
+       "mbid": "54ce95c8-34b7-3a01-a76f-a381eca6a84b",
+       "primer_lanzamiento": "1970",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iron-butterfly-scorching-beauty",
+       "titulo": "Scorching Beauty",
+       "anio": 1975,
+       "mbid": "2d37d233-f7ea-3312-8077-76e86b1a9110",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iron-butterfly-sun-and-steel",
+       "titulo": "Sun and Steel",
+       "anio": 1975,
+       "mbid": "b803e660-dcae-346e-8419-d8501e950469",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rar-spirit",
+   "escena": "rarezas",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "spirit",
+     "nombre": "Spirit",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1967",
+     "fin": "1997",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Spirit_(banda)",
+     "formaciones_mb": [
+      "Randy California (miembro; 1967–1971)",
+      "John Staehely (guitar; 1971–1973)",
+      "Barry Keene (bass; 1975–1976)",
+      "Mark Andes (miembro; ?–act.)",
+      "Ed Cassidy (miembro; ?–act.)",
+      "Jay Ferguson (miembro; ?–act.)",
+      "John Locke (miembro; ?–act.)",
+      "Al Staehely (miembro; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "spirit-the-family-that-plays-together",
+       "titulo": "The Family That Plays Together",
+       "anio": 1968,
+       "mbid": "2d13c365-47dc-37f7-9491-663f62f65a17",
+       "primer_lanzamiento": "1968",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-spirit",
+       "titulo": "Spirit",
+       "anio": 1968,
+       "mbid": "9ae95886-c764-3bc6-ae1a-514d183641c7",
+       "primer_lanzamiento": "1968-01-22",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-clear",
+       "titulo": "Clear",
+       "anio": 1969,
+       "mbid": "b5599d6f-c242-3f78-af20-60725d3b0f49",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-twelve-dreams-of-dr-sardonicus",
+       "titulo": "Twelve Dreams of Dr. Sardonicus",
+       "anio": 1970,
+       "mbid": "86c7bfe0-b686-3c61-8ca3-0156d2735f4c",
+       "primer_lanzamiento": "1970",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-feedback",
+       "titulo": "Feedback",
+       "anio": 1972,
+       "mbid": "d23a4452-80bf-3bce-8fde-b76b6a87f32c",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-son-of-spirit",
+       "titulo": "Son of Spirit",
+       "anio": 1975,
+       "mbid": "df4436c5-0cf6-3a8a-903d-bd82b2f12850",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-spirit-of-76",
+       "titulo": "Spirit of ’76",
+       "anio": 1975,
+       "mbid": "78a2ff74-dcbe-3cc9-8233-e6554f739ba4",
+       "primer_lanzamiento": "1975-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-farther-along",
+       "titulo": "Farther Along",
+       "anio": 1976,
+       "mbid": "28d80883-e43d-3ffa-87ed-aba3da549b0c",
+       "primer_lanzamiento": "1976",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-future-games",
+       "titulo": "Future Games",
+       "anio": 1977,
+       "mbid": "4c5704cc-540a-3283-b2e3-8f94f2d1b723",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-put-your-hands-together",
+       "titulo": "Put Your Hands Together",
+       "anio": 1979,
+       "mbid": "fa6354df-ae30-42ce-9493-e2414207e42d",
+       "primer_lanzamiento": "1979",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-the-adventures-of-kaptain-kopter-commander-cassidy-in-potatoland",
+       "titulo": "The Adventures of Kaptain Kopter & Commander Cassidy in Potatoland",
+       "anio": 1981,
+       "mbid": "04deb8e8-aa6f-36b3-b11e-58a458da4f29",
+       "primer_lanzamiento": "1981",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-the-thirteenth-dream",
+       "titulo": "The Thirteenth Dream",
+       "anio": 1984,
+       "mbid": "6b01568b-16d2-4c69-b228-25b3a5928515",
+       "primer_lanzamiento": "1984-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-rapture-in-the-chambers",
+       "titulo": "Rapture in the Chambers",
+       "anio": 1989,
+       "mbid": "d3fb189e-794e-32f4-870f-c62e7aec3445",
+       "primer_lanzamiento": "1989",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-tent-of-miracles",
+       "titulo": "Tent of Miracles",
+       "anio": 1990,
+       "mbid": "109f8968-3e34-41df-ab20-69f3451bd516",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-california-blues",
+       "titulo": "California Blues",
+       "anio": 1996,
+       "mbid": "1a86ece8-1d1d-31f1-843f-396283d5617c",
+       "primer_lanzamiento": "1996-12-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-sea-dream",
+       "titulo": "Sea Dream",
+       "anio": 2002,
+       "mbid": "8b7605d6-0461-4d05-bce8-febc5f53616d",
+       "primer_lanzamiento": "2002-09-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-blues-from-the-soul",
+       "titulo": "Blues From the Soul",
+       "anio": 2003,
+       "mbid": "b358586d-dd19-33b1-b3a9-7b4d91d30029",
+       "primer_lanzamiento": "2003-08-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-model-shop",
+       "titulo": "Model Shop",
+       "anio": 2005,
+       "mbid": "601ee42d-e0c9-3798-bd0c-3389dbaa4509",
+       "primer_lanzamiento": "2005",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "spirit-son-of-america",
+       "titulo": "Son of America",
+       "anio": 2005,
+       "mbid": "42651d8d-a0b0-4d30-a095-24ecffd86c06",
+       "primer_lanzamiento": "2005-10-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-the-original-potato-land",
+       "titulo": "The Original Potato Land",
+       "anio": 2006,
+       "mbid": "30c6cbd9-a326-405d-8a3e-be0c1bb2054e",
+       "primer_lanzamiento": "2006-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "spirit-california-blues-redux",
+       "titulo": "California Blues Redux",
+       "anio": 2009,
+       "mbid": "7446d8fc-115f-4087-8b03-3a39b0cd3d9f",
+       "primer_lanzamiento": "2009",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rar-laboratorio",
+   "escena": "rarezas",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "electric-prunes",
+     "nombre": "The Electric Prunes",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1965",
+     "fin": "1970",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/The_Electric_Prunes",
+     "formaciones_mb": [
+      "Thaddeus James Lowe (lead vocals, original; 1965–1968)",
+      "Mark Moulin (guitar; 2001–2004)",
+      "John Herron (keyboard; ?–act.)",
+      "Ron Morgan (miembro; ?–act.)",
+      "Mark Tulin (miembro; ?–act.)",
+      "Brett Wade (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "electric-prunes-the-electric-prunes",
+       "titulo": "The Electric Prunes",
+       "anio": 1967,
+       "mbid": "01c812fa-3d8d-4a18-ac9b-b274d4b23952",
+       "primer_lanzamiento": "1967",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "electric-prunes-underground",
+       "titulo": "Underground",
+       "anio": 1967,
+       "mbid": "8d91f80f-6609-358e-b288-0a2ad6b793a0",
+       "primer_lanzamiento": "1967-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "electric-prunes-release-of-an-oath",
+       "titulo": "Release of an Oath",
+       "anio": 1968,
+       "mbid": "a79fefee-9f65-3342-b1c1-eac9efaa6588",
+       "primer_lanzamiento": "1968",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "electric-prunes-mass-in-f-minor",
+       "titulo": "Mass in F minor",
+       "anio": 1968,
+       "mbid": "45080567-d3d9-358e-9c49-25f51a2c6a6c",
+       "primer_lanzamiento": "1968-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "electric-prunes-just-good-old-rock-and-roll",
+       "titulo": "Just Good Old Rock and Roll",
+       "anio": 1969,
+       "mbid": "726e1e6b-3ce0-4f48-b23d-06a8b663184d",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "electric-prunes-artifact",
+       "titulo": "Artifact",
+       "anio": 2001,
+       "mbid": "d67367d0-cc2c-4836-9065-ac8badd026f1",
+       "primer_lanzamiento": "2001-10-31",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "electric-prunes-california",
+       "titulo": "California",
+       "anio": 2004,
+       "mbid": "c6371dce-9e2a-3607-afd4-69c526bc7d43",
+       "primer_lanzamiento": "2004-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "electric-prunes-feedback",
+       "titulo": "Feedback",
+       "anio": 2006,
+       "mbid": "c175a8c0-7c11-3649-938e-1cf079c55f50",
+       "primer_lanzamiento": "2006",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "electric-prunes-was",
+       "titulo": "WaS",
+       "anio": 2014,
+       "mbid": "1730463d-20e1-44a6-9bf7-abf20ac0a511",
+       "primer_lanzamiento": "2014-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "electric-prunes-then-came-the-dawn-the-reprise-recordings-19661969",
+       "titulo": "Then Came the Dawn: The Reprise Recordings 1966–1969",
+       "anio": 2021,
+       "mbid": "6e8ee8c2-225f-4895-822e-d4178968de8c",
+       "primer_lanzamiento": "2021-12-24",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "united-states-of-america",
+     "nombre": "The United States of America",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1967",
+     "fin": "1969",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/The_United_States_of_America_(band)",
+     "formaciones_mb": [
+      "Dorothy Moskowitz (miembro; ?–act.)",
+      "Carmi Simon (bass; ?–act.)",
+      "Joseph Byrd (miembro; ?–?)",
+      "Rand Forbes (original; ?–?)",
+      "Craig Woodson (original; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "united-states-of-america-the-united-states-of-america",
+       "titulo": "The United States of America",
+       "anio": 1968,
+       "mbid": "374ef16c-489b-3a3a-91f6-820827807469",
+       "primer_lanzamiento": "1968-03-06",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "silver-apples",
+     "nombre": "Silver Apples",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1967",
+     "fin": "2020-09-08",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Silver_Apples",
+     "formaciones_mb": [
+      "Dan Taylor (drums (drum set); 1967–1970)",
+      "Xian Hawkins (miembro; 1996–1998)",
+      "Michael Lerner (drums (drum set); 1996–1998)",
+      "Dan Taylor (drums (drum set); 1998–2005-03-10)",
+      "Simeon (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "silver-apples-silver-apples",
+       "titulo": "Silver Apples",
+       "anio": 1968,
+       "mbid": "ebd73679-91c4-38dc-a698-a80b93a42e1d",
+       "primer_lanzamiento": "1968",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "silver-apples-contact",
+       "titulo": "Contact",
+       "anio": 1969,
+       "mbid": "10c10d05-2cae-36ca-be85-4b607b84269f",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "silver-apples-beacon",
+       "titulo": "Beacon",
+       "anio": 1997,
+       "mbid": "711ab63e-2aea-3269-a86f-067184f6b7c2",
+       "primer_lanzamiento": "1997-05-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "silver-apples-decatur",
+       "titulo": "Decatur",
+       "anio": 1998,
+       "mbid": "21be43d4-ac98-439a-83a9-895b5b357df2",
+       "primer_lanzamiento": "1998-06-17",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "silver-apples-the-garden",
+       "titulo": "The Garden",
+       "anio": 1998,
+       "mbid": "ce5a8037-d514-3400-a2b0-1aaa1c4598f7",
+       "primer_lanzamiento": "1998-08-13",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "silver-apples-a-lake-of-teardrops",
+       "titulo": "A Lake of Teardrops",
+       "anio": 1999,
+       "mbid": "785a7aee-2557-3ff4-8176-49dad0b9fd6a",
+       "primer_lanzamiento": "1999-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "silver-apples-remixes",
+       "titulo": "Remixes",
+       "anio": 2000,
+       "mbid": "b8c96a5a-61d2-4723-b1d3-492fc364e65a",
+       "primer_lanzamiento": "2000",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "silver-apples-clinging-to-a-dream",
+       "titulo": "Clinging to a Dream",
+       "anio": 2016,
+       "mbid": "5c4dfae8-ba9d-469f-add4-ae082e27ac02",
+       "primer_lanzamiento": "2016-09-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "silver-apples-mirage",
+       "titulo": "Mirage",
+       "anio": 2023,
+       "mbid": "1abf527a-010b-48b4-855e-3533f2208b6c",
+       "primer_lanzamiento": "2023-10-27",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "hp-lovecraft",
+     "nombre": "H.P. Lovecraft",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1967",
+     "fin": "1969",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/H._P._Lovecraft_(banda)",
+     "formaciones_mb": [
+      "Tony Cavallari (miembro; ?–act.)",
+      "Kal David (miembro; ?–act.)",
+      "George Edwards (miembro; ?–act.)",
+      "Marty Grebb (miembro; ?–act.)",
+      "Jerry McGeorge (miembro; ?–act.)",
+      "Mike Tegza (miembro; ?–act.)",
+      "James Vincent (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "hp-lovecraft-h-p-lovecraft",
+       "titulo": "H.P. Lovecraft",
+       "anio": 1967,
+       "mbid": "9bbc2be3-cb10-3475-818c-086a0970d6e4",
+       "primer_lanzamiento": "1967",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hp-lovecraft-h-p-lovecraft-ii",
+       "titulo": "H.P. Lovecraft II",
+       "anio": 1968,
+       "mbid": "7b09d709-dc44-392c-b382-2be3e31696bc",
+       "primer_lanzamiento": "1968",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hp-lovecraft-valley-of-the-moon",
+       "titulo": "Valley of the Moon",
+       "anio": 1970,
+       "mbid": "92448de1-a543-406c-8d83-5d348982bda9",
+       "primer_lanzamiento": "1970-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hp-lovecraft-we-love-you-whoever-you-are",
+       "titulo": "We Love You: Whoever You Are",
+       "anio": 1975,
+       "mbid": "149f206b-ff3c-45f9-96fb-1e274ebef1ae",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "aphrodites-child",
+     "nombre": "Aphrodite’s Child",
+     "tipo": "Group",
+     "pais": "GR",
+     "inicio": "1968",
+     "fin": "1971",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Aphrodite%27s_Child",
+     "formaciones_mb": [
+      "Silver Koulouris (guitar, original; ?–act.)",
+      "Silver Koulouris (original, percussion; ?–act.)",
+      "Demis Roussos (original; ?–act.)",
+      "Λουκάς Σιδεράς (drums (drum set), original; ?–act.)",
+      "Vangelis (original; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "aphrodites-child-end-of-the-world",
+       "titulo": "End of the World",
+       "anio": 1968,
+       "mbid": "0a81b153-42ce-34ef-be1f-f3ae941039f3",
+       "primer_lanzamiento": "1968-11-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aphrodites-child-its-five-oclock",
+       "titulo": "It’s Five O’Clock",
+       "anio": 1969,
+       "mbid": "aebb0b97-f578-33e5-80c7-11fe65b3de41",
+       "primer_lanzamiento": "1969-11-27",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aphrodites-child-666",
+       "titulo": "666",
+       "anio": 1972,
+       "mbid": "9eb48d7e-2425-32d9-8d0b-54903d4a66be",
+       "primer_lanzamiento": "1972-06",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rar-beefheart",
+   "escena": "rarezas",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "captain-beefheart",
+     "nombre": "Captain Beefheart & His Magic Band",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1965-01-15",
+     "fin": "1982-12-17",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/The_Magic_Band",
+     "formaciones_mb": [
+      "Antennae Jimmy Semens (slide guitar; 1967–1970)",
+      "The Mascara Snake (bass clarinet; 1969–1969)",
+      "Eric Drew Feldman (miembro; 1976–1982)",
+      "Gary Lucas (miembro; 1980–1982)",
+      "Captain Beefheart (eponymous; ?–act.)",
+      "Jimmy Caravan (miembro; ?–act.)",
+      "Mark Gibbons (miembro; ?–act.)",
+      "Ty Grimes (miembro; ?–act.)",
+      "Elliot Ingber (miembro; ?–act.)",
+      "Ira Ingber (miembro; ?–act.)",
+      "Gene Pello (miembro; ?–act.)",
+      "Dean Smith (miembro; ?–act.)",
+      "Micheal Smotherman (miembro; ?–act.)",
+      "John \"J.T.\" Thomas (keyboard; ?–act.)",
+      "Art Tripp (drums (drum set); ?–act.)",
+      "Ry Cooder (miembro; ?–?)",
+      "Doug Moon (guitar; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "captain-beefheart-safe-as-milk",
+       "titulo": "Safe as Milk",
+       "anio": 1967,
+       "mbid": "7e71ad8b-6cbd-3cc0-8087-3ab222e91c20",
+       "primer_lanzamiento": "1967-08",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-strictly-personal",
+       "titulo": "Strictly Personal",
+       "anio": 1968,
+       "mbid": "707c1688-04c9-33ef-8c05-2821c56862cd",
+       "primer_lanzamiento": "1968-09-23",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-trout-mask-replica",
+       "titulo": "Trout Mask Replica",
+       "anio": 1969,
+       "mbid": "e6a580bd-5d29-3acd-a959-0bfab002ee6f",
+       "primer_lanzamiento": "1969-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-lick-my-decals-off-baby",
+       "titulo": "Lick My Decals Off, Baby",
+       "anio": 1970,
+       "mbid": "f1cdd101-a911-3a50-9f44-a06eee7b567c",
+       "primer_lanzamiento": "1970",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-mirror-man",
+       "titulo": "Mirror Man",
+       "anio": 1971,
+       "mbid": "cca3003d-06f2-3c3b-86cf-cd57c32833cd",
+       "primer_lanzamiento": "1971",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-clear-spot",
+       "titulo": "Clear Spot",
+       "anio": 1972,
+       "mbid": "39072a70-e98c-3906-8554-912d6f9e575d",
+       "primer_lanzamiento": "1972-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-unconditionally-guaranteed",
+       "titulo": "Unconditionally Guaranteed",
+       "anio": 1974,
+       "mbid": "4537cad3-12ad-3a18-b8f5-b6082d4d25a5",
+       "primer_lanzamiento": "1974-04",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-bluejeans-moonbeams",
+       "titulo": "Bluejeans & Moonbeams",
+       "anio": 1974,
+       "mbid": "3d133c4f-1cc2-3f75-9e49-228bb24e03fd",
+       "primer_lanzamiento": "1974-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-shiny-beast-bat-chain-puller",
+       "titulo": "Shiny Beast (Bat Chain Puller)",
+       "anio": 1978,
+       "mbid": "5887c600-15a7-3c40-9b8b-49aac410be6d",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-doc-at-the-radar-station",
+       "titulo": "Doc at the Radar Station",
+       "anio": 1980,
+       "mbid": "d7e00c52-d84e-3390-acb4-90ed8d94b8d8",
+       "primer_lanzamiento": "1980-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-ice-cream-for-crow",
+       "titulo": "Ice Cream for Crow",
+       "anio": 1982,
+       "mbid": "c3e1e3ef-c03a-3ef6-b67c-568481e02d48",
+       "primer_lanzamiento": "1982",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-son-of-dust-sucker",
+       "titulo": "Son of Dust Sucker",
+       "anio": 2012,
+       "mbid": "a3d5a15c-84af-4712-b041-005b31b8c11c",
+       "primer_lanzamiento": "2012-07-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-trout-mask-house-sessions-1969",
+       "titulo": "Trout Mask House Sessions 1969",
+       "anio": 2017,
+       "mbid": "d4bcaa85-3994-404a-9b1c-02a37f716220",
+       "primer_lanzamiento": "2017-05-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "captain-beefheart-trout-mask-replica-ant-2-man-bee-remixes",
+       "titulo": "Trout Mask Replica [Ant 2 Man Bee Remixes]",
+       "anio": 2022,
+       "mbid": "0e09cdff-2cc9-474e-8deb-1182568c8b52",
+       "primer_lanzamiento": "2022",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

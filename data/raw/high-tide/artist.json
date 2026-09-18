@@ -1,0 +1,290 @@
+{
+  "aliases": [],
+  "sort-name": "High Tide",
+  "type": "Group",
+  "end-area": null,
+  "begin-area": {
+    "disambiguation": "Greater London",
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London",
+    "type-id": null,
+    "sort-name": "London",
+    "type": null
+  },
+  "gender": null,
+  "country": "GB",
+  "name": "High Tide",
+  "ipis": [],
+  "disambiguation": "psychedelic rock band from England",
+  "isnis": [],
+  "relations": [
+    {
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c37b1611-1205-4b6d-801a-4d607fa60546",
+        "sort-name": "Hadden, Roger",
+        "type": "Person",
+        "disambiguation": "English drummer (also plays keyboards) and composer",
+        "country": null,
+        "name": "Roger Hadden"
+      },
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "type": "member of band",
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "artist": {
+        "name": "Tony Hill",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Hill, Tony",
+        "id": "922408a0-316d-4381-998c-74b39997db9a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "disambiguation": "English drummer who also played keyboards. 1946-1992",
+        "name": "Drachen Theaker",
+        "country": null,
+        "sort-name": "Theaker, Drachen",
+        "type": "Person",
+        "id": "efdf5dde-1984-4ddc-a73c-2bd55934ef6d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "type": "allmusic",
+      "ended": false,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "id": "a066b961-331d-4f13-814d-7e7b16513db1",
+        "resource": "https://www.allmusic.com/artist/mn0000822466"
+      }
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.discogs.com/artist/313904",
+        "id": "4b811a68-82a9-44d1-a678-7e2604e51b87"
+      },
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "type": "discogs",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://open.spotify.com/artist/2QgLUXAGeSQTunAemKwYkv",
+        "id": "5884f4e7-2a9d-49b1-832e-eef069fd2b93"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "free streaming"
+    },
+    {
+      "url": {
+        "resource": "https://www.deezer.com/artist/183119",
+        "id": "e90cec8e-2c3d-4eeb-9de2-f97728c34a14"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "type": "free streaming"
+    },
+    {
+      "type": "last.fm",
+      "ended": false,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "end": null,
+      "url": {
+        "id": "c6ff4313-e446-4b03-9cb7-3a5e2426ef6a",
+        "resource": "https://www.last.fm/music/High+Tide"
+      }
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "url": {
+        "id": "66aa9cd5-4132-4d0c-8cf2-6cd8b1e03ec6",
+        "resource": "https://rateyourmusic.com/artist/high_tide"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "id": "e7f0cd7e-acb5-4e9c-816e-6699475e7b68",
+        "resource": "https://www.songkick.com/artists/257290"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "songkick",
+      "ended": false,
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/16600884",
+        "id": "303d6f83-3da8-4862-8648-f9b0fc5c191d"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type": "streaming",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "VIAF",
+      "target-credit": "",
+      "ended": false,
+      "attribute-values": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "end": null,
+      "url": {
+        "id": "357ebc5a-cb37-4a7c-8e8d-fa9290ace76d",
+        "resource": "http://viaf.org/viaf/261590369"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "57aa5245-206d-403a-87cb-b051cfc64ed6",
+        "resource": "https://www.wikidata.org/wiki/Q943582"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "target-credit": "",
+      "type": "wikidata"
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "id": "d7e615f2-83bf-40af-8d4e-90aca0a74269",
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type-id": null,
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "United Kingdom"
+  },
+  "gender-id": null,
+  "life-span": {
+    "end": "1991",
+    "ended": true,
+    "begin": "1969"
+  }
+}

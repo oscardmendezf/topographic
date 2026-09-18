@@ -1,0 +1,502 @@
+{
+  "area": {
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "name": "United States",
+    "sort-name": "United States",
+    "type": null,
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "disambiguation": ""
+  },
+  "type": "Group",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [
+    {
+      "sort-name": "H. P. Lovecraft",
+      "begin": null,
+      "primary": null,
+      "end": null,
+      "ended": false,
+      "name": "H. P. Lovecraft",
+      "locale": null,
+      "type-id": null,
+      "type": null
+    },
+    {
+      "end": null,
+      "ended": false,
+      "name": "HP Lovecraft",
+      "primary": null,
+      "begin": null,
+      "sort-name": "HP Lovecraft",
+      "type": null,
+      "type-id": null,
+      "locale": null
+    }
+  ],
+  "disambiguation": "psychedelic band named after horror author",
+  "isnis": [],
+  "gender": null,
+  "begin-area": {
+    "disambiguation": "",
+    "type": null,
+    "type-id": null,
+    "sort-name": "Chicago",
+    "name": "Chicago",
+    "id": "29a709d8-0320-493e-8d0c-f2c386662b7f"
+  },
+  "relations": [
+    {
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "artist": {
+        "disambiguation": "guitarist, vocalist and composer",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Cavallari, Tony",
+        "country": null,
+        "name": "Tony Cavallari",
+        "id": "0f4d2713-c110-48c0-9be3-39ab3a2e7142"
+      },
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {},
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Kal David",
+        "id": "d5df32a7-1296-4096-b15a-3439370f11bc",
+        "sort-name": "David, Kal",
+        "country": "US"
+      },
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-type": "artist"
+    },
+    {
+      "end": null,
+      "ended": false,
+      "artist": {
+        "sort-name": "Edwards, George",
+        "country": "US",
+        "id": "907fb2f7-7e89-4407-8ac8-9eb37791fba9",
+        "name": "George Edwards",
+        "disambiguation": "member of H.P. Lovecraft",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {},
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "artist": {
+        "id": "dd6c1d0b-ad47-43bf-bf6b-8dc14a217c68",
+        "name": "Marty Grebb",
+        "sort-name": "Grebb, Marty",
+        "country": "US",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "ended": false,
+      "end": null
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Jerry McGeorge",
+        "id": "7f9aa4f5-de83-411f-8ada-5edf67e92cb0",
+        "country": "US",
+        "sort-name": "McGeorge, Jerry"
+      },
+      "ended": false,
+      "end": null
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "c4ca2068-fd73-469f-b014-1d5535f3900b",
+        "name": "Mike Tegza",
+        "country": null,
+        "sort-name": "Tegza, Mike"
+      },
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "direction": "backward",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "attribute-ids": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "jazz fusion guitarist/vocalist",
+        "name": "James Vincent",
+        "id": "e6798d44-5c69-41d2-840c-5eea7c6a2ede",
+        "sort-name": "Vincent, James",
+        "country": "US"
+      },
+      "end": null,
+      "ended": false
+    },
+    {
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "type": "allmusic",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-ids": {},
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "1adc36d4-ddfe-457b-9bbe-ac1a67f6211a",
+        "resource": "https://www.allmusic.com/artist/mn0000948429"
+      }
+    },
+    {
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "type": "discogs",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "id": "8dc7cd97-e623-4f4b-8ca4-08c4b105d933",
+        "resource": "https://www.discogs.com/artist/228858"
+      },
+      "target-type": "url",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "url": {
+        "resource": "https://open.spotify.com/artist/6VF7eMgoQIHyufTkib3Fff",
+        "id": "add2637d-50a5-433f-a647-6d88f84b40c8"
+      },
+      "attribute-values": {},
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "target-type": "url",
+      "url": {
+        "id": "cc272897-251f-44b8-9acb-4a8c68eed8ee",
+        "resource": "https://www.deezer.com/artist/113995632"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.last.fm/music/H.P.+Lovecraft",
+        "id": "4a16392c-c08e-4c2a-b9f7-e90c2dcd4844"
+      },
+      "target-type": "url",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "type": "last.fm",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "type": "lyrics",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://genius.com/artists/Hp-lovecraft-band",
+        "id": "aa710b78-151a-4651-a984-5e13edcb67e7"
+      },
+      "target-type": "url"
+    },
+    {
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/h_p__lovecraft",
+        "id": "e2a16ca2-9b86-4258-94f5-5bff980b06e5"
+      },
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/h-p-lovecraft-2/",
+        "id": "541b3448-c699-4f5b-980f-e272e06250ba"
+      },
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "77db7fb0-daf8-4098-afa5-c6a7b489fdc8",
+        "resource": "https://www.progarchives.com/artist.asp?id=2273"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "id": "4049c984-a61f-486c-b957-1bd75d9fbb81",
+        "resource": "https://music.apple.com/gb/artist/1468590398"
+      },
+      "target-type": "url",
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "id": "399fe3eb-caa3-4f6f-aa3b-240ba476428c",
+        "resource": "https://secondhandsongs.com/artist/10513"
+      },
+      "target-type": "url",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "type": "secondhandsongs",
+      "attribute-values": {},
+      "direction": "forward",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming",
+      "target-type": "url",
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCEyzciTZPDvSkYRi2H7eeWQ",
+        "id": "44a3302d-1dc1-4a77-8aa8-6549cc19196b"
+      },
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "type": "VIAF",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-type": "url",
+      "url": {
+        "resource": "http://viaf.org/viaf/151582978",
+        "id": "607eac71-3bb9-4846-9402-c59cb429f4b2"
+      },
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q371642",
+        "id": "f015049e-d8ab-4690-8371-09ed5232408d"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "attribute-values": {},
+      "type": "wikidata",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+    },
+    {
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCEyzciTZPDvSkYRi2H7eeWQ",
+        "id": "9e8f234d-b5c4-44e7-8f74-ff406accbfda"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-ids": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "type": "youtube",
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null
+    }
+  ],
+  "name": "H.P. Lovecraft",
+  "end-area": {
+    "id": "83f22bb6-4631-443c-bace-9fae8540362a",
+    "name": "San Francisco",
+    "sort-name": "San Francisco",
+    "type": null,
+    "type-id": null,
+    "disambiguation": ""
+  },
+  "sort-name": "H.P. Lovecraft",
+  "country": "US",
+  "gender-id": null,
+  "ipis": [],
+  "id": "3949bcae-4ee7-443d-80c9-534125d75c55",
+  "life-span": {
+    "begin": "1967",
+    "ended": true,
+    "end": "1969"
+  }
+}

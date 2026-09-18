@@ -1,0 +1,515 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "end-area": null,
+  "type": "Group",
+  "disambiguation": "",
+  "sort-name": "Silver Apples",
+  "id": "802d971d-5fb1-4ca1-8e56-69c64122d957",
+  "begin-area": {
+    "name": "New York",
+    "type-id": null,
+    "type": null,
+    "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+    "sort-name": "New York",
+    "disambiguation": ""
+  },
+  "relations": [
+    {
+      "end": "1970",
+      "attribute-values": {},
+      "begin": "1967",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Dan Taylor",
+        "type": "Person",
+        "id": "580bda1d-f6cf-4603-8006-d0ef5787c56f",
+        "sort-name": "Taylor, Dan",
+        "disambiguation": "drums",
+        "country": "US"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "source-credit": "",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "end": "1998",
+      "attribute-values": {},
+      "begin": "1996",
+      "target-credit": "",
+      "attributes": [],
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Xian Hawkins",
+        "sort-name": "Hawkins, Xian",
+        "id": "9416066a-43a2-4e70-8b61-b09947b6354a",
+        "disambiguation": "",
+        "country": "US"
+      },
+      "direction": "backward",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "ended": true,
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-credits": {},
+      "begin": "1996",
+      "end": "1998",
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "id": "e3168d24-e698-4f7a-83e2-6678c9a9a7b3",
+        "sort-name": "Lerner, Michael",
+        "country": "US",
+        "disambiguation": "member of The Antlers",
+        "name": "Michael Lerner",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ]
+    },
+    {
+      "target-credit": "",
+      "attribute-credits": {},
+      "begin": "1998",
+      "end": "2005-03-10",
+      "attribute-values": {},
+      "artist": {
+        "country": "US",
+        "disambiguation": "drums",
+        "id": "580bda1d-f6cf-4603-8006-d0ef5787c56f",
+        "sort-name": "Taylor, Dan",
+        "type": "Person",
+        "name": "Dan Taylor",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "ended": true,
+      "source-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "id": "f3d2472e-888c-41b0-8bee-748e4b3ba20a",
+        "sort-name": "Simeon",
+        "disambiguation": "member of Silver Apples",
+        "country": "US",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Simeon"
+      },
+      "target-type": "artist",
+      "attribute-ids": {},
+      "source-credit": "",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "type": "allmusic",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000755494",
+        "id": "28821adc-2122-46d8-8b8b-11e9b52d022b"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "id": "e69940f7-e3d5-408d-96ce-06268c2e4697",
+        "resource": "https://www.discogs.com/artist/15444"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "type": "discogs"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "type": "free streaming",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/6dP7OHshDvGHaNNSwunol4",
+        "id": "6896fc2d-a68f-45dd-b645-5293a6e73ad9"
+      },
+      "ended": false,
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "type": "free streaming",
+      "url": {
+        "resource": "https://www.deezer.com/artist/4921",
+        "id": "276a96ca-566d-4b6e-b755-cf2958d29092"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "type": "last.fm",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "c2a847b5-1823-43e2-8c67-e61eac94996d",
+        "resource": "https://www.last.fm/music/Silver+Apples"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://myspace.com/officialsilverapples",
+        "id": "c81fdeeb-7454-408c-9aa1-5583c5704693"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "type": "myspace"
+    },
+    {
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "type": "official homepage",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "05b4990a-53b9-435b-ae08-a67b1ff66937",
+        "resource": "http://www.silverapples.com/"
+      },
+      "source-credit": "",
+      "ended": true,
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n94075465",
+        "id": "82b45857-6f28-412a-b019-1121937f11ba"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/silver_apples",
+        "id": "778684ea-f3a4-4ec0-a298-02f0416e538e"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "id": "1b9f2a5d-9365-4c39-ba38-49139c5c3f44",
+        "resource": "https://www.worldcat.org/identities/lccn-n94075465/"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases"
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "resource": "https://music.apple.com/us/artist/25568",
+        "id": "d4add8ad-ee79-476e-9a89-7e03f523f58a"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/silver-apples/629933",
+        "id": "7bc95858-1f3a-4259-815d-d34d37732a00"
+      },
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/30231",
+        "id": "3df09409-298d-4dcb-a15b-3f4f155146ce"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "type": "secondhandsongs"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "type": "songkick",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "415de2d6-5669-47cb-9910-326fc8851b4b",
+        "resource": "https://www.songkick.com/artists/154600"
+      },
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "id": "d4add8ad-ee79-476e-9a89-7e03f523f58a",
+        "resource": "https://music.apple.com/us/artist/25568"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "e6949fcf-9b7e-4ad4-982e-427388558578",
+        "resource": "https://tidal.com/artist/34423"
+      },
+      "ended": false,
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "7bc95858-1f3a-4259-815d-d34d37732a00",
+        "resource": "https://www.qobuz.com/us-en/interpreter/silver-apples/629933"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming"
+    },
+    {
+      "url": {
+        "id": "b86f7ccf-0356-433b-8f5e-0863806910c4",
+        "resource": "http://viaf.org/viaf/167444416"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "type": "VIAF",
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "type": "wikidata",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q687866",
+        "id": "1d71527e-6823-4e96-aba2-c5f7760f1f8f"
+      }
+    }
+  ],
+  "isnis": [
+    "0000000114843584"
+  ],
+  "aliases": [],
+  "name": "Silver Apples",
+  "country": "US",
+  "ipis": [],
+  "area": {
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "disambiguation": "",
+    "sort-name": "United States",
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "type-id": null,
+    "name": "United States",
+    "type": null
+  },
+  "life-span": {
+    "ended": true,
+    "begin": "1967",
+    "end": "2020-09-08"
+  },
+  "gender": null,
+  "gender-id": null
+}

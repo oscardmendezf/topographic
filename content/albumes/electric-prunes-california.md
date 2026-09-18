@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "electric-prunes-california"
+titulo: "California"
+artista: "The Electric Prunes"
+artista_slug: "electric-prunes"
+anio_ficha: 2004
+era: "moderna"
+escena: "rarezas"
+mb_rgid: "c6371dce-9e2a-3607-afd4-69c526bc7d43"
+primer_lanzamiento: "2004-01"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Artesanía sin ambición."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Circuito de nostalgia."
+historia: "editorial"
+---
+
+Segunda entrega de la etapa reunida, con guitarra de Mark Moulin y un sonido más seco. Hay dos o tres canciones defendibles y una sensación general de grupo que ya sabe lo que hace y no busca más. Correcto y prescindible.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Tres años después del reencuentro, la etapa reunida entrega su segunda pieza y confirma que no era un episodio suelto. El título sitúa el disco donde corresponde: el grupo salió de los suburbios de Los Ángeles a mediados de los sesenta y aquí vuelve sobre ese origen sin nostalgia declarada, con canciones que hablan de su propio paisaje desde la distancia de cuatro décadas. La incorporación de Mark Moulin en guitarra es el cambio audible respecto del disco anterior, y con él llega un sonido más seco, con menos capas y más filo.
+
+El repertorio se mueve entre la canción breve y el desarrollo extendido. «Sideshow Charade» y «49 Songs» abren con el formato ajustado, tres minutos y medio de estructura clara; «Makin’ Some Noise» e «I’ll Drag You Home» son las piezas de pulso más directo, y «Rosy Made Me Crazy» aporta el tono desquiciado que el conjunto necesitaba. «Pacific Ocean Blue» y «Tidal Wave» trabajan la imaginería costera que el título anuncia. El tramo final se permite otra vez la extensión: «The Richenbacker 12 String» dedica casi siete minutos a una declaración de amor a un instrumento concreto, gesto de músicos veteranos que ya no le deben explicaciones a nadie, y «Cinema Verite’» estira el disco más allá de los siete minutos antes de un breve corte sin título que hace de cierre.
+
+## La producción
+
+Los créditos verificados no conservan nombre alguno de producción, ingeniería o estudio, y todo indica un trabajo autoproducido, con el grupo administrando su propio sonido. La decisión estética es clara y distinta de la del disco previo: menos pulido, menos separación, un registro más crudo donde la guitarra ocupa el frente y la mezcla no busca amabilidad. Es una elección coherente con lo que el repertorio pide.
+
+Conviene señalar lo que ya no está. De aquel laboratorio de 1967 donde el efecto de cinta era el argumento principal no queda nada; aquí no hay procedimiento de estudio que discutir, hay una banda tocando. Puede leerse como pérdida o como normalización, y probablemente sea las dos cosas. Lo que sí permanece es la voz de James Lowe, reconocible y sin retoque, y el fundamento del bajo de Mark Tulin, que sigue siendo el elemento que sostiene armónicamente al grupo igual que en la primera etapa.
+
+## Recepción y legado
+
+Circuló en el mismo circuito reducido que su antecesor y no aspiraba a más. Hay dos o tres canciones defendibles, una ejecución solvente y una sensación general de grupo que ya sabe lo que hace y no busca nada más allá de eso. Correcto y prescindible, que en una discografía tan castigada por decisiones ajenas no es un mal lugar donde terminar.
+
+Su interés está en el contraste con lo que vino antes. El nombre Electric Prunes pasó por ser una invención de estudio, una marca prestada para obras litúrgicas ajenas y una etiqueta sobre un disco grabado por desconocidos; en esta etapa final designa por fin a un grupo que escribe, toca y decide su propio material. El precio de esa autonomía fue la desaparición de lo que los había hecho memorables, y ese intercambio resume con exactitud su historia entera.

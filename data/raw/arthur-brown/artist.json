@@ -1,0 +1,616 @@
+{
+  "name": "The Crazy World of Arthur Brown",
+  "country": "GB",
+  "id": "d6f097c1-9866-4d40-9ed4-aabbf01c143e",
+  "area": {
+    "type": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "disambiguation": "",
+    "sort-name": "United Kingdom",
+    "type-id": null,
+    "name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "disambiguation": "",
+  "ipis": [],
+  "aliases": [
+    {
+      "sort-name": "Crazy World of Arther Brown",
+      "type": null,
+      "primary": null,
+      "type-id": null,
+      "begin": null,
+      "name": "Crazy World of Arther Brown",
+      "ended": false,
+      "end": null,
+      "locale": null
+    },
+    {
+      "sort-name": "Amazing World of Arthur Brown, The",
+      "type": null,
+      "type-id": null,
+      "primary": null,
+      "begin": null,
+      "name": "The Amazing World of Arthur Brown",
+      "locale": null,
+      "ended": false,
+      "end": null
+    },
+    {
+      "name": "The Crazy World Of Arthur Brown",
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "type": null,
+      "sort-name": "The Crazy World Of Arthur Brown",
+      "begin": null,
+      "primary": null,
+      "type-id": null
+    },
+    {
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "name": "The Crazy World of Artur Brown",
+      "primary": null,
+      "type-id": null,
+      "begin": null,
+      "sort-name": "The Crazy World of Artur Brown",
+      "type": null
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "name": "London",
+    "disambiguation": "Greater London",
+    "sort-name": "London",
+    "type": null,
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "type-id": null
+  },
+  "gender-id": null,
+  "gender": null,
+  "isnis": [
+    "000000010662869X"
+  ],
+  "life-span": {
+    "begin": "1967",
+    "ended": false,
+    "end": null
+  },
+  "type": "Group",
+  "relations": [
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null,
+      "target-credit": "",
+      "artist": {
+        "country": "GB",
+        "id": "5ba24696-7699-4a7c-a0a9-622fe83b1c53",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Peter Solley",
+        "disambiguation": "English pianist, songwriter and producer",
+        "sort-name": "Solley, Peter"
+      },
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "organ": "55a37f4f-39a4-45a7-851d-586569985519"
+      },
+      "ended": false,
+      "type": "instrumental supporting musician",
+      "attribute-values": {},
+      "attributes": [
+        "organ"
+      ],
+      "begin": null,
+      "direction": "backward"
+    },
+    {
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "type-id": "ed6a7891-ce70-4e08-9839-1f2f62270497",
+      "target-credit": "",
+      "artist": {
+        "id": "1b78cd18-d544-4cee-b5d4-324dfda3a3a3",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "disambiguation": "Drummer, Solo Artist, The Muel",
+        "sort-name": "Walker, Sam",
+        "name": "Sam Walker",
+        "type": "Person"
+      },
+      "ended": false,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": null,
+      "direction": "backward",
+      "type": "instrumental supporting musician",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-values": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "disambiguation": "US guitarist",
+        "sort-name": "Arrington, Carter",
+        "name": "Carter Arrington",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "987581a1-7dc6-4175-925c-b6e96bdc9a59",
+        "country": "US"
+      },
+      "target-credit": "",
+      "end": null,
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "2016",
+      "direction": "backward",
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-values": {},
+      "type": "member of band",
+      "ended": false,
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-credits": {}
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "type": "member of band",
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "backward",
+      "begin": null,
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7044c205-d2a3-4815-935d-186e636d9e56",
+        "country": null,
+        "disambiguation": "",
+        "name": "Tony Awin",
+        "sort-name": "Awin, Tony",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "type": "member of band",
+      "attributes": [],
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward",
+      "attribute-ids": {},
+      "ended": false,
+      "artist": {
+        "type": "Person",
+        "name": "Arthur Brown",
+        "disambiguation": "",
+        "sort-name": "Brown, Arthur",
+        "country": "GB",
+        "id": "8373c711-1043-42bd-bf7d-b17ab26de5c7",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "type": "member of band",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "direction": "backward",
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null,
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "sort-name": "Crane, Vincent",
+        "name": "Vincent Crane",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "1d5bd973-7a08-4274-a95c-c9ce83948687"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "type": "member of band",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "direction": "backward",
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null,
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3bd93b58-d3da-4c3c-a92f-823d8539942b",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Palmer, Carl",
+        "name": "Carl Palmer",
+        "type": "Person"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-ids": {},
+      "ended": true,
+      "type": "member of band",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "direction": "backward",
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null,
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "efdf5dde-1984-4ddc-a73c-2bd55934ef6d",
+        "country": null,
+        "sort-name": "Theaker, Drachen",
+        "disambiguation": "English drummer who also played keyboards. 1946-1992",
+        "name": "Drachen Theaker",
+        "type": "Person"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "type": "subgroup",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "direction": "backward",
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "artist": {
+        "country": "GB",
+        "id": "31628fd1-6d0e-4f02-b161-c06fde2ecee4",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "sort-name": "Rustic Hinge",
+        "disambiguation": "",
+        "name": "Rustic Hinge"
+      },
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null
+    },
+    {
+      "type": "allmusic",
+      "attribute-values": {},
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "id": "92a62a22-4628-451f-a185-2da29ae22926",
+        "resource": "https://www.allmusic.com/artist/mn0000134657"
+      }
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "type": "discogs",
+      "attribute-values": {},
+      "attributes": [],
+      "url": {
+        "resource": "https://www.discogs.com/artist/280200",
+        "id": "3c550075-9d5a-4be8-9ea4-2a41a967a8e3"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "type": "free streaming",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "resource": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H",
+        "id": "02cb0dc6-7954-43ad-9b3f-ca4adb1c6043"
+      },
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "url": {
+        "id": "0729c69d-638d-4741-b746-e490690640b1",
+        "resource": "https://www.deezer.com/artist/2346"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "type": "free streaming",
+      "attribute-values": {},
+      "attributes": [],
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "20eff7a9-8a66-444d-9ce4-42b6b4915846",
+        "resource": "http://muzikum.eu/en/122-7032/the-crazy-world-of-arthur-brown/lyrics.html"
+      },
+      "end": null,
+      "target-credit": "",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-ids": {},
+      "ended": false,
+      "type": "lyrics",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "type": "official homepage",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "id": "ea12c280-b503-4150-9d18-17326371e543",
+        "resource": "https://www.thegodofhellfire.com/"
+      },
+      "target-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15"
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no97053964",
+        "id": "6760c9a9-9246-420b-a1e0-0b03878488eb"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "id": "3e4abd68-76e7-48a1-8dc1-ea78f0c98321",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13902752s"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": ""
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/the_crazy_world_of_arthur_brown",
+        "id": "0781dbe4-0b89-4f23-997b-ca0ddf8fe895"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "other databases",
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "c6e8ff9d-e8c9-4137-ad1b-5f9f967f16a2",
+        "resource": "https://www.worldcat.org/identities/lccn-no97053964"
+      },
+      "end": null,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "other databases",
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "type": "purchase for download",
+      "attributes": [],
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "id": "80c1df28-abcc-41ba-9bb2-49478129d35d",
+        "resource": "https://open.qobuz.com/artist/980275"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "setlistfm",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/the-crazy-world-of-arthur-brown-33d6ac51.html",
+        "id": "a36cb1b9-1407-4762-b731-210e894f37cb"
+      },
+      "target-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "resource": "https://www.songkick.com/artists/333715",
+        "id": "b4628559-cb45-4046-bae2-145f5e53af6a"
+      },
+      "target-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "ended": false,
+      "type": "songkick",
+      "attributes": [],
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "resource": "https://open.qobuz.com/artist/980275",
+        "id": "80c1df28-abcc-41ba-9bb2-49478129d35d"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "streaming"
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "streaming",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://tidal.com/artist/3912552",
+        "id": "f979294f-9244-4e89-8d4e-4ab8f93b3fec"
+      },
+      "end": null,
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "http://viaf.org/viaf/133838947",
+        "id": "49c5c46b-a7e0-4d70-9f85-d2374a8b2734"
+      },
+      "end": null,
+      "target-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-ids": {},
+      "ended": false,
+      "type": "VIAF",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "url": {
+        "id": "6351d8ec-5203-4d98-9895-b0f68f0b2c6a",
+        "resource": "https://www.wikidata.org/wiki/Q377770"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "wikidata",
+      "ended": false,
+      "attribute-ids": {}
+    }
+  ],
+  "end-area": null,
+  "sort-name": "Brown, Arthur, Crazy World of, The"
+}

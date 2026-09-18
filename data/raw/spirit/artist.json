@@ -1,0 +1,591 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "begin": "1967",
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "Randy Wolfe",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1971",
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3ebc62a2-cb32-42b6-bc46-bf20ba39e0fe",
+        "type": "Person",
+        "sort-name": "California, Randy",
+        "disambiguation": "",
+        "name": "Randy California",
+        "country": "US"
+      },
+      "target-type": "artist"
+    },
+    {
+      "attribute-credits": {},
+      "begin": "1971",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1973",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Staehely, John",
+        "country": null,
+        "name": "John Staehely",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e14811af-2fc0-4f79-885c-7c8f7da23a0f"
+      },
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "country": null,
+        "name": "Barry Keene",
+        "disambiguation": "sound engineer and bass player",
+        "type": "Person",
+        "sort-name": "Keene, Barry",
+        "id": "0895a35c-9808-4c42-a8e8-8b2d8d93ef2f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": "1976",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "begin": "1975",
+      "source-credit": "",
+      "attributes": [
+        "bass"
+      ]
+    },
+    {
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "91470a46-d262-4dd8-919e-c0a978b9f02e",
+        "type": "Person",
+        "sort-name": "Andes, Mark",
+        "name": "Mark Andes",
+        "country": "US",
+        "disambiguation": ""
+      },
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-values": {},
+      "artist": {
+        "type": "Person",
+        "sort-name": "Cassidy, Ed",
+        "country": "US",
+        "name": "Ed Cassidy",
+        "disambiguation": "drummer in Spirit",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f727790e-00e3-4ea3-a0e6-6f0eee5506b1"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "artist": {
+        "disambiguation": "Californian rock & roll artist, member of Spirit & Jo Jo Gunne",
+        "country": "US",
+        "name": "Jay Ferguson",
+        "type": "Person",
+        "sort-name": "Ferguson, Jay",
+        "id": "f57c02dd-2772-4be4-a824-71aa1974df5f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "direction": "backward",
+      "artist": {
+        "id": "0110c685-9895-41e7-838e-2bb4f882d8d4",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "name": "John Locke",
+        "disambiguation": "American rock keyboardist",
+        "type": "Person",
+        "sort-name": "Locke, John"
+      },
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ed95a9f9-4be0-4c6d-9b1d-58a3df5ae285",
+        "type": "Person",
+        "sort-name": "Staehely, Al",
+        "disambiguation": "",
+        "country": "US",
+        "name": "Al Staehely"
+      },
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null
+    },
+    {
+      "url": {
+        "id": "f03d00d8-579c-432d-b179-551b346bbd4f",
+        "resource": "https://www.allmusic.com/artist/mn0000746010"
+      },
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "allmusic"
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "e09f44a8-606f-4a0b-926d-21e3fc86158a",
+        "resource": "https://www.bbc.co.uk/music/artists/ca5db97b-ba17-4e85-a876-46065e2052b3"
+      },
+      "end": "2020-11-19",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": true,
+      "type": "BBC Music page",
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "discography page",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "68c1ca90-5fcd-444f-8017-6cfa5141f290",
+        "resource": "http://www.bostream.nu/johanb/spirit/diska.htm"
+      },
+      "attribute-values": {},
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "end": null
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "discogs",
+      "url": {
+        "resource": "https://www.discogs.com/artist/270578",
+        "id": "4d6c8166-3661-4916-9ebd-72d7731d7f1b"
+      },
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "free streaming",
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "url": {
+        "id": "ffa5cb3d-09e0-4e20-8509-12e33420a4d4",
+        "resource": "https://open.spotify.com/artist/5q9nLsvWwbSUW1kRyhZLAx"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "free streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.deezer.com/artist/71378",
+        "id": "60be93c6-84f6-4b4b-9169-64082ce535a8"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://genius.com/artists/Spirit",
+        "id": "6c0351f2-e66b-4ece-9799-728606fcbc16"
+      },
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "type": "lyrics",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "url": {
+        "id": "95aeda96-28a0-4e11-b0c6-7586770e50ca",
+        "resource": "http://www.randycaliforniaandspirit.com/"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type": "official homepage",
+      "ended": false,
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139066603",
+        "id": "3d17d17e-3d16-4d54-9553-fc8ddedeb87f"
+      },
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "8b5eb4d6-85a6-40dc-9e69-1811966ee225",
+        "resource": "https://d-nb.info/gnd/5047777-8"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/spirit",
+        "id": "872d1fb9-ce61-4ecb-90bc-7c166b8a54c3"
+      },
+      "type": "other databases",
+      "ended": false,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "id": "ac1b1e88-999e-4a9c-9e2b-d5843a51cb12",
+        "resource": "https://music.apple.com/us/artist/489737"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "ended": false,
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/spirit/104889",
+        "id": "e4f6ede3-9548-4c2a-a0a1-09cc2b8b8cf6"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "songkick",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.songkick.com/artists/293636",
+        "id": "053ce697-c670-4679-80cf-cbc01776b55f"
+      },
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "end": null
+    },
+    {
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "streaming",
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "url": {
+        "id": "ac1b1e88-999e-4a9c-9e2b-d5843a51cb12",
+        "resource": "https://music.apple.com/us/artist/489737"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "type": "streaming",
+      "url": {
+        "resource": "https://tidal.com/artist/31962192",
+        "id": "32ac3abe-3328-4fe8-91e7-bf85f7cc6929"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type": "streaming",
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/spirit/104889",
+        "id": "e4f6ede3-9548-4c2a-a0a1-09cc2b8b8cf6"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "http://viaf.org/viaf/305855239",
+        "id": "3b55e319-a703-4293-a375-1b1568659c93"
+      },
+      "end": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-values": {},
+      "ended": false,
+      "target-credit": "",
+      "type": "VIAF",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": []
+    },
+    {
+      "url": {
+        "id": "8780bb3f-34e1-4d35-9bf0-5612279b6ecd",
+        "resource": "https://www.wikidata.org/wiki/Q1777553"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "type": "wikidata"
+    }
+  ],
+  "isnis": [
+    "000000012260038X"
+  ],
+  "gender-id": null,
+  "area": {
+    "sort-name": "United States",
+    "type": null,
+    "disambiguation": "",
+    "name": "United States",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "type-id": null,
+    "id": "489ce91b-6658-3307-9877-795b68554c98"
+  },
+  "id": "ca5db97b-ba17-4e85-a876-46065e2052b3",
+  "life-span": {
+    "ended": true,
+    "begin": "1967",
+    "end": "1997"
+  },
+  "aliases": [
+    {
+      "primary": null,
+      "type-id": null,
+      "end": null,
+      "locale": null,
+      "begin": null,
+      "type": null,
+      "sort-name": "Randy California and Spirit",
+      "ended": false,
+      "name": "Randy California and Spirit"
+    }
+  ],
+  "gender": null,
+  "begin-area": {
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+    "name": "Los Angeles",
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "Los Angeles",
+    "type-id": null
+  },
+  "end-area": null,
+  "type": "Group",
+  "sort-name": "Spirit",
+  "disambiguation": "psychedelic rock",
+  "ipis": [],
+  "name": "Spirit",
+  "country": "US"
+}

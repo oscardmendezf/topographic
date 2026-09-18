@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "procol-harum-exotic-birds-and-fruit"
+titulo: "Exotic Birds and Fruit"
+artista: "Procol Harum"
+artista_slug: "procol-harum"
+anio_ficha: 1974
+era: "clasica"
+escena: "rarezas"
+mb_rgid: "5c50e1f1-32c5-303a-a271-63b6cfcdce3e"
+primer_lanzamiento: "1974"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Correcto y prescindible; oficio sin descubrimiento."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Presencia menor incluso entre seguidores."
+historia: "editorial"
+---
+
+Más corto, más directo, sin orquesta: un disco de rock competente que casi nadie recuerda y que tampoco pide ser recordado. Tiene un par de canciones firmes y ninguna razón para volver dos veces.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del despliegue orquestal de Grand Hotel, el grupo hizo el movimiento inverso: nueve canciones, sin orquesta, sin pieza monumental de apertura, con la misma formación —Gary Brooker al piano y a la voz, Mick Grabham en guitarra, Chris Copping en órgano, Alan Cartwright en bajo, Barrie James Wilson en batería— tocando como banda y nada más. Es un disco corto, directo y sin coartadas, y esa honestidad es lo mejor y también lo único que tiene para ofrecer.
+
+El repertorio está bien escrito y rara vez levanta vuelo. «Nothing but the Truth» abre con la mejor idea del conjunto, un medio tiempo de piano y guitarra que resume lo que este Procol Harum sabía hacer sin esfuerzo; «As Strong as Samson» es la canción con más peso lírico, un texto de Keith Reid sobre el poder y la impotencia que resiste la relectura; «The Idol» es la pieza más larga y la única que intenta un desarrollo por secciones; «Butterfly Boys» reparte una pulla interna contra quienes editaban el disco, con un humor que no necesita explicación para funcionar. El resto —«Beyond the Pale» con su aire centroeuropeo, «Monsieur R. Monde», «Fresh Fruit», «New Lamps for Old»— son canciones firmes de un grupo que ya no busca demostrar nada.
+
+## La producción
+
+La ausencia de orquesta es la decisión que ordena el sonido. Todo el peso recae en el quinteto, con el piano recuperando su papel de motor rítmico y armónico, el órgano de Copping cumpliendo función de sostén más que de contracanto y Grabham dosificando la guitarra con el mismo criterio de integración que había mostrado en el disco anterior. Cartwright y Wilson trabajan compactos y sin lucimiento, y esa base cerrada le da al álbum una consistencia de banda de escenario que Grand Hotel no buscaba.
+
+La grabación es limpia y bastante convencional para 1974, sin efectos llamativos ni experimentos de estudio: tomas ajustadas, mezcla equilibrada, duraciones cortas. En «The Idol» aparece el único momento donde la producción intenta algo más —entradas y retiradas de instrumentos armando un arco dramático— y el resultado muestra que el oficio seguía ahí, disponible cuando el material lo pedía. La portada, una naturaleza muerta de pintura antigua con aves y frutas, es el gesto más ambicioso del paquete y contrasta con lo que suena adentro: nada en la música tiene esa densidad.
+
+## Recepción y legado
+
+Pasó sin escándalo y sin entusiasmo, y así quedó. Es un disco de rock competente que casi nadie recuerda y que tampoco pide ser recordado: tiene un par de canciones firmes, ninguna caída grave y ninguna razón para volver dos veces.
+
+Su lugar en la discografía es el de la meseta. El grupo que había dado permiso al progresivo para escribir suites y usar orquestas ya no estaba interesado en ninguna de las dos cosas, y lo que queda es una banda inglesa de oficio haciendo canciones bien terminadas mientras el género que ayudó a fundar vivía su momento de mayor visibilidad sin ella. El disco siguiente, con productores ajenos y una versión de repertorio prestado, confirmaría que la idea original se había agotado y que lo que seguía era administración.

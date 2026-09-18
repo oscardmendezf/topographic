@@ -1,0 +1,45 @@
+---
+tipo: "album"
+slug: "arthur-brown-long-long-road"
+titulo: "Long Long Road"
+artista: "The Crazy World of Arthur Brown"
+artista_slug: "arthur-brown"
+anio_ficha: 2022
+era: "moderna"
+escena: "rarezas"
+mb_rgid: "aa954fb1-8274-4c3f-ac24-3f6e5568465c"
+primer_lanzamiento: "2022-06-24"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Obra de madurez, bien recibida por la crítica especializada."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Público reducido y fiel."
+historia: "editorial"
+---
+
+Balance de una carrera entera hecho sin autocompasión: canciones despojadas, letras que miran hacia atrás y un cantante que a esta altura no necesita el casco para imponerse. Es su disco más humano y el que mejor envejecerá de los tardíos.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Long Long Road es el disco donde Brown deja de administrar un personaje y empieza a hacer cuentas. Publicado en 2022, con el cantante ya en una edad en la que casi nadie sigue grabando material nuevo, el álbum mira hacia atrás sobre una carrera entera y lo hace sin autocompasión, sin épica y sin el menor gesto de despedida solemne.
+
+El recorrido está planteado con claridad desde la secuencia. «Gas Tanks» abre en el terreno de los orígenes, la infancia y el lugar de procedencia, y «Coffin Confession», apenas un minuto y medio, plantea de frente el asunto que el disco no evita: la muerte, tratada como dato y no como drama. «Going Down» y «The Blues and Messing Round» recuperan la raíz de blues que siempre estuvo bajo el teatro infernal y que aquí aparece sin disfraz. «I Like Games» es el corte donde asoma el humor, «Shining Brightness» el más luminoso, y la canción que da título al disco funciona como balance explícito del camino recorrido.
+
+La arquitectura la sostienen las dos partes de «Once I had Illusions», colocadas cerca del comienzo y al final, que enmarcan el conjunto con la misma idea: lo que uno creyó y lo que quedó de eso. Es una estructura simple y eficaz, de las que no se notan hasta que el disco termina. Frente a los álbumes anteriores, aquí hay menos banda y más canción, y el cantante no necesita ninguna puesta en escena para imponerse.
+
+## La producción
+
+Los registros verificados no consignan productor, ingeniero, estudio ni personal para este álbum, de modo que no hay atribuciones posibles. El criterio de sonido, en cambio, es el más definido de todo su tramo tardío y funciona como una decisión, no como una limitación. Las canciones están despojadas: pocas capas, instrumentos que entran cuando hacen falta y se retiran, ausencia casi total del recubrimiento de teclados y percusión que había caracterizado los discos previos.
+
+La voz recibe un tratamiento acorde. Está registrada de cerca, con el grano y las asperezas de la edad audibles, sin la limpieza pulida que había suavizado el álbum de baladas quince años antes. Esa elección es la que hace funcionar el material: un disco de balance cantado con voz impecable habría sonado a ejercicio, y aquí suena a testimonio. Los cortes más breves se dejan casi desnudos y los dos tramos de «Once I had Illusions», los más largos, son los únicos que se permiten desarrollo instrumental.
+
+## Recepción y legado
+
+Sorprendió incluso a quienes venían siguiendo la buena racha iniciada años antes, y se instaló rápido como el mejor de los discos tardíos. La lectura general lo trata como el punto en que Brown consiguió lo que había perseguido desde el debut por otros medios: verdad emocional sin recurrir al artificio.
+
+Es también el álbum que mejor envejecerá de esta etapa, porque no depende de ninguna moda de producción ni de la comparación con el pasado. Su aporte al rock progresivo no está en la forma —no hay suite, no hay virtuosismo, no hay concepto narrativo— sino en algo que el género suele manejar mal: envejecer dentro de la obra en lugar de repetirla. Para un artista que había inventado la figura del cantante como personaje, terminar demostrando que podía prescindir por completo de él, y que el material aguantaba igual, es la conclusión más difícil de conseguir y la que aquí está conseguida.

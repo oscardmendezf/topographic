@@ -1,0 +1,39 @@
+---
+tipo: "album"
+slug: "high-tide-interesting-times"
+titulo: "Interesting Times"
+artista: "High Tide"
+artista_slug: "high-tide"
+anio_ficha: 1990
+era: "siguiente"
+escena: "rarezas"
+mb_rgid: "544d2bda-75e1-4dbf-8abc-c9a2d646c8c2"
+primer_lanzamiento: "1990-09"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Entrega rutinaria de un catálogo tardío saturado."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Sin alcance fuera del círculo de coleccionistas."
+historia: "editorial"
+---
+
+Cuarto título publicado en el mismo año: a esta altura High Tide funciona más como firma personal de Tony Hill que como grupo. Cumple y se olvida.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Interesting Times es el cuarto título publicado bajo el nombre de High Tide en un mismo año, 1990, y a esa altura el nombre ya no designa a un grupo sino a una firma personal de Tony Hill. La prueba está en el propio repertorio: «Ice Age», «Movie Madness» y «Rock Me On Your Wave» ya habían aparecido en Precious Cargo, y regresan aquí con duraciones distintas, unas más cortas y otras más largas. No es un disco recopilatorio ni se presenta como tal; es material que circula de una entrega a otra porque la producción va más rápida que la escritura.
+
+Lo interesante del álbum, y la razón por la que merece más que un despacho rápido, es la presencia documentada de Simon House al violín y a la voz junto a Hill. Es el reencuentro de los dos instrumentos que hicieron memorable el debut, veinte años después y en un contexto completamente distinto. El resultado no reproduce aquella fricción: el violín aparece tratado como color y como segunda voz melódica más que como arma, y las piezas —«Nightmare», «The Nexialist», «Survival», «Dream Beam», «The Reason Why», «Strike A Light»— se quedan casi todas en torno a los cuatro o cinco minutos, en formato de canción y sin espacio para la acumulación que el método original necesitaba. Cumple y se olvida, que es exactamente lo que el disco se propone.
+
+## La producción
+
+Los créditos documentados son escuetos y valen sobre todo por lo que revelan de la formación: Tony Hill a la guitarra y la voz, Simon House al violín y también a la voz. No constan productor, ingeniero ni estudio, y no se suplen con suposiciones. El acabado es el de la tanda entera, con recursos cortos y un pulso rítmico rígido, pero la instrumentación cambia el equilibrio: cuando el violín entra, la mezcla le hace sitio y la guitarra retrocede, en lugar de disputarle el mismo plano como ocurría en 1969. Las nuevas versiones de los temas ya publicados están rearregladas más que regrabadas, con tempos y desarrollos alterados, lo que confirma que no se trataba de rellenar sino de seguir moviendo el mismo material.
+
+## Recepción y legado
+
+No tuvo recepción digna de mención y hoy circula como pieza de coleccionista, buscada casi únicamente por la firma de House. Ese detalle es su único argumento real: es el título tardío donde vuelven a coincidir los dos músicos que definieron el sonido de la banda, y sirve para comprobar, sin nostalgia, que el reencuentro no bastaba. El peso de High Tide sigue estando donde siempre estuvo, en su primer disco, y nada de lo que hay aquí lo discute. Como escucha es correcta y prescindible; como dato de la historia del grupo, tiene más valor del que su música sostiene.

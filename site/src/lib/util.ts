@@ -14,7 +14,7 @@ export const COLORES: Record<string, string> = {
   sh: '#4FA3A5',
   // escenas F3 y Américas (un color por escena)
   canterbury: '#A3A86B', italia: '#D1705B', alemania: '#7FA8C9',
-  eeuu: '#C79B3B', latinoamerica: '#B85FA0',
+  eeuu: '#C79B3B', latinoamerica: '#B85FA0', rarezas: '#C8D44E',
 };
 
 export const ESCENAS: Record<string, string> = {
@@ -23,6 +23,7 @@ export const ESCENAS: Record<string, string> = {
   alemania: 'Alemania',
   eeuu: 'Prog estadounidense',
   latinoamerica: 'Prog latinoamericano',
+  rarezas: 'Rarezas psicodélicas',
 };
 
 // Color por tipo de arista (apagados, para fondo oscuro). También son la leyenda.

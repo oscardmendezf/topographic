@@ -1,0 +1,1119 @@
+{
+  "name": "Traffic",
+  "country": "GB",
+  "ipis": [],
+  "life-span": {
+    "end": "1994",
+    "begin": "1967-04",
+    "ended": true
+  },
+  "area": {
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type": null,
+    "name": "United Kingdom",
+    "type-id": null,
+    "disambiguation": "",
+    "sort-name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "gender": null,
+  "gender-id": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "end-area": null,
+  "type": "Group",
+  "disambiguation": "English rock band",
+  "id": "9fadfba9-ecae-4383-a4d8-47b043cea19a",
+  "sort-name": "Traffic",
+  "begin-area": {
+    "type": null,
+    "name": "Birmingham",
+    "type-id": null,
+    "iso-3166-2-codes": [
+      "GB-BIR"
+    ],
+    "disambiguation": "",
+    "sort-name": "Birmingham",
+    "id": "226c4dca-ef2a-4d4b-ba25-4118d116557a"
+  },
+  "relations": [
+    {
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "sort-name": "Baah, Rebop Kwaku",
+        "id": "7d003695-15bc-43f5-b5f2-c06829c9b8c5",
+        "country": "GH",
+        "disambiguation": "",
+        "type": "Person",
+        "name": "Rebop Kwaku Baah",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-values": {},
+      "end": "1973",
+      "begin": "1971",
+      "target-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": true,
+      "source-credit": ""
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Ric Grech",
+        "sort-name": "Grech, Ric",
+        "id": "3b9a2ea7-1f31-4fc3-8fb4-ca6027e34193",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "direction": "backward",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": "1971"
+    },
+    {
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Barry Beckett",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "US",
+        "sort-name": "Beckett, Barry",
+        "id": "34704fc5-1c90-47d6-8b42-ef52b4c0298a"
+      },
+      "direction": "backward",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "ended": false,
+      "source-credit": "",
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "direction": "backward",
+      "artist": {
+        "id": "277346a8-e246-48ec-a162-99cda6d350e6",
+        "sort-name": "Capaldi, Jim",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jim Capaldi",
+        "type": "Person"
+      },
+      "attributes": [
+        "original"
+      ],
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "direction": "backward",
+      "artist": {
+        "name": "Rosko Gee",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": null,
+        "disambiguation": "",
+        "id": "2b717240-b391-4fd9-805d-0597a346dda3",
+        "sort-name": "Gee, Rosko"
+      },
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "direction": "backward",
+      "artist": {
+        "country": "US",
+        "disambiguation": "US drummer with Derek and the Dominos",
+        "sort-name": "Gordon, Jim",
+        "id": "f5ee63be-2ffa-479e-afb9-a89201c3b1f0",
+        "type": "Person",
+        "name": "Jim Gordon",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "name": "Roger Hawkins",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "disambiguation": "drummer and producer",
+        "id": "dc5d1d43-4275-43b5-b32d-e0f8702cceb4",
+        "sort-name": "Hawkins, Roger"
+      },
+      "target-type": "artist",
+      "attribute-ids": {},
+      "ended": false,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {},
+      "source-credit": "",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "artist": {
+        "country": "US",
+        "disambiguation": "Muscle Shoals, AL guitarist and trombonist",
+        "sort-name": "Hood, David",
+        "id": "db28c0c1-bed3-4d85-b88f-e5952fd17b36",
+        "name": "David Hood",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "direction": "backward"
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "artist": {
+        "disambiguation": "co‐founder of Traffic",
+        "country": "GB",
+        "id": "d70c2ae1-911a-4bea-8ef4-63564a150ff2",
+        "sort-name": "Mason, Dave",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Dave Mason"
+      },
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ],
+      "source-credit": "",
+      "ended": false,
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "sort-name": "Winwood, Steve",
+        "id": "885f90ef-6bd9-409a-b2df-e165e553c68e",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Steve Winwood",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "attributes": [
+        "original"
+      ],
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "attributes": [
+        "original"
+      ],
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Chris Wood",
+        "id": "71036784-d80b-41ab-bce9-b87a75ddd729",
+        "sort-name": "Wood, Chris",
+        "country": "GB",
+        "disambiguation": "rock musician, member of Traffic"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000012472",
+        "id": "6ddcf8b0-3fc2-40c1-a70a-4bf33be90aa6"
+      },
+      "type": "allmusic",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "ended": true,
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/9fadfba9-ecae-4383-a4d8-47b043cea19a",
+        "id": "b6f3404b-1a9a-4e7a-a36f-2337fbcf7c2d"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "BBC Music page",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "target-credit": "",
+      "begin": null,
+      "end": "2020-11-19",
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "45310b9a-d853-49d4-89a8-a6f2e2e6bcf4",
+        "resource": "http://www.brumbeat.net/traffic.htm"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "type": "biography",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "id": "e3e4256f-2b52-4ba2-af14-8037854e6aae",
+        "resource": "https://www.discogs.com/artist/64748"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "type": "discogs"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "id": "513ee878-f9e9-4bb4-9cf5-b984842f7e6f",
+        "resource": "https://web.archive.org/web/19990117000259/http://www.azstarnet.com/~bobbieg/winwood.htm"
+      },
+      "type": "fanpage",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24"
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "type": "free streaming",
+      "url": {
+        "id": "7fefad0b-5b3b-4a0f-b516-d954cfb64d99",
+        "resource": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.deezer.com/artist/6126",
+        "id": "e50803e3-e230-4a41-8e15-46da70d8129b"
+      },
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "type": "image",
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "a787d9ac-d796-4121-bc6a-c9c649d9299c",
+        "resource": "https://commons.wikimedia.org/wiki/File:Traffic_1973.jpg"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "type": "IMDb",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "b4743d31-1a62-45d6-8ea1-8e8991c3965b",
+        "resource": "https://www.imdb.com/name/nm0870605/"
+      },
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.last.fm/music/Traffic",
+        "id": "13c83ded-7aa7-40d4-8c54-dc3ab2d9a504"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "last.fm",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "http://muzikum.eu/en/122-13939/traffic/lyrics.html",
+        "id": "272aba7a-529f-4524-92ef-69f492cb85cc"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "lyrics",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "type": "lyrics",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "e2a14f8e-baa8-4f83-bd3b-26503e075dd7",
+        "resource": "https://genius.com/artists/Traffic-uk"
+      },
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "type": "lyrics",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.musixmatch.com/artist/Traffic",
+        "id": "93a963f4-ff60-4592-a670-54a8f5597f89"
+      },
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "62eb3440-51f3-4d6b-8b77-2323b9be4412",
+        "resource": "http://id.loc.gov/authorities/names/nr89011446"
+      },
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "0c6afdd9-90ff-4959-837b-2ef6db5ea867",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13907123r"
+      }
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://d-nb.info/gnd/5508142-3",
+        "id": "f149954d-4470-4506-b96b-e1c4ed4eefe0"
+      },
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "url": {
+        "resource": "https://musicmoz.org/Bands_and_Artists/T/Traffic/",
+        "id": "fd621bb7-7124-4046-a918-b3a5f36f795b"
+      },
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://nla.gov.au/nla.party-1102408",
+        "id": "4a86ff04-c046-427c-9d95-23d1aad96b8b"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/traffic",
+        "id": "63e88b70-7f24-4c78-a466-54878d4677d0"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.45cat.com/artist/traffic",
+        "id": "bd7a6004-83ef-4592-b3be-692214edd138"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/traffic/",
+        "id": "5c4ec2e3-3bdc-493a-9ebe-1af18d3bc518"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=1490",
+        "id": "45bf8375-dacc-464d-85bf-29fb61c1722c"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "id": "10ab1bbd-e590-46b9-88c8-6e96d227f69e",
+        "resource": "https://www.spirit-of-rock.com/en/band/Traffic"
+      },
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "url": {
+        "id": "dff054c9-6762-4673-94e0-600b90380567",
+        "resource": "https://www.whosampled.com/Traffic/"
+      },
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "e71a0009-df9a-4438-9850-b71af794f1e4",
+        "resource": "https://www.worldcat.org/identities/lccn-nr89011446"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases"
+    },
+    {
+      "end": "2020-10-12",
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://play.google.com/store/music/artist?id=A6xgx4oi2tlox2zaatdkr2pstaa",
+        "id": "638ad081-e48f-487c-8c07-1e3a00f2614a"
+      },
+      "source-credit": "",
+      "ended": true,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://itunes.apple.com/gb/artist/id263699",
+        "id": "863a23cf-d26a-4145-a829-c971985d384a"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://itunes.apple.com/us/artist/id263699",
+        "id": "4df251c3-e8ff-45dc-84ed-e5a1d9f0db8a"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://uk.7digital.com/artist/traffic",
+        "id": "a72cf8af-09ca-4bb1-aafc-dca6f43c112c"
+      },
+      "ended": false,
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/traffic/71938",
+        "id": "78f0fd62-9805-409d-9b9a-02dde49dce58"
+      },
+      "ended": false,
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "1ee776c7-5f39-4a5f-a536-a4a925136c19",
+        "resource": "https://www.amazon.com/-/e/B000APYJMK"
+      },
+      "type": "purchase for mail-order",
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/1254",
+        "id": "0f390dee-f379-4ba0-b013-4a97e668cc78"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "secondhandsongs",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/traffic-13d6ada9.html",
+        "id": "b167dd44-415f-4c22-9381-ed3e914eb2b9"
+      },
+      "type": "setlistfm",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://twitter.com/trafficee",
+        "id": "2632573b-673c-491a-b4d6-77a068eab417"
+      }
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.facebook.com/Traffic-351076751693946",
+        "id": "dad88d73-a89c-4af7-810d-a01190834b61"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "target-credit": "",
+      "type": "songkick",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "a43b7ee3-a9da-43bc-9160-6997d77bb49e",
+        "resource": "https://www.songkick.com/artists/211165"
+      }
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "f38903f2-0aad-4847-94de-a57e72414d2c",
+        "resource": "https://soundcloud.com/traffic-official"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "soundcloud",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/263699",
+        "id": "8522754a-c00d-4182-8682-a93f33f06f30"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/us/artist/263699",
+        "id": "923500d9-e1db-4933-b930-5d143f8fe042"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "0220d35a-6f9a-4a2c-b821-0005b1e4efef",
+        "resource": "https://tidal.com/artist/23455"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "target-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "78f0fd62-9805-409d-9b9a-02dde49dce58",
+        "resource": "https://www.qobuz.com/us-en/interpreter/traffic/71938"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "type": "VIAF",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "bb750815-b787-4cd8-8099-857a11ee9dae",
+        "resource": "http://viaf.org/viaf/152872944"
+      },
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "type": "wikidata",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "id": "d769555c-d603-4bd6-9f4e-cde857d9a846",
+        "resource": "https://www.wikidata.org/wiki/Q1048439"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "target-credit": "",
+      "begin": null,
+      "type": "youtube",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.youtube.com/channel/UC9-TmT1ycGeX1hZ3dUQfy9Q",
+        "id": "ba3f038d-b05e-4d92-93cd-93cfca1485f4"
+      }
+    }
+  ],
+  "isnis": [
+    "0000000115443179"
+  ],
+  "aliases": [
+    {
+      "ended": false,
+      "begin": null,
+      "primary": null,
+      "locale": null,
+      "end": null,
+      "sort-name": "Stevie Winwood's Traffic",
+      "type-id": null,
+      "name": "Stevie Winwood's Traffic",
+      "type": null
+    }
+  ]
+}

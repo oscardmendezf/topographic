@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "spirit-clear"
+titulo: "Clear"
+artista: "Spirit"
+artista_slug: "spirit"
+anio_ficha: 1969
+era: "clasica"
+escena: "rarezas"
+mb_rgid: "b5599d6f-c242-3f78-af20-60725d3b0f49"
+primer_lanzamiento: "1969"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Valorado por los pasajes instrumentales más que por el conjunto."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Circulación discreta incluso entre sus seguidores."
+historia: "editorial"
+---
+
+Nacido en parte de un encargo para cine, Clear empuja a Spirit hacia el jazz-rock instrumental y deja las canciones en segundo plano. Funciona como laboratorio —Locke y Cassidy nunca estuvieron más sueltos— y falla como álbum, porque los materiales no terminan de conversar entre sí. Un disco de transición al que se le nota el andamio.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Clear nace de un encargo. A Spirit le pidieron música para una película y el grupo entregó, entre otras cosas, piezas pensadas para acompañar imágenes: eso condiciona el disco entero, porque a las canciones que sí existían se les sumó un material concebido sin voz, sin estribillo y sin la obligación de ir a ninguna parte. El resultado es un álbum que avanza en la dirección que Ed Cassidy y John Locke venían empujando desde el principio —el jazz como gramática, no como adorno— y que deja a Jay Ferguson con menos espacio del que había ganado en el disco anterior.
+
+El reparto interno se ve en el orden de las piezas. «Dark Eyed Woman» arranca con un riff de rock duro que engaña sobre lo que viene; «Apple Orchard» y «Cold Wind» son canciones propiamente dichas, con la voz de Ferguson al frente; «Ground Dog» y «Ice» empujan hacia el jazz-rock instrumental, con Locke soltando líneas modales sobre un pulso que Cassidy mantiene flexible; «Policeman's Ball» dura poco más de dos minutos y funciona como boceto. La pieza que da título al disco es de las más logradas: un desarrollo instrumental de tempo medio donde Randy California toca con contención y deja que el teclado lleve la melodía. «New Dope in Town» cierra con la banda estirando un vamp. El problema no es el nivel de ejecución, que es alto, sino que estos materiales no conversan entre sí: se alternan.
+
+## La producción
+
+Tercer álbum con Lou Adler para Ode y el que más se aparta de su método. Aquí no hay arreglo orquestal que dé unidad, ni una decisión de montaje que ordene lo disperso; lo que hay es la banda grabada tocando, con las tomas instrumentales conservadas casi como salieron. No constan datos verificados de ingeniero, estudio ni fechas de sesión, y buena parte del material procede de trabajo hecho para otro destino, lo que explica que el disco suene a colección de sesiones y no a proyecto.
+
+Esa naturaleza se oye en la mezcla. El piano eléctrico y el órgano de Locke ocupan más ancho que en cualquier otro disco del grupo; el bajo de Mark Andes tiene un registro redondo y jazzístico; la batería está grabada de cerca, con las escobillas y los aros audibles, y California alterna guitarra limpia con un tono saturado más áspero que el de los álbumes previos. La reverberación es escasa y el conjunto suena cercano, casi de sala de ensayo. Es un sonido honesto, que no disimula el andamio.
+
+## Recepción y legado
+
+Desconcertó entonces y sigue desconcertando, aunque por motivos distintos. Al público que había llegado por la radio le sobraba instrumental; a quien buscaba jazz-rock le faltaba continuidad. Hoy se valora como el laboratorio donde Spirit probó hasta dónde podía llevar su costado instrumental sin la red de la canción, y donde Locke y Cassidy tocaron más sueltos que en ningún otro disco del catálogo.
+
+Su lugar es el de eslabón necesario: sin las texturas y los montajes ensayados aquí, el álbum siguiente no habría sido posible. Se rescatan «Ice», «Clear» y «Dark Eyed Woman»; se descarta, sin culpa, el relleno funcional que arrastra del encargo. Es un disco al que se le nota el origen, y esa es a la vez su limitación y su interés documental.

@@ -1,0 +1,351 @@
+{
+  "type": "Group",
+  "end-area": null,
+  "relations": [
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "member of band",
+      "direction": "backward",
+      "begin": null,
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "1c4a09a5-2cf0-4574-ad4f-fd420a653e72",
+        "type": "Person",
+        "sort-name": "Moskowitz, Dorothy",
+        "disambiguation": "",
+        "name": "Dorothy Moskowitz"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null,
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "2bf29c0f-faf0-4a58-b80c-0deaaf092ef5",
+        "country": null,
+        "sort-name": "Simon, Carmi",
+        "disambiguation": "",
+        "name": "Carmi Simon",
+        "type": "Person"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "ended": false,
+      "attribute-values": {},
+      "attributes": [
+        "bass"
+      ],
+      "type": "member of band",
+      "begin": null,
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "begin": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "member of band",
+      "ended": true,
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "arranger, writer, conductor",
+        "name": "Joseph Byrd",
+        "sort-name": "Byrd, Joseph",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5911473b-72bc-4f02-88ae-f8651cf63b49",
+        "country": "US"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "end": null,
+      "target-type": "artist",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "89000281-e34d-4296-92ae-71fd0ec58fc7",
+        "type": "Person",
+        "name": "Rand Forbes",
+        "disambiguation": "",
+        "sort-name": "Forbes, Rand"
+      },
+      "target-credit": "",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": null,
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "attributes": [
+        "original"
+      ]
+    },
+    {
+      "end": null,
+      "target-type": "artist",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "country": null,
+        "id": "50852095-0108-4861-9ffc-065df0f3bd08",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Craig Woodson",
+        "disambiguation": "",
+        "sort-name": "Woodson, Craig"
+      },
+      "target-credit": "",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": null,
+      "direction": "backward",
+      "type": "member of band",
+      "attributes": [
+        "original"
+      ],
+      "attribute-values": {}
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "type": "discogs",
+      "attribute-values": {},
+      "attributes": [],
+      "end": null,
+      "url": {
+        "id": "8ad7f26e-ae92-4b01-a9df-b1a778b775a5",
+        "resource": "https://www.discogs.com/artist/142030"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "type": "free streaming",
+      "attributes": [],
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward",
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "resource": "https://open.spotify.com/artist/5pq14S4AFVXGSyYbIGJC6Q",
+        "id": "68d54854-5598-4f26-912b-4c56f0668cac"
+      },
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "free streaming",
+      "end": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/1399755",
+        "id": "29687c8b-a1af-45a8-a25a-90b2f9fb6cca"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "attribute-values": {},
+      "type": "other databases",
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/the-united-states-of-america",
+        "id": "35b8fdae-519b-44ca-8ed1-65401c694c48"
+      },
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "attributes": [],
+      "type": "purchase for download",
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "resource": "https://music.apple.com/de/artist/289013086",
+        "id": "320a6fe4-d799-40d4-a0c1-945cab0fb6c4"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-united-states-of-america/739039",
+        "id": "1985dea4-454f-49f8-afff-0b82a7775acc"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "type": "purchase for download",
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "url": {
+        "resource": "https://music.apple.com/de/artist/289013086",
+        "id": "320a6fe4-d799-40d4-a0c1-945cab0fb6c4"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "type": "streaming",
+      "attributes": [],
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "type": "streaming",
+      "attribute-values": {},
+      "attributes": [],
+      "ended": false,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "end": null,
+      "url": {
+        "id": "48f5b6ef-6939-483f-8dfc-8a52591bd211",
+        "resource": "https://tidal.com/artist/3837416"
+      },
+      "source-credit": "",
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "type": "streaming",
+      "attributes": [],
+      "attribute-values": {},
+      "ended": false,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "end": null,
+      "url": {
+        "id": "1985dea4-454f-49f8-afff-0b82a7775acc",
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-united-states-of-america/739039"
+      },
+      "source-credit": "",
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q166433",
+        "id": "6cff22c4-4c49-42c9-b9de-be783c776309"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "wikidata"
+    }
+  ],
+  "sort-name": "United States of America, The",
+  "gender-id": null,
+  "gender": null,
+  "isnis": [
+    "0000000470771679"
+  ],
+  "life-span": {
+    "end": "1969",
+    "ended": true,
+    "begin": "1967"
+  },
+  "area": {
+    "name": "United States",
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "type": null,
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "sort-name": "United States",
+    "disambiguation": "",
+    "type-id": null
+  },
+  "ipis": [],
+  "disambiguation": "American psychedelic rock band",
+  "aliases": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "sort-name": "Los Angeles",
+    "name": "Los Angeles"
+  },
+  "name": "The United States of America",
+  "country": "US",
+  "id": "e7fbc24b-744b-4ad3-96bb-685f78d9ef09"
+}

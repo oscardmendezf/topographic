@@ -1,0 +1,446 @@
+{
+  "relations": [
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "target-type": "artist",
+      "artist": {
+        "id": "40c4e484-c177-4f6c-9e27-f33a6c65aa47",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Brian Davison",
+        "country": "GB",
+        "type": "Person",
+        "sort-name": "Davison, Brian"
+      },
+      "direction": "backward",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "direction": "backward",
+      "artist": {
+        "country": "GB",
+        "name": "Keith Emerson",
+        "disambiguation": "",
+        "sort-name": "Emerson, Keith",
+        "type": "Person",
+        "id": "e1350b4d-286e-40f1-894f-8c88a03351fe",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "target-type": "artist",
+      "artist": {
+        "disambiguation": "bass The Nice/Jackson Heights/Refugee",
+        "name": "Lee Jackson",
+        "country": "GB",
+        "type": "Person",
+        "sort-name": "Jackson, Lee",
+        "id": "6a0d6cdb-56fa-4610-8eaa-d48655e350ef",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-values": {},
+      "type": "member of band",
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-values": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5e2ca7c1-8378-474d-8898-6da7d0508d92",
+        "type": "Person",
+        "sort-name": "O’List, David",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "David O’List"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "allmusic",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000481061",
+        "id": "f46975c3-6027-44ae-b1b5-c58c58a88f40"
+      },
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "end": "2020-11-19",
+      "url": {
+        "id": "3a1a2e02-a807-455d-bce2-cba9e6164284",
+        "resource": "https://www.bbc.co.uk/music/artists/db301158-fdfd-49f6-be50-4909dbbc1e53"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "BBC Music page",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "6cf3e15e-7d8d-472a-9d85-b429ee17ffa2",
+        "resource": "http://www.progarchives.com/artist.asp?id=264"
+      },
+      "end": null,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "type": "discography page",
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "discogs",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "a63ee494-0f5f-4283-b4d9-3f1f51401904",
+        "resource": "https://www.discogs.com/artist/259812"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.deezer.com/artist/93219",
+        "id": "f99bf8af-b84a-4d57-8f46-2da9c4d391cd"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "target-credit": "",
+      "type": "free streaming",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "id": "a6d53669-d682-4df2-9d17-c343e054e4f3",
+        "resource": "https://www.last.fm/music/The+Nice"
+      },
+      "type": "last.fm",
+      "ended": false,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "resource": "http://muzikum.eu/en/122-7190/the-nice/lyrics.html",
+        "id": "94ed0800-878e-4011-b7df-7b510be48484"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "lyrics",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "other databases",
+      "url": {
+        "resource": "https://d-nb.info/gnd/10278613-6",
+        "id": "576e7be0-2dc3-4ebb-ab21-924f332a514e"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "url": {
+        "id": "f3ab1591-1857-425c-a93a-70b7f6a803e6",
+        "resource": "https://rateyourmusic.com/artist/the_nice"
+      },
+      "type": "other databases",
+      "ended": false,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "c9a7f799-7aa3-47cf-9345-24af0013101b",
+        "resource": "https://www.45cat.com/artist/the-nice"
+      },
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null
+    },
+    {
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.45cat.com/cdalbum/artist/the-nice",
+        "id": "0e9190cf-ce30-4d5a-ba79-cf7913019d70"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.45cat.com/live/artist/the-nice",
+        "id": "c39cd0f5-92fa-4e09-98b3-bfc695a6fbd3"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "ended": false,
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "url": {
+        "id": "cfa10ea1-edde-4ed6-9d87-dd8e97b031ec",
+        "resource": "https://www.45cat.com/vinyl/artist/the-nice"
+      },
+      "type": "other databases",
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "type": "songkick",
+      "url": {
+        "id": "476b4f46-5106-4778-a46f-82b5c21387a7",
+        "resource": "https://www.songkick.com/artists/530402"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "type": "VIAF",
+      "url": {
+        "resource": "http://viaf.org/viaf/134131253",
+        "id": "e8d7684e-69f7-4414-bce0-69d6d9ea34e2"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "wikidata",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q900864",
+        "id": "c4e8618a-6336-406a-bdb2-7b7faca16b6d"
+      },
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url"
+    }
+  ],
+  "isnis": [
+    "000000009165152X"
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "area": {
+    "type": null,
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "type-id": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "id": "db301158-fdfd-49f6-be50-4909dbbc1e53",
+  "life-span": {
+    "end": "1970",
+    "begin": "1967",
+    "ended": true
+  },
+  "aliases": [
+    {
+      "end": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "primary": null,
+      "locale": null,
+      "begin": null,
+      "sort-name": "Keith Emerson and the Nice",
+      "type": "Search hint",
+      "ended": false,
+      "name": "Keith Emerson and the Nice"
+    },
+    {
+      "name": "Nice",
+      "ended": false,
+      "type": "Search hint",
+      "sort-name": "Nice",
+      "begin": null,
+      "locale": null,
+      "end": null,
+      "primary": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e"
+    }
+  ],
+  "end-area": null,
+  "sort-name": "Nice, The",
+  "type": "Group",
+  "gender": null,
+  "begin-area": {
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "name": "London",
+    "disambiguation": "Greater London",
+    "type": null,
+    "sort-name": "London",
+    "type-id": null
+  },
+  "name": "The Nice",
+  "country": "GB",
+  "disambiguation": "60s UK rock band",
+  "ipis": []
+}

@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "hawkwind-distant-horizons"
+titulo: "Distant Horizons"
+artista: "Hawkwind"
+artista_slug: "hawkwind"
+anio_ficha: 1997
+era: "siguiente"
+escena: "rarezas"
+mb_rgid: "5c9ef70f-2e6f-3f03-a5bd-6c626e85f981"
+primer_lanzamiento: "1997-11-03"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Trance de estudio con la banda casi ausente."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Circulación de autoedición."
+historia: "editorial"
+---
+
+Bucles, programaciones y poca banda: Brock lleva el grupo hacia un trance electrónico que apenas necesita músicos. Se deja oír de fondo y no resiste una escucha atenta.
+
+<!-- historia:editorial -->
+
+## La historia
+
+A finales de los noventa Hawkwind era, en la práctica, el estudio doméstico de Dave Brock con colaboradores que entraban y salían. El disco de 1997 lleva esa situación a su conclusión lógica: bucles, programaciones y secuencias sostienen casi todo, la batería suele ser electrónica y la idea de banda tocando junta prácticamente desaparece. No es un accidente ni una crisis de formación, sino una preferencia: Brock llevaba desde la rama electrónica de comienzos de los ochenta queriendo hacer un disco así, y aquí lo hace sin coartadas.
+
+El material se mueve entre dos polos. Por un lado, el trance instrumental de «Reptoid Vision», «Wheels» o el tema que da título al álbum, construido sobre patrones que giran sin desarrollo y con la guitarra reducida a intervenciones de textura. Por otro, un puñado de piezas con letra que retoman las obsesiones de siempre: la superpoblación en «Population Overload», la percepción alterada en «Clouded Vision», la transmutación en «Alchemy», el reverso químico de la ciudad en «Phetamine Street». Aparece además una veta de paisaje inhabitual en el grupo: «Waimea Canyon Drive» y «Kauai / Taxi for Max» remiten a lugares reales y concretos, lejos de la ciencia ficción, y «Love in Space» cierra devolviendo el disco a su territorio habitual.
+
+## La producción
+
+Todo está construido por capas sobre una base programada, y el criterio de mezcla lo confirma: los patrones rítmicos ocupan el centro, los sintetizadores dibujan el plano armónico y la guitarra entra como color puntual en vez de marcar el riff. Es el sonido de alguien trabajando solo frente a un secuenciador, con las ventajas y los límites que eso implica. La ventaja es la coherencia de timbre, muy uniforme a lo largo del álbum; el límite, la ausencia de la fricción que produce una banda empujando en tiempo real, que era justamente lo que hacía respirar a la deriva larga de discos anteriores.
+
+Las piezas están cortadas en duraciones medias y encadenadas para que el conjunto fluya sin cortes bruscos, más cerca de una sesión continua que de una colección de canciones. Las voces aparecen tratadas, dobladas y colocadas dentro de la mezcla, nunca al frente. Es un disco pensado para instalarse en el ambiente antes que para reclamar atención, y ahí está tanto su intención como su problema.
+
+## Recepción y legado
+
+Se deja oír de fondo y no resiste una escucha atenta: los patrones no evolucionan lo suficiente para sostener la duración y las canciones no tienen el peso melódico que el formato reclama. Quienes llegaban a la banda desde el trance encontraron algo reconocible; quienes esperaban al grupo de las piezas largas construidas por acumulación física notaron enseguida que faltaba el cuerpo. Con el tiempo ha quedado como una pieza de transición dentro de una etapa en la que el nombre Hawkwind cubría un abanico cada vez más estrecho de actividad. Su valor está en mostrar hacia dónde tiraba Brock cuando nadie le llevaba la contraria, y en anticipar el disco todavía más casero que llegaría poco después.

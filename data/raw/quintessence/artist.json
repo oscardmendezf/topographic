@@ -1,0 +1,305 @@
+{
+  "sort-name": "Quintessence",
+  "country": "GB",
+  "ipis": [],
+  "end-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "British Indo-Prog/Raga Rock band",
+  "type": "Group",
+  "isnis": [],
+  "area": {
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "type": null
+  },
+  "gender": null,
+  "life-span": {
+    "ended": true,
+    "begin": "1969-04",
+    "end": "1975"
+  },
+  "begin-area": {
+    "sort-name": "Notting Hill",
+    "type": null,
+    "disambiguation": "",
+    "type-id": null,
+    "name": "Notting Hill",
+    "id": "0706df42-1fc1-437e-b8fa-41a90699b44a"
+  },
+  "aliases": [],
+  "id": "c4c72128-aa89-4083-9fb7-dbc9ff3e9a2e",
+  "relations": [
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "type": "member of band",
+      "target-type": "artist",
+      "ended": false,
+      "artist": {
+        "id": "e9984ffa-ac22-4382-8252-2a768a5a4f01",
+        "name": "Shambhu Babaji",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Babaji, Shambhu",
+        "country": null
+      },
+      "begin": null,
+      "direction": "backward",
+      "end": null,
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "type": "member of band",
+      "ended": false,
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "direction": "backward",
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "sort-name": "Jones, Phil",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "former member of Quintessence",
+        "id": "7e45e8cb-5d22-448b-9292-18b4fc554c54",
+        "name": "Phil Jones"
+      },
+      "begin": null
+    },
+    {
+      "begin": null,
+      "artist": {
+        "country": null,
+        "sort-name": "Maha Dev",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Maha Dev",
+        "id": "d36c39e0-fa2a-4f39-a043-65ad288476a2"
+      },
+      "direction": "backward",
+      "end": null,
+      "target-credit": "",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "target-type": "artist",
+      "type": "member of band"
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "source-credit": "",
+      "target-credit": "",
+      "begin": null,
+      "artist": {
+        "name": "Jake Milton",
+        "id": "0549b1cb-4adc-4612-8163-28688a7f1ace",
+        "type": "Person",
+        "country": null,
+        "sort-name": "Milton, Jake",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "sort-name": "Mostert, Allan",
+        "country": null,
+        "type": "Person",
+        "id": "a1854ff7-1ab1-456b-9ad8-f8c83c1fc548",
+        "name": "Allan Mostert"
+      },
+      "begin": null,
+      "direction": "backward",
+      "end": null,
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "ended": false,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "direction": "backward",
+      "end": null,
+      "begin": null,
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "sort-name": "Ram, Raja",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Psytrance",
+        "name": "Raja Ram",
+        "id": "5b1ed3ba-3b28-494f-8241-0ce63ec4ee98"
+      },
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "type": "discogs",
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.discogs.com/artist/267835",
+        "id": "e07ff280-d680-4acf-9678-eb1b9cd2b3d9"
+      },
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "url": {
+        "id": "8405d5a6-a8c5-4e26-aff1-f370d9f0a03a",
+        "resource": "https://open.spotify.com/artist/3BYs6uiKpWPFZEpffmXOp6"
+      },
+      "attributes": [],
+      "target-type": "url",
+      "type": "free streaming",
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "ended": false,
+      "type": "free streaming",
+      "target-type": "url",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "url": {
+        "id": "d6ccf4d5-4842-4e82-aa0c-1c0b63fe2f6e",
+        "resource": "https://www.deezer.com/artist/110665"
+      },
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "end": null,
+      "attributes": [],
+      "type": "other databases",
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/quintessence",
+        "id": "5eca5012-75ff-48b4-9a41-26e481cdb6aa"
+      }
+    },
+    {
+      "attributes": [],
+      "type": "songkick",
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "url": {
+        "id": "e5249988-1629-4e28-89a1-b0e848f462b4",
+        "resource": "https://www.songkick.com/artists/435314"
+      },
+      "target-credit": "",
+      "begin": null,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "end": null,
+      "attributes": [],
+      "ended": false,
+      "target-type": "url",
+      "type": "streaming",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/5575257",
+        "id": "b597867f-1cc1-4bee-8e55-20c6b96867a6"
+      }
+    },
+    {
+      "type": "wikidata",
+      "target-type": "url",
+      "ended": false,
+      "attributes": [],
+      "url": {
+        "id": "f2acfbb0-a6a1-4d6b-ac4c-3940e48d81e3",
+        "resource": "https://www.wikidata.org/wiki/Q1284362"
+      },
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    }
+  ],
+  "gender-id": null,
+  "name": "Quintessence"
+}

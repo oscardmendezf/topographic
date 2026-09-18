@@ -1,0 +1,829 @@
+{
+  "relations": [
+    {
+      "type": "member of band",
+      "direction": "backward",
+      "ended": true,
+      "target-type": "artist",
+      "attribute-ids": {
+        "slide guitar": "41d2c709-81e2-415c-9456-a0a3d14f48bd"
+      },
+      "target-credit": "",
+      "attributes": [
+        "slide guitar"
+      ],
+      "artist": {
+        "id": "941c3154-7c37-4b47-af4a-9feeccdc358e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Semens, Antennae Jimmy",
+        "name": "Antennae Jimmy Semens",
+        "disambiguation": "Jeff Cotton",
+        "country": "US"
+      },
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": "1967",
+      "attribute-values": {},
+      "end": "1970"
+    },
+    {
+      "attributes": [
+        "bass clarinet"
+      ],
+      "target-credit": "",
+      "attribute-ids": {
+        "bass clarinet": "b7d71e02-e76c-4483-b394-b29057888131"
+      },
+      "attribute-credits": {},
+      "artist": {
+        "name": "The Mascara Snake",
+        "sort-name": "Mascara Snake, The",
+        "disambiguation": "",
+        "country": "US",
+        "id": "609169c4-f040-44a6-94f1-ba6215cae336",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "ended": true,
+      "direction": "backward",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": "1969",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1969",
+      "source-credit": ""
+    },
+    {
+      "begin": "1976",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1982",
+      "attribute-values": {},
+      "target-type": "artist",
+      "ended": true,
+      "direction": "backward",
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "18bf31b2-1baf-438b-9b64-24c1f2a4eb7d",
+        "country": "US",
+        "disambiguation": "",
+        "name": "Eric Drew Feldman",
+        "sort-name": "Feldman, Eric Drew"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "ended": true,
+      "artist": {
+        "id": "d011c23d-e8e4-4b7b-90c8-63e26ee0bada",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Gary Lucas",
+        "sort-name": "Lucas, Gary",
+        "country": "US",
+        "disambiguation": "US guitarist/songwriter"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": "",
+      "begin": "1980",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1982",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {
+        "eponymous": "15eea3b8-5655-43c8-b2c2-dd03c901a79b"
+      },
+      "target-credit": "",
+      "attributes": [
+        "eponymous"
+      ],
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Captain Beefheart",
+        "name": "Captain Beefheart",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a1594afa-2f6b-4596-a156-a35853dca691"
+      },
+      "type": "member of band",
+      "direction": "backward",
+      "ended": false,
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "id": "b2770ca5-491c-431b-aa23-2ab3d05055f6",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Caravan, Jimmy",
+        "name": "Jimmy Caravan",
+        "disambiguation": "",
+        "country": "US"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "direction": "backward",
+      "ended": false
+    },
+    {
+      "type": "member of band",
+      "direction": "backward",
+      "ended": false,
+      "target-type": "artist",
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "name": "Mark Gibbons",
+        "sort-name": "Gibbons, Mark",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "092b286e-ec9e-4fc8-bd2a-73fc93c563ba"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "country": null,
+        "sort-name": "Grimes, Ty",
+        "name": "Ty Grimes",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "00047420-8b36-409c-a2a7-d5bd143ce1f9"
+      },
+      "ended": false,
+      "direction": "backward",
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "direction": "backward",
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Ingber, Elliot",
+        "name": "Elliot Ingber",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "6323c585-8945-40e8-bec1-ac395d663d9b"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "artist": {
+        "disambiguation": "",
+        "country": "US",
+        "name": "Ira Ingber",
+        "sort-name": "Ingber, Ira",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "774a60ca-cc91-4361-adc6-8f068bc1b2db"
+      },
+      "type": "member of band",
+      "direction": "backward",
+      "ended": false,
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "id": "14697ebf-1e07-4ac6-bf7a-180582d54cef",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Pello, Gene",
+        "name": "Gene Pello",
+        "country": null,
+        "disambiguation": ""
+      },
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": false,
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "artist": {
+        "id": "6c4dc27d-13f4-48dd-87d5-7e399f0eefe0",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "sort-name": "Smith, Dean",
+        "name": "Dean Smith",
+        "country": null,
+        "disambiguation": ""
+      },
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": false,
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "type": "member of band",
+      "ended": false,
+      "artist": {
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Smotherman, Micheal",
+        "name": "Micheal Smotherman",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "43e32015-499a-476b-8e3a-3b8b0afec877"
+      },
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "ended": false,
+      "type": "member of band",
+      "direction": "backward",
+      "attribute-credits": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "74c984f0-e6aa-40f9-81b3-de533946ffaa",
+        "country": "US",
+        "disambiguation": "keyboardist",
+        "sort-name": "Thomas, John \"J.T.\"",
+        "name": "John \"J.T.\" Thomas"
+      },
+      "target-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "source-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "3c86ee1b-0913-4cbf-94a1-087b1468f19c",
+        "disambiguation": "",
+        "country": "US",
+        "name": "Art Tripp",
+        "sort-name": "Tripp, Art"
+      },
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "ended": false,
+      "direction": "backward",
+      "type": "member of band"
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a4e2650b-938b-4b72-95bc-6e229cd34601",
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Cooder, Ry",
+        "name": "Ry Cooder"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "ended": true,
+      "direction": "backward",
+      "type": "member of band",
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-type": "artist",
+      "type": "member of band",
+      "direction": "backward",
+      "ended": true,
+      "artist": {
+        "id": "289f6855-b043-4600-a737-1e2da8692982",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Doug Moon",
+        "sort-name": "Moon, Doug",
+        "country": "US",
+        "disambiguation": "guitarist, former member of The Magic Band"
+      },
+      "attribute-credits": {},
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "target-credit": "",
+      "attributes": [
+        "guitar"
+      ],
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "url": {
+        "id": "747236ca-d8c3-4913-8461-b3e5e454f331",
+        "resource": "https://www.allmusic.com/artist/mn0000646816"
+      },
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type": "allmusic",
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "84964750-72a1-4497-b212-f5a2981929f5",
+        "resource": "https://www.discogs.com/artist/256164"
+      },
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "type": "discogs",
+      "direction": "forward"
+    },
+    {
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "begin": null,
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "resource": "http://www.beefheart.com/",
+        "id": "b1c5923c-8e7d-4aa0-a376-9cbaf805d0bd"
+      },
+      "direction": "forward",
+      "type": "fanpage",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "target-type": "url",
+      "ended": false,
+      "type": "free streaming",
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "url": {
+        "resource": "https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw",
+        "id": "d093a998-d008-4112-a99c-4cf66c02fa70"
+      },
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "target-type": "url",
+      "type": "free streaming",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "url": {
+        "id": "c608fd7a-4d80-4c10-9509-d43a7f755f17",
+        "resource": "https://www.deezer.com/artist/2343"
+      },
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "begin": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.imdb.com/name/nm3538959/",
+        "id": "7e665c3a-df48-4bf8-a0fb-1b8dea3a676f"
+      },
+      "ended": false,
+      "direction": "forward",
+      "type": "IMDb",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.last.fm/music/Captain+Beefheart+&+His+Magic+Band",
+        "id": "dfe91ce0-cd49-4e3c-acd5-d2d990e96851"
+      },
+      "ended": false,
+      "type": "last.fm",
+      "direction": "forward",
+      "target-type": "url",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13902286q",
+        "id": "47aa6cfd-793c-49e2-a9a0-596c1b7208e5"
+      },
+      "attribute-values": {},
+      "end": null,
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "ended": false,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "d6d7c1b0-00e5-424d-acc3-578c54383028",
+        "resource": "https://d-nb.info/gnd/5209598-8"
+      },
+      "attribute-values": {},
+      "end": null,
+      "target-type": "url",
+      "direction": "forward",
+      "type": "other databases",
+      "ended": false,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "id": "1fe0bb44-a158-4acd-bf2f-78e8b0696be8",
+        "resource": "https://rateyourmusic.com/artist/captain-beefheart-and-the-magic-band"
+      },
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "direction": "forward",
+      "type": "other databases"
+    },
+    {
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "other databases",
+      "direction": "forward",
+      "ended": false,
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-nr89010375/",
+        "id": "3d5bf66d-7ce5-4aec-b5b8-0e1701842356"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "url": {
+        "resource": "https://www.songkick.com/artists/215999",
+        "id": "c1d9c02a-a948-4378-bca5-ad067e538a3c"
+      },
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "songkick",
+      "direction": "forward",
+      "ended": false,
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "streaming",
+      "direction": "forward",
+      "ended": false,
+      "target-type": "url",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "id": "2ff6355f-cb35-4b85-a0a6-fb2517a8c81c",
+        "resource": "https://tidal.com/artist/9534"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "type": "VIAF",
+      "direction": "forward",
+      "ended": false,
+      "attribute-ids": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "url": {
+        "id": "98a95ee9-5988-48c5-901c-7d9c5b753682",
+        "resource": "http://viaf.org/viaf/139236527"
+      },
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "ended": false,
+      "direction": "forward",
+      "type": "wikidata",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "source-credit": "",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "id": "08da3b08-4817-4097-a662-d79591cc68bd",
+        "resource": "https://www.wikidata.org/wiki/Q820040"
+      }
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [
+    {
+      "begin": null,
+      "primary": null,
+      "type": null,
+      "type-id": null,
+      "ended": false,
+      "locale": null,
+      "name": "Capt. Beefheart",
+      "sort-name": "Capt. Beefheart",
+      "end": null
+    },
+    {
+      "type": null,
+      "type-id": null,
+      "ended": false,
+      "begin": null,
+      "primary": null,
+      "end": null,
+      "locale": null,
+      "sort-name": "Captain Beefhart and His Magic Band",
+      "name": "Captain Beefhart and His Magic Band"
+    },
+    {
+      "type": null,
+      "type-id": null,
+      "ended": false,
+      "begin": null,
+      "primary": null,
+      "end": null,
+      "locale": null,
+      "name": "Captain Beefheart",
+      "sort-name": "Captain Beefheart"
+    },
+    {
+      "end": null,
+      "locale": null,
+      "name": "Captain Beefheart & The Magic Band",
+      "sort-name": "Captain Beefheart & The Magic Band",
+      "type": null,
+      "type-id": null,
+      "ended": false,
+      "begin": null,
+      "primary": null
+    },
+    {
+      "primary": null,
+      "begin": null,
+      "ended": false,
+      "type-id": null,
+      "type": null,
+      "sort-name": "Captain Beefheart and His Magi",
+      "name": "Captain Beefheart and His Magi",
+      "locale": null,
+      "end": null
+    },
+    {
+      "end": null,
+      "locale": null,
+      "name": "Captain Beefheart and His Magic Band",
+      "sort-name": "Captain Beefheart and His Magic Band",
+      "ended": false,
+      "type": null,
+      "type-id": null,
+      "primary": null,
+      "begin": null
+    },
+    {
+      "end": null,
+      "locale": null,
+      "name": "Captain Beefheart and The Magic Band",
+      "sort-name": "Captain Beefheart and The Magic Band",
+      "ended": false,
+      "type": null,
+      "type-id": null,
+      "primary": null,
+      "begin": null
+    },
+    {
+      "end": null,
+      "locale": null,
+      "name": "Captain Beefheart and his Magic Band",
+      "sort-name": "Captain Beefheart and his Magic Band",
+      "ended": false,
+      "type": null,
+      "type-id": null,
+      "primary": null,
+      "begin": null
+    }
+  ],
+  "end-area": {
+    "name": "Arcata",
+    "id": "b03b05c1-c279-4d6a-be4a-d5d5d1b578de",
+    "sort-name": "Arcata",
+    "type": null,
+    "disambiguation": "",
+    "type-id": null
+  },
+  "country": "US",
+  "gender-id": null,
+  "name": "Captain Beefheart & His Magic Band",
+  "begin-area": {
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "id": "408ed43c-2d6f-4165-8861-d4e0ebb9b9fe",
+    "name": "Lancaster",
+    "sort-name": "Lancaster"
+  },
+  "isnis": [
+    "0000000121692534"
+  ],
+  "type": "Group",
+  "id": "8dcd04e4-7695-4d80-bae9-1d7d680a38ef",
+  "ipis": [],
+  "area": {
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "sort-name": "United States",
+    "name": "United States",
+    "type": null,
+    "type-id": null,
+    "id": "489ce91b-6658-3307-9877-795b68554c98"
+  },
+  "life-span": {
+    "begin": "1965-01-15",
+    "end": "1982-12-17",
+    "ended": true
+  },
+  "gender": null,
+  "disambiguation": "",
+  "sort-name": "Captain Beefheart & His Magic Band"
+}

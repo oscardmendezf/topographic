@@ -1,0 +1,299 @@
+{
+  "aliases": [],
+  "sort-name": "Third Ear Band",
+  "type": "Group",
+  "end-area": null,
+  "begin-area": {
+    "id": "36ed2e86-4e30-49eb-8acb-96004ef98fa3",
+    "name": "Canterbury",
+    "disambiguation": "",
+    "sort-name": "Canterbury",
+    "type": null,
+    "type-id": null
+  },
+  "gender": null,
+  "country": "GB",
+  "name": "Third Ear Band",
+  "ipis": [],
+  "disambiguation": "",
+  "isnis": [],
+  "relations": [
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "ended": false,
+      "attributes": [
+        "violin"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "begin": null,
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Coff, Richard",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Richard Coff",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "600c77c5-b798-43b4-a09b-76b89e2347f3"
+      },
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "artist": {
+        "sort-name": "Coff, Richard",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Richard Coff",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "600c77c5-b798-43b4-a09b-76b89e2347f3"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "begin": null,
+      "attribute-ids": {
+        "viola": "377e007a-33fe-4825-9bef-136cf5cf581a"
+      },
+      "attributes": [
+        "viola"
+      ],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "member of band"
+    },
+    {
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Minns, Paul",
+        "name": "Paul Minns",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "2fa933ad-c07f-4d78-9366-2a4a603ecb6e"
+      },
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "oboe": "1b97909a-6db7-4829-91fd-414338ce28cf"
+      },
+      "begin": null,
+      "source-credit": "",
+      "attributes": [
+        "oboe"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "recorder": "3cf4c0c9-160a-4d73-9243-7d0e0df17050"
+      },
+      "begin": null,
+      "attribute-credits": {},
+      "source-credit": "",
+      "attributes": [
+        "recorder"
+      ],
+      "target-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "artist": {
+        "type": "Person",
+        "sort-name": "Minns, Paul",
+        "country": "GB",
+        "name": "Paul Minns",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "2fa933ad-c07f-4d78-9366-2a4a603ecb6e"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "begin": null,
+      "attribute-ids": {
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "cello"
+      ],
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Smith, Ursula",
+        "disambiguation": "member of Third Ear Band",
+        "name": "Ursula Smith",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ba925e66-64d4-42ce-9f58-644508b3e69d"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "artist": {
+        "name": "Glen Sweeney",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Sweeney, Glen",
+        "id": "9dd47082-c151-4c68-adc5-7949c1af9428",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "begin": null,
+      "attribute-credits": {},
+      "source-credit": "",
+      "attributes": [
+        "percussion"
+      ]
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000588562",
+        "id": "58d20f2e-5985-4de6-98ae-cc3e1edeeca7"
+      },
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "type": "allmusic",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "discogs",
+      "url": {
+        "resource": "https://www.discogs.com/artist/537552",
+        "id": "dfd5caa9-0ac3-4589-9f87-3860b91690fe"
+      },
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "type": "other databases",
+      "ended": false,
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/third_ear_band",
+        "id": "cfefd9ae-3ce6-421f-a020-840731f7edcd"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "songkick",
+      "url": {
+        "id": "35cc596a-f984-4252-aff7-52c72479761c",
+        "resource": "https://www.songkick.com/artists/523866"
+      },
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q2211412",
+        "id": "ea3065f7-dd3f-475c-8f9d-74a05201421f"
+      },
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "wikidata"
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "id": "8f167803-1cd3-4030-bae1-5777cf105e87",
+  "area": {
+    "sort-name": "United Kingdom",
+    "type": null,
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "type-id": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "gender-id": null,
+  "life-span": {
+    "ended": true,
+    "begin": "1968",
+    "end": "1993"
+  }
+}

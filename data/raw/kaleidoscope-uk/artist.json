@@ -1,0 +1,401 @@
+{
+  "gender-id": null,
+  "gender": null,
+  "isnis": [
+    "0000000470330216"
+  ],
+  "life-span": {
+    "end": "1970",
+    "ended": true,
+    "begin": "1967"
+  },
+  "type": "Group",
+  "relations": [
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "type": "artist rename",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "country": "GB",
+        "id": "a63bba6a-4a02-440c-8453-4c3732cabd59",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "name": "Fairfield Parlour",
+        "disambiguation": "Psychedelic Pop, Baroque Pop, UK",
+        "sort-name": "Fairfield Parlour"
+      },
+      "target-credit": "",
+      "type-id": "9752bfdf-13ca-441a-a8bc-18928c600c73"
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "type": "member of band",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "backward",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null,
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "fccf3fb7-2bc3-4334-a527-6c8d52a3576c",
+        "country": "GB",
+        "sort-name": "Bridgman, Dan",
+        "disambiguation": "",
+        "name": "Dan Bridgman",
+        "type": "Person"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "attributes": [],
+      "type": "member of band",
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "member of UK band, Kaleidoscope",
+        "name": "Steve Clark",
+        "sort-name": "Clark, Steve",
+        "country": "GB",
+        "id": "f1ed52d4-32aa-44ac-9c1e-8afa1b8a3e35",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "name": "Peter Daltrey",
+        "disambiguation": "",
+        "sort-name": "Daltrey, Peter",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "0c82d16a-4a4c-4a7b-bd60-3efd39249629",
+        "country": "GB"
+      },
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "attributes": [],
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "direction": "backward",
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "artist": {
+        "id": "9fa560a9-ac75-417b-8c4c-54411b6a3e59",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "name": "Eddy Pumer",
+        "disambiguation": "",
+        "sort-name": "Pumer, Eddy",
+        "type": "Person"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "resource": "https://www.discogs.com/artist/407727",
+        "id": "9d9b66d0-9f7c-4119-a131-53c0246ef77f"
+      },
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-ids": {},
+      "ended": false,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "discogs",
+      "direction": "forward",
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "d9f78f57-f8d1-4ea9-b071-bbe9416395b2",
+        "resource": "https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy"
+      },
+      "end": null,
+      "type": "free streaming",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "free streaming",
+      "direction": "forward",
+      "begin": null,
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/145412",
+        "id": "66973e33-0fb8-474a-9610-38b74a529372"
+      },
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/kaleidoscope_f1",
+        "id": "0aa57917-eeb1-423f-8edc-e1b42305db88"
+      },
+      "end": null,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "ended": false,
+      "type": "other databases",
+      "attributes": [],
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "id": "3dd17c53-f92a-4a1f-a753-6c99a3e6b0ab",
+        "resource": "https://music.apple.com/us/artist/1327613290"
+      },
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "ended": false,
+      "type": "purchase for download",
+      "attributes": [],
+      "attribute-values": {},
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "attributes": [],
+      "type": "purchase for download",
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "id": "f55fc32c-705b-4543-9e91-2c3a40027f6c",
+        "resource": "https://www.qobuz.com/us-en/interpreter/-/309841"
+      }
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.songkick.com/artists/213676",
+        "id": "7ef0e4d5-2f05-40b8-b2ba-4fde8f0172dd"
+      },
+      "end": null,
+      "target-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "ended": false,
+      "type": "songkick",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "resource": "https://music.apple.com/us/artist/1327613290",
+        "id": "3dd17c53-f92a-4a1f-a753-6c99a3e6b0ab"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "type": "streaming"
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "attributes": [],
+      "type": "streaming",
+      "end": null,
+      "url": {
+        "id": "ab7b7532-b709-4130-8fb5-d03c07173866",
+        "resource": "https://tidal.com/artist/36215672"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "type": "streaming",
+      "attribute-values": {},
+      "attributes": [],
+      "ended": false,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/-/309841",
+        "id": "f55fc32c-705b-4543-9e91-2c3a40027f6c"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "attributes": [],
+      "type": "wikidata",
+      "end": null,
+      "url": {
+        "id": "4a49b33b-b2e4-4f65-aa92-18a92b58d0c6",
+        "resource": "https://www.wikidata.org/wiki/Q751502"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": ""
+    }
+  ],
+  "end-area": null,
+  "sort-name": "Kaleidoscope",
+  "name": "Kaleidoscope",
+  "country": "GB",
+  "id": "c25ea4bb-c2b4-4801-b01b-a79c3d3b425b",
+  "area": {
+    "sort-name": "United Kingdom",
+    "disambiguation": "",
+    "type": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "disambiguation": "60s UK psychedelic/progressive rock renamed to Fairfield Parlour",
+  "ipis": [],
+  "aliases": [
+    {
+      "ended": false,
+      "locale": null,
+      "end": null,
+      "name": "Fairfield Parlour",
+      "begin": null,
+      "primary": null,
+      "type-id": null,
+      "type": null,
+      "sort-name": "Fairfield Parlour"
+    },
+    {
+      "type": null,
+      "sort-name": "I Luv Wight",
+      "begin": null,
+      "primary": null,
+      "type-id": null,
+      "name": "I Luv Wight",
+      "end": null,
+      "ended": false,
+      "locale": null
+    },
+    {
+      "begin": null,
+      "type-id": null,
+      "primary": null,
+      "type": null,
+      "sort-name": "Key, The",
+      "ended": false,
+      "end": null,
+      "locale": null,
+      "name": "The Key"
+    },
+    {
+      "primary": null,
+      "type-id": null,
+      "begin": null,
+      "sort-name": "Sidekicks, The",
+      "type": null,
+      "locale": null,
+      "ended": false,
+      "end": null,
+      "name": "The Sidekicks"
+    }
+  ],
+  "begin-area": {
+    "type-id": null,
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+    "disambiguation": "Greater London",
+    "sort-name": "London",
+    "name": "London",
+    "type": null
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+}

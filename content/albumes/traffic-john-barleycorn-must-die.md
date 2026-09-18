@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "traffic-john-barleycorn-must-die"
+titulo: "John Barleycorn Must Die"
+artista: "Traffic"
+artista_slug: "traffic"
+anio_ficha: 1970
+era: "clasica"
+escena: "rarezas"
+mb_rgid: "3770d5ce-e0e1-3389-9acf-cd38f0722baf"
+primer_lanzamiento: "1970-07"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 5
+critica_fuente: "editorial"
+critica_nota: "Su obra más respetada y la más citada por el prog folk posterior."
+estrellas_comercial: 4
+comercial_fuente: "editorial"
+comercial_nota: "Reconocimiento amplio y permanencia larga en el repertorio del grupo."
+historia: "editorial"
+---
+
+Empezó como el disco solista de Winwood y terminó siendo el mejor de Traffic. El trío —órgano, batería, saxo y flauta— convierte una canción tradicional inglesa en jazz modal sin disfrazarla de nada, y ahí queda abierta una vía al folk eléctrico que el prog inglés recorrió durante toda la década. Austero, sin grasa y sin una nota de más.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Empezó como el disco solista de Steve Winwood después del paréntesis de Blind Faith y terminó siendo el mejor de Traffic. La vuelta fue medio por accidente: Winwood llamó a Jim Capaldi y a Chris Wood para resolver unas grabaciones, y lo que apareció fue un grupo nuevo, reducido a tres y por lo tanto obligado a decidir qué sobraba. Sin Dave Mason no quedaba el cancionista que tiraba hacia la canción cerrada, y sin él la contradicción que había definido los dos primeros discos se disolvió sola.
+
+El resultado es austero, sin grasa y sin una nota de más. «Glad» abre con un instrumental de piano eléctrico y saxo que se encadena con «Freedom Rider» sin cortar el pulso, una pareja que funciona como una sola pieza en dos temperaturas. «Empty Pages» y «Stranger to Himself» son las canciones propiamente dichas, ambas sobre la misma materia: el vacío de quien no se reconoce. Y en el centro está «John Barleycorn», la balada tradicional inglesa donde la cebada es un hombre al que siembran, siegan, trillan y muelen hasta convertirlo en cerveza, y que renace cada año: un mito agrícola de muerte y resurrección que el grupo toca con flauta y guitarra acústica, sin disfrazarlo de folclore ni convertirlo en pieza de época. «Every Mother's Son» cierra con siete minutos que vuelven al órgano y al desarrollo largo. El disco encontró, por fin, la forma del grupo.
+
+## La producción
+
+En los registros verificados no aparece un productor acreditado, señal coherente con el origen del proyecto: eran los propios músicos resolviendo el material. En la ingeniería figuran Brian Humphries, que ya venía trabajando con el grupo, y Andy Johns. La formación es la del trío, con Winwood cubriendo piano, piano eléctrico, órgano, guitarra acústica y eléctrica, bajo y percusión, Wood en flauta, saxo, órgano y vientos, y Capaldi en batería y percusión, con las voces repartidas entre los dos.
+
+La decisión de sonido central es la sustracción. Al no haber un segundo guitarrista, el peso melódico se reparte entre el órgano y los vientos, y el bajo lo toca el mismo que toca los teclados, lo que produce un ensamble insólitamente ligero para un disco de rock de 1970. La mezcla deja aire entre las capas, la batería suena cerca y seca, y la flauta ocupa el lugar que en otro grupo tendría una guitarra solista. En «John Barleycorn» esa economía llega al extremo: un par de instrumentos acústicos, la voz y nada más.
+
+## Recepción y legado
+
+Fue el regreso que reordenó la percepción del grupo y sigue siendo su disco de referencia, el que se recomienda primero y el que menos ha envejecido. Se lo escucha hoy como jazz modal tocado por gente de rock, con el material tradicional tratado igual que cualquier otro tema, sin reverencia.
+
+Ahí está su préstamo al progresivo, y es doble. Por un lado, abrió una vía al folk eléctrico que el prog inglés recorrió durante toda la década: la idea de que una canción antigua podía sostener una lectura moderna sin ornamento ni arreglo orquestal. Por el otro, consolidó la paleta —flauta, saxo, Hammond, percusión— que otros grupos usarían después con menos aire alrededor. Es el disco donde Traffic dejó de ser una banda de psicodelia con problemas internos para ser una idea musical.

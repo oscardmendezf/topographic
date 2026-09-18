@@ -1,26 +1,5 @@
 [
  {
-  "mbid": "874ce122-ca6f-45cb-a7b8-c798cf02b718",
-  "nombre": "Bob Ludwig",
-  "artistas": [
-   "elo",
-   "frank-zappa",
-   "gen",
-   "kinks",
-   "mb",
-   "mothers-of-invention",
-   "rush",
-   "sup",
-   "who"
-  ],
-  "n_albumes": 26,
-  "roles": [
-   "lacquer cut",
-   "mastering"
-  ],
-  "es_musico_universo": false
- },
- {
   "mbid": "47e669f3-d553-4cb2-88b1-3679893559fb",
   "nombre": "Phil Smee",
   "artistas": [
@@ -32,9 +11,11 @@
    "mo",
    "robert-wyatt",
    "sh",
-   "small-faces"
+   "small-faces",
+   "tomorrow",
+   "zombies"
   ],
-  "n_albumes": 19,
+  "n_albumes": 23,
   "roles": [
    "artwork",
    "design",
@@ -42,6 +23,28 @@
    "graphic design",
    "illustration",
    "photography"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "874ce122-ca6f-45cb-a7b8-c798cf02b718",
+  "nombre": "Bob Ludwig",
+  "artistas": [
+   "captain-beefheart",
+   "elo",
+   "frank-zappa",
+   "gen",
+   "kinks",
+   "mb",
+   "mothers-of-invention",
+   "rush",
+   "sup",
+   "who"
+  ],
+  "n_albumes": 27,
+  "roles": [
+   "lacquer cut",
+   "mastering"
   ],
   "es_musico_universo": false
  },
@@ -65,6 +68,38 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "2bf1575f-88f7-4df0-8f9d-28be403f1891",
+  "nombre": "Ted Jensen",
+  "artistas": [
+   "app",
+   "gen",
+   "styx",
+   "who",
+   "zombies"
+  ],
+  "n_albumes": 9,
+  "roles": [
+   "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "6e89fb23-7f9e-40b9-a922-de403e80535b",
+  "nombre": "Chris Welch",
+  "artistas": [
+   "ca",
+   "elp",
+   "ren",
+   "yes",
+   "zombies"
+  ],
+  "n_albumes": 8,
+  "roles": [
+   "liner notes"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "8b2222ba-8343-45fe-8635-495494788982",
   "nombre": "Paschal Byrne",
   "artistas": [
@@ -77,6 +112,24 @@
   "n_albumes": 7,
   "roles": [
    "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "aa3ddb36-d7fd-4f53-9070-d756c4c04c26",
+  "nombre": "Mark Powell",
+  "artistas": [
+   "cam",
+   "car",
+   "faust",
+   "hawkwind",
+   "mo"
+  ],
+  "n_albumes": 6,
+  "roles": [
+   "compiler",
+   "liner notes",
+   "misc"
   ],
   "es_musico_universo": false
  },
@@ -136,17 +189,39 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "2bf1575f-88f7-4df0-8f9d-28be403f1891",
-  "nombre": "Ted Jensen",
+  "mbid": "ecffc56a-0aa1-44b0-8205-2dbf353ddbd6",
+  "nombre": "Jon Astley",
   "artistas": [
-   "app",
-   "gen",
-   "styx",
-   "who"
+   "kansas",
+   "pretty-things",
+   "who",
+   "zombies"
   ],
-  "n_albumes": 8,
+  "n_albumes": 14,
   "roles": [
-   "mastering"
+   "engineer",
+   "liner notes",
+   "mastering",
+   "mix",
+   "producer",
+   "remixer"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "6d430bd3-cae3-4e75-a300-117f9750a2cd",
+  "nombre": "Darren Evans",
+  "artistas": [
+   "beatles",
+   "captain-beefheart",
+   "elo",
+   "jt"
+  ],
+  "n_albumes": 11,
+  "roles": [
+   "art direction",
+   "design",
+   "graphic design"
   ],
   "es_musico_universo": false
  },
@@ -166,17 +241,18 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "6e89fb23-7f9e-40b9-a922-de403e80535b",
-  "nombre": "Chris Welch",
+  "mbid": "6e341b1a-0697-4ddf-b7c8-ae1c91de8799",
+  "nombre": "Peter Mew",
   "artistas": [
-   "ca",
-   "elp",
-   "ren",
-   "yes"
+   "elo",
+   "hawkwind",
+   "jt",
+   "pf"
   ],
-  "n_albumes": 7,
+  "n_albumes": 8,
   "roles": [
-   "liner notes"
+   "liner notes",
+   "mastering"
   ],
   "es_musico_universo": false
  },
@@ -211,23 +287,6 @@
    "design/illustration",
    "graphic design",
    "photography"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "aa3ddb36-d7fd-4f53-9070-d756c4c04c26",
-  "nombre": "Mark Powell",
-  "artistas": [
-   "cam",
-   "car",
-   "faust",
-   "mo"
-  ],
-  "n_albumes": 5,
-  "roles": [
-   "compiler",
-   "liner notes",
-   "misc"
   ],
   "es_musico_universo": false
  },
@@ -267,6 +326,22 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "9bea300f-ad94-4c0b-b0e2-f41776b53af0",
+  "nombre": "Glyn Johns",
+  "artistas": [
+   "kinks",
+   "small-faces",
+   "traffic",
+   "who"
+  ],
+  "n_albumes": 5,
+  "roles": [
+   "engineer",
+   "producer"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "a8f6fcef-e0fe-432e-ad27-ed67238674b5",
   "nombre": "Barrie Wentzell",
   "artistas": [
@@ -293,6 +368,21 @@
   "n_albumes": 4,
   "roles": [
    "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "e6ff68e7-303c-4286-8e74-18aa3ec68f46",
+  "nombre": "Dezo Hoffmann",
+  "artistas": [
+   "pf",
+   "who",
+   "yes",
+   "zombies"
+  ],
+  "n_albumes": 4,
+  "roles": [
+   "photography"
   ],
   "es_musico_universo": false
  },
@@ -329,21 +419,37 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "ecffc56a-0aa1-44b0-8205-2dbf353ddbd6",
-  "nombre": "Jon Astley",
+  "mbid": "bbd494e5-7e49-4fd2-9451-bd19ec2dce64",
+  "nombre": "Bill Inglot",
   "artistas": [
-   "kansas",
-   "pretty-things",
-   "who"
+   "captain-beefheart",
+   "kinks",
+   "yes"
   ],
-  "n_albumes": 13,
+  "n_albumes": 12,
   "roles": [
-   "engineer",
-   "liner notes",
    "mastering",
-   "mix",
-   "producer",
-   "remixer"
+   "misc",
+   "producer"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "b7f9c3fb-4a53-4442-b26a-0d60468b30b9",
+  "nombre": "Cal Schenkel",
+  "artistas": [
+   "captain-beefheart",
+   "frank-zappa",
+   "mothers-of-invention"
+  ],
+  "n_albumes": 10,
+  "roles": [
+   "artwork",
+   "design",
+   "design/illustration",
+   "graphic design",
+   "illustration",
+   "photography"
   ],
   "es_musico_universo": false
  },
@@ -397,22 +503,6 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "6d430bd3-cae3-4e75-a300-117f9750a2cd",
-  "nombre": "Darren Evans",
-  "artistas": [
-   "beatles",
-   "elo",
-   "jt"
-  ],
-  "n_albumes": 8,
-  "roles": [
-   "art direction",
-   "design",
-   "graphic design"
-  ],
-  "es_musico_universo": false
- },
- {
   "mbid": "4b73ae77-770f-4b9f-93f6-8bc187260268",
   "nombre": "Miles Showell",
   "artistas": [
@@ -428,15 +518,16 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "6e341b1a-0697-4ddf-b7c8-ae1c91de8799",
-  "nombre": "Peter Mew",
+  "mbid": "b7d3a6bb-7fbd-4009-aa3a-d81bdf541c1f",
+  "nombre": "Nick Robbins",
   "artistas": [
-   "elo",
-   "jt",
-   "pf"
+   "gong",
+   "small-faces",
+   "zombies"
   ],
   "n_albumes": 7,
   "roles": [
+   "engineer",
    "liner notes",
    "mastering"
   ],
@@ -455,6 +546,37 @@
    "instrument"
   ],
   "es_musico_universo": true
+ },
+ {
+  "mbid": "847cf62e-344e-4403-a14c-73b78f50f08f",
+  "nombre": "Mark Paytress",
+  "artistas": [
+   "captain-beefheart",
+   "mo",
+   "small-faces"
+  ],
+  "n_albumes": 5,
+  "roles": [
+   "liner notes"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "5f3e687b-aa41-4f18-b3a8-de8a7d1e1b8e",
+  "nombre": "Joe Travers",
+  "artistas": [
+   "captain-beefheart",
+   "frank-zappa",
+   "mothers-of-invention"
+  ],
+  "n_albumes": 5,
+  "roles": [
+   "audio",
+   "liner notes",
+   "producer",
+   "transfer"
+  ],
+  "es_musico_universo": false
  },
  {
   "mbid": "18acec19-11e8-46f1-a775-69930b7da481",
@@ -504,6 +626,51 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "9704408b-c694-47d1-ad36-7784d425e834",
+  "nombre": "Bruce Fowler",
+  "artistas": [
+   "captain-beefheart",
+   "frank-zappa",
+   "mothers-of-invention"
+  ],
+  "n_albumes": 4,
+  "roles": [
+   "instrument"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "e04632c9-e1fe-4800-b9b2-c26bd8c04ccf",
+  "nombre": "Michael Mesker",
+  "artistas": [
+   "captain-beefheart",
+   "frank-zappa",
+   "mothers-of-invention"
+  ],
+  "n_albumes": 4,
+  "roles": [
+   "art direction",
+   "design",
+   "graphic design",
+   "photography"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "44476c16-75a8-4d8a-bccc-60a317710995",
+  "nombre": "Ben Wiseman",
+  "artistas": [
+   "hawkwind",
+   "procol-harum",
+   "tangerine-dream"
+  ],
+  "n_albumes": 4,
+  "roles": [
+   "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "f33f3ffc-02db-4fae-b283-f4c6c63bae23",
   "nombre": "Stephen Marcussen",
   "artistas": [
@@ -514,21 +681,6 @@
   "n_albumes": 4,
   "roles": [
    "mastering"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "9bea300f-ad94-4c0b-b0e2-f41776b53af0",
-  "nombre": "Glyn Johns",
-  "artistas": [
-   "kinks",
-   "small-faces",
-   "who"
-  ],
-  "n_albumes": 4,
-  "roles": [
-   "engineer",
-   "producer"
   ],
   "es_musico_universo": false
  },
@@ -621,6 +773,20 @@
   "es_musico_universo": true
  },
  {
+  "mbid": "c81d2bfa-a671-4811-bf90-9789ceb5d3c4",
+  "nombre": "Phil Franks",
+  "artistas": [
+   "frank-zappa",
+   "hawkwind",
+   "yes"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "photography"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "856cbae9-a5f8-407e-bd89-6f4c33af7c01",
   "nombre": "Peter Henderson",
   "artistas": [
@@ -660,20 +826,6 @@
   "n_albumes": 3,
   "roles": [
    "mastering"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "e6ff68e7-303c-4286-8e74-18aa3ec68f46",
-  "nombre": "Dezo Hoffmann",
-  "artistas": [
-   "pf",
-   "who",
-   "yes"
-  ],
-  "n_albumes": 3,
-  "roles": [
-   "photography"
   ],
   "es_musico_universo": false
  },
@@ -782,21 +934,6 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "bbd494e5-7e49-4fd2-9451-bd19ec2dce64",
-  "nombre": "Bill Inglot",
-  "artistas": [
-   "kinks",
-   "yes"
-  ],
-  "n_albumes": 10,
-  "roles": [
-   "mastering",
-   "misc",
-   "producer"
-  ],
-  "es_musico_universo": false
- },
- {
   "mbid": "67aff0d4-cdd1-46e1-9367-f47e20d98961",
   "nombre": "Ben Fenner",
   "artistas": [
@@ -875,19 +1012,17 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "b7f9c3fb-4a53-4442-b26a-0d60468b30b9",
-  "nombre": "Cal Schenkel",
+  "mbid": "fa577a96-fd9d-4bee-8f82-0412da1aa7df",
+  "nombre": "Terry Brown",
   "artistas": [
-   "frank-zappa",
-   "mothers-of-invention"
+   "rush",
+   "traffic"
   ],
   "n_albumes": 9,
   "roles": [
-   "artwork",
-   "design",
-   "design/illustration",
-   "graphic design",
-   "illustration"
+   "arranger",
+   "engineer",
+   "producer"
   ],
   "es_musico_universo": false
  },
@@ -932,6 +1067,21 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "59cc681e-becf-4df3-992a-24d8ac99e492",
+  "nombre": "Colin Blunstone",
+  "artistas": [
+   "app",
+   "zombies"
+  ],
+  "n_albumes": 7,
+  "roles": [
+   "copyright",
+   "phonographic copyright",
+   "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
   "mbid": "73c3f499-60e2-44e1-81dd-7fe2191461fa",
   "nombre": "Adrian Belew",
   "artistas": [
@@ -941,6 +1091,21 @@
   "n_albumes": 7,
   "roles": [
    "instrument",
+   "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "9a4f2c10-60d6-4f78-9f8c-c0162424c41f",
+  "nombre": "Steve Howe",
+  "artistas": [
+   "tomorrow",
+   "yes"
+  ],
+  "n_albumes": 7,
+  "roles": [
+   "instrument",
+   "producer",
    "vocal"
   ],
   "es_musico_universo": true
@@ -957,6 +1122,20 @@
    "producer"
   ],
   "es_musico_universo": false
+ },
+ {
+  "mbid": "c671df9a-c39a-4d37-80d5-7b9d2d5f0331",
+  "nombre": "Jim Rodford",
+  "artistas": [
+   "kinks",
+   "zombies"
+  ],
+  "n_albumes": 6,
+  "roles": [
+   "instrument",
+   "vocal"
+  ],
+  "es_musico_universo": true
  },
  {
   "mbid": "3b838db4-8302-4838-b9d7-921f77695287",
@@ -999,6 +1178,23 @@
    "instrument",
    "liner notes",
    "producer",
+   "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "a477e067-629a-41bc-9878-21a6fb559a57",
+  "nombre": "Rod Argent",
+  "artistas": [
+   "who",
+   "zombies"
+  ],
+  "n_albumes": 6,
+  "roles": [
+   "copyright",
+   "instrument",
+   "liner notes",
+   "phonographic copyright",
    "vocal"
   ],
   "es_musico_universo": true
@@ -1105,6 +1301,19 @@
    "vocal"
   ],
   "es_musico_universo": true
+ },
+ {
+  "mbid": "0b68fcf8-bd44-4b00-807a-4c450b9becc2",
+  "nombre": "Brian Humphries",
+  "artistas": [
+   "pf",
+   "traffic"
+  ],
+  "n_albumes": 5,
+  "roles": [
+   "engineer"
+  ],
+  "es_musico_universo": false
  },
  {
   "mbid": "d23da21d-3a3d-433e-bb40-1ef9afadc137",
@@ -1215,17 +1424,17 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "5f3e687b-aa41-4f18-b3a8-de8a7d1e1b8e",
-  "nombre": "Joe Travers",
+  "mbid": "91fde658-62a2-4354-b819-1d374e03daa5",
+  "nombre": "Hugh Gilmour",
   "artistas": [
-   "frank-zappa",
-   "mothers-of-invention"
+   "elp",
+   "hawkwind"
   ],
   "n_albumes": 4,
   "roles": [
-   "liner notes",
-   "producer",
-   "transfer"
+   "art direction",
+   "design",
+   "graphic design"
   ],
   "es_musico_universo": false
  },
@@ -1270,21 +1479,6 @@
    "art direction",
    "design",
    "illustration"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "b7d3a6bb-7fbd-4009-aa3a-d81bdf541c1f",
-  "nombre": "Nick Robbins",
-  "artistas": [
-   "gong",
-   "small-faces"
-  ],
-  "n_albumes": 4,
-  "roles": [
-   "engineer",
-   "liner notes",
-   "mastering"
   ],
   "es_musico_universo": false
  },
@@ -1345,19 +1539,6 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "847cf62e-344e-4403-a14c-73b78f50f08f",
-  "nombre": "Mark Paytress",
-  "artistas": [
-   "mo",
-   "small-faces"
-  ],
-  "n_albumes": 4,
-  "roles": [
-   "liner notes"
-  ],
-  "es_musico_universo": false
- },
- {
   "mbid": "d6c37074-0155-46a3-8af2-338a4f625afc",
   "nombre": "Nick Mason",
   "artistas": [
@@ -1393,6 +1574,20 @@
   "artistas": [
    "ap",
    "kc"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "instrument",
+   "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "160eff18-7d6e-4000-a1d4-fe4c2e7a66ca",
+  "nombre": "Gary Brooker",
+  "artistas": [
+   "app",
+   "procol-harum"
   ],
   "n_albumes": 3,
   "roles": [
@@ -1447,6 +1642,19 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "8a622dcd-97b8-45cb-8a07-d67ac9f883b5",
+  "nombre": "Ken Perry",
+  "artistas": [
+   "captain-beefheart",
+   "kinks"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "2f20f8aa-35c0-4dfb-8b78-ceccccaf37c9",
   "nombre": "Suha Gur",
   "artistas": [
@@ -1487,6 +1695,20 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "3b9a2ea7-1f31-4fc3-8fb4-ca6027e34193",
+  "nombre": "Ric Grech",
+  "artistas": [
+   "family",
+   "traffic"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "instrument",
+   "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
   "mbid": "bd017fa4-18e4-4ed6-9f28-ef34be20612d",
   "nombre": "Ian Gillespie",
   "artistas": [
@@ -1525,21 +1747,6 @@
    "liner notes"
   ],
   "es_musico_universo": true
- },
- {
-  "mbid": "e04632c9-e1fe-4800-b9b2-c26bd8c04ccf",
-  "nombre": "Michael Mesker",
-  "artistas": [
-   "frank-zappa",
-   "mothers-of-invention"
-  ],
-  "n_albumes": 3,
-  "roles": [
-   "art direction",
-   "design",
-   "photography"
-  ],
-  "es_musico_universo": false
  },
  {
   "mbid": "d8297d32-7a44-4d8a-95ae-7b525f6e46d5",
@@ -1720,6 +1927,19 @@
   "n_albumes": 3,
   "roles": [
    "producer"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "7f22b075-52b4-41c1-9dc2-b19fbcc62101",
+  "nombre": "Eddie Kramer",
+  "artistas": [
+   "small-faces",
+   "traffic"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "engineer"
   ],
   "es_musico_universo": false
  },

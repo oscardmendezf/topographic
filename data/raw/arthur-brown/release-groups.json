@@ -1,0 +1,109 @@
+{
+  "release-group-count": 10,
+  "release-groups": [
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "title": "Nature",
+      "secondary-type-ids": [],
+      "first-release-date": "2026-09-04",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "0aaeed1d-f8d1-4614-bf13-02ced4da92d6"
+    },
+    {
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Gypsy Voodoo",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "4d98ef5c-2851-4884-986e-9443142cf702",
+      "first-release-date": "2019",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "BBC Sessions 1968",
+      "first-release-date": "",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "61c7fb65-0c30-4c33-8012-66ad79a6d061"
+    },
+    {
+      "id": "7391d2c8-dde7-412f-8aad-1999bc939e27",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2007",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "The Voice of Love",
+      "secondary-type-ids": []
+    },
+    {
+      "disambiguation": "",
+      "id": "7a00bb1f-a6bb-304d-8fdc-5d6b2521bc5a",
+      "primary-type": "Album",
+      "first-release-date": "2000",
+      "secondary-types": [],
+      "title": "Tantric Lover",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "title": "Vampire Suite",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "id": "8e55eaab-00fb-3d10-b886-79438ccce077",
+      "primary-type": "Album",
+      "first-release-date": "2003"
+    },
+    {
+      "secondary-types": [],
+      "title": "The Crazy World of Arthur Brown",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "first-release-date": "1968-09",
+      "disambiguation": "",
+      "id": "a6afac1f-5366-3c0f-8594-860342060c11"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "title": "Long Long Road",
+      "secondary-type-ids": [],
+      "id": "aa954fb1-8274-4c3f-ac24-3f6e5568465c",
+      "disambiguation": "",
+      "first-release-date": "2022-06-24",
+      "primary-type": "Album"
+    },
+    {
+      "disambiguation": "",
+      "id": "b69b43f2-ac14-347d-acb0-76869161caba",
+      "first-release-date": "1988",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "title": "Strangelands",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": []
+    },
+    {
+      "first-release-date": "2014-03-05",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "id": "be534766-66c6-40a7-8922-c8cfe79f0253",
+      "title": "Zim Zam Zim",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": []
+    }
+  ]
+}

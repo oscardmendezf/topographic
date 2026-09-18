@@ -1,0 +1,477 @@
+{
+  "id": "51625f3d-adfa-4096-a7b9-113f5225cc58",
+  "country": "GR",
+  "name": "Aphrodite’s Child",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": {
+    "type-id": null,
+    "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+    "type": null,
+    "sort-name": "Paris",
+    "disambiguation": "",
+    "name": "Paris",
+    "iso-3166-2-codes": [
+      "FR-75"
+    ]
+  },
+  "aliases": [
+    {
+      "end": null,
+      "ended": false,
+      "locale": null,
+      "name": "Aphrodites Child",
+      "primary": null,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "begin": null,
+      "sort-name": "Aphrodites Child",
+      "type": "Search hint"
+    }
+  ],
+  "area": {
+    "type": null,
+    "iso-3166-1-codes": [
+      "GR"
+    ],
+    "disambiguation": "",
+    "sort-name": "Greece",
+    "type-id": null,
+    "name": "Greece",
+    "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168"
+  },
+  "disambiguation": "Greek psychedelic rock band",
+  "ipis": [],
+  "isnis": [
+    "0000000106573625"
+  ],
+  "life-span": {
+    "end": "1971",
+    "ended": true,
+    "begin": "1968"
+  },
+  "gender": null,
+  "gender-id": null,
+  "sort-name": "Aphrodite’s Child",
+  "type": "Group",
+  "end-area": null,
+  "relations": [
+    {
+      "ended": false,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-credits": {},
+      "direction": "backward",
+      "begin": null,
+      "type": "member of band",
+      "attribute-values": {},
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "end": null,
+      "target-type": "artist",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "country": "GR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "64de3e2c-44b0-425c-9047-25769ba18d95",
+        "type": "Person",
+        "disambiguation": "Greek musician",
+        "name": "Silver Koulouris",
+        "sort-name": "Koulouris, Silver"
+      },
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null,
+      "target-credit": "",
+      "artist": {
+        "country": "GR",
+        "id": "64de3e2c-44b0-425c-9047-25769ba18d95",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "Greek musician",
+        "sort-name": "Koulouris, Silver",
+        "name": "Silver Koulouris"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "ended": false,
+      "type": "member of band",
+      "attributes": [
+        "original",
+        "percussion"
+      ],
+      "attribute-values": {},
+      "begin": null,
+      "direction": "backward"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b3fa1a75-d947-4f32-9f5d-dc72d7438afa",
+        "country": "GR",
+        "disambiguation": "Egyptian-born Greek musician",
+        "sort-name": "Roussos, Demis",
+        "name": "Demis Roussos",
+        "type": "Person"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "begin": null,
+      "direction": "backward",
+      "type": "member of band",
+      "attribute-values": {},
+      "attributes": [
+        "original"
+      ],
+      "ended": false,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "sort-name": "Sideras, Lukas",
+        "name": "Λουκάς Σιδεράς",
+        "country": "GR",
+        "id": "eb1d52cf-95a0-4956-906f-bac131452a3e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist",
+      "begin": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "type": "member of band",
+      "ended": false,
+      "attribute-credits": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "attributes": [
+        "original"
+      ],
+      "attribute-values": {},
+      "type": "member of band",
+      "begin": null,
+      "direction": "backward",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "ended": false,
+      "artist": {
+        "country": "GR",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
+        "type": "Person",
+        "name": "Vangelis",
+        "disambiguation": "Greek composer of electronic, new age and classical",
+        "sort-name": "Vangelis"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "source-credit": "",
+      "end": null
+    },
+    {
+      "direction": "backward",
+      "begin": null,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "subgroup",
+      "ended": false,
+      "attribute-ids": {},
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Inter-Groupie Psychotherapeutic Elastic Band",
+        "disambiguation": "",
+        "name": "Inter-Groupie Psychotherapeutic Elastic Band",
+        "type": "Group",
+        "id": "40c47e86-1f3b-491e-bbd4-4ebd28a1f2ce",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "country": "GB"
+      },
+      "end": null,
+      "source-credit": "",
+      "target-type": "artist"
+    },
+    {
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000495954",
+        "id": "e72e9144-45b2-4573-b252-a7a005a8aab9"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "attributes": [],
+      "type": "allmusic"
+    },
+    {
+      "end": "2020-11-19",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/51625f3d-adfa-4096-a7b9-113f5225cc58",
+        "id": "bdd2b79d-5e41-43ba-bb16-0507ef15c854"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "target-credit": "",
+      "ended": true,
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "BBC Music page"
+    },
+    {
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "url": {
+        "id": "f3d11eae-0596-48ca-8c10-72175231bb50",
+        "resource": "https://www.discogs.com/artist/104958"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "discogs",
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "free streaming",
+      "end": null,
+      "url": {
+        "id": "d23fb192-50cb-4eb6-9273-a9796b5f02e7",
+        "resource": "https://open.spotify.com/artist/2XhhAWeUOlrZnGOB7aKEI8"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "id": "df52d142-c675-4a6b-9a4f-441cd441feda",
+        "resource": "https://www.deezer.com/artist/14009"
+      },
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "ended": false,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "free streaming",
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "id": "9137f01b-0883-490d-a541-4058ac2d8d12",
+        "resource": "https://www.last.fm/music/Aphrodite's+Child"
+      },
+      "attribute-values": {},
+      "attributes": [],
+      "type": "last.fm",
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-credit": "",
+      "end": null,
+      "url": {
+        "id": "def91cdb-8cb4-47e6-97c4-14b1963cb960",
+        "resource": "https://genius.com/artists/Aphrodites-child"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "lyrics",
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "direction": "forward",
+      "type": "other databases",
+      "attribute-values": {},
+      "attributes": [],
+      "ended": false,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "id": "5c47800b-963c-4dd7-9ce0-8b0467636440",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13901659p"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "attribute-values": {},
+      "attributes": [],
+      "type": "other databases",
+      "end": null,
+      "url": {
+        "resource": "https://d-nb.info/gnd/5558645-4",
+        "id": "2510f514-1ca0-449b-9d7e-9bed5f5a8081"
+      },
+      "source-credit": "",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": ""
+    },
+    {
+      "type": "other databases",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "ended": false,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/aphrodites_child",
+        "id": "d3e3dff7-ce23-427e-b616-b6016d8bfed0"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "type": "other databases",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null,
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "c6acab28-8ead-4313-bdf3-eb5e1cde6429",
+        "resource": "http://www.worldcat.org/identities/viaf-125296442/"
+      },
+      "end": null,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "type": "setlistfm",
+      "url": {
+        "id": "f29c000a-82d7-433a-8d9d-ccaf354ef499",
+        "resource": "https://www.setlist.fm/setlists/aphrodites-child-5bd60b90.html"
+      },
+      "end": null,
+      "target-type": "url",
+      "source-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "id": "0a6cb6ae-3642-44ce-8041-d081931fbb5d",
+        "resource": "http://viaf.org/viaf/125296442"
+      },
+      "end": null,
+      "attributes": [],
+      "attribute-values": {},
+      "type": "VIAF",
+      "direction": "forward",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q618537",
+        "id": "ae21f884-2c7a-4c00-a07f-88ca69e21ac5"
+      },
+      "target-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-ids": {},
+      "ended": false,
+      "type": "wikidata",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "forward",
+      "begin": null
+    }
+  ]
+}

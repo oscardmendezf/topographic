@@ -1,0 +1,280 @@
+{
+ "id": "rar-protoprog",
+ "escena": "rarezas",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "nice",
+   "nombre": "The Nice",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1967",
+   "fin": "1970",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/The_Nice",
+   "formaciones_mb": [
+    "Brian Davison (miembro; ?–act.)",
+    "Keith Emerson (miembro; ?–act.)",
+    "Lee Jackson (miembro; ?–act.)",
+    "David O’List (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "nice-the-thoughts-of-emerlist-davjack",
+     "titulo": "The Thoughts of Emerlist Davjack",
+     "anio": 1968,
+     "mbid": "0a969444-de45-3611-baac-ddbde18cc3a4",
+     "primer_lanzamiento": "1968-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "nice-ars-longa-vita-brevis",
+     "titulo": "Ars Longa Vita Brevis",
+     "anio": 1968,
+     "mbid": "5388c096-b8c9-3471-88a6-4d481f354223",
+     "primer_lanzamiento": "1968-11",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "nice-nice",
+     "titulo": "Nice",
+     "anio": 1969,
+     "mbid": "2484765f-b1dd-3a1b-af9d-e8aebcf3c55b",
+     "primer_lanzamiento": "1969-08",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "nice-elegy",
+     "titulo": "Elegy",
+     "anio": 1971,
+     "mbid": "2dec8266-2ecd-3779-83f8-d99912cbb26b",
+     "primer_lanzamiento": "1971-04-02",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "procol-harum",
+   "nombre": "Procol Harum",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1967",
+   "fin": "2022",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Procol_Harum",
+   "formaciones_mb": [
+    "Ray Royer (miembro; 1967–1967)",
+    "Matthew Fisher (miembro; 1967–1969)",
+    "David Knights (miembro; 1967–1969)",
+    "Robin Trower (miembro; 1967–1971)",
+    "Barrie James Wilson (miembro; 1967–1977)",
+    "Dave Ball (miembro; 1971–1972)",
+    "Alan Cartwright (bass guitar; 1971–1976)",
+    "Robin Trower (miembro; 1991–1991)",
+    "Matthew Fisher (miembro; 1991–2004)",
+    "Matt Pegg (miembro; 1993–act.)",
+    "Dave Bronze (miembro; ?–act.)",
+    "Gary Brooker (original; ?–act.)",
+    "Chris Copping (miembro; ?–act.)",
+    "Mick Grabham (miembro; ?–act.)",
+    "Tim Renwick (miembro; ?–act.)",
+    "Peter Solley (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "procol-harum-a-whiter-shade-of-pale",
+     "titulo": "A Whiter Shade of Pale",
+     "anio": 1967,
+     "mbid": "59c4b156-e1f6-374c-a5e6-ea0ccd51d433",
+     "primer_lanzamiento": "1967-09-01",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-shine-on-brightly",
+     "titulo": "Shine On Brightly",
+     "anio": 1968,
+     "mbid": "63b88b90-71f4-3ca9-86a4-3de315734e13",
+     "primer_lanzamiento": "1968-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-a-salty-dog",
+     "titulo": "A Salty Dog",
+     "anio": 1969,
+     "mbid": "4eebdc43-00e0-3463-b7f8-206622427feb",
+     "primer_lanzamiento": "1969-03-01",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-home",
+     "titulo": "Home",
+     "anio": 1970,
+     "mbid": "cf2d7697-b6c2-3e8e-9a42-59153daa2ec1",
+     "primer_lanzamiento": "1970",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-broken-barricades",
+     "titulo": "Broken Barricades",
+     "anio": 1971,
+     "mbid": "b75183bf-267a-3446-ad12-3c4459dd0d6f",
+     "primer_lanzamiento": "1971",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-grand-hotel",
+     "titulo": "Grand Hotel",
+     "anio": 1973,
+     "mbid": "b3a77032-e766-3a66-956f-1aeb10403d43",
+     "primer_lanzamiento": "1973",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-exotic-birds-and-fruit",
+     "titulo": "Exotic Birds and Fruit",
+     "anio": 1974,
+     "mbid": "5c50e1f1-32c5-303a-a271-63b6cfcdce3e",
+     "primer_lanzamiento": "1974",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-procols-ninth",
+     "titulo": "Procol’s Ninth",
+     "anio": 1975,
+     "mbid": "859b5b4a-2059-371c-815c-7814e10c2a51",
+     "primer_lanzamiento": "1975",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-something-magic",
+     "titulo": "Something Magic",
+     "anio": 1977,
+     "mbid": "d59a46fd-d08d-4342-8a4e-b2b9e4081bde",
+     "primer_lanzamiento": "1977",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-the-prodigal-stranger",
+     "titulo": "The Prodigal Stranger",
+     "anio": 1991,
+     "mbid": "0f4dcff8-288f-374f-b980-b1d4d3d36c3e",
+     "primer_lanzamiento": "1991-08-27",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-the-wells-on-fire",
+     "titulo": "The Well’s on Fire",
+     "anio": 2003,
+     "mbid": "106ea374-c87d-3279-803d-d3eb8956b218",
+     "primer_lanzamiento": "2003-03-03",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-novum",
+     "titulo": "Novum",
+     "anio": 2017,
+     "mbid": "eaf227f9-6953-4389-8fc1-e26420d6b08e",
+     "primer_lanzamiento": "2017-04-21",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "procol-harum-the-sunday-concert-john-peel-broadcast-1970",
+     "titulo": "The Sunday Concert (John Peel broadcast 1970)",
+     "anio": 2024,
+     "mbid": "11c18a6a-ee12-479f-8f66-6ec001805a3b",
+     "primer_lanzamiento": "2024-04-16",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "arthur-brown",
+   "nombre": "The Crazy World of Arthur Brown",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1967",
+   "fin": null,
+   "wikipedia_url": "https://es.wikipedia.org/wiki/The_Crazy_World_of_Arthur_Brown",
+   "formaciones_mb": [
+    "Carter Arrington (guitar; 2016–act.)",
+    "Tony Awin (miembro; ?–act.)",
+    "Arthur Brown (miembro; ?–act.)",
+    "Vincent Crane (miembro; ?–act.)",
+    "Carl Palmer (miembro; ?–act.)",
+    "Drachen Theaker (miembro; ?–?)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "arthur-brown-the-crazy-world-of-arthur-brown",
+     "titulo": "The Crazy World of Arthur Brown",
+     "anio": 1968,
+     "mbid": "a6afac1f-5366-3c0f-8594-860342060c11",
+     "primer_lanzamiento": "1968-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "arthur-brown-strangelands",
+     "titulo": "Strangelands",
+     "anio": 1988,
+     "mbid": "b69b43f2-ac14-347d-acb0-76869161caba",
+     "primer_lanzamiento": "1988",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "arthur-brown-tantric-lover",
+     "titulo": "Tantric Lover",
+     "anio": 2000,
+     "mbid": "7a00bb1f-a6bb-304d-8fdc-5d6b2521bc5a",
+     "primer_lanzamiento": "2000",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "arthur-brown-vampire-suite",
+     "titulo": "Vampire Suite",
+     "anio": 2003,
+     "mbid": "8e55eaab-00fb-3d10-b886-79438ccce077",
+     "primer_lanzamiento": "2003",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "arthur-brown-the-voice-of-love",
+     "titulo": "The Voice of Love",
+     "anio": 2007,
+     "mbid": "7391d2c8-dde7-412f-8aad-1999bc939e27",
+     "primer_lanzamiento": "2007",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "arthur-brown-zim-zam-zim",
+     "titulo": "Zim Zam Zim",
+     "anio": 2014,
+     "mbid": "be534766-66c6-40a7-8922-c8cfe79f0253",
+     "primer_lanzamiento": "2014-03-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "arthur-brown-gypsy-voodoo",
+     "titulo": "Gypsy Voodoo",
+     "anio": 2019,
+     "mbid": "4d98ef5c-2851-4884-986e-9443142cf702",
+     "primer_lanzamiento": "2019",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "arthur-brown-long-long-road",
+     "titulo": "Long Long Road",
+     "anio": 2022,
+     "mbid": "aa954fb1-8274-4c3f-ac24-3f6e5568465c",
+     "primer_lanzamiento": "2022-06-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "arthur-brown-nature",
+     "titulo": "Nature",
+     "anio": 2026,
+     "mbid": "0aaeed1d-f8d1-4614-bf13-02ced4da92d6",
+     "primer_lanzamiento": "2026-09-04",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

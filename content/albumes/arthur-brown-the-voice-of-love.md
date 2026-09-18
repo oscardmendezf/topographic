@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "arthur-brown-the-voice-of-love"
+titulo: "The Voice of Love"
+artista: "The Crazy World of Arthur Brown"
+artista_slug: "arthur-brown"
+anio_ficha: 2007
+era: "moderna"
+escena: "rarezas"
+mb_rgid: "7391d2c8-dde7-412f-8aad-1999bc939e27"
+primer_lanzamiento: "2007"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Disco de voz, sin ambición."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Sin presencia más allá del seguidor fiel."
+historia: "editorial"
+---
+
+El más blando de su discografía: baladas y soul de crooner que aprovechan bien el instrumento vocal y desactivan del todo al personaje. Se escucha sin molestia y se olvida sin culpa.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del concepto de vampiros, Brown hizo el movimiento contrario y grabó en 2007 un disco sin personaje. The Voice of Love es exactamente lo que anuncia: un álbum de baladas y soul de crooner, construido para que el instrumento vocal ocupe el centro y no tenga que competir con ninguna puesta en escena. Es la decisión más arriesgada posible para un cantante cuya reputación entera descansa en el exceso, y también la más previsible para alguien que llevaba décadas cantando sobre el amor como asunto espiritual.
+
+El repertorio mezcla material propio con relecturas. «Love Is the Spirit», «The Voice of Love» y «All the Bells» vuelven a grabarse en versiones más despojadas que las que habían aparecido siete años antes, un hábito que Brown mantuvo toda su carrera tardía: tratar sus canciones como piezas de repertorio abiertas a nuevas lecturas. «Kites» y «That's How Strong My Love Is» son ajenas y funcionan como declaración de linaje, porque sitúan al cantante en la tradición del intérprete antes que en la del autor. «Gypsies» y «Birds of a Feather» son los cortes propios más logrados, «I Believe in You» y «Shining Bright» los más convencionales. «Devil's Grip» recupera un título de sus primeros años y es el único gesto que mira hacia atrás, aunque tratado con la misma temperatura que el resto. «Safe Now &...» cierra con más de doce minutos, la pieza larga del disco y la única que se permite divagar.
+
+## La producción
+
+Los registros verificados no aportan productor, ingeniero, estudio ni personal acompañante para este álbum, así que no hay nombres que atribuir. El criterio de sonido, en cambio, es transparente: todo está subordinado a la voz. La grabación es limpia, cálida y sin aristas, con bases discretas, teclados en función de colchón, guitarras de acompañamiento que nunca se adelantan y un tratamiento de estudio pulido que evita cualquier aspereza.
+
+Es una producción de cantante, no de banda, y ahí está su mérito y su límite. El mérito consiste en haber entendido que a esa altura el activo real era el registro grave de Brown, todavía firme, y haberlo puesto al frente sin adornos que lo distrajeran. El límite es que, desactivado el personaje, no queda ninguna tensión: el arreglo nunca amenaza con salirse del cauce, ninguna decisión sorprende y la sucesión de temas de duración pareja produce un efecto de uniformidad que la pieza final, la más larga del conjunto, no alcanza a romper.
+
+## Recepción y legado
+
+Es el disco más blando de su discografía y también el más fácil de escuchar, lo que explica que no haya generado ni defensa ni polémica. Quien llegue buscando al cantante de 1968 no encontrará nada; quien busque un buen intérprete de baladas encontrará un álbum correcto y sin sobresaltos.
+
+Su lugar en la carrera es el de un paréntesis útil. Sirvió para probar que la voz aguantaba fuera de todo contexto teatral y para ensayar el repertorio en versiones desnudas, un procedimiento que años después daría resultados mucho mejores cuando la sobriedad dejó de ser una renuncia y se convirtió en una posición. Al rock progresivo no le prestó nada, y tampoco lo pretende: es el disco donde uno de los inventores de la teatralidad en el rock decide, por una vez, no actuar. Se escucha sin molestia y se olvida sin culpa, que es precisamente lo que se puede decir de la mayoría de los discos de crooner hechos por gente con más pasado que proyecto.

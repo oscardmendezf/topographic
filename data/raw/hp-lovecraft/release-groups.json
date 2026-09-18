@@ -1,0 +1,101 @@
+{
+  "release-group-count": 8,
+  "release-groups": [
+    {
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "disambiguation": "",
+      "first-release-date": "1975",
+      "title": "We Love You: Whoever You Are",
+      "id": "149f206b-ff3c-45f9-96fb-1e274ebef1ae"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "id": "73193985-8208-4172-9a9f-c1035af48d64",
+      "first-release-date": "1988",
+      "title": "At the Mountains of Madness"
+    },
+    {
+      "id": "7b09d709-dc44-392c-b382-2be3e31696bc",
+      "first-release-date": "1968",
+      "title": "H.P. Lovecraft II",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "id": "83b53976-a2f9-3b9b-a176-87898c95adf4",
+      "title": "This Is HP Lovecraft / HP Lovecraft II",
+      "first-release-date": "2000",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album"
+    },
+    {
+      "title": "Valley of the Moon",
+      "first-release-date": "1970-12",
+      "id": "92448de1-a543-406c-8d83-5d348982bda9",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "secondary-types": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": []
+    },
+    {
+      "id": "9bbc2be3-cb10-3475-818c-086a0970d6e4",
+      "first-release-date": "1967",
+      "title": "H.P. Lovecraft",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [],
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "id": "d1f27f77-88c2-3e21-8dca-5b3a55d90427",
+      "first-release-date": "1991",
+      "title": "Live May 11, 1968",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "id": "da9e91aa-b31e-44f5-8f73-ac560bf7f9a2",
+      "title": "Dreams in the Witch House (The Complete Philips Recordings)",
+      "first-release-date": "2005",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type": "Album"
+    }
+  ]
+}

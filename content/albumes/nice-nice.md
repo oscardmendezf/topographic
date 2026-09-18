@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "nice-nice"
+titulo: "Nice"
+artista: "The Nice"
+artista_slug: "nice"
+anio_ficha: 1969
+era: "clasica"
+escena: "rarezas"
+mb_rgid: "2484765f-b1dd-3a1b-af9d-e8aebcf3c55b"
+primer_lanzamiento: "1969-08"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Su disco más disfrutable, sostenido por las tomas en vivo."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Buen momento comercial del grupo, siempre a escala de culto."
+historia: "editorial"
+---
+
+Mitad estudio, mitad directo, y el directo gana por goleada: el trío sin guitarra tocando con una agresividad que las sesiones de estudio nunca capturaron. Las canciones propias siguen sin estar a la altura del instrumental, pero la versión de «Rondo» explica por qué esta banda importaba en vivo y no en disco. El mejor registro de lo que The Nice era realmente.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Para 1969 The Nice ya era un trío: Keith Emerson en teclados, Lee Jackson en bajo y voz, Brian Davison en batería, sin guitarra y sin intención de reemplazarla. El disco resuelve un problema que la banda venía arrastrando desde el debut. En el estudio nunca sonaban como sonaban en escena, y en escena era donde estaba todo lo que tenían. La solución fue partir el álbum: unas piezas grabadas en sesión y el tramo final tomado de actuaciones, con el minutaje inclinándose claramente hacia el directo.
+
+El resultado deja las dos caras del grupo enfrentadas y sin árbitro. «Azrael Revisited» y «Diary of an Empty Day» son canciones propias, correctas, con la voz de Jackson sosteniéndolas como puede; «Hang on to a Dream» es material ajeno de la canción de autor norteamericana, tratado con delicadeza y algo de solemnidad. Contra eso, «For Example» se desarrolla como una improvisación extendida, «Rondo (69)» vuelve sobre el tema de Dave Brubeck que ya habían desarmado en el debut y lo devuelve más rápido y más agresivo, y «She Belongs to Me» estira doce minutos una canción prestada hasta que deja de ser una canción y pasa a ser una excusa para tocar. Ese último tramo es The Nice de verdad.
+
+## La producción
+
+El contraste técnico entre las dos mitades es el asunto del disco. Lo grabado en estudio está cuidado, con arreglos cerrados y un Hammond bien encuadrado en la mezcla; lo grabado en vivo tiene menos definición, más filo y una dinámica que las sesiones no alcanzaron nunca. El órgano aparece saturado, con el Leslie girando al límite y el pedalero cubriendo el registro grave, porque sin guitarrista el trío necesita que un solo instrumento ocupe dos funciones a la vez.
+
+Davison es la otra clave. Sin guitarra que rellene, la batería deja de acompañar y pasa a conversar: acentos corridos, redobles que cortan la frase, un pulso que se comporta como el de un baterista de jazz metido en una banda de rock. Jackson sostiene el armazón desde abajo con muy poco lucimiento, y su voz, áspera y de club, es lo que separa este disco de la elegancia que el progresivo adoptaría después. En las tomas en vivo se escucha además el ruido físico del instrumento —teclas trabadas, notas sostenidas por medios que no son los dedos— que era parte del número y que en cinta queda como resto de una puesta en escena que no se ve.
+
+## Recepción y legado
+
+Es el registro más fiel de lo que The Nice fue: un trío que tocaba mejor de lo que componía y que en escenario podía sostener veinte minutos de desarrollo sin red. Las canciones propias siguen quedando por debajo del instrumental, y eso ya no se puede arreglar; el valor está en escuchar cómo un grupo entero se organiza alrededor de un órgano.
+
+Su influencia es doble. Por un lado fijó el trío de teclados, bajo y batería como formación viable para el rock ambicioso, algo que a partir de 1970 se volvería un estándar. Por el otro dejó el modelo del directo progresivo: pieza larga, tema conocido reescrito, improvisación pactada y un solista que lleva el peso. Todo lo que vino después en esa línea pasa por acá.

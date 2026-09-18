@@ -33,6 +33,20 @@ CONFIG = {
             {"id": "ar-otros", "artistas": ["vox-dei", "pastoral", "bubu", "tantor"]},
         ],
     },
+    "rarezas": {
+        "escena": "rarezas",
+        "grupos": [
+            {"id": "rar-protoprog", "artistas": ["nice", "procol-harum", "arthur-brown"]},
+            {"id": "rar-psicodelia-uk", "artistas": ["tomorrow", "kaleidoscope-uk", "nirvana-uk", "zombies"]},
+            {"id": "rar-underground-uk", "artistas": ["third-ear-band", "high-tide", "quintessence"]},
+            {"id": "rar-traffic-family", "artistas": ["traffic", "family"]},
+            {"id": "rar-hawkwind", "artistas": ["hawkwind"]},
+            {"id": "rar-acid-us", "artistas": ["vanilla-fudge", "iron-butterfly"]},
+            {"id": "rar-spirit", "artistas": ["spirit"]},
+            {"id": "rar-laboratorio", "artistas": ["electric-prunes", "united-states-of-america", "silver-apples", "hp-lovecraft", "aphrodites-child"]},
+            {"id": "rar-beefheart", "artistas": ["captain-beefheart"]},
+        ],
+    },
 }
 
 

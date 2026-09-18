@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "electric-prunes-underground"
+titulo: "Underground"
+artista: "The Electric Prunes"
+artista_slug: "electric-prunes"
+anio_ficha: 1967
+era: "clasica"
+escena: "rarezas"
+mb_rgid: "8d91f80f-6609-358e-b288-0a2ad6b793a0"
+primer_lanzamiento: "1967-09"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Su trabajo más personal del período, reivindicado tarde."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Quedó a la sombra del debut y circuló poco."
+historia: "editorial"
+---
+
+Del mismo año que el debut y con más material propio: arreglos más tensos, melodías menos obvias y ninguna canción pensada para repetir el golpe anterior. Es el disco donde más se parecen a un grupo y el que menos se recuerda. La paradoja los define entera.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Del mismo año que el debut, y en las antípodas de su lógica. Si el primer disco era el catálogo de un procedimiento, este es el intento de los Prunes de existir como grupo: hay más material propio, los arreglos están más pensados, las melodías evitan lo obvio y ninguna canción parece diseñada para repetir el golpe anterior. Es el disco donde más se parecen a una banda, y es el que menos se recuerda. La paradoja los define entera.
+
+«The Great Banana Hoax» abre con el desarrollo más ambicioso del conjunto, cuatro minutos que cambian de sección en lugar de repetir un estribillo, y marca el tono: aquí la estructura importa. «I» se estira por encima de los cinco minutos y es la pieza que más lejos lleva la idea, con un tramo instrumental que anticipa formas que el rock tardaría un par de años en normalizar. «Children of Rain» y «Antique Doll» trabajan una melancolía de cámara muy alejada del garaje; «Wind-Up Toys» y «Capt. Glory» juegan con la imaginería infantil torcida que la psicodelia inglesa estaba explorando en paralelo. «Dr. Do-Good» y «Big City» mantienen el nervio eléctrico para que el disco no se vuelva del todo introspectivo, y «Long Day’s Flight» cierra con la mejor mezcla de las dos cosas.
+
+## La producción
+
+Los créditos verificados no conservan nombres de producción ni de estudio, así que el análisis vuelve a apoyarse en lo que suena. Y lo que suena es un trabajo más contenido que el del debut: menos efecto en primer plano, más atención a los arreglos, guitarras que dialogan en lugar de competir por el espacio. El tratamiento de cinta sigue presente pero ya no es el argumento; funciona como recurso dentro de una construcción que descansa sobre la escritura.
+
+James Lowe canta con más matices y menos urgencia, y el bajo de Mark Tulin gana protagonismo armónico: en varias piezas es la línea del bajo la que mueve la pieza, no la guitarra. Hay también un uso más ambicioso de las voces, con armonías y superposiciones que el disco anterior no había intentado. Todo esto es lo que un grupo hace cuando quiere demostrar que existe, y precisamente por eso el sello no supo qué hacer con el resultado: no había aquí ninguna pieza que sostuviera la operación comercial montada meses antes.
+
+## Recepción y legado
+
+Pasó desapercibido y ahí se quedó. Sin un single que repitiera el procedimiento, el disco quedó fuera del relato que el sello había construido, y la consecuencia fue inmediata: al año siguiente el nombre del grupo se usaría para proyectos escritos y arreglados por otro, con los Prunes reducidos a marca. Este es, en los hechos, el último disco donde deciden algo.
+
+Hoy se lo rescata como el más interesante de su etapa original, y la valoración es correcta aunque haya que matizarla: no hay aquí ninguna grabación con la potencia bruta del debut, y el conjunto vale más por coherencia que por picos. Su interés para el progresivo está en las piezas largas, donde una banda de garaje razona con desarrollos y contrastes en lugar de estribillos, justo en el momento en que esa forma de pensar estaba a punto de convertirse en un género entero.

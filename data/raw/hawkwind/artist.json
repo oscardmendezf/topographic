@@ -1,0 +1,2880 @@
+{
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1969-10"
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "is person",
+      "type-id": "dd9886f2-1dfe-4270-97db-283f6839a666",
+      "end": null,
+      "attribute-values": {},
+      "artist": {
+        "id": "b533b1c4-f60e-4ab0-af5d-e8ed18c3de9b",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "disambiguation": "",
+        "name": "Psychedelic Warriors",
+        "country": "GB",
+        "type": "Group",
+        "sort-name": "Psychedelic Warriors"
+      },
+      "direction": "forward",
+      "target-type": "artist"
+    },
+    {
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "begin": "1969-07",
+      "source-credit": "Hawkwind Zoo",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "end": "1969-10",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f82a2991-4279-497d-a40f-2c50a182fa37",
+        "type": "Person",
+        "sort-name": "Brock, Dave",
+        "country": "GB",
+        "name": "Dave Brock",
+        "disambiguation": "UK guitarist/synthesizer singer/songwriter, member of Hawkwind"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "artist": {
+        "name": "Dik Mik Davies",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Davies, Dik Mik",
+        "id": "dbb774a4-75c6-4f47-b1d2-bbc176bf39b1",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1969-10",
+      "type": "member of band",
+      "target-credit": "Dik Mik",
+      "ended": true,
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "source-credit": "Hawkwind Zoo",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1969-07"
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "sort-name": "Harrison, John",
+        "type": "Person",
+        "disambiguation": "UK bassist, later L.A. recording engineer",
+        "country": "GB",
+        "name": "John Harrison",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "57f98ec0-0ec8-4517-916c-f92bfca023b2"
+      },
+      "attribute-values": {},
+      "end": "1969-10",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "source-credit": "Hawkwind Zoo",
+      "attributes": [
+        "bass guitar",
+        "original"
+      ],
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1969-07"
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1969-07",
+      "attribute-credits": {},
+      "source-credit": "Hawkwind Zoo",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "end": "1969-10",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "artist": {
+        "id": "7bc376c6-0ad7-4931-9d58-11cfedbd8c2c",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Terry Ollis",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Ollis, Terry"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "5cddd878-5569-4859-9316-8cd68c02dda3",
+        "sort-name": "Slattery, Mick",
+        "type": "Person",
+        "name": "Mick Slattery",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "end": "1969-10",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "source-credit": "Hawkwind Zoo",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "begin": "1969-07",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-credits": {}
+    },
+    {
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1969-07",
+      "attribute-credits": {},
+      "attributes": [
+        "original",
+        "saxophone"
+      ],
+      "source-credit": "Hawkwind Zoo",
+      "artist": {
+        "id": "14fcc498-17c7-41b0-aaec-25f14d679bd5",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Nik Turner",
+        "country": "GB",
+        "sort-name": "Turner, Nik",
+        "type": "Person"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1969-10",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [
+        "flute",
+        "lead vocals",
+        "original",
+        "saxophone"
+      ],
+      "source-credit": "",
+      "begin": "1969-10",
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "attribute-credits": {},
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1976",
+      "attribute-values": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "14fcc498-17c7-41b0-aaec-25f14d679bd5",
+        "sort-name": "Turner, Nik",
+        "type": "Person",
+        "name": "Nik Turner",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "direction": "backward"
+    },
+    {
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "attributes": [
+        "bass",
+        "original"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "begin": "1969-11",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "57f98ec0-0ec8-4517-916c-f92bfca023b2",
+        "type": "Person",
+        "sort-name": "Harrison, John",
+        "disambiguation": "UK bassist, later L.A. recording engineer",
+        "name": "John Harrison",
+        "country": "GB"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1970-09",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Lloyd‐Langton, Huw",
+        "name": "Huw Lloyd‐Langton",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e6a68b2c-0e35-47f7-8992-9a2babb2ad1b"
+      },
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1971",
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1969-11"
+    },
+    {
+      "begin": "1969-11",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band",
+      "end": "1972-02",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Ollis, Terry",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Terry Ollis",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7bc376c6-0ad7-4931-9d58-11cfedbd8c2c"
+      },
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "Dik Mik",
+      "source-credit": "",
+      "attributes": [
+        "keyboard",
+        "original",
+        "synthesizer"
+      ],
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1969-11",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Davies, Dik Mik",
+        "disambiguation": "",
+        "name": "Dik Mik Davies",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "dbb774a4-75c6-4f47-b1d2-bbc176bf39b1"
+      },
+      "end": "1973",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "type": "member of band",
+      "ended": false,
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [
+        "guitar",
+        "keyboard",
+        "lead vocals",
+        "original",
+        "synthesizer"
+      ],
+      "attribute-credits": {},
+      "begin": "1969-11",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "sort-name": "Brock, Dave",
+        "type": "Person",
+        "name": "Dave Brock",
+        "country": "GB",
+        "disambiguation": "UK guitarist/synthesizer singer/songwriter, member of Hawkwind",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f82a2991-4279-497d-a40f-2c50a182fa37"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-credits": {},
+      "begin": "1970",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "source-credit": "",
+      "attributes": [
+        "bass"
+      ],
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "attribute-values": {},
+      "end": "1971",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "artist": {
+        "sort-name": "Crimble, Thomas",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Thomas Crimble",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b37a07f5-5cfb-45f5-b58a-bfbce00a476f"
+      },
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "begin": "1971-04",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "bass"
+      ],
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Anderson, Dave",
+        "country": "GB",
+        "name": "Dave Anderson",
+        "disambiguation": "bassist for Amon Düül, Hawkwind, recording engineer",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "cd6b6dbc-04a9-4c74-a8d2-42b2bac72067"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1971-10",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [
+        "keyboard",
+        "synthesizer"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "begin": "1971",
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1974",
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "country": "CA",
+        "name": "Del Dettmar",
+        "disambiguation": "",
+        "sort-name": "Dettmar, Del",
+        "type": "Person",
+        "id": "efba1810-c936-4a18-b94b-83c6c2261f25",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "source-credit": "",
+      "begin": "1971",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e3ea6186-7523-48de-8437-bac91bc47829",
+        "type": "Person",
+        "sort-name": "Kilmister, Lemmy",
+        "disambiguation": "“Lemmy” from Motörhead",
+        "name": "Lemmy Kilmister",
+        "country": "GB"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1975",
+      "attribute-values": {}
+    },
+    {
+      "attribute-credits": {},
+      "begin": "1972",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attributes": [
+        "lead vocals"
+      ],
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1973",
+      "artist": {
+        "id": "6253d563-08a8-404e-9336-d3312825827e",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "name": "Robert Calvert",
+        "disambiguation": "South African-British writer, poet, and musician, lead vocals for Hawkwind",
+        "type": "Person",
+        "sort-name": "Calvert, Robert"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "begin": "1972",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "end": "1979",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "id": "e88c49cc-0c4a-4766-8f5e-f833168dd451",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "drummer",
+        "name": "Simon King",
+        "country": "GB",
+        "sort-name": "King, Simon",
+        "type": "Person"
+      },
+      "target-type": "artist"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1978",
+      "attribute-values": {},
+      "artist": {
+        "sort-name": "House, Simon",
+        "type": "Person",
+        "name": "Simon House",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "fea1bbbf-f2f9-4a6d-ac3d-af8efaa58316"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "1973",
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard",
+        "synthesizer",
+        "violin"
+      ],
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-credits": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1974",
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "attribute-values": {},
+      "end": "1976",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "id": "4f5e8391-91ba-4766-8821-2b17e83b380b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "name": "Alan Powell",
+        "disambiguation": "UK drummer",
+        "sort-name": "Powell, Alan",
+        "type": "Person"
+      }
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "attributes": [
+        "bass"
+      ],
+      "source-credit": "",
+      "begin": "1975",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "disambiguation": "",
+        "country": "CA",
+        "name": "Paul Rudolph",
+        "sort-name": "Rudolph, Paul",
+        "type": "Person",
+        "id": "14e61660-b047-4e69-9f93-9e418c59b742",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1976",
+      "attribute-values": {}
+    },
+    {
+      "attribute-credits": {},
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1975",
+      "attributes": [
+        "lead vocals"
+      ],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1979",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "6253d563-08a8-404e-9336-d3312825827e",
+        "sort-name": "Calvert, Robert",
+        "type": "Person",
+        "disambiguation": "South African-British writer, poet, and musician, lead vocals for Hawkwind",
+        "name": "Robert Calvert",
+        "country": "GB"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "end": "1978",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Shaw, Adrian",
+        "name": "Adrian Shaw",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "941a5cdf-7388-4c7f-b12b-36bbeceb8823"
+      },
+      "direction": "backward",
+      "source-credit": "",
+      "attributes": [
+        "bass"
+      ],
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "begin": "1976",
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "attribute-credits": {},
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1977",
+      "attributes": [
+        "keyboard",
+        "synthesizer"
+      ],
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1978-03",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Hayles, Paul",
+        "disambiguation": "",
+        "name": "Paul Hayles",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "52c4999e-8b6a-4bfd-9f90-0834db1f4351"
+      },
+      "target-type": "artist"
+    },
+    {
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band",
+      "begin": "1978",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Smith, Mick",
+        "disambiguation": "Hawkwind, Valium Ten",
+        "country": null,
+        "name": "Mick Smith",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "bad0d7c8-75f3-48c2-94e8-f906ad11d8e3"
+      },
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1978",
+      "attribute-values": {}
+    },
+    {
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "begin": "1978",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "812c802a-9491-4006-8d21-a0e54e506c1c",
+        "sort-name": "Griffin, Martin",
+        "type": "Person",
+        "country": "GB",
+        "name": "Martin Griffin",
+        "disambiguation": "hard rock/space rock drummer"
+      },
+      "direction": "backward",
+      "end": "1979",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "artist": {
+        "country": "GB",
+        "name": "Steve Swindells",
+        "disambiguation": "",
+        "sort-name": "Swindells, Steve",
+        "type": "Person",
+        "id": "03600097-66b9-4186-b9f1-e9d403d63b6b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1979",
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "begin": "1978",
+      "attributes": [
+        "keyboard",
+        "synthesizer"
+      ],
+      "source-credit": ""
+    },
+    {
+      "artist": {
+        "id": "39a9c8ec-ffb4-45b0-aeeb-cceec3b9f9de",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Harvey Bainbridge",
+        "country": "GB",
+        "type": "Person",
+        "sort-name": "Bainbridge, Harvey"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1991",
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "begin": "1978",
+      "attributes": [
+        "bass",
+        "keyboard",
+        "synthesizer"
+      ],
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "keyboard",
+        "lead vocals"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "begin": "1979",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1980",
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "sort-name": "Blake, Tim",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Tim Blake",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "953dfeff-94a2-44e4-a037-379ded98a6da"
+      }
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "begin": "1979",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "sort-name": "King, Simon",
+        "type": "Person",
+        "disambiguation": "drummer",
+        "country": "GB",
+        "name": "Simon King",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e88c49cc-0c4a-4766-8f5e-f833168dd451"
+      },
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1980"
+    },
+    {
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "begin": "1979",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "source-credit": "",
+      "direction": "backward",
+      "artist": {
+        "id": "e6a68b2c-0e35-47f7-8992-9a2babb2ad1b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Huw Lloyd‐Langton",
+        "country": "GB",
+        "sort-name": "Lloyd‐Langton, Huw",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1988",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1981",
+      "attribute-values": {},
+      "target-type": "artist",
+      "artist": {
+        "sort-name": "Baker, Ginger",
+        "type": "Person",
+        "name": "Ginger Baker",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e01d1aff-9cc2-4606-83d7-56445515c6e6"
+      },
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1980",
+      "attribute-credits": {},
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a17d36dd-b791-40a2-b201-dfe6abb208b1",
+        "type": "Person",
+        "sort-name": "Hale, Keith",
+        "disambiguation": "",
+        "name": "Keith Hale",
+        "country": "GB"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1981",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "attributes": [
+        "keyboard",
+        "synthesizer"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "begin": "1980",
+      "attribute-credits": {}
+    },
+    {
+      "begin": "1981",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1983",
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "812c802a-9491-4006-8d21-a0e54e506c1c",
+        "sort-name": "Griffin, Martin",
+        "type": "Person",
+        "country": "GB",
+        "name": "Martin Griffin",
+        "disambiguation": "hard rock/space rock drummer"
+      },
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [
+        "flute",
+        "lead vocals",
+        "saxophone"
+      ],
+      "attribute-credits": {},
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7",
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1982",
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "14fcc498-17c7-41b0-aaec-25f14d679bd5",
+        "sort-name": "Turner, Nik",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Nik Turner"
+      },
+      "attribute-values": {},
+      "end": "1985",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "begin": "1983",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "artist": {
+        "id": "9d09af2f-8fd6-4e5f-af0d-d8cc9e27eb7a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "drummer for The Cure",
+        "name": "Andy Anderson",
+        "country": "GB",
+        "type": "Person",
+        "sort-name": "Anderson, Andy"
+      },
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1983"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1983",
+      "attribute-values": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "47f395ee-150f-4111-8e11-a1321c033838",
+        "type": "Person",
+        "sort-name": "Heaton, Robert",
+        "disambiguation": "",
+        "name": "Robert Heaton",
+        "country": "GB"
+      },
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1983",
+      "attribute-credits": {},
+      "type": "member of band",
+      "ended": true,
+      "target-credit": ""
+    },
+    {
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "begin": "1983",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "artist": {
+        "country": "GB",
+        "name": "Rik Martinez",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Martinez, Rik",
+        "id": "20ddff45-a1c3-4fb7-8c9c-5a4016ecdf37",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1983"
+    },
+    {
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "attributes": [
+        "keyboard",
+        "lead vocals",
+        "violin"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "begin": "1983",
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b273c535-cde4-491c-9094-e314d478df2e",
+        "sort-name": "Dead Fred",
+        "type": "Person",
+        "country": "GB",
+        "name": "Dead Fred",
+        "disambiguation": ""
+      },
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1984"
+    },
+    {
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "begin": "1983",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "d576e6be-03d1-489c-8c3e-692c6fbfb7ca",
+        "type": "Person",
+        "sort-name": "Deamer, Clive",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Clive Deamer"
+      },
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1985"
+    },
+    {
+      "artist": {
+        "id": "b3930bde-72d8-4e87-9f75-ef330b5c83e2",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "name": "Danny Thompson",
+        "disambiguation": "Hawkwind drummer",
+        "sort-name": "Thompson, Danny",
+        "type": "Person"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": "1988",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "1984",
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ]
+    },
+    {
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "attributes": [
+        "bass"
+      ],
+      "source-credit": "",
+      "begin": "1984",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "fe362298-24e5-4f4e-9762-e7df393d2e81",
+        "type": "Person",
+        "sort-name": "Davey, Alan",
+        "name": "Alan Davey",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1996",
+      "attribute-values": {}
+    },
+    {
+      "attribute-credits": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1988",
+      "attributes": [
+        "drums (drum set)",
+        "lead vocals"
+      ],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "artist": {
+        "sort-name": "Chadwick, Richard",
+        "type": "Person",
+        "name": "Richard Chadwick",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9a8c119b-0d82-47f2-bf3f-c9294012a266"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "artist": {
+        "id": "fea1bbbf-f2f9-4a6d-ac3d-af8efaa58316",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Simon House",
+        "sort-name": "House, Simon",
+        "type": "Person"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1991",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "attributes": [
+        "keyboard",
+        "synthesizer",
+        "violin"
+      ],
+      "source-credit": "",
+      "begin": "1989",
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0",
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attribute-credits": {}
+    },
+    {
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1989",
+      "attribute-credits": {},
+      "source-credit": "",
+      "attributes": [
+        "lead vocals"
+      ],
+      "direction": "backward",
+      "artist": {
+        "sort-name": "Wishart, Bridget",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Bridget Wishart",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "1cc0acb3-5d58-422e-bbb9-9837e4ca029d"
+      },
+      "target-type": "artist",
+      "end": "1991",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1991",
+      "attribute-values": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "1186c2b7-76ad-4bc2-99ea-6c120d2ce3b5",
+        "sort-name": "Bemand, Steve",
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Steve Bemand",
+        "country": "GB"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "source-credit": "",
+      "begin": "1991",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-credits": {},
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2001",
+      "artist": {
+        "id": "8a466643-f64b-4ae5-9a71-2f5ba9d9851d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Jerry Richards",
+        "type": "Person",
+        "sort-name": "Richards, Jerry"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "begin": "1995",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "end": "2001",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Ronald Tree",
+        "country": "GB",
+        "type": "Person",
+        "sort-name": "Tree, Ronald",
+        "id": "bce683c3-5af3-4ef4-a5f4-9e050dc97c8d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1995",
+      "attribute-credits": {},
+      "source-credit": "",
+      "attributes": [
+        "bass",
+        "lead vocals"
+      ],
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "attributes": [
+        "keyboard",
+        "lead vocals"
+      ],
+      "source-credit": "",
+      "begin": "2000",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "id": "953dfeff-94a2-44e4-a037-379ded98a6da",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "name": "Tim Blake",
+        "disambiguation": "",
+        "sort-name": "Blake, Tim",
+        "type": "Person"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2000",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2002",
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "fea1bbbf-f2f9-4a6d-ac3d-af8efaa58316",
+        "type": "Person",
+        "sort-name": "House, Simon",
+        "country": "GB",
+        "name": "Simon House",
+        "disambiguation": ""
+      },
+      "attributes": [
+        "keyboard",
+        "synthesizer",
+        "violin"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "begin": "2000",
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "type": "member of band",
+      "ended": true,
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2007-07-10",
+      "target-type": "artist",
+      "artist": {
+        "country": "GB",
+        "name": "Alan Davey",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Davey, Alan",
+        "id": "fe362298-24e5-4f4e-9762-e7df393d2e81",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "attributes": [
+        "bass"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "begin": "2001",
+      "type": "member of band",
+      "ended": true,
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "2002",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard",
+        "lead vocals"
+      ],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2002",
+      "attribute-values": {},
+      "artist": {
+        "type": "Person",
+        "sort-name": "Blake, Tim",
+        "disambiguation": "",
+        "name": "Tim Blake",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "953dfeff-94a2-44e4-a037-379ded98a6da"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "end": "2005",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e6a68b2c-0e35-47f7-8992-9a2babb2ad1b",
+        "type": "Person",
+        "sort-name": "Lloyd‐Langton, Huw",
+        "name": "Huw Lloyd‐Langton",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "attributes": [
+        "guitar"
+      ],
+      "attribute-credits": {},
+      "begin": "2002",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "ended": true,
+      "target-credit": ""
+    },
+    {
+      "end": "2008-09-08",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "artist": {
+        "id": "cf6fd339-981b-45cc-a1f4-e9213818c985",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "name": "Jason Stuart",
+        "disambiguation": "Hawkwind keyboardist",
+        "type": "Person",
+        "sort-name": "Stuart, Jason"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "2004",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "attribute-credits": {},
+      "source-credit": "",
+      "attributes": [
+        "keyboard",
+        "synthesizer"
+      ],
+      "ended": true,
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "cello": "0db03a60-1142-4b25-ab1b-72027d0dc357"
+      },
+      "begin": "2007",
+      "attribute-credits": {},
+      "attributes": [
+        "bass",
+        "cello",
+        "lead vocals"
+      ],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2018-08-28",
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "68d4b795-81e5-40d1-97b2-c5e9a1005651",
+        "sort-name": "Dibs, Mr",
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Mr Dibs",
+        "country": "GB"
+      },
+      "target-type": "artist"
+    },
+    {
+      "end": "2015",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Blake, Tim",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Tim Blake",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "953dfeff-94a2-44e4-a037-379ded98a6da"
+      },
+      "direction": "backward",
+      "source-credit": "",
+      "attributes": [
+        "keyboard",
+        "lead vocals"
+      ],
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "2008",
+      "attribute-credits": {},
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2021",
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "id": "d8d13c44-b55f-4d2a-9a32-cf8d1b5b66b6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Niall Hone",
+        "type": "Person",
+        "sort-name": "Hone, Niall"
+      },
+      "attributes": [
+        "bass",
+        "guitar",
+        "keyboard",
+        "sampler",
+        "synthesizer"
+      ],
+      "source-credit": "",
+      "attribute-credits": {},
+      "begin": "2008",
+      "attribute-ids": {
+        "sampler": "fb6f5426-b6ec-4ffa-9bb1-d9fdf9b453ad",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "end": "2015",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-type": "artist",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b273c535-cde4-491c-9094-e314d478df2e",
+        "sort-name": "Dead Fred",
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Dead Fred",
+        "country": "GB"
+      },
+      "source-credit": "",
+      "attributes": [
+        "keyboard",
+        "lead vocals",
+        "violin"
+      ],
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "begin": "2012",
+      "attribute-credits": {},
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f44b67ab-1b8b-409d-8a5c-b8361e74a671",
+        "type": "Person",
+        "sort-name": "Martin, Magnus",
+        "disambiguation": "British guitar, vocals, Hawkwind",
+        "name": "Magnus Martin",
+        "country": null
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band",
+      "begin": "2016",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-credits": {},
+      "source-credit": "",
+      "attributes": [
+        "guitar"
+      ]
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-values": {},
+      "artist": {
+        "id": "e91fe668-a323-4389-9e25-3b41f6f63b62",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Doug MacKinnon",
+        "country": null,
+        "disambiguation": "bassist, Hawkwind",
+        "sort-name": "MacKinnon, Doug",
+        "type": "Person"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": "2021",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "2021",
+      "attribute-credits": {},
+      "source-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "target-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Thighpaulsandra",
+        "name": "Thighpaulsandra",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "d6b78704-e16c-412e-b964-595de4ad05d9"
+      },
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "member of band",
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "artist": {
+        "disambiguation": "Crum",
+        "country": null,
+        "name": "Julian Crimmins",
+        "sort-name": "Crimmins, Julian",
+        "type": "Person",
+        "id": "b27333d4-c580-41d2-89e2-47509348f8c4",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "disambiguation": "keyboardist, space rock",
+        "name": "Chris Purdon",
+        "country": null,
+        "sort-name": "Purdon, Chris",
+        "type": "Person",
+        "id": "502c9e70-4810-4968-b801-eabaf186295d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "end": null,
+      "artist": {
+        "sort-name": "Fast Breeder & the Radio Actors",
+        "type": "Group",
+        "disambiguation": "Sting and the Radioactors",
+        "country": "GB",
+        "name": "Fast Breeder & the Radio Actors",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "fbad2195-2aa3-4601-82a7-498efeab3333"
+      },
+      "direction": "backward",
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "subgroup"
+    },
+    {
+      "target-type": "artist",
+      "artist": {
+        "id": "68d4b795-81e5-40d1-97b2-c5e9a1005651",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mr Dibs",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Dibs, Mr"
+      },
+      "direction": "backward",
+      "type-id": "88562a60-2550-48f0-8e8e-f54d95c7369a",
+      "end": "2007",
+      "attribute-values": {},
+      "type": "supporting musician",
+      "ended": true,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": "1996"
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "type": "allmusic",
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "Hawklords",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "b586cbcd-54f7-4259-a9c9-7a4d352ac349",
+        "resource": "https://www.allmusic.com/artist/mn0000671991"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846"
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000672011",
+        "id": "2507aa62-5248-45aa-b12b-4af4aabce930"
+      },
+      "type": "allmusic",
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "bandcamp",
+      "url": {
+        "resource": "https://hawkwindofficial.bandcamp.com/",
+        "id": "ba6c7d90-a39c-40e0-aab5-55b2e8bd0985"
+      },
+      "attribute-values": {},
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "type": "bandsintown",
+      "url": {
+        "id": "0e497d5f-06a7-41af-9c57-8ff3cc394ca8",
+        "resource": "https://www.bandsintown.com/a/67148"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "attributes": [],
+      "ended": true,
+      "target-credit": "",
+      "type": "BBC Music page",
+      "url": {
+        "id": "17a64480-59c6-4d52-a1f7-c19e7f352439",
+        "resource": "https://www.bbc.co.uk/music/artists/5a28f8c2-31fb-4047-ae57-c5c326989262"
+      },
+      "attribute-values": {},
+      "end": "2020-11-19",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type": "discography page",
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "url": {
+        "resource": "http://home.clara.net/adawson/",
+        "id": "dce0486a-27fa-46cb-a790-3bcadbfd9114"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "discogs",
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "Hawklords",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "b7e1f7d7-2d6b-45f6-834b-bbe07c3dcc61",
+        "resource": "https://www.discogs.com/artist/309822"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "type": "discogs",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "d04c5cef-a25a-4eca-9989-e2076543aaee",
+        "resource": "https://www.discogs.com/artist/69719"
+      },
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "discogs",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "Hawkwind Zoo",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "e50a2d4e-9f38-4e01-8720-d09aa2dcade0",
+        "resource": "https://www.discogs.com/artist/929351"
+      },
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "id": "b08cf959-ea5b-4388-9cc0-f35991eed02a",
+        "resource": "http://www.starfarer.net/"
+      },
+      "attribute-values": {},
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "end": "2017",
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "type": "fanpage"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "free streaming",
+      "url": {
+        "resource": "https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05",
+        "id": "6319b25e-dccb-4d27-825c-cc35adfdcd18"
+      },
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "url": {
+        "resource": "https://www.deezer.com/artist/9920",
+        "id": "b903b2d0-a085-4906-925f-cc1d432633a0"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "type": "free streaming"
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attribute-values": {},
+      "url": {
+        "id": "ffa9fc54-4f64-43b2-a9a8-893e29ea1d22",
+        "resource": "https://www.imdb.com/name/nm1244806/"
+      },
+      "type": "IMDb",
+      "target-credit": "",
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.last.fm/music/Hawkwind",
+        "id": "14aff306-cba6-47ac-a483-e7b13667c80b"
+      },
+      "attribute-values": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "type": "last.fm",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type": "lyrics",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://genius.com/artists/Hawkwind",
+        "id": "b419f526-8748-49fd-bc8f-d35b1322c511"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "resource": "https://muzikum.eu/en/hawkwind/lyrics",
+        "id": "9bd5c29c-0417-441d-b07d-1b9791738eec"
+      },
+      "attribute-values": {},
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "lyrics"
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://myspace.com/hawkwindofficial",
+        "id": "03dc0b2f-5ade-40cc-b01a-61f9b4ed3ad0"
+      },
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "ended": false,
+      "type": "myspace",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://www.hawkwind.com/",
+        "id": "8cf97b9d-cda6-42ed-a9f0-4ed0d340e875"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "target-credit": "",
+      "type": "official homepage"
+    },
+    {
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n91034058",
+        "id": "c74aeb91-443a-41e9-aa01-7ae7bb08a3ea"
+      },
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "other databases"
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "72afd78b-aa88-4c75-8cbf-d2833cf8a452",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139243548"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "7a115b43-3d48-4f3f-b0f9-7f17f5e40772",
+        "resource": "https://d-nb.info/gnd/5256692-4"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7PkXgQ6gTrBWRKkwRg",
+        "id": "1a77dd0d-3d8d-46fc-b7a5-7f4b8d6adf31"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/hawkwind",
+        "id": "f4b6710d-e5aa-4f13-b098-5a6d07e4d20e"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "type": "other databases",
+      "ended": false,
+      "target-credit": "",
+      "source-credit": "Hawklords",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "1c9e9d4e-9d7b-4349-831e-bfd17055ff98",
+        "resource": "https://www.musik-sammler.de/artist/hawklords/"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/hawkwind/",
+        "id": "b5a2952a-231b-422c-8807-da0d7201251a"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "url": {
+        "id": "8f438584-2bdf-4c61-b69d-d3026fcc5e72",
+        "resource": "https://www.musik-sammler.de/artist/hawkwind-zoo/"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "Hawkwind Zoo",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "ended": false,
+      "target-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=732",
+        "id": "69d817fe-792c-4e42-ac18-1326ef00d621"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "74a3715f-9b58-4401-80a1-f46239480c99",
+        "resource": "https://www.spirit-of-metal.com/en/band/Hawkwind"
+      },
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "ended": false,
+      "target-credit": "",
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "56ad1a50-81aa-4204-9e77-fe8fd30ed6c8",
+        "resource": "https://www.spirit-of-rock.com/en/band/Hawkwind"
+      },
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "resource": "https://www.whosampled.com/Hawkwind/",
+        "id": "475cb458-59ed-4b41-8a0b-2c454f14ab7d"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type": "other databases"
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "begin": null,
+      "attributes": [],
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/14561600",
+        "id": "b6146789-bf1c-4940-a819-0544453ffd20"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "purchase for download",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://open.qobuz.com/artist/39246",
+        "id": "0bb90fc7-5d87-47b2-a015-e780544fc825"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "type": "purchase for download",
+      "target-credit": "",
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "resource": "https://uk.7digital.com/artist/hawkwind",
+        "id": "71e226ef-f555-4a9a-acb9-5965e2236e0f"
+      }
+    },
+    {
+      "type": "purchase for download",
+      "target-credit": "",
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "url": {
+        "id": "a1e734e1-0b75-45ea-b258-637ba19e11b1",
+        "resource": "https://www.qobuz.com/us-en/interpreter/hawkwind/39246"
+      }
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "end": null,
+      "url": {
+        "id": "f281f80f-cc9b-49d0-ad82-f3fde4821326",
+        "resource": "https://secondhandsongs.com/artist/143115"
+      },
+      "type": "secondhandsongs",
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "source-credit": "Hawklords",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/7806",
+        "id": "28cbd917-5da6-481e-9e74-8f51bb381595"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "secondhandsongs",
+      "ended": false,
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "setlistfm",
+      "ended": false,
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "end": null,
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/hawkwind-1bd6ad3c.html",
+        "id": "0375d237-84c4-407d-8f95-d21a6bf56776"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://twitter.com/HawkwindHQ",
+        "id": "260d4563-31a7-422a-91d5-0ed86be57e68"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {},
+      "type": "social network",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://www.facebook.com/HawkwindHQ",
+        "id": "be5e72ac-fdcd-40d9-b1be-326d8052614b"
+      },
+      "end": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "target-credit": "",
+      "type": "social network"
+    },
+    {
+      "type": "songkick",
+      "ended": false,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "end": null,
+      "url": {
+        "resource": "https://www.songkick.com/artists/328926",
+        "id": "c7e12908-7201-40eb-a705-532423c621ff"
+      }
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "url": {
+        "id": "729fd343-481c-4f4b-9e06-d61c1b75a500",
+        "resource": "https://soundcloud.com/hawkwind-official"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "soundcloud",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/14561600",
+        "id": "b6146789-bf1c-4940-a819-0544453ffd20"
+      },
+      "type": "streaming",
+      "ended": false,
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "streaming",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "0e554812-ff5e-4539-b569-fe6f72aebed4",
+        "resource": "https://music.apple.com/us/artist/14561600"
+      },
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "type": "streaming",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "0bb90fc7-5d87-47b2-a015-e780544fc825",
+        "resource": "https://open.qobuz.com/artist/39246"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "url": {
+        "id": "92dc2c72-02ee-4a50-96c6-c4561e0ea126",
+        "resource": "https://tidal.com/artist/9363"
+      },
+      "type": "streaming",
+      "ended": false,
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "url": {
+        "id": "a1e734e1-0b75-45ea-b258-637ba19e11b1",
+        "resource": "https://www.qobuz.com/us-en/interpreter/hawkwind/39246"
+      },
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "source-credit": "",
+      "target-credit": "",
+      "ended": false,
+      "type": "streaming"
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "f638d13e-4449-4f16-97fb-89f010c67628",
+        "resource": "http://viaf.org/viaf/139690753"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-credit": "",
+      "ended": false,
+      "type": "VIAF",
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "ended": false,
+      "target-credit": "",
+      "type": "wikidata",
+      "url": {
+        "id": "81543dc2-3be1-490d-97ae-ec8cf3c27318",
+        "resource": "https://www.wikidata.org/wiki/Q285966"
+      },
+      "attribute-values": {},
+      "end": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "type": "youtube music",
+      "ended": false,
+      "target-credit": "",
+      "source-credit": "",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "direction": "forward",
+      "attribute-values": {},
+      "end": null,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "url": {
+        "id": "ed86fc27-3499-48d3-91aa-13677dfe8b14",
+        "resource": "https://music.youtube.com/channel/UCikVYXon0_RNmMzqPVRB3mQ"
+      }
+    }
+  ],
+  "isnis": [
+    "0000000115510570"
+  ],
+  "gender-id": null,
+  "id": "5a28f8c2-31fb-4047-ae57-c5c326989262",
+  "area": {
+    "type-id": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type": null,
+    "sort-name": "United Kingdom",
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "disambiguation": ""
+  },
+  "gender": null,
+  "begin-area": {
+    "type": null,
+    "sort-name": "Ladbroke Grove",
+    "type-id": null,
+    "id": "f0cec74c-e988-41e5-bced-dd23501dae18",
+    "name": "Ladbroke Grove",
+    "disambiguation": ""
+  },
+  "end-area": null,
+  "type": "Group",
+  "sort-name": "Hawkwind",
+  "disambiguation": "",
+  "ipis": [],
+  "name": "Hawkwind",
+  "country": "GB",
+  "aliases": [
+    {
+      "begin": null,
+      "locale": null,
+      "end": null,
+      "type-id": null,
+      "primary": null,
+      "name": "Hawkind",
+      "ended": false,
+      "type": null,
+      "sort-name": "Hawkind"
+    },
+    {
+      "begin": "1969-10",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": null,
+      "end": null,
+      "locale": null,
+      "ended": false,
+      "name": "Hawkwind",
+      "sort-name": "Hawkwind",
+      "type": "Artist name"
+    },
+    {
+      "begin": "1969-07",
+      "locale": null,
+      "end": "1969-10",
+      "primary": null,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "name": "Hawkwind Zoo",
+      "ended": true,
+      "type": "Artist name",
+      "sort-name": "Hawkwind Zoo"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "hawkwind-pxr5"
+titulo: "PXR5"
+artista: "Hawkwind"
+artista_slug: "hawkwind"
+anio_ficha: 1979
+era: "clasica"
+escena: "rarezas"
+mb_rgid: "648d50d6-0981-3229-bba5-56f5e59d10dd"
+primer_lanzamiento: "1979-05"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Material aprovechable presentado como álbum tardío."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Editado fuera de tiempo y sin apoyo."
+historia: "editorial"
+---
+
+Grabado con la formación de Calvert y publicado cuando esa etapa ya había terminado, suena a expediente cerrado a destiempo. Tiene buenos temas sueltos y ninguna cohesión de disco.
+
+<!-- historia:editorial -->
+
+## La historia
+
+PXR5 es un disco fuera de tiempo por partida doble. Se grabó con la formación que Calvert encabezaba, la misma que había hecho Quark, Strangeness and Charm, y se publicó en 1979, cuando esa etapa ya estaba disuelta y el nombre había pasado por otros arreglos. El resultado suena a expediente cerrado con retraso: material que en su momento tenía sentido dentro de un proyecto vivo y que aparece cuando ya no hay proyecto al que pertenecer.
+
+El repertorio confirma esa condición de archivo. «Death Trap» abre rápido y sucio, con una urgencia que el grupo rara vez había buscado y que en aquellos años estaba en el aire; «Jack of Shadows» y «Uncle Sams on Mars» sostienen la vena de ciencia ficción irónica que Calvert había instalado, con la sátira política asomando en la segunda; «Robot» es la pieza larga del disco, más de ocho minutos sobre la obediencia mecánica que retoma el ostinato electrónico del álbum anterior; «Infinity» y «Life Form» funcionan como interludios de textura; «High Rise» aporta el nervio urbano y la pieza que da título al conjunto cierra con el vocabulario de siglas y aparatos que el grupo usaba como decorado. Son buenos temas sueltos que nunca fueron pensados para convivir en este orden, y se nota.
+
+## La producción
+
+No constan créditos verificados de productor, ingeniero ni estudio, y lo audible confirma que el álbum se armó con materiales de distinta procedencia. Hay cortes con sonido de estudio terminado, con separación limpia y voces al frente, y otros que conservan una aspereza de toma sin acabar, con la mezcla más comprimida y la batería menos definida. Esa irregularidad es el rasgo más característico del disco y también el que impide escucharlo como una obra.
+
+Lo que sí se mantiene es el método de la etapa: sintetizadores usados como ostinato rítmico en vez de como colchón, duraciones contenidas salvo en la pieza larga, letras escritas para entenderse y una banda tocando ajustada. El sonido general es el de finales de los setenta, más seco y más directo que el bloque saturado de los primeros discos, sin la densidad electrónica que había definido al grupo en su mejor momento.
+
+## Recepción y legado
+
+Salió sin contexto y se lo trató como lo que era, un descarte publicado a destiempo por razones de catálogo. Hoy tiene valor sobre todo para quien sigue la línea Calvert, porque completa el retrato de la etapa más verbal y más irónica del grupo, la que demostró que la ciencia ficción podía funcionar en el rock sin épica ni solemnidad. Al rock progresivo no le presta nada nuevo: todo lo que aquí se oye ya estaba formulado en 1977, y lo verdaderamente influyente de la banda —el riff sostenido, la acumulación, la electrónica como ambiente— pertenece a los discos de la primera mitad de la década. Se rescatan «Death Trap», «Robot» y la sensación incómoda de escuchar una etapa despidiéndose sin saberlo. Levitation, al año siguiente, abriría una versión distinta y mucho más profesional del grupo.

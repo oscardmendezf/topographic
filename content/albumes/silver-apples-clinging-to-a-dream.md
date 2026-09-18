@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "silver-apples-clinging-to-a-dream"
+titulo: "Clinging to a Dream"
+artista: "Silver Apples"
+artista_slug: "silver-apples"
+anio_ficha: 2016
+era: "moderna"
+escena: "rarezas"
+mb_rgid: "5c4dfae8-ba9d-469f-add4-ae082e27ac02"
+primer_lanzamiento: "2016-09-02"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Obra tardía coherente con todo lo anterior."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Alcance limitado al público fiel."
+historia: "editorial"
+---
+
+Simeon casi solo, con el mismo método y cuerpo cansado: pulsos largos, voz gastada y una melancolía que el material temprano no tenía. No corrige nada ni pretende hacerlo. Digno cierre en vida del proyecto.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Casi cincuenta años después del disco que fundó todo esto, Simeon vuelve a grabar prácticamente solo y con el mismo método de siempre: pulsos de oscilador sostenidos, ausencia de armonía en el sentido corriente, la voz encima. Clinging to a Dream sale en 2016 y no intenta corregir nada ni ponerse al día con nadie; es un disco hecho desde la convicción de que aquel procedimiento nunca necesitó actualización, y desde un cuerpo que ya no es el que manejaba los osciladores con las manos, los codos y los pies.
+
+El repertorio tiene una melancolía que el material temprano no tenía, y que no viene de los arreglos sino del tono. «Missin You», «Nothing Matters» y «Drifting» hablan de ausencia y de desgaste con una franqueza que en 1968 habría resultado impensable, cuando las letras describían estados mentales con frialdad de laboratorio. «The Edge of Wonder» abre el disco y reaparece al final en versión de maqueta, una simetría que expone el modo de trabajo doméstico de toda la etapa. «Fractal Flow» y «The Mist» son las piezas donde el pulso manda sin apoyo de letra; «Concerto for Monkey and Oscillator» es el único guiño humorístico y también el título que mejor define la carrera entera: un instrumento imposible y un operador que lo doma. «Charred Fragments» y «The Rain» cierran en clave grave.
+
+## La producción
+
+No constan datos verificados de productor, ingeniero, estudio ni personal para este álbum. Lo que se oye es una grabación hecha con medios propios y pocas manos, y eso, lejos de ser un defecto, devuelve al proyecto algo de lo que había perdido en los discos de los noventa: la sensación de una sola persona frente a las máquinas, decidiendo cada capa.
+
+Las decisiones de sonido son mínimas y consecuentes. Los pulsos son más largos y más lentos que en cualquier etapa anterior, con menos acumulación de capas simultáneas; la voz, gastada, queda al frente sin correcciones ni dobles que la disimulen; la percusión ocupa un lugar secundario, muy lejos del contrapunto que la batería construía en el período original. La inclusión de la maqueta de «The Edge of Wonder» junto a la versión terminada funciona como declaración de método: entre una y otra hay menos distancia de la que habría en cualquier producción convencional, porque el disco entero se construye así.
+
+## Recepción y legado
+
+Llegó a un público que ya lo tenía todo asumido: la reivindicación de los discos de los sesenta era completa, la línea que va de aquellos osciladores al rock electrónico posterior estaba trazada, y nadie esperaba una obra nueva que cambiara el relato. Se lo recibió con respeto y con la atención que merece un autor haciendo su trabajo hasta el final.
+
+Es el cierre en vida del proyecto y un cierre digno, sin épica ni despedida declarada. No corrige nada de lo anterior ni lo pretende. Su aporte no está en la invención —esa ocurrió en 1968 y no se repite— sino en la demostración de que el método aguantaba medio siglo sin volverse pieza de museo: el mismo pulso, la misma renuncia a los acordes y, esta vez, un peso emocional que aquella música joven y helada no podía permitirse.

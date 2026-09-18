@@ -1260,5 +1260,119 @@
   "mbid": "9457ab7c-3b9d-4f99-ac84-9175b8b255e2",
   "motivo": "No es un disco de Bubu: es una banda sonora en asamés de Zubeen Garg y otros intérpretes indios, atribuida al grupo argentino por una confusión de homónimos en MusicBrainz.",
   "fuente": "argentina2:ar-otros"
+ },
+ {
+  "slug": "vanilla-fudge-rams-head-tavern-annapolis-md",
+  "mbid": "33d7210d-5f65-438d-b5b8-dc708809631d",
+  "motivo": "Registro de un concierto en una sala concreta, tipado como álbum de estudio en MusicBrainz; es un directo de la etapa de reuniones, no obra nueva.",
+  "fuente": "rarezas:rar-acid-us"
+ },
+ {
+  "slug": "captain-beefheart-son-of-dust-sucker",
+  "mbid": "a3d5a15c-84af-4712-b041-005b31b8c11c",
+  "motivo": "Publicación de archivo de 2012, posterior a la muerte de Van Vliet: recopila descartes y tomas de sesiones ya editadas, no es un álbum de estudio.",
+  "fuente": "rarezas:rar-beefheart"
+ },
+ {
+  "slug": "captain-beefheart-trout-mask-house-sessions-1969",
+  "mbid": "d4bcaa85-3994-404a-9b1c-02a37f716220",
+  "motivo": "Caja de cintas de ensayo en la casa, editada en 2017: material documental de las sesiones de un álbum que ya está en el catálogo.",
+  "fuente": "rarezas:rar-beefheart"
+ },
+ {
+  "slug": "captain-beefheart-trout-mask-replica-ant-2-man-bee-remixes",
+  "mbid": "0e09cdff-2cc9-474e-8deb-1182568c8b52",
+  "motivo": "Remezcla de 2022 de un álbum ya fichado; no es una grabación nueva del artista.",
+  "fuente": "rarezas:rar-beefheart"
+ },
+ {
+  "slug": "hawkwind-25-years-on",
+  "mbid": "5dd0e36f-3219-36a1-837b-ee4583c9081d",
+  "motivo": "Acreditado a Hawklords, el proyecto paralelo de Dave Brock y Robert Calvert con formación y contrato distintos; no es un álbum de Hawkwind.",
+  "fuente": "rarezas:rar-hawkwind"
+ },
+ {
+  "slug": "hawkwind-in-your-area",
+  "mbid": "1ebd13d4-ca8e-3cf9-843f-f3f66d1580ac",
+  "motivo": "Publicación mixta con grabaciones en directo y algunos descartes de estudio, tipada como álbum en MusicBrainz; no es un disco de estudio.",
+  "fuente": "rarezas:rar-hawkwind"
+ },
+ {
+  "slug": "electric-prunes-then-came-the-dawn-the-reprise-recordings-19661969",
+  "mbid": "6e8ee8c2-225f-4895-822e-d4178968de8c",
+  "motivo": "Caja recopilatoria que reúne las grabaciones del período para el sello Reprise; no es un álbum de estudio nuevo.",
+  "fuente": "rarezas:rar-laboratorio"
+ },
+ {
+  "slug": "silver-apples-remixes",
+  "mbid": "b8c96a5a-61d2-4723-b1d3-492fc364e65a",
+  "motivo": "Colección de remezclas del material del dúo hechas por terceros; no es un álbum de estudio del grupo.",
+  "fuente": "rarezas:rar-laboratorio"
+ },
+ {
+  "slug": "nice-elegy",
+  "mbid": "2dec8266-2ecd-3779-83f8-d99912cbb26b",
+  "motivo": "Publicación póstuma armada tras la disolución del grupo con tomas en directo y descartes de estudio; no es un álbum de estudio concebido como tal, sino un rejunte de sello.",
+  "fuente": "rarezas:rar-protoprog"
+ },
+ {
+  "slug": "procol-harum-the-sunday-concert-john-peel-broadcast-1970",
+  "mbid": "11c18a6a-ee12-479f-8f66-6ec001805a3b",
+  "motivo": "Registro de un concierto emitido por radio, publicado décadas después: es un disco en vivo de archivo, no un álbum de estudio.",
+  "fuente": "rarezas:rar-protoprog"
+ },
+ {
+  "slug": "tomorrow-permanent-dream",
+  "mbid": "7ea3f9eb-c137-4cd4-a386-1b0aa9c8472f",
+  "motivo": "Antología retrospectiva publicada en 2023 que recopila grabaciones del grupo y de sus alrededores; no es un álbum de estudio.",
+  "fuente": "rarezas:rar-psicodelia-uk"
+ },
+ {
+  "slug": "zombies-the-zombies",
+  "mbid": "ff235fe9-c6e7-367a-971d-c023798abdbd",
+  "motivo": "Edición estadounidense del debut, con otro título y otra selección del mismo material; no es un álbum de estudio distinto.",
+  "fuente": "rarezas:rar-psicodelia-uk"
+ },
+ {
+  "slug": "spirit-model-shop",
+  "mbid": "601ee42d-e0c9-3798-bd0c-3389dbaa4509",
+  "motivo": "Banda sonora: son las sesiones de 1969 para la película de Jacques Demy, publicadas como álbum décadas después y en buena parte ya aprovechadas en Clear. No es un disco de estudio autónomo.",
+  "fuente": "rarezas:rar-spirit"
+ },
+ {
+  "slug": "spirit-the-original-potato-land",
+  "mbid": "30c6cbd9-a326-405d-8a3e-be0c1bb2054e",
+  "motivo": "Reedición con otro título: es la versión de archivo del mismo material que se publicó en 1981 como The Adventures of Kaptain Kopter & Commander Cassidy in Potatoland, no un álbum distinto.",
+  "fuente": "rarezas:rar-spirit"
+ },
+ {
+  "slug": "spirit-california-blues-redux",
+  "mbid": "7446d8fc-115f-4087-8b03-3a39b0cd3d9f",
+  "motivo": "Reedición remezclada de California Blues (1996) bajo otro título, sin repertorio nuevo que la constituya como álbum aparte.",
+  "fuente": "rarezas:rar-spirit"
+ },
+ {
+  "slug": "traffic-here-we-go-round-the-mulberry-bush",
+  "mbid": "b2871840-e164-3bf2-ab68-7aacba0a3285",
+  "motivo": "Banda sonora del film homónimo compartida con el Spencer Davis Group y otros artistas: Traffic aporta temas sueltos, pero el álbum no es una obra de estudio del grupo.",
+  "fuente": "rarezas:rar-traffic-family"
+ },
+ {
+  "slug": "traffic-the-perfumed-garden",
+  "mbid": "f761d995-63ab-41e7-ace6-6474ef912b38",
+  "motivo": "Edición de 1994 sin tipar en MusicBrainz que recoge material antiguo del grupo; no es un álbum de estudio nuevo, el de ese año es Far From Home.",
+  "fuente": "rarezas:rar-traffic-family"
+ },
+ {
+  "slug": "third-ear-band-live",
+  "mbid": "aaae6858-4deb-4059-9e77-d2fd2d6c6582",
+  "motivo": "Registro en directo publicado en 1996 y tipado como álbum en MusicBrainz; no es un disco de estudio.",
+  "fuente": "rarezas:rar-underground-uk"
+ },
+ {
+  "slug": "high-tide-play-me-reggae",
+  "mbid": "58bbb4aa-44e0-44af-b5ce-4ca565466ab3",
+  "motivo": "Álbum de reggae de un artista homónimo, agrupado por error bajo la ficha de la banda británica en MusicBrainz.",
+  "fuente": "rarezas:rar-underground-uk"
  }
 ]
