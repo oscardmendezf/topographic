@@ -1,0 +1,897 @@
+{
+ "id": "copy-04-nucleo",
+ "escena": "nucleo",
+ "artistas": [
+  {
+   "slug": "pf",
+   "nombre": "Pink Floyd",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1965",
+   "fin": "2014",
+   "mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Pink_Floyd",
+   "entradilla_actual": "De la psicodelia de Barrett (67-68) a la experimentación sin rumbo (69-72) al conceptualismo maduro de Waters (73-79). La banda que mejor entendió que el concepto debe oírse sin leer nada.",
+   "formaciones_mb": [
+    "Syd Barrett (guitar, lead vocals, original; 1965–1968-04)",
+    "Richard Wright (keyboard, lead vocals, original; 1965–1981)",
+    "Roger Waters (bass guitar, lead vocals, original; 1965–1985)",
+    "Nick Mason (drums (drum set), original, percussion; 1965–act.)",
+    "David Gilmour (guitar, lead vocals, slide guitar; 1968-02-18–act.)",
+    "Richard Wright (keyboard, lead vocals; 1987–2008-09-15)"
+   ],
+   "conexiones_red": [
+    "Alan Parsons — ingeniería para: ingeniero de The Dark Side of the Moon",
+    "Hipgnosis — diseñó para: el prisma, los hombres en llamas",
+    "Advision · Trident · Abbey Road · The Manor — grabó en: Abbey Road"
+   ],
+   "discografia": [
+    {
+     "titulo": "The Piper at the Gates of Dawn",
+     "anio": 1967,
+     "estrellas_critica": "5",
+     "entradilla": "Barrett en estado puro: psicodelia de cuento infantil inglés con improvisación espacial. Todavía no es prog; es la materia prima."
+    },
+    {
+     "titulo": "A Saucerful of Secrets",
+     "anio": 1968,
+     "estrellas_critica": "4",
+     "entradilla": "La transición exacta: Barrett sale, Gilmour entra, y el tema título anticipa la arquitectura por secciones de todo lo que harían después."
+    },
+    {
+     "titulo": "More",
+     "anio": 1969,
+     "estrellas_critica": "3",
+     "entradilla": "Banda sonora menor con momentos («Cymbaline»). Interesa como registro de una banda buscando qué ser sin Barrett."
+    },
+    {
+     "titulo": "Ummagumma",
+     "anio": 1969,
+     "estrellas_critica": "3",
+     "entradilla": "Mitad directo esencial, mitad experimentos solistas que ni ellos defienden. El documento del rumbo perdido."
+    },
+    {
+     "titulo": "Atom Heart Mother",
+     "anio": 1970,
+     "estrellas_critica": "3",
+     "entradilla": "Suite orquestal con coro que la propia banda repudió después («un montón de basura», Waters). Primer nº 1 y callejón sin salida a la vez."
+    },
+    {
+     "titulo": "Meddle",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "«Echoes» ocupa un lado entero y es donde nace el Floyd maduro: construcción larga con destino emocional, no con destino técnico."
+    },
+    {
+     "titulo": "Obscured by Clouds",
+     "anio": 1972,
+     "estrellas_critica": "3",
+     "entradilla": "Banda sonora subvalorada, seca y directa, grabada en pausas de la gestación de Dark Side. El ensayo general que nadie mira."
+    },
+    {
+     "titulo": "The Dark Side of the Moon",
+     "anio": 1973,
+     "estrellas_critica": "5",
+     "entradilla": "El concepto (presión, tiempo, dinero, locura) ejecutado sin un minuto de desperdicio y audible sin leer nada. Parsons en la consola. El techo comercial de toda esta historia."
+    },
+    {
+     "titulo": "Wish You Were Here",
+     "anio": 1975,
+     "estrellas_critica": "5",
+     "entradilla": "La elegía a Barrett y mi elección como mejor disco del género en su año, con el argumento ya dado: la narrativa está en la música, no en el paratexto."
+    },
+    {
+     "titulo": "Animals",
+     "anio": 1977,
+     "estrellas_critica": "4",
+     "entradilla": "Orwell reescrito con rabia de clase: cerdos, perros y ovejas. La respuesta al punk publicada mientras el punk sucedía, y más furiosa que casi todo el punk."
+    },
+    {
+     "titulo": "The Wall",
+     "anio": 1979,
+     "estrellas_critica": "5",
+     "entradilla": "Ópera rock de Waters sobre el aislamiento: monumental, monomaníaca, con la banda reducida a empleados de una visión. El álbum conceptual devorándose a la banda que lo hace: cierre perfecto de la década."
+    },
+    {
+     "titulo": "The Final Cut",
+     "anio": 1983,
+     "estrellas_critica": "3",
+     "entradilla": "Réquiem de Waters por la posguerra británica y por la propia banda: Gilmour degradado a empleado, Wright ya despedido. Floyd deja de existir de hecho."
+    },
+    {
+     "titulo": "A Momentary Lapse of Reason",
+     "anio": 1987,
+     "estrellas_critica": "3",
+     "entradilla": "Gilmour reconstruye la marca sin Waters, pleito legal mediante: estadios llenos, canciones a medias."
+    },
+    {
+     "titulo": "The Division Bell",
+     "anio": 1994,
+     "estrellas_critica": "3",
+     "entradilla": "Sobre la incomunicación, apropiadamente. «High Hopes» como cierre real de la historia, se supiera o no entonces."
+    },
+    {
+     "titulo": "The Endless River",
+     "anio": 2014,
+     "estrellas_critica": "3",
+     "entradilla": "Sobras ambientales de Division Bell reelaboradas como despedida a Wright: réquiem instrumental de la marca. (El single «Hey Hey Rise Up» de 2022, por Ucrania, quedó como coda.)"
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "ren",
+   "nombre": "Renaissance",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1969",
+   "fin": "2002",
+   "mbid": "874aec28-dfa7-4a73-a3fa-8212f769754d",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Renaissance",
+   "entradilla_actual": "Dos bandas con el mismo nombre: la de Relf y McCarty (ex Yardbirds, 69-71) y la sinfónica de Annie Haslam (72-79), que es la que importa: piano, orquesta y una voz de tres octavas.",
+   "formaciones_mb": [
+    "Louis Cennamo (miembro; 1969–1970)",
+    "John Hawken (miembro; 1969–1970)",
+    "Jim McCarty (miembro; 1969–1970)",
+    "Jane Relf (miembro; 1969–1970)",
+    "Keith Relf (miembro; 1969–1970)",
+    "Terry Crowe (miembro; 1970–1971)",
+    "John Tout (miembro; 1970–1980)",
+    "Michael Dunford (miembro; 1970–1987)",
+    "Annie Haslam (miembro; 1971-01-01–1987)",
+    "Terry Sullivan (miembro; 1972–1980)",
+    "Jon Camp (miembro; 1972–1984)",
+    "Peter Barron (miembro; 1981–1983)",
+    "Peter Gosling (miembro; 1981–1983)",
+    "Gavin Harrison (miembro; 1983–1983)",
+    "Mike Taylor (miembro; 1983–1983)",
+    "Raphael Rudd (miembro; 1984–1987)",
+    "Charles DesCarfino (miembro; 1985–1987)",
+    "Mark Lampariello (miembro; 1985–1987)",
+    "Alex Caird (miembro; 1998–2001)",
+    "Michael Dunford (miembro; 1998–2002)",
+    "Annie Haslam (miembro; 1998–2002)",
+    "Terry Sullivan (miembro; 1998–2002)",
+    "Mickey Simmonds (miembro; 1999–2002)",
+    "Rave Tesar (miembro; 2001–2002)",
+    "Leo Traversa (miembro; ?–act.)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "Renaissance",
+     "anio": 1969,
+     "estrellas_critica": "3",
+     "entradilla": "Fundada por Keith Relf y Jim McCarty al salir de los Yardbirds: folk-clásico embrionario, otra banda que la que vendría."
+    },
+    {
+     "titulo": "Illusion",
+     "anio": 1971,
+     "estrellas_critica": "2",
+     "entradilla": "El puente: la formación original se deshace mientras lo graba. Editado primero solo en Alemania."
+    },
+    {
+     "titulo": "Prologue",
+     "anio": 1972,
+     "estrellas_critica": "3",
+     "entradilla": "La banda real empieza: Annie Haslam al frente, cero miembros originales. El título es literal."
+    },
+    {
+     "titulo": "Ashes Are Burning",
+     "anio": 1973,
+     "estrellas_critica": "4",
+     "entradilla": "El molde clásico completo: piano de Tout, orquesta y la voz de tres octavas de Haslam."
+    },
+    {
+     "titulo": "Turn of the Cards",
+     "anio": 1974,
+     "estrellas_critica": "4",
+     "entradilla": "El tono oscurece: «Mother Russia», sobre Solzhenitsyn. América empieza a responder."
+    },
+    {
+     "titulo": "Scheherazade and Other Stories",
+     "anio": 1975,
+     "estrellas_critica": "5",
+     "entradilla": "La suite de 24 minutos sobre Las mil y una noches: su obra mayor y su argumento definitivo."
+    },
+    {
+     "titulo": "Novella",
+     "anio": 1977,
+     "estrellas_critica": "3",
+     "entradilla": "El molde repetido con menos chispa; la fórmula empieza a pesar."
+    },
+    {
+     "titulo": "A Song for All Seasons",
+     "anio": 1978,
+     "estrellas_critica": "3",
+     "entradilla": "«Northern Lights» les regala un top 10 británico de singles: el pico tardío e inesperado."
+    },
+    {
+     "titulo": "Azure d'Or",
+     "anio": 1979,
+     "estrellas_critica": "2",
+     "entradilla": "Sintetizadores tímidos, identidad diluida; el molde ya no da."
+    },
+    {
+     "titulo": "Camera Camera",
+     "anio": 1981,
+     "estrellas_critica": "2",
+     "entradilla": "Giro abrupto hacia la new wave y el pop sintetizado, sin rastro de orquesta. Canciones cortas y rígidas, con la voz de Haslam puesta al servicio de un material que no la necesita. Ni el público viejo lo siguió ni el nuevo apareció."
+    },
+    {
+     "titulo": "Time‐Line",
+     "anio": 1983,
+     "estrellas_critica": "1",
+     "entradilla": "Doble o nada sobre la apuesta pop de Camera Camera: producción ochentosa plena y ninguna huella del sonido sinfónico. Suena a cualquier banda menos a Renaissance. La disolución llegó poco después."
+    },
+    {
+     "titulo": "The Other Woman",
+     "anio": 1994,
+     "estrellas_critica": "2",
+     "entradilla": "Una de las dos encarnaciones paralelas del nombre en los noventa: la de Michael Dunford, con otra vocalista al frente. Sin la voz de Haslam, el nombre pesa más que la música. Circulación mínima, interés casi de archivo."
+    },
+    {
+     "titulo": "Tuscany",
+     "anio": 2000,
+     "estrellas_critica": "3",
+     "entradilla": "Reunión del núcleo clásico tras años de silencio, con Haslam y Dunford otra vez escribiendo juntos. Vuelve al formato sinfónico-acústico sin forzar la ambición de los setenta. Digno y menor: un regreso para los fieles."
+    },
+    {
+     "titulo": "Grandine il vento",
+     "anio": 2013,
+     "estrellas_critica": "3",
+     "entradilla": "Regreso al estudio tras más de una década, y el último trabajo con composiciones de Michael Dunford, fallecido antes de la edición. Recupera el molde sinfónico con dignidad y una voz de Haslam sorprendentemente entera. Reeditado después en versión ampliada como Symphony of Light."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "rush",
+   "nombre": "Rush",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "CA",
+   "inicio": "1968-08",
+   "fin": null,
+   "mbid": "534ee493-bfac-4575-a44a-0ae41e2c3fe4",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Rush",
+   "entradilla_actual": "La herencia canadiense: tomaron el prog inglés y lo volvieron tocable en estadios. De imitadores de Zeppelin (74) a 2112 (76) a la síntesis perfecta de Moving Pictures (81) y la reinvención sintética de los 80. Cuarenta años sin un solo cambio de formación desde Peart.",
+   "formaciones_mb": [
+    "Jeff Jones (bass guitar, lead vocals, original; 1968-08–1968-09)",
+    "John Rutsey (drums (drum set), original; 1968-08–1974)",
+    "Alex Lifeson (background vocals, electric guitar, original; 1968-08–act.)",
+    "Geddy Lee (bass guitar, keyboard, lead vocals; 1968-09–act.)",
+    "Neil Peart (drums (drum set), percussion; 1974–2018-01-19)"
+   ],
+   "conexiones_red": [
+    "Rupert Hine — produjo a: productor de la etapa tardía"
+   ],
+   "discografia": [
+    {
+     "titulo": "Rush",
+     "anio": 1974,
+     "estrellas_critica": "3",
+     "entradilla": "Debut zeppeliniano con John Rutsey en batería; Neil Peart llega semanas después de la publicación y con él llegará el prog."
+    },
+    {
+     "titulo": "Caress of Steel",
+     "anio": 1975,
+     "estrellas_critica": "2",
+     "entradilla": "Suites fallidas y gira en picada (la «Down the Tubes Tour», según ellos mismos). La disquera pide rendición comercial; ellos responderán con lo contrario."
+    },
+    {
+     "titulo": "Fly by Night",
+     "anio": 1975,
+     "estrellas_critica": "3",
+     "entradilla": "Entra Peart: fantasía, métrica impar y letras con biblioteca. El Rush reconocible empieza aquí."
+    },
+    {
+     "titulo": "2112",
+     "anio": 1976,
+     "estrellas_critica": "5",
+     "entradilla": "La apuesta contra la disquera, ganada: suite distópica libertaria (Ayn Rand acreditada, para incomodidad posterior de Peart) que los salvó del abismo. El prog encuentra su público adolescente americano."
+    },
+    {
+     "titulo": "A Farewell to Kings",
+     "anio": 1977,
+     "estrellas_critica": "4",
+     "entradilla": "«Xanadu» sobre Coleridge, grabado en Gales: el trío canadiense sonando más inglés que los ingleses, el año en que los ingleses abandonaban."
+    },
+    {
+     "titulo": "Hemispheres",
+     "anio": 1978,
+     "estrellas_critica": "4",
+     "entradilla": "Cierre del ciclo mitológico: tan agotador de grabar que juraron no volver a hacer un disco así. Cumplieron."
+    },
+    {
+     "titulo": "Permanent Waves",
+     "anio": 1980,
+     "estrellas_critica": "4",
+     "entradilla": "La new wave asimilada sin rendición: «The Spirit of Radio». El prog aprendiendo a ser conciso, que era la única salida digna disponible."
+    },
+    {
+     "titulo": "Moving Pictures",
+     "anio": 1981,
+     "estrellas_critica": "5",
+     "entradilla": "«Tom Sawyer», «YYZ», «Limelight»: la síntesis exacta de ambición y concisión. El disco de prog más vendido de los ochenta sin dejar de ser prog."
+    },
+    {
+     "titulo": "Signals",
+     "anio": 1982,
+     "estrellas_critica": "4",
+     "entradilla": "«Subdivisions»: los sintetizadores al mando, los solos en retirada. La división eterna de sus fans se inaugura aquí."
+    },
+    {
+     "titulo": "Grace Under Pressure",
+     "anio": 1984,
+     "estrellas_critica": "4",
+     "entradilla": "Frío y ansioso —guerra fría literal—: su mejor disco de la era del sintetizador. Power Windows (85, UK 9/US 10), Hold Your Fire (87, UK 10/US 13) y Presto (89, US 16) completan la etapa."
+    },
+    {
+     "titulo": "Power Windows",
+     "anio": 1985,
+     "estrellas_critica": "4",
+     "entradilla": "La producción de mediados de los ochenta llevada al límite: capas de sintetizadores, guitarra brillante, un disco temático sobre las formas del poder. Con los años quedó como el más logrado de la era sintética junto a Grace Under Pressure. «Marathon» y «Mystic Rhythms» sostienen el argumento."
+    },
+    {
+     "titulo": "Hold Your Fire",
+     "anio": 1987,
+     "estrellas_critica": "3",
+     "entradilla": "El punto de saturación del ciclo sintetizador: más pulido, más pop, con Aimee Mann como invitada en «Time Stand Still». Hay canciones, pero la textura manda y parte del público lo sintió diluido. La propia banda replegó velas después."
+    },
+    {
+     "titulo": "Presto",
+     "anio": 1989,
+     "estrellas_critica": "3",
+     "entradilla": "Disco de transición: los sintetizadores retroceden, la guitarra de Lifeson vuelve al frente, aunque la producción sigue sonando liviana. Más canciones que riffs; «Show Don't Tell» y «The Pass» son lo que queda. La banda misma lo cita como intento a medias."
+    },
+    {
+     "titulo": "Roll the Bones",
+     "anio": 1991,
+     "estrellas_critica": "3",
+     "entradilla": "El regreso al top 3 americano; Counterparts (93, US 2) y Test for Echo (96, US 5) confirmaron que el público nunca se había ido."
+    },
+    {
+     "titulo": "Counterparts",
+     "anio": 1993,
+     "estrellas_critica": "4",
+     "entradilla": "El giro más duro en una década: sonido seco, guitarras al frente, contemporáneo del rock alternativo sin imitarlo. «Animate» y «Stick It Out» muestran el músculo; «Nobody's Hero», la ambición lírica. De lo más defendible de su etapa noventera."
+    },
+    {
+     "titulo": "Test for Echo",
+     "anio": 1996,
+     "estrellas_critica": "3",
+     "entradilla": "Continuación del sonido de Counterparts con menos filo: correcto, profesional, algo anónimo dentro del catálogo. Después vino el silencio largo por las tragedias personales de Peart, lo que lo dejó como cierre involuntario de una era."
+    },
+    {
+     "titulo": "Vapor Trails",
+     "anio": 2002,
+     "estrellas_critica": "3",
+     "entradilla": "El regreso tras las tragedias personales de Peart; crudo hasta el defecto (lo remezclaron en 2013). Snakes & Arrows (2007, US 3) consolidó la tercera vida."
+    },
+    {
+     "titulo": "Snakes & Arrows",
+     "anio": 2007,
+     "estrellas_critica": "4",
+     "entradilla": "El disco que consolidó la tercera vida: guitarras en capas, energía recuperada, letras de Peart sobre la fe y sus abusos. Tres instrumentales en un solo álbum, algo inédito en su catálogo. Recibido como su trabajo más sólido en dos décadas."
+    },
+    {
+     "titulo": "Clockwork Angels",
+     "anio": 2012,
+     "estrellas_critica": "4",
+     "entradilla": "Ópera steampunk final: el círculo de 2112 cerrado con canas. Último disco de estudio; Peart murió en 2020 y con él la banda."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "sh",
+   "nombre": "Steve Hackett",
+   "escena": "nucleo",
+   "tipo": "Person",
+   "pais": "GB",
+   "inicio": "1950-02-12",
+   "fin": null,
+   "mbid": "f4eb8346-052d-4a5c-8393-cba3aeadb4d9",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Steve_Hackett",
+   "entradilla_actual": "La carrera que Genesis no le dejó tener adentro. Voyage of the Acolyte (75, con dos Genesis de sesión) fue el puente; Spectral Mornings, el destino. Del neoprog de los 80 en adelante, medio género le debe.",
+   "formaciones_mb": [
+    "Genesis (guitar; 1970-12–1977-10-08)",
+    "GTR (guitar, original; 1984–1986-10)",
+    "The Prog World Orchestra (guitar, original; 2012–2012)",
+    "Gordian Knot (miembro; ?–act.)",
+    "Quiet World (miembro; ?–act.)"
+   ],
+   "conexiones_red": [
+    "Phil Collins — invitado de: batería en Voyage of the Acolyte",
+    "Steve y John Hackett — invitado de: John, flauta en Voyage of the Acolyte"
+   ],
+   "discografia": [
+    {
+     "titulo": "Voyage of the Acolyte",
+     "anio": 1975,
+     "estrellas_critica": "4",
+     "entradilla": "El tarot en clave Genesis, con Collins y Rutherford de sesión: el disco solista que precipitó las tensiones que lo sacarían de la banda dos años después."
+    },
+    {
+     "titulo": "Please Don't Touch",
+     "anio": 1978,
+     "estrellas_critica": "3",
+     "entradilla": "Primer disco ya fuera de Genesis, con invitados americanos (Richie Havens, Randy Crawford): buscando voz propia por ensayo y error."
+    },
+    {
+     "titulo": "Spectral Mornings",
+     "anio": 1979,
+     "estrellas_critica": "4",
+     "entradilla": "Su clásico solista: la guitarra como la voz que en Genesis le racionaban."
+    },
+    {
+     "titulo": "Defector",
+     "anio": 1980,
+     "estrellas_critica": "3",
+     "entradilla": "Techo comercial solista. Buena parte del neoprog de los ochenta sale de este catálogo."
+    },
+    {
+     "titulo": "Cured",
+     "anio": 1981,
+     "estrellas_critica": "2",
+     "entradilla": "Giro abrupto hacia el pop de sintetizadores y cajas de ritmo, con Hackett cantando todo por primera vez. El formato de dúo compacto reemplaza a la banda de los discos anteriores y el resultado suena más liviano de lo que su catálogo venía prometiendo. Abre la década y media errática de búsqueda de mercado que define la etapa."
+    },
+    {
+     "titulo": "Bay of Kings",
+     "anio": 1983,
+     "estrellas_critica": "3",
+     "entradilla": "Primer disco enteramente acústico: guitarra clásica sola, sin banda ni electrónica. Inaugura la vertiente de cámara que Hackett mantendría en paralelo durante toda su carrera. Modesto por diseño, y más coherente que sus intentos pop del mismo período."
+    },
+    {
+     "titulo": "Highly Strung",
+     "anio": 1983,
+     "estrellas_critica": "3",
+     "entradilla": "Segundo intento de conciliar canción accesible y guitarra protagonista, con mejor pulso que Cured. Rock ochentoso de producción brillante donde los instrumentales siguen siendo lo más sólido. Un disco de transición honesto dentro de la búsqueda de mercado de la etapa."
+    },
+    {
+     "titulo": "Till We Have Faces",
+     "anio": 1984,
+     "estrellas_critica": "2",
+     "entradilla": "Rareza del catálogo: grabado en parte en Brasil, cruza percusión brasileña con la guitarra eléctrica de siempre. El experimento es más interesante en la intención que en el resultado, con un sonido ochentoso que fecha mal. Quedó como el punto más desorientado de la etapa errática."
+    },
+    {
+     "titulo": "Momentum",
+     "anio": 1988,
+     "estrellas_critica": null,
+     "entradilla": "Segunda entrega acústica en la línea de Bay of Kings: guitarra clásica sola, escritura más ambiciosa y tono más sombrío. Apareció tras el paréntesis de GTR, como retorno deliberado al perfil bajo. Catálogo íntimo, casi sin prensa entonces y después."
+    },
+    {
+     "titulo": "Guitar Noir",
+     "anio": 1993,
+     "estrellas_critica": "3",
+     "entradilla": "Regreso al disco eléctrico con canciones tras años de silencio discográfico. Atmósferas nocturnas, voz hablada-cantada y guitarra más contenida que virtuosa: un intento de sonar contemporáneo en los noventa sin renegar del oficio. Reabrió una carrera que parecía estancada, aunque el material es desparejo."
+    },
+    {
+     "titulo": "Blues With a Feeling",
+     "anio": 1994,
+     "estrellas_critica": "2",
+     "entradilla": "Disco de blues eléctrico directo, con Hackett en armónica además de guitarra, revisando el género que lo formó antes del prog. Competente y disfrutable, pero ajeno a lo que su público esperaba y sin peso propio dentro del blues. Cierra la etapa errática justo antes del pivote de Genesis Revisited."
+    },
+    {
+     "titulo": "Genesis Revisited",
+     "anio": 1996,
+     "estrellas_critica": "3",
+     "entradilla": "El pivote que lo cambió todo: descubrir que custodiar el catálogo de su ex banda era a la vez su mejor negocio y su mejor argumento. Darktown (99) mantuvo la obra propia en paralelo."
+    },
+    {
+     "titulo": "A Midsummer Night’s Dream",
+     "anio": 1997,
+     "estrellas_critica": "3",
+     "entradilla": "Suite acústica inspirada en Shakespeare, grabada con orquesta para un sello clásico. Es la culminación de la vertiente de cámara iniciada con Bay of Kings, ahora con ambición formal de música clásica ligera. Dentro de ese nicho fue tomado en serio; fuera de él, apenas registrado."
+    },
+    {
+     "titulo": "Darktown",
+     "anio": 1998,
+     "estrellas_critica": "4",
+     "entradilla": "Su disco más oscuro: texturas industriales, letras autobiográficas sobre abusos y miedos de infancia, y la guitarra al servicio del clima antes que del lucimiento. Confirmó que la obra propia seguía viva en paralelo al negocio de Genesis Revisited. Con los años se volvió el favorito de culto de su catálogo tardío."
+    },
+    {
+     "titulo": "Feedback 86",
+     "anio": 2000,
+     "estrellas_critica": "2",
+     "entradilla": "Grabado a mediados de los ochenta, en plena tentación AOR post-GTR, y cajoneado hasta 2000. Rock de radio de época con invitados, más documento que disco. Interesa como registro de un desvío comercial que no prosperó."
+    },
+    {
+     "titulo": "Sketches of Satie",
+     "anio": 2000,
+     "estrellas_critica": "3",
+     "entradilla": "Satie arreglado para flauta y guitarra junto a su hermano John: disciplina de cámara, cero rock. Modesto y coherente; el material aguanta bien el traslado. Anticipa el costado clásico que dominaría la década siguiente."
+    },
+    {
+     "titulo": "To Watch the Storms",
+     "anio": 2003,
+     "estrellas_critica": "3",
+     "entradilla": "Primer disco de canciones nuevas tras años volcado a lo acústico y al archivo. Ecléctico hasta el capricho: pastiche, sinfónico y humor inglés conviviendo apretados. Los seguidores lo defendieron como regreso; el resto apenas lo registró."
+    },
+    {
+     "titulo": "Metamorpheus",
+     "anio": 2005,
+     "estrellas_critica": "3",
+     "entradilla": "Obra orquestal sobre el mito de Orfeo, continuación del camino clásico abierto con A Midsummer Night's Dream. Sin banda ni concesiones al catálogo rock. Para el oyente que le acepta el traje de compositor."
+    },
+    {
+     "titulo": "Wild Orchids",
+     "anio": 2006,
+     "estrellas_critica": "3",
+     "entradilla": "Sigue el formato ecléctico de To Watch the Storms: rock, orquesta, folk y experimentos en un mismo disco largo. Sobra material y falta poda, pero el oficio queda a la vista. La etapa media recuperaba pulso de a poco."
+    },
+    {
+     "titulo": "Tribute",
+     "anio": 2007,
+     "estrellas_critica": "3",
+     "entradilla": "Guitarra clásica sola: Bach y homenajes a sus referentes del instrumento. Disciplinado, sin concesiones al catálogo rock. Nicho asumido y bien ejecutado."
+    },
+    {
+     "titulo": "Prelude to Summer for Flute & Guitar",
+     "anio": 2008,
+     "estrellas_critica": null,
+     "entradilla": "Pieza del costado de cámara para flauta y guitarra, en la línea acústica de Sketches of Satie. Circulación mínima incluso entre seguidores."
+    },
+    {
+     "titulo": "Out of the Tunnel’s Mouth",
+     "anio": 2009,
+     "estrellas_critica": "4",
+     "entradilla": "El disco que reactivó la obra propia: vuelta franca al rock sinfónico tras los desvíos acústicos y orquestales. Grabado en un momento personal áspero, suena sin embargo enfocado. De acá sale el impulso de toda la década siguiente."
+    },
+    {
+     "titulo": "The Book of Bilbo and Gandalf",
+     "anio": 2010,
+     "estrellas_critica": null,
+     "entradilla": "Rareza de inspiración tolkieniana aparecida entre Out of the Tunnel's Mouth y Beyond the Shrouded Horizon. Circulación mínima incluso entre seguidores; queda como curiosidad de catálogo."
+    },
+    {
+     "titulo": "Beyond the Shrouded Horizon",
+     "anio": 2011,
+     "estrellas_critica": "3",
+     "entradilla": "Disco de viaje: pasa del blues al sinfónico sin pedir permiso, con la suite final como ancla. Continúa la recuperación de forma iniciada con Out of the Tunnel's Mouth. Disperso, pero con oficio de sobra."
+    },
+    {
+     "titulo": "Genesis Revisited II",
+     "anio": 2012,
+     "estrellas_critica": "4",
+     "entradilla": "Más alto en listas que casi todo su catálogo propio: el pivote consolidado en institución. Out of the Tunnel's Mouth (2009) y Beyond the Shrouded Horizon (2011) sostenían la obra nueva."
+    },
+    {
+     "titulo": "Wolflight",
+     "anio": 2015,
+     "estrellas_critica": "4",
+     "entradilla": "Arranque de la racha tardía, en paralelo a las giras Revisited: sinfónico con tintes étnicos y ánimo de aventura. Demostró que la nostalgia de escenario financiaba obra nueva con ambición real."
+    },
+    {
+     "titulo": "Life Is a Journey: The Sardinia Tapes",
+     "anio": 2016,
+     "estrellas_critica": "3",
+     "entradilla": "Sesiones de estudio en Cerdeña con los húngaros Djabe: fusión improvisada y ambiental, lejos del sinfónico. Vale como registro de un Hackett distendido; no busca más que eso."
+    },
+    {
+     "titulo": "The Night Siren",
+     "anio": 2017,
+     "estrellas_critica": "3",
+     "entradilla": "Alegato pacifista con músicos e instrumentos de varias tradiciones sobre la base sinfónica de siempre. El mensaje pesa más que el filo, pero el oficio sostiene. La racha tardía ya era rutina de calidad."
+    },
+    {
+     "titulo": "At the Edge of Light",
+     "anio": 2019,
+     "estrellas_critica": "4",
+     "entradilla": "El disco más oscuro de la racha tardía: coros, orquesta y un ánimo de amenaza que le sienta bien. La banda estable de las giras Revisited le da músculo. De lo más sólido de su tercera etapa."
+    },
+    {
+     "titulo": "Back to Sardinia",
+     "anio": 2019,
+     "estrellas_critica": "3",
+     "entradilla": "Segunda entrega con Djabe, otra vez desde Cerdeña: fusión relajada, más paisaje que composición. Para completistas de cualquiera de las dos partes."
+    },
+    {
+     "titulo": "Surrender of Silence",
+     "anio": 2021,
+     "estrellas_critica": "3",
+     "entradilla": "La contracara eléctrica de Under a Mediterranean Sky, publicada el mismo año: más ruido, más mundo, menos filtro. Tiene momentos de furia inusuales en él. Irregular, como casi todo lo suyo cuando acelera."
+    },
+    {
+     "titulo": "Under a Mediterranean Sky",
+     "anio": 2021,
+     "estrellas_critica": "4",
+     "entradilla": "Acústico con orquesta hecho en pleno encierro pandémico: postales del Mediterráneo acumuladas en décadas de viajes. El formato le sienta: su disco clásico más cálido y mejor recibido."
+    },
+    {
+     "titulo": "The Circus and the Nightwhale",
+     "anio": 2024,
+     "estrellas_critica": "4",
+     "entradilla": "Disco conceptual con espina autobiográfica: un recorrido de infancia a madurez que le ordena el eclecticismo habitual. De lo más celebrado de su tramo reciente. La edad no le bajó la ambición."
+    },
+    {
+     "titulo": "The Roaring Waves",
+     "anio": 2026,
+     "estrellas_critica": null,
+     "entradilla": "Entrega 2026 de una etapa que no afloja el ritmo, anunciada como continuidad de la racha tardía. Demasiado reciente para medir consenso."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "sm",
+   "nombre": "Soft Machine",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1966-09",
+   "fin": null,
+   "mbid": "5193ce6b-a315-4c50-ae49-54e69ffbc988",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Soft_Machine",
+   "entradilla_actual": "El otro polo de Canterbury: del dadaísmo psicodélico de Wyatt al jazz eléctrico instrumental. Cada dos discos es otra banda; Third (1970) es el documento central de la escena.",
+   "formaciones_mb": [
+    "Daevid Allen (original; 1966–1967-08)",
+    "Kevin Ayers (original; 1966–1968-11)",
+    "Robert Wyatt (original; 1966–1971-08)",
+    "Mike Ratledge (original; 1966–1976-03)",
+    "Hugh Hopper (miembro; 1968-12–1973-05)",
+    "Andy Summers (miembro; 1968–1968)",
+    "Marc Charig (miembro; 1969-10–1969-12)",
+    "Nick Evans (miembro; 1969-10–1969-12)",
+    "Lyn Dobson (miembro; 1969-10–1970-03)",
+    "Elton Dean (miembro; 1969-10–1972-05)",
+    "Phil Howard (miembro; 1971-08–1972-01)",
+    "Karl Jenkins (miembro; 1972–1984)",
+    "John Marshall (miembro; 1972–1984)",
+    "Roy Babbington (miembro; 1973-05–1976-08)",
+    "Allan Holdsworth (miembro; 1973-12–1975-04)",
+    "John Etheridge (miembro; 1975-04–1978)",
+    "Alan Wakeman (miembro; 1976-01–1976-07)",
+    "Ric Sanders (miembro; 1976-09–1978)",
+    "Steve Cook (miembro; 1976-12–1978)",
+    "Ray Warleigh (miembro; 1976–1976-08)",
+    "Alan Skidmore (miembro; ?–act.)"
+   ],
+   "conexiones_red": [
+    "Kevin Ayers — miembro de: original (1966–1968-11)",
+    "Robert Wyatt — miembro de: original (1966–1971-08)"
+   ],
+   "discografia": [
+    {
+     "titulo": "The Soft Machine",
+     "anio": 1968,
+     "estrellas_critica": "4",
+     "entradilla": "Dadaísmo psicodélico grabado en Nueva York durante la gira con Hendrix. Wyatt cantando sobre métrica impar como si fuera pop."
+    },
+    {
+     "titulo": "Volume Two",
+     "anio": 1969,
+     "estrellas_critica": "4",
+     "entradilla": "Suite absurda y virtuosa con Hugh Hopper ya adentro. El humor dadá de Wyatt sostenido sobre escritura seria: la esencia Canterbury."
+    },
+    {
+     "titulo": "Third",
+     "anio": 1970,
+     "estrellas_critica": "5",
+     "entradilla": "Doble instrumental: cuatro caras, cuatro mundos, y «Moon in June» como último bastión del Wyatt cantante. El documento central de toda la escena de Canterbury."
+    },
+    {
+     "titulo": "Fourth",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "Jazz eléctrico puro, ya sin canto. Wyatt se va después: la banda pierde el humor y gana abstracción, y esa fue la disyuntiva de todo Canterbury."
+    },
+    {
+     "titulo": "Fifth",
+     "anio": 1972,
+     "estrellas_critica": "3",
+     "entradilla": "Sin Wyatt: abstracción fría y competente. El nombre sigue; el espíritu ya es otro."
+    },
+    {
+     "titulo": "Seven",
+     "anio": 1973,
+     "estrellas_critica": "3",
+     "entradilla": "Transición pulida hacia el fusion pleno. Correcto, olvidable."
+    },
+    {
+     "titulo": "Six",
+     "anio": 1973,
+     "estrellas_critica": "3",
+     "entradilla": "Mitad directo, mitad estudio; Karl Jenkins asciende al mando (sí, el futuro autor de Adiemus: la historia tiene humor)."
+    },
+    {
+     "titulo": "Bundles",
+     "anio": 1975,
+     "estrellas_critica": "4",
+     "entradilla": "Allan Holdsworth en guitarra: fusion brillante que ya no es Soft Machine en ningún sentido salvo el legal."
+    },
+    {
+     "titulo": "Rubber Riff",
+     "anio": 1976,
+     "estrellas_critica": "2",
+     "entradilla": "Música de librería grabada por encargo para un catálogo de sonorización: jazz-funk funcional con el nombre de la banda puesto en algo que no pedía nombre. Una nota al pie del período Etheridge, editada al público recién décadas después."
+    },
+    {
+     "titulo": "Softs",
+     "anio": 1976,
+     "estrellas_critica": "3",
+     "entradilla": "Etheridge por Holdsworth; fusion de sesión, correcto y anónimo."
+    },
+    {
+     "titulo": "Land of Cockayne",
+     "anio": 1981,
+     "estrellas_critica": "2",
+     "entradilla": "Jazz-pop de sesión con Jack Bruce: el nombre tocando fondo con elegancia. Última parada en 37 años."
+    },
+    {
+     "titulo": "Spaced",
+     "anio": 1996,
+     "estrellas_critica": "2",
+     "entradilla": "Edición tardía de la música que la banda preparó a fines de los sesenta para una instalación multimedia londinense: cintas experimentales, loops y improvisación abstracta, con sonido precario. Curiosidad de archivo para completistas de la era Wyatt-Hopper-Ratledge, no una puerta de entrada."
+    },
+    {
+     "titulo": "Hidden Details",
+     "anio": 2018,
+     "estrellas_critica": "4",
+     "entradilla": "El nombre vuelve tras 37 años vía Soft Machine Legacy: fusion británica digna con Etheridge de nexo. Other Doors (2023) lo continúa."
+    },
+    {
+     "titulo": "Other Doors",
+     "anio": 2023,
+     "estrellas_critica": "3",
+     "entradilla": "Continuación directa de la línea abierta con Hidden Details: fusion británica madura, entre composición nueva y guiños al repertorio clásico. Marca además un recambio en la sala de máquinas de la formación moderna, con Etheridge y Travis como eje. Digno, sin pretender reescribir la historia del nombre."
+    },
+    {
+     "titulo": "Thirteen",
+     "anio": 2026,
+     "estrellas_critica": null,
+     "entradilla": "Nueva entrega de la encarnación moderna del nombre, en la senda de Hidden Details y Other Doors. Al cierre de esta edición hay poco registro crítico para decir más."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  }
+ ]
+}

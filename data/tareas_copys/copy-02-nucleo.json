@@ -1,0 +1,848 @@
+{
+ "id": "copy-02-nucleo",
+ "escena": "nucleo",
+ "artistas": [
+  {
+   "slug": "car",
+   "nombre": "Caravan",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1968-01",
+   "fin": null,
+   "mbid": "82dd3f5d-4c36-4dbe-981d-6845c91445f8",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Caravan_(banda_inglesa)",
+   "entradilla_actual": "El Canterbury melódico: órgano fuzz, humor suave, canciones. Cima absoluta en 1971, declive amable después. La cara accesible de una escena que solía preferir lo difícil.",
+   "formaciones_mb": [
+    "David Sinclair (original; 1968–1971)",
+    "Richard Sinclair (original; 1968–1972)",
+    "Richard Coughlan (original; 1968–2013-12-01)",
+    "Pye Hastings (original; 1968–act.)",
+    "Steve Miller (miembro; 1971-08–1972-07)",
+    "Derek Austin (miembro; 1972–1973)",
+    "Stuart Evans (miembro; 1972–1973)",
+    "Geoffrey Richardson (miembro; 1972–1978)",
+    "John G. Perry (miembro; 1973–1974)",
+    "David Sinclair (miembro; 1973–1975)",
+    "Mike Wedgwood (miembro; 1974–1976)",
+    "Jan Schelhaas (miembro; 1975–1978)",
+    "Dek Messecar (miembro; 1976–1978)",
+    "Geoffrey Richardson (miembro; 1979-10–1981-05)",
+    "David Sinclair (miembro; 1979–1982)",
+    "Dek Messecar (miembro; 1980–1981)",
+    "David Sinclair (miembro; 1990–2002)",
+    "Jim Leverton (miembro; 1995–act.)",
+    "Geoffrey Richardson (miembro; 1995–act.)",
+    "Doug Boyle (miembro; 1996-09–2007)",
+    "Jan Schelhaas (miembro; 2002–act.)",
+    "Mark Walker (miembro; 2010–act.)"
+   ],
+   "conexiones_red": [
+    "Richard Sinclair — miembro de: original (1968–1972)",
+    "David Hitchcock — produjo a: In the Land of Grey and Pink, Cunning Stunts"
+   ],
+   "discografia": [
+    {
+     "titulo": "Caravan",
+     "anio": 1968,
+     "estrellas_critica": "3",
+     "entradilla": "Canterbury fundacional junto a Soft Machine (ambas salen de los Wilde Flowers). Psicodelia suave con el órgano ya en el centro."
+    },
+    {
+     "titulo": "If I Could Do It All Over Again, I'd Do It All Over You",
+     "anio": 1970,
+     "estrellas_critica": "4",
+     "entradilla": "El sonido Canterbury definido: órgano con fuzz, ingenio verbal, ligereza que disimula la complejidad."
+    },
+    {
+     "titulo": "In the Land of Grey and Pink",
+     "anio": 1971,
+     "estrellas_critica": "5",
+     "entradilla": "La obra maestra del Canterbury melódico: «Nine Feet Underground» ocupa un lado y no sobra un minuto. Producción de Hitchcock, un año antes de Foxtrot. Vendió poco; hoy es canon."
+    },
+    {
+     "titulo": "Waterloo Lily",
+     "anio": 1972,
+     "estrellas_critica": "3",
+     "entradilla": "Giro jazz divisivo con Steve Miller (el pianista inglés, no el americano). Los fans lo discuten desde hace cincuenta años; la banda lo corrigió al disco siguiente."
+    },
+    {
+     "titulo": "For Girls Who Grow Plump in the Night",
+     "anio": 1973,
+     "estrellas_critica": "4",
+     "entradilla": "Regreso al molde con la viola de Geoffrey Richardson como color nuevo. El último Caravan plenamente vigente."
+    },
+    {
+     "titulo": "Cunning Stunts",
+     "anio": 1975,
+     "estrellas_critica": "3",
+     "entradilla": "El contrapeto del título envejeció mejor que el disco, otra vez con Hitchcock en la producción. Su única entrada real en listas a ambos lados del Atlántico; el declive amable empieza aquí."
+    },
+    {
+     "titulo": "Blind Dog at St. Dunstans",
+     "anio": 1976,
+     "estrellas_critica": "3",
+     "entradilla": "Pop amable con prog residual. Nada vergonzoso, nada necesario."
+    },
+    {
+     "titulo": "Better by Far",
+     "anio": 1977,
+     "estrellas_critica": "2",
+     "entradilla": "Producción de Tony Visconti, canciones apenas justas. El título es más optimista que el contenido."
+    },
+    {
+     "titulo": "The Album",
+     "anio": 1980,
+     "estrellas_critica": "2",
+     "entradilla": "Cuando el título de tu disco es «El Álbum», el diagnóstico está hecho."
+    },
+    {
+     "titulo": "Back to Front",
+     "anio": 1982,
+     "estrellas_critica": "2",
+     "entradilla": "La formación original reunida sin chispa; después, trece años de silencio."
+    },
+    {
+     "titulo": "Cool Water",
+     "anio": 1995,
+     "estrellas_critica": null,
+     "entradilla": "Material de sesiones de fines de los setenta, mayormente canciones de Pye Hastings, rescatado dos décadas después. Documento de archivo antes que álbum pensado como tal."
+    },
+    {
+     "titulo": "The Battle of Hastings",
+     "anio": 1995,
+     "estrellas_critica": "3",
+     "entradilla": "Regreso amable con Pye Hastings como único timón; The Unauthorised Breakfast Item (2003) y Paradise Filter (2013) lo continuaron sin ruido."
+    },
+    {
+     "titulo": "All Over You",
+     "anio": 1996,
+     "estrellas_critica": "2",
+     "entradilla": "Regrabaciones de clásicos del catálogo con la formación de los noventa. Funciona como inventario del repertorio, no como sustituto de nada."
+    },
+    {
+     "titulo": "All Over You… Too",
+     "anio": 2000,
+     "estrellas_critica": "2",
+     "entradilla": "Segunda tanda de regrabaciones de catálogo, con el mismo criterio que la primera entrega. Para completistas: las versiones originales siguen ganando."
+    },
+    {
+     "titulo": "The Unauthorised Breakfast Item",
+     "anio": 2003,
+     "estrellas_critica": "3",
+     "entradilla": "Primer material de estudio nuevo desde The Battle of Hastings, otra vez con Pye Hastings al timón. Pop-rock adulto con acento Canterbury en los márgenes; el título avisa que el humor sigue intacto."
+    },
+    {
+     "titulo": "Paradise Filter",
+     "anio": 2013,
+     "estrellas_critica": "3",
+     "entradilla": "Primer disco de estudio en una década, financiado por los propios fans. Sigue la línea amable de The Unauthorised Breakfast Item: canciones cortas, humor inglés, ambición jubilada."
+    },
+    {
+     "titulo": "It's None of Your Business",
+     "anio": 2021,
+     "estrellas_critica": "3",
+     "entradilla": "El Canterbury melódico aún respira: humor intacto, ambición jubilada. Está bien así."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "elo",
+   "nombre": "Electric Light Orchestra",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1970",
+   "fin": "2025-07-13",
+   "mbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Electric_Light_Orchestra",
+   "entradilla_actual": "Nacieron para continuar el barroco de los Beatles con chelos y terminaron siendo la mejor máquina pop de fines de los setenta. Su credencial prog es temprana y parcial: Eldorado.",
+   "formaciones_mb": [
+    "Roy Wood (original; 1970–1972)",
+    "Bev Bevan (drums (drum set), original; 1970–1983)",
+    "Jeff Lynne (original; 1970–1986)",
+    "Andy Craig (cello; 1971-10–1972-07)",
+    "Steve Woolam (violin; 1971–1971)",
+    "Bill Hunt (miembro; 1971–1972)",
+    "Hugh McDowell (cello; 1972–1972)",
+    "Wilfred Gibson (violin; 1972–1973)",
+    "Colin Walker (cello; 1972–1973)",
+    "Mike Edwards (cello; 1972–1975)",
+    "Richard Tandy (keyboard; 1972–1986)",
+    "Michael d’Albuquerque (bass guitar; 1973–1974)",
+    "Mik Kaminski (violin; 1973–1979)",
+    "Hugh McDowell (cello; 1973–1979)",
+    "Louis Clark (miembro; 1974–1981)",
+    "Kelly Groucutt (background vocals, bass guitar, lead vocals; 1974–1983)",
+    "Melvyn Gale (miembro; 1975–1979)",
+    "Dave Morgan (acoustic guitar, background vocals, synthesizer; 1981–1982)",
+    "Mik Kaminski (violin; 1981–1986)",
+    "Louis Clark (miembro; 1983–1986)",
+    "Bev Bevan (drums (drum set), original; 1985–1986)",
+    "Dave Morgan (acoustic guitar; 1986–1986)",
+    "Martin Smith (miembro; 1986–1986)",
+    "Gregg Bissonette (background vocals, drums (drum set); 2000–2001)",
+    "Jeff Lynne (original; 2000–2001)",
+    "Richard Tandy (keyboard; 2000–2001)",
+    "Peggy Baldwin (cello; 2001–2001)",
+    "Matt Bissonette (miembro; 2001–2001)",
+    "Marc Mann (miembro; 2001–2001)",
+    "Sarah O’Brien (cello; 2001–2001)",
+    "Rosie Vela (background vocals; 2001–2001)",
+    "Chereene Allen (violin; 2013–2014)",
+    "Mick Wilson (background vocals; 2013–2014)",
+    "Mick Wilson (percussion; 2013–2014)",
+    "Mick Wilson (guitar; 2013–2014)",
+    "Marc Mann (background vocals; 2014–2014)",
+    "Marc Mann (guitar; 2014–2014)",
+    "Marc Mann (keyboard; 2014–2014)",
+    "Bernie Smith (keyboard; 2014–2017)",
+    "Richard Tandy (keyboard; 2014–2024-05-01)",
+    "Marcus Byrne (piano; 2014–act.)",
+    "Marcus Byrne (keyboard; 2014–act.)",
+    "Donavan Hepburn (drums (drum set); 2014–act.)",
+    "Iain Hornal (lead vocals; 2014–act.)",
+    "Iain Hornal (background vocals; 2014–act.)",
+    "Iain Hornal (percussion; 2014–act.)",
+    "Iain Hornal (guitar; 2014–act.)",
+    "Jeff Lynne (original; 2014–act.)",
+    "Milton McDonald (background vocals; 2014–act.)",
+    "Milton McDonald (guitar; 2014–act.)",
+    "Melanie Lewis-McDonald (background vocals; 2014–act.)",
+    "Melanie Lewis-McDonald (percussion; 2014–act.)",
+    "Lee Pomeroy (background vocals; 2014–act.)",
+    "Lee Pomeroy (bass guitar; 2014–act.)",
+    "Mike Stevens (background vocals; 2014–act.)",
+    "Mike Stevens (guitar; 2014–act.)",
+    "Jess Cox (cello; 2016–act.)",
+    "Amy Langley (cello; 2016–act.)",
+    "Rosie Langley (violin; 2016–act.)",
+    "Steve Turner (keyboard; 2017–act.)",
+    "Jo Webb (background vocals; 2017–act.)",
+    "Jo Webb (acoustic guitar; 2017–act.)",
+    "Jo Webb (keyboard; 2017–act.)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "The Electric Light Orchestra (No Answer)",
+     "anio": 1971,
+     "estrellas_critica": "3",
+     "entradilla": "El plan de Roy Wood: continuar donde «I Am the Walrus» quedó. Chelos crudos, caos hermoso, y el título americano nacido de un recado telefónico mal anotado."
+    },
+    {
+     "titulo": "ELO 2",
+     "anio": 1973,
+     "estrellas_critica": "3",
+     "entradilla": "Wood se fue a los meses de fundar la banda; Lynne toma el mando. «Roll Over Beethoven» con Beethoven citado adentro: la declaración de método."
+    },
+    {
+     "titulo": "On the Third Day",
+     "anio": 1973,
+     "estrellas_critica": "3",
+     "entradilla": "Transición: el formato canción va ganándole terreno al experimento."
+    },
+    {
+     "titulo": "Eldorado",
+     "anio": 1974,
+     "estrellas_critica": "4",
+     "entradilla": "Su álbum conceptual pleno —un soñador tipo Walter Mitty huyendo a mundos de fantasía— y su primera orquesta real en vez de sobregrabados. La credencial que los mete en este mapa."
+    },
+    {
+     "titulo": "Face the Music",
+     "anio": 1975,
+     "estrellas_critica": "4",
+     "entradilla": "«Evil Woman»: el hit como nueva unidad de medida. El prog queda atrás sin drama."
+    },
+    {
+     "titulo": "A New World Record",
+     "anio": 1976,
+     "estrellas_critica": "4",
+     "entradilla": "La máquina pop perfecta ya montada; el chelo como decoración de lujo."
+    },
+    {
+     "titulo": "Out of the Blue",
+     "anio": 1977,
+     "estrellas_critica": "5",
+     "entradilla": "Doble monumental escrito en tres semanas y media en un chalet suizo; «Mr. Blue Sky» como Sgt. Pepper de bolsillo."
+    },
+    {
+     "titulo": "Discovery",
+     "anio": 1979,
+     "estrellas_critica": "3",
+     "entradilla": "Disco-ELO («Disco? Very!», bromeaba la prensa). Primer nº 1 británico; el prog es ya un recuerdo de otra década."
+    },
+    {
+     "titulo": "Xanadu: From the Original Motion Picture Soundtrack",
+     "anio": 1980,
+     "estrellas_critica": "2",
+     "entradilla": "Mitad ELO, mitad Olivia Newton-John, para un film que fracasó de manera célebre mientras la música corría mejor suerte. La cara de Lynne es pop de sintetizador eficaz; el conjunto queda lejos del cuerpo central del catálogo."
+    },
+    {
+     "titulo": "Time",
+     "anio": 1981,
+     "estrellas_critica": "3",
+     "entradilla": "Concepto de ciencia ficción —un hombre secuestrado hacia 2095— y regreso tardío de ELO al álbum conceptual, ahora en sintetizador. Culto creciente desde entonces."
+    },
+    {
+     "titulo": "Secret Messages",
+     "anio": 1983,
+     "estrellas_critica": "3",
+     "entradilla": "Recortado de doble a sencillo por la crisis del vinilo: el imperio achicándose en tiempo real."
+    },
+    {
+     "titulo": "Balance of Power",
+     "anio": 1986,
+     "estrellas_critica": "2",
+     "entradilla": "Despedida encogida y sin chelos; Lynne se va a producir a media historia del rock (Harrison, Orbison, Petty, los Wilburys)."
+    },
+    {
+     "titulo": "Zoom",
+     "anio": 2001,
+     "estrellas_critica": "3",
+     "entradilla": "Regreso tras tres lustros de silencio, con ELO reducido a Lynne casi en solitario más algún invitado de su círculo. Suena pulcro y reconocible, pero funciona más como disco de Jeff Lynne que de banda. El público no acompañó, la gira prevista se canceló y el nombre volvió al cajón por años."
+    },
+    {
+     "titulo": "Alone in the Universe",
+     "anio": 2015,
+     "estrellas_critica": "3",
+     "entradilla": "El regreso que Zoom (2001) mereció y no tuvo: Wembley agotado, la marca reivindicada. From Out of Nowhere (2019, UK 1) confirmó."
+    },
+    {
+     "titulo": "From out of Nowhere",
+     "anio": 2019,
+     "estrellas_critica": "3",
+     "entradilla": "Segundo disco del proyecto revivido como Jeff Lynne's ELO, grabado casi enteramente por Lynne en su estudio casero. Canciones breves, coros apilados y la fórmula reconocible al milímetro: agradable, prolijo, sin sorpresas. Confirmó que el regreso tenía público fiel más que ideas nuevas."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "elp",
+   "nombre": "Emerson, Lake & Palmer",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1970",
+   "fin": "2011",
+   "mbid": "ad996aef-cc1c-42ac-af5c-619c370f4b8a",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Emerson,_Lake_%26_Palmer",
+   "entradilla_actual": "Virtuosismo como espectáculo. Cinco años de gloria (70-74), tres de descomposición (77-78). El emblema de todo lo que el punk vino a demoler, en parte con razón.",
+   "formaciones_mb": [
+    "Keith Emerson (eponymous; 1970–2016-03-10)",
+    "Greg Lake (eponymous; 1970–2016-12-07)",
+    "Carl Palmer (eponymous; 1970–act.)"
+   ],
+   "conexiones_red": [
+    "Greg Lake — miembro de: eponymous (1970–2016-12-07)",
+    "Eddy Offord — produjo a: ingeniero y coproductor en Advision (Tarkus)",
+    "Peter Sinfield — letras para: letras de Works",
+    "Manticore — fichó a: su propio sello",
+    "Advision · Trident · Abbey Road · The Manor — grabó en: Advision"
+   ],
+   "discografia": [
+    {
+     "titulo": "Emerson, Lake & Palmer",
+     "anio": 1970,
+     "estrellas_critica": "4",
+     "entradilla": "El supergrupo se presenta: Moog, Bartók electrificado y «Lucky Man» de contrabando. La plantilla del virtuosismo como espectáculo."
+    },
+    {
+     "titulo": "Pictures at an Exhibition",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "Mussorgsky electrificado en vivo: la tesis entera de la banda en 40 minutos. O te parece una profanación o una fiesta; no hay término medio y eso era el punto."
+    },
+    {
+     "titulo": "Tarkus",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "El armadillo-tanque: suite de 20 minutos que casi rompe la banda antes de existir, más un lado B de bocetos. Ya discutido en detalle."
+    },
+    {
+     "titulo": "Trilogy",
+     "anio": 1972,
+     "estrellas_critica": "4",
+     "entradilla": "Su disco más musical y menos agresivo: «From the Beginning», Copland adaptado. El ELP que casi convence a los que no los soportan."
+    },
+    {
+     "titulo": "Brain Salad Surgery",
+     "anio": 1973,
+     "estrellas_critica": "5",
+     "entradilla": "Giger en la portada, «Karn Evil 9» adentro: el pico absoluto y el borde del abismo en el mismo disco. Después de esto, solo quedaba la caricatura."
+    },
+    {
+     "titulo": "Works Volume 1",
+     "anio": 1977,
+     "estrellas_critica": "3",
+     "entradilla": "Tres caras solistas más una grupal, con orquesta propia de gira que los fundió económicamente. La banda ya no existe adentro del disco; el «Fanfare» de Copland como último gran gesto."
+    },
+    {
+     "titulo": "Works Volume 2",
+     "anio": 1977,
+     "estrellas_critica": "2",
+     "entradilla": "Sobras etiquetadas como volumen. El título hace el chiste solo."
+    },
+    {
+     "titulo": "Love Beach",
+     "anio": 1978,
+     "estrellas_critica": "1",
+     "entradilla": "Obligación contractual grabada en Bahamas, portada de catálogo de veraneo. Indefendible, y ellos fueron los primeros en decirlo. Así terminan los imperios: por contrato."
+    },
+    {
+     "titulo": "Emerson, Lake & Powell",
+     "anio": 1986,
+     "estrellas_critica": "3",
+     "entradilla": "La sigla salvada por casting (Cozy Powell): un disco digno, una gira deficitaria. El epílogo noventero —Black Moon (92), In the Hot Seat (94)— fue de más a mucho menos; Emerson y Lake murieron con meses de diferencia en 2016."
+    },
+    {
+     "titulo": "Black Moon",
+     "anio": 1992,
+     "estrellas_critica": "3",
+     "entradilla": "Reunión del trío original tras el paréntesis con Powell, con producción pulida de los noventa y canciones más cortas que ambiciosas. Suena profesional y por momentos vivo —el single homónimo, la lectura de Prokofiev—, pero el mundo ya no pedía un disco de ELP. Correcto sin ser necesario."
+    },
+    {
+     "titulo": "In the Hot Seat",
+     "anio": 1994,
+     "estrellas_critica": "1",
+     "entradilla": "Grabado con Emerson limitado por una lesión en la mano derecha y una producción que empuja hacia el AOR genérico. El resultado es el punto más bajo del catálogo: casi nada suena a la banda que fue. Cierre de estudio involuntario y triste."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "foc",
+   "nombre": "Focus",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "NL",
+   "inicio": "1969",
+   "fin": null,
+   "mbid": "821e11d6-cfec-44a7-9615-06a4e631c975",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Focus_(banda)",
+   "entradilla_actual": "Holanda en el mapa: Akkerman y van Leer, virtuosismo de conservatorio con humor absurdo. La prueba de que el prog continental podía competir en las listas anglosajonas.",
+   "formaciones_mb": [
+    "Hans Cleuver (drums (drum set), lead vocals, original, percussion; 1969–1970)",
+    "Martin Dresden (background vocals, bass, original; 1969–1970)",
+    "Jan Akkerman (bass, guitar, lute, original, percussion; 1969–1975)",
+    "Thijs van Leer (flute, keyboard, lead vocals, original, piano, synthesizer; 1969–1978)",
+    "Cyril Havermans (background vocals, bass; 1971–1971)",
+    "Pierre van der Linden (drums (drum set), percussion; 1971–1973)",
+    "Bert Ruiter (background vocals, bass; 1971–1978)",
+    "Colin Allen (drums (drum set), percussion; 1973–1975)",
+    "David Kemper (drums (drum set); 1975–1976)",
+    "Pierre van der Linden (percussion; 1975–1976)",
+    "Pierre van der Linden (drums (drum set); 1975–1976)",
+    "Philip Catherine (guitar; 1976–1977)",
+    "Eef Albers (guitar; 1977–1978)",
+    "P.J. Proby (lead vocals; 1977–1978)",
+    "Steve Smith (drums (drum set); 1977–1978)",
+    "Jan Akkerman (bass, original; 1985–1985)",
+    "Jan Akkerman (lute, original; 1985–1985)",
+    "Jan Akkerman (original, percussion; 1985–1985)",
+    "Jan Akkerman (guitar, original; 1985–1985)",
+    "Thijs van Leer (lead vocals, original; 1985–1985)",
+    "Thijs van Leer (flute, original; 1985–1985)",
+    "Thijs van Leer (original, synthesizer; 1985–1985)",
+    "Thijs van Leer (original, piano; 1985–1985)",
+    "Thijs van Leer (keyboard, original; 1985–1985)",
+    "Jan Akkerman (bass, original; 1990–1990)",
+    "Jan Akkerman (lute, original; 1990–1990)",
+    "Jan Akkerman (original, percussion; 1990–1990)",
+    "Jan Akkerman (guitar, original; 1990–1990)",
+    "Thijs van Leer (lead vocals, original; 1990–1990)",
+    "Thijs van Leer (flute, original; 1990–1990)",
+    "Thijs van Leer (original, synthesizer; 1990–1990)",
+    "Thijs van Leer (original, piano; 1990–1990)",
+    "Thijs van Leer (keyboard, original; 1990–1990)",
+    "Pierre van der Linden (percussion; 1990–1990)",
+    "Pierre van der Linden (drums (drum set); 1990–1990)",
+    "Bert Ruiter (background vocals; 1990–1990)",
+    "Bert Ruiter (bass; 1990–1990)",
+    "Hans Cleuver (lead vocals, original; 1997–1998)",
+    "Hans Cleuver (original, percussion; 1997–1998)",
+    "Hans Cleuver (drums (drum set), original; 1997–1998)",
+    "Menno Gootjes (guitar; 1997–1998)",
+    "Thijs van Leer (lead vocals, original; 1997–1998)",
+    "Thijs van Leer (flute, original; 1997–1998)",
+    "Thijs van Leer (original, synthesizer; 1997–1998)",
+    "Thijs van Leer (original, piano; 1997–1998)",
+    "Thijs van Leer (keyboard, original; 1997–1998)",
+    "Bert Ruiter (background vocals; 1997–1998)",
+    "Bert Ruiter (bass; 1997–1998)",
+    "Jan Dumée (background vocals, guitar; 2001–2006)",
+    "Bobby Jacobs (background vocals, bass; 2001–2016-12)",
+    "Thijs van Leer (lead vocals, original; 2001–act.)",
+    "Thijs van Leer (flute, original; 2001–act.)",
+    "Thijs van Leer (original, synthesizer; 2001–act.)",
+    "Thijs van Leer (original, piano; 2001–act.)",
+    "Thijs van Leer (keyboard, original; 2001–act.)",
+    "Bert Smaak (drums (drum set); 2002–2003)",
+    "Pierre van der Linden (percussion; 2004–act.)",
+    "Pierre van der Linden (drums (drum set); 2004–act.)",
+    "Niels van der Steenhoven (guitar; 2006–2010)",
+    "Menno Gootjes (guitar; 2010–act.)",
+    "Udo Pannekeet (bass; 2016–act.)",
+    "Jo De Roeck (miembro; ?–act.)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "In and Out of Focus",
+     "anio": 1970,
+     "estrellas_critica": "3",
+     "entradilla": "Debut holandés: Akkerman y van Leer se encuentran; el sonido todavía no."
+    },
+    {
+     "titulo": "Moving Waves",
+     "anio": 1971,
+     "estrellas_critica": "5",
+     "entradilla": "«Hocus Pocus»: yodel, flauta y el riff más improbable en conquistar la radio americana. El prog continental entra al mercado anglo por la puerta grande."
+    },
+    {
+     "titulo": "Focus 3",
+     "anio": 1973,
+     "estrellas_critica": "4",
+     "entradilla": "Doble con «Sylvia»: el pico comercial del prog continental en el mundo anglosajón."
+    },
+    {
+     "titulo": "Hamburger Concerto",
+     "anio": 1974,
+     "estrellas_critica": "4",
+     "entradilla": "Variaciones sobre Brahms con movimientos bautizados como puntos de cocción de hamburguesa. El humor como método serio."
+    },
+    {
+     "titulo": "Mother Focus",
+     "anio": 1975,
+     "estrellas_critica": "2",
+     "entradilla": "Pop suave y anónimo; Akkerman camino a la salida."
+    },
+    {
+     "titulo": "Focus con Proby",
+     "anio": 1978,
+     "estrellas_critica": "2",
+     "entradilla": "Con P. J. Proby cantando: el final más extraño posible para la primera vida de la banda."
+    },
+    {
+     "titulo": "Focus 8",
+     "anio": 2002,
+     "estrellas_critica": "3",
+     "entradilla": "Van Leer reactiva la marca tras un cuarto de siglo sin discos de estudio. Formación nueva, repertorio instrumental que retoma el lenguaje clásico de la banda sin la chispa de Akkerman. Digno arranque de la segunda vida de Focus, pensado para el circuito de culto."
+    },
+    {
+     "titulo": "Focus 9 / New Skin",
+     "anio": 2006,
+     "estrellas_critica": "3",
+     "entradilla": "Segundo disco de la etapa revival, con el regreso de Pierre van der Linden a la batería. El sonido gana peso rítmico y el repertorio alterna piezas nuevas con guiños al pasado. Oficio correcto; ambición contenida."
+    },
+    {
+     "titulo": "Focus X",
+     "anio": 2012,
+     "estrellas_critica": "3",
+     "entradilla": "Con Menno Gootjes ya asentado en la guitarra, la banda suena más cohesionada que en las entregas anteriores del revival. Instrumentales que recuperan algo del nervio setentero sin salir del molde. Dentro de la etapa moderna, de lo más defendible."
+    },
+    {
+     "titulo": "Golden Oldies",
+     "anio": 2014,
+     "estrellas_critica": "2",
+     "entradilla": "El repertorio clásico regrabado en estudio por la formación del momento. Las versiones son competentes y prescindibles a la vez: nadie las prefiere a las originales. Documento de cómo suena la banda en vivo más que aporte al catálogo."
+    },
+    {
+     "titulo": "Focus 8.5 / Beyond the Horizon",
+     "anio": 2016,
+     "estrellas_critica": null,
+     "entradilla": "Rareza del catálogo tardío: material vinculado a la era de Focus 8 retrabajado en colaboración con músicos brasileños. Más curiosidad para completistas que capítulo real de la discografía."
+    },
+    {
+     "titulo": "Focus 11",
+     "anio": 2019,
+     "estrellas_critica": "3",
+     "entradilla": "Van Leer y van der Linden siguen al frente, con Menno Gootjes ocupando el lugar de la guitarra hace ya una década. Instrumentales de oficio que no pretenden reinventar nada: la fórmula flauta-órgano-guitarra, aplicada con orden. Para el circuito de culto que sostiene la marca desde su regreso."
+    },
+    {
+     "titulo": "Focus 12",
+     "anio": 2024,
+     "estrellas_critica": "3",
+     "entradilla": "La numeración sigue y la fórmula también. Van Leer, ya veterano, entrega otra tanda de instrumentales fieles al canon de la casa. Nada sorprende; tampoco es la intención. Artesanía tardía para los convencidos."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "gen",
+   "nombre": "Genesis",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1967",
+   "fin": "2022-03-26",
+   "mbid": "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Genesis",
+   "entradilla_actual": "Teatro pastoral inglés. Etapas: formación (69-70), la banda clásica con Gabriel (71-74), transición con Collins (76-77), pop (78-80). Su virtud diferencial: letras que narran de verdad.",
+   "formaciones_mb": [
+    "Chris Stewart (drums (drum set), original, percussion; 1967–1968-06)",
+    "Anthony Phillips (guitar, original; 1967–1970-07-18)",
+    "Peter Gabriel (flute, lead vocals, oboe, original, percussion; 1967–1975)",
+    "Tony Banks (guitar, keyboard, original; 1967–2022-03-26)",
+    "Mike Rutherford (bass guitar, guitar, original; 1967–2022-03-26)",
+    "Jonathan Silver (drums (drum set), percussion; 1968-06–1969-07)",
+    "John Mayhew (drums (drum set), percussion; 1969-07–1970-08)",
+    "Phil Collins (drums (drum set), lead vocals, percussion; 1970-08–1996-03)",
+    "Steve Hackett (guitar; 1970-12–1977-10-08)",
+    "Mick Barnard (guitar; 1970–1971-01)",
+    "Ray Wilson (lead vocals; 1997–1999)",
+    "Phil Collins (drums (drum set), lead vocals, percussion; 2006-10–2022-03-26)"
+   ],
+   "conexiones_red": [
+    "Anthony Phillips — miembro de: guitar, original (1967–1970-07-18)",
+    "Steve Hackett — miembro de: guitar (1970-12–1977-10-08)",
+    "Phil Collins — miembro de: drums (drum set), lead vocals, percussion (1970-08–1996-03)",
+    "David Hitchcock — produjo a: Foxtrot (1972)",
+    "Bill Bruford — invitado de: batería en la gira de 1976",
+    "Hipgnosis — diseñó para: tapas 1976–78",
+    "Charisma · Tony Stratton-Smith — fichó a: el sello que los bancó cuando no vendían",
+    "Advision · Trident · Abbey Road · The Manor — grabó en: Trident",
+    "Steve y John Hackett — miembro de: Steve, guitarrista 1971–77"
+   ],
+   "discografia": [
+    {
+     "titulo": "From Genesis to Revelation",
+     "anio": 1969,
+     "estrellas_critica": "2",
+     "entradilla": "Adolescentes producidos por Jonathan King como unos Bee Gees con orquesta encima. Curiosidad arqueológica; la banda reniega de él con razón."
+    },
+    {
+     "titulo": "Trespass",
+     "anio": 1970,
+     "estrellas_critica": "3",
+     "entradilla": "El molde pastoral/dramático aparece («The Knife»). Último disco de Anthony Phillips, cuya salida casi disuelve la banda. Éxito solo en Bélgica e Italia."
+    },
+    {
+     "titulo": "Nursery Cryme",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "Entran Collins y Hackett: la formación clásica. Violencia victoriana con croquet («The Musical Box»). Fracasa en casa, triunfa en Italia: dato que salvó a la banda."
+    },
+    {
+     "titulo": "Foxtrot",
+     "anio": 1972,
+     "estrellas_critica": "5",
+     "entradilla": "«Supper's Ready» y «Get 'Em Out by Friday»: el año en que el concepto sí se ejecuta. El vestido rojo y la cabeza de zorro en Dublín cambian el destino comercial de la banda. Ya discutido."
+    },
+    {
+     "titulo": "Selling England by the Pound",
+     "anio": 1973,
+     "estrellas_critica": "5",
+     "entradilla": "El equilibrio perfecto entre letra, guitarra y teatro: «Firth of Fifth», «The Cinema Show». Si hay que elegir un solo Genesis, es este."
+    },
+    {
+     "titulo": "The Lamb Lies Down on Broadway",
+     "anio": 1974,
+     "estrellas_critica": "5",
+     "entradilla": "Doble surrealista de Gabriel sobre Rael en el inframundo neoyorquino: la ruptura de la banda en forma de disco. Letra impuesta por uno, música compuesta por los otros cuatro; se nota y a la vez funciona."
+    },
+    {
+     "titulo": "A Trick of the Tail",
+     "anio": 1976,
+     "estrellas_critica": "4",
+     "entradilla": "Collins canta y el mundo descubre que la banda sobrevivía sin Gabriel. Excelente y un grado más suave: el primer paso de una pendiente larga."
+    },
+    {
+     "titulo": "Wind & Wuthering",
+     "anio": 1976,
+     "estrellas_critica": "4",
+     "entradilla": "El último disco plenamente prog: romanticismo de Banks a pleno. Hackett se va al terminar, harto de que le recorten espacio."
+    },
+    {
+     "titulo": "...And Then There Were Three...",
+     "anio": 1978,
+     "estrellas_critica": "3",
+     "entradilla": "El trío: canciones más cortas, «Follow You Follow Me» como primer hit real. La transición al pop, ejecutada con oficio y sin pedir disculpas."
+    },
+    {
+     "titulo": "Duke",
+     "anio": 1980,
+     "estrellas_critica": "4",
+     "entradilla": "El mejor disco de la etapa trío: pop con restos de ambición y una suite escondida en el orden de los temas. Primer nº 1 británico; la década siguiente empieza aquí."
+    },
+    {
+     "titulo": "Abacab",
+     "anio": 1981,
+     "estrellas_critica": "4",
+     "entradilla": "Autoproducidos, cortan toda grasa prog; los bronces de Earth, Wind & Fire en un disco de Genesis como declaración de época."
+    },
+    {
+     "titulo": "Genesis",
+     "anio": 1983,
+     "estrellas_critica": "3",
+     "entradilla": "«Mama» y «Home by the Sea»: el pop oscuro como nuevo hábitat natural del trío."
+    },
+    {
+     "titulo": "Invisible Touch",
+     "anio": 1986,
+     "estrellas_critica": "3",
+     "entradilla": "Cinco top-5 americanos del mismo disco. El pop total, con «Land of Confusion» y «Domino» guardando la conciencia y el músculo."
+    },
+    {
+     "titulo": "We Can't Dance",
+     "anio": 1991,
+     "estrellas_critica": "3",
+     "entradilla": "El último con Collins: «No Son of Mine», y todavía un tema de diez minutos escondido adentro. Calling All Stations (97, UK 2/US 54), con Ray Wilson, probó que Europa seguía y América no."
+    },
+    {
+     "titulo": "…Calling All Stations…",
+     "anio": 1997,
+     "estrellas_critica": "2",
+     "entradilla": "Único disco con Ray Wilson al frente tras la salida de Collins. Banks y Rutherford escriben casi todo y el resultado es gris: medios tiempos solemnes, sin gancho ni riesgo. La voz de Wilson, más oscura, le sienta bien a un par de temas, pero el material no acompaña. La banda se disolvió poco después."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  }
+ ]
+}

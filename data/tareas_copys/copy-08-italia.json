@@ -1,0 +1,527 @@
+{
+ "id": "copy-08-italia",
+ "escena": "italia",
+ "artistas": [
+  {
+   "slug": "area",
+   "nombre": "Area",
+   "escena": "italia",
+   "tipo": "Group",
+   "pais": "IT",
+   "inicio": "1972",
+   "fin": "1999",
+   "mbid": "74251656-ec30-4052-9386-b00b5be1b74c",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Area_(banda)",
+   "entradilla_actual": "El extremo radical del prog italiano: jazz de vanguardia, electrónica y política sin anestesia. Al frente, Demetrio Stratos, que llevó la voz humana a donde nadie más quiso ir — multifónicos, gritos, técnicas que la academia todavía estudia. Ninguna banda de la escena fue menos complaciente.",
+   "formaciones_mb": [
+    "Leandro Gaetano (miembro; 1972–1973)",
+    "Johnny Lambizzi (miembro; 1972–1973)",
+    "Patrick Djivas (miembro; 1972–1974)",
+    "Eddie Busnello (miembro; 1973–1974)",
+    "Paolo Tofani (miembro; 1973–1979)",
+    "Ares Tavolazzi (miembro; 1974–1993)",
+    "Sara Borsarini (miembro; 1979–1980)",
+    "Guido Guidoboni (miembro; 1979–1980)",
+    "Pietro Tonolo (miembro; 1979–1980)",
+    "Massimo Urbani (miembro; 1979–1980)",
+    "Larry Nocella (miembro; 1980–1982)",
+    "Pietro Condorelli (miembro; 1993–1997)",
+    "Paolino Dalla Porta (miembro; 1993–1997)",
+    "Angela Baggi (miembro; 1998–1999)",
+    "Marco Micheli (miembro; 1998–1999)",
+    "Demetrio Stratos (miembro; ?–1979)",
+    "Giulio Capiozzo (miembro; ?–act.)",
+    "Patrizio Fariselli (miembro; ?–act.)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "Arbeit macht frei",
+     "anio": 1973,
+     "estrellas_critica": "5",
+     "entradilla": "Debut feroz: jazz-rock mediterráneo, militancia explícita desde el título y Stratos desplegando de entrada un instrumento vocal sin equivalente en el rock. Declaración de principios completa al primer disco."
+    },
+    {
+     "titulo": "Caution Radiation Area",
+     "anio": 1974,
+     "estrellas_critica": "4",
+     "entradilla": "El disco más abrasivo del grupo: la vanguardia le gana terreno a la canción y el resultado exige más de lo que concede. Para los conversos, su momento más audaz; para el resto, el más impenetrable."
+    },
+    {
+     "titulo": "Crac!",
+     "anio": 1975,
+     "estrellas_critica": "5",
+     "entradilla": "El equilibrio perfecto entre ataque y forma: la furia de los dos primeros discos encauzada en piezas memorables. Para la mayoría, la puerta de entrada y la cima de Area."
+    },
+    {
+     "titulo": "Maledetti (maudits)",
+     "anio": 1976,
+     "estrellas_critica": "4",
+     "entradilla": "El disco más conceptual y arriesgado de la etapa con Stratos: teatro, improvisación y política en un ciclo sobre los mecanismos del poder. Menos inmediato que Crac!, igual de esencial para entender al grupo."
+    },
+    {
+     "titulo": "1978: Gli dei se ne vanno gli arrabbiati restano!",
+     "anio": 1978,
+     "estrellas_critica": "3",
+     "entradilla": "Última entrega de estudio con Stratos: formato más ceñido a la canción, con una voz todavía capaz de justificarlo todo. Fin de ciclo de la Area histórica."
+    },
+    {
+     "titulo": "Tic & Tac",
+     "anio": 1980,
+     "estrellas_critica": "2",
+     "entradilla": "Primer disco tras la muerte de Stratos, instrumental y volcado a la fusión. Epílogo de una banda que ya era otra; prescindible dentro del catálogo mayor."
+    },
+    {
+     "titulo": "Chernobyl 7991",
+     "anio": 1997,
+     "estrellas_critica": null,
+     "entradilla": "Reunión de estudio de miembros históricos alrededor de un proyecto conceptual, sin posibilidad de reemplazar lo irreemplazable. Digno y de circulación mínima."
+    }
+   ],
+   "vecinos_escena": [
+    "Banco del Mutuo Soccorso",
+    "Il Balletto di Bronzo",
+    "Le Orme",
+    "Museo Rosenbach",
+    "New Trolls",
+    "Osanna",
+    "Premiata Forneria Marconi"
+   ]
+  },
+  {
+   "slug": "banco",
+   "nombre": "Banco del Mutuo Soccorso",
+   "escena": "italia",
+   "tipo": "Group",
+   "pais": "IT",
+   "inicio": "1968",
+   "fin": null,
+   "mbid": "737b9b0f-170c-42ee-8e73-74865cd682ee",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Banco_del_Mutuo_Soccorso",
+   "entradilla_actual": "Pilar del prog italiano junto a PFM y Le Orme, con Francesco Di Giacomo —la voz más grande del género, literal y figuradamente— al frente y los hermanos Nocenzi en teclados duales. Su trilogía fundacional de 1972-73 definió la ambición de la escena: aquella Italia no pedía permiso. Como sus pares, ficharon por Manticore para intentar el salto al mercado anglo.",
+   "formaciones_mb": [
+    "Gianni Nocenzi (clarinet, keyboard, original, piano; 1968–1983)",
+    "Vittorio Nocenzi (original; 1968–act.)",
+    "Pierluigi Calderoni (miembro; 1971–1972)",
+    "Francesco Di Giacomo (lead vocals; 1971–2014-02-21)",
+    "Rodolfo Maltese (miembro; 1973–2015-10-03)",
+    "Alessandro Esseno (keyboard; ?–act.)",
+    "Renato D'Angelo (bass; ?–?)",
+    "Marcello Todaro (acoustic guitar; ?–?)",
+    "Marcello Todaro (electric guitar; ?–?)"
+   ],
+   "conexiones_red": [
+    "Manticore — fichó a: Banco (1975) para el mercado anglo"
+   ],
+   "discografia": [
+    {
+     "titulo": "Banco del Mutuo Soccorso",
+     "anio": 1972,
+     "estrellas_critica": "4",
+     "entradilla": "Primer capítulo de la trilogía fundacional: los teclados duales de los Nocenzi y la voz de Di Giacomo ya están enteros desde el debut. El prog italiano encontrando su forma propia, no una copia del modelo inglés."
+    },
+    {
+     "titulo": "Darwin!",
+     "anio": 1972,
+     "estrellas_critica": "5",
+     "entradilla": "Álbum conceptual sobre la evolución y cima de la trilogía fundacional: los teclados duales de los Nocenzi y Di Giacomo en su registro más imponente. Canon del prog italiano."
+    },
+    {
+     "titulo": "Io sono nato libero",
+     "anio": 1973,
+     "estrellas_critica": "5",
+     "entradilla": "Cierre de la trilogía fundacional de 1972-73. Los hermanos Nocenzi despliegan su escritura más amplia y Di Giacomo confirma por qué se lo consideraba la voz mayor del género."
+    },
+    {
+     "titulo": "Banco",
+     "anio": 1975,
+     "estrellas_critica": "3",
+     "entradilla": "El fichaje por Manticore para el mercado anglo: repertorio anterior regrabado y cantado en inglés. Documento del intento de exportación del prog italiano más que obra nueva."
+    },
+    {
+     "titulo": "As in a Last Supper",
+     "anio": 1976,
+     "estrellas_critica": "3",
+     "entradilla": "Versión en inglés de Come in un'ultima cena para el mercado internacional: regrabación oficial correcta, aunque el original italiano la vuelve prescindible."
+    },
+    {
+     "titulo": "Come in un’ultima cena",
+     "anio": 1976,
+     "estrellas_critica": "4",
+     "entradilla": "Último gran álbum de la etapa sinfónica plena: más contenido y melódico que la trilogía, con la escritura de los Nocenzi todavía en alto. Cierre digno del período clásico."
+    },
+    {
+     "titulo": "Garofano rosso",
+     "anio": 1976,
+     "estrellas_critica": "3",
+     "entradilla": "Banda de sonido instrumental propia para el film homónimo, con los Nocenzi al frente y sin la voz de Di Giacomo. Menos monumental que la trilogía fundacional, pero digna dentro de su etapa de transición."
+    },
+    {
+     "titulo": "...di terra",
+     "anio": 1978,
+     "estrellas_critica": "4",
+     "entradilla": "Álbum instrumental con orquesta: la faceta más camarística y ambiciosa del grupo, con Di Giacomo fuera del micrófono. Rareza mayor del catálogo, defendida por los fieles."
+    },
+    {
+     "titulo": "Canto di primavera",
+     "anio": 1979,
+     "estrellas_critica": "3",
+     "entradilla": "Bisagra hacia la canción: más liviano y melódico, con el prog replegado a los arreglos. Todavía elegante, ya no ambicioso."
+    },
+    {
+     "titulo": "Urgentissimo",
+     "anio": 1980,
+     "estrellas_critica": "2",
+     "entradilla": "Arranque de la etapa pop bajo el nombre acortado Banco: canciones directas pensadas para la radio italiana. Del prog queda poco más que el oficio."
+    },
+    {
+     "titulo": "Buone notizie",
+     "anio": 1981,
+     "estrellas_critica": "2",
+     "entradilla": "Continuación del giro pop: producción de época y formato canción sin pretensiones progresivas. Para el seguidor del grupo antes que del género."
+    },
+    {
+     "titulo": "Banco (1983)",
+     "anio": 1983,
+     "estrellas_critica": "2",
+     "entradilla": "Homónimo de la etapa pop, sin parentesco con el disco inglés de 1975 para Manticore: canción italiana de radio con la voz de Di Giacomo como único hilo con el pasado. El equivalente italiano de la claudicación ochentera que este mapa registra en casi todas sus bandas."
+    },
+    {
+     "titulo": "...e via",
+     "anio": 1985,
+     "estrellas_critica": "2",
+     "entradilla": "El punto más ochentoso del catálogo: sintetizadores y pop de radio. Documento de la década antes que disco de prog."
+    },
+    {
+     "titulo": "Non mettere le dita nel naso",
+     "anio": 1990,
+     "estrellas_critica": null,
+     "entradilla": "Título marginal de comienzos de los noventa, de circulación mínima y documentación escasa dentro del catálogo del grupo."
+    },
+    {
+     "titulo": "B.M.S.",
+     "anio": 1991,
+     "estrellas_critica": "3",
+     "entradilla": "Regrabación en estudio del repertorio temprano para el circuito discográfico de los noventa, compañera del Darwin rehecho de la misma etapa: prolija, moderna e inevitablemente por debajo de los originales."
+    },
+    {
+     "titulo": "Darwin (regrabación 1991)",
+     "anio": 1991,
+     "estrellas_critica": "2",
+     "entradilla": "Regrabación digital del clásico de 1972, con sonido de su década y sin la urgencia del original. Documento de que la obra seguía viva para la banda; para el resto, el consejo es ir a la fuente."
+    },
+    {
+     "titulo": "Il 13",
+     "anio": 1994,
+     "estrellas_critica": "3",
+     "entradilla": "Regreso al rock progresivo tras la década pop, con Di Giacomo de nuevo al centro: oficio intacto y ambición moderada. Fue su último estudio de material nuevo por mucho tiempo."
+    },
+    {
+     "titulo": "Banco d’accusa",
+     "anio": 1996,
+     "estrellas_critica": null,
+     "entradilla": "Entrada de los noventa prácticamente indocumentada dentro de la discografía oficial del grupo; circulación mínima."
+    },
+    {
+     "titulo": "Transiberiana",
+     "anio": 2019,
+     "estrellas_critica": "3",
+     "entradilla": "Renacimiento tras la muerte de Di Giacomo: Vittorio Nocenzi al mando de una formación nueva para un concepto sobre el viaje transiberiano. Mejor de lo que se temía, con identidad reconocible."
+    },
+    {
+     "titulo": "Greggio e pericoloso",
+     "anio": 2022,
+     "estrellas_critica": null,
+     "entradilla": "Trabajo para cine de la encarnación actual del grupo comandada por Vittorio Nocenzi. Pieza lateral dentro del regreso discográfico de la banda; se incluye como banda de sonido de estudio propia."
+    },
+    {
+     "titulo": "Orlando: Le forme dell’amore",
+     "anio": 2022,
+     "estrellas_critica": "3",
+     "entradilla": "Segundo capítulo de la nueva formación, concepto sobre el Orlando furioso de Ariosto: prog sinfónico de oficio, correcto y consciente de su linaje."
+    },
+    {
+     "titulo": "Storie invisibili",
+     "anio": 2025,
+     "estrellas_critica": null,
+     "entradilla": "Tercer álbum de la etapa Nocenzi-D'Alessio, todavía reciente: mantiene la línea conceptual y el sonido sinfónico de sus dos predecesores."
+    }
+   ],
+   "vecinos_escena": [
+    "Area",
+    "Il Balletto di Bronzo",
+    "Le Orme",
+    "Museo Rosenbach",
+    "New Trolls",
+    "Osanna",
+    "Premiata Forneria Marconi"
+   ]
+  },
+  {
+   "slug": "il-balletto-di-bronzo",
+   "nombre": "Il Balletto di Bronzo",
+   "escena": "italia",
+   "tipo": "Group",
+   "pais": "IT",
+   "inicio": "1967",
+   "fin": "1973",
+   "mbid": "3b290f1d-0b0f-4f2c-b080-d2df6d628f98",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Il_Balletto_di_Bronzo",
+   "entradilla_actual": "Otro nombre de la constelación del un-solo-disco-legendario: con Ys firmaron una de las obras más extremas y veneradas del prog italiano, y poco más hizo falta. El culto llegó décadas después del silencio.",
+   "formaciones_mb": [
+    "Gianni Leone (miembro; 1971–act.)",
+    "Marco Capozi (bass; 2005–2008)",
+    "Duilio Sorrenti (miembro; ?–act.)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "Sirio 2222",
+     "anio": 1970,
+     "estrellas_critica": "3",
+     "entradilla": "Debut previo a la llegada de Gianni Leone: hard rock con tintes psicodélicos y una pieza extensa final que anticipa ambiciones mayores. Interesante como prehistoria de Ys, no como su par."
+    },
+    {
+     "titulo": "Ys",
+     "anio": 1972,
+     "estrellas_critica": "5",
+     "entradilla": "Prog oscuro, virtuoso y casi gótico, con los teclados de Gianni Leone empujando cada pieza al límite. De lo más intenso que produjo Italia en la era clásica; inadvertido entonces, venerado hoy."
+    },
+    {
+     "titulo": "Cuma 2016 D.C.",
+     "anio": 2016,
+     "estrellas_critica": null,
+     "entradilla": "Regreso en estudio del proyecto comandado por Gianni Leone, décadas después del clásico. Oscuro y recargado, para el público ya convencido."
+    },
+    {
+     "titulo": "Lemures",
+     "anio": 2023,
+     "estrellas_critica": null,
+     "entradilla": "Continuidad tardía de la encarnación de Leone, fiel a su teclado dominante y su gusto por lo tétrico. Catálogo profundo de la etapa moderna."
+    }
+   ],
+   "vecinos_escena": [
+    "Area",
+    "Banco del Mutuo Soccorso",
+    "Le Orme",
+    "Museo Rosenbach",
+    "New Trolls",
+    "Osanna",
+    "Premiata Forneria Marconi"
+   ]
+  },
+  {
+   "slug": "le-orme",
+   "nombre": "Le Orme",
+   "escena": "italia",
+   "tipo": "Group",
+   "pais": "IT",
+   "inicio": "1966",
+   "fin": null,
+   "mbid": "45b87eb5-29e3-4f7e-9475-129d486df0f2",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Le_Orme",
+   "entradilla_actual": "El vértice veneciano del prog italiano: un trío centrado en teclados que hizo del formato sinfónico algo íntimo y melódico. Su racha clásica — Collage, Uomo di pezza, Felona e Sorona y Contrappunti — es de las más sólidas de la escena. La versión inglesa de Felona e Sorona la tradujo Peter Hammill: la red del género llegaba hasta Venecia.",
+   "formaciones_mb": [
+    "Marino Rebeschini (drums (drum set), original; 1966–1967)",
+    "Claudio Galieti (original; 1966–1969)",
+    "Nino Smeraldi (original; 1966–1969)",
+    "Aldo Tagliapietra (original; 1966–2009)",
+    "Michi Dei Rossi (miembro; 1967–act.)",
+    "Tony Pagliuca (miembro; 1968–1991)",
+    "Dave Baker (miembro; 1969-06–1970-04)",
+    "Tolo Marton (miembro; 1975-09–1976-02)",
+    "Germano Serafin (miembro; 1976–1981)",
+    "Michele Bon (miembro; 1990–act.)",
+    "Giorgio Mantovan (miembro; 1991–1994)",
+    "Francesco Sartori (miembro; 1992–1997)",
+    "Andrea Bassato (miembro; 1998–2008)",
+    "Fabio Trentini (miembro; 2009–act.)",
+    "William Dotto (miembro; 2010–act.)",
+    "Federico Gava (miembro; 2010–act.)",
+    "Davide Spitaleri (miembro; 2010–act.)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "Ad gloriam",
+     "anio": 1969,
+     "estrellas_critica": "3",
+     "entradilla": "Debut de la etapa beat: psicodelia italiana de fines de los sesenta, todavía lejos del trío de teclados que vendría. Interesa como prehistoria de la racha clásica, no como prog."
+    },
+    {
+     "titulo": "Collage",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "El salto del beat psicodélico al prog propiamente dicho: teclados al frente, formato de trío y una escritura que ya piensa en suites. Abre la racha clásica de la banda."
+    },
+    {
+     "titulo": "Uomo di pezza",
+     "anio": 1972,
+     "estrellas_critica": "4",
+     "entradilla": "La fórmula afinada: canciones más redondas, melodía por delante de la técnica y el trío sonando más grande de lo que es. El lado accesible del prog italiano sin perder ambición."
+    },
+    {
+     "titulo": "Felona e Sorona",
+     "anio": 1973,
+     "estrellas_critica": "5",
+     "entradilla": "Álbum conceptual sobre dos planetas gemelos y cima absoluta del grupo. Tan sólido que Peter Hammill tradujo la versión inglesa: el prog italiano exportándose por una vez en su propio idioma musical."
+    },
+    {
+     "titulo": "Contrappunti",
+     "anio": 1974,
+     "estrellas_critica": "4",
+     "entradilla": "Cierre de la racha clásica: más nervio instrumental y menos concepto, con el trío en plena forma técnica. El último gran disco antes de que la fórmula empezara a diluirse."
+    },
+    {
+     "titulo": "Smogmagica",
+     "anio": 1975,
+     "estrellas_critica": "3",
+     "entradilla": "Primer disco con guitarrista estable y giro hacia la canción: el trío sinfónico se abre al formato más corto. Divide a los seguidores de la racha Collage–Contrappunti."
+    },
+    {
+     "titulo": "Verità nascoste",
+     "anio": 1976,
+     "estrellas_critica": "4",
+     "entradilla": "Recuperación de pulso con la guitarra ya integrada al lenguaje del grupo: canciones más compactas pero con densidad de arreglos. Para muchos, lo mejor de su segunda mitad de los setenta."
+    },
+    {
+     "titulo": "Storia o leggenda",
+     "anio": 1977,
+     "estrellas_critica": "3",
+     "entradilla": "Continúa la vía melódica de Verità nascoste con menos filo: oficio de sobra, ambición en retirada. Disco de transición dentro de una escena que ya se apagaba."
+    },
+    {
+     "titulo": "Florian",
+     "anio": 1979,
+     "estrellas_critica": "4",
+     "entradilla": "Giro insólito hacia lo camarístico: instrumentos acústicos y escritura casi clásica cuando el resto de la escena se rendía al pop. Uno de los gestos más valientes del prog italiano tardío."
+    },
+    {
+     "titulo": "Piccola rapsodia dell'ape",
+     "anio": 1980,
+     "estrellas_critica": "3",
+     "entradilla": "Segunda entrega del experimento de cámara iniciado con Florian, más discreta y menos recordada. Cierra esa vía acústica antes del viraje pop de los ochenta."
+    },
+    {
+     "titulo": "Venerdì",
+     "anio": 1982,
+     "estrellas_critica": "2",
+     "entradilla": "El viraje al pop electrónico de los ochenta: sintetizadores de época y canciones cortas donde antes había suites. Documento de una banda buscando lugar en otra década."
+    },
+    {
+     "titulo": "Orme",
+     "anio": 1990,
+     "estrellas_critica": null,
+     "entradilla": "Regreso discográfico tras años de silencio, en clave de pop-rock con oficio. Más un puente hacia la resurrección sinfónica de los noventa que un disco con identidad propia."
+    },
+    {
+     "titulo": "Il fiume",
+     "anio": 1996,
+     "estrellas_critica": "4",
+     "entradilla": "El verdadero regreso: obra conceptual que retoma el lenguaje sinfónico de los setenta con sonido de los noventa. Abre la trilogía tardía que les devolvió respeto entre los seguidores del género."
+    },
+    {
+     "titulo": "Elementi",
+     "anio": 2001,
+     "estrellas_critica": "3",
+     "entradilla": "Segunda pieza de la trilogía tardía, construida alrededor de los cuatro elementos. Mantiene el nivel de Il fiume sin superarlo: sinfonismo prolijo, melódico, sin sorpresas."
+    },
+    {
+     "titulo": "L'infinito",
+     "anio": 2004,
+     "estrellas_critica": "3",
+     "entradilla": "Cierre de la trilogía tardía y último disco de estudio con Tagliapietra al frente de material nuevo. Digno final de ciclo para la formación histórica."
+    },
+    {
+     "titulo": "La via della seta",
+     "anio": 2011,
+     "estrellas_critica": "3",
+     "entradilla": "Primer álbum sin Tagliapietra, con Dei Rossi como custodio de la marca. Concepto sobre la ruta de la seda y sinfonismo correcto, recibido con las reservas lógicas ante la voz ausente."
+    },
+    {
+     "titulo": "ClassicOrme",
+     "anio": 2017,
+     "estrellas_critica": null,
+     "entradilla": "Regrabación oficial del repertorio clásico en arreglos de corte clásico-camerístico. Vale como relectura autorizada del catálogo, no como obra nueva."
+    },
+    {
+     "titulo": "Sulle ali di un sogno",
+     "anio": 2019,
+     "estrellas_critica": null,
+     "entradilla": "Nueva pasada oficial por el cancionero histórico en versiones regrabadas por la formación actual. Documento de la banda como administradora de su propio legado."
+    },
+    {
+     "titulo": "Le Orme ...and Friends",
+     "anio": 2023,
+     "estrellas_critica": null,
+     "entradilla": "Regrabaciones de estudio del repertorio con invitados, firmadas por la banda. Otra vuelta al archivo propio más que un capítulo nuevo del catálogo."
+    },
+    {
+     "titulo": "Il leone e la bandiera",
+     "anio": 2024,
+     "estrellas_critica": null,
+     "entradilla": "Material de estudio reciente de la formación encabezada por Dei Rossi, con Venecia como eje temático. Catálogo profundo de la era moderna: para completistas."
+    }
+   ],
+   "vecinos_escena": [
+    "Area",
+    "Banco del Mutuo Soccorso",
+    "Il Balletto di Bronzo",
+    "Museo Rosenbach",
+    "New Trolls",
+    "Osanna",
+    "Premiata Forneria Marconi"
+   ]
+  },
+  {
+   "slug": "museo-rosenbach",
+   "nombre": "Museo Rosenbach",
+   "escena": "italia",
+   "tipo": "Group",
+   "pais": "IT",
+   "inicio": "1971",
+   "fin": null,
+   "mbid": "810044af-647c-41a1-9a3c-ba7509f49454",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Museo_Rosenbach",
+   "entradilla_actual": "Caso ejemplar de la constelación italiana del un-solo-disco-legendario: una obra, Zarathustra, y directo a la mitología del género. Prog sinfónico oscuro y pesado que casi nadie escuchó al salir y que hoy cotiza entre lo mejor de la escena.",
+   "formaciones_mb": [
+    "Pit Corradi (miembro; ?–act.)",
+    "Stefano “Lupo” Galifi (lead vocals; ?–act.)",
+    "Giancarlo Golzi (miembro; ?–act.)",
+    "Enzo Merogno (guitar; ?–act.)",
+    "Alberto Moreno (piano; ?–act.)",
+    "Alberto Moreno (bass; ?–act.)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "Zarathustra",
+     "anio": 1973,
+     "estrellas_critica": "5",
+     "entradilla": "Suite nietzscheana con Mellotron denso, riffs pesados y una gravedad que el prog italiano rara vez alcanzó. Ignorado en su momento, canonizado después: el arquetipo del disco único legendario."
+    },
+    {
+     "titulo": "Exit",
+     "anio": 2000,
+     "estrellas_critica": "2",
+     "entradilla": "Regreso en estudio a décadas de Zarathustra, con sonido modernizado y poco del peso sinfónico original. Recibido con frialdad por el público del clásico."
+    },
+    {
+     "titulo": "Zarathustra Live in Studio",
+     "anio": 2012,
+     "estrellas_critica": null,
+     "entradilla": "Regrabación oficial en estudio de la suite completa, con parte de la formación histórica de vuelta. Útil como documento del regreso; el original sigue siendo insustituible."
+    }
+   ],
+   "vecinos_escena": [
+    "Area",
+    "Banco del Mutuo Soccorso",
+    "Il Balletto di Bronzo",
+    "Le Orme",
+    "New Trolls",
+    "Osanna",
+    "Premiata Forneria Marconi"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,857 @@
+{
+ "id": "copy-01-nucleo",
+ "escena": "nucleo",
+ "artistas": [
+  {
+   "slug": "ap",
+   "nombre": "Anthony Phillips",
+   "escena": "nucleo",
+   "tipo": "Person",
+   "pais": "GB",
+   "inicio": "1951-12-23",
+   "fin": null,
+   "mbid": "e62f6374-7e6f-4492-bb4a-3a1c62366e61",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Anthony_Phillips",
+   "entradilla_actual": "El fundador que se fue de Genesis en 1970 y reapareció en 1977 convertido en compositor de cámara pastoral. Carrera de culto, financiada a pulso, sin un solo gesto comercial que le haya funcionado.",
+   "formaciones_mb": [
+    "Genesis (guitar, original; 1967–1970-07-18)",
+    "Anon (guitar, original; ?–act.)",
+    "The Spoken Word (guitar; ?–act.)"
+   ],
+   "conexiones_red": [
+    "Tom Newman — produjo a: The Geese & the Ghost",
+    "Phil Collins — invitado de: batería y voz en The Geese & the Ghost",
+    "Steve y John Hackett — invitado de: John, flauta en God If I Saw Her Now",
+    "Rupert Hine — produjo a: productor e invitado en la obra temprana"
+   ],
+   "discografia": [
+    {
+     "titulo": "The Geese & the Ghost",
+     "anio": 1977,
+     "estrellas_critica": "4",
+     "entradilla": "Música de cámara pastoral con Rutherford y Collins, grabada sin contrato en una barcaza y una sala de estar. Publicada el año exacto en que nadie quería oírla. Ya discutido."
+    },
+    {
+     "titulo": "Wise After the Event",
+     "anio": 1978,
+     "estrellas_critica": "3",
+     "entradilla": "Canta él mismo contra su propia voluntad (el sello exigía voces). Arreglos ricos, incomodidad audible: un compositor obligado a ser artista."
+    },
+    {
+     "titulo": "Private Parts & Pieces",
+     "anio": 1979,
+     "estrellas_critica": "4",
+     "entradilla": "Sobras íntimas de guitarra y piano que fundan una serie que duraría décadas. Su formato natural, encontrado por descarte."
+    },
+    {
+     "titulo": "Sides",
+     "anio": 1979,
+     "estrellas_critica": "3",
+     "entradilla": "Mitad pop forzado por el sello, mitad instrumental propio: el compromiso partido literalmente en dos caras."
+    },
+    {
+     "titulo": "Private Parts & Pieces II: Back to the Pavilion",
+     "anio": 1980,
+     "estrellas_critica": null,
+     "entradilla": "Segunda entrega de la serie que definió su segunda vida: guitarra de cámara, bocetos pastorales y cero gesto comercial. El pabellón del título es el de cricket, que es exactamente el nivel de urgencia que maneja el disco."
+    },
+    {
+     "titulo": "1984",
+     "anio": 1981,
+     "estrellas_critica": "3",
+     "entradilla": "Sintetizadores y cajas de ritmo en un disco casi enteramente instrumental, con Orwell como excusa. Giro brusco tras la etapa pastoral: frío, repetitivo, deliberadamente maquinal. Desconcertó a su escaso público de entonces; con los años ganó defensores llegados por el costado electrónico."
+    },
+    {
+     "titulo": "Private Parts & Pieces Part III: Antiques",
+     "anio": 1982,
+     "estrellas_critica": "4",
+     "entradilla": "Dúos de guitarra acústica con el argentino Enrique Berro García. La entrega más enfocada de la serie: repertorio tocado con rigor casi de cámara, sin relleno casero. Punto alto del catálogo íntimo."
+    },
+    {
+     "titulo": "Private Parts & Pieces IV: A Catch at the Tables",
+     "anio": 1984,
+     "estrellas_critica": "3",
+     "entradilla": "Cuarta entrega de la serie íntima: miniaturas registradas en casa, sin más ambición que la de existir. Material desparejo, con piezas que apuntan alto y relleno asumido. Para el que ya entró en el código, otra tesela del mosaico."
+    },
+    {
+     "titulo": "Private Parts and Pieces V: Twelve",
+     "anio": 1985,
+     "estrellas_critica": "3",
+     "entradilla": "Doce piezas para guitarra de doce cuerdas, una por cada mes del año. El concepto es modesto y el resultado también, en el buen sentido: música de cámara doméstica, escrita con oficio. Una de las entregas más coherentes de la serie."
+    },
+    {
+     "titulo": "Private Parts and Pieces VI: Ivory Moon",
+     "anio": 1986,
+     "estrellas_critica": "3",
+     "entradilla": "Entrega dedicada al piano solo, sin guitarras. Escritura sencilla, por momentos esquemática, con pasajes de calma genuina. Cambia el instrumento, no la lógica íntima de la serie."
+    },
+    {
+     "titulo": "Private Parts & Pieces VII: Slow Waves, Soft Stars",
+     "anio": 1987,
+     "estrellas_critica": "3",
+     "entradilla": "Séptima entrega, corrida hacia texturas de teclado y clima ambiental antes que hacia la guitarra. La serie prueba otro color sin cambiar de escala. Menor, deliberadamente."
+    },
+    {
+     "titulo": "Tarka",
+     "anio": 1988,
+     "estrellas_critica": "3",
+     "entradilla": "Obra orquestal compuesta a medias con Harry Williamson alrededor de Tarka la nutria, la novela de Williamson padre. Gestación larga y accidentada, resultado solemne y por momentos hermoso. Rareza mayor dentro de un catálogo hecho de rarezas."
+    },
+    {
+     "titulo": "Finger Painting: Missing Links, Volume 1",
+     "anio": 1989,
+     "estrellas_critica": "3",
+     "entradilla": "Primera entrega de la serie Missing Links: piezas de estudio escritas para televisión y proyectos que no llegaron a destino. Miniaturas funcionales más que composiciones pensadas como disco. Interesa como mapa de su oficio de encargo."
+    },
+    {
+     "titulo": "Invisible Men",
+     "anio": 1990,
+     "estrellas_critica": "2",
+     "entradilla": "Su intento más franco de pop de sintetizadores, con canciones cortas y producción de época. El material tiene ironía y algo de mala leche, pero la voz y el envase juegan en contra. El punto más discutido de su discografía."
+    },
+    {
+     "titulo": "Slow Dance",
+     "anio": 1990,
+     "estrellas_critica": "4",
+     "entradilla": "Obra instrumental continua en dos partes, con orquesta y sintetizadores. Su apuesta más ambiciosa desde los setenta, escrita con paciencia de compositor y no de proveedor de catálogo. Entre sus seguidores quedó como el pico de la segunda etapa."
+    },
+    {
+     "titulo": "Private Parts & Pieces 8: New England",
+     "anio": 1992,
+     "estrellas_critica": "3",
+     "entradilla": "Octava entrega de la serie: piezas acústicas breves grabadas en la intimidad habitual. Sin giros nuevos respecto de las anteriores. El valor está en la constancia, no en la sorpresa."
+    },
+    {
+     "titulo": "Travelogues 4: Drama and Documentary",
+     "anio": 1993,
+     "estrellas_critica": null,
+     "entradilla": "Música de librería de la serie Travelogues, pensada para ambientar documentales y dramas televisivos. Oficio funcional, sin pretensión de disco de autor."
+    },
+    {
+     "titulo": "Sail the World",
+     "anio": 1994,
+     "estrellas_critica": "3",
+     "entradilla": "Música instrumental escrita alrededor de una regata oceánica y usada en su cobertura televisiva. Orquestaciones sintetizadas, motivos épicos de encargo. Funciona mejor como banda sonora que como disco."
+    },
+    {
+     "titulo": "The Sky Road: Missing Links, Volume 2",
+     "anio": 1994,
+     "estrellas_critica": "3",
+     "entradilla": "Segunda entrega de Missing Links: otra vez música de encargo televisivo y proyectos inconclusos rescatados del estudio. Cohesión relativa, oficio parejo. Documento antes que obra."
+    },
+    {
+     "titulo": "Gypsy Suite",
+     "anio": 1995,
+     "estrellas_critica": null,
+     "entradilla": "Suite instrumental grabada con Harry Williamson y publicada mucho después de su gestación. Compañera menor de Tarka: colores orquestales y acústicos parecidos, menos ambición. Pieza para completistas."
+    },
+    {
+     "titulo": "Private Parts and Pieces IX: Dragonfly Dreams",
+     "anio": 1996,
+     "estrellas_critica": "3",
+     "entradilla": "Novena entrega de la serie íntima: miniaturas acústicas registradas en su estudio casero. Sin sobresaltos ni pretensiones, fiel al formato fundado a fines de los setenta. La serie ya funciona como diario más que como discografía."
+    },
+    {
+     "titulo": "Soundscapes",
+     "anio": 1996,
+     "estrellas_critica": null,
+     "entradilla": "Otro encargo de librería: texturas atmosféricas de uso general para televisión. Phillips resuelve con la solvencia de siempre, aunque el formato no admite mucho más."
+    },
+    {
+     "titulo": "The Meadows of Englewood",
+     "anio": 1996,
+     "estrellas_critica": null,
+     "entradilla": "Colaboración con el argentino Guillermo Cazenave, publicada casi sin distribución. Música acústica y de teclados en clave contemplativa. De lo más periférico de su discografía; apenas dejó rastro crítico."
+    },
+    {
+     "titulo": "Missing Links, Volume 3: Time and Tide",
+     "anio": 1997,
+     "estrellas_critica": "3",
+     "entradilla": "Tercera entrega de Missing Links: encargos televisivos y piezas huérfanas rescatadas del archivo de estudio. Se escucha como lo que es, un cajón ordenado. Para el lector de su catálogo, no para el recién llegado."
+    },
+    {
+     "titulo": "Private Parts & Pieces X: Soirée",
+     "anio": 1999,
+     "estrellas_critica": "3",
+     "entradilla": "Décima entrega de la serie, ya institución privada de su catálogo. Piezas breves de salón, grabadas sin apuro y sin destinatario claro. La constancia como estética."
+    },
+    {
+     "titulo": "Mystery And Documentary",
+     "anio": 2001,
+     "estrellas_critica": null,
+     "entradilla": "Música de librería para televisión, del período en que Phillips producía material funcional en volumen. El título declara el uso previsto sin rodeos."
+    },
+    {
+     "titulo": "Battle of the Birds",
+     "anio": 2003,
+     "estrellas_critica": null,
+     "entradilla": "Uno de los rincones menos documentados del catálogo. Apareció sin promoción y circuló apenas entre el público fiel; la crítica nunca lo registró."
+    },
+    {
+     "titulo": "Field Day",
+     "anio": 2005,
+     "estrellas_critica": "4",
+     "entradilla": "Doble álbum de guitarra acústica sola, grabado sin acompañamiento. Retorno pleno al idioma de doce cuerdas de sus comienzos, décadas después. Para el círculo que lo sigue, uno de los trabajos centrales de su etapa tardía."
+    },
+    {
+     "titulo": "Wildlife",
+     "anio": 2008,
+     "estrellas_critica": null,
+     "entradilla": "Otro título del costado documental de su catálogo. Circulación mínima y sin registro crítico; parte del flujo funcional que corrió siempre en paralelo a los discos de autor."
+    },
+    {
+     "titulo": "Missing Links, Volume IV: Pathways & Promenades",
+     "anio": 2009,
+     "estrellas_critica": null,
+     "entradilla": "Cuarta entrega de la serie que rescata su música de encargo para televisión y librería. Piezas funcionales reunidas como catálogo propio: el reverso laboral de Private Parts & Pieces."
+    },
+    {
+     "titulo": "Ahead of the Field",
+     "anio": 2010,
+     "estrellas_critica": null,
+     "entradilla": "Música de librería para medios, el oficio que sostuvo a Phillips durante décadas. Piezas funcionales, pensadas para sincronizar con imagen antes que para escucharse de corrido. Circuló fuera del mercado discográfico convencional."
+    },
+    {
+     "titulo": "Private Parts & Pieces XI: City of Dreams",
+     "anio": 2012,
+     "estrellas_critica": null,
+     "entradilla": "Undécima entrega de la serie íntima. Bocetos y miniaturas en el formato que encontró por descarte a fines de los setenta y nunca soltó. La constancia como método, no como gesto."
+    },
+    {
+     "titulo": "Seventh Heaven",
+     "anio": 2012,
+     "estrellas_critica": "3",
+     "entradilla": "Colaboración orquestal con Andrew Skeet: miniaturas sinfónicas de corte cinematográfico. Lo más lujoso que sonó su catálogo en décadas, siempre dentro de la escala reducida de su público."
+    },
+    {
+     "titulo": "Natural World",
+     "anio": 2018,
+     "estrellas_critica": null,
+     "entradilla": "Música pensada para documental de naturaleza, terreno donde Phillips trabajó durante décadas. Material funcional, sin ambición de disco de autor y casi sin registro público."
+    },
+    {
+     "titulo": "Travelogues 7: Return",
+     "anio": 2018,
+     "estrellas_critica": null,
+     "entradilla": "Entrega tardía de la serie Travelogues, todavía dentro de la lógica de la música funcional para pantalla. Interés reservado a quienes siguen el catálogo completo de Phillips."
+    },
+    {
+     "titulo": "Strings of Light",
+     "anio": 2019,
+     "estrellas_critica": "4",
+     "entradilla": "Álbum de guitarra sola, grabado con un arsenal de instrumentos de cuerda. Recibido como una de sus obras tardías más sólidas: el idioma de siempre, tocado con más precisión que nostalgia."
+    },
+    {
+     "titulo": "Beyond The Outer Reaches",
+     "anio": 2024,
+     "estrellas_critica": null,
+     "entradilla": "Parte del flujo de música de producción que Phillips nunca interrumpió. Material funcional para imagen, publicado sin gesto comercial alguno."
+    },
+    {
+     "titulo": "Cinematic Ambient",
+     "anio": 2024,
+     "estrellas_critica": null,
+     "entradilla": "Música de producción: ambientes pensados para sincronización audiovisual. El oficio de librería que Phillips ejerció por décadas, ahora en formato digital y sin pretensión de disco de autor."
+    },
+    {
+     "titulo": "Cinematic Guitars",
+     "anio": 2024,
+     "estrellas_critica": null,
+     "entradilla": "Librería de guitarras para uso audiovisual. Phillips volcando su instrumento central al formato funcional que dominó como pocos en el género."
+    },
+    {
+     "titulo": "Docudrama: Night Scenes",
+     "anio": 2024,
+     "estrellas_critica": null,
+     "entradilla": "Música de producción para documental: piezas nocturnas funcionales, hechas a medida del formato televisivo que lo empleó media vida. Publicado sin ambición de disco."
+    },
+    {
+     "titulo": "Private Parts & Pieces XII: The Golden Hour",
+     "anio": 2024,
+     "estrellas_critica": null,
+     "entradilla": "Última entrega numerada hasta la fecha de la serie doméstica más longeva del género. Sobras y miniaturas seleccionadas con el mismo criterio de siempre: sin público a la vista y sin apuro."
+    },
+    {
+     "titulo": "Perpetual Motion",
+     "anio": 2025,
+     "estrellas_critica": null,
+     "entradilla": "Publicación tardía dentro de un catálogo que nunca dejó de moverse. Sin registro crítico relevante a la fecha; otra entrega del flujo constante que definió su carrera."
+    },
+    {
+     "titulo": "Gemini: Pieces for Piano",
+     "anio": 2026,
+     "estrellas_critica": null,
+     "entradilla": "Colección de piezas para piano dentro del catálogo íntimo, en la línea doméstica que abrió la serie Private Parts & Pieces. Demasiado reciente para registro crítico."
+    }
+   ],
+   "vecinos_escena": [
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "app",
+   "nombre": "The Alan Parsons Project",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1975",
+   "fin": "1987",
+   "mbid": "f98711e5-06f7-43ed-8239-da0f61a9c460",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/The_Alan_Parsons_Project",
+   "entradilla_actual": "No es una banda: es un estudio con dos autores (Parsons produce, Woolfson escribe) y personal contratado. Prog llegando tarde, salvado por una producción superior a la de casi todos sus contemporáneos.",
+   "formaciones_mb": [
+    "Alan Parsons (acoustic guitar, bass, eponymous, flute, keyboard, lead vocals, original, vocoder; ?–act.)",
+    "Chris Rainbow (miembro; ?–act.)",
+    "Eric Woolfson (keyboard, lead vocals; ?–act.)"
+   ],
+   "conexiones_red": [
+    "Alan Parsons — miembro de: acoustic guitar, bass, eponymous, flute, keyboard, lead vocals, original, vocoder (¿?–act.)",
+    "Advision · Trident · Abbey Road · The Manor — grabó en: Abbey Road"
+   ],
+   "discografia": [
+    {
+     "titulo": "Tales of Mystery and Imagination",
+     "anio": 1976,
+     "estrellas_critica": "4",
+     "entradilla": "Poe adaptado con orquesta de Andrew Powell y vocalistas rotativos; Orson Welles llegaría en la remezcla del 87. Prog tardío salvado por producción superior. Ya discutido."
+    },
+    {
+     "titulo": "I Robot",
+     "anio": 1977,
+     "estrellas_critica": "4",
+     "entradilla": "Asimov sin licencia (de ahí el título sin coma). Su mejor disco: el concepto hombre-máquina servido por el estudio, no por la pretensión."
+    },
+    {
+     "titulo": "Pyramid",
+     "anio": 1978,
+     "estrellas_critica": "3",
+     "entradilla": "Piramidología, que era moda esotérica del momento. Delgado: el método del Project sin un tema que lo merezca."
+    },
+    {
+     "titulo": "Eve",
+     "anio": 1979,
+     "estrellas_critica": "3",
+     "entradilla": "Concepto «sobre las mujeres» que envejeció exactamente tan mal como suena. Producción intachable al servicio de una idea floja."
+    },
+    {
+     "titulo": "The Turn of a Friendly Card",
+     "anio": 1980,
+     "estrellas_critica": "4",
+     "entradilla": "El juego y el azar como metáfora, con hits reales («Games People Play»). El Project encuentra su forma comercial definitiva justo al cerrar la ventana de este mapa."
+    },
+    {
+     "titulo": "Eye in the Sky",
+     "anio": 1982,
+     "estrellas_critica": "4",
+     "entradilla": "El hit definitivo, precedido por «Sirius», banda sonora eterna de estadios deportivos. El Project en su punto comercial exacto."
+    },
+    {
+     "titulo": "Ammonia Avenue",
+     "anio": 1984,
+     "estrellas_critica": "3",
+     "entradilla": "«Don't Answer Me», nostalgia Spector con video animado: el techo británico del Project. Vulture Culture (85), Stereotomy (86) y Gaudí (87, US 57) agotaron el método; Woolfson se fue al teatro musical y murió en 2009."
+    },
+    {
+     "titulo": "Stereotomy",
+     "anio": 1985,
+     "estrellas_critica": "2",
+     "entradilla": "El título sale de Poe («Los crímenes de la calle Morgue»), pero el disco es el más frío del catálogo: producción digital de mediados de los ochenta, Woolfson casi ausente como voz y peso creciente de los instrumentales. La fórmula del Project girando en vacío."
+    },
+    {
+     "titulo": "Vulture Culture",
+     "anio": 1985,
+     "estrellas_critica": "2",
+     "entradilla": "Primer disco del Project sin suite instrumental extensa: formato canción liviano, sátira del consumismo como excusa temática y «Days Are Numbers (The Traveller)» como único momento que perduró. El punto donde el método empieza a rendir visiblemente menos."
+    },
+    {
+     "titulo": "Gaudi",
+     "anio": 1987,
+     "estrellas_critica": "3",
+     "entradilla": "Concepto sobre Antoni Gaudí y la Sagrada Família, con «La Sagrada Familia» como pieza central. Cierre del catálogo del Project como tal: el método de estudio intacto, la inspiración ya en retirada. Woolfson reciclaría la idea después en el teatro musical."
+    },
+    {
+     "titulo": "The Sicilian Defence",
+     "anio": 2014,
+     "estrellas_critica": "2",
+     "entradilla": "Grabado a fines de los setenta para cumplir un contrato con Arista y guardado en un cajón por decisión de los propios Parsons y Woolfson, salió recién en 2014 dentro de la reedición del catálogo. Dúo instrumental de piano y teclados estructurado sobre una apertura de ajedrez. Curiosidad de archivo antes que disco."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "bjh",
+   "nombre": "Barclay James Harvest",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1966",
+   "fin": null,
+   "mbid": "3ab1e5df-cd3b-479e-a756-3f326cea5572",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Barclay_James_Harvest",
+   "entradilla_actual": "El prog sinfónico de clase obrera de Oldham: Mellotron, melodía y la etiqueta cruel de «los Moody Blues de los pobres», que convirtieron en chiste propio. Enormes en Alemania, invisibles en casa.",
+   "formaciones_mb": [
+    "Les Holyrod (miembro; 1966–1988)",
+    "Les Holroyd (miembro; 1966–1997)",
+    "Stuart “Woolly” Wolstenholme (miembro; ?–1979)",
+    "John Lees (miembro; ?–1997)",
+    "Mel Pritchard (miembro; ?–1997)",
+    "Barclay James Harvest featuring Les Holroyd (original; ?–act.)",
+    "John Lees’ Barclay James Harvest (miembro; ?–act.)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "Barclay James Harvest",
+     "anio": 1970,
+     "estrellas_critica": "3",
+     "entradilla": "Debut con orquesta propia de gira: la ambición instalada antes que el presupuesto."
+    },
+    {
+     "titulo": "...And Other Short Stories",
+     "anio": 1971,
+     "estrellas_critica": "3",
+     "entradilla": "Tercer disco con orquesta a cuestas; bello y deficitario."
+    },
+    {
+     "titulo": "Once Again",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "«Mockingbird», su clásico perenne: Mellotron pastoral en estado puro."
+    },
+    {
+     "titulo": "Baby James Harvest",
+     "anio": 1972,
+     "estrellas_critica": "2",
+     "entradilla": "La orquesta los estaba fundiendo; cierre agotado de la primera etapa."
+    },
+    {
+     "titulo": "Everyone Is Everybody Else",
+     "anio": 1974,
+     "estrellas_critica": "4",
+     "entradilla": "Sin orquesta y mejor que nunca: su disco más sólido, el que defendería ante un escéptico. Certificado plata en UK sin haber entrado en listas: fenómeno de fondo de catálogo."
+    },
+    {
+     "titulo": "Time Honoured Ghosts",
+     "anio": 1975,
+     "estrellas_critica": "3",
+     "entradilla": "Grabado en Estados Unidos; el culto crece despacio y en silencio."
+    },
+    {
+     "titulo": "Octoberon",
+     "anio": 1976,
+     "estrellas_critica": "3",
+     "entradilla": "El molde sinfónico pulido; su mejor posición británica hasta entonces."
+    },
+    {
+     "titulo": "Gone to Earth",
+     "anio": 1977,
+     "estrellas_critica": "4",
+     "entradilla": "Incluye «Poor Man's Moody Blues»: la respuesta-parodia a la crítica que los bautizó así. Convertir el insulto en repertorio: dignidad de clase obrera."
+    },
+    {
+     "titulo": "XII",
+     "anio": 1978,
+     "estrellas_critica": "3",
+     "entradilla": "Último con Woolly Wolstenholme, el corazón mellotrónico del grupo."
+    },
+    {
+     "titulo": "Eyes of the Universe",
+     "anio": 1979,
+     "estrellas_critica": "3",
+     "entradilla": "Invisibles en casa, gigantes en Alemania: al año siguiente tocarían gratis junto al Reichstag de Berlín ante una multitud estimada en más de 150.000 personas (las cifras varían según la fuente)."
+    },
+    {
+     "titulo": "Turn of the Tide",
+     "anio": 1981,
+     "estrellas_critica": "3",
+     "entradilla": "Primer álbum del trío Lees-Holroyd-Pritchard tras la salida de Woolly Wolstenholme: menos Mellotron, más AOR sinfónico prolijo. «Life Is for Living» quedó como pieza fija de sus shows europeos. La transición salió mejor de lo que la prensa británica estaba dispuesta a admitir."
+    },
+    {
+     "titulo": "Ring of Changes",
+     "anio": 1983,
+     "estrellas_critica": "3",
+     "entradilla": "Producción pulida de los ochenta y estribillos directos: «Just a Day Away» es de lo más recordado del período. A esta altura escribían para su público continental, no para una prensa británica que ya no los escuchaba."
+    },
+    {
+     "titulo": "Victims of Circumstance",
+     "anio": 1984,
+     "estrellas_critica": "2",
+     "entradilla": "El disco más ochentoso del catálogo: sintetizadores y baterías procesadas al frente. Las canciones de Lees y Holroyd siguen ahí, pero la producción de época las tapa. De lo menos defendible de la etapa."
+    },
+    {
+     "titulo": "Face to Face",
+     "anio": 1987,
+     "estrellas_critica": "3",
+     "entradilla": "Quedó asociado a su multitudinario concierto al aire libre en Berlín Oriental, poco después de editado. «He Said Love» muestra el costado de himno espiritual de Lees. Pop-rock pulido, sin sorpresas."
+    },
+    {
+     "titulo": "Welcome to the Show",
+     "anio": 1990,
+     "estrellas_critica": "2",
+     "entradilla": "Grabado como trío con la caída del Muro como telón de fondo: «Halfway to Freedom» retoma su vieja conexión berlinesa. Sonido de fin de década, correcto y algo anónimo."
+    },
+    {
+     "titulo": "Caught in the Light",
+     "anio": 1993,
+     "estrellas_critica": "2",
+     "entradilla": "Disco extenso y de tempos calmos; suele citarse entre los puntos bajos del catálogo. El desgaste entre Lees y Holroyd, que terminaría partiendo a la banda, ya se nota en la falta de fricción creativa."
+    },
+    {
+     "titulo": "River of Dreams",
+     "anio": 1997,
+     "estrellas_critica": "2",
+     "entradilla": "Último álbum de estudio de la formación histórica antes de partirse en dos BJH paralelos. Oficio sereno y cero urgencia: funciona más como despedida discreta que como disco necesario."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "ca",
+   "nombre": "Curved Air",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1970",
+   "fin": null,
+   "mbid": "202d14e1-dbee-4fa1-8aeb-93bc4ba1b20b",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Curved_Air",
+   "entradilla_actual": "Violín eléctrico, sintetizador VCS3 y Sonja Kristina al frente en un género de varones. Semillero improbable: de aquí salieron Eddie Jobson y Stewart Copeland.",
+   "formaciones_mb": [
+    "Sonja Kristina (miembro; 1970–act.)",
+    "Kirby Gregory (miembro; 1972–1973)",
+    "Eddie Jobson (miembro; 1972–1973)",
+    "Jim Russell (membranophone; 1972–1973)",
+    "Mike Wedgwood (miembro; 1972–1973)",
+    "Stewart Copeland (miembro; 1975–1977)",
+    "Ian Eyre (miembro; ?–act.)",
+    "Francis Monkman (miembro; ?–act.)",
+    "Darryl Way (miembro; ?–act.)",
+    "Florian Pilkington-Miksa (drums (drum set); ?–?)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "Air Conditioning",
+     "anio": 1970,
+     "estrellas_critica": "4",
+     "entradilla": "El primer picture-disc de la historia como truco de lanzamiento; violín de Darryl Way, Sonja Kristina al frente. Top 10 británico de entrada."
+    },
+    {
+     "titulo": "Second Album",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "«Back Street Luv» llega al top 5 de singles: prog con hit, rareza absoluta del año."
+    },
+    {
+     "titulo": "Phantasmagoria",
+     "anio": 1972,
+     "estrellas_critica": "4",
+     "entradilla": "El último de la formación clásica antes del éxodo general."
+    },
+    {
+     "titulo": "Air Cut",
+     "anio": 1973,
+     "estrellas_critica": "3",
+     "entradilla": "Entra un Eddie Jobson de dieciocho años, futuro Roxy Music, UK y Zappa: otro nodo de la red debutando aquí."
+    },
+    {
+     "titulo": "Midnight Wire",
+     "anio": 1975,
+     "estrellas_critica": "2",
+     "entradilla": "Regreso reformado, sin el brillo de la primera vida."
+    },
+    {
+     "titulo": "Airborne",
+     "anio": 1976,
+     "estrellas_critica": "2",
+     "entradilla": "Con Stewart Copeland en batería —futuro Police y futuro esposo de Kristina—: la red del prog desembocando en la new wave."
+    },
+    {
+     "titulo": "North Star",
+     "anio": 2014,
+     "estrellas_critica": "3",
+     "entradilla": "Regreso discreto de Sonja Kristina: en este mapa, el catálogo vivo es la excepción."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "cam",
+   "nombre": "Camel",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1971",
+   "fin": null,
+   "mbid": "94b7a39b-f3cc-4796-90dd-b1786a62877e",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Camel_(banda)",
+   "entradilla_actual": "Lirismo instrumental sin teatro. Cima 74-76 con la formación original; dilución progresiva después. The Snow Goose es su identidad entera en un solo disco.",
+   "formaciones_mb": [
+    "Doug Ferguson (electric bass guitar, original; 1971–1976)",
+    "Peter Bardens (mellotron, organ, original, piano, synthesizer; 1971–1978)",
+    "Andy Ward (drums (drum set), original, percussion; 1971–1981)",
+    "Andrew Latimer (electric guitar, flute, lead vocals, original, recorder; 1971–act.)",
+    "Mel Collins (miembro; 1977–1979)",
+    "Richard Sinclair (miembro; 1977–1979)",
+    "Jan Schelhaas (miembro; 1978–1981)",
+    "Kit Watkins (miembro; 1979–1982)",
+    "Colin Bass (background vocals, electric bass guitar, lead vocals; 1979–act.)",
+    "Paul Burgess (miembro; 1984–1984)",
+    "Ton Scherpenzeel (miembro; 1984–1984)",
+    "Paul Burgess (miembro; 1991–1992)",
+    "Guy LeBlanc (miembro; 2000–2015-04-27)",
+    "Peter Jones (background vocals; 2016–act.)",
+    "Peter Jones (synthesizer; 2016–act.)",
+    "Peter Jones (keyboard; 2016–act.)",
+    "Peter Jones (alto saxophone; 2016–act.)",
+    "Peter Jones (lead vocals; 2016–act.)",
+    "Denis Clement (percussion; ?–act.)",
+    "Denis Clement (drums (drum set); ?–act.)",
+    "David Paton (miembro; ?–act.)",
+    "Chris Rainbow (miembro; ?–act.)",
+    "Stuart Tosh (miembro; ?–act.)"
+   ],
+   "conexiones_red": [
+    "Richard Sinclair — miembro de: miembro (1977–1979)",
+    "David Hitchcock — produjo a: The Snow Goose (1975)",
+    "David Bedford — arregló para: orquestación de The Snow Goose"
+   ],
+   "discografia": [
+    {
+     "titulo": "Camel",
+     "anio": 1973,
+     "estrellas_critica": "3",
+     "entradilla": "Debut competente sin identidad plena: los materiales están, el punto de vista todavía no."
+    },
+    {
+     "titulo": "Mirage",
+     "anio": 1974,
+     "estrellas_critica": "4",
+     "entradilla": "«Lady Fantasy»: la banda encuentra su voz — lirismo instrumental sin teatro ni misticismo. El punto de partida real."
+    },
+    {
+     "titulo": "The Snow Goose",
+     "anio": 1975,
+     "estrellas_critica": "5",
+     "entradilla": "Gallico sin palabras, Bedford en la orquesta, pleito de derechos en la tapa. Su identidad entera en un disco. Ya discutido en detalle."
+    },
+    {
+     "titulo": "Moonmadness",
+     "anio": 1976,
+     "estrellas_critica": "4",
+     "entradilla": "El par cantado de Snow Goose y el último con la formación original, con un tema-retrato por cada músico: el dispositivo de Quadrophenia en clave instrumental. Para muchos fans, su verdadera cima; entiendo el argumento aunque no lo comparto."
+    },
+    {
+     "titulo": "Rain Dances",
+     "anio": 1977,
+     "estrellas_critica": "3",
+     "entradilla": "Entra Richard Sinclair desde el Canterbury: giro suave, elegante, ya no del todo prog. Brian Eno pasa por un tema."
+    },
+    {
+     "titulo": "Breathless",
+     "anio": 1978,
+     "estrellas_critica": "3",
+     "entradilla": "Giro pop asumido; Bardens anuncia su salida antes de la gira. Fin de la sociedad fundadora."
+    },
+    {
+     "titulo": "I Can See Your House from Here",
+     "anio": 1979,
+     "estrellas_critica": "3",
+     "entradilla": "Identidad diluida entre pop y restos sinfónicos; Nude (1981) cerraría la etapa con más dignidad."
+    },
+    {
+     "titulo": "Nude",
+     "anio": 1981,
+     "estrellas_critica": "4",
+     "entradilla": "Concepto sobre el soldado japonés que siguió peleando décadas después de la guerra (el caso Onoda): el último gran Camel de la línea clásica."
+    },
+    {
+     "titulo": "The Single Factor",
+     "anio": 1982,
+     "estrellas_critica": "2",
+     "entradilla": "Pop impuesto por contrato mientras Latimer pleiteaba con su exmanager. Stationary Traveller (84, UK 57), sobre el Muro de Berlín, cerraría la etapa Decca con más dignidad."
+    },
+    {
+     "titulo": "Stationary Traveller",
+     "anio": 1984,
+     "estrellas_critica": "3",
+     "entradilla": "Concepto sobre la Alemania dividida y las fugas a través del Muro de Berlín. Cierra la etapa Decca con sintetizadores de época pero escritura más seria que The Single Factor: el final más digno del contrato. Piezas instrumentales como el tema título sobrevivieron en los repertorios en vivo."
+    },
+    {
+     "titulo": "Dust and Dreams",
+     "anio": 1991,
+     "estrellas_critica": "3",
+     "entradilla": "Concepto sobre Las uvas de la ira de Steinbeck y primer disco del sello propio de Latimer, Camel Productions, tras años de silencio y pleitos. Largamente instrumental, de tono cinematográfico, abre la etapa independiente que Harbour of Tears y Rajaz completarían. Menos redondo que sus sucesores, pero el regreso fue digno."
+    },
+    {
+     "titulo": "Harbour of Tears",
+     "anio": 1996,
+     "estrellas_critica": "4",
+     "entradilla": "La emigración irlandesa como concepto: Latimer independiente (Camel Productions) y en su mejor década tardía. Dust and Dreams (91, sobre Steinbeck) la había abierto; Rajaz (99) es el Camel más puro desde los setenta."
+    },
+    {
+     "titulo": "Rajaz",
+     "anio": 1999,
+     "estrellas_critica": "4",
+     "entradilla": "Retorno deliberado al Camel setentero: tempos de caravana, guitarra larga de Latimer, el título tomado de un metro de la poesía árabe asociado al paso del camello. Dentro de la etapa independiente es el disco que el culto señala como el más puro desde los setenta. Cierra la mejor racha tardía de la banda antes de A Nod and a Wink."
+    },
+    {
+     "titulo": "A Nod and a Wink",
+     "anio": 2002,
+     "estrellas_critica": "3",
+     "entradilla": "Dedicado a Bardens, muerto ese año. Cierre sereno del catálogo: nada nuevo desde entonces, giras y salud mediante."
+    },
+    {
+     "titulo": "The Snow Goose (regrabación 2013)",
+     "anio": 2013,
+     "estrellas_critica": "3",
+     "entradilla": "Latimer regrabando nota por nota su disco insignia tras la enfermedad que casi lo retira: menos una relectura que una prueba de vida. No reemplaza al original ni lo intenta; documenta que todavía podía tocarlo."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  }
+ ]
+}

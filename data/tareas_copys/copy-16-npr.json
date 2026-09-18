@@ -1,0 +1,337 @@
+{
+ "id": "copy-16-npr",
+ "escena": "npr",
+ "artistas": [
+  {
+   "slug": "conceptuales-no-prog",
+   "nombre": "Los conceptuales no-prog",
+   "escena": "npr",
+   "nota": "Ficha de colección compartida por cuatro grupos británicos que hicieron discos conceptuales sin ser prog. La ficha larga debe cubrir a los cuatro y explicar por qué están en el atlas y por qué no son prog.",
+   "entradilla_actual": "Beatles, Pretty Things, Kinks y Small Faces inventaron el álbum como obra unitaria entre 1966 y 1969, sin la instrumentación ni la ambición formal del prog. Sin ellos no hay género: son el permiso.",
+   "integrantes": [
+    {
+     "slug": "beatles",
+     "nombre": "The Beatles",
+     "inicio": "1960-03-27",
+     "fin": "1970-04-10",
+     "discografia": [
+      {
+       "titulo": "Please Please Me",
+       "anio": 1963,
+       "entradilla": "El punto de partida documental: beat de club grabado casi en vivo en el estudio, mitad covers y mitad composiciones propias. Nada progresivo todavía, pero acá arranca la carrera que legitimó el álbum como formato."
+      },
+      {
+       "titulo": "With The Beatles",
+       "anio": 1963,
+       "entradilla": "Consolidación del modelo del debut con mejor sonido y una tapa que ya piensa el disco como objeto. El repertorio propio gana terreno sobre los covers de rhythm and blues."
+      },
+      {
+       "titulo": "A Hard Day’s Night",
+       "anio": 1964,
+       "entradilla": "Soundtrack de estudio propio y primer álbum íntegramente compuesto por Lennon-McCartney. El acorde inicial del tema título y el dominio de la forma canción muestran una ambición que excede el encargo cinematográfico."
+      },
+      {
+       "titulo": "Beatles for Sale",
+       "anio": 1964,
+       "entradilla": "Disco de cansancio: vuelven los covers para rellenar y aparece un tono amargo, casi country, en las canciones propias. Menor dentro del canon, pero el desgaste que retrata explica el salto al estudio que vino después."
+      },
+      {
+       "titulo": "Help!",
+       "anio": 1965,
+       "entradilla": "Segundo soundtrack de estudio propio, con «Yesterday» como primera intromisión seria de arreglos de cámara en el pop del grupo. La cara fílmica es pareja; la otra mitad anticipa la introspección de Rubber Soul."
+      },
+      {
+       "titulo": "Rubber Soul",
+       "anio": 1965,
+       "entradilla": "El primer álbum de los Beatles pensado como obra unitaria: sitar, fuzz y letras adultas en un pop que ya no mira al single. Para el atlas es el disco donde la canción de tres minutos empieza a admitir ideas ajenas al beat."
+      },
+      {
+       "titulo": "Revolver",
+       "anio": 1966,
+       "entradilla": "El umbral: el estudio como instrumento y «Tomorrow Never Knows» como semilla de toda la psicodelia inglesa. No es conceptual; es el permiso técnico."
+      },
+      {
+       "titulo": "Magical Mystery Tour",
+       "anio": 1967,
+       "entradilla": "Sobras psicodélicas muy superiores a la película que las justificaba. «I Am the Walrus» como método: el sinsentido cantado con total convicción."
+      },
+      {
+       "titulo": "Sgt. Pepper's Lonely Hearts Club Band",
+       "anio": 1967,
+       "entradilla": "El disco que legitimó el álbum como obra unitaria. Su concepto real es delgado (la banda ficticia dura dos canciones); su influencia fue total. Sin esto no hay industria dispuesta a financiar Tommy ni Tarkus."
+      },
+      {
+       "titulo": "The Beatles",
+       "anio": 1968,
+       "entradilla": "El doble blanco: treinta canciones grabadas cada vez más como cuatro solistas compartiendo estudio, del pastiche music-hall al collage de «Revolution 9», que llevó la música concreta al público masivo. Su fragmentación deliberada es el reverso exacto del álbum conceptual que el prog estaba por abrazar; aun así, amplió el mapa de lo que cabía en un LP de rock."
+      },
+      {
+       "titulo": "Abbey Road",
+       "anio": 1969,
+       "entradilla": "El medley del lado B es proto-prog operativo: suite construida por ensamblaje de fragmentos, exactamente el método de «Supper's Ready» tres años antes. Parsons de asistente en la sala."
+      },
+      {
+       "titulo": "Yellow Submarine",
+       "anio": 1969,
+       "entradilla": "Soundtrack de estudio propio pero de compromiso: cuatro canciones nuevas —«Hey Bulldog» a la cabeza— y una cara entera del score orquestal de George Martin. El disco menor del catálogo, sostenido por su condición de rareza psicodélica."
+      },
+      {
+       "titulo": "Let It Be",
+       "anio": 1970,
+       "entradilla": "Grabado antes de Abbey Road pero publicado después, con la banda ya disuelta: documento del intento de volver al rock crudo tocado en vivo en el estudio, terminado por Spector con orquestaciones que McCartney repudió. El menos prog y el más discutido de su catálogo final."
+      }
+     ]
+    },
+    {
+     "slug": "pretty-things",
+     "nombre": "The Pretty Things",
+     "inicio": "1963",
+     "fin": null,
+     "discografia": [
+      {
+       "titulo": "Get the Picture?",
+       "anio": 1965,
+       "entradilla": "Segundo disco que afina el R&B del debut y suma composiciones propias de mayor peso. El puente entre la banda de blues salvaje y el grupo que después ensayaría formas más ambiciosas."
+      },
+      {
+       "titulo": "The Pretty Things",
+       "anio": 1965,
+       "entradilla": "Debut de R&B británico crudo y agresivo, con Phil May y Dick Taylor empujando más lejos que la mayoría de sus contemporáneos. Nada anticipa aquí el viraje psicodélico posterior, pero la ferocidad ya es marca de la casa."
+      },
+      {
+       "titulo": "Emotions",
+       "anio": 1967,
+       "entradilla": "Disco de transición entre el R&B y la psicodelia, lastrado por arreglos de vientos que el sello impuso y que la banda nunca sintió propios. Interesa más como documento del salto hacia S.F. Sorrow que por sí mismo."
+      },
+      {
+       "titulo": "S.F. Sorrow",
+       "anio": 1968,
+       "entradilla": "La primera ópera rock completa: nacimiento, guerra, duelo y locura de un solo personaje. Llegó un año antes que Tommy y no la escuchó casi nadie. La prueba de que el mérito histórico y el impacto son cosas distintas."
+      },
+      {
+       "titulo": "The Pretty Things / Philippe DeBarge",
+       "anio": 1969,
+       "entradilla": "Proyecto privado grabado para el francés Philippe DeBarge en plena época psicodélica de la banda, editado oficialmente recién décadas más tarde. Funciona como apéndice curioso del mundo de S.F. Sorrow, no como capítulo central."
+      },
+      {
+       "titulo": "Parachute",
+       "anio": 1970,
+       "entradilla": "Continuación natural de S.F. Sorrow, grabada en Abbey Road con Norman Smith: una cara casi en suite sobre la ciudad, otra de canciones de aire más rural. Su disco más redondo como artefacto de estudio y uno de los grandes tapados del rock progresivo-psicodélico británico."
+      },
+      {
+       "titulo": "Freeway Madness",
+       "anio": 1973,
+       "entradilla": "Primer disco de la etapa Warner, ya sin la ambición conceptual de Parachute: rock directo con restos psicodélicos. Correcto y menor, sirve de puente hacia los años Swan Song."
+      },
+      {
+       "titulo": "Silk Torpedo",
+       "anio": 1974,
+       "entradilla": "Debut en Swan Song, el sello de Led Zeppelin: hard rock con barniz glam y coros trabajados, ya lejos de la psicodelia. Su apuesta más profesional de los setenta."
+      },
+      {
+       "titulo": "Savage Eye",
+       "anio": 1975,
+       "entradilla": "Cierra la etapa Swan Song profundizando el rock pulido de Silk Torpedo, con algo más de oscuridad en el tono. La primera disolución de la banda llegó poco después."
+      },
+      {
+       "titulo": "Cross Talk",
+       "anio": 1980,
+       "entradilla": "Reunión de la formación de los setenta en clave new wave y power pop. Oficio evidente con la época en contra: pasó inadvertido y abrió casi dos décadas sin material propio de estudio."
+      },
+      {
+       "titulo": "A Whiter Shade of Dirty Water",
+       "anio": 1994,
+       "entradilla": "Disco de versiones que vuelve al repertorio garage y R&B de los orígenes, grabado en plan celebratorio. Pieza lateral del catálogo, más documento de club que obra."
+      },
+      {
+       "titulo": "…Rage Before Beauty",
+       "anio": 1999,
+       "entradilla": "Regreso al estudio con material propio tras casi dos décadas, con Phil May y Dick Taylor de nuevo juntos. Alterna rock de raíz y ecos psicodélicos; recibido como una vuelta digna antes que como una novedad."
+      },
+      {
+       "titulo": "Balboa Island",
+       "anio": 2007,
+       "entradilla": "Disco de madurez que equilibra blues acústico y resabios psicodélicos, con la voz de May notablemente entera. De lo más sólido de su etapa tardía."
+      },
+      {
+       "titulo": "The Sweet Pretty Things (Are in Bed Now, of Course)",
+       "anio": 2015,
+       "entradilla": "Vuelta al garage y a la psicodelia de los sesenta asumida sin nostalgia impostada. Un disco de veteranos que suena a banda, no a homenaje."
+      },
+      {
+       "titulo": "Bare as Bone, Bright as Blood",
+       "anio": 2020,
+       "entradilla": "Despedida en clave de blues descarnado, con May y Frank Holland en formato casi desnudo, publicada tras la muerte del cantante ese mismo año. El círculo se cierra donde había empezado: en el blues."
+      },
+      {
+       "titulo": "From the Other Side",
+       "anio": 2026,
+       "entradilla": "Publicación póstuma que aparece años después de la muerte de Phil May y cierra administrativamente el catálogo. Su carácter de estudio se toma del tipado oficial; falta perspectiva para más."
+      }
+     ]
+    },
+    {
+     "slug": "kinks",
+     "nombre": "The Kinks",
+     "inicio": "1964",
+     "fin": "1996",
+     "discografia": [
+      {
+       "titulo": "Kinks",
+       "anio": 1964,
+       "entradilla": "Debut británico canónico: el riff distorsionado de «You Really Got Me» rodeado de covers de rhythm and blues cumplidores. Documento del punto cero garagero desde el que Ray Davies iba a alejarse disco a disco."
+      },
+      {
+       "titulo": "Kinda Kinks",
+       "anio": 1965,
+       "entradilla": "Grabado a las apuradas entre giras y suena a eso, pero «Tired of Waiting for You» y las baladas de Davies muestran que el compositor de viñetas ya estaba ahí, esperando tiempo de estudio."
+      },
+      {
+       "titulo": "The Kink Kontroversy",
+       "anio": 1965,
+       "entradilla": "La bisagra: todavía hay riffs de escuela «You Really Got Me», pero «Where Have All the Good Times Gone» y el tono desencantado general anuncian al cronista de Face to Face. Último disco de los Kinks primitivos."
+      },
+      {
+       "titulo": "Face to Face",
+       "anio": 1966,
+       "entradilla": "Primer paso serio de Ray Davies como cronista: canciones-viñeta sobre clase, dinero y apariencias que dejan atrás el riff garagero de los singles. Acá empieza la línea que desemboca en Village Green y Arthur, y por eso importa al atlas."
+      },
+      {
+       "titulo": "Something Else by The Kinks",
+       "anio": 1967,
+       "entradilla": "El costumbrismo inglés de Davies en su punto más fino: miniaturas de barrio, hermanos y atardeceres sobre el Támesis, con Dave aportando sus mejores canciones propias. No es prog ni lo intenta, pero fija el estándar de álbum-retrato que los conceptuales ingleses tomarían como permiso."
+      },
+      {
+       "titulo": "The Village Green Preservation Society",
+       "anio": 1968,
+       "entradilla": "Concepto pastoral: la Inglaterra de pueblo que desaparecía, cantada sin ironía. Fracaso comercial absoluto en su momento, canon indiscutido después."
+      },
+      {
+       "titulo": "Arthur (Or the Decline and Fall of the British Empire)",
+       "anio": 1969,
+       "entradilla": "Ópera para un especial de TV que la TV canceló. Clase obrera, imperio y desencanto: la letra social que el prog casi nunca quiso escribir, salvo Genesis y Quadrophenia."
+      },
+      {
+       "titulo": "Lola Versus Powerman and the Moneygoround, Part One",
+       "anio": 1970,
+       "entradilla": "Concepto satírico sobre la industria musical: sellos, editores, prensa y managers pasados por la trituradora de Davies. Menos redondo que Arthur, pero el marco narrativo unitario lo mantiene en la conversación conceptual, y Lola les devolvió público."
+      },
+      {
+       "titulo": "Muswell Hillbillies",
+       "anio": 1971,
+       "entradilla": "Vuelta al barrio con ropaje americano: music hall, country y blues de taberna para contar demoliciones, mudanzas forzadas y ansiedad de clase obrera. Cierra la racha grande de Davies con un disco querido por músicos y críticos que casi nadie compró."
+      },
+      {
+       "titulo": "“Percy”",
+       "anio": 1971,
+       "entradilla": "Soundtrack de estudio propio para una comedia británica menor: canciones nuevas de Davies —«God's Children» merece rescate— entre instrumentales de oficio. Pie de página simpático de su mejor época, no más que eso."
+      },
+      {
+       "titulo": "Everybody’s in Show‐Biz",
+       "anio": 1972,
+       "entradilla": "Mitad estudio, mitad vivo: la parte nueva sigue el hilo de Muswell con la fatiga de gira como tema, y deja Celluloid Heroes, la última balada grande de Davies. Disco de transición hacia la etapa teatral."
+      },
+      {
+       "titulo": "Preservation Act 1",
+       "anio": 1973,
+       "entradilla": "Arranque de la ópera-secuela de Village Green: Davies convierte la aldea en escenario teatral con personajes fijos y trama. La ambición es total y las canciones no siempre acompañan; es el punto donde el conceptualismo Kinks se vuelve carga."
+      },
+      {
+       "titulo": "Preservation Act 2",
+       "anio": 1974,
+       "entradilla": "Doble que completa la trama de Preservation: más diálogo, más argumento y menos canciones que se sostengan solas. Como teatro de rock es de lo más extremo que intentó una banda de su generación; como álbum es para completistas."
+      },
+      {
+       "titulo": "Schoolboys in Disgrace",
+       "anio": 1975,
+       "entradilla": "Última entrega teatral, precuela escolar del villano de Preservation, pero con formato de canciones más directas y guitarras al frente. Funciona como puente hacia el rock de arena de la etapa Arista."
+      },
+      {
+       "titulo": "Soap Opera",
+       "anio": 1975,
+       "entradilla": "Ópera televisiva sobre una estrella de rock que cambia de vida con un oficinista: el concepto nació para la pantalla y en disco se nota el libreto. Etapa teatral en piloto automático, con oficio pero sin las canciones de la década anterior."
+      },
+      {
+       "titulo": "Sleepwalker",
+       "anio": 1977,
+       "entradilla": "Fin de las óperas: canciones sueltas, producción prolija y mirada puesta en el público norteamericano. Davies resigna el costumbrismo inglés a cambio de supervivencia comercial, y el disco lo consigue sin dejar nada memorable para el atlas."
+      },
+      {
+       "titulo": "Misfits",
+       "anio": 1978,
+       "entradilla": "Continúa la fórmula de Sleepwalker con algo más de melancolía: el título anticipa el tema de siempre, los que no encajan. Rock de arena digno, con Davies escribiendo sobre la propia banda como sobrevivientes."
+      },
+      {
+       "titulo": "Low Budget",
+       "anio": 1979,
+       "entradilla": "Davies lee la recesión y el punk y responde con su disco más crudo y directo en años: inflación, colas y austeridad como temario. La culminación comercial de la reinvención americana, aunque el cronista fino quedó en Londres."
+      },
+      {
+       "titulo": "Give the People What They Want",
+       "anio": 1981,
+       "entradilla": "Rock de arena endurecido con cinismo mediático como concepto laxo: violencia televisada y dar al público lo que pide. Contiene Better Things, recordatorio de que el melodista seguía ahí abajo del volumen."
+      },
+      {
+       "titulo": "State of Confusion",
+       "anio": 1983,
+       "entradilla": "El último gran momento popular de la banda, con Come Dancing devolviendo a Davies a su registro de memoria familiar y barrio. El resto alterna oficio de arena con nostalgia bien administrada."
+      },
+      {
+       "titulo": "Word of Mouth",
+       "anio": 1984,
+       "entradilla": "Cierre de la etapa Arista con la banda desgastándose: es el último disco con Mick Avory, baterista original. Do It Again recicla la nostalgia de Come Dancing con menos gracia; el resto es rutina competente."
+      },
+      {
+       "titulo": "Think Visual",
+       "anio": 1986,
+       "entradilla": "Primer disco para MCA, con la industria musical otra vez como blanco satírico, ahora en clave de videoclip. La producción ochentosa pesa más que las canciones; catálogo profundo para completistas."
+      },
+      {
+       "titulo": "UK Jive",
+       "anio": 1989,
+       "entradilla": "Anteúltimo disco de estudio, con Davies volviendo a la mirada inglesa pero sin el pulso melódico de antes. Pasó sin dejar rastro incluso entre los fieles."
+      },
+      {
+       "titulo": "Phobia",
+       "anio": 1993,
+       "entradilla": "Despedida de estudio: largo, sobreproducido y con los hermanos Davies tirando cada uno para su lado, aunque asoman canciones dignas como Scattered. Cierre sin ceremonia para la banda que inventó medio conceptualismo inglés."
+      }
+     ]
+    },
+    {
+     "slug": "small-faces",
+     "nombre": "Small Faces",
+     "inicio": "1965",
+     "fin": "1978",
+     "discografia": [
+      {
+       "titulo": "Small Faces",
+       "anio": 1966,
+       "entradilla": "Debut mod: R&B sudado y urgente con Marriott al frente. Todavía no hay psicodelia, pero sí toda la energía."
+      },
+      {
+       "titulo": "Small Faces",
+       "anio": 1967,
+       "entradilla": "El segundo homónimo, ya en Immediate: la psicodelia inglesa entra en canciones compactas y el grupo pasa de banda mod a banda de estudio. Antesala directa de Ogdens' Nut Gone Flake."
+      },
+      {
+       "titulo": "Ogdens' Nut Gone Flake",
+       "anio": 1968,
+       "entradilla": "Lado B narrado por Stanshall... no: por Stanley Unwin y su idioma inventado, contando un cuento absurdo. Lata de tabaco como portada circular. El concepto como juguete."
+      },
+      {
+       "titulo": "Playmates",
+       "anio": 1977,
+       "entradilla": "La reunión sin Ronnie Lane: rock mainstream de fines de los setenta que poco tiene que ver con lo que hizo grande al nombre."
+      },
+      {
+       "titulo": "78 in the Shade",
+       "anio": 1978,
+       "entradilla": "Segundo intento de la reunión y final definitivo: oficio sin chispa. Cierre menor para una banda mayor."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

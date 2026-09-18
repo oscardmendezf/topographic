@@ -1,0 +1,935 @@
+{
+ "id": "copy-03-nucleo",
+ "escena": "nucleo",
+ "artistas": [
+  {
+   "slug": "gg",
+   "nombre": "Gentle Giant",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1970-02",
+   "fin": "1980",
+   "mbid": "f795c501-1c41-4be2-bc2a-875eba75aa31",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Gentle_Giant",
+   "entradilla_actual": "Contrapunto real y polifonía renacentista: el ala académica, con Kerry Minnear como compositor formado. Cima 72-75, claudicación pop 77-80. Los más respetados y los menos escuchados.",
+   "formaciones_mb": [
+    "Martin Smith (miembro; 1970–1971)",
+    "Phil Shulman (miembro; 1970–1972)",
+    "Gary Green (miembro; 1970–1980)",
+    "Kerry Minnear (miembro; 1970–1980)",
+    "Derek Shulman (miembro; 1970–1980)",
+    "Ray Shulman (miembro; 1970–1980)",
+    "Malcolm Mortimore (miembro; 1971–1972)",
+    "John Weathers (miembro; 1971–1980)"
+   ],
+   "conexiones_red": [
+    "Roger Dean — diseñó para: el pulpo embotellado de Octopus",
+    "Advision · Trident · Abbey Road · The Manor — grabó en: Advision",
+    "Tony Visconti — produjo a: producción temprana"
+   ],
+   "discografia": [
+    {
+     "titulo": "Gentle Giant",
+     "anio": 1970,
+     "estrellas_critica": "3",
+     "entradilla": "Debut con manifiesto impreso: expandir las fronteras de la música popular a riesgo de volverse muy impopulares. Cumplieron ambas cláusulas. Producción de Tony Visconti —el de Bowie y T. Rex—, también en el siguiente."
+    },
+    {
+     "titulo": "Acquiring the Taste",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "El título es el aviso: su disco más experimental, hecho para adquirirle el gusto. Instrumentación de conservatorio sobre rock que no busca agradar."
+    },
+    {
+     "titulo": "Octopus",
+     "anio": 1972,
+     "estrellas_critica": "5",
+     "entradilla": "Ocho piezas, ocho patas: Rabelais, R.D. Laing y una fuga vocal que es literalmente un nudo. Cima de artesanía, último disco de Phil Shulman. Ya discutido."
+    },
+    {
+     "titulo": "Three Friends",
+     "anio": 1972,
+     "estrellas_critica": "3",
+     "entradilla": "Concepto real: tres amigos de escuela separados por la clase social — el obrero, el artista, el oficinista. La conciencia de clase que el prog casi siempre esquivó."
+    },
+    {
+     "titulo": "In a Glass House",
+     "anio": 1973,
+     "estrellas_critica": "4",
+     "entradilla": "(Corresponde a 1973.) Concepto sobre fragilidad y culpa; tan «poco comercial» que Columbia se negó a editarlo en EE.UU. Insignia de honor involuntaria."
+    },
+    {
+     "titulo": "The Power and the Glory",
+     "anio": 1974,
+     "estrellas_critica": "4",
+     "entradilla": "Concepto sobre la corrupción del poder, su disco más filoso. Salió el año de Watergate; la coincidencia les convenía y no era casual."
+    },
+    {
+     "titulo": "Free Hand",
+     "anio": 1975,
+     "estrellas_critica": "4",
+     "entradilla": "Su mejor equilibrio entre rigor y golpe: el disco técnicamente más sofisticado de 1975, como ya argumenté, y su techo comercial americano."
+    },
+    {
+     "titulo": "Interview",
+     "anio": 1976,
+     "estrellas_critica": "3",
+     "entradilla": "Concepto meta sobre la entrevista de prensa. Ingenioso en el papel, cansado en el surco: el declive empieza."
+    },
+    {
+     "titulo": "The Missing Piece",
+     "anio": 1977,
+     "estrellas_critica": "2",
+     "entradilla": "Mitad intento pop-punk, mitad viejo GG: crisis de identidad documentada en vivo. El manifiesto de 1970 empieza a ser papel mojado."
+    },
+    {
+     "titulo": "Giant for a Day",
+     "anio": 1978,
+     "estrellas_critica": "2",
+     "entradilla": "El intento pop sin coartada. De la fuga vocal de Knots a esto en seis años: la curva de rendición más triste del género."
+    },
+    {
+     "titulo": "Civilian",
+     "anio": 1980,
+     "estrellas_critica": "2",
+     "entradilla": "Rock plano de despedida. Se disolvieron enseguida, sin nostalgia ni reuniones: al menos el final fue tan honesto como el manifiesto inicial."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "jt",
+   "nombre": "Jethro Tull",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1967-12",
+   "fin": null,
+   "mbid": "ece57992-dc2e-4f67-a269-fa43626c1a3d",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Jethro_Tull",
+   "entradilla_actual": "Folk, blues y sarcasmo. Etapas: blues (68), consolidación (69-71), conceptual (72-73), repliegue (74-76), folk-rock (77-79). Thick as a Brick: la parodia que superó a lo parodiado.",
+   "formaciones_mb": [
+    "Mick Abrahams (electric guitar, original; 1967-11–1968-11)",
+    "Glenn Cornick (bass guitar, original; 1967-11–1970-12)",
+    "Clive Bunker (drums (drum set), original; 1967-11–1971-05)",
+    "Ian Anderson (acoustic guitar, flute, harmonica, lead vocals, mandolin, original; 1967–act.)",
+    "Martin Barre (acoustic guitar, electric guitar, recorder; 1968-12–2011)",
+    "Tony Iommi (guitar; 1968–1969-01)",
+    "John Evan (organ, piano, synthesizer; 1970-04–1980-06)",
+    "Jeffrey Hammond Hammond (bass guitar, treble recorder / alto recorder; 1971-01–1975-12)",
+    "Barriemore Barlow (drums (drum set); 1971-05–1980-06)",
+    "John Glascock (bass guitar; 1975-12–1979-08)",
+    "Dee Palmer (keyboard, saxophone; 1976-10–1980-06)",
+    "Dave Pegg (bass guitar, mandolin; 1979-08–1995)",
+    "Mark Craney (drums (drum set); 1980-06–1981-05)",
+    "Eddie Jobson (violin; 1980-06–1981-05)",
+    "Gerry Conway (drums (drum set); 1981-06–1983)",
+    "Peter-John Vettese (keyboard; 1981-06–1987)",
+    "Paul Burgess (drums (drum set); 1982–1983)",
+    "Doane Perry (drums (drum set); 1984–1991)",
+    "Maartin Allcock (keyboard; 1988-01–1991)",
+    "Dave Mattacks (drums (drum set), keyboard; 1992–1993)",
+    "Andrew Giddings (accordion, keyboard; 1992–2006)",
+    "Doane Perry (drums (drum set); 1994–act.)",
+    "Jonathan Noyce (bass guitar; 1995–2006)",
+    "David Goodier (bass guitar; 2006–act.)",
+    "John O’Hara (accordion, keyboard, piano; 2006–act.)",
+    "Anna Phoebe (violin; 2007–act.)",
+    "Scott Hammond (miembro; ?–act.)",
+    "Tony Williams (bass; ?–?)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "This Was",
+     "anio": 1968,
+     "estrellas_critica": "3",
+     "entradilla": "Blues con flauta, con Mick Abrahams todavía al mando. Título honesto: Anderson ya sabía que esto «era», no «es»."
+    },
+    {
+     "titulo": "Stand Up",
+     "anio": 1969,
+     "estrellas_critica": "4",
+     "entradilla": "Anderson toma el control total y aparece el Tull real: folk, jazz y Bach («Bourée»). Nº 1 británico con portada desplegable de muñecos."
+    },
+    {
+     "titulo": "Benefit",
+     "anio": 1970,
+     "estrellas_critica": "4",
+     "entradilla": "Oscuro, eléctrico, subvalorado. El puente directo hacia Aqualung."
+    },
+    {
+     "titulo": "Aqualung",
+     "anio": 1971,
+     "estrellas_critica": "5",
+     "entradilla": "Himnos contra la religión organizada y retratos de marginales. Anderson insiste en que no es conceptual; nadie le creyó nunca, y de esa irritación nació el disco siguiente."
+    },
+    {
+     "titulo": "Thick as a Brick",
+     "anio": 1972,
+     "estrellas_critica": "5",
+     "entradilla": "La parodia del álbum conceptual —un solo tema, letra atribuida a un niño ficticio, portada-periódico de doce páginas— que terminó siendo el mejor álbum conceptual. Nº 1 en EE.UU.: el chiste que nadie leyó como chiste."
+    },
+    {
+     "titulo": "A Passion Play",
+     "anio": 1973,
+     "estrellas_critica": "3",
+     "entradilla": "La jugada de Thick as a Brick repetida sin el humor. La crítica británica lo ejecutó en plaza pública; nº 1 americano igual. Mejor de lo que dijo su prensa, peor que su modelo."
+    },
+    {
+     "titulo": "War Child",
+     "anio": 1974,
+     "estrellas_critica": "3",
+     "entradilla": "Repliegue a canciones tras la paliza crítica. Cuerdas, sarcasmo, oficio; ambición en pausa."
+    },
+    {
+     "titulo": "Minstrel in the Gallery",
+     "anio": 1975,
+     "estrellas_critica": "4",
+     "entradilla": "Acústico y ácido, grabado en exilio fiscal en Montecarlo: Anderson mirando su propio divorcio con cuerdas y navaja. Medio redescubierto con los años."
+    },
+    {
+     "titulo": "Too Old to Rock 'n' Roll: Too Young to Die!",
+     "anio": 1976,
+     "estrellas_critica": "2",
+     "entradilla": "Concepto sobre un rockero envejecido que la crítica leyó como autobiografía; Anderson lo negó. Flojo dentro de su catálogo, e irónico hasta en eso."
+    },
+    {
+     "titulo": "Songs from the Wood",
+     "anio": 1977,
+     "estrellas_critica": "4",
+     "entradilla": "Giro folk pleno y renacimiento: la Inglaterra rural como refugio del punk. Primera parte de una trilogía campestre."
+    },
+    {
+     "titulo": "Heavy Horses",
+     "anio": 1978,
+     "estrellas_critica": "4",
+     "entradilla": "Elegía a los caballos de tiro y al mundo rural que se extinguía. Par del anterior y quizá superior: Anderson escribiendo sobre lo que ama en vez de contra lo que odia."
+    },
+    {
+     "titulo": "Stormwatch",
+     "anio": 1979,
+     "estrellas_critica": "3",
+     "entradilla": "Cierre sombrío de la trilogía rural, marcado por la enfermedad y muerte del bajista John Glascock. Fin de era en todos los sentidos."
+    },
+    {
+     "titulo": "A",
+     "anio": 1980,
+     "estrellas_critica": "3",
+     "entradilla": "Era un disco solista de Anderson con Eddie Jobson (ex Roxy/UK) y salió como Tull por decisión del sello: sintetizadores, banda despedida, era nueva."
+    },
+    {
+     "titulo": "The Broadsword and the Beast",
+     "anio": 1982,
+     "estrellas_critica": "3",
+     "entradilla": "Vikingos y sintetizadores conviviendo mejor de lo que suena."
+    },
+    {
+     "titulo": "Under Wraps",
+     "anio": 1984,
+     "estrellas_critica": "2",
+     "entradilla": "Electrónico total; la voz de Anderson colapsa en la gira y nunca vuelve a ser la misma."
+    },
+    {
+     "titulo": "Crest of a Knave",
+     "anio": 1987,
+     "estrellas_critica": "3",
+     "entradilla": "El Grammy de hard rock/metal 1989 ganado contra Metallica: el chiste que persigue a ambos desde entonces. Rock Island (89, UK 18/US 56) y Catfish Rising (91) continuaron el pulso."
+    },
+    {
+     "titulo": "Rock Island",
+     "anio": 1989,
+     "estrellas_critica": "3",
+     "entradilla": "Continuación directa de la fórmula de Crest of a Knave: guitarras al frente, ecos de Dire Straits, Anderson administrando un registro vocal ya reducido. Más oscuro y menos fresco que su antecesor; el oficio sostiene lo que la inspiración no siempre alcanza."
+    },
+    {
+     "titulo": "Catfish Rising",
+     "anio": 1991,
+     "estrellas_critica": "3",
+     "entradilla": "Vuelta a las guitarras y al blues eléctrico tras la década de experimentos digitales. Canciones de oficio más que de inspiración: el pulso de Crest of a Knave y Rock Island continuado con menos filo. Cierra de hecho la etapa de Tull como banda de rock mainstream."
+    },
+    {
+     "titulo": "Roots to Branches",
+     "anio": 1995,
+     "estrellas_critica": "3",
+     "entradilla": "Escalas orientales y flauta madura: su último disco plenamente ambicioso. J-Tull Dot Com (99) y el disco navideño (2003) administraron el resto."
+    },
+    {
+     "titulo": "J‐Tull Dot Com",
+     "anio": 1999,
+     "estrellas_critica": "2",
+     "entradilla": "Título de época y banda que ya no busca nada nuevo: oficio correcto tras la ambición de Roots to Branches, con restos de las escalas orientales de aquel disco. Fue el último Tull de estudio con canciones nuevas hasta The Zealot Gene, si se deja aparte el disco navideño."
+    },
+    {
+     "titulo": "The Jethro Tull Christmas Album",
+     "anio": 2003,
+     "estrellas_critica": "3",
+     "entradilla": "Mezcla de canciones navideñas nuevas, tradicionales arreglados y regrabaciones de piezas propias de espíritu invernal. Acústico y folk, más digno de lo que el rótulo sugiere. Terminó funcionando como cierre discreto de la discografía durante casi dos décadas."
+    },
+    {
+     "titulo": "The Zealot Gene",
+     "anio": 2022,
+     "estrellas_critica": "3",
+     "entradilla": "Primer Tull en 19 años; RökFlöte (2023) y Curious Ruminant (2025) lo siguieron a ritmo anual. Anderson imparable, aunque la voz ya no lo acompañe; la honestidad obliga a decir ambas cosas."
+    },
+    {
+     "titulo": "RökFlöte",
+     "anio": 2023,
+     "estrellas_critica": "3",
+     "entradilla": "Doce piezas sobre dioses nórdicos, con la flauta como hilo conductor y un título que guiña al viejo nombre tentativo de la banda. Más rockero y compacto que The Zealot Gene; la segunda entrega de la resurrección tardía del nombre Tull, a ritmo anual."
+    },
+    {
+     "titulo": "Curious Ruminant",
+     "anio": 2025,
+     "estrellas_critica": "3",
+     "entradilla": "Tercera entrega de la racha tardía, más reflexiva y folk que RökFlöte, armada en parte sobre material propio que Anderson tenía guardado de distintas décadas, incluida una pieza extensa como centro. La flauta sigue intacta; la voz hace lo que puede, y el disco lo asume sin disimulo."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "kc",
+   "nombre": "King Crimson",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1968-11-30",
+   "fin": "2021",
+   "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/King_Crimson",
+   "entradilla_actual": "Fundó el género en 1969 y lo abandonó dos veces. Etapas: sinfónica con Sinfield (69-71), improvisadora con Bruford/Wetton (73-74). Fripp como único eje; Red como testamento.",
+   "formaciones_mb": [
+    "Michael Giles (drums (drum set), original, percussion; 1968-11-30–1969-12)",
+    "Michael Giles (background vocals, original; 1968-11-30–1969-12)",
+    "Ian McDonald (keyboard, original; 1968-11-30–1969-12)",
+    "Ian McDonald (background vocals, original; 1968-11-30–1969-12)",
+    "Ian McDonald (flute, original; 1968-11-30–1969-12)",
+    "Ian McDonald (original, saxophone; 1968-11-30–1969-12)",
+    "Ian McDonald (mellotron, original; 1968-11-30–1969-12)",
+    "Greg Lake (bass guitar, lead vocals, original; 1968-11-30–1970)",
+    "Peter Sinfield (original, synthesizer; 1968-11-30–1971)",
+    "Robert Fripp (guitar, original; 1968-11-30–act.)",
+    "Robert Fripp (mellotron, original; 1968-11-30–act.)",
+    "Mel Collins (flute, saxophone; 1970-03-21–1972-05-20)",
+    "Mel Collins (background vocals; 1970-03-21–1972-05-20)",
+    "Mel Collins (mellotron; 1970-03-21–1972-05-20)",
+    "Gordon Haskell (lead vocals; 1970–1970-11-10)",
+    "Gordon Haskell (electric bass guitar; 1970–1970-11-10)",
+    "Peter Giles (electric bass guitar; 1970–1970)",
+    "Andy McCulloch (drums (drum set); 1970–1970)",
+    "Boz Burrell (lead vocals; 1971-04-24–1972-05-20)",
+    "Boz Burrell (electric bass guitar; 1971-04-24–1972-05-20)",
+    "Ian Wallace (background vocals; 1971-04-24–1972-05-20)",
+    "Ian Wallace (drums (drum set); 1971-04-24–1972-05-20)",
+    "Jamie Muir (percussion; 1972-07-22–1973-02-10)",
+    "Jamie Muir (drums (drum set); 1972-07-22–1973-02-10)",
+    "David Cross (violin; 1972-07-22–1974-07-08)",
+    "David Cross (mellotron; 1972-07-22–1974-07-08)",
+    "John Wetton (lead vocals; 1972-07-22–1974-09-28)",
+    "John Wetton (electric bass guitar; 1972-07-22–1974-09-28)",
+    "Bill Bruford (percussion; 1972-07-22–1997)",
+    "Bill Bruford (drums (drum set); 1972-07-22–1997)",
+    "Tony Levin (background vocals; 1981–1999)",
+    "Tony Levin (electric bass guitar; 1981–1999)",
+    "Tony Levin (Chapman stick; 1981–1999)",
+    "Adrian Belew (electric guitar, lead vocals; 1981–2013)",
+    "Trey Gunn (background vocals; 1994–2003)",
+    "Trey Gunn (electric bass guitar; 1994–2003)",
+    "Trey Gunn (Chapman stick; 1994–2003)",
+    "Trey Gunn (Warr guitar; 1994–2003)",
+    "Pat Mastelotto (drums (drum set); 1994–act.)",
+    "Pat Mastelotto (electronic drum set; 1994–act.)",
+    "Tony Levin (background vocals; 2004–act.)",
+    "Tony Levin (electric bass guitar; 2004–act.)",
+    "Tony Levin (Chapman stick; 2004–act.)",
+    "Gavin Harrison (drums (drum set); 2007–act.)",
+    "Gavin Harrison (percussion; 2007–act.)",
+    "Bill Rieflin (drums (drum set); 2013-09-06–2016-03-06)",
+    "Bill Rieflin (background vocals; 2013-09-06–2016-03-06)",
+    "Bill Rieflin (percussion; 2013-09-06–2016-03-06)",
+    "Bill Rieflin (keyboard; 2013-09-06–2016-03-06)",
+    "Mel Collins (flute, saxophone; 2013–act.)",
+    "Jakko Jakszyk (lead vocals; 2013–act.)",
+    "Jakko Jakszyk (guitar; 2013–act.)",
+    "Jeremy Stacey (drums (drum set); 2016-03-07–act.)",
+    "Jeremy Stacey (percussion; 2016-03-07–act.)",
+    "Jeremy Stacey (keyboard; 2016-03-07–act.)",
+    "Chris Gibson (additional, keyboard; 2017–2017)",
+    "Bill Rieflin (mellotron; 2017–2018)",
+    "Bill Rieflin (keyboard; 2017–2018)"
+   ],
+   "conexiones_red": [
+    "Greg Lake — miembro de: bass guitar, lead vocals, original (1968-11-30–1970)",
+    "Peter Sinfield — miembro de: original, synthesizer (1968-11-30–1971)",
+    "John Wetton — miembro de: lead vocals (1972-07-22–1974-09-28)",
+    "Bill Bruford — miembro de: percussion (1972-07-22–1997)",
+    "Keith Tippett — invitado de: piano en Poseidon, Lizard e Islands"
+   ],
+   "discografia": [
+    {
+     "titulo": "In the Court of the Crimson King",
+     "anio": 1969,
+     "estrellas_critica": "5",
+     "entradilla": "El acta fundacional: Mellotron, paranoia, «21st Century Schizoid Man» y «Epitaph». Todo lo que el género fue durante cinco años está aquí primero. La banda se desintegró de inmediato."
+    },
+    {
+     "titulo": "In the Wake of Poseidon",
+     "anio": 1970,
+     "estrellas_critica": "3",
+     "entradilla": "El remake de crisis: banda disuelta, Lake cantando ya fuera, estructura calcada del debut. Ya discutido. «Cat Food» como única pista del futuro."
+    },
+    {
+     "titulo": "Lizard",
+     "anio": 1970,
+     "estrellas_critica": "3",
+     "entradilla": "Jazz orquestado impenetrable, con Jon Anderson de Yes invitado en la suite. El más difícil de amar de la etapa Sinfield; Fripp mismo tardó décadas en reconciliarse con él."
+    },
+    {
+     "titulo": "Islands",
+     "anio": 1971,
+     "estrellas_critica": "3",
+     "entradilla": "Frágil, irregular, con momentos de belleza rara. Fin de la era Sinfield; Fripp echa a todos y empieza de nuevo."
+    },
+    {
+     "titulo": "Larks' Tongues in Aspic",
+     "anio": 1973,
+     "estrellas_critica": "5",
+     "entradilla": "Renacimiento total: Bruford, Wetton, Muir, Cross. Metal de cámara e improvisación; nada que ver con la era Mellotron. La segunda fundación de la banda."
+    },
+    {
+     "titulo": "Red",
+     "anio": 1974,
+     "estrellas_critica": "5",
+     "entradilla": "El testamento: denso, exacto, sin un gesto de más. Fripp disolvió la banda antes de que saliera. Probablemente el disco del género que mejor envejeció."
+    },
+    {
+     "titulo": "Starless and Bible Black",
+     "anio": 1974,
+     "estrellas_critica": "4",
+     "entradilla": "Mitad directo disimulado como estudio, áspero y arriesgado. «Fracture» como examen final de guitarra."
+    },
+    {
+     "titulo": "Discipline",
+     "anio": 1981,
+     "estrellas_critica": "5",
+     "entradilla": "Tercera fundación: Belew, Levin, gamelán eléctrico y new wave cerebral. Otra banda con el mismo nombre, y esta vez con razón."
+    },
+    {
+     "titulo": "Beat",
+     "anio": 1982,
+     "estrellas_critica": "3",
+     "entradilla": "Concepto sobre la generación beat (Kerouac); el único Crimson hecho por encargo de continuidad. Menor, con momentos."
+    },
+    {
+     "titulo": "Three of a Perfect Pair",
+     "anio": 1984,
+     "estrellas_critica": "3",
+     "entradilla": "Lado accesible y lado experimental declarados en la portada. Fripp apaga la luz por otra década."
+    },
+    {
+     "titulo": "THRAK",
+     "anio": 1995,
+     "estrellas_critica": "3",
+     "entradilla": "El doble trío: cuarta fundación, ferozmente física. The ConstruKction of Light (2000) y The Power to Believe (2003) —metal industrial de cámara— cierran el catálogo de estudio del nombre."
+    },
+    {
+     "titulo": "The ConstruKction of Light",
+     "anio": 2000,
+     "estrellas_critica": "2",
+     "entradilla": "El regreso como cuarteto tras los ProjeKcts: Fripp, Belew, Gunn y Mastelotto, sin Levin ni Bruford. Retoma el vocabulario de Larks' Tongues con producción digital seca, y ahí está el problema: suena a maqueta de sí mismo. Hasta el propio Fripp renegó del resultado y lo regrabó años después. El punto más flojo de la era moderna según casi todo el mundo."
+    },
+    {
+     "titulo": "The Power to Believe",
+     "anio": 2003,
+     "estrellas_critica": "4",
+     "entradilla": "El cierre de estudio del grupo: cuarteto Fripp-Belew-Gunn-Mastelotto, más pesado y más nítido que The ConstruKction of Light. Metal industrial, gamelán eléctrico y electrónica al servicio de un disco compacto, sin relleno. Consenso amplio: lo mejor de la era moderna y un final digno del catálogo."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "The Kinks",
+    "The Moody Blues",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "mb",
+   "nombre": "The Moody Blues",
+   "escena": "nucleo",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1964",
+   "fin": "2018",
+   "mbid": "774666d2-2064-4d6c-856c-f8cda0aaf9f0",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/The_Moody_Blues",
+   "entradilla_actual": "El prólogo del prog sinfónico: orquesta por accidente en 1967, Mellotron después, misticismo pop siempre. Siete discos con la misma fórmula, decreciente en interés y creciente en ventas.",
+   "formaciones_mb": [
+    "Denny Laine (guitar, lead vocals, original; 1964–1966)",
+    "Clint Warwick (bass guitar, lead vocals, original; 1964–1966)",
+    "Mike Pinder (keyboard, lead vocals, original; 1964–1979)",
+    "Ray Thomas (flute, harmonica, lead vocals, original, percussion; 1964–2002)",
+    "Graeme Edge (drums (drum set), lead vocals, original, percussion; 1964–2018)",
+    "Rodney Clark (bass guitar, lead vocals; 1966–1966)",
+    "Justin Hayward (guitar, lead vocals; 1966–2018)",
+    "John Lodge (bass guitar, guitar, lead vocals; 1966–act.)",
+    "Patrick Moraz (keyboard; 1978–1991)",
+    "Bias Boshell (additional, keyboard; 1986–1986)",
+    "Janis Liebhart (additional, background vocals; 1986–1987)",
+    "Wendy McKenzie (additional, background vocals; 1986–1987)",
+    "Guy Allison (additional, keyboard; 1987–1990)",
+    "Shaun Murphy (additional, background vocals; 1988–1990)",
+    "Naomi Star (additional, background vocals; 1988–1990)",
+    "Bekka Bramlett (additional, background vocals; 1990–1990)",
+    "Terry Wood (additional, background vocals; 1990–1990)",
+    "Bias Boshell (additional, keyboard; 1990–2001)",
+    "Paul Bliss (additional, guitar, keyboard; 1990–2010)",
+    "Gordon Marshall (additional, drums (drum set), percussion; 1990–2018)",
+    "June Boyce (additional, background vocals; 1991–1993)",
+    "Susan Shattock (additional, background vocals; 1991–2000)",
+    "Tracy Graham (additional, background vocals; 1993–2001)",
+    "Bernie Barlow (additional, background vocals, keyboard, percussion; 2001–2006)",
+    "Norda Mullen (additional, background vocals, flute, guitar, percussion; 2003–2018)",
+    "Julie Ragins (additional, background vocals, guitar, keyboard, percussion, saxophone; 2006–2018)",
+    "Bernie Barlow (additional, background vocals, keyboard; 2009–2010)",
+    "Alan Hewitt (additional, background vocals, keyboard; 2010–2018)",
+    "Denny Laine (miembro; ?–act.)"
+   ],
+   "conexiones_red": [],
+   "discografia": [
+    {
+     "titulo": "The Magnificent Moodies",
+     "anio": 1965,
+     "estrellas_critica": "3",
+     "entradilla": "Debut de la formación con Denny Laine: R&B y beat de Birmingham con «Go Now» como carta de presentación. Del grupo sinfónico posterior no hay todavía ni rastro, y ahí reside su interés documental."
+    },
+    {
+     "titulo": "Days of Future Passed",
+     "anio": 1967,
+     "estrellas_critica": "5",
+     "entradilla": "Nació como demo estéreo para Deram con orquesta obligada por contrato y terminó fundando el prog sinfónico. «Nights in White Satin». El accidente más influyente del género."
+    },
+    {
+     "titulo": "In Search of the Lost Chord",
+     "anio": 1968,
+     "estrellas_critica": "4",
+     "entradilla": "Fuera la orquesta, adentro el Mellotron de Pinder: la solución barata que definió el sonido de todo el género. Misticismo de divulgación («Om», Timothy Leary)."
+    },
+    {
+     "titulo": "On the Threshold of a Dream",
+     "anio": 1969,
+     "estrellas_critica": "4",
+     "entradilla": "La fórmula asentada y su primer nº 1 británico. Bella, previsible, idéntica a sí misma."
+    },
+    {
+     "titulo": "To Our Children's Children's Children",
+     "anio": 1969,
+     "estrellas_critica": "4",
+     "entradilla": "Concepto espacial inspirado en la llegada a la Luna, inaugurando su sello Threshold. Su disco más cohesivo; el que defendería ante un escéptico."
+    },
+    {
+     "titulo": "A Question of Balance",
+     "anio": 1970,
+     "estrellas_critica": "4",
+     "entradilla": "(Corresponde a 1970.) Simplificado a propósito para poder tocarse en vivo. El más rockero del ciclo."
+    },
+    {
+     "titulo": "Every Good Boy Deserves Favour",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "(Corresponde a 1971; listado aquí por compactación de la etapa final.) La fórmula en piloto automático de lujo. Nº 1 UK, nº 2 US."
+    },
+    {
+     "titulo": "Seventh Sojourn",
+     "anio": 1972,
+     "estrellas_critica": "4",
+     "entradilla": "Nº 1 americano y agotamiento elegante. Después, cinco años de silencio: la fórmula ya no daba más y tuvieron la lucidez de notarlo."
+    },
+    {
+     "titulo": "Octave",
+     "anio": 1978,
+     "estrellas_critica": "2",
+     "entradilla": "Regreso tras cinco años; Pinder se va a mitad de camino y con él el Mellotron, es decir, la identidad. Vendió bien igual: la marca ya era autónoma de la música."
+    },
+    {
+     "titulo": "Long Distance Voyager",
+     "anio": 1981,
+     "estrellas_critica": "3",
+     "entradilla": "Nº 1 americano: la marca sobrevive al Mellotron. «The Voice» como nuevo idioma FM."
+    },
+    {
+     "titulo": "The Present",
+     "anio": 1983,
+     "estrellas_critica": "2",
+     "entradilla": "La fórmula ochentera ya sin sorpresa."
+    },
+    {
+     "titulo": "The Other Side of Life",
+     "anio": 1986,
+     "estrellas_critica": "2",
+     "entradilla": "«Your Wildest Dreams»: los Moody como acto de nostalgia MTV, y funcionó. Sur la Mer (88, UK 21/US 38) repitió la receta."
+    },
+    {
+     "titulo": "Sur la mer",
+     "anio": 1988,
+     "estrellas_critica": "2",
+     "entradilla": "Secuela directa de The Other Side of Life, otra vez con Tony Visconti en la producción y el synth-pop como idioma. Hayward domina el disco casi por completo; el resto de la banda queda reducido a comparsa, y Ray Thomas prácticamente no aparece. «I Know You're Out There Somewhere» prolongó la nostalgia MTV un ciclo más, pero el formato ya mostraba el molde."
+    },
+    {
+     "titulo": "Keys of the Kingdom",
+     "anio": 1991,
+     "estrellas_critica": "2",
+     "entradilla": "Intento de trasladar la fórmula pop de los ochenta a los noventa, con producción repartida y sin rumbo claro. Es el disco donde la participación de Patrick Moraz se reduce al mínimo antes de su salida definitiva. Quedó como el título más gris de la etapa tardía: ni el brillo comercial de Sur la mer ni la dignidad tardía de Strange Times."
+    },
+    {
+     "titulo": "Strange Times",
+     "anio": 1999,
+     "estrellas_critica": "3",
+     "entradilla": "Cierre digno; December (2003) fue el punto final real. Al Salón de la Fama recién en 2018, con décadas de desdén crítico encima."
+    },
+    {
+     "titulo": "December",
+     "anio": 2003,
+     "estrellas_critica": "2",
+     "entradilla": "Disco navideño y punto final del catálogo de estudio, con la banda reducida al núcleo de Hayward, Lodge y Edge. Mezcla villancicos y clásicos de temporada con algún original, en clave suave de adult contemporary. Cierre menor para un catálogo que ya venía en retirada: más despedida amable que declaración artística."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "Mike Oldfield",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  },
+  {
+   "slug": "mo",
+   "nombre": "Mike Oldfield",
+   "escena": "nucleo",
+   "tipo": "Person",
+   "pais": "GB",
+   "inicio": "1953-05-15",
+   "fin": null,
+   "mbid": "a1684a49-feaa-4150-b758-d9412fc59f12",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Mike_Oldfield",
+   "entradilla_actual": "El multiinstrumentista solitario: minimalismo aprendido de Bedford, ejecutado por capas. Trilogía inicial (73-75) intocable; después, repetición y giro pop.",
+   "formaciones_mb": [
+    "Kevin Ayers & The Whole World (miembro; 1969–1971)",
+    "Manor Choir (miembro; ?–act.)",
+    "The Sallyangie (miembro; ?–act.)"
+   ],
+   "conexiones_red": [
+    "David Bedford — arregló para: mentor en The Whole World; versión orquestal de Tubular Bells",
+    "Tom Newman — produjo a: coproductor de Tubular Bells en The Manor",
+    "Virgin Records — fichó a: fundado sobre Tubular Bells (V2001)",
+    "Advision · Trident · Abbey Road · The Manor — grabó en: The Manor",
+    "Simon Heyworth — produjo a: coproductor e ingeniero de Tubular Bells en The Manor"
+   ],
+   "discografia": [
+    {
+     "titulo": "Tubular Bells",
+     "anio": 1973,
+     "estrellas_critica": "5",
+     "entradilla": "Un adolescente, veinte instrumentos, dieciséis pistas y el tiempo muerto de The Manor. Fundó Virgin y, vía El exorcista, conquistó América por accidente. Ya discutido."
+    },
+    {
+     "titulo": "Hergest Ridge",
+     "anio": 1974,
+     "estrellas_critica": "3",
+     "entradilla": "El refugio rural tras la fama no pedida. Nº 1 británico… destronado por su propio Tubular Bells: resumen perfecto de su problema."
+    },
+    {
+     "titulo": "Ommadawn",
+     "anio": 1975,
+     "estrellas_critica": "4",
+     "entradilla": "Percusión africana, gaitas y duelo por su madre: su disco más emocional y, para buena parte de la crítica y para él mismo, el mejor de los tres grandes."
+    },
+    {
+     "titulo": "The Orchestral Tubular Bells",
+     "anio": 1975,
+     "estrellas_critica": "3",
+     "entradilla": "La versión orquestal de Tubular Bells a cargo de David Bedford, el puente entre la academia y este mapa. Traducción digna que demuestra, sin quererlo, que la gracia del original estaba en las capas de una sola persona y no en la partitura."
+    },
+    {
+     "titulo": "Incantations",
+     "anio": 1978,
+     "estrellas_critica": "3",
+     "entradilla": "Doble hipnótico: el minimalismo ya sin sorpresa pero con la ejecución más fina de su carrera. Última obra larga de la etapa clásica."
+    },
+    {
+     "titulo": "Platinum",
+     "anio": 1979,
+     "estrellas_critica": "3",
+     "entradilla": "Giro pop asumido: caras cortas, covers, otra carrera empezando dentro del mismo nombre."
+    },
+    {
+     "titulo": "QE2",
+     "anio": 1980,
+     "estrellas_critica": "3",
+     "entradilla": "Pop de estudio con Phil Collins de sesión en batería: hasta el final, la red es la misma."
+    },
+    {
+     "titulo": "Five Miles Out",
+     "anio": 1982,
+     "estrellas_critica": "3",
+     "entradilla": "El pánico real en una avioneta convertido en single. Oldfield entra al formato canción."
+    },
+    {
+     "titulo": "Crises",
+     "anio": 1983,
+     "estrellas_critica": "4",
+     "entradilla": "«Moonlight Shadow» con Maggie Reilly: el ermitaño instrumental reconvertido en autor de hits europeos. Discovery (84, UK 15) estiró la fórmula."
+    },
+    {
+     "titulo": "Discovery",
+     "anio": 1984,
+     "estrellas_critica": "3",
+     "entradilla": "La fórmula de Crises estirada: canciones cortas con Maggie Reilly y Barry Palmer, más una pieza instrumental larga al cierre. Hecho en el exilio suizo, correcto y previsible. «To France» sostiene el disco."
+    },
+    {
+     "titulo": "The Killing Fields: Original Film Soundtrack",
+     "anio": 1984,
+     "estrellas_critica": "3",
+     "entradilla": "Soundtrack de estudio propio y el trabajo más sombrío de Oldfield: texturas de Fairlight y disonancias al servicio del film de Joffé, lejos de toda melodía celta amable. Rareza seria dentro de un catálogo que rara vez incomoda."
+    },
+    {
+     "titulo": "Islands",
+     "anio": 1987,
+     "estrellas_critica": "2",
+     "entradilla": "Mitad canciones con voces invitadas —Bonnie Tyler en el tema título—, mitad suite instrumental con «The Wind Chimes». El esquema de un lado para cada público, ya convertido en rutina. Producción digital muy de época que envejeció mal."
+    },
+    {
+     "titulo": "Earth Moving",
+     "anio": 1989,
+     "estrellas_critica": "2",
+     "entradilla": "Único disco de Oldfield hecho enteramente de canciones pop, con rotación de vocalistas invitados. Virgin pedía hits; él entregó oficio sin convicción. El punto más impersonal de su catálogo."
+    },
+    {
+     "titulo": "Amarok",
+     "anio": 1990,
+     "estrellas_critica": "4",
+     "entradilla": "Una hora continua, sin cortes ni single posible, grabada como desafío a Virgin: hasta le dejó un insulto a Branson en código morse. Guitarras acústicas, percusión africana y humor absurdo en un montaje febril. Fracasó adrede y quedó como su obra secreta más defendida."
+    },
+    {
+     "titulo": "Heaven’s Open",
+     "anio": 1991,
+     "estrellas_critica": "2",
+     "entradilla": "Su portazo a Virgin, cantando él mismo de punta a punta por primera vez. Canciones directas y un largo tramo instrumental final que retoma el humor de Amarok. Vale más como documento del divorcio con el sello que como música."
+    },
+    {
+     "titulo": "Tubular Bells II",
+     "anio": 1992,
+     "estrellas_critica": "3",
+     "entradilla": "La secuela literal con Warner: nº 1 y concierto en el castillo de Edimburgo. La nostalgia como negocio fundacional; Songs of Distant Earth (94), Voyager (96), Tubular Bells III (98, UK 4), Guitars y The Millennium Bell (99) completan la década."
+    },
+    {
+     "titulo": "The Songs of Distant Earth",
+     "anio": 1994,
+     "estrellas_critica": "3",
+     "entradilla": "Basado en la novela de Arthur C. Clarke y con la venia del autor: ambient espacial de superficies suaves y pulso new age. Funciona como clima más que como composición. De lo más digno de su etapa Warner."
+    },
+    {
+     "titulo": "Voyager",
+     "anio": 1996,
+     "estrellas_critica": "3",
+     "entradilla": "Su disco celta, subido a la ola de mediados de los noventa: aires tradicionales, alguna versión y originales de tono uniforme. Agradable y anónimo; fuera del sonido de guitarra, pocas huellas de su firma."
+    },
+    {
+     "titulo": "Tubular Bells III",
+     "anio": 1998,
+     "estrellas_critica": "3",
+     "entradilla": "Tercera vuelta a la marca, filtrada por sus años en Ibiza: pulsos electrónicos de club sobre los motivos conocidos. Tiene momentos —«Man in the Rain» recupera la fórmula de «Moonlight Shadow»—, pero la franquicia ya rendía menos."
+    },
+    {
+     "titulo": "Guitars",
+     "anio": 1999,
+     "estrellas_critica": "3",
+     "entradilla": "Concepto autoimpuesto: todos los sonidos salen de guitarras, incluidas las percusiones. Disco breve y amable, de ideas más ingeniosas que memorables. Un ejercicio de taller antes que una obra."
+    },
+    {
+     "titulo": "The Millennium Bell",
+     "anio": 1999,
+     "estrellas_critica": "2",
+     "entradilla": "Repaso conceptual de dos mil años de historia en viñetas breves, pensado para el show de fin de milenio en Berlín. Gospel, aire celta y electrónica pegados sin transición. Su disco más disperso."
+    },
+    {
+     "titulo": "Tr3s Lunas",
+     "anio": 2002,
+     "estrellas_critica": "2",
+     "entradilla": "Chillout con guitarra, concebido junto a un entorno virtual interactivo, el proyecto MusicVR. Texturas electrónicas amables, alguna voz invitada, poca fricción. El experimento tecnológico envejeció peor que la música."
+    },
+    {
+     "titulo": "Tubular Bells 2003",
+     "anio": 2003,
+     "estrellas_critica": "3",
+     "entradilla": "Regrabación nota por nota del original por sus treinta años, con la tecnología que no existía cuando grabó el original y John Cleese como maestro de ceremonias. Suena más limpio y más muerto a la vez: la corrección le quita el nervio adolescente."
+    },
+    {
+     "titulo": "Light + Shade",
+     "anio": 2005,
+     "estrellas_critica": null,
+     "entradilla": "Doble con lógica de carpeta: un disco «Light» apacible y uno «Shade» más oscuro, armados en su estudio casero con software y bancos de sonido. Música de fondo confesa, dentro de su etapa de experimentos de plataforma."
+    },
+    {
+     "titulo": "Music of the Spheres",
+     "anio": 2008,
+     "estrellas_critica": "3",
+     "entradilla": "Obra orquestal sin guitarras eléctricas, escrita en clave de clásica ligera; Lang Lang aparece como solista invitado. Melódica, prolija y sin riesgo: el Oldfield sinfónico que siempre insinuó, domesticado."
+    },
+    {
+     "titulo": "Man on the Rocks",
+     "anio": 2014,
+     "estrellas_critica": "3",
+     "entradilla": "Vuelta al formato canción con banda y la voz de Luke Spiller, en clave de rock clásico pulido. Composición prolija, sonido radial, poca huella personal: Oldfield toca menos de lo que firma."
+    },
+    {
+     "titulo": "Return to Ommadawn",
+     "anio": 2017,
+     "estrellas_critica": "4",
+     "entradilla": "El regreso al método artesanal de una sola persona por capas: su mejor disco en décadas y, hasta hoy, el último. Man on the Rocks (2014) lo precedió en modo banda."
+    },
+    {
+     "titulo": "The Space Movie (The Full Original Unreleased 103 Minute Soundtrack)",
+     "anio": 2019,
+     "estrellas_critica": null,
+     "entradilla": "Edición íntegra y tardía de la música que Oldfield armó para el documental espacial de Tony Palmer: en buena parte variantes y mezclas alternativas de su obra setentera, con pasajes inéditos. Documento de archivo para completistas, no obra nueva."
+    }
+   ],
+   "vecinos_escena": [
+    "Anthony Phillips",
+    "The Alan Parsons Project",
+    "The Beatles",
+    "Barclay James Harvest",
+    "Curved Air",
+    "Camel",
+    "Caravan",
+    "Electric Light Orchestra",
+    "Emerson, Lake & Palmer",
+    "Focus",
+    "Genesis",
+    "Gentle Giant",
+    "Jethro Tull",
+    "King Crimson",
+    "The Kinks",
+    "The Moody Blues",
+    "Pink Floyd",
+    "The Pretty Things",
+    "Renaissance",
+    "Rush",
+    "Steve Hackett",
+    "Soft Machine",
+    "Small Faces",
+    "Strawbs",
+    "Supertramp",
+    "Van der Graaf Generator",
+    "The Who",
+    "Yes"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,558 @@
+{
+ "id": "copy-06-canterbury",
+ "escena": "canterbury",
+ "artistas": [
+  {
+   "slug": "egg",
+   "nombre": "Egg",
+   "escena": "canterbury",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1968-07",
+   "fin": "1974-08",
+   "mbid": "0d978322-5753-47d2-9893-9ced96152db1",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Egg_(banda)",
+   "entradilla_actual": "El laboratorio de compases de Dave Stewart. Trío organístico salido de Uriel —la banda que compartió con Steve Hillage— que llevó la métrica irregular y el rigor casi académico al corazón de la órbita de Canterbury. Tres discos de estudio le bastaron para dejar una huella desproporcionada a sus ventas.",
+   "formaciones_mb": [
+    "Mont Campbell (miembro; 1968–1974)",
+    "Clive Brooks (miembro; ?–act.)",
+    "Dave Stewart (miembro; ?–act.)"
+   ],
+   "conexiones_red": [
+    "Dave Stewart — miembro de: miembro (¿?–act.)"
+   ],
+   "discografia": [
+    {
+     "titulo": "Egg",
+     "anio": 1970,
+     "estrellas_critica": "4",
+     "entradilla": "Debut del trío: órgano al frente, compases cambiantes y un descaro juvenil que ya apunta al método. El laboratorio de Stewart abre sus puertas."
+    },
+    {
+     "titulo": "The Polite Force",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "El experimento en su punto más denso: la escritura métrica de Stewart alcanza aquí su formulación más rigurosa. Para muchos, la obra central del trío."
+    },
+    {
+     "titulo": "The Civil Surface",
+     "anio": 1974,
+     "estrellas_critica": "3",
+     "entradilla": "Reunión póstuma para grabar el material que había quedado en el cajón. Menos urgente que sus predecesores, pero cierra el catálogo con coherencia."
+    }
+   ],
+   "vecinos_escena": [
+    "Gong",
+    "Hatfield and the North",
+    "Kevin Ayers",
+    "Matching Mole",
+    "National Health",
+    "Robert Wyatt",
+    "Steve Hillage"
+   ]
+  },
+  {
+   "slug": "gong",
+   "nombre": "Gong",
+   "escena": "canterbury",
+   "tipo": "Group",
+   "pais": "FR",
+   "inicio": "1966",
+   "fin": null,
+   "mbid": "5927990e-34bb-493f-b5da-b7b28d43698f",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Gong_(banda)",
+   "entradilla_actual": "Daevid Allen, fundador expulsado de Soft Machine por un visado vencido, montó en Francia la mitología del planeta Gong. La trilogía Radio Gnome —Flying Teapot, Angel's Egg y You— es psicodelia de duendes sostenida por músicos temibles. Tras la salida de Allen, la banda derivó al fusion de Pierre Moerlen. Fueron parte del primer catálogo de Virgin junto a Oldfield: la red de Canterbury operando otra vez.",
+   "formaciones_mb": [
+    "Daevid Allen (lead vocals, original; 1967–1968)",
+    "Daevid Allen (guitar, original; 1967–1968)",
+    "Ziska Baum (original; 1967–1968)",
+    "Gilli Smyth (original; 1967–1968)",
+    "Loren Standlee (flute, original; 1967–1968)",
+    "Rachid Houari (percussion; 1969–1971)",
+    "Rachid Houari (drums (drum set); 1969–1971)",
+    "Gilli Smyth (original; 1969–1973)",
+    "Daevid Allen (lead vocals, original; 1969–1975)",
+    "Daevid Allen (guitar, original; 1969–1975)",
+    "Didier Malherbe (flute; 1969–1976)",
+    "Didier Malherbe (saxophone; 1969–1976)",
+    "Pip Pyle (drums (drum set); 1971–1971)",
+    "Christian Tritsch (electric bass guitar; 1971–1973)",
+    "Charles Hayward (drums (drum set); 1972–1972)",
+    "Mac Poole (drums (drum set); 1972–1972)",
+    "Diane Stewart (miembro; 1972–1972)",
+    "Rob Tait (drums (drum set); 1972–1972)",
+    "Laurie Allan (percussion; 1972–1973)",
+    "Laurie Allan (drums (drum set); 1972–1973)",
+    "Francis Moze (electric bass guitar; 1972–1973)",
+    "Francis Moze (piano; 1972–1973)",
+    "Tim Blake (keyboard; 1972–1975)",
+    "Rachid Houari (drums (drum set); 1973–1973)",
+    "Pierre Moerlen (drums (drum set); 1973–1974)",
+    "Steve Hillage (lead vocals; 1973–1975)",
+    "Steve Hillage (guitar; 1973–1975)",
+    "Mireille Bauer (percussion; 1973–1976)",
+    "Mike Howlett (electric bass guitar; 1973–1976)",
+    "Bill Bruford (miembro; 1974-11–1974-12)",
+    "Laurie Allan (drums (drum set); 1974–1974)",
+    "Chris Cutler (drums (drum set); 1974–1974)",
+    "Benoît Möerlen (percussion; 1974–1974)",
+    "Gilli Smyth (original; 1974–1974)",
+    "Diane Stewart (miembro; 1974–1974)",
+    "Rob Tait (drums (drum set); 1974–1974)",
+    "Miquette Giraudy (synthesizer; 1974–1975)",
+    "Brian Davison (drums (drum set); 1975–1975)",
+    "Dave Stewart (keyboard; 1975–1975)",
+    "Patrice Lemoine (keyboard; 1975–1976)",
+    "Pierre Moerlen (drums (drum set); 1975–1976)",
+    "Jorge Pinchevsky (violin; 1975–1976)",
+    "Sandy Colley (miembro; 1976–1976)",
+    "Francis Moze (electric bass guitar; 1976–1976)",
+    "Francis Moze (piano; 1976–1976)",
+    "Daevid Allen (lead vocals, original; 1977-05-28–1977-05-28)",
+    "Daevid Allen (guitar, original; 1977-05-28–1977-05-28)",
+    "Miquette Giraudy (synthesizer; 1977-05-28–1977-05-28)",
+    "Steve Hillage (lead vocals; 1977-05-28–1977-05-28)",
+    "Steve Hillage (guitar; 1977-05-28–1977-05-28)",
+    "Mike Howlett (electric bass guitar; 1977-05-28–1977-05-28)",
+    "Patrice Lemoine (keyboard; 1977-05-28–1977-05-28)",
+    "Didier Malherbe (flute; 1977-05-28–1977-05-28)",
+    "Didier Malherbe (saxophone; 1977-05-28–1977-05-28)",
+    "Pierre Moerlen (drums (drum set); 1977-05-28–1977-05-28)",
+    "Jorge Pinchevsky (violin; 1977-05-28–1977-05-28)",
+    "Gilli Smyth (original; 1977-05-28–1977-05-28)",
+    "Stefan Traub (vibraphone; 1987–1989)",
+    "Daevid Allen (lead vocals, original; 1990-04–1990-04)",
+    "Daevid Allen (guitar, original; 1990-04–1990-04)",
+    "Keith the Missile Bass (electric bass guitar; 1990-04–1990-04)",
+    "Stephan Lewry (guitar; 1990-04–1990-04)",
+    "Didier Malherbe (flute; 1990-04–1990-04)",
+    "Didier Malherbe (saxophone; 1990-04–1990-04)",
+    "Pip Pyle (drums (drum set); 1990-04–1990-04)",
+    "Gilli Smyth (original; 1990-04–1990-04)",
+    "Twink (keyboard; 1990-04–1990-04)",
+    "Graham Clark (miembro; 1991–1992)",
+    "Keith the Missile Bass (electric bass guitar; 1992–1994)",
+    "Shyamal Maitra (percussion; 1992–1994)",
+    "Shyamal Maitra (synthesizer; 1992–1994)",
+    "Pip Pyle (drums (drum set); 1992–1997)",
+    "Daevid Allen (lead vocals, original; 1992–2001)",
+    "Daevid Allen (guitar, original; 1992–2001)",
+    "Didier Malherbe (flute; 1992–2001)",
+    "Didier Malherbe (saxophone; 1992–2001)",
+    "Stephan Lewry (guitar; 1994–1998)",
+    "Tim Blake (keyboard; 1994–1999)",
+    "Mike Howlett (electric bass guitar; 1994–2001)",
+    "Gilli Smyth (original; 1994–2001)",
+    "Pierre Moerlen (drums (drum set); 1997–1999)",
+    "Mark Hewins (guitar; 1999–1999)",
+    "Mark Robson (synthesizer; 1999–2000)",
+    "Chris Taylor (drums (drum set); 1999–2001)",
+    "Theo Travis (flute; 1999–2001)",
+    "Theo Travis (saxophone; 1999–2001)",
+    "Howard Scarr (synthesizer; 2000–2001)",
+    "Howard Scarr (guitar; 2000–2001)",
+    "Daevid Allen (lead vocals, original; 2003–2004)",
+    "Daevid Allen (guitar, original; 2003–2004)",
+    "Orlando Allen (drums (drum set); 2003–2004)",
+    "Dharmawan Bradbridge (electric bass guitar; 2003–2004)",
+    "Cotton Casino (keyboard; 2003–2004)",
+    "河端一 (guitar; 2003–2004)",
+    "Josh Pollock (guitar; 2003–2004)",
+    "Gilli Smyth (original; 2004–2004)",
+    "津山篤 (electric bass guitar; 2004–2004)",
+    "吉田達也 (drums (drum set); 2004–2004)",
+    "Tim Blake (miembro; 2006–2006)",
+    "Miquette Giraudy (synthesizer; 2006–2006)",
+    "Steve Hillage (lead vocals; 2006–2006)",
+    "Steve Hillage (guitar; 2006–2006)",
+    "Mike Howlett (electric bass guitar; 2006–2006)",
+    "Didier Malherbe (flute; 2006–2006)",
+    "Didier Malherbe (saxophone; 2006–2006)",
+    "Gilli Smyth (original; 2006–2006)",
+    "Chris Taylor (drums (drum set); 2006–2006)",
+    "Theo Travis (flute; 2006–2006)",
+    "Theo Travis (saxophone; 2006–2006)",
+    "Daevid Allen (lead vocals, original; 2006–2015-03-13)",
+    "Daevid Allen (guitar, original; 2006–2015-03-13)",
+    "Fred Barley (drums (drum set); 2007–2007)",
+    "Gabriel Costa (electric bass guitar; 2007–2007)",
+    "Cotton Casino (keyboard; 2007–2007)",
+    "Fabio Golfetti (guitar; 2007–2007)",
+    "河端一 (guitar; 2007–2007)",
+    "Josh Pollock (guitar; 2007–2007)",
+    "Marcelo Ringel (flute; 2007–2007)",
+    "Marcelo Ringel (saxophone; 2007–2007)",
+    "津山篤 (electric bass guitar; 2007–2007)",
+    "吉田達也 (drums (drum set); 2007–2007)",
+    "Gilli Smyth (original; 2007–2013)",
+    "Mike Howlett (electric bass guitar; 2008–2009)",
+    "Theo Travis (flute; 2008–2010)",
+    "Theo Travis (saxophone; 2008–2010)",
+    "Miquette Giraudy (synthesizer; 2008–2012)",
+    "Steve Hillage (lead vocals; 2008–2012)",
+    "Steve Hillage (guitar; 2008–2012)",
+    "Chris Taylor (drums (drum set); 2008–2012)",
+    "Dave Sturt (fretless bass; 2009-06-05–act.)",
+    "Ian East (flute; 2009–act.)",
+    "Ian East (saxophone; 2009–act.)",
+    "Orlando Allen (drums (drum set); 2012–2014)",
+    "Fabio Golfetti (guitar; 2012–act.)",
+    "Cheb Nettles (percussion; 2014–act.)",
+    "Cheb Nettles (drums (drum set); 2014–act.)",
+    "Kavus Torabi (guitar; 2014–act.)",
+    "Mino Cinelu (miembro; ?–act.)",
+    "Burton Greene (miembro; ?–act.)",
+    "Bon Lozaga (miembro; ?–act.)",
+    "Charlie Mariano (miembro; ?–act.)",
+    "Hansford Rowe (miembro; ?–act.)",
+    "Darryl Way (miembro; ?–act.)",
+    "Allan Holdsworth (miembro; ?–?)"
+   ],
+   "conexiones_red": [
+    "Steve Hillage — miembro de: lead vocals (1973–1975)",
+    "Bill Bruford — miembro de: miembro (1974-11–1974-12)",
+    "Dave Stewart — miembro de: keyboard (1975–1975)",
+    "Virgin Records — fichó a: primer catálogo del sello, junto a Oldfield"
+   ],
+   "discografia": [
+    {
+     "titulo": "Magick Brother",
+     "anio": 1970,
+     "estrellas_critica": "3",
+     "entradilla": "El proto-Gong parisino de Allen y Smyth: psicodelia casera, humor dadá y más espíritu que medios. La mitología todavía no existe, pero el tono ya está."
+    },
+    {
+     "titulo": "Camembert électrique",
+     "anio": 1971,
+     "estrellas_critica": "4",
+     "entradilla": "El primer Gong pleno: riffs ácidos, glissando, y el humor patafísico ya organizado en banda de verdad. Para buena parte del culto, su disco más filoso fuera de la trilogía."
+    },
+    {
+     "titulo": "Continental Circus",
+     "anio": 1971,
+     "estrellas_critica": "3",
+     "entradilla": "Banda de sonido propia para el documental de motociclismo de Laperrousaz, grabada por el Gong temprano de Daevid Allen. Rock ácido más directo y crudo que los discos de la mitología Radio Gnome."
+    },
+    {
+     "titulo": "Angel’s Egg: Radio Gnome Invisible, Part 2",
+     "anio": 1973,
+     "estrellas_critica": "4",
+     "entradilla": "Segunda entrega de Radio Gnome y la más equilibrada entre delirio y músculo: los músicos temibles —guitarra, saxo, batería— cargan con la fantasía de Allen sin dejarla caer en la broma pura."
+    },
+    {
+     "titulo": "Flying Teapot: Radio Gnome Invisible, Part 1",
+     "anio": 1973,
+     "estrellas_critica": "4",
+     "entradilla": "Arranque de la trilogía Radio Gnome: la mitología del planeta Gong puesta en marcha, entre el chiste cósmico y una banda que toca en serio. Psicodelia de duendes con oficio debajo del disfraz."
+    },
+    {
+     "titulo": "You: Radio Gnome Invisible, Part 3",
+     "anio": 1974,
+     "estrellas_critica": "5",
+     "entradilla": "Cierre de la trilogía y su cima instrumental: los pasajes largos de trance espacial pesan más que la narrativa de duendes. El disco de Gong que más se cita fuera del círculo de fieles."
+    },
+    {
+     "titulo": "Shamal",
+     "anio": 1975,
+     "estrellas_critica": "3",
+     "entradilla": "Primer disco tras la salida de Allen: la mitología se apaga y el grupo deriva hacia el fusion que terminaría de definir Pierre Moerlen. Transición pulcra, con menos personaje y más ejecución."
+    },
+    {
+     "titulo": "Gazeuse!",
+     "anio": 1976,
+     "estrellas_critica": "3",
+     "entradilla": "El fusion de Pierre Moerlen ya sin restos del planeta Gong: percusiones al frente y virtuosismo instrumental como razón de ser. Otro grupo bajo el mismo nombre, y asumido como tal."
+    },
+    {
+     "titulo": "Expresso II",
+     "anio": 1978,
+     "estrellas_critica": "3",
+     "entradilla": "Segunda entrega del Gong percusivo de Moerlen: fusion pulcro con invitados de peso y ninguna conexión con el planeta. Correcto dentro de su liga."
+    },
+    {
+     "titulo": "Shapeshifter",
+     "anio": 1992,
+     "estrellas_critica": "3",
+     "entradilla": "Allen retoma el nombre y la mitología con la energía intacta: el regreso del planeta Gong en clave noventas, desprolijo y vital."
+    },
+    {
+     "titulo": "Zero to Infinity",
+     "anio": 2000,
+     "estrellas_critica": null,
+     "entradilla": "La formación clásica parcialmente reunida insiste en el universo Gong sin reinventarlo: oficio psicodélico para la parroquia."
+    },
+    {
+     "titulo": "Acid Motherhood",
+     "anio": 2004,
+     "estrellas_critica": null,
+     "entradilla": "Colaboración de estudio con la órbita de Acid Mothers Temple: ruido japonés sobre chasis Gong, más experimento que disco de banda."
+    },
+    {
+     "titulo": "2032",
+     "anio": 2009,
+     "estrellas_critica": "3",
+     "entradilla": "Allen y Hillage reunidos retoman la cronología del planeta Gong donde la dejó la trilogía. Regreso digno, más celebrado por el reencuentro que por las canciones."
+    },
+    {
+     "titulo": "I See You",
+     "anio": 2014,
+     "estrellas_critica": "4",
+     "entradilla": "El último Gong de Allen, ya con Kavus Torabi a bordo: más oscuro y urgente que la nostalgia esperable. Despedida a la altura."
+    },
+    {
+     "titulo": "Rejoice! I’m Dead!",
+     "anio": 2016,
+     "estrellas_critica": "4",
+     "entradilla": "El primer Gong sin Allen, bendecido por él en vida: Torabi convierte el duelo en psicodelia muscular y el grupo sale vivo de la prueba."
+    },
+    {
+     "titulo": "The Universe Also Collapses",
+     "anio": 2019,
+     "estrellas_critica": "4",
+     "entradilla": "La formación de Torabi ya con identidad propia: piezas largas, empuje casi kosmische y la mitología como telón de fondo antes que como guión."
+    },
+    {
+     "titulo": "Unending Ascending",
+     "anio": 2023,
+     "estrellas_critica": "4",
+     "entradilla": "Tercera entrega de la era Torabi, más cancionera y luminosa: el nombre Gong ya funciona como linaje vivo antes que como homenaje."
+    },
+    {
+     "titulo": "Bright Spirit",
+     "anio": 2026,
+     "estrellas_critica": null,
+     "entradilla": "Continuación de la era Torabi correspondiente a este año; al cierre de esta pasada no hay distancia crítica para situarla en el catálogo."
+    }
+   ],
+   "vecinos_escena": [
+    "Egg",
+    "Hatfield and the North",
+    "Kevin Ayers",
+    "Matching Mole",
+    "National Health",
+    "Robert Wyatt",
+    "Steve Hillage"
+   ]
+  },
+  {
+   "slug": "hatfield",
+   "nombre": "Hatfield and the North",
+   "escena": "canterbury",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1972-10",
+   "fin": "1975",
+   "mbid": "18283e97-41ed-40fb-8458-574ae420e405",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Hatfield_and_the_North",
+   "entradilla_actual": "La cima del Canterbury de segunda generación: Richard Sinclair (ex Caravan, futuro Camel) en voz y bajo, Dave Stewart en teclados, y las Northettes poniendo coros celestiales sobre métricas imposibles. Un supergrupo de la escena que duró lo justo para dejar dos discos de estudio. Cero éxito comercial entonces; canon absoluto hoy.",
+   "formaciones_mb": [
+    "David Sinclair (miembro; 1972-10–1973-01)",
+    "Phil Miller (miembro; 1972-10–1975-06)",
+    "Pip Pyle (miembro; 1972-10–1975-06)",
+    "Richard Sinclair (miembro; 1972-10–1975-06)",
+    "Dave Stewart (miembro; 1973-01–1975-06)",
+    "Sophia Domancich (miembro; 1990-03–1990-03)",
+    "Phil Miller (miembro; 1990-03–1990-03)",
+    "Pip Pyle (miembro; 1990-03–1990-03)",
+    "Richard Sinclair (miembro; 1990-03–1990-03)",
+    "Pip Pyle (miembro; 2005-01–2006-08-28)",
+    "Alex Maguire (miembro; 2005-01–act.)",
+    "Phil Miller (miembro; 2005-01–act.)",
+    "Richard Sinclair (miembro; 2005-01–act.)"
+   ],
+   "conexiones_red": [
+    "Richard Sinclair — miembro de: miembro (1972-10–1975-06)",
+    "Dave Stewart — miembro de: miembro (1973-01–1975-06)"
+   ],
+   "discografia": [
+    {
+     "titulo": "Hatfield and the North",
+     "anio": 1973,
+     "estrellas_critica": "5",
+     "entradilla": "Debut que define el Canterbury de segunda generación: la voz amable de Sinclair y los teclados de Stewart sobre compases que se pliegan sin avisar, con las Northettes flotando encima. Complejidad extrema servida con ligereza, como si no costara nada."
+    },
+    {
+     "titulo": "The Rotters’ Club",
+     "anio": 1975,
+     "estrellas_critica": "5",
+     "entradilla": "El segundo y último: la misma fórmula afinada hasta la cima. Coros celestiales sobre métricas imposibles, humor inglés y escritura de cámara; para muchos, el punto más alto de toda la escena de Canterbury."
+    }
+   ],
+   "vecinos_escena": [
+    "Egg",
+    "Gong",
+    "Kevin Ayers",
+    "Matching Mole",
+    "National Health",
+    "Robert Wyatt",
+    "Steve Hillage"
+   ]
+  },
+  {
+   "slug": "kevin-ayers",
+   "nombre": "Kevin Ayers",
+   "escena": "canterbury",
+   "tipo": "Person",
+   "pais": "GB",
+   "inicio": "1944-08-16",
+   "fin": "2013-02-18",
+   "mbid": "ad4ba77a-2382-4367-b687-89d38c58e16d",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Kevin_Ayers",
+   "entradilla_actual": "El dandy de Soft Machine: dejó la banda tras el primer disco y convirtió la desgana elegante en un género propio. Sus primeros discos solistas son la cara más luminosa y excéntrica de Canterbury, con canciones que esconden vanguardia bajo el encanto; por sus filas pasó un Mike Oldfield adolescente antes de Tubular Bells.",
+   "formaciones_mb": [
+    "The Wilde Flowers (miembro; 1964–1965-03)",
+    "Soft Machine (original; 1966–1968-11)",
+    "Kevin Ayers & The Whole World (miembro; ?–act.)"
+   ],
+   "conexiones_red": [
+    "David Bedford — arregló para: arreglador de The Whole World"
+   ],
+   "discografia": [
+    {
+     "titulo": "Joy of a Toy",
+     "anio": 1969,
+     "estrellas_critica": "4",
+     "entradilla": "El debut tras salir de Soft Machine: canciones de juguete con doble fondo, entre la nana psicodélica y la ironía de salón. Fija de entrada el personaje del dandy."
+    },
+    {
+     "titulo": "Shooting at the Moon",
+     "anio": 1970,
+     "estrellas_critica": "4",
+     "entradilla": "Firmado con The Whole World —la banda con un Mike Oldfield adolescente al bajo y David Bedford en teclados—: canción de dandy sobre abismos de vanguardia. La incubadora documentada de Tubular Bells y el Ayers más arriesgado."
+    },
+    {
+     "titulo": "Whatevershebringswesing",
+     "anio": 1972,
+     "estrellas_critica": "4",
+     "entradilla": "El equilibrio más fino entre el crooner indolente y el experimentador: arreglos generosos y su voz de barítono en el centro. Para muchos, su disco más redondo."
+    },
+    {
+     "titulo": "Bananamour",
+     "anio": 1973,
+     "estrellas_critica": "4",
+     "entradilla": "El cierre de su primera racha: humor, calipso torcido y guiños a sus pares de la escena sin perder la elegancia perezosa. Última entrega del Ayers esencial."
+    },
+    {
+     "titulo": "The Confessions of Dr. Dream and Other Stories",
+     "anio": 1974,
+     "estrellas_critica": "4",
+     "entradilla": "El salto a Island con banda más ambiciosa y producción de sello grande: la suite del doctor Dream muestra hasta dónde podía estirar el personaje sin romperlo. Para buena parte del culto, su último disco mayor."
+    },
+    {
+     "titulo": "Sweet Deceiver",
+     "anio": 1975,
+     "estrellas_critica": "3",
+     "entradilla": "La desgana empieza a ganarle a la elegancia: canciones más convencionales y un brillo de estudio caro que no siempre lo favorece. Primer aviso serio de declive."
+    },
+    {
+     "titulo": "Yes We Have No Mañanas, so Get Your Mañanas Today",
+     "anio": 1976,
+     "estrellas_critica": "3",
+     "entradilla": "De regreso en Harvest, un disco prolijo y accesible que recupera algo de encanto sin la vieja excentricidad. De lo más defendible de su segunda mitad de los setenta."
+    },
+    {
+     "titulo": "Rainbow Takeaway",
+     "anio": 1978,
+     "estrellas_critica": null,
+     "entradilla": "Oficio y encanto en dosis bajas: el dandy en piloto automático, con destellos sueltos que recuerdan por qué importaba."
+    },
+    {
+     "titulo": "That's What You Get Babe",
+     "anio": 1980,
+     "estrellas_critica": "2",
+     "entradilla": "Cierre de la etapa Harvest con producción de fin de década y material delgado. El punto más bajo reconocido de su discografía hasta entonces."
+    },
+    {
+     "titulo": "Diamond Jack and the Queen of Pain",
+     "anio": 1983,
+     "estrellas_critica": null,
+     "entradilla": "Grabado en su etapa española, lejos de la industria británica: pop liviano de acento mediterráneo, más simpático que necesario."
+    },
+    {
+     "titulo": "Deià...Vu",
+     "anio": 1984,
+     "estrellas_critica": null,
+     "entradilla": "Edición de circulación mínima desde su exilio mallorquín, de factura modesta. Pieza para completistas antes que capítulo real del catálogo."
+    },
+    {
+     "titulo": "As Close As You Think",
+     "anio": 1986,
+     "estrellas_critica": null,
+     "entradilla": "Otro título de los años perdidos: producción ochentosa y canciones que apenas registran el viejo encanto."
+    },
+    {
+     "titulo": "Falling Up",
+     "anio": 1988,
+     "estrellas_critica": "3",
+     "entradilla": "Retorno a un sello grande con sonido pulido de época; se lo leyó como recuperación parcial antes que como regreso real."
+    },
+    {
+     "titulo": "Still Life With Guitar",
+     "anio": 1992,
+     "estrellas_critica": "3",
+     "entradilla": "Formato despojado, voz gastada y dignidad recuperada: un disco menor pero honesto, que cerró su catálogo durante quince años."
+    },
+    {
+     "titulo": "The Unfairground",
+     "anio": 2007,
+     "estrellas_critica": "4",
+     "entradilla": "El regreso tras quince años de silencio y su despedida real: canciones otoñales con una corte de admiradores más jóvenes arropando la voz gastada. El encanto perezoso intacto, ahora con melancolía ganada."
+    }
+   ],
+   "vecinos_escena": [
+    "Egg",
+    "Gong",
+    "Hatfield and the North",
+    "Matching Mole",
+    "National Health",
+    "Robert Wyatt",
+    "Steve Hillage"
+   ]
+  },
+  {
+   "slug": "matching-mole",
+   "nombre": "Matching Mole",
+   "escena": "canterbury",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1971-10",
+   "fin": "1972-09",
+   "mbid": "5af8b5e4-8319-4f4b-9548-6e4e458ee923",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Matching_Mole",
+   "entradilla_actual": "El puente de Wyatt entre Soft Machine y su obra en solitario: banda propia, breve y de 1972, donde recuperó el canto y el humor que la nave madre había abandonado. Dos discos y una caída después, el proyecto quedó trunco, pero fijó el tono de todo lo que vino.",
+   "formaciones_mb": [
+    "David Sinclair (miembro; 1971-10–1972-03)",
+    "Bill MacCormick (miembro; 1971-10–1972-09)",
+    "Phil Miller (miembro; 1971-10–1972-09)",
+    "Robert Wyatt (miembro; 1971-10–1972-09)",
+    "Dave MacRae (miembro; 1972-03–1972-09)"
+   ],
+   "conexiones_red": [
+    "Robert Wyatt — miembro de: miembro (1971-10–1972-09)"
+   ],
+   "discografia": [
+    {
+     "titulo": "Matching Mole",
+     "anio": 1972,
+     "estrellas_critica": "4",
+     "entradilla": "El debut devuelve a Wyatt la canción que Soft Machine le había quitado: melancolía, chiste interno y Canterbury en estado puro. «O Caroline» es su corazón evidente."
+    },
+    {
+     "titulo": "Matching Mole’s Little Red Record",
+     "anio": 1972,
+     "estrellas_critica": "3",
+     "entradilla": "Segundo y último disco, más eléctrico y político, con el juego maoísta ya desde la tapa. El puente desde Soft Machine se termina de cruzar aquí, justo antes de la caída."
+    }
+   ],
+   "vecinos_escena": [
+    "Egg",
+    "Gong",
+    "Hatfield and the North",
+    "Kevin Ayers",
+    "National Health",
+    "Robert Wyatt",
+    "Steve Hillage"
+   ]
+  }
+ ]
+}
