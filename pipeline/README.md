@@ -174,3 +174,26 @@ mezclada. Un artista con menos de 3 coincidencias queda sin dato (`mia`, `nirvan
 **No usar un porcentaje como umbral**: los artistas con catálogo corto tienen un techo bajo por
 construcción (Museo Rosenbach tiene 17 pistas en el atlas y Last.fm devuelve 50 tracks, así que
 nunca pasaría del 34 % aunque todo sea correcto). El criterio es el número absoluto de cruces.
+
+## Escena «RIO y zeuhl» (19-sep-2026)
+
+20 artistas del ala dura del progresivo europeo, que el atlas no tenía: Magma y su
+descendencia (Zao, Weidorje, Eskaton), las cinco del primer festival Rock in Opposition de
+1978 (Henry Cow, Univers Zero, Etron Fou Leloublan, Stormy Six, Samla Mammas Manna) y la rama
+ampliada (Art Zoyd, Present, Aksak Maboul, Art Bears, Slapp Happy, Cassiber, The Muffins,
+Thinking Plague, 5uu's, Miriodor y 高円寺百景). Escena `rio`, fase 9; 140 fichas de álbum con
+historia larga, 23 exclusiones, charts siempre `s.d.`. Receta «Ampliar una escena».
+
+Dos resoluciones que hubo que confirmar a mano en `data/mbid_map.json`:
+
+- `present` quedó en «revisar» porque **The Wedding Present** puntúa más alto por coincidencia
+  parcial de nombre; la desambiguación de MusicBrainz («Belgian progressive rock group») decide.
+- `koenjihyakkei` no devolvía nada: MusicBrainz la indexa con su nombre japonés, **高円寺百景**.
+  Las tres grafías («Koenji Hyakkei», «Kōenji Hyakkei», 高円寺百景) devuelven el mismo artista
+  con score 100 y país JP. El seed guarda el nombre japonés para que futuras corridas resuelvan.
+
+La salvaguarda de Last.fm volvió a actuar sola: `zao` devolvía el Zao estadounidense de
+metalcore y quedó descartado por el cruce contra el tracklist, sin intervención.
+
+`build_tareas_destacadas.py --pendientes` arma lotes solo con los álbumes que aún no están en
+`data/destacadas.json` (ni declarados sin destacadas), igual que `--pendientes` en historias.

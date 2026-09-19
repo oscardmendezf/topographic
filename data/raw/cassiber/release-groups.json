@@ -1,0 +1,83 @@
+{
+  "release-group-count": 7,
+  "release-groups": [
+    {
+      "secondary-types": [],
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "first-release-date": "1982",
+      "id": "5c817ad4-daf4-38fa-9da5-413003ed9b49",
+      "title": "Man or Monkey",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": ""
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "first-release-date": "2013-11-22",
+      "title": "1982–1992 (30th Anniversary Cassiber Box)",
+      "id": "65085368-a59c-4d97-8479-43a80a129342",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7663042b-55aa-46aa-bea5-4839a76f849a",
+      "title": "Live in Tokyo",
+      "first-release-date": "1997",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album"
+    },
+    {
+      "secondary-types": [],
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "first-release-date": "1984",
+      "id": "839176eb-2940-317f-add3-7801af9b37ac",
+      "title": "Beauty and the Beast",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": ""
+    },
+    {
+      "first-release-date": "1986",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "b0d0e5c0-ac13-4004-bfab-6603cc99d5a0",
+      "title": "Perfect Worlds",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "dbd98a9a-dc29-44e6-8f83-27a1c2a62c77",
+      "title": "The Way It Was",
+      "first-release-date": "2012-11-30",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type": "Album"
+    },
+    {
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "A Face We All Know",
+      "id": "e2768cce-7e97-3559-b593-df76ac426a33",
+      "first-release-date": "1990",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type": "Album"
+    }
+  ]
+}

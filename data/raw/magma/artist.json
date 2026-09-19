@@ -1,0 +1,1334 @@
+{
+  "name": "Magma",
+  "life-span": {
+    "ended": false,
+    "begin": "1969",
+    "end": null
+  },
+  "gender": null,
+  "id": "7f89e84d-4c35-4d53-a965-4f3ce1c4ef4f",
+  "disambiguation": "French progressive rock band",
+  "relations": [
+    {
+      "attribute-values": {},
+      "type-id": "6ed4bfc4-0a0d-44c0-b025-b7fc4d900b67",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null,
+      "attributes": [],
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "founder",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Christian Vander",
+        "id": "0933c7f6-aaff-4bd8-bb69-deb3088db745",
+        "disambiguation": "French drummer and musician",
+        "type": "Person",
+        "country": "FR",
+        "sort-name": "Vander, Christian"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1969",
+      "artist": {
+        "id": "3cc98cb3-318a-4d94-8992-6f54b5824971",
+        "disambiguation": "",
+        "name": "Klaus Blasquiz",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Blasquiz, Klaus",
+        "country": "FR",
+        "type": "Person"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true,
+      "source-credit": "",
+      "end": "1980",
+      "direction": "backward"
+    },
+    {
+      "begin": "1969",
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Vander, Christian",
+        "type": "Person",
+        "country": "FR",
+        "id": "0933c7f6-aaff-4bd8-bb69-deb3088db745",
+        "disambiguation": "French drummer and musician",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Christian Vander"
+      },
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1972",
+      "artist": {
+        "sort-name": "Vander, Stella",
+        "country": "FR",
+        "type": "Person",
+        "id": "23022b25-31dc-41fc-83bf-76577eac2fdc",
+        "disambiguation": "French singer",
+        "name": "Stella Vander",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": false,
+      "source-credit": "",
+      "direction": "backward",
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "end": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1973",
+      "artist": {
+        "id": "e4c35ff6-729b-4978-bd4a-137405b618d4",
+        "disambiguation": "French jazz guitarist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Marc Fosset",
+        "sort-name": "Fosset, Marc",
+        "type": "Person",
+        "country": "FR"
+      },
+      "type": "member of band"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "artist": {
+        "id": "9762a817-e9cb-440b-9243-ae845c9e0c8f",
+        "disambiguation": "French bassist",
+        "name": "Bernard Paganotti",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Paganotti, Bernard",
+        "country": "FR",
+        "type": "Person"
+      },
+      "begin": "1974",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1977",
+      "direction": "backward",
+      "source-credit": "",
+      "ended": true
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1996",
+      "artist": {
+        "disambiguation": "",
+        "id": "2d556d1b-7fb5-4a74-8cfc-f858d472ed9b",
+        "name": "Philippe Bussonnet",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Bussonnet, Philippe",
+        "country": "FR",
+        "type": "Person"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "direction": "backward",
+      "end": "2008"
+    },
+    {
+      "type": "member of band",
+      "artist": {
+        "country": "FR",
+        "type": "Person",
+        "sort-name": "Paganotti, Antoine",
+        "name": "Antoine Paganotti",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "French drummer and vocalist",
+        "id": "0425a8b2-2d67-460e-8aa1-f5165a36f4c7"
+      },
+      "begin": "2002",
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "artist",
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2002",
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Paganotti, Himiko",
+        "type": "Person",
+        "country": "FR",
+        "disambiguation": "French vocalist",
+        "id": "ae58c988-6127-477b-b97a-ef1cc9d9d8d0",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Himiko Paganotti"
+      },
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "target-type": "artist",
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jean-Pierre Lembert",
+        "disambiguation": "French bassist",
+        "id": "e64959ea-f18f-4c9d-aa83-b5c1a94511ea",
+        "type": "Person",
+        "country": null,
+        "sort-name": "Lembert, Jean-Pierre"
+      },
+      "begin": null,
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "direction": "backward",
+      "end": "1972",
+      "source-credit": "",
+      "ended": true
+    },
+    {
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "",
+        "id": "479caa7b-40ce-41cb-965e-2f198014bcea",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Rudy Blas",
+        "sort-name": "Blas, Rudy",
+        "type": "Person",
+        "country": null
+      },
+      "begin": null,
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attribute-credits": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Borghi, Emmanuel",
+        "country": "FR",
+        "type": "Person",
+        "id": "883f6001-ba97-4ba1-a27b-a678e3523cc4",
+        "disambiguation": "French pianist / keyboardist",
+        "name": "Emmanuel Borghi",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "artist": {
+        "sort-name": "Cahen, François",
+        "country": "FR",
+        "type": "Person",
+        "disambiguation": "",
+        "id": "3d6e831a-fd68-4108-b265-2e4a0b301cca",
+        "name": "François Cahen",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "artist": {
+        "sort-name": "d’Oelsnitz, Frederic",
+        "type": "Person",
+        "country": "FR",
+        "disambiguation": "French pianist",
+        "id": "0185a57d-6ec9-4cfa-858c-a027ba178aa6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Frederic d’Oelsnitz"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Sylvie Fisichella",
+        "disambiguation": "",
+        "id": "56e37c18-d1cb-4d34-8237-fd1e04a5cf87",
+        "type": "Person",
+        "country": "FR",
+        "sort-name": "Fisichella, Sylvie"
+      },
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "country": "FR",
+        "sort-name": "Gauthier, Patrick",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Patrick Gauthier",
+        "disambiguation": "",
+        "id": "6fb05cbd-4288-4f8e-b7c3-1ff6fdeae3c0"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "artist",
+      "attributes": [],
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "artist": {
+        "country": "FR",
+        "type": "Person",
+        "sort-name": "Graillier, Michel",
+        "name": "Michel Graillier",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "9bb97ca2-925b-42fd-956d-f6610129c444",
+        "disambiguation": "French jazz pianist"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "artist": {
+        "sort-name": "Lasry, Teddy",
+        "country": "FR",
+        "type": "Person",
+        "id": "017ef4b6-2dc3-42cd-8a94-ff27caa742aa",
+        "disambiguation": "",
+        "name": "Teddy Lasry",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null,
+      "direction": "backward",
+      "ended": false,
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Laurent Thibault",
+        "disambiguation": "",
+        "id": "d9ce3c56-c7cc-445b-b45d-93f9660b58d3",
+        "type": "Person",
+        "country": "FR",
+        "sort-name": "Thibault, Laurent"
+      },
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "country": "FR",
+        "sort-name": "Top, Jannick",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jannick Top",
+        "disambiguation": "",
+        "id": "d37d0870-f6cc-4f17-8d84-353429665794"
+      },
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null,
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "artist": {
+        "sort-name": "Vander, Julie",
+        "country": "FR",
+        "type": "Person",
+        "id": "6ee9504b-fddd-47d0-b960-5e3d96c4d1aa",
+        "disambiguation": "vocalist",
+        "name": "Julie Vander",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band"
+    },
+    {
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000191376",
+        "id": "1834a47b-6b13-4232-a1d5-6493dc600644"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "type": "allmusic",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "bandcamp",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "8f905cb9-1db0-4a42-ad7a-44ce09445ebd",
+        "resource": "https://seventhrecordsmagma.bandcamp.com/"
+      },
+      "attribute-values": {},
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "target-credit": ""
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "id": "1b55d17b-401e-4136-963f-16b148da1924",
+        "resource": "https://www.bandsintown.com/a/15513"
+      },
+      "attribute-values": {},
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "bandsintown",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type": "BBC Music page",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "end": "2020-11-19",
+      "direction": "forward",
+      "ended": true,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "url": {
+        "id": "53390baf-8783-4606-969d-4dcbdff8ad5b",
+        "resource": "https://www.bbc.co.uk/music/artists/7f89e84d-4c35-4d53-a965-4f3ce1c4ef4f"
+      },
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "da4c072a-cc1e-47c8-9f3e-716d24b19115",
+        "resource": "http://ddesassis.free.fr/magma/index.htm"
+      },
+      "type": "biography",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "type": "biography",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "url": {
+        "id": "693f71b3-519e-43bd-8b86-6f0fbd38ce0c",
+        "resource": "http://www.seventhrecords.com/MAGMA/biomagma.html"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type": "discography page",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "resource": "http://petit.sebastien.free.fr/magma.html",
+        "id": "2c224cf6-0f67-4b31-906c-9f696bfc0142"
+      },
+      "target-credit": "",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "discogs",
+      "url": {
+        "resource": "https://www.discogs.com/artist/179749",
+        "id": "862c6ecc-3c56-43cd-828b-de05a6305a73"
+      },
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "free streaming",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "url": {
+        "id": "5d956f9f-a39b-4eac-9db9-a71f3b372c70",
+        "resource": "https://open.spotify.com/artist/5JeJHWfm2ZxNd09hrIf7Zb"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "free streaming",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "id": "27aac535-83c2-4208-9cf8-dd31050e16e0",
+        "resource": "https://www.deezer.com/artist/11111"
+      },
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "image",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:Magma_concert_strasbourg_2.jpg",
+        "id": "676c83cd-a825-4e32-8cf7-ce9ebdbbd889"
+      },
+      "attribute-values": {},
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "target-credit": ""
+    },
+    {
+      "type": "last.fm",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "url": {
+        "resource": "https://www.last.fm/music/Magma",
+        "id": "c6b8c758-3e15-41a8-82e1-687216a2c621"
+      },
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "lyrics",
+      "attribute-values": {},
+      "url": {
+        "id": "dbebd9f8-60e6-46eb-910a-88f16acf8644",
+        "resource": "https://genius.com/artists/Magma"
+      },
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "type": "myspace",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://myspace.com/magmaofficial",
+        "id": "fc44d5fb-f04b-4196-a034-fd7c16034a7e"
+      }
+    },
+    {
+      "type": "official homepage",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-values": {},
+      "url": {
+        "id": "01862ce4-7b3d-4fcc-aa88-73646ed38e58",
+        "resource": "https://www.magmamusic.org/"
+      }
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "url": {
+        "id": "f0952053-4191-4f1d-88cd-b5bfd549c069",
+        "resource": "http://id.loc.gov/authorities/names/n79040845"
+      },
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "id": "bbcf1548-3dc0-43a4-8c85-86bf4aa51166",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb12540897j"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "c171cc23-a550-42a8-af3b-6b573d6c6959",
+        "resource": "https://d-nb.info/gnd/10286305-2"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/magma",
+        "id": "d3143451-38cf-441a-a78c-2d2ac19dc72d"
+      },
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "id": "15579622-65b6-4ad5-b4e2-0d8e169d1511",
+        "resource": "https://www.45cat.com/artist/magma"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "url": {
+        "resource": "https://www.jazzmusicarchives.com/artist/magma",
+        "id": "24034234-30c8-4559-946a-234252273de7"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "url": {
+        "id": "85cdc388-f25e-4829-a90b-121dfe4197a7",
+        "resource": "https://www.musik-sammler.de/artist/magma/"
+      },
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.muziekweb.nl/Link/M00000046985/",
+        "id": "c3315a15-9b35-4cb3-9914-5fe8ce829f3a"
+      },
+      "attribute-values": {},
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "attribute-values": {},
+      "url": {
+        "id": "be1818d7-a184-4c9a-bd87-90fe97a1ac9f",
+        "resource": "https://www.progarchives.com/artist.asp?id=646"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Magma",
+        "id": "664c92f0-727c-4f87-8c1e-a1c4a7179fbf"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.whosampled.com/Magma/",
+        "id": "1a81f9ce-32b8-4b6e-a92a-dbd963dda966"
+      },
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "url": {
+        "id": "b8269001-0e6d-44f0-8b11-e8e5dbdc7ca1",
+        "resource": "https://www.worldcat.org/identities/lccn-n79040845/"
+      },
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "url": {
+        "id": "e4d99b89-1461-4597-81f9-1138720ac42b",
+        "resource": "http://www.encyclopedisque.fr/artiste/17236.html"
+      },
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/magma/74967",
+        "id": "808a991c-8669-4067-a321-a92502ecfa69"
+      },
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "purchase for download"
+    },
+    {
+      "target-credit": "",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "attribute-values": {},
+      "url": {
+        "id": "a279f95f-2e3d-4112-9cb8-efff6f93f633",
+        "resource": "https://secondhandsongs.com/artist/30364"
+      },
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "secondhandsongs",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "type": "setlistfm",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-values": {},
+      "url": {
+        "id": "c62750cc-50ad-4c2f-b8f1-fe8a734846d5",
+        "resource": "https://www.setlist.fm/setlists/magma-23d6a06b.html"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "social network",
+      "url": {
+        "resource": "https://www.facebook.com/MAGMA-123777837633298",
+        "id": "099f9c47-2a2f-4c65-b314-89126cf85fa9"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "social network",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "resource": "https://www.facebook.com/zeuhlwortzmekanik",
+        "id": "e99469a3-bda0-4dea-b4a9-6d434d84a8f3"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "social network",
+      "url": {
+        "id": "488c2dc6-0589-4fa0-8866-09e370293511",
+        "resource": "https://www.instagram.com/magma.officiel/"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-credit": "",
+      "url": {
+        "id": "1c9658c9-ac85-4776-bdec-19a3e437d9be",
+        "resource": "https://www.songkick.com/artists/453790"
+      },
+      "attribute-values": {},
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "type": "songkick",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type": "streaming",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "url": {
+        "id": "90ba068c-a32b-431c-bf9e-d6f7009feb02",
+        "resource": "https://music.apple.com/fr/artist/67918583"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": ""
+    },
+    {
+      "type": "streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "url": {
+        "id": "fa78d822-cd29-4bfb-b7e8-543439113241",
+        "resource": "https://tidal.com/artist/3529214"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/magma/74967",
+        "id": "808a991c-8669-4067-a321-a92502ecfa69"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "streaming"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "VIAF",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "6cae5ac6-7080-4d5b-b84c-e710b356648e",
+        "resource": "http://viaf.org/viaf/152291934"
+      },
+      "attribute-values": {},
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "url": {
+        "id": "4411e541-4dcc-4b4e-ac62-845fd5346794",
+        "resource": "http://viaf.org/viaf/153735379"
+      },
+      "target-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "VIAF",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "type": "wikidata",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q914489",
+        "id": "209fb725-6ade-4e26-be97-f583da4d3508"
+      }
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCL20x0hIbKO9y9sDIVG3p1A",
+        "id": "45c3c745-b1d0-4417-a077-8b8e64b6a8da"
+      },
+      "target-credit": "",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "youtube"
+    }
+  ],
+  "country": "FR",
+  "type": "Group",
+  "sort-name": "Magma",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [
+    {
+      "name": "Univeria Zekt",
+      "type-id": null,
+      "locale": null,
+      "type": null,
+      "end": null,
+      "sort-name": "Univeria Zekt",
+      "begin": null,
+      "primary": null,
+      "ended": false
+    },
+    {
+      "name": "VanderTop",
+      "type-id": null,
+      "locale": null,
+      "type": null,
+      "end": null,
+      "sort-name": "Vandertop",
+      "begin": null,
+      "primary": null,
+      "ended": false
+    },
+    {
+      "sort-name": "Vandertop",
+      "end": null,
+      "type": null,
+      "ended": false,
+      "primary": null,
+      "begin": null,
+      "type-id": null,
+      "name": "Vandertop",
+      "locale": null
+    }
+  ],
+  "end-area": null,
+  "area": {
+    "sort-name": "France",
+    "type": null,
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "FR"
+    ],
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "type-id": null,
+    "name": "France"
+  },
+  "ipis": [],
+  "begin-area": {
+    "type": null,
+    "sort-name": "Paris",
+    "type-id": null,
+    "name": "Paris",
+    "iso-3166-2-codes": [
+      "FR-75"
+    ],
+    "disambiguation": "",
+    "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e"
+  },
+  "isnis": [
+    "0000000107064881",
+    "0000000123588378"
+  ],
+  "gender-id": null
+}

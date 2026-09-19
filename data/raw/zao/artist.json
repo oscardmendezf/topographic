@@ -1,0 +1,290 @@
+{
+  "end-area": null,
+  "gender-id": null,
+  "isnis": [],
+  "ipis": [],
+  "begin-area": {
+    "iso-3166-2-codes": [
+      "FR-75"
+    ],
+    "name": "Paris",
+    "type-id": null,
+    "disambiguation": "",
+    "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+    "type": null,
+    "sort-name": "Paris"
+  },
+  "area": {
+    "type-id": null,
+    "name": "France",
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "FR"
+    ],
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "type": null,
+    "sort-name": "France"
+  },
+  "aliases": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "ZAO",
+  "type": "Group",
+  "country": "FR",
+  "disambiguation": "French \"Zeuhl\" band from 1970s",
+  "id": "5f26d6b7-95df-420b-bbfb-5e8a86800ae8",
+  "gender": null,
+  "life-span": {
+    "end": "2012-01-17",
+    "ended": true,
+    "begin": "1971"
+  },
+  "name": "ZAO",
+  "relations": [
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ],
+      "target-type": "artist",
+      "begin": "1971",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "type": "member of band",
+      "artist": {
+        "country": "FR",
+        "type": "Person",
+        "sort-name": "Cahen, François",
+        "name": "François Cahen",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "3d6e831a-fd68-4108-b265-2e4a0b301cca",
+        "disambiguation": ""
+      }
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1971",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Yochk’o Seffer",
+        "id": "42e1e0de-e99b-4070-aacd-1ed065d3af9a",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "FR",
+        "sort-name": "Seffer, Yochk’o"
+      },
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ]
+    },
+    {
+      "direction": "backward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "country": "FR",
+        "type": "Person",
+        "sort-name": "Lockwood, Didier",
+        "name": "Didier Lockwood",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "French jazz violinist",
+        "id": "bbd11954-09aa-42af-9505-998d6bdc0b99"
+      },
+      "begin": "1976",
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null,
+      "attributes": [],
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "country": "FR",
+        "type": "Person",
+        "sort-name": "Dugrenot, Joël",
+        "name": "Joël Dugrenot",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "954dc95f-d895-4292-9d96-6b013c5cf367",
+        "disambiguation": ""
+      }
+    },
+    {
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mauricia Platon",
+        "disambiguation": "",
+        "id": "6067315b-b1a7-4680-86f1-2f9d9671f127",
+        "type": "Person",
+        "country": null,
+        "sort-name": "Platon, Mauricia"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "id": "b393cab7-84c5-4316-8a07-7fd7bd928fc5",
+        "disambiguation": "",
+        "name": "Gérard Prévost",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Prévost, Gérard",
+        "country": "FR",
+        "type": "Person"
+      },
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "direction": "backward",
+      "end": null,
+      "attributes": [],
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "",
+        "id": "0489f66f-59d2-47b4-884d-9c9868a071af",
+        "type-id": null,
+        "name": "Jean-Yves Rigaud",
+        "sort-name": "Rigaud, Jean-Yves",
+        "type": null,
+        "country": null
+      }
+    },
+    {
+      "direction": "backward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jean-My Truong",
+        "id": "2955eda7-6cc6-4c0b-a927-a044ee84a974",
+        "disambiguation": "Musician",
+        "type": "Person",
+        "country": "FR",
+        "sort-name": "Truong, Jean-My"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "discogs",
+      "url": {
+        "resource": "https://www.discogs.com/artist/393494",
+        "id": "76c25f6d-d8c9-47a5-bed1-6ed9226971ad"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/zao_f2",
+        "id": "261e8c03-1881-4025-9622-9de9cc82a075"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q3082167",
+        "id": "b90c8af1-774a-4dc6-b79c-2a679e86ad0d"
+      },
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "wikidata",
+      "attributes": [],
+      "target-type": "url"
+    }
+  ]
+}

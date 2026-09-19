@@ -1,0 +1,297 @@
+{
+  "gender-id": null,
+  "sort-name": "Stormy Six",
+  "country": "IT",
+  "ipis": [],
+  "gender": null,
+  "area": {
+    "type-id": null,
+    "sort-name": "Italy",
+    "disambiguation": "",
+    "type": null,
+    "iso-3166-1-codes": [
+      "IT"
+    ],
+    "name": "Italy",
+    "id": "c6500277-9a3d-349b-bf30-41afdbf42add"
+  },
+  "aliases": [
+    {
+      "end": null,
+      "begin": null,
+      "primary": null,
+      "name": "Stormy 6",
+      "sort-name": "Stormy 6",
+      "ended": false,
+      "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+      "locale": null,
+      "type": "Search hint"
+    }
+  ],
+  "relations": [
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "id": "014d047d-9d97-44b7-9595-656256c9e8d7",
+        "name": "Franco Fabbri",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "IT",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Fabbri, Franco"
+      },
+      "type": "member of band",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward"
+    },
+    {
+      "artist": {
+        "name": "Massimo Villa",
+        "id": "b1de8321-6eda-44f7-862a-a085718e10c0",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Villa, Massimo",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "IT"
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "url": {
+        "id": "6b3ba887-9792-4b69-8e4e-e9ca231ccf97",
+        "resource": "https://www.allmusic.com/artist/mn0000910283"
+      },
+      "ended": false,
+      "type": "allmusic",
+      "end": null,
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type": "discogs",
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "url": {
+        "id": "8b074ab1-9cc2-444f-8bdb-8fa1e212c395",
+        "resource": "https://www.discogs.com/artist/282973"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "url": {
+        "id": "ee6aa46e-3d6a-400a-b3f3-c8d710790e8f",
+        "resource": "http://www.francofabbri.net/pagine/Stormy.htm"
+      },
+      "ended": false,
+      "type": "official homepage",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "type": "other databases",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "http://discografia.dds.it/scheda_discografia.php?ida=5668",
+        "id": "735d834a-67e5-443f-97c3-5f343123d717"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "url": {
+        "id": "ef17cab3-51b8-4d05-904a-3d909fc9e5f0",
+        "resource": "http://id.loc.gov/authorities/names/no97010697"
+      },
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "type": "other databases",
+      "end": null,
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "type": "other databases",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/stormy_six",
+        "id": "9fbb956a-de00-4298-a615-33bf22c20342"
+      },
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "type": "other databases",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "ce514500-2a09-4758-9803-cbb6133c35e2",
+        "resource": "https://www.progarchives.com/artist.asp?id=2561"
+      },
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-no97010697",
+        "id": "e32fc774-82c6-4219-8d57-b882ec0f5bf1"
+      },
+      "ended": false,
+      "type": "other databases",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "type": "setlistfm",
+      "source-credit": "",
+      "url": {
+        "id": "ff94c23b-733c-4f79-bd64-a7cbb649b90f",
+        "resource": "https://www.setlist.fm/setlists/stormy-six-63d4b273.html?page=4"
+      },
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "url": {
+        "id": "58f54f9e-02c7-4257-bf7f-f3bc26a5aaca",
+        "resource": "http://viaf.org/viaf/144555672"
+      },
+      "type": "VIAF",
+      "end": null,
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "wikidata",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q3974546",
+        "id": "2adc002d-764f-4eb1-a87b-c2171f2af5b9"
+      },
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward"
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "life-span": {
+    "ended": true,
+    "end": "1983",
+    "begin": "1966"
+  },
+  "disambiguation": "",
+  "type": "Group",
+  "end-area": null,
+  "name": "Stormy Six",
+  "isnis": [],
+  "id": "7b3e79ae-431d-4af5-9868-4086694252fe",
+  "begin-area": {
+    "name": "Milano",
+    "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+    "sort-name": "Milano",
+    "type-id": null,
+    "type": null,
+    "disambiguation": ""
+  }
+}

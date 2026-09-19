@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "art-zoyd-marathonnerre-i"
+titulo: "Marathonnerre I"
+artista: "Art Zoyd"
+artista_slug: "art-zoyd"
+anio_ficha: 1992
+era: "siguiente"
+escena: "rio"
+mb_rgid: "7078873b-ea14-33cd-9030-9a205c441a97"
+primer_lanzamiento: "1992"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Buen material disperso en una estructura que no obliga a nada."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Lanzamiento de catálogo propio para un público ya convencido."
+historia: "editorial"
+---
+
+Primera mitad de un proyecto largo repartido en dos discos, con el sampler ya instalado en el centro del sonido y las cuerdas reducidas a material de recorte. Hay una idea clara —la maratón como forma, la resistencia como tema— y tramos que la sostienen, junto a otros que son puro tránsito. Se escucha mejor entendido como documento de un proceso que como disco cerrado.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Marathonnerre es un proyecto largo repartido en dos discos publicados en 1992, y este primer volumen es donde se plantean sus reglas. El nombre condensa maratón y trueno, y esa mezcla describe bien el propósito: una obra pensada como prueba de resistencia, tanto para quien la toca como para quien la escucha, hecha de episodios que se suceden sin descanso durante mucho más tiempo del que un disco convencional pide.
+
+La idea existe y se sostiene en varios tramos. «1. Szene» y «2. Szene», las dos piezas más extensas, están nombradas como escenas de un teatro que nunca vemos, y entre ellas «1. Zwischenspiel» funciona como interludio breve; la nomenclatura alemana sugiere una estructura dramática que el grupo maneja sin explicar. «Complainte», «Danse de Mort» y «Tocsin» retoman el imaginario medieval y de catástrofe que Art Zoyd venía usando desde los ochenta, ahora tratado con medios completamente distintos. «Alléluia» y «Barbares» ponen el contraste entre lo litúrgico y lo bárbaro que atraviesa todo el proyecto. «Prophase», como antes «Anaphase» en Nosferatu, toma su nombre de la división celular y confirma ese sistema paralelo de referencias biológicas. El problema no es la falta de ideas sino la irregularidad: junto a los tramos que sostienen la apuesta hay otros que son puro tránsito entre episodios.
+
+## La producción
+
+Los registros verificados no consignan productor, ingeniero, estudio ni artista gráfico, de modo que no corresponde atribuir la realización a nadie en concreto. Lo que define el disco es una decisión de medios que ya estaba anunciada en Nosferatu y que acá se completa: el sampler pasa al centro del sonido y las cuerdas quedan reducidas a material de recorte.
+
+Eso significa que los violines y cellos que antes tocaban partes escritas ahora aparecen como muestras, fragmentos capturados y reinsertados en un montaje, con la textura del instrumento presente pero sin el gesto del intérprete. El efecto es ambiguo. Por un lado, permite densidades y velocidades imposibles para un conjunto humano, y las piezas más rítmicas —«Firebirds», «Konzo Bélé»— aprovechan eso. Por otro, se pierde la respiración que hacía físicos los discos anteriores: donde había roce de arco ahora hay bloque digital. La escritura sigue siendo por acumulación y corte, pero el corte es ahora literal, hecho con tijeras de estudio, y se oye.
+
+## Recepción y legado
+
+Llegó cuando buena parte del público que había seguido al grupo en el circuito de Rock in Opposition ya se había bajado, y el que quedaba se dividió entre quienes celebraron la actualización tecnológica y quienes la leyeron como pérdida. La distancia permite una lectura más tranquila: es un documento de proceso más que un disco cerrado, el registro de un taller probando qué puede hacer con herramientas nuevas.
+
+Como tal tiene valor y conviene abordarlo así, sin esperar la contundencia de Phase IV ni la precisión de Les Espaces inquiets. Dentro del catálogo ocupa el lugar del experimento de transición entre el Art Zoyd de instrumentistas y el Art Zoyd de estudio que culminaría en u-B-I-Q-U-e. El segundo volumen, publicado el mismo año, repite el procedimiento con menos hallazgos, así que este es el que conserva el interés de la primera vez.

@@ -1,0 +1,176 @@
+{
+ "id": "rio-magma",
+ "escena": "rio",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "magma",
+   "nombre": "Magma",
+   "tipo": "Group",
+   "pais": "FR",
+   "inicio": "1969",
+   "fin": null,
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Magma_(banda)",
+   "formaciones_mb": [
+    "Klaus Blasquiz (miembro; 1969–1980)",
+    "Christian Vander (miembro; 1969–act.)",
+    "Stella Vander (miembro; 1972–act.)",
+    "Marc Fosset (miembro; 1973–?)",
+    "Bernard Paganotti (miembro; 1974–1977)",
+    "Philippe Bussonnet (miembro; 1996–2008)",
+    "Antoine Paganotti (miembro; 2002–act.)",
+    "Himiko Paganotti (miembro; 2002–act.)",
+    "Jean-Pierre Lembert (electric bass guitar; ?–1972)",
+    "Rudy Blas (guitar; ?–act.)",
+    "Emmanuel Borghi (miembro; ?–act.)",
+    "François Cahen (miembro; ?–act.)",
+    "Frederic d’Oelsnitz (miembro; ?–act.)",
+    "Sylvie Fisichella (miembro; ?–act.)",
+    "Patrick Gauthier (miembro; ?–act.)",
+    "Michel Graillier (miembro; ?–act.)",
+    "Teddy Lasry (miembro; ?–act.)",
+    "Laurent Thibault (original; ?–act.)",
+    "Jannick Top (miembro; ?–act.)",
+    "Julie Vander (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "magma-kobaia",
+     "titulo": "Kobaïa",
+     "anio": 1970,
+     "mbid": "8d34e575-a50c-3fa5-8728-36381f3b2ac1",
+     "primer_lanzamiento": "1970",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-1-001-centigrades",
+     "titulo": "1.001° Centigrades",
+     "anio": 1971,
+     "mbid": "8ee2e6b7-2c8f-367a-ab03-fa54cc70cfaf",
+     "primer_lanzamiento": "1971",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-mekanik-destruktiw-kommandoh",
+     "titulo": "Mëkanïk Dëstruktïẁ Kömmandöh",
+     "anio": 1973,
+     "mbid": "0f5964b4-a798-3da0-84ad-ef9cb6528f31",
+     "primer_lanzamiento": "1973",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-wurdah-itah",
+     "titulo": "Ẁurdah Ïtah",
+     "anio": 1974,
+     "mbid": "1af65602-8ccb-37fd-9cd7-6c1f331e5d2c",
+     "primer_lanzamiento": "1974",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-kohntarkosz",
+     "titulo": "Köhntarkösz",
+     "anio": 1974,
+     "mbid": "71447dd9-9a65-37fd-855d-ceb81896cab9",
+     "primer_lanzamiento": "1974-06",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-udu-wudu",
+     "titulo": "Üdü Ẁüdü",
+     "anio": 1976,
+     "mbid": "ffb5a527-3d9a-3933-a5d6-01139ecc6638",
+     "primer_lanzamiento": "1976",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-attahk",
+     "titulo": "Attahk",
+     "anio": 1978,
+     "mbid": "b0828cc0-9ef8-3080-85ef-4f0f4d571617",
+     "primer_lanzamiento": "1978",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-merci",
+     "titulo": "Merci",
+     "anio": 1984,
+     "mbid": "300191a1-74d0-3047-aaca-64e2a99d14e5",
+     "primer_lanzamiento": "1984",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-mekanik-kommandoh",
+     "titulo": "Mekanïk Kommandöh",
+     "anio": 1989,
+     "mbid": "4f77f358-4194-36eb-aae2-df30671133d5",
+     "primer_lanzamiento": "1989",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-k-a",
+     "titulo": "K.A",
+     "anio": 2004,
+     "mbid": "981b3db9-695b-36ca-af65-a3dc4b01019e",
+     "primer_lanzamiento": "2004-11-08",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-archiw-i-ii",
+     "titulo": "Archiẁ I & II",
+     "anio": 2008,
+     "mbid": "443f1335-a810-4a97-974c-65ea14526ca9",
+     "primer_lanzamiento": "2008",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-emehntehttre",
+     "titulo": "Ëmëhntëhtt‐Ré",
+     "anio": 2009,
+     "mbid": "a209d9ac-62d6-46e4-8698-a4d04a2e89cd",
+     "primer_lanzamiento": "2009-11-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-felicite-thosz",
+     "titulo": "Félicité Thösz",
+     "anio": 2012,
+     "mbid": "22bb274a-802f-447d-a5ed-0cf55ceb9ec8",
+     "primer_lanzamiento": "2012-06-12",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-riah-sahiltaahk",
+     "titulo": "Rïah Sahïltaahk",
+     "anio": 2014,
+     "mbid": "884b0497-81ad-4331-9fa7-86fac4502f5d",
+     "primer_lanzamiento": "2014-09-23",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-slag-tan",
+     "titulo": "Šlağ Tanƶ",
+     "anio": 2015,
+     "mbid": "981e9378-4567-4bd3-892d-d04c5371f078",
+     "primer_lanzamiento": "2015-01-10",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-zess-le-jour-du-neant",
+     "titulo": "Zëss: Le jour du néant",
+     "anio": 2019,
+     "mbid": "d0b6fb1b-8eaa-48a3-9cee-362381439887",
+     "primer_lanzamiento": "2019-06-14",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "magma-kartehl",
+     "titulo": "Kãrtëhl",
+     "anio": 2022,
+     "mbid": "2d502009-2a7f-4342-b625-e645a721409e",
+     "primer_lanzamiento": "2022-05-16",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,359 @@
+{
+ "id": "rio-art-zoyd",
+ "escena": "rio",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "art-zoyd",
+   "nombre": "Art Zoyd",
+   "tipo": "Group",
+   "pais": "FR",
+   "inicio": "1969",
+   "fin": null,
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Art_Zoyd",
+   "formaciones_mb": [
+    "Thierry Zaboïtzeff (original; 1971–1997)",
+    "Michel Berckmans (miembro; ?–act.)",
+    "Didier Casamitjana (percussion; ?–act.)",
+    "Patricia Dallio (miembro; ?–act.)",
+    "Gérard Hourbette (miembro; ?–act.)",
+    "Nathalie Négro (miembro; ?–act.)",
+    "Didier Pietton (miembro; ?–act.)",
+    "Laurent Dailleau (miembro; ?–?)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "art-zoyd-symphonie-pour-le-jour-ou-bruleront-les-cites",
+     "titulo": "Symphonie pour le jour où brûleront les cités",
+     "anio": 1976,
+     "mbid": "6d640fe1-74d2-3d87-a8c5-40aed292107b",
+     "primer_lanzamiento": "1976",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-musique-pour-l-odyssee",
+     "titulo": "Musique pour l'odyssée",
+     "anio": 1979,
+     "mbid": "966652e2-ace6-3204-9ff0-35b555e59899",
+     "primer_lanzamiento": "1979",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-generation-sans-futur",
+     "titulo": "Génération sans futur",
+     "anio": 1980,
+     "mbid": "65cc2044-5b88-3d9e-bb7a-dce88d99655d",
+     "primer_lanzamiento": "1980",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-phase-iv",
+     "titulo": "Phase IV",
+     "anio": 1982,
+     "mbid": "2b11492a-47c4-34be-bb80-e7680f53a410",
+     "primer_lanzamiento": "1982",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-les-espaces-inquiets",
+     "titulo": "Les Espaces inquiets",
+     "anio": 1983,
+     "mbid": "2efc75be-97d3-3f6f-aae6-13854187a7c0",
+     "primer_lanzamiento": "1983",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-le-mariage-du-ciel-et-de-l-enfer",
+     "titulo": "Le Mariage du Ciel et de l'Enfer",
+     "anio": 1985,
+     "mbid": "cbc5b753-a910-3fae-a43a-e4d976fe4790",
+     "primer_lanzamiento": "1985",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-berlin",
+     "titulo": "Berlin",
+     "anio": 1987,
+     "mbid": "813accd3-a19c-3f18-9711-df4a2e4dd4cb",
+     "primer_lanzamiento": "1987",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-nosferatu",
+     "titulo": "Nosferatu",
+     "anio": 1989,
+     "mbid": "26a7af15-9bc9-35de-8772-7c45f53cca32",
+     "primer_lanzamiento": "1989",
+     "soundtrack": true
+    },
+    {
+     "album_slug": "art-zoyd-art-zoyd-j-a-deane-j-greinke",
+     "titulo": "Art Zoyd / J. A. Deane / J. Greinke",
+     "anio": 1990,
+     "mbid": "1f6cc753-4717-4e59-a526-5174d54a1463",
+     "primer_lanzamiento": "1990",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-marathonnerre-i",
+     "titulo": "Marathonnerre I",
+     "anio": 1992,
+     "mbid": "7078873b-ea14-33cd-9030-9a205c441a97",
+     "primer_lanzamiento": "1992",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-marathonnerre-ii",
+     "titulo": "Marathonnerre II",
+     "anio": 1992,
+     "mbid": "9d10e0e9-850a-3365-9bb8-8767d970a608",
+     "primer_lanzamiento": "1992",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-faust",
+     "titulo": "Faust",
+     "anio": 1995,
+     "mbid": "e8cb8495-ac5d-39b4-ac30-ed9078b0cfa1",
+     "primer_lanzamiento": "1995",
+     "soundtrack": true
+    },
+    {
+     "album_slug": "art-zoyd-haxan",
+     "titulo": "Häxan",
+     "anio": 1997,
+     "mbid": "73b1777f-5d19-34f4-aff3-73a5c56c7e1e",
+     "primer_lanzamiento": "1997",
+     "soundtrack": true
+    },
+    {
+     "album_slug": "art-zoyd-u-b-i-q-u-e",
+     "titulo": "u-B-I-Q-U-e",
+     "anio": 2001,
+     "mbid": "3bbebc8b-8e76-381b-93dd-8330de174a12",
+     "primer_lanzamiento": "2001",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-experiences-de-vol",
+     "titulo": "Expériences de vol",
+     "anio": 2002,
+     "mbid": "2003d647-2861-44e6-bc84-60870c924e33",
+     "primer_lanzamiento": "2002",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-metropolis",
+     "titulo": "Metropolis",
+     "anio": 2002,
+     "mbid": "9807b6ab-a5fb-4fa2-8d85-8a58262cd400",
+     "primer_lanzamiento": "2002",
+     "soundtrack": true
+    },
+    {
+     "album_slug": "art-zoyd-experiences-de-vol-4-5-6",
+     "titulo": "Expériences de vol 4 - 5 - 6",
+     "anio": 2005,
+     "mbid": "8dbe98e4-22ad-43d8-8ba8-63ec1dd728ea",
+     "primer_lanzamiento": "2005",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-le-champ-des-larmes",
+     "titulo": "Le champ des larmes",
+     "anio": 2006,
+     "mbid": "743cdc2e-b780-3f39-b1fc-7642ae9e52f5",
+     "primer_lanzamiento": "2006-07",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-la-chute-de-la-maison-usher",
+     "titulo": "La chute de la maison Usher",
+     "anio": 2008,
+     "mbid": "9b8a0c61-8b1c-43b9-b571-fc90280d9543",
+     "primer_lanzamiento": "2008",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-eyecatcher",
+     "titulo": "Eyecatcher",
+     "anio": 2011,
+     "mbid": "2ba333af-59d4-4b51-aad8-fa42d01ddc2d",
+     "primer_lanzamiento": "2011",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-armageddon-operette-pour-robots",
+     "titulo": "Armageddon : Opérette pour robots",
+     "anio": 2012,
+     "mbid": "c05f063b-9611-49ae-91d1-d730039540fa",
+     "primer_lanzamiento": "2012",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-44-1-2-live-and-unreleased-works-part-x-outdoor-music",
+     "titulo": "44 1/2: Live And Unreleased Works [Part X - Outdoor Music]",
+     "anio": 2017,
+     "mbid": "b8a5461e-12d9-4a75-a1df-80f2edcd477b",
+     "primer_lanzamiento": "2017-11-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-44-1-2-live-and-unreleased-works-part-xi-music-for-theatre-i",
+     "titulo": "44 1/2: Live And Unreleased Works [Part XI - Music For Theatre I]",
+     "anio": 2017,
+     "mbid": "75e74da3-438b-41ff-adba-864314d8e1fd",
+     "primer_lanzamiento": "2017-11-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-phase-v",
+     "titulo": "Phase V",
+     "anio": 2018,
+     "mbid": "0dd123a5-b5dc-4e0e-a457-a42fa751d57d",
+     "primer_lanzamiento": "2018-03-01",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-experiences-de-vol-10-11-12-13",
+     "titulo": "Expériences de Vol # 10/11/12/13",
+     "anio": 2018,
+     "mbid": "2f1f4e4f-3a5d-49c8-8b69-622f4743935e",
+     "primer_lanzamiento": "2018-04-22",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-zoyd-symphonie-s-pour-le-jour-ou-bruleront-les-cites",
+     "titulo": "Symphonie(s) Pour Le Jour Où Brûleront Les Cités",
+     "anio": 2022,
+     "mbid": "b7edc878-a086-433e-8ba9-ba56e134cf26",
+     "primer_lanzamiento": "2022",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "cassiber",
+   "nombre": "Cassiber",
+   "tipo": "Group",
+   "pais": "DE",
+   "inicio": "1982",
+   "fin": "1992",
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Cassiber",
+   "formaciones_mb": [
+    "Alfred 23 Harth (original, saxophone; 1982–1985)",
+    "Chris Cutler (drums (drum set), original; 1982–1992)",
+    "Heiner Goebbels (original, violin; 1982–1992)",
+    "Heiner Goebbels (original, piano; 1982–1992)",
+    "Christoph Anders (original, other vocals; 1982–?)",
+    "Christoph Anders (guitar, original; 1982–?)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "cassiber-man-or-monkey",
+     "titulo": "Man or Monkey",
+     "anio": 1982,
+     "mbid": "5c817ad4-daf4-38fa-9da5-413003ed9b49",
+     "primer_lanzamiento": "1982",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "cassiber-beauty-and-the-beast",
+     "titulo": "Beauty and the Beast",
+     "anio": 1984,
+     "mbid": "839176eb-2940-317f-add3-7801af9b37ac",
+     "primer_lanzamiento": "1984",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "cassiber-perfect-worlds",
+     "titulo": "Perfect Worlds",
+     "anio": 1986,
+     "mbid": "b0d0e5c0-ac13-4004-bfab-6603cc99d5a0",
+     "primer_lanzamiento": "1986",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "cassiber-a-face-we-all-know",
+     "titulo": "A Face We All Know",
+     "anio": 1990,
+     "mbid": "e2768cce-7e97-3559-b593-df76ac426a33",
+     "primer_lanzamiento": "1990",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "cassiber-the-way-it-was",
+     "titulo": "The Way It Was",
+     "anio": 2012,
+     "mbid": "dbd98a9a-dc29-44e6-8f83-27a1c2a62c77",
+     "primer_lanzamiento": "2012-11-30",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "koenjihyakkei",
+   "nombre": "高円寺百景",
+   "tipo": "Group",
+   "pais": "JP",
+   "inicio": "1991",
+   "fin": null,
+   "wikipedia_url": "https://en.wikipedia.org/wiki/K%C5%8Denji_Hyakkei",
+   "formaciones_mb": [
+    "久保田安紀 (original; 1991–1997)",
+    "吉田達也 (drums (drum set), original; 1991–act.)",
+    "原田仁 (electric guitar; 1996–2003)",
+    "坂元健吾 (electric bass guitar; 1996–act.)",
+    "金澤美也子 (keyboard; 2002–2006)",
+    "小森慶子 (clarinet; 2005–act.)",
+    "小森慶子 (saxophone; 2005–act.)",
+    "久保田安紀 (lead vocals, original; 2007–2007)",
+    "矢吹卓 (keyboard; 2007–act.)",
+    "AH (lead vocals; 2008-09–act.)",
+    "小金丸慧 (electric guitar; 2017–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "koenjihyakkei-hundred-sights-of-koenji",
+     "titulo": "Hundred Sights of Koenji",
+     "anio": 1994,
+     "mbid": "5286968a-36a2-3cda-a2d6-ecfbf04d95fc",
+     "primer_lanzamiento": "1994-09-15",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "koenjihyakkei-viva-koenji",
+     "titulo": "Viva Koenji!!",
+     "anio": 1997,
+     "mbid": "f8522a2e-d5aa-3465-a683-6cb7aaafdd1c",
+     "primer_lanzamiento": "1997-01-25",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "koenjihyakkei-nivraym",
+     "titulo": "Nivraym",
+     "anio": 2001,
+     "mbid": "73b09a97-fbc7-3d70-8cdd-523592c82f41",
+     "primer_lanzamiento": "2001-03-22",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "koenjihyakkei-angherr-shisspa",
+     "titulo": "Angherr Shisspa",
+     "anio": 2005,
+     "mbid": "23419fef-08e8-32ad-9bc6-f44c73e6a6b4",
+     "primer_lanzamiento": "2005-08-20",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "koenjihyakkei-dhorimviskha",
+     "titulo": "Dhorimviskha",
+     "anio": 2018,
+     "mbid": "1ac0dc1b-fbe7-49d8-b923-38b94d9005aa",
+     "primer_lanzamiento": "2018-07-11",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

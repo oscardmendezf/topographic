@@ -1,0 +1,295 @@
+{
+  "ipis": [],
+  "isnis": [
+    "0000000115344111"
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "country": "DE",
+  "sort-name": "Slapp Happy",
+  "name": "Slapp Happy",
+  "begin-area": {
+    "type-id": null,
+    "name": "Hamburg",
+    "sort-name": "Hamburg",
+    "disambiguation": "",
+    "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+    "iso-3166-2-codes": [
+      "DE-HH"
+    ],
+    "type": null
+  },
+  "disambiguation": "",
+  "area": {
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+    "type": null,
+    "iso-3166-1-codes": [
+      "DE"
+    ],
+    "type-id": null,
+    "disambiguation": "",
+    "name": "Germany",
+    "sort-name": "Germany"
+  },
+  "gender": null,
+  "relations": [
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "US",
+        "disambiguation": "",
+        "sort-name": "Blegvad, Peter",
+        "name": "Peter Blegvad",
+        "id": "643ff039-e473-4178-b523-a76a67b7cdd7",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "DE",
+        "sort-name": "Krause, Dagmar",
+        "disambiguation": "",
+        "name": "Dagmar Krause",
+        "id": "c4defa11-66b2-4255-960d-ad8867bc50da",
+        "type": "Person"
+      },
+      "direction": "backward"
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "country": "GB",
+        "disambiguation": "UK experimental musician, aka Anthony More",
+        "sort-name": "Moore, Anthony",
+        "name": "Anthony Moore",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "84490b56-ff86-4492-be8e-ae565b50f97e"
+      },
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000749462",
+        "id": "007b383b-08bd-4ace-aef6-e9113a5c81fc"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "type": "allmusic"
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "url": {
+        "id": "adbdb443-05e9-4299-9980-cec18b7893b4",
+        "resource": "https://www.discogs.com/artist/364236"
+      },
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no2009024118",
+        "id": "f86986d6-0405-4303-8862-c27f58998f3e"
+      },
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "a83b0342-aa09-43b9-88eb-18fa18021ce3",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13970556k"
+      },
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "24870c46-56cd-400b-92ca-9688654db1f7",
+        "resource": "https://d-nb.info/gnd/10321253-X"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/slapp_happy",
+        "id": "68bfaac6-5bbc-41f5-9953-9cf424557d1c"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "begin": null,
+      "type": "other databases",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "cc336bb0-92fc-491f-8725-4955ecd2aa52",
+        "resource": "https://www.45cat.com/artist/slapp-happy"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type": "other databases",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "url": {
+        "id": "7714ebf5-3ea8-4e1a-983b-76545dc0bee0",
+        "resource": "https://www.worldcat.org/identities/lccn-no2009024118"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type": "VIAF",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "afacb537-e09b-4460-bdfe-b304605be399",
+        "resource": "http://viaf.org/viaf/168308449"
+      },
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q557247",
+        "id": "8f33ecfb-6881-4f6b-8cfa-89e1946f7788"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "type": "wikidata"
+    }
+  ],
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1972"
+  },
+  "gender-id": null,
+  "aliases": [],
+  "id": "4be40614-e079-45b6-a7b9-deb1b11bf3c6",
+  "end-area": null,
+  "type": "Group"
+}

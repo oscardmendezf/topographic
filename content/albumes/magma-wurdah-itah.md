@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "magma-wurdah-itah"
+titulo: "Ẁurdah Ïtah"
+artista: "Magma"
+artista_slug: "magma"
+anio_ficha: 1974
+era: "clasica"
+escena: "rio"
+mb_rgid: "1af65602-8ccb-37fd-9cd7-6c1f331e5d2c"
+primer_lanzamiento: "1974"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "La misma escritura sin el revestimiento: austero y sin grasa."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Editado casi al margen y durante años tratado como disco secundario."
+historia: "editorial"
+---
+
+El segundo movimiento de la trilogía Theusz Hamtaahk reducido a cuarteto: batería, piano, el bajo de Jannick Top y las voces de Christian Vander, Stella Vander y Klaus Blasquiz, sin vientos ni orquestación. La desnudez le hace bien —se oye la mecánica rítmica que en Mëkanïk Dëstruktïẁ Kömmandöh queda tapada por la masa— y lo convierte en la mejor puerta de entrada al grupo. Que haya nacido ligado a un encargo para cine no le quita nada.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Conviene decirlo de entrada: esto nació como un encargo. La música se escribió para una película y se publicó en 1974 asociada a ese proyecto, no como el siguiente álbum de Magma, y el grupo que la grabó no es el grupo completo sino un cuarteto. Lo curioso es que la restricción funcionó a favor: reducidos a batería, piano, bajo y voces, Christian Vander, Stella Vander, Klaus Blasquiz y Jannick Top entregan el registro más nítido de cómo está construida esta música por dentro.
+
+Lo que se toca es el segundo movimiento de la trilogía Theusz Hamtaahk, así que el material no es accesorio: es parte central del ciclo, solo que ejecutado sin vientos, sin coro ampliado y sin orquestación. Las doce piezas llevan títulos en kobaïano con su equivalencia en francés, y la secuencia dibuja un recorrido ritual: se abre con una invocación en «Malawelekaahm (Incantation)», sigue la palabra del iniciado en «Bradia Da Zi Mehn Iegah (L'initié a parlé)», se convoca al conjunto en «Maneh Fur Da Zess (Ensemble pour le maître)» y la pregunta por la autoridad vuelve al final en «Ek Sun Da Zess ? (Qui est le maître ?)». En el medio, «Blüm Tendiwa (L'Âme du peuple)» y «Sehnnteht Dros Wurdah Süms (La mort n'est rien)» fijan los dos polos del asunto —el pueblo y la muerte como trámite—, y el cierre con «De Zeuhl Undazir (Vision de la musique céleste)» nombra directamente aquello que el grupo dice perseguir. La única pieza con título íntegramente en francés, «C'est la vie qui les a menés là !», rompe la serie y deja la sentencia a la vista.
+
+## La producción
+
+Los créditos verificados son escuetos y hay que respetarlos: consta Christian Vander en piano y voz, y nada más sobre productor, ingeniero o estudio. Lo que se oye, en cambio, es inequívoco. El cuarteto graba sin capas superpuestas ni artificios: batería y piano llevan el peso, el bajo dobla o contradice las figuras del piano, y las voces se cruzan en dos y tres líneas que se responden.
+
+La desnudez es la decisión de sonido principal. Sin vientos que rellenen el registro medio ni coro que produzca masa, cada golpe de piano queda expuesto y la mecánica rítmica —los desplazamientos de acento, la manera en que la batería contradice al ostinato sin perderlo— se oye con una claridad que en los discos grandes queda tapada. Las piezas son breves, encadenadas, y ninguna se detiene a desarrollar: entran, cumplen su función en el ciclo y ceden el paso. El resultado tiene algo de ensayo filmado, en el buen sentido, y explica por qué muchas versiones en vivo posteriores del ciclo suenan más cerca de esta grabación que de las orquestadas.
+
+## Recepción y legado
+
+Publicado en el margen de la discografía oficial y ligado a un proyecto ajeno, tardó en ocupar el lugar que tiene hoy. Que haya nacido por encargo no le quita nada: es la mejor puerta de entrada al grupo, porque muestra el esqueleto antes que el revestimiento, y es también la grabación donde la escritura vocal de Vander se aprecia mejor, sin la cobertura del coro de cámara. Quien encuentre a Magma demasiado ceremonioso debería empezar por acá y decidir después. Dentro del ciclo Theusz Hamtaahk quedó como la pieza que faltaba para entender que la trilogía no era un pretexto retórico sino un plan de composición real.

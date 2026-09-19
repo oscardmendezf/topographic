@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "zao-z-7l"
+titulo: "Z=7L"
+artista: "ZAO"
+artista_slug: "zao"
+anio_ficha: 1973
+era: "clasica"
+escena: "rio"
+mb_rgid: "35a3177c-348b-34c9-acd2-f675830d903f"
+primer_lanzamiento: "1973"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Referencia del zeuhl fuera de Magma; el título más citado del grupo junto a Kawana."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Público de culto desde el primer día, dentro del circuito francés."
+historia: "editorial"
+---
+
+El debut es el punto en que el zeuhl y el jazz todavía se disputan la banda: Mauricia Platon vocaliza sin idioma sobre una base que repite y se endurece, y los temas de Cahen y Seffer se resuelven por ataque colectivo antes que por solo. Es el disco más cercano a Magma del catálogo y, por eso mismo, el que mejor explica por qué se fueron: mismo motor, otra cabeza. Sigue siendo la puerta de entrada al grupo.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Zao nace de una ruptura de la que se habló poco y se escuchó mucho. François Cahen y Yochk'o Seffer venían de las primeras formaciones de Magma y en 1971 armaron grupo propio llevándose la maquinaria —pulso repetido, bajo con peso, voz tratada como instrumento y sin idioma reconocible— y dejando atrás el aparato mitológico. La diferencia no era de intensidad sino de propósito: Cahen es pianista antes que tecladista y Seffer, húngaro de nacimiento, escribe con giros modales del este de Europa que en aquel edificio no tenían dónde entrar. Z=7L, publicado en 1973, es el primer resultado de esa decisión y el punto en que las dos vocaciones todavía se disputan la banda.
+
+El disco no propone un concepto ni cuenta nada. Mauricia Platon vocaliza sin palabras, Joël Dugrenot sostiene el bajo y Jean-My Truong la batería, y los temas se resuelven por ataque colectivo antes que por solo: la banda entra junta, endurece la figura y sale junta. «Marochsek» abre con el procedimiento completo, una base que repite hasta volverse física y un saxo que la corta en diagonal. «Ataturc» y «Ronach» acortan el desarrollo y aprietan el mecanismo; «Atart» pasa casi como un apunte. «La Soupe» es la pieza donde el jazz gana la discusión, con el piano de Cahen dictando el movimiento, y «Satanyia» cierra volviendo al modo más severo del grupo.
+
+Frente a lo que harían después, este es el álbum más cercano a su origen y por eso mismo el que mejor explica la separación: mismo motor, otra cabeza. Al año siguiente, con la entrada del violín, el grupo abriría el sonido y empezaría a alejarse de esta aspereza.
+
+## La producción
+
+Es una grabación de cuarteto sin trucos, y ese despojamiento es la decisión de sonido principal. El bajo de Dugrenot se registra grueso y adelantado, con el ataque bien audible, y la batería de Truong queda seca y cercana, sin las reverberaciones largas que se estilaban en el jazz-rock de esos años. Sobre ese piso el piano eléctrico y los saxos de Seffer trabajan en el mismo rango medio, lo que produce una densidad algo cerrada: las capas se rozan en vez de ordenarse por alturas.
+
+La voz de Platon se trata exactamente como un instrumento de viento más, colocada dentro de la mezcla en lugar de por encima, sin palabras que la anclen a un idioma y sin efectos que la vuelvan un color. Los saxos y clarinetes de Seffer aportan el otro rasgo distintivo: escalas y adornos que no vienen del vocabulario del jazz estadounidense sino de la música popular del este europeo, injertados sobre una base de rock. Las piezas están escritas de punta a punta, con las improvisaciones acotadas a tramos definidos; lo que suena a desborde está previsto.
+
+## Recepción y legado
+
+Encontró público de culto desde el principio y nunca salió de ahí, dentro del circuito francés que ya seguía a este tipo de música. Con el tiempo quedó como el título más citado del grupo junto a Kawana, y sigue funcionando como puerta de entrada: quien llega desde el zeuhl reconoce el terreno de inmediato y quien llega desde el jazz europeo encuentra la rareza servida. Se lo valora por la tensión sin resolver que lo sostiene, justamente lo que los discos posteriores irían resolviendo en una dirección u otra.

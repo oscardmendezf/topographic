@@ -1,0 +1,159 @@
+{
+ "id": "rio-zeuhl",
+ "escena": "rio",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "zao",
+   "nombre": "ZAO",
+   "tipo": "Group",
+   "pais": "FR",
+   "inicio": "1971",
+   "fin": "2012-01-17",
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Zao_(French_band)",
+   "formaciones_mb": [
+    "François Cahen (original; 1971–act.)",
+    "Yochk’o Seffer (original; 1971–act.)",
+    "Didier Lockwood (miembro; 1976–act.)",
+    "Joël Dugrenot (miembro; ?–act.)",
+    "Mauricia Platon (miembro; ?–act.)",
+    "Gérard Prévost (miembro; ?–act.)",
+    "Jean-Yves Rigaud (miembro; ?–act.)",
+    "Jean-My Truong (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "zao-z-7l",
+     "titulo": "Z=7L",
+     "anio": 1973,
+     "mbid": "35a3177c-348b-34c9-acd2-f675830d903f",
+     "primer_lanzamiento": "1973",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "zao-osiris",
+     "titulo": "Osiris",
+     "anio": 1974,
+     "mbid": "1873175c-1cb2-3e94-871c-a06fb0a51f08",
+     "primer_lanzamiento": "1974",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "zao-shekina",
+     "titulo": "Shekina",
+     "anio": 1975,
+     "mbid": "813ff552-cbb0-3832-a471-05e2a85d2f40",
+     "primer_lanzamiento": "1975",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "zao-kawana",
+     "titulo": "Kawana",
+     "anio": 1976,
+     "mbid": "8b874a5f-d2cd-3fc3-bb5d-4c0b8090121c",
+     "primer_lanzamiento": "1976",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "zao-typhareth",
+     "titulo": "Typhareth",
+     "anio": 1977,
+     "mbid": "a39e03f2-75e9-367e-a343-d3b652c61d16",
+     "primer_lanzamiento": "1977",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "zao-akhenaton",
+     "titulo": "Akhenaton",
+     "anio": 1994,
+     "mbid": "c47dc51d-9b8e-32c5-a4e0-faad57d4bf12",
+     "primer_lanzamiento": "1994",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "weidorje",
+   "nombre": "Weidorje",
+   "tipo": "Group",
+   "pais": "FR",
+   "inicio": "1976",
+   "fin": "1979",
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Weidorje",
+   "formaciones_mb": [
+    "Michel Ettori (guitar; 1977–1978)",
+    "Pierre Chérèze (miembro; 1979–1979)",
+    "François Ovide (guitar; 1979–1979)",
+    "Patrick Gauthier (keyboard; ?–act.)",
+    "Jean-Philippe Goude (keyboard; ?–act.)",
+    "Alain Guillard (saxophone; ?–act.)",
+    "Yvon Guillard (trumpet; ?–act.)",
+    "Bernard Paganotti (bass guitar; ?–act.)",
+    "Kirt Rust (drums (drum set); ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "weidorje-weidorje",
+     "titulo": "Weidorje",
+     "anio": 1978,
+     "mbid": "ab8ac57b-e817-3ee9-9629-5d24c9c62e9f",
+     "primer_lanzamiento": "1978",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "eskaton",
+   "nombre": "Eskaton",
+   "tipo": "Group",
+   "pais": "FR",
+   "inicio": "1970",
+   "fin": "1984",
+   "wikipedia_url": null,
+   "formaciones_mb": [
+    "André Bernardi (bass; ?–act.)",
+    "Paule Kleynnaert (synthesizer; ?–act.)",
+    "Paule Kleynnaert (lead vocals; ?–act.)",
+    "Gérard Konig (membranophone; ?–act.)",
+    "Patrick Le Mercier (violin; ?–act.)",
+    "Gilles Rozenberg (guitar; ?–act.)",
+    "Gilles Rozenberg (keyboard; ?–act.)",
+    "Amara Tahir (lead vocals; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "eskaton-ardeur",
+     "titulo": "Ardeur",
+     "anio": 1980,
+     "mbid": "2aa211dc-6798-3234-96bf-9402b0e5eac2",
+     "primer_lanzamiento": "1980",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "eskaton-4-visions",
+     "titulo": "4 Visions",
+     "anio": 1981,
+     "mbid": "ae0a3979-2861-3476-b8e5-7f34cc717566",
+     "primer_lanzamiento": "1981",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "eskaton-fiction",
+     "titulo": "Fiction",
+     "anio": 1983,
+     "mbid": "dcb9a33e-364b-32f8-8852-7a3a6adeca4a",
+     "primer_lanzamiento": "1983",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "eskaton-so-good",
+     "titulo": "So Good",
+     "anio": 2017,
+     "mbid": "ddc3cb0f-eaec-4e5a-b340-0d7cd5684b6e",
+     "primer_lanzamiento": "2017-10-01",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

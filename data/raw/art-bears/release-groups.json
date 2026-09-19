@@ -1,0 +1,77 @@
+{
+  "release-group-count": 6,
+  "release-groups": [
+    {
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "1981",
+      "id": "2a446bb5-1dd9-3011-a8f7-3f9ff5a10ca2",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "The World as It Is Today"
+    },
+    {
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Winter Songs",
+      "secondary-types": [],
+      "first-release-date": "1979",
+      "primary-type": "Album",
+      "id": "9c3717d6-ffd2-317e-a3b4-b71799970017"
+    },
+    {
+      "title": "Winter Songs / The World as It Is Today",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "id": "a6aeca53-a9da-3292-9770-78bcb0fa92b4",
+      "first-release-date": "1988",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ]
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "The Art Box",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "first-release-date": "2004-02-23",
+      "primary-type": "Album",
+      "id": "acddd50a-3259-4215-9113-6b72a88f406d"
+    },
+    {
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Hopes and Fears",
+      "secondary-types": [],
+      "first-release-date": "1978",
+      "primary-type": "Album",
+      "id": "bcbfe797-2d2e-3ad5-8783-113cc216511a"
+    },
+    {
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "1979-05-01: R.I.O. Festival, Milan, Italy",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "ce45bd93-091f-371d-ad2f-c30033d250b0",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "first-release-date": ""
+    }
+  ]
+}

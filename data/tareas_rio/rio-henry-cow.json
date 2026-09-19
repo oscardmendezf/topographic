@@ -1,0 +1,168 @@
+{
+ "id": "rio-henry-cow",
+ "escena": "rio",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "henry-cow",
+   "nombre": "Henry Cow",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1968-05",
+   "fin": "1978-08",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Henry_Cow",
+   "formaciones_mb": [
+    "John Greaves (miembro; 1969-10–1976-03)",
+    "Chris Cutler (miembro; 1971-08–1978-08)",
+    "Geoff Leigh (miembro; 1972–1973-12)",
+    "Lindsay Cooper (miembro; 1974-01–1978-08)",
+    "Dagmar Krause (miembro; 1975-04–1977-11)",
+    "Georgie Born (miembro; 1976-06–1978-04)",
+    "Peter Blegvad (miembro; ?–act.)",
+    "Fred Frith (miembro; ?–act.)",
+    "Tim Hodgkinson (miembro; ?–act.)",
+    "Anthony Moore (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "henry-cow-leg-end",
+     "titulo": "Leg End",
+     "anio": 1973,
+     "mbid": "64a79334-c531-320b-94e9-3f42a1944fc9",
+     "primer_lanzamiento": "1973",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "henry-cow-unrest",
+     "titulo": "Unrest",
+     "anio": 1974,
+     "mbid": "d1fac684-703d-3fed-90f6-24ef55aca4ae",
+     "primer_lanzamiento": "1974",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "henry-cow-desperate-straights",
+     "titulo": "Desperate Straights",
+     "anio": 1975,
+     "mbid": "d149382d-df81-3af0-9a29-585482198f10",
+     "primer_lanzamiento": "1975-02-21",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "henry-cow-in-praise-of-learning",
+     "titulo": "In Praise of Learning",
+     "anio": 1975,
+     "mbid": "02093ce8-1a9b-34c9-8d48-3c3ae6b0e620",
+     "primer_lanzamiento": "1975-05-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "henry-cow-western-culture",
+     "titulo": "Western Culture",
+     "anio": 1978,
+     "mbid": "f7aa2b48-563b-3e0f-b630-5ad983a78b53",
+     "primer_lanzamiento": "1978",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "art-bears",
+   "nombre": "Art Bears",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1978",
+   "fin": "1981",
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Art_Bears",
+   "formaciones_mb": [
+    "Chris Cutler (miembro; 1978–1981)",
+    "Fred Frith (miembro; 1978–1981)",
+    "Dagmar Krause (miembro; 1978–1981)",
+    "Peter Blegvad (miembro; 1979–1979)",
+    "Marc Hollander (miembro; 1979–1979)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "art-bears-hopes-and-fears",
+     "titulo": "Hopes and Fears",
+     "anio": 1978,
+     "mbid": "bcbfe797-2d2e-3ad5-8783-113cc216511a",
+     "primer_lanzamiento": "1978",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-bears-winter-songs",
+     "titulo": "Winter Songs",
+     "anio": 1979,
+     "mbid": "9c3717d6-ffd2-317e-a3b4-b71799970017",
+     "primer_lanzamiento": "1979",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "art-bears-the-world-as-it-is-today",
+     "titulo": "The World as It Is Today",
+     "anio": 1981,
+     "mbid": "2a446bb5-1dd9-3011-a8f7-3f9ff5a10ca2",
+     "primer_lanzamiento": "1981",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "slapp-happy",
+   "nombre": "Slapp Happy",
+   "tipo": "Group",
+   "pais": "DE",
+   "inicio": "1972",
+   "fin": null,
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Slapp_Happy",
+   "formaciones_mb": [
+    "Peter Blegvad (miembro; ?–act.)",
+    "Dagmar Krause (miembro; ?–act.)",
+    "Anthony Moore (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "slapp-happy-sort-of",
+     "titulo": "Sort Of",
+     "anio": 1972,
+     "mbid": "806ab917-5aa6-341f-b319-d0deef56d633",
+     "primer_lanzamiento": "1972",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "slapp-happy-slapp-happy",
+     "titulo": "Slapp Happy",
+     "anio": 1974,
+     "mbid": "bbfce25e-449e-3fe4-87c9-7270e74fcd3b",
+     "primer_lanzamiento": "1974",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "slapp-happy-desperate-straights",
+     "titulo": "Desperate Straights",
+     "anio": 1975,
+     "mbid": "d149382d-df81-3af0-9a29-585482198f10",
+     "primer_lanzamiento": "1975-02-21",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "slapp-happy-slapp-happy-or-slapp-happy",
+     "titulo": "Slapp Happy or Slapp Happy",
+     "anio": 1980,
+     "mbid": "7e5834e2-4a73-30aa-bf6d-2d93956d2aae",
+     "primer_lanzamiento": "1980",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "slapp-happy-ca-va",
+     "titulo": "Ça Va",
+     "anio": 1998,
+     "mbid": "b512d39f-c806-38cf-99b5-263b29162343",
+     "primer_lanzamiento": "1998-10-21",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

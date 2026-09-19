@@ -1,0 +1,950 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [
+    {
+      "ended": false,
+      "primary": null,
+      "begin": null,
+      "sort-name": "Univers Zero",
+      "type": null,
+      "end": null,
+      "locale": null,
+      "type-id": null,
+      "name": "Univers Zero"
+    },
+    {
+      "type-id": null,
+      "name": "Univers Zéro",
+      "locale": null,
+      "sort-name": "Univers Zéro",
+      "type": null,
+      "end": null,
+      "ended": false,
+      "primary": null,
+      "begin": null
+    },
+    {
+      "name": "Univers-Zero",
+      "type-id": null,
+      "locale": null,
+      "end": null,
+      "type": null,
+      "sort-name": "Univers-Zero",
+      "begin": null,
+      "primary": null,
+      "ended": false
+    },
+    {
+      "locale": "ja",
+      "name": "ユニヴェル・ゼロ",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "ended": false,
+      "begin": null,
+      "sort-name": "ユニヴェル・ゼロ",
+      "type": "Artist name",
+      "end": null
+    }
+  ],
+  "ipis": [],
+  "area": {
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "BE"
+    ],
+    "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+    "name": "Belgium",
+    "type-id": null,
+    "sort-name": "Belgium",
+    "type": null
+  },
+  "begin-area": {
+    "iso-3166-2-codes": [
+      "BE-BRU"
+    ],
+    "name": "Brussels",
+    "type-id": null,
+    "disambiguation": "",
+    "id": "7bda5d46-4809-41dc-a0b8-e889ff818f2e",
+    "type": null,
+    "sort-name": "Brussels"
+  },
+  "gender-id": null,
+  "isnis": [
+    "0000000122939519"
+  ],
+  "end-area": null,
+  "relations": [
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "artist": {
+        "sort-name": "Gillis, Jeannot",
+        "type": "Person",
+        "country": "BE",
+        "disambiguation": "violinist",
+        "id": "b52d0cbb-a9db-4f4f-9da6-9f6eb2956dea",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jeannot Gillis"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1975",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "direction": "backward",
+      "end": "1977",
+      "source-credit": "",
+      "ended": true
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": false,
+      "source-credit": "",
+      "direction": "backward",
+      "end": null,
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ],
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": null,
+      "artist": {
+        "id": "a7af9bcc-27aa-4aad-9165-77ea10d2260a",
+        "disambiguation": "Belgian bassoon player, he also plays other wind instruments",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Michel Berckmans",
+        "sort-name": "Berckmans, Michel",
+        "type": "Person",
+        "country": "BE"
+      },
+      "type": "member of band"
+    },
+    {
+      "end": null,
+      "direction": "backward",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Kurt Budé",
+        "disambiguation": "Belgian clarinet and saxophone player",
+        "id": "c83ced8f-b6fd-40a9-a283-29a0b678180d",
+        "type": "Person",
+        "country": "BE",
+        "sort-name": "Budé, Kurt"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "id": "cc4f1bcb-2e9b-4360-b312-b6aaf5d829e0",
+        "disambiguation": "",
+        "name": "Pierre Chevalier",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Chevalier, Pierre",
+        "country": "BE",
+        "type": "Person"
+      },
+      "attributes": [],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "country": "BE",
+        "sort-name": "Dechêne, Nicolas",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Nicolas Dechêne",
+        "id": "5347e061-5a20-4601-a53c-7092630b6bdd",
+        "disambiguation": "Belgian bassist & guitarist"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "artist": {
+        "sort-name": "Delory, Michel",
+        "type": "Person",
+        "country": null,
+        "id": "f8bd1841-0d16-4124-8e88-8f6ec545fca9",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Michel Delory"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null,
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "artist": {
+        "sort-name": "Denis, Daniel",
+        "type": "Person",
+        "country": "BE",
+        "disambiguation": "Belgian composer, drummer, multi-instrumentalist",
+        "id": "a7bd9149-ed1c-453a-bef0-2ac83772b493",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Daniel Denis"
+      },
+      "type": "member of band"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "artist": {
+        "country": "BE",
+        "type": "Person",
+        "sort-name": "Descheemaeker, Dirk",
+        "name": "Dirk Descheemaeker",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "db4f06f9-b096-4b5e-a825-1945dd162741",
+        "disambiguation": "Belgian clarinet player"
+      },
+      "type": "member of band"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "begin": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Christian Genet",
+        "disambiguation": "Belgian bassist",
+        "id": "f40cef7d-ee1e-407b-b8fb-41e13df6961c",
+        "type": "Person",
+        "country": "BE",
+        "sort-name": "Genet, Christian"
+      },
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [
+        "bass"
+      ]
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null,
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ],
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": null,
+      "artist": {
+        "type": "Person",
+        "country": null,
+        "sort-name": "Hanappier, Patrick",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Patrick Hanappier",
+        "id": "0a7000ff-5326-440d-b06f-ec6f7446a65d",
+        "disambiguation": "Viola, violin and cello player"
+      },
+      "type": "member of band"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Andy Kirk",
+        "id": "7468e1f5-b55a-4d6b-aec6-a482ca47f845",
+        "disambiguation": "Belgian keyboards player and composer",
+        "type": "Person",
+        "country": "BE",
+        "sort-name": "Kirk, Andy"
+      },
+      "attributes": [],
+      "target-type": "artist",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "artist": {
+        "sort-name": "Plantain, Eric",
+        "country": null,
+        "type": "Person",
+        "disambiguation": "",
+        "id": "92d1693c-1aad-46aa-801f-38c781f8add0",
+        "name": "Eric Plantain",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "begin": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "country": "BE",
+        "sort-name": "Plouvier, Jean-Luc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Jean-Luc Plouvier",
+        "id": "9136ab16-30a2-40dc-95a7-d869e2dc7155",
+        "disambiguation": "Belgian keyboardist and composer"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "artist",
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "country": "BE",
+        "type": "Person",
+        "sort-name": "Quartier, Bart",
+        "name": "Bart Quartier",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Belgian classical & jazz vibraphonist",
+        "id": "2db4477f-d3e9-43f9-9c4c-b7f5cca8c3f8"
+      }
+    },
+    {
+      "begin": null,
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Segers, Guy",
+        "country": "BE",
+        "type": "Person",
+        "disambiguation": "Belgian bassist",
+        "id": "ba6fb63c-fd68-4e5d-bc75-35476cb8a8b9",
+        "name": "Guy Segers",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [
+        "bass"
+      ],
+      "target-type": "artist",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Roger Trigaux",
+        "disambiguation": "Belgian guitarist, founder of Present and Univers Zero",
+        "id": "a4c00f50-6b33-4709-bab6-52ed9a669476",
+        "type": "Person",
+        "country": "BE",
+        "sort-name": "Trigaux, Roger"
+      },
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "allmusic",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000809476",
+        "id": "db301774-3c3f-4fd0-8d1e-7ed8e09c9904"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "bandcamp",
+      "url": {
+        "resource": "https://universzero.bandcamp.com/",
+        "id": "fbba9be3-c55d-4920-893a-afce2b0fa6b5"
+      },
+      "attribute-values": {},
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "842d5423-a217-4a63-86b0-7631ed15c5db",
+        "resource": "https://www.bandsintown.com/a/70740"
+      },
+      "type": "bandsintown",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://www.discogs.com/artist/179966",
+        "id": "2354864f-34ad-4ae9-9ae1-cc3b8fac7745"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "discogs"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "fanpage",
+      "url": {
+        "resource": "https://www.universzero.dk/",
+        "id": "3e4e0680-7f3d-4a35-bd34-d967cdeee06d"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "free streaming",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "5ad167ab-daa6-40e2-9852-17083735ab40",
+        "resource": "https://open.spotify.com/artist/6VcQpWt9EwmMaB8FqSBAXN"
+      },
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": ""
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "free streaming",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.deezer.com/artist/370318",
+        "id": "5a7272ab-6005-41c0-87b4-7f9d22569563"
+      },
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://myspace.com/universzero",
+        "id": "f8f68e3c-022d-4b92-957c-76471c1af263"
+      },
+      "attribute-values": {},
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "myspace",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "resource": "http://www.univers-zero.com/",
+        "id": "c3aa4062-1014-430a-bae3-712783262bd5"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "official homepage",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "id": "92ce9ba8-5bca-45b6-8cd9-1056dcc79830",
+        "resource": "http://id.loc.gov/authorities/names/n93068133"
+      },
+      "attribute-values": {},
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139072382",
+        "id": "e10dc2ec-1a25-48c7-a554-cc3bef11617f"
+      },
+      "attribute-values": {},
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "url": {
+        "id": "a7a06d03-9f37-4635-80bb-55af24a5987e",
+        "resource": "https://rateyourmusic.com/artist/univers_zero"
+      }
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "url": {
+        "id": "33681c46-2aa2-4ab0-819e-927d949af59c",
+        "resource": "https://www.musik-sammler.de/artist/univers-zero/"
+      },
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "url": {
+        "id": "fc9fe8c9-b116-439a-9e28-78286614db40",
+        "resource": "https://www.progarchives.com/artist.asp?id=342"
+      }
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "id": "95089d0f-6c21-4203-bb18-4b7106ed8ec9",
+        "resource": "https://www.spirit-of-rock.com/en/band/Univers_Zero"
+      },
+      "attribute-values": {},
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "dc5e96dd-b0f7-40d4-ac37-677184d9ab0f",
+        "resource": "https://www.worldcat.org/identities/lccn-n93068133/"
+      },
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://itunes.apple.com/be/artist/id81215547",
+        "id": "9f5b45f5-33c8-41df-a203-91a2508f2ba3"
+      },
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "purchase for download"
+    },
+    {
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/univers-zero-1bd6a1dc.html",
+        "id": "79dcc97b-785e-4f24-8ce2-da5f88440b59"
+      },
+      "attribute-values": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "setlistfm"
+    },
+    {
+      "type": "social network",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.facebook.com/groups/4688429431",
+        "id": "0ff42052-4516-4af1-8ba1-6ffbbef387b4"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "social network",
+      "url": {
+        "resource": "https://www.facebook.com/UniversZeroOfficial",
+        "id": "534cff5a-12ce-4284-bd0d-52057f18de7f"
+      },
+      "attribute-values": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "songkick",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "url": {
+        "id": "62631d09-fe8d-43f1-895b-3628df800663",
+        "resource": "https://www.songkick.com/artists/223593"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/81215547",
+        "id": "5137d1ac-82f9-4f1c-810f-13a9b50ab66c"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "streaming",
+      "attribute-values": {},
+      "url": {
+        "id": "c8cf132b-18a6-4fa7-88bf-a428cbfb5116",
+        "resource": "https://tidal.com/artist/3640560"
+      },
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "id": "70b81efa-8ebb-4780-a2ec-4f86978d5ea4",
+        "resource": "http://viaf.org/viaf/146333081"
+      },
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "VIAF",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "url": {
+        "id": "4893ae11-88d4-4651-b9c8-91d667450807",
+        "resource": "https://www.wikidata.org/wiki/Q2116423"
+      },
+      "attribute-values": {},
+      "type": "wikidata",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.youtube.com/channel/UC5uOOuaJ-f9fdZdCKrCfMHQ",
+        "id": "78e72de2-1187-4d40-9cca-481d9c8e6a1b"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "type": "youtube",
+      "begin": null,
+      "attribute-ids": {}
+    }
+  ],
+  "life-span": {
+    "end": null,
+    "begin": "1974",
+    "ended": false
+  },
+  "name": "Univers Zero",
+  "id": "698b164e-8f54-4b61-8e02-3ac5ca334ce2",
+  "disambiguation": "Belgian prog/jazzrock",
+  "gender": null,
+  "type": "Group",
+  "country": "BE",
+  "sort-name": "Univers Zero"
+}

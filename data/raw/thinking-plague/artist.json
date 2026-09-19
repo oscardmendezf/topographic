@@ -1,0 +1,382 @@
+{
+  "sort-name": "Thinking Plague",
+  "country": "US",
+  "type": "Group",
+  "relations": [
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1978",
+      "artist": {
+        "country": "FR",
+        "type": "Person",
+        "sort-name": "Drake, Bob",
+        "name": "Bob Drake",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "experimental musician",
+        "id": "12a381c1-cae0-4221-9b75-395a46a3d1f8"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": true,
+      "end": "1994",
+      "direction": "backward"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1990",
+      "direction": "backward",
+      "ended": true,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "country": "US",
+        "sort-name": "Lewis, Susanne",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Susanne Lewis",
+        "disambiguation": "Vocalist",
+        "id": "b16213cc-c411-46d2-8d63-56c6b4fafcb7"
+      },
+      "begin": "1985",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "end": "1989",
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1988",
+      "artist": {
+        "id": "63afc0a5-87da-41de-8c87-c2f3d8a681b6",
+        "disambiguation": "American noise musician",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Maria Moran",
+        "sort-name": "Moran, Maria",
+        "type": "Person",
+        "country": "US"
+      },
+      "type": "member of band"
+    },
+    {
+      "end": "1998",
+      "direction": "backward",
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "artist": {
+        "name": "Shane Hotle",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "fe104750-3d4a-4657-a937-ba9f83c61f53",
+        "country": null,
+        "type": "Person",
+        "sort-name": "Hotle, Shane"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1988",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "begin": "1988",
+      "artist": {
+        "id": "3eaa8627-c4da-4990-822d-d01d73129ae7",
+        "disambiguation": "US saxophonist/clarinetist",
+        "name": "Mark Harris",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Harris, Mark",
+        "country": "US",
+        "type": "Person"
+      },
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [],
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "source-credit": "",
+      "ended": true,
+      "end": "2000",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-ids": {},
+      "begin": "1989",
+      "artist": {
+        "name": "Dave Kerman",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "d5e1aa18-0b34-4bab-a881-b83badc62837",
+        "country": "US",
+        "type": "Person",
+        "sort-name": "Kerman, Dave"
+      },
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "artist": {
+        "country": null,
+        "type": "Person",
+        "sort-name": "Perry, Deborah",
+        "name": "Deborah Perry",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "4dfa7226-3cae-413e-b642-1a680a6ef096",
+        "disambiguation": ""
+      },
+      "begin": "1996",
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "artist": {
+        "sort-name": "Mitchell, Matt",
+        "country": "US",
+        "type": "Person",
+        "id": "8c4aeb3b-d52b-4233-86c9-67a85fd4b7db",
+        "disambiguation": "American pianist and composer",
+        "name": "Matt Mitchell",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1999",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "2004",
+      "direction": "backward",
+      "ended": true,
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "begin": "2001",
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "David Shamrock",
+        "disambiguation": "",
+        "id": "9be52e57-bb7c-4af8-8c67-2eac0f537739",
+        "type": "Person",
+        "country": "US",
+        "sort-name": "Shamrock, David"
+      },
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals"
+      ],
+      "artist": {
+        "id": "f3d5ca7b-e92d-4dee-876e-172fa5ca7646",
+        "disambiguation": "",
+        "name": "Elaine Di Falco",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Falco, Di, Elaine",
+        "country": null,
+        "type": "Person"
+      },
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "2008",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "direction": "backward",
+      "end": null,
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "artist": {
+        "disambiguation": "progressive rock guitarist",
+        "id": "70e83628-0a59-48e1-8c72-746252e44e0c",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mike Johnson",
+        "sort-name": "Johnson, Mike",
+        "type": "Person",
+        "country": "US"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000494777",
+        "id": "f37f9edb-969d-4341-9ff1-bc1b9e8663ff"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "allmusic"
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "url": {
+        "resource": "https://www.discogs.com/artist/182053",
+        "id": "78d1b01b-913d-4c80-a243-8f87cd4a5c8c"
+      },
+      "attribute-values": {},
+      "type": "discogs",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type": "streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://music.apple.com/us/artist/59409706",
+        "id": "fcf2ceb9-c3f1-4d56-9214-dd8a2187b60a"
+      }
+    },
+    {
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "id": "0b936328-2184-48b9-9ec3-a40313965162",
+        "resource": "https://tidal.com/artist/3642705"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "type": "streaming",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "wikidata",
+      "attribute-values": {},
+      "url": {
+        "id": "b397e183-1d75-4274-b409-0355533f36ec",
+        "resource": "https://www.wikidata.org/wiki/Q2085247"
+      },
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    }
+  ],
+  "gender": null,
+  "disambiguation": "",
+  "id": "50de12e7-a48b-463b-ab9d-fa0f37d51b5f",
+  "name": "Thinking Plague",
+  "life-span": {
+    "ended": false,
+    "begin": "1981",
+    "end": null
+  },
+  "isnis": [],
+  "gender-id": null,
+  "begin-area": null,
+  "ipis": [],
+  "area": {
+    "name": "United States",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "disambiguation": "",
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "type": null,
+    "sort-name": "United States"
+  },
+  "end-area": null,
+  "aliases": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+}

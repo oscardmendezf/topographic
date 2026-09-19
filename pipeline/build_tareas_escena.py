@@ -47,6 +47,18 @@ CONFIG = {
             {"id": "rar-beefheart", "artistas": ["captain-beefheart"]},
         ],
     },
+    "rio": {
+        "escena": "rio",
+        "grupos": [
+            {"id": "rio-magma", "artistas": ["magma"]},
+            {"id": "rio-zeuhl", "artistas": ["zao", "weidorje", "eskaton"]},
+            {"id": "rio-henry-cow", "artistas": ["henry-cow", "art-bears", "slapp-happy"]},
+            {"id": "rio-belgica", "artistas": ["univers-zero", "present", "aksak-maboul"]},
+            {"id": "rio-europa", "artistas": ["etron-fou-leloublan", "stormy-six", "samla-mammas-manna"]},
+            {"id": "rio-art-zoyd", "artistas": ["art-zoyd", "cassiber", "koenjihyakkei"]},
+            {"id": "rio-americas", "artistas": ["muffins", "thinking-plague", "5uus", "miriodor"]},
+        ],
+    },
 }
 
 

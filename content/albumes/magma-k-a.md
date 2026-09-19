@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "magma-k-a"
+titulo: "K.A"
+artista: "Magma"
+artista_slug: "magma"
+anio_ficha: 2004
+era: "moderna"
+escena: "rio"
+mb_rgid: "981b3db9-695b-36ca-af65-a3dc4b01019e"
+primer_lanzamiento: "2004-11-08"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Vuelta digna, con la escritura intacta y el filo limado."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Reactivó al público del grupo sin ampliarlo."
+historia: "editorial"
+---
+
+El regreso en 2004 con material que Vander arrastraba desde los setenta, ahora escrito como primer panel de la trilogía de Köhntarkösz. La formación larga —Stella Vander y los coros de Antoine e Himiko Paganotti, Philippe Bussonnet al bajo— toca con una precisión que las bandas de los setenta no tenían, y ese es a la vez el mérito y el problema: todo está bien puesto y nada amenaza. Un buen disco de Magma que no habría sido un gran disco de Magma en 1974.
+
+<!-- historia:editorial -->
+
+## La historia
+
+K.A es el disco que marca el regreso de Magma al estudio en 2004, después de dos décadas sin material nuevo. No es, sin embargo, música nueva: Vander arrastraba estos temas desde los años setenta, cuando formaban parte de lo que el grupo tocaba sin llegar a registrarlo, y lo que hace acá es escribirlos de forma definitiva y colocarlos como primer panel de la trilogía de Köhntarkösz. Es decir, el retorno no propone una etapa distinta sino que completa por delante una historia que había quedado abierta treinta años antes.
+
+La obra se despliega en tres movimientos, «Orkestraahl K.A. I», «Orkestraahl K.A. II» y «Orkestraahl K.A. III», que suman casi cincuenta minutos y funcionan como una sola pieza con tres respiraciones. El procedimiento es el clásico del grupo: ostinato que se instala, coro que entra por capas, tensión que crece por adición y no por contraste. Lo que narra es el tramo previo al descubrimiento de la tumba que ocupaba el disco de 1974, de modo que quien conozca aquel material va a reconocer células y gestos que reaparecen transformados. El tercer movimiento es el más ambicioso y el que mejor sostiene la escala. La formación es larga: Stella Vander y los coros de Antoine e Himiko Paganotti, con Philippe Bussonnet al bajo, y ese peso vocal devuelve al primer plano la escritura que Attahk y Merci habían arrinconado.
+
+## La producción
+
+No constan créditos verificados de productor, ingeniero ni estudio para esta grabación, así que no se van a atribuir. El sonido, en cambio, es una declaración: limpio, amplio, con separación de planos y una definición que el grupo nunca tuvo en los setenta. Cada voz del coro se distingue, el bajo tiene cuerpo y articulación, la batería está capturada con detalle en todo el rango.
+
+Esa precisión es el mérito y el problema a la vez. Los arreglos están escritos y ejecutados con una exactitud que en la etapa clásica era impensable —los ataques del coro son simultáneos, las transiciones no tienen borde, nada se descoloca—, y al desaparecer el margen de error desaparece también la sensación de riesgo que hacía que la repetición resultara inquietante. La instrumentación evita los timbres digitales que habían hundido al disco anterior y vuelve a apoyarse en piano, órgano, bajo eléctrico y masa vocal, una corrección de rumbo deliberada. El resultado es un disco que suena a Magma otra vez, grabado con recursos que Magma no tenía cuando le hacían falta.
+
+## Recepción y legado
+
+Se recibió con alivio, que es una forma benévola de recibir algo. Después de Merci, cualquier retorno que recuperara el coro y las estructuras largas iba a ser bienvenido, y K.A cumple: está bien escrito, bien tocado y no tiene tramos flojos. Lo que no tiene es amenaza. Todo está en su lugar, y en esta música que todo esté en su lugar resta más de lo que suma. Con los años quedó como el mejor de los dos primeros paneles de la trilogía tardía, superado más tarde por el cierre, y como la prueba de que el grupo podía volver sin caricaturizarse. Un buen disco de Magma que no habría sido un gran disco de Magma en 1974, y esa distancia dice bastante sobre lo que se gana y lo que se pierde con el tiempo.

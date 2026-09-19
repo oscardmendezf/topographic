@@ -9,7 +9,8 @@ El manifiesto trae el tracklist con los números de pista (el ancla dura: el
 redactor solo puede elegir números que existen) y los metadatos del álbum. El
 texto de la ficha NO se copia acá: el redactor abre content/albumes/<slug>.md.
 
-Uso:  python3 pipeline/build_tareas_destacadas.py [--lote N] [--prefijo dest]
+Uso:  python3 pipeline/build_tareas_destacadas.py [--lote N] [--prefijo dest] [--pendientes]
+      --pendientes  solo los álbumes que todavía no están en data/destacadas.json
 """
 
 import json
@@ -31,13 +32,25 @@ def campo(fm: str, k: str):
 def main() -> None:
     lote = int(sys.argv[sys.argv.index("--lote") + 1]) if "--lote" in sys.argv else 40
     prefijo = sys.argv[sys.argv.index("--prefijo") + 1] if "--prefijo" in sys.argv else "dest"
+    solo_pendientes = "--pendientes" in sys.argv
     canciones = json.loads((DATA / "canciones.json").read_text(encoding="utf-8"))
+    hechos = set()
+    if solo_pendientes:
+        f = DATA / "destacadas.json"
+        hechos = set(json.loads(f.read_text(encoding="utf-8"))) if f.exists() else set()
+        # los declarados «sin nada que destacar» tampoco se vuelven a pedir
+        for j in sorted((DATA / "editorial_destacadas").glob("*.json")):
+            for alb in json.loads(j.read_text(encoding="utf-8")).get("albumes", []):
+                if alb.get("sin_destacadas"):
+                    hechos.add(alb["album_slug"])
 
     items, sin_lista = [], 0
     for md in sorted(ALBUMES.glob("*.md")):
         lista = canciones.get(md.stem)
         if not lista:
             sin_lista += 1
+            continue
+        if solo_pendientes and md.stem in hechos:
             continue
         fm = md.read_text(encoding="utf-8").split("---\n", 2)[1]
         # `medio` es obligatorio: en los 94 álbumes de más de un disco los números

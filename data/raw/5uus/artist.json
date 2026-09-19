@@ -1,0 +1,267 @@
+{
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "ipis": [],
+  "isnis": [],
+  "sort-name": "5uu's",
+  "name": "5uu's",
+  "country": "US",
+  "disambiguation": "",
+  "begin-area": {
+    "sort-name": "Los Angeles",
+    "disambiguation": "",
+    "name": "Los Angeles",
+    "type-id": null,
+    "type": null,
+    "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62"
+  },
+  "gender-id": null,
+  "aliases": [],
+  "area": {
+    "type": null,
+    "id": "489ce91b-6658-3307-9877-795b68554c98",
+    "sort-name": "United States",
+    "disambiguation": "",
+    "name": "United States",
+    "iso-3166-1-codes": [
+      "US"
+    ],
+    "type-id": null
+  },
+  "life-span": {
+    "end": "2004",
+    "ended": true,
+    "begin": "1984"
+  },
+  "gender": null,
+  "relations": [
+    {
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "member of band",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "id": "d5e1aa18-0b34-4bab-a881-b83badc62837",
+        "country": "US",
+        "sort-name": "Kerman, Dave",
+        "disambiguation": "",
+        "name": "Dave Kerman",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "id": "3582a4fe-5fe4-404e-ace1-6a5904152bd9",
+        "sort-name": "Wilson, Curt",
+        "disambiguation": "",
+        "name": "Curt Wilson",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": null,
+      "type": "member of band",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "type": "allmusic",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000573065",
+        "id": "e1c094e4-1b2b-4175-8f9c-4d1ab42bb8ee"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "source-credit": ""
+    },
+    {
+      "type": "discogs",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "451e3c1a-87bc-4f75-84e8-28ef11f1b65d",
+        "resource": "https://www.discogs.com/artist/180283"
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+    },
+    {
+      "source-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.last.fm/music/5uu's",
+        "id": "5bb041c7-ce35-4e6d-bf2d-b10e70b3ce00"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type": "last.fm",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "url": {
+        "id": "27c205e5-5680-4aa1-96e9-db528f37a8cf",
+        "resource": "http://5uus.com/"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "ended": true,
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "official homepage"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no97037277",
+        "id": "6111a811-f21b-43a2-bddc-f4a525ecee49"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "type": "other databases",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "url": {
+        "id": "16c684e3-4d50-4f43-b908-bfbf17128898",
+        "resource": "https://rateyourmusic.com/artist/5uus"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type": "other databases",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-no97037277",
+        "id": "ec053cd3-b594-4bff-8c6b-36547fab3ddb"
+      }
+    },
+    {
+      "url": {
+        "resource": "http://www.progarchives.com/artist.asp?id=108",
+        "id": "7f56fd0c-d90a-4691-bc96-cee271a87aeb"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "type": "other databases",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "type": "VIAF",
+      "begin": null,
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/1146825008207631843",
+        "id": "75fbdc7a-3f4a-4634-a7f1-0bb3555f36c0"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "type": "wikidata",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q4641509",
+        "id": "c4dfe25d-9755-4458-80cc-4702b0e2b088"
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "source-credit": ""
+    }
+  ],
+  "end-area": null,
+  "id": "1d860d97-677e-4bc4-b64f-2524a4a61a59",
+  "type": "Group"
+}

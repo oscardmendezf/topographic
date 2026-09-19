@@ -1,0 +1,274 @@
+{
+  "end-area": null,
+  "name": "Present",
+  "isnis": [
+    "0000000123641685"
+  ],
+  "id": "74517c33-40b8-439f-85a9-c86ae8350f12",
+  "begin-area": {
+    "id": "7bda5d46-4809-41dc-a0b8-e889ff818f2e",
+    "name": "Brussels",
+    "disambiguation": "",
+    "type": null,
+    "type-id": null,
+    "sort-name": "Brussels",
+    "iso-3166-2-codes": [
+      "BE-BRU"
+    ]
+  },
+  "aliases": [],
+  "relations": [
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Chevalier, Pierre",
+        "type": "Person",
+        "country": "BE",
+        "disambiguation": "",
+        "id": "cc4f1bcb-2e9b-4360-b312-b6aaf5d829e0",
+        "name": "Pierre Chevalier"
+      },
+      "type": "member of band",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "target-type": "artist",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": null,
+      "begin": null,
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "bass"
+      ],
+      "artist": {
+        "disambiguation": "Belgian bassist",
+        "type": "Person",
+        "country": "BE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Genet, Christian",
+        "id": "f40cef7d-ee1e-407b-b8fb-41e13df6961c",
+        "name": "Christian Genet"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "artist": {
+        "name": "Dave Kerman",
+        "id": "d5e1aa18-0b34-4bab-a881-b83badc62837",
+        "type": "Person",
+        "country": "US",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Kerman, Dave"
+      },
+      "type": "member of band",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "name": "Udi Koomran",
+        "id": "3b0f34b5-0aa9-4073-abf0-4cb6e944d210",
+        "disambiguation": "Israeli audio engineer",
+        "type": "Person",
+        "country": "IL",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Koomran, Udi"
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "artist": {
+        "sort-name": "Trigaux, Roger",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "BE",
+        "type": "Person",
+        "disambiguation": "Belgian guitarist, founder of Present and Univers Zero",
+        "id": "a4c00f50-6b33-4709-bab6-52ed9a669476",
+        "name": "Roger Trigaux"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "url": {
+        "resource": "https://www.discogs.com/artist/276874",
+        "id": "fb6dde7c-09cb-4132-84af-de2628f4533d"
+      },
+      "type": "discogs",
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "source-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "url": {
+        "id": "b6714f69-631c-4bfc-b31f-ba851c2a50e0",
+        "resource": "https://www.last.fm/music/Present"
+      },
+      "type": "last.fm",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "source-credit": "",
+      "url": {
+        "id": "8db0b6d4-b263-4e1e-85c9-c5e4bf2d3e17",
+        "resource": "http://www.rocktime.org/present/index.html"
+      },
+      "ended": true,
+      "type": "official homepage"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "e695aae0-53d7-4e40-9d9f-69ab56903e5e",
+        "resource": "https://rateyourmusic.com/artist/present"
+      },
+      "type": "other databases",
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "type": "setlistfm",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/present-13d6a1d1.html",
+        "id": "1e2381e3-61b7-4a81-b851-21ea4143c279"
+      }
+    },
+    {
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "wikidata",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q928807",
+        "id": "e7e5f5a7-0ea3-4568-a6b5-c7b6acb08f45"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1979"
+  },
+  "type": "Group",
+  "disambiguation": "Belgian progressive rock group",
+  "ipis": [],
+  "gender": null,
+  "area": {
+    "disambiguation": "",
+    "type": null,
+    "type-id": null,
+    "sort-name": "Belgium",
+    "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+    "name": "Belgium",
+    "iso-3166-1-codes": [
+      "BE"
+    ]
+  },
+  "gender-id": null,
+  "sort-name": "Present",
+  "country": "BE"
+}

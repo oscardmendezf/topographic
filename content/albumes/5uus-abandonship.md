@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "5uus-abandonship"
+titulo: "Abandonship"
+artista: "5uu's"
+artista_slug: "5uus"
+anio_ficha: 2002
+era: "moderna"
+escena: "rio"
+mb_rgid: "db229a12-4982-3b2a-98c8-3c11ba0299c4"
+primer_lanzamiento: "2002-01-29"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "El disco donde la oposición estética vuelve a tener un referente concreto."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Circulación reducida incluso para los parámetros de la escena."
+historia: "editorial"
+---
+
+Grabado en Israel con el productor local y con Deborah Perry, mete grabaciones de campo del conflicto dentro del cuerpo de las piezas, y el gesto no es decorativo: el disco entero está construido sobre corte, cita y superposición. Es lo más cerca que esta rama del RIO estuvo de la política explícita de sus padres europeos, y también su experimento de estudio más radical.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Abandonship se grabó en Israel, con un productor local y con Deborah Perry otra vez en las voces, y el lugar no es un detalle logístico: el disco mete grabaciones de campo del conflicto dentro del cuerpo de las piezas. No como fondo ambiental ni como efecto dramático al principio y al final, sino como material sonoro que ocupa el mismo plano que la batería o la voz. El gesto tiene consecuencias: obliga a escuchar la música y el ruido del mundo con el mismo oído, sin la jerarquía que permite tratar uno como arte y el otro como noticia.
+
+El título dice lo que hay que decir: abandonar el barco. La primera pieza, «Yordei Hasira #2», nombra a los que bajan de la embarcación, y a partir de ahí el disco se mueve entre lo cotidiano y lo insoportable sin marcar la transición. «Penguins on Dizengoff» pone una imagen absurda sobre una calle de Tel Aviv; «Hill of Spring» traduce al inglés el nombre de esa misma ciudad y lo convierte en un paisaje casi bucólico; «Thoroughly Modern Atilla» cruza el musical con el caudillo huno en nueve minutos que son de los más ambiciosos del catálogo; «Noah's Flame» sustituye el diluvio por el fuego; «Belly-Up» cierra con la expresión que se usa para la quiebra y para el pez muerto flotando. «Ringing in the New Ear», la miniatura que ya había aparecido en Crisis in Clay, vuelve acá como guiño interno.
+
+## La producción
+
+No constan en MusicBrainz créditos verificados de personal para este álbum, de modo que el productor israelí queda sin nombre en esta ficha aunque su trabajo sea determinante. Lo que sí puede describirse es el procedimiento, que es el más radical que el grupo intentó en estudio: corte, cita y superposición aplicados a todo el material, tanto al que se tocó como al que se capturó fuera. Las grabaciones de campo se editan con el mismo criterio rítmico que la percusión, se recortan en el ataque y se colocan en el compás, de manera que una sirena o una voz de la calle entran a tiempo como entraría un platillo.
+
+El resultado es un disco denso, con capas que se pisan a propósito y sin la limpieza que Bob Drake había dado a los discos de los noventa. Hay tramos largos —«Thoroughly Modern Atilla», «Noah's Flame», «Belly-Up» superan todos los ocho o nueve minutos— donde el montaje se despliega con paciencia y otros de menos de dos donde funciona como golpe. La voz de Perry, más expuesta que en el disco anterior, hace de hilo entre bloques que de otro modo no se tocarían.
+
+## Recepción y legado
+
+Es lo más cerca que esta rama del RIO estuvo de la política explícita de sus padres europeos, y quienes lo escucharon entonces lo entendieron así. No es un disco de consignas: no hay letra que explique el conflicto ni posición que se declare, y esa negativa a resolver es exactamente lo que lo vuelve incómodo. Hoy se lo defiende como el experimento de estudio más arriesgado del grupo y se le objeta, con razón, que la densidad castiga a quien no llegue dispuesto. Dentro del catálogo ocupa un sitio propio: ni la concisión de Hunger's Teeth ni la textura de Crisis in Clay, sino un montaje que usa el mundo como fuente. Después vinieron dos décadas de silencio.

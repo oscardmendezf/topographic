@@ -1,0 +1,29 @@
+{
+  "release-group-count": 2,
+  "release-groups": [
+    {
+      "title": "Live Toulon 1978",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "id": "03e54b07-cb11-4028-bad3-520455c6477a",
+      "primary-type": "Album",
+      "first-release-date": "2023-06-30",
+      "secondary-types": [
+        "Live"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "title": "Weidorje",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "first-release-date": "1978",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "id": "ab8ac57b-e817-3ee9-9629-5d24c9c62e9f"
+    }
+  ]
+}

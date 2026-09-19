@@ -1,0 +1,644 @@
+{
+  "life-span": {
+    "begin": "1991",
+    "ended": false,
+    "end": null
+  },
+  "gender": null,
+  "id": "13cab414-10c3-4e03-82e3-629e42b34875",
+  "begin-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Koenjihyakkei",
+  "gender-id": null,
+  "area": {
+    "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+    "type": null,
+    "disambiguation": "",
+    "name": "Japan",
+    "iso-3166-1-codes": [
+      "JP"
+    ],
+    "type-id": null,
+    "sort-name": "Japan"
+  },
+  "isnis": [
+    "0000000086856133"
+  ],
+  "country": "JP",
+  "name": "高円寺百景",
+  "aliases": [
+    {
+      "sort-name": "Koenji Hyakkei",
+      "type-id": null,
+      "end": null,
+      "name": "Koenji Hyakkei",
+      "type": null,
+      "begin": null,
+      "ended": false,
+      "primary": null,
+      "locale": null
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "primary": true,
+      "locale": "en",
+      "sort-name": "Koenjihyakkei",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "end": null,
+      "type": "Artist name",
+      "name": "Koenjihyakkei"
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "primary": null,
+      "locale": null,
+      "sort-name": "こうえんじ ひゃっけい",
+      "type-id": null,
+      "end": null,
+      "type": null,
+      "name": "こうえんじ ひゃっけい"
+    },
+    {
+      "name": "こうえんじひゃっけい",
+      "type": null,
+      "type-id": null,
+      "sort-name": "こうえんじひゃっけい",
+      "end": null,
+      "locale": null,
+      "ended": false,
+      "begin": null,
+      "primary": null
+    }
+  ],
+  "end-area": null,
+  "ipis": [],
+  "relations": [
+    {
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "id": "eb599441-1255-4284-a718-5a29671167df",
+        "type": "Person",
+        "disambiguation": "Japanese prog rock vocalist",
+        "country": "JP",
+        "name": "久保田安紀",
+        "sort-name": "Kubota, Aki",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "original"
+      ],
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1991",
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1997"
+    },
+    {
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "name": "吉田達也",
+        "country": "JP",
+        "disambiguation": "drummer in Ruins",
+        "type": "Person",
+        "sort-name": "Yoshida, Tatsuya",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7a82840d-beb5-4819-aed3-6b732332b461"
+      },
+      "end": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-values": {},
+      "begin": "1991",
+      "source-credit": ""
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "2003",
+      "attribute-credits": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1996",
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "electric guitar"
+      ],
+      "artist": {
+        "sort-name": "Harada, Jin",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "JP",
+        "disambiguation": "",
+        "name": "原田仁",
+        "type": "Person",
+        "id": "085c8b20-346b-4b8b-94fc-078543fc9e29"
+      },
+      "ended": true,
+      "target-credit": ""
+    },
+    {
+      "type": "member of band",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "target-type": "artist",
+      "ended": false,
+      "target-credit": "",
+      "artist": {
+        "id": "eec423e3-ae6e-4ee9-8c87-216dc09b5c23",
+        "type": "Person",
+        "country": "JP",
+        "name": "坂元健吾",
+        "disambiguation": "",
+        "sort-name": "Sakamoto, Kengo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-credits": {},
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "begin": "1996",
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "begin": "2002",
+      "attribute-values": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attribute-credits": {},
+      "end": "2006",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "country": "JP",
+        "disambiguation": "Japanese pianist",
+        "name": "金澤美也子",
+        "sort-name": "Kanazawa, Miyako",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "77783904-4f84-4cc3-8a41-dc736c66519d"
+      },
+      "ended": true,
+      "target-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "type": "member of band",
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "dedaa4db-4a5e-409f-8511-ec4836f89f29",
+        "disambiguation": "",
+        "country": "JP",
+        "name": "小森慶子",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Komori, Keiko"
+      },
+      "attributes": [
+        "clarinet"
+      ],
+      "type": "member of band",
+      "target-type": "artist",
+      "begin": "2005",
+      "attribute-ids": {
+        "clarinet": "08028095-6dae-4fe0-9f34-284fde19f29b"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null
+    },
+    {
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "begin": "2005",
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "country": "JP",
+        "name": "小森慶子",
+        "disambiguation": "",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Komori, Keiko",
+        "id": "dedaa4db-4a5e-409f-8511-ec4836f89f29"
+      },
+      "target-type": "artist",
+      "attributes": [
+        "saxophone"
+      ],
+      "type": "member of band"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "id": "eb599441-1255-4284-a718-5a29671167df",
+        "type": "Person",
+        "name": "久保田安紀",
+        "country": "JP",
+        "disambiguation": "Japanese prog rock vocalist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Kubota, Aki"
+      },
+      "end": "2007",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "begin": "2007",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "source-credit": ""
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": null,
+      "attribute-credits": {},
+      "source-credit": "",
+      "begin": "2007",
+      "attribute-values": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "target-type": "artist",
+      "attributes": [
+        "keyboard"
+      ],
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Yabuki, Taku",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "JP",
+        "name": "矢吹卓",
+        "type": "Person",
+        "id": "fcfbfaa2-3f6a-49cf-a81d-5f73e5febcb5"
+      },
+      "ended": false,
+      "target-credit": ""
+    },
+    {
+      "type": "member of band",
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "ended": false,
+      "target-credit": "",
+      "artist": {
+        "id": "598455e6-7ca2-470a-b738-dbc004bd60ea",
+        "type": "Person",
+        "country": "JP",
+        "name": "AH",
+        "disambiguation": "member of Koenjihyakkei",
+        "sort-name": "AH",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-credits": {},
+      "end": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "2008-09",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "begin": "2017",
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "c235c5ae-a96b-4027-b82d-456a53626617",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Koganemaru, Kei",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "JP",
+        "name": "小金丸慧"
+      },
+      "type": "member of band",
+      "attributes": [
+        "electric guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "c102026c-ca4d-4868-abdd-0ad18b91c446",
+        "resource": "https://www.allmusic.com/artist/mn0000841697"
+      },
+      "attributes": [],
+      "type": "allmusic",
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "bandcamp",
+      "url": {
+        "id": "21bcf0b6-4a61-4f3a-92c3-adaedca03ddb",
+        "resource": "https://koenjihyakkei.bandcamp.com/"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88"
+    },
+    {
+      "direction": "forward",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "type": "discogs",
+      "attributes": [],
+      "url": {
+        "id": "68279c72-9bfe-4a5c-ab20-26dd9e63bc84",
+        "resource": "https://www.discogs.com/artist/380205"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.deezer.com/artist/1260818",
+        "id": "a4154e69-8850-4160-ba4a-ec5787cae9f1"
+      },
+      "type": "free streaming",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "faee64a5-21e8-453e-95fc-3c6f1e7210e5",
+        "resource": "https://www.last.fm/music/%E9%AB%98%E5%86%86%E5%AF%BA%E7%99%BE%E6%99%AF"
+      },
+      "type": "last.fm",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.last.fm/music/Koenjihyakkei",
+        "id": "de524184-f2d7-4383-aace-3096d81e1282"
+      },
+      "attributes": [],
+      "type": "last.fm",
+      "target-type": "url"
+    },
+    {
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "id": "b6632d4e-69e8-42ae-b1fc-fb212425438e",
+        "resource": "https://myspace.com/koenjihyakkeijp"
+      },
+      "attributes": [],
+      "type": "myspace",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "http://www.skingraftrecords.com/bandhtmlpages/koenjipg.html",
+        "id": "3ad15386-e00a-4b05-91cc-47a2fa516c54"
+      },
+      "attributes": [],
+      "type": "official homepage",
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "type": "other databases",
+      "attributes": [],
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/%E9%AB%98%E5%86%86%E5%AF%BA%E7%99%BE%E6%99%AF",
+        "id": "40e2a089-e435-41e8-84db-694ed85873dc"
+      },
+      "ended": false,
+      "target-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "id": "5271a6a5-61bc-402e-897f-5dc66366aa82",
+        "resource": "https://www.progarchives.com/artist.asp?id=1218"
+      },
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "setlistfm",
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/koenjihyakkei-43d07bcb.html",
+        "id": "7a599a61-4a94-4c9a-901e-36d7e3b53309"
+      },
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "91777c4b-211f-48b2-9650-8e0bccbf19fb",
+        "resource": "https://www.facebook.com/koenjihyakkei"
+      },
+      "attributes": [],
+      "type": "social network"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "songkick",
+      "url": {
+        "id": "6adcd0fc-837c-4b7f-af6d-a3be140672d8",
+        "resource": "https://www.songkick.com/artists/4325326"
+      },
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "bd723d03-4b1c-4812-936d-37c9d71e3666",
+        "resource": "https://www.wikidata.org/wiki/Q1844695"
+      },
+      "type": "wikidata",
+      "attributes": [],
+      "target-type": "url"
+    }
+  ],
+  "type": "Group",
+  "disambiguation": ""
+}

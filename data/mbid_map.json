@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-18T12:57:40+00:00",
+ "generado": "2026-09-19T04:27:04+00:00",
  "fuente": "búsqueda API MusicBrainz (ningún MBID de memoria)",
  "artistas": {
   "beatles": {
@@ -1044,7 +1044,7 @@
    "country": "GB",
    "disambiguation": "60s band from the UK",
    "mb_score": 76,
-   "status": "ok",
+   "status": "revisar",
    "alternativas": [
     {
      "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
@@ -1065,10 +1065,9 @@
      "mb_name": "Nirvana",
      "country": "FI",
      "disambiguation": "early 1980s Finnish punk band",
-     "mb_score": 61
+     "mb_score": 62
     }
-   ],
-   "confirmado_a_mano": "homónimo del grupo de Seattle; desambiguación de MusicBrainz '60s band from the UK', país GB"
+   ]
   },
   "zombies": {
    "name": "The Zombies",
@@ -1223,6 +1222,249 @@
    "mb_score": 100,
    "status": "ok",
    "alternativas": []
+  },
+  "magma": {
+   "name": "Magma",
+   "mbid": "7f89e84d-4c35-4d53-a965-4f3ce1c4ef4f",
+   "mb_name": "Magma",
+   "type": "Group",
+   "country": "FR",
+   "disambiguation": "French progressive rock band",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "zao": {
+   "name": "Zao",
+   "mbid": "5f26d6b7-95df-420b-bbfb-5e8a86800ae8",
+   "mb_name": "ZAO",
+   "type": "Group",
+   "country": "FR",
+   "disambiguation": "French \"Zeuhl\" band from 1970s",
+   "mb_score": 91,
+   "status": "ok",
+   "alternativas": []
+  },
+  "weidorje": {
+   "name": "Weidorje",
+   "mbid": "828fbb5a-7287-4486-941c-ad1d57f39f0b",
+   "mb_name": "Weidorje",
+   "type": "Group",
+   "country": "FR",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "eskaton": {
+   "name": "Eskaton",
+   "mbid": "7eb38036-b783-4247-9054-465c0cf7f324",
+   "mb_name": "Eskaton",
+   "type": "Group",
+   "country": "FR",
+   "disambiguation": "French progressive-Zeuhl Band",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "henry-cow": {
+   "name": "Henry Cow",
+   "mbid": "6ba2f6ce-50be-47df-b5a3-298ef032f476",
+   "mb_name": "Henry Cow",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "univers-zero": {
+   "name": "Univers Zero",
+   "mbid": "698b164e-8f54-4b61-8e02-3ac5ca334ce2",
+   "mb_name": "Univers Zero",
+   "type": "Group",
+   "country": "BE",
+   "disambiguation": "Belgian prog/jazzrock",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "etron-fou-leloublan": {
+   "name": "Etron Fou Leloublan",
+   "mbid": "56841f5a-6767-4009-8947-b1352c2a8a4c",
+   "mb_name": "Etron Fou Leloublan",
+   "type": "Group",
+   "country": "FR",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "stormy-six": {
+   "name": "Stormy Six",
+   "mbid": "7b3e79ae-431d-4af5-9868-4086694252fe",
+   "mb_name": "Stormy Six",
+   "type": "Group",
+   "country": "IT",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "samla-mammas-manna": {
+   "name": "Samla Mammas Manna",
+   "mbid": "67a178e3-43db-4bab-bf08-672549057098",
+   "mb_name": "Samla Mammas Manna",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "art-zoyd": {
+   "name": "Art Zoyd",
+   "mbid": "aba325af-9e75-4db8-967f-eab02b1116d2",
+   "mb_name": "Art Zoyd",
+   "type": "Group",
+   "country": "FR",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "aksak-maboul": {
+   "name": "Aksak Maboul",
+   "mbid": "a1bfc658-4ae1-45fd-bfe8-d215b46a11bf",
+   "mb_name": "Aksak Maboul",
+   "type": "Group",
+   "country": "BE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "muffins": {
+   "name": "The Muffins",
+   "mbid": "9c1c7eb7-7d23-43b8-8a5b-578ef568cfa9",
+   "mb_name": "The Muffins",
+   "type": "Group",
+   "country": "US",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "art-bears": {
+   "name": "Art Bears",
+   "mbid": "aaf0c715-407f-418e-8674-ba933d4d89db",
+   "mb_name": "Art Bears",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "present": {
+   "name": "Present",
+   "mbid": "74517c33-40b8-439f-85a9-c86ae8350f12",
+   "mb_name": "Present",
+   "type": "Group",
+   "country": "BE",
+   "disambiguation": "Belgian progressive rock group",
+   "mb_score": 86,
+   "status": "ok",
+   "alternativas": [
+    {
+     "mbid": "707622da-475f-48e1-905d-248718df6521",
+     "mb_name": "The Wedding Present",
+     "country": "GB",
+     "disambiguation": "",
+     "mb_score": 100
+    },
+    {
+     "mbid": "d7253371-318e-4837-911f-f41804cfd67d",
+     "mb_name": "Present",
+     "country": null,
+     "disambiguation": "bay-area California grunge band",
+     "mb_score": 80
+    },
+    {
+     "mbid": "6ead5103-4e99-4a85-9983-3b5f8e8293e3",
+     "mb_name": "Present",
+     "country": "US",
+     "disambiguation": "Los Angeles punk band",
+     "mb_score": 78
+    }
+   ],
+   "confirmado_a_mano": "homónimo de The Wedding Present y de dos bandas estadounidenses; MusicBrainz lo desambigua como 'Belgian progressive rock group'"
+  },
+  "cassiber": {
+   "name": "Cassiber",
+   "mbid": "5443c873-3a3b-4923-ad09-af8192a218a4",
+   "mb_name": "Cassiber",
+   "type": "Group",
+   "country": "DE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "slapp-happy": {
+   "name": "Slapp Happy",
+   "mbid": "4be40614-e079-45b6-a7b9-deb1b11bf3c6",
+   "mb_name": "Slapp Happy",
+   "type": "Group",
+   "country": "DE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "thinking-plague": {
+   "name": "Thinking Plague",
+   "mbid": "50de12e7-a48b-463b-ab9d-fa0f37d51b5f",
+   "mb_name": "Thinking Plague",
+   "type": "Group",
+   "country": "US",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "5uus": {
+   "name": "5uu's",
+   "mbid": "1d860d97-677e-4bc4-b64f-2524a4a61a59",
+   "mb_name": "5uu's",
+   "type": "Group",
+   "country": "US",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "miriodor": {
+   "name": "Miriodor",
+   "mbid": "ef154158-c9ea-4ea7-9059-f511b090eb1e",
+   "mb_name": "Miriodor",
+   "type": "Group",
+   "country": "CA",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "koenjihyakkei": {
+   "name": "高円寺百景",
+   "mbid": "13cab414-10c3-4e03-82e3-629e42b34875",
+   "mb_name": "高円寺百景",
+   "type": "Group",
+   "country": "JP",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "confirmado_a_mano": "búsqueda en la API con las grafías «Koenji Hyakkei», «Kōenji Hyakkei» y «高円寺百景»: las tres devuelven este artista con score 100, país JP"
   }
  }
 }

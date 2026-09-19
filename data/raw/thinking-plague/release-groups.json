@@ -1,0 +1,103 @@
+{
+  "release-group-count": 9,
+  "release-groups": [
+    {
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "...A Thinking Plague",
+      "secondary-type-ids": [],
+      "id": "0e9632c1-b8cc-37a5-b61b-4ff7c4b6e2d8",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "1984"
+    },
+    {
+      "id": "66570264-45ca-3f7e-8689-1fb19d71e8cb",
+      "primary-type": "Album",
+      "first-release-date": "1998-12-08",
+      "secondary-types": [],
+      "title": "In Extremis",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "2004-09-28",
+      "primary-type": "Album",
+      "id": "69714dba-6362-3da2-a479-bab749f85eaa",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Upon Both Your Houses",
+      "disambiguation": ""
+    },
+    {
+      "id": "6cea5caf-dafe-4da0-8d98-f18d1a5cfbaa",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "2017-02-10",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Hoping Against Hope",
+      "disambiguation": "",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "2012",
+      "id": "6d024716-2ac3-4087-bd1a-e4ed60507eda",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Decline and Fall",
+      "disambiguation": ""
+    },
+    {
+      "title": "In This Life",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "id": "720610dd-c8a3-3b60-8628-7464f12656ae",
+      "first-release-date": "1989",
+      "primary-type": "Album",
+      "secondary-types": []
+    },
+    {
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "A History of Madness",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2003-09-19",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "id": "82c120f1-c6e3-3608-bcdc-44febf4133d5"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Early Plague Years",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "first-release-date": "2000",
+      "id": "e2355d98-094d-3729-81b7-c7ba46b6a54e"
+    },
+    {
+      "id": "ee9b2909-99ee-35bb-8533-8fe91ba82eb1",
+      "first-release-date": "1987",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "title": "Moonsongs",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-type-ids": []
+    }
+  ]
+}

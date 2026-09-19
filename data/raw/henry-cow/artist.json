@@ -1,0 +1,561 @@
+{
+  "gender": null,
+  "relations": [
+    {
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "artist": {
+        "type": "Person",
+        "id": "7bd43b80-65bd-4ae0-a1f0-fd65fb005853",
+        "name": "John Greaves",
+        "disambiguation": "",
+        "sort-name": "Greaves, John",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": true,
+      "end": "1976-03",
+      "attribute-ids": {},
+      "begin": "1969-10",
+      "type": "member of band"
+    },
+    {
+      "direction": "backward",
+      "artist": {
+        "id": "b8d5c07b-6a7c-4ab7-83b8-8bcc4cb866b6",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "sort-name": "Cutler, Chris",
+        "disambiguation": "drummer",
+        "name": "Chris Cutler"
+      },
+      "target-type": "artist",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "begin": "1971-08",
+      "attribute-ids": {},
+      "ended": true,
+      "end": "1978-08"
+    },
+    {
+      "attribute-ids": {},
+      "ended": true,
+      "end": "1973-12",
+      "type": "member of band",
+      "begin": "1972",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "name": "Geoff Leigh",
+        "disambiguation": "",
+        "sort-name": "Leigh, Geoff",
+        "id": "2a850ab7-fdba-4b2c-b69d-b89d3f09f65a",
+        "type": "Person"
+      }
+    },
+    {
+      "type": "member of band",
+      "begin": "1974-01",
+      "attribute-ids": {},
+      "end": "1978-08",
+      "ended": true,
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "id": "4675dce4-32cd-4e5b-8270-676e2b9860c9",
+        "country": "GB",
+        "name": "Lindsay Cooper",
+        "disambiguation": "English female bassoon, oboe, piano, flute player, political activist",
+        "sort-name": "Cooper, Lindsay",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": ""
+    },
+    {
+      "end": "1977-11",
+      "ended": true,
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1975-04",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "id": "c4defa11-66b2-4255-960d-ad8867bc50da",
+        "country": "DE",
+        "disambiguation": "",
+        "sort-name": "Krause, Dagmar",
+        "name": "Dagmar Krause",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "artist": {
+        "disambiguation": "",
+        "name": "Georgie Born",
+        "sort-name": "Born, Georgie",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "5002f269-6894-4ccf-bbe2-7b93f7684234"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "end": "1978-04",
+      "ended": true,
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1976-06"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type": "Person",
+        "id": "643ff039-e473-4178-b523-a76a67b7cdd7",
+        "sort-name": "Blegvad, Peter",
+        "disambiguation": "",
+        "name": "Peter Blegvad",
+        "country": "US",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "member of band",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Frith, Fred",
+        "disambiguation": "",
+        "name": "Fred Frith",
+        "country": "US",
+        "id": "4801bad4-1b42-4c9e-84b1-bf61067ab67c",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "artist": {
+        "id": "9d69df98-f0e0-487f-8f85-e725445fbc99",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "disambiguation": "British experimental musician and composer",
+        "sort-name": "Hodgkinson, Tim",
+        "name": "Tim Hodgkinson"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "artist": {
+        "name": "Anthony Moore",
+        "disambiguation": "UK experimental musician, aka Anthony More",
+        "sort-name": "Moore, Anthony",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "84490b56-ff86-4492-be8e-ae565b50f97e"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "member of band",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "41f899a3-c8be-45bb-b897-1c9467e4037d",
+        "resource": "https://www.allmusic.com/artist/mn0000672182"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "type": "allmusic",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.bbc.co.uk/music/artists/6ba2f6ce-50be-47df-b5a3-298ef032f476",
+        "id": "9d410234-60e5-4306-acb6-7e0cc4ce45b1"
+      },
+      "ended": true,
+      "end": "2020-11-19",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "BBC Music page"
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "836b0df8-416e-4525-b9cc-7f82a7d658ef",
+        "resource": "http://www.geocities.co.jp/Broadway/6763/cow.html"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "begin": null,
+      "type": "discography page",
+      "end": "2019-03-31",
+      "ended": true,
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "type": "discogs",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "58334be7-4166-44f8-a36e-aa0b7aa731e1",
+        "resource": "https://www.discogs.com/artist/282968"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type": "free streaming",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/6P3Zlv61YNe6DHVZhFj8oL",
+        "id": "2f647733-90f8-41ee-94d2-b442923167d9"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.last.fm/music/Henry+Cow",
+        "id": "d56ae886-9194-4de8-8dd4-d5b9da33317f"
+      },
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "last.fm"
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "type": "other databases",
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "05d59f08-12a8-4eea-8cf0-ed7a754507d3",
+        "resource": "http://id.loc.gov/authorities/names/n96009204"
+      }
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb14470654f",
+        "id": "1f9cb482-4a7b-4225-adb5-78e6ff3711f5"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "type": "other databases",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/henry_cow",
+        "id": "a24ea351-dac9-4446-9b82-d8a58babf03c"
+      },
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "c8951140-41c9-41f6-814e-c43444322098",
+        "resource": "https://www.45cat.com/artist/henry-cow"
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "9cbdac93-5e93-4261-be7c-9db34adc5145",
+        "resource": "https://www.worldcat.org/identities/lccn-n96009204"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "5d506609-f95c-4fd5-bab0-a0f26d07ad3a",
+        "resource": "https://www.setlist.fm/setlists/henry-cow-bd6a1d2.html"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "setlistfm"
+    },
+    {
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "04aee9c6-5e91-4e67-b4ee-527c1e8c5cb7",
+        "resource": "https://www.songkick.com/artists/151103"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "type": "songkick"
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "VIAF",
+      "source-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/168539176",
+        "id": "ed363233-97bc-458d-b187-513f9d71ede0"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type": "wikidata",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "url": {
+        "id": "aff49c7a-f984-48da-a82e-cb051a749090",
+        "resource": "https://www.wikidata.org/wiki/Q1474555"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCo8U5q0Pn-_aDVGkOKpPN_Q",
+        "id": "47539e49-5025-45dc-ae75-04583450e633"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "type": "youtube music",
+      "begin": null
+    }
+  ],
+  "life-span": {
+    "ended": true,
+    "end": "1978-08",
+    "begin": "1968-05"
+  },
+  "area": {
+    "sort-name": "United Kingdom",
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "type": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "aliases": [],
+  "gender-id": null,
+  "type": "Group",
+  "id": "6ba2f6ce-50be-47df-b5a3-298ef032f476",
+  "end-area": null,
+  "country": "GB",
+  "sort-name": "Henry Cow",
+  "name": "Henry Cow",
+  "isnis": [
+    "0000000115433616"
+  ],
+  "ipis": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "",
+  "begin-area": {
+    "type": null,
+    "id": "11ba7f4f-3fb9-4b4b-a72f-ab1cd9c37d99",
+    "disambiguation": "",
+    "name": "Cambridge",
+    "sort-name": "Cambridge",
+    "type-id": null
+  }
+}

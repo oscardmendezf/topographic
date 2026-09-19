@@ -1,0 +1,137 @@
+{
+  "release-group-count": 12,
+  "release-groups": [
+    {
+      "id": "07a22e5d-7d43-4c84-9ed6-a2c11ef36f28",
+      "primary-type": "Album",
+      "first-release-date": "1977",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Schlagerns mystik / För äldre nybegynnare",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "1973",
+      "id": "2a13941c-fb37-346e-a09b-7b9ee7f17315",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Måltid"
+    },
+    {
+      "first-release-date": "2008-01-25",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "439f70ba-e336-42bd-a38a-b3e392f55780",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "title": "Samla / Zamla Box",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "title": "Klossa Knapitatet",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "id": "4f315ed3-6dc8-33f2-ac74-9c983648d370",
+      "primary-type": "Album",
+      "first-release-date": "1974",
+      "secondary-types": []
+    },
+    {
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Kaka",
+      "secondary-type-ids": [],
+      "id": "87a760ab-f45a-3a1c-8ba4-53e429b23c43",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "1998"
+    },
+    {
+      "id": "9a714f3f-9189-31df-9687-f8f9410b5022",
+      "secondary-types": [
+        "Live"
+      ],
+      "first-release-date": "2002",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Dear Mamma",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    },
+    {
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "Familjesprickor",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1980",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "id": "a2adba41-4d5b-393c-98b4-19d4692597a3"
+    },
+    {
+      "id": "a9a7b27a-252f-4a1c-bd6b-703cf52bff7a",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "1978",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Schlagerns Mystik",
+      "disambiguation": "",
+      "secondary-type-ids": []
+    },
+    {
+      "title": "För äldre nybegynnare",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "id": "c57e8262-c1c1-47ee-9d09-ea7d48e00d2a",
+      "first-release-date": "1978",
+      "primary-type": "Album",
+      "secondary-types": []
+    },
+    {
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Samla Mammas Manna",
+      "disambiguation": "",
+      "secondary-types": [],
+      "first-release-date": "1971",
+      "primary-type": "Album",
+      "id": "dc5264c8-6fc5-3970-b42f-77d1ccca1685"
+    },
+    {
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Snorungarnas Symfoni",
+      "secondary-types": [],
+      "first-release-date": "1976",
+      "primary-type": "Album",
+      "id": "f22587a7-7c64-33f4-8bfd-442bbbb3c566"
+    },
+    {
+      "id": "f4d32abd-60c1-44c0-a320-4c774f03f53c",
+      "primary-type": "Album",
+      "first-release-date": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "title": "Kulturhuset Stockholm",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    }
+  ]
+}

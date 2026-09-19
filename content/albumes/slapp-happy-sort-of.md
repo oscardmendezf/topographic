@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "slapp-happy-sort-of"
+titulo: "Sort Of"
+artista: "Slapp Happy"
+artista_slug: "slapp-happy"
+anio_ficha: 1972
+era: "clasica"
+escena: "rio"
+mb_rgid: "806ab917-5aa6-341f-b319-d0deef56d633"
+primer_lanzamiento: "1972"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Debut de culto, revalorizado con los años."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Prácticamente invisible en su momento."
+historia: "editorial"
+---
+
+Debut grabado en Alemania con Faust de banda de acompañamiento: canciones de tres minutos, armonía torcida y ejecución deliberadamente desprolija. El programa del grupo está entero desde acá, y envejeció mucho mejor que buena parte de lo que se grababa alrededor. Encanto genuino sobre una base precaria.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Slapp Happy existe porque a un compositor le pidieron que dejara de serlo. Anthony Moore venía de grabar música experimental para una discográfica grande que, harta de no colocarla, le reclamó algo cantable; en lugar de obedecer a medias, llamó a Peter Blegvad y a Dagmar Krause y se inventó un grupo de pop. El chiste es que cumplieron el encargo: Sort Of está hecho de canciones cortas, con estribillo y con melodías que cualquiera reconoce al segundo paso. Lo que no cumplieron fue la parte del oficio, y ahí está todo el disco.
+
+El repertorio se mueve entre la postal y la parodia. «Tutankhamun» y «Heading for Kyoto» juegan a lo exótico con dos acordes y una sonrisa; «I Got Evil», «Who's Gonna Help Me Now» y «Small Hands of Stone» toman fórmulas del blues y del soul y las dejan mal abrochadas a propósito; «Just a Conversation» y «Little Girl's World» son las que más se parecen a canciones de verdad y también las más torcidas por dentro. «Mono Plane» y «Blue Flower», las dos piezas largas, aflojan la estructura hasta volverla un trance amable. Blegvad y Krause se reparten las voces, y el fraseo de ella —una dicción que separa cada sílaba como si desconfiara de la letra— convierte en amenaza lo que sobre el papel era una canción infantil.
+
+## La producción
+
+Se grabó en Wümme, el estudio rural donde trabajaba Faust, con Uwe Nettelbeck como productor y Kurt Graupner en la consola. Faust no pasó por ahí como invitado de lujo sino como banda entera: Werner Diermaier en la batería y Jean-Hervé Péron en el bajo sostienen unas canciones que sus autores no podían tocar solos, porque Slapp Happy aportaba apenas dos guitarras —Moore y Blegvad—, una pandereta y las voces. Péron y Gunther Wüsthoff figuran además en las tareas de grabación, así que el disco es tanto de la casa como del grupo.
+
+La decisión de sonido es la que va a definir el resto de la carrera: nada de capas, nada de corrección. Las tomas conservan los desajustes de pulso y las entradas dudosas, y el oficio de estudio que en aquella casa servía para desarmar el rock se aplica acá al revés, para dejar quieta una canción de tres minutos. La portada y las fotografías son de David Larcher; los otros nombres de diseño que arrastra el título pertenecen a ediciones posteriores.
+
+## Recepción y legado
+
+Salió en Alemania, circuló poco y durante años fue antes un objeto de segunda mano que un disco. El tiempo lo trató bien justamente por lo que entonces se le reprochaba: mientras alrededor se grababan suites y se afinaban orquestas, acá hay tres personas haciendo pop deliberadamente mal tocado, y eso no envejece. «Blue Flower» tuvo una segunda vida en el rock de guitarras de los noventa, que la versionó sin tener del todo claro de dónde venía. Dentro de la discografía funciona como manifiesto: lo que sigue consiste en rehacer, orquestar o contradecir lo que acá está en bruto.

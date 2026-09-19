@@ -1,0 +1,210 @@
+{
+  "gender-id": null,
+  "country": "GB",
+  "sort-name": "Art Bears",
+  "gender": null,
+  "ipis": [],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "United Kingdom",
+    "type-id": null
+  },
+  "aliases": [],
+  "life-span": {
+    "end": "1981",
+    "begin": "1978",
+    "ended": true
+  },
+  "disambiguation": "",
+  "type": "Group",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Cutler, Chris",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "drummer",
+        "name": "Chris Cutler",
+        "id": "b8d5c07b-6a7c-4ab7-83b8-8bcc4cb866b6"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "end": "1981",
+      "begin": "1978",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {}
+    },
+    {
+      "begin": "1978",
+      "end": "1981",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Frith, Fred",
+        "country": "US",
+        "type": "Person",
+        "disambiguation": "",
+        "id": "4801bad4-1b42-4c9e-84b1-bf61067ab67c",
+        "name": "Fred Frith"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "attribute-ids": {},
+      "target-type": "artist",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "name": "Dagmar Krause",
+        "id": "c4defa11-66b2-4255-960d-ad8867bc50da",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "DE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Krause, Dagmar"
+      },
+      "source-credit": "",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "end": "1981",
+      "begin": "1978",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "begin": "1979",
+      "end": "1979",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "artist": {
+        "id": "643ff039-e473-4178-b523-a76a67b7cdd7",
+        "name": "Peter Blegvad",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "US",
+        "sort-name": "Blegvad, Peter",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {},
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "country": "BE",
+        "disambiguation": "Belgian musician, producer, label manager",
+        "sort-name": "Hollander, Marc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Marc Hollander",
+        "id": "2583d391-e736-4311-bde6-f814cd65f57b"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "end": "1979",
+      "begin": "1979"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.discogs.com/artist/203192",
+        "id": "c77a4845-aebd-47e6-809c-157fbb9b6501"
+      },
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "url": {
+        "id": "4c9fbe6a-96ec-4ece-b19b-7e2ea5683e6f",
+        "resource": "https://rateyourmusic.com/artist/art_bears"
+      },
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type": "wikidata",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q705406",
+        "id": "83ab7556-2154-469c-bd6c-eef064122244"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    }
+  ],
+  "isnis": [],
+  "name": "Art Bears",
+  "end-area": null,
+  "begin-area": {
+    "sort-name": "London",
+    "type-id": null,
+    "disambiguation": "Greater London",
+    "type": null,
+    "name": "London",
+    "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f"
+  },
+  "id": "aaf0c715-407f-418e-8674-ba933d4d89db"
+}

@@ -100,6 +100,22 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "4675dce4-32cd-4e5b-8270-676e2b9860c9",
+  "nombre": "Lindsay Cooper",
+  "artistas": [
+   "art-bears",
+   "hatfield",
+   "henry-cow",
+   "mo",
+   "slapp-happy"
+  ],
+  "n_albumes": 7,
+  "roles": [
+   "instrument"
+  ],
+  "es_musico_universo": true
+ },
+ {
   "mbid": "8b2222ba-8343-45fe-8635-495494788982",
   "nombre": "Paschal Byrne",
   "artistas": [
@@ -257,6 +273,22 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "9d69df98-f0e0-487f-8f85-e725445fbc99",
+  "nombre": "Tim Hodgkinson",
+  "artistas": [
+   "art-bears",
+   "hatfield",
+   "henry-cow",
+   "slapp-happy"
+  ],
+  "n_albumes": 7,
+  "roles": [
+   "instrument",
+   "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
   "mbid": "ed35146a-3d92-47a0-b45f-dccce31a23a6",
   "nombre": "Michael Putland",
   "artistas": [
@@ -353,6 +385,24 @@
   "n_albumes": 5,
   "roles": [
    "photography"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "1f1052d5-6181-45c6-ae0c-1df9141794ef",
+  "nombre": "Etienne Conod",
+  "artistas": [
+   "art-bears",
+   "art-zoyd",
+   "henry-cow",
+   "univers-zero"
+  ],
+  "n_albumes": 4,
+  "roles": [
+   "engineer",
+   "mix",
+   "producer",
+   "recording"
   ],
   "es_musico_universo": false
  },
@@ -503,6 +553,40 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "b8d5c07b-6a7c-4ab7-83b8-8bcc4cb866b6",
+  "nombre": "Chris Cutler",
+  "artistas": [
+   "art-bears",
+   "henry-cow",
+   "slapp-happy"
+  ],
+  "n_albumes": 8,
+  "roles": [
+   "arranger",
+   "composer",
+   "instrument",
+   "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "4801bad4-1b42-4c9e-84b1-bf61067ab67c",
+  "nombre": "Fred Frith",
+  "artistas": [
+   "art-bears",
+   "henry-cow",
+   "slapp-happy"
+  ],
+  "n_albumes": 8,
+  "roles": [
+   "arranger",
+   "composer",
+   "instrument",
+   "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
   "mbid": "4b73ae77-770f-4b9f-93f6-8bc187260268",
   "nombre": "Miles Showell",
   "artistas": [
@@ -516,6 +600,21 @@
    "mastering"
   ],
   "es_musico_universo": false
+ },
+ {
+  "mbid": "c4defa11-66b2-4255-960d-ad8867bc50da",
+  "nombre": "Dagmar Krause",
+  "artistas": [
+   "art-bears",
+   "henry-cow",
+   "slapp-happy"
+  ],
+  "n_albumes": 7,
+  "roles": [
+   "instrument",
+   "vocal"
+  ],
+  "es_musico_universo": true
  },
  {
   "mbid": "b7d3a6bb-7fbd-4009-aa3a-d81bdf541c1f",
@@ -800,6 +899,20 @@
    "producer"
   ],
   "es_musico_universo": false
+ },
+ {
+  "mbid": "1d70134b-4307-4828-85c7-66d9ed9783b8",
+  "nombre": "Nick Evans",
+  "artistas": [
+   "henry-cow",
+   "slapp-happy",
+   "sm"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "instrument"
+  ],
+  "es_musico_universo": true
  },
  {
   "mbid": "74bb8263-4485-426d-8c6e-3908d9769934",
@@ -1483,6 +1596,34 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "7bd43b80-65bd-4ae0-a1f0-fd65fb005853",
+  "nombre": "John Greaves",
+  "artistas": [
+   "henry-cow",
+   "slapp-happy"
+  ],
+  "n_albumes": 4,
+  "roles": [
+   "instrument",
+   "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "84490b56-ff86-4492-be8e-ae565b50f97e",
+  "nombre": "Anthony Moore",
+  "artistas": [
+   "henry-cow",
+   "slapp-happy"
+  ],
+  "n_albumes": 4,
+  "roles": [
+   "instrument",
+   "writer"
+  ],
+  "es_musico_universo": true
+ },
+ {
   "mbid": "31bf9535-94be-40dc-bae6-4a8f5c7aab17",
   "nombre": "Steve Walsh",
   "artistas": [
@@ -1695,6 +1836,21 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "d9fe0e50-8d52-47d1-a40b-642ebac39077",
+  "nombre": "Thierry Moreau",
+  "artistas": [
+   "eskaton",
+   "univers-zero"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "artwork",
+   "design",
+   "graphic design"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "3b9a2ea7-1f31-4fc3-8fb4-ca6027e34193",
   "nombre": "Ric Grech",
   "artistas": [
@@ -1705,6 +1861,20 @@
   "roles": [
    "instrument",
    "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "db79fd5a-fcfe-47f3-9197-cb34b22a144f",
+  "nombre": "Werner Diermaier",
+  "artistas": [
+   "faust",
+   "slapp-happy"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "instrument",
+   "performer"
   ],
   "es_musico_universo": true
  },
@@ -1762,6 +1932,35 @@
    "producer"
   ],
   "es_musico_universo": false
+ },
+ {
+  "mbid": "643ff039-e473-4178-b523-a76a67b7cdd7",
+  "nombre": "Peter Blegvad",
+  "artistas": [
+   "henry-cow",
+   "slapp-happy"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "instrument",
+   "vocal",
+   "writer"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "2a850ab7-fdba-4b2c-b69d-b89d3f09f65a",
+  "nombre": "Geoff Leigh",
+  "artistas": [
+   "henry-cow",
+   "slapp-happy"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "instrument",
+   "vocal"
+  ],
+  "es_musico_universo": true
  },
  {
   "mbid": "d5eb1909-e532-4d3b-b2cd-0e5c8a86bdbc",
@@ -1863,6 +2062,21 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "acdb38cf-829b-43e1-9292-f984ba4a8569",
+  "nombre": "Fabio Nicoli",
+  "artistas": [
+   "magma",
+   "sup"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "art direction",
+   "design",
+   "graphic design"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "299597ae-3a20-4bf1-973e-03704af69f6b",
   "nombre": "Royal Philharmonic Orchestra",
   "artistas": [
@@ -1927,6 +2141,21 @@
   "n_albumes": 3,
   "roles": [
    "producer"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "4c4d0681-8638-4345-aea3-a6139e4352fa",
+  "nombre": "David Larcher",
+  "artistas": [
+   "pf",
+   "slapp-happy"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "artwork",
+   "design",
+   "photography"
   ],
   "es_musico_universo": false
  },

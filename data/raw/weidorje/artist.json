@@ -1,0 +1,398 @@
+{
+  "type": "Group",
+  "end-area": null,
+  "id": "828fbb5a-7287-4486-941c-ad1d57f39f0b",
+  "life-span": {
+    "begin": "1976",
+    "ended": true,
+    "end": "1979"
+  },
+  "relations": [
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "guitar"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Michel Ettori",
+        "disambiguation": "",
+        "sort-name": "Ettori, Michel",
+        "country": "FR",
+        "id": "2f98e207-d0ad-4847-b837-9a30ba3195e2",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "end": "1978",
+      "ended": true,
+      "begin": "1977",
+      "type": "member of band"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "id": "2e877219-97e0-4bdb-a0ca-5fcae5a92bf1",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "FR",
+        "disambiguation": "",
+        "sort-name": "Chérèze, Pierre",
+        "name": "Pierre Chérèze"
+      },
+      "target-type": "artist",
+      "attribute-ids": {},
+      "ended": true,
+      "end": "1979",
+      "type": "member of band",
+      "begin": "1979"
+    },
+    {
+      "type": "member of band",
+      "begin": "1979",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "ended": true,
+      "end": "1979",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Ovide, François",
+        "disambiguation": "",
+        "name": "François Ovide",
+        "country": "FR",
+        "id": "16f78a72-0e44-4a33-a027-3cfc99c94d9e",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "guitar"
+      ]
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "country": "FR",
+        "disambiguation": "",
+        "sort-name": "Gauthier, Patrick",
+        "name": "Patrick Gauthier",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "6fb05cbd-4288-4f8e-b7c3-1ff6fdeae3c0"
+      },
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "begin": null,
+      "type": "member of band",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      }
+    },
+    {
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Jean-Philippe Goude",
+        "sort-name": "Goude, Jean-Philippe",
+        "country": "FR",
+        "id": "d4469cd9-9064-40e5-aa83-f52a0ade73d4",
+        "type": "Person"
+      }
+    },
+    {
+      "type": "member of band",
+      "begin": null,
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "artist": {
+        "id": "09699760-d00a-4916-a0d3-01e190125bc6",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "FR",
+        "sort-name": "Guillard, Alain",
+        "disambiguation": "saxophonist",
+        "name": "Alain Guillard"
+      },
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "saxophone"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "id": "ff92139e-a957-4baf-8be0-e405e869cbd6",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "trumpetist",
+        "name": "Yvon Guillard",
+        "sort-name": "Guillard, Yvon",
+        "country": "FR"
+      },
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "trumpet"
+      ],
+      "begin": null,
+      "type": "member of band",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {
+        "trumpet": "1c8f9780-2f16-4891-b66d-bb7aa0820dbd"
+      }
+    },
+    {
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-credits": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "French bassist",
+        "name": "Bernard Paganotti",
+        "sort-name": "Paganotti, Bernard",
+        "country": "FR",
+        "id": "9762a817-e9cb-440b-9243-ae845c9e0c8f",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": null,
+      "type": "member of band"
+    },
+    {
+      "begin": null,
+      "type": "member of band",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "artist": {
+        "id": "7ccc100d-811b-4883-8b56-656955a8d88a",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "FR",
+        "name": "Kirt Rust",
+        "disambiguation": "Musician - Drummer",
+        "sort-name": "Rust, Kirt"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "url": {
+        "id": "051d0d35-624f-4213-9289-81441759588a",
+        "resource": "https://www.discogs.com/artist/650452"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "type": "discogs",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "dbf42312-da70-4c2b-9ea4-7139085df9f3",
+        "resource": "https://www.last.fm/music/Weidorje"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "type": "last.fm",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false
+    },
+    {
+      "url": {
+        "id": "c582c2da-f28e-4241-a5ad-1fe78b2e111f",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb14265061q"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "begin": null,
+      "type": "other databases",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "fbd22ba3-1d08-40cc-a116-c1b24e486db6",
+        "resource": "https://rateyourmusic.com/artist/weidorje"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "11566192-1f46-4d74-a6eb-483d5ddde8c7",
+        "resource": "https://www.wikidata.org/wiki/Q2555179"
+      },
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "type": "wikidata",
+      "begin": null,
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "type": "youtube music",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "3cd7fa5d-3340-4a77-aae1-4f598410efe1",
+        "resource": "https://music.youtube.com/channel/UC2qiTS_WdjIuuvV2eD4fm2w"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": []
+    }
+  ],
+  "gender": null,
+  "area": {
+    "type": null,
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "sort-name": "France",
+    "disambiguation": "",
+    "name": "France",
+    "iso-3166-1-codes": [
+      "FR"
+    ],
+    "type-id": null
+  },
+  "aliases": [],
+  "gender-id": null,
+  "begin-area": {
+    "type": null,
+    "id": "baaa76f6-344a-4b50-b559-68a1af292ad5",
+    "disambiguation": "",
+    "name": "Arcueil",
+    "sort-name": "Arcueil",
+    "type-id": null
+  },
+  "disambiguation": "",
+  "name": "Weidorje",
+  "sort-name": "Weidorje",
+  "country": "FR",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "ipis": [],
+  "isnis": [
+    "0000000469671005"
+  ]
+}

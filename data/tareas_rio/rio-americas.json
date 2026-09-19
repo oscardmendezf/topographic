@@ -1,0 +1,364 @@
+{
+ "id": "rio-americas",
+ "escena": "rio",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "muffins",
+   "nombre": "The Muffins",
+   "tipo": "Group",
+   "pais": "US",
+   "inicio": "1973",
+   "fin": null,
+   "wikipedia_url": "https://es.wikipedia.org/wiki/The_Muffins",
+   "formaciones_mb": [
+    "Dave Newhouse (miembro; ?–act.)",
+    "Paul Sears (miembro; ?–act.)",
+    "Billy Swann (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "muffins-manna-mirage",
+     "titulo": "Manna/Mirage",
+     "anio": 1978,
+     "mbid": "88127b62-0dab-35be-8eaa-6c4ca164c0ca",
+     "primer_lanzamiento": "1978",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "muffins-185",
+     "titulo": "185",
+     "anio": 1981,
+     "mbid": "929b85d5-2ee6-4521-9e94-dd4813171b4e",
+     "primer_lanzamiento": "1981",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "muffins-secret-signals-1",
+     "titulo": "Secret Signals 1",
+     "anio": 1989,
+     "mbid": "7192bb96-1d24-4b7b-951b-7e435afde2ff",
+     "primer_lanzamiento": "1989",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "muffins-chronometers",
+     "titulo": "Chronometers",
+     "anio": 1993,
+     "mbid": "b510006d-7e4f-414a-942f-1b4b0edb9098",
+     "primer_lanzamiento": "1993",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "muffins-open-city",
+     "titulo": "Open City",
+     "anio": 1994,
+     "mbid": "96e47617-4821-4cb6-be3e-48096ee6994e",
+     "primer_lanzamiento": "1994",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "muffins-loveletter-1",
+     "titulo": "Loveletter #1",
+     "anio": 2001,
+     "mbid": "8c9c5cc7-ebda-43bd-8509-820e70904e27",
+     "primer_lanzamiento": "2001",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "muffins-bandwidth",
+     "titulo": "Bandwidth",
+     "anio": 2002,
+     "mbid": "6051afab-2389-340f-8d87-d26c395055c8",
+     "primer_lanzamiento": "2002",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "muffins-double-negative",
+     "titulo": "Double Negative",
+     "anio": 2004,
+     "mbid": "7349f8e6-4714-3285-b610-64a5bea6df6b",
+     "primer_lanzamiento": "2004",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "muffins-loveletter-2-the-ra-sessions",
+     "titulo": "Loveletter #2 \"The Ra Sessions\"",
+     "anio": 2005,
+     "mbid": "1c4f550a-bc7c-4889-94d6-d40de8ce95a6",
+     "primer_lanzamiento": "2005",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "muffins-palindrome",
+     "titulo": "Palindrome",
+     "anio": 2010,
+     "mbid": "ed933c02-db3e-4be3-bbb3-5ffe188187ea",
+     "primer_lanzamiento": "2010",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "muffins-mother-tongue",
+     "titulo": "Mother Tongue",
+     "anio": 2012,
+     "mbid": "5571e967-962e-4a6a-9ed7-40aa0a5d3ad6",
+     "primer_lanzamiento": "2012",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "thinking-plague",
+   "nombre": "Thinking Plague",
+   "tipo": "Group",
+   "pais": "US",
+   "inicio": "1981",
+   "fin": null,
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Thinking_Plague",
+   "formaciones_mb": [
+    "Bob Drake (miembro; 1978–1994)",
+    "Susanne Lewis (miembro; 1985–1990)",
+    "Maria Moran (miembro; 1988–1989)",
+    "Shane Hotle (miembro; 1988–1998)",
+    "Mark Harris (miembro; 1988–act.)",
+    "Dave Kerman (miembro; 1989–2000)",
+    "Deborah Perry (miembro; 1996–act.)",
+    "Matt Mitchell (miembro; 1999–2004)",
+    "David Shamrock (miembro; 2001–act.)",
+    "Elaine Di Falco (lead vocals; 2008–act.)",
+    "Mike Johnson (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "thinking-plague-a-thinking-plague",
+     "titulo": "...A Thinking Plague",
+     "anio": 1984,
+     "mbid": "0e9632c1-b8cc-37a5-b61b-4ff7c4b6e2d8",
+     "primer_lanzamiento": "1984",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "thinking-plague-moonsongs",
+     "titulo": "Moonsongs",
+     "anio": 1987,
+     "mbid": "ee9b2909-99ee-35bb-8533-8fe91ba82eb1",
+     "primer_lanzamiento": "1987",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "thinking-plague-in-this-life",
+     "titulo": "In This Life",
+     "anio": 1989,
+     "mbid": "720610dd-c8a3-3b60-8628-7464f12656ae",
+     "primer_lanzamiento": "1989",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "thinking-plague-in-extremis",
+     "titulo": "In Extremis",
+     "anio": 1998,
+     "mbid": "66570264-45ca-3f7e-8689-1fb19d71e8cb",
+     "primer_lanzamiento": "1998-12-08",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "thinking-plague-a-history-of-madness",
+     "titulo": "A History of Madness",
+     "anio": 2003,
+     "mbid": "82c120f1-c6e3-3608-bcdc-44febf4133d5",
+     "primer_lanzamiento": "2003-09-19",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "thinking-plague-decline-and-fall",
+     "titulo": "Decline and Fall",
+     "anio": 2012,
+     "mbid": "6d024716-2ac3-4087-bd1a-e4ed60507eda",
+     "primer_lanzamiento": "2012",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "thinking-plague-hoping-against-hope",
+     "titulo": "Hoping Against Hope",
+     "anio": 2017,
+     "mbid": "6cea5caf-dafe-4da0-8d98-f18d1a5cfbaa",
+     "primer_lanzamiento": "2017-02-10",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "5uus",
+   "nombre": "5uu's",
+   "tipo": "Group",
+   "pais": "US",
+   "inicio": "1984",
+   "fin": "2004",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/5uu%27s",
+   "formaciones_mb": [
+    "Dave Kerman (miembro; ?–act.)",
+    "Curt Wilson (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "5uus-bel-marduk-tiamat",
+     "titulo": "Bel Marduk + Tiamat",
+     "anio": 1986,
+     "mbid": "53fa9d87-be4b-4e42-b8d0-2315d65e0330",
+     "primer_lanzamiento": "1986",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "5uus-elements",
+     "titulo": "Elements",
+     "anio": 1988,
+     "mbid": "dc102abb-9c84-4343-87e4-82073740c70b",
+     "primer_lanzamiento": "1988",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "5uus-hunger-s-teeth",
+     "titulo": "Hunger's Teeth",
+     "anio": 1994,
+     "mbid": "7edc6fcf-61b0-310a-88c7-9fc9fd74f7f7",
+     "primer_lanzamiento": "1994",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "5uus-crisis-in-clay",
+     "titulo": "Crisis in Clay",
+     "anio": 1997,
+     "mbid": "8138352b-6988-396b-b42e-89e61742765c",
+     "primer_lanzamiento": "1997",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "5uus-regarding-purgatories",
+     "titulo": "Regarding Purgatories",
+     "anio": 2000,
+     "mbid": "21a1be12-b814-32e2-9166-98cda48a6dcb",
+     "primer_lanzamiento": "2000-05-16",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "5uus-abandonship",
+     "titulo": "Abandonship",
+     "anio": 2002,
+     "mbid": "db229a12-4982-3b2a-98c8-3c11ba0299c4",
+     "primer_lanzamiento": "2002-01-29",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "5uus-the-quiet-in-your-bones",
+     "titulo": "The Quiet in Your Bones",
+     "anio": 2022,
+     "mbid": "23fb294e-4fd4-40f6-a566-70f609fd3c90",
+     "primer_lanzamiento": "2022-05-27",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "miriodor",
+   "nombre": "Miriodor",
+   "tipo": "Group",
+   "pais": "CA",
+   "inicio": "1980",
+   "fin": null,
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Miriodor",
+   "formaciones_mb": [
+    "Rémi Leclerc (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "miriodor-rencontres",
+     "titulo": "Rencontres",
+     "anio": 1986,
+     "mbid": "0becf206-d22a-3096-93a7-95192b634a43",
+     "primer_lanzamiento": "1986",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "miriodor-tot-ou-tard",
+     "titulo": "Tôt ou tard",
+     "anio": 1987,
+     "mbid": "a1a8987e-dcce-4242-975c-31c071212478",
+     "primer_lanzamiento": "1987",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "miriodor-3e-avertissement",
+     "titulo": "3è avertissement",
+     "anio": 1991,
+     "mbid": "2d995e67-4111-4d8b-915c-7c2ffe329f7d",
+     "primer_lanzamiento": "1991",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "miriodor-miriodor",
+     "titulo": "Miriodor",
+     "anio": 1995,
+     "mbid": "6766b350-3979-33b6-99cd-d7419da048ee",
+     "primer_lanzamiento": "1995",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "miriodor-jongleries-elastiques",
+     "titulo": "Jongleries élastiques",
+     "anio": 1996,
+     "mbid": "7849c154-9ceb-33bb-b9f2-ce08b16c6050",
+     "primer_lanzamiento": "1996-02-13",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "miriodor-mekano",
+     "titulo": "Mekano",
+     "anio": 2001,
+     "mbid": "7880d2a4-4abc-3f4e-8e03-182c6651f255",
+     "primer_lanzamiento": "2001-09-18",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "miriodor-parade-live-at-nearfest",
+     "titulo": "Parade + Live at NEARfest",
+     "anio": 2005,
+     "mbid": "49dbff8c-bf94-393b-b90e-b6f1acaafa85",
+     "primer_lanzamiento": "2005-05-10",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "miriodor-avanti",
+     "titulo": "Avanti!",
+     "anio": 2009,
+     "mbid": "351ad36c-844b-3c6e-ab35-4b065a52fb8d",
+     "primer_lanzamiento": "2009-05-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "miriodor-cobra-fakir",
+     "titulo": "Cobra Fakir",
+     "anio": 2013,
+     "mbid": "789cb80b-7426-4beb-8da1-21c93a6643a9",
+     "primer_lanzamiento": "2013-09-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "miriodor-signal-9",
+     "titulo": "Signal 9",
+     "anio": 2017,
+     "mbid": "6442f9e8-2bff-429d-b32d-da5524e7fbd8",
+     "primer_lanzamiento": "2017-05-12",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "miriodor-elements",
+     "titulo": "Elements",
+     "anio": 2022,
+     "mbid": "c8e55d65-cd95-49bf-91d5-2ff4597ded85",
+     "primer_lanzamiento": "2022-10-28",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1951 @@
+{
+ "id": "destrio-04",
+ "albumes": [
+  {
+   "album_slug": "stormy-six-al-volo",
+   "titulo": "Al volo",
+   "artista": "Stormy Six",
+   "artista_slug": "stormy-six",
+   "anio": 1982,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/stormy-six-al-volo.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Non si sa dove stare",
+     "ms": 295600
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Reparto novità",
+     "ms": 275626
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Piazza degli Affari",
+     "ms": 237000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Ragionamenti",
+     "ms": 317133
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Panorama",
+     "ms": 278173
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Roma",
+     "ms": 284160
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Parole grosse",
+     "ms": 248840
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Denti",
+     "ms": 132200
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Cosa danno",
+     "ms": 220267
+    }
+   ]
+  },
+  {
+   "album_slug": "stormy-six-guarda-giu-dalla-pianura",
+   "titulo": "Guarda giù dalla pianura",
+   "artista": "Stormy Six",
+   "artista_slug": "stormy-six",
+   "anio": 1974,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/stormy-six-guarda-giu-dalla-pianura.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Guarda giù dalla pianura",
+     "ms": 88000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Union Maid",
+     "ms": 183000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Otan xtupesis duo fores",
+     "ms": 181000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Cuba sí, yanquis no",
+     "ms": 163000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Ballad of Ho Chi Minh",
+     "ms": 212000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Leaving Belfast Town",
+     "ms": 198000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Canción del poder popular",
+     "ms": 158000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Do re mi",
+     "ms": 185000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Brother, Did You Weep?",
+     "ms": 108000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Per i morti di Reggio Emilia",
+     "ms": 207000
+    }
+   ]
+  },
+  {
+   "album_slug": "stormy-six-l-apprendista",
+   "titulo": "L'apprendista",
+   "artista": "Stormy Six",
+   "artista_slug": "stormy-six",
+   "anio": 1977,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/stormy-six-l-apprendista.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Buon lavoro!",
+     "ms": 312760
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "L'apprendista",
+     "ms": 339733
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Carmine",
+     "ms": 353133
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Il barbiere",
+     "ms": 459040
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Cuore",
+     "ms": 351933
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Il labirinto",
+     "ms": 505733
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Rosso",
+     "ms": 182466
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "L'orchestra dei fischietti",
+     "ms": 389200
+    }
+   ]
+  },
+  {
+   "album_slug": "stormy-six-l-unita",
+   "titulo": "L'unità",
+   "artista": "Stormy Six",
+   "artista_slug": "stormy-six",
+   "anio": 1972,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/stormy-six-l-unita.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Garibaldi",
+     "ms": 207000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Tre fratelli contadini di Venosa",
+     "ms": 200000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Pontelandolfo",
+     "ms": 284000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Sciopero!",
+     "ms": 176000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Suite per F. & F.",
+     "ms": 684000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "La manifestazione",
+     "ms": 318000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Fratello",
+     "ms": 96000
+    }
+   ]
+  },
+  {
+   "album_slug": "stormy-six-le-idee-di-oggi-per-la-musica-di-domani",
+   "titulo": "Le idee di oggi per la musica di domani",
+   "artista": "Stormy Six",
+   "artista_slug": "stormy-six",
+   "anio": 1969,
+   "escena": "rio",
+   "estrellas_critica_album": "2",
+   "ficha": "content/albumes/stormy-six-le-idee-di-oggi-per-la-musica-di-domani.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Fiori per sempre",
+     "ms": 236000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Un'altra come te",
+     "ms": 170000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "La storia più bella del mondo",
+     "ms": 187000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Una più felice di te",
+     "ms": 252000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "C'è qualcosa nella vita",
+     "ms": 141000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Schallplattengesellschaftmbh",
+     "ms": 343000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Forse",
+     "ms": 59000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Lui verrà",
+     "ms": 200000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Le stagioni",
+     "ms": 257000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Ramo",
+     "ms": 377000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "I tuoi occhi sono tristi",
+     "ms": 183000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Monna Cristina",
+     "ms": 200000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Sotto i portici di marmo",
+     "ms": 284000
+    }
+   ]
+  },
+  {
+   "album_slug": "stormy-six-macchina-maccheronica",
+   "titulo": "Macchina maccheronica",
+   "artista": "Stormy Six",
+   "artista_slug": "stormy-six",
+   "anio": 1980,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/stormy-six-macchina-maccheronica.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Macchina maccheronica",
+     "ms": 339026
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Le lucciole",
+     "ms": 457240
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Madonina",
+     "ms": 51333
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Megafono",
+     "ms": 352600
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Madonina",
+     "ms": 39600
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Banca",
+     "ms": 159266
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Pianeta",
+     "ms": 340466
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Rumba sugli alberi",
+     "ms": 176600
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Enzo",
+     "ms": 136066
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Verbale",
+     "ms": 518560
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Madonina",
+     "ms": 55000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Somario",
+     "ms": 235333
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Madonina",
+     "ms": 13907
+    }
+   ]
+  },
+  {
+   "album_slug": "stormy-six-un-biglietto-del-tram",
+   "titulo": "Un biglietto del tram",
+   "artista": "Stormy Six",
+   "artista_slug": "stormy-six",
+   "anio": 1975,
+   "escena": "rio",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/stormy-six-un-biglietto-del-tram.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Stalingrado",
+     "ms": 326000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "La fabbrica",
+     "ms": 231000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Arrivano gli americani",
+     "ms": 354000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "8 settembre",
+     "ms": 292000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Nuvole a Vinca",
+     "ms": 264000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Dante di Nanni",
+     "ms": 257000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Gianfranco Mattei",
+     "ms": 261000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "La sepoltura dei morti",
+     "ms": 232000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Un biglietto del tram",
+     "ms": 342000
+    }
+   ]
+  },
+  {
+   "album_slug": "thinking-plague-a-history-of-madness",
+   "titulo": "A History of Madness",
+   "artista": "Thinking Plague",
+   "artista_slug": "thinking-plague",
+   "anio": 2003,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/thinking-plague-a-history-of-madness.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Blown Apart",
+     "ms": 515466
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Consolamentum",
+     "ms": 242360
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Rapture of the Deep",
+     "ms": 359400
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Gúdamy le Máyagot (An Phocainn Theard Deig)",
+     "ms": 174866
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Marching as to War, No. 1",
+     "ms": 82280
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Our \"Way of Life\" and \"War on Terra\"",
+     "ms": 323760
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Marching, No. 2",
+     "ms": 41200
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Least Aether for Saxophone & Le Gouffre",
+     "ms": 532346
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "The Underground Stream",
+     "ms": 362813
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Marching, No. 3",
+     "ms": 47040
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Lux Lucet",
+     "ms": 576466
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Marching, No. 4 - Reverie for the Children",
+     "ms": 60906
+    }
+   ]
+  },
+  {
+   "album_slug": "thinking-plague-a-thinking-plague",
+   "titulo": "...A Thinking Plague",
+   "artista": "Thinking Plague",
+   "artista_slug": "thinking-plague",
+   "anio": 1984,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/thinking-plague-a-thinking-plague.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "I Do Not Live",
+     "ms": 306000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Possessed",
+     "ms": 506000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "How to Clean Squid",
+     "ms": 313000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "A Light Is on and Name the World",
+     "ms": 92000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Taste That Lingers On",
+     "ms": 132000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Four Men in the Ran",
+     "ms": 150000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Thorns of Blue and Red / The War",
+     "ms": 862000
+    }
+   ]
+  },
+  {
+   "album_slug": "thinking-plague-decline-and-fall",
+   "titulo": "Decline and Fall",
+   "artista": "Thinking Plague",
+   "artista_slug": "thinking-plague",
+   "anio": 2012,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/thinking-plague-decline-and-fall.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Malthusian Dances",
+     "ms": 399000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "I Cannot Fly",
+     "ms": 514000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Sleeper Cell Anthem",
+     "ms": 370000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "A Virtuous Man",
+     "ms": 705000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Gyre",
+     "ms": 278000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Climbing the Mountain",
+     "ms": 517800
+    }
+   ]
+  },
+  {
+   "album_slug": "thinking-plague-hoping-against-hope",
+   "titulo": "Hoping Against Hope",
+   "artista": "Thinking Plague",
+   "artista_slug": "thinking-plague",
+   "anio": 2017,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/thinking-plague-hoping-against-hope.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "The Echoes of Their Cries",
+     "ms": 397000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Thus Have We Made the World",
+     "ms": 338000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Commuting to Murder",
+     "ms": 280000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Hoping Against Hope",
+     "ms": 601000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "The Great Leap Backwards",
+     "ms": 237000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "A Dirge for the Unwitting",
+     "ms": 825000
+    }
+   ]
+  },
+  {
+   "album_slug": "thinking-plague-in-extremis",
+   "titulo": "In Extremis",
+   "artista": "Thinking Plague",
+   "artista_slug": "thinking-plague",
+   "anio": 1998,
+   "escena": "rio",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/thinking-plague-in-extremis.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Dead Silence",
+     "ms": 242560
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Behold the Man",
+     "ms": 266040
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "This Weird Wind",
+     "ms": 483333
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Les etudes d'organism",
+     "ms": 841693
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Maelstrom",
+     "ms": 214666
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Aesthete",
+     "ms": 278666
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Kingdom Come",
+     "ms": 824666
+    }
+   ]
+  },
+  {
+   "album_slug": "thinking-plague-in-this-life",
+   "titulo": "In This Life",
+   "artista": "Thinking Plague",
+   "artista_slug": "thinking-plague",
+   "anio": 1989,
+   "escena": "rio",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/thinking-plague-in-this-life.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Lycanthrope",
+     "ms": 437293
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Run Amok",
+     "ms": 191840
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Malaise",
+     "ms": 280893
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Organism (version II)",
+     "ms": 706373
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Love",
+     "ms": 434000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "The Guardian",
+     "ms": 330960
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Fountain of all Tears",
+     "ms": 459573
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Moonsongs",
+     "ms": 910026
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Possessed",
+     "ms": 495000
+    }
+   ]
+  },
+  {
+   "album_slug": "thinking-plague-moonsongs",
+   "titulo": "Moonsongs",
+   "artista": "Thinking Plague",
+   "artista_slug": "thinking-plague",
+   "anio": 1987,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/thinking-plague-moonsongs.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Warheads",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Etude for Combo",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Collarless Fog That One Day Soon",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Inside Out",
+     "ms": null
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Moonsongs",
+     "ms": null
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-ceux-du-dehors",
+   "titulo": "Ceux du dehors",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 1981,
+   "escena": "rio",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/univers-zero-ceux-du-dehors.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Dense",
+     "ms": 746893
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "La corne du bois des pendus",
+     "ms": 522039
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Bonjour chez vous",
+     "ms": 232400
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Combat",
+     "ms": 773266
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "La musique d’Erich Zann",
+     "ms": 209333
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "La tête du corbeau",
+     "ms": 191933
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Le triomphe des mouches",
+     "ms": 336760
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-clivages",
+   "titulo": "Clivages",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 2010,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/univers-zero-clivages.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Les Kobolds",
+     "ms": 255000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Warrior",
+     "ms": 730000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Vacillements",
+     "ms": 215000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Earth Scream",
+     "ms": 191000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Soubresauts",
+     "ms": 479000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Apesanteur",
+     "ms": 220000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Three Days",
+     "ms": 353000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Straight Edge",
+     "ms": 837000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Retour de foire",
+     "ms": 462000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Les Cercles d’Horus",
+     "ms": 225000
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-heatwave",
+   "titulo": "Heatwave",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 1986,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/univers-zero-heatwave.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Heatwave",
+     "ms": 517333
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Chinavox",
+     "ms": 293266
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Bruit dans les murs",
+     "ms": 507226
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Funeral Plain",
+     "ms": 1222333
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-heresie",
+   "titulo": "Hérésie",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 1979,
+   "escena": "rio",
+   "estrellas_critica_album": "5",
+   "ficha": "content/albumes/univers-zero-heresie.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "La Faulx",
+     "ms": 1518000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Jack the Ripper",
+     "ms": 809000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Vous le saurez en temps voulu",
+     "ms": 776000
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-implosion",
+   "titulo": "Implosion",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 2004,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/univers-zero-implosion.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Suintement (Oozing)",
+     "ms": 73000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Falling Rain Dance",
+     "ms": 254000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Partch’s X-Ray",
+     "ms": 322000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Rapt d’Abdallah",
+     "ms": 181000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Miroirs (Mirrors)",
+     "ms": 78000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "La mort de Sophocle (Sophocle’s Death)",
+     "ms": 191000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Ectoplasme",
+     "ms": 67000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Temps neufs",
+     "ms": 295000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Mellotronic",
+     "ms": 244000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Bacteria",
+     "ms": 88000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Out of Space 4",
+     "ms": 173000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "First Short Dance",
+     "ms": 42000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Second Short Dance",
+     "ms": 43000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Variations on Mellotronic’s Theme",
+     "ms": 185000
+    },
+    {
+     "medio": 1,
+     "n": 15,
+     "titulo": "A Rebours (In Reverse)",
+     "ms": 115000
+    },
+    {
+     "medio": 1,
+     "n": 16,
+     "titulo": "Méandres (Meanderings)",
+     "ms": 578000
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-lueur",
+   "titulo": "Lueur",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 2023,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/univers-zero-lueur.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Migration vers le bas",
+     "ms": 155693
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Sfumato (part 1)",
+     "ms": 568520
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Cloportes",
+     "ms": 240747
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Rolling Eyes",
+     "ms": 338747
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Axe 117",
+     "ms": 213173
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Sfumato (part 2)",
+     "ms": 371187
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Wavering",
+     "ms": 231280
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "La tête à l’envers",
+     "ms": 109347
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Mister Chung",
+     "ms": 177920
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Dartafalk",
+     "ms": 344267
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Coda",
+     "ms": 122040
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-phosphorescent-dreams",
+   "titulo": "Phosphorescent Dreams",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 2012,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/univers-zero-phosphorescent-dreams.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Shaking Hats",
+     "ms": 587547
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Vocation",
+     "ms": 290387
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Très affable",
+     "ms": 453413
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Rêve mécanique",
+     "ms": 752560
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Les voleurs d’ombre",
+     "ms": 599520
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "L’espoir perdu",
+     "ms": 327747
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Phosphorescent Dreams",
+     "ms": 763973
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-rhythmix",
+   "titulo": "Rhythmix",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 2002,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/univers-zero-rhythmix.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Terres noires (Blacklands)",
+     "ms": 366000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Rêve cyclique",
+     "ms": 353000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Rouages: Second Rotation (Cogwheels: Second Rotation)",
+     "ms": 218000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "The Invisible Light",
+     "ms": 189000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Phobia",
+     "ms": 331000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Zorgh March",
+     "ms": 203000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Zébulon",
+     "ms": 189000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Forêt inviolée (Secret Forest)",
+     "ms": 139000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Shanghaï’s Digital Talks",
+     "ms": 288000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Emotions galactiques (Galactical Emotions)",
+     "ms": 347000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "Waiting for the Sun",
+     "ms": 196000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "The Fly‐Toxmen’s Land",
+     "ms": 290000
+    },
+    {
+     "medio": 1,
+     "n": 13,
+     "titulo": "Rêve Cyclique (reprise)",
+     "ms": 50000
+    },
+    {
+     "medio": 1,
+     "n": 14,
+     "titulo": "Chasing Rats",
+     "ms": 265000
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-the-hard-quest",
+   "titulo": "The Hard Quest",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 1999,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/univers-zero-the-hard-quest.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Vieux‐manants",
+     "ms": 170000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Civic Circus",
+     "ms": 278000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Affinité (Affinity)",
+     "ms": 352000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Rouages (Cogwheels)",
+     "ms": 350000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "News From Outside",
+     "ms": 204000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Rébus (to All Children) (Rebus)",
+     "ms": 166000
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Kermesse atomique (Atomic Kermess)",
+     "ms": 333000
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Succès damné",
+     "ms": 258000
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "L’Impasse du choléra (Cholera’s Deadlock)",
+     "ms": 108000
+    },
+    {
+     "medio": 1,
+     "n": 10,
+     "titulo": "Xenantaya",
+     "ms": 634000
+    },
+    {
+     "medio": 1,
+     "n": 11,
+     "titulo": "L’Oubli (Oblivion)",
+     "ms": 106000
+    },
+    {
+     "medio": 1,
+     "n": 12,
+     "titulo": "Periactor",
+     "ms": 259000
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-univers-zero",
+   "titulo": "Univers Zero",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 1977,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/univers-zero-univers-zero.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Ronde",
+     "ms": 885000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Carabosse",
+     "ms": 220000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Docteur Petiot",
+     "ms": 445000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Malaise",
+     "ms": 462000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Complainte",
+     "ms": 198000
+    }
+   ]
+  },
+  {
+   "album_slug": "univers-zero-uzed",
+   "titulo": "Uzed",
+   "artista": "Univers Zero",
+   "artista_slug": "univers-zero",
+   "anio": 1984,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/univers-zero-uzed.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Présage",
+     "ms": 592466
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "L’Étrange mixture du Docteur Schwartz",
+     "ms": 236360
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Célesta (for Chantal)",
+     "ms": 415106
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Parade",
+     "ms": 398893
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Emmanations",
+     "ms": 941840
+    }
+   ]
+  },
+  {
+   "album_slug": "weidorje-weidorje",
+   "titulo": "Weidorje",
+   "artista": "Weidorje",
+   "artista_slug": "weidorje",
+   "anio": 1978,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/weidorje-weidorje.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Elohims Voyage",
+     "ms": 983000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Vilna",
+     "ms": 735000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Booldemug",
+     "ms": 425000
+    }
+   ]
+  },
+  {
+   "album_slug": "zao-akhenaton",
+   "titulo": "Akhenaton",
+   "artista": "ZAO",
+   "artista_slug": "zao",
+   "anio": 1994,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/zao-akhenaton.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Elioth",
+     "ms": 457773
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Thebes",
+     "ms": 431226
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Baityare",
+     "ms": 491933
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Cobra",
+     "ms": 398733
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Yzzo",
+     "ms": 402200
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Sable",
+     "ms": 228933
+    },
+    {
+     "medio": 1,
+     "n": 7,
+     "titulo": "Ozz",
+     "ms": 367706
+    },
+    {
+     "medio": 1,
+     "n": 8,
+     "titulo": "Sakkarah",
+     "ms": 349800
+    },
+    {
+     "medio": 1,
+     "n": 9,
+     "titulo": "Des Fleurs pour Nefertiti",
+     "ms": 454333
+    }
+   ]
+  },
+  {
+   "album_slug": "zao-kawana",
+   "titulo": "Kawana",
+   "artista": "ZAO",
+   "artista_slug": "zao",
+   "anio": 1976,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/zao-kawana.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Natura",
+     "ms": 420000
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Tserouf",
+     "ms": 595000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "F.F.F. (Fleurs For Faton)",
+     "ms": 148000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Kabal",
+     "ms": 250000
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Sadie",
+     "ms": 220000
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Free-Folk",
+     "ms": 598000
+    }
+   ]
+  },
+  {
+   "album_slug": "zao-osiris",
+   "titulo": "Osiris",
+   "artista": "ZAO",
+   "artista_slug": "zao",
+   "anio": 1974,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/zao-osiris.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Shardaz",
+     "ms": 293400
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Isis",
+     "ms": 577173
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Reinna",
+     "ms": 268293
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Yog",
+     "ms": 490106
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "La Rhune",
+     "ms": 252400
+    }
+   ]
+  },
+  {
+   "album_slug": "zao-shekina",
+   "titulo": "Shekina",
+   "artista": "ZAO",
+   "artista_slug": "zao",
+   "anio": 1975,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/zao-shekina.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Joyl",
+     "ms": 234160
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Yen-Lang",
+     "ms": 490000
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Zohar",
+     "ms": 653000
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Metatron",
+     "ms": 496840
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Zita",
+     "ms": 277493
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Bakus",
+     "ms": 312507
+    }
+   ]
+  },
+  {
+   "album_slug": "zao-typhareth",
+   "titulo": "Typhareth",
+   "artista": "ZAO",
+   "artista_slug": "zao",
+   "anio": 1977,
+   "escena": "rio",
+   "estrellas_critica_album": "3",
+   "ficha": "content/albumes/zao-typhareth.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Merci Jacky",
+     "ms": 439746
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Typhareth (Beauté)",
+     "ms": 763133
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Troupeau de Bisons Sous un Crane",
+     "ms": 211373
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Binah (Comprehension Feminine)",
+     "ms": 303706
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "Les Temps Changent",
+     "ms": 523040
+    }
+   ]
+  },
+  {
+   "album_slug": "zao-z-7l",
+   "titulo": "Z=7L",
+   "artista": "ZAO",
+   "artista_slug": "zao",
+   "anio": 1973,
+   "escena": "rio",
+   "estrellas_critica_album": "4",
+   "ficha": "content/albumes/zao-z-7l.md",
+   "medios": 1,
+   "tracklist": [
+    {
+     "medio": 1,
+     "n": 1,
+     "titulo": "Marochsek",
+     "ms": 437840
+    },
+    {
+     "medio": 1,
+     "n": 2,
+     "titulo": "Ataturc",
+     "ms": 355466
+    },
+    {
+     "medio": 1,
+     "n": 3,
+     "titulo": "Ronach",
+     "ms": 286400
+    },
+    {
+     "medio": 1,
+     "n": 4,
+     "titulo": "Atart",
+     "ms": 216133
+    },
+    {
+     "medio": 1,
+     "n": 5,
+     "titulo": "La Soupe",
+     "ms": 445733
+    },
+    {
+     "medio": 1,
+     "n": 6,
+     "titulo": "Satanyia",
+     "ms": 412000
+    }
+   ]
+  }
+ ]
+}

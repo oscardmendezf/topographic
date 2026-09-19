@@ -1,0 +1,45 @@
+{
+  "release-group-count": 4,
+  "release-groups": [
+    {
+      "first-release-date": "1980",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "id": "2aa211dc-6798-3234-96bf-9402b0e5eac2",
+      "title": "Ardeur",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "4 Visions",
+      "id": "ae0a3979-2861-3476-b8e5-7f34cc717566",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "1981"
+    },
+    {
+      "secondary-types": [],
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "first-release-date": "1983",
+      "id": "dcb9a33e-364b-32f8-8852-7a3a6adeca4a",
+      "title": "Fiction",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": ""
+    },
+    {
+      "primary-type": "Album",
+      "secondary-types": [],
+      "secondary-type-ids": [],
+      "first-release-date": "2017-10-01",
+      "id": "ddc3cb0f-eaec-4e5a-b340-0d7cd5684b6e",
+      "title": "So Good",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": ""
+    }
+  ]
+}

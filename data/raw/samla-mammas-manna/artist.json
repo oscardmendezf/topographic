@@ -1,0 +1,359 @@
+{
+  "gender-id": null,
+  "life-span": {
+    "begin": "1969",
+    "ended": true,
+    "end": "2008-12"
+  },
+  "relations": [
+    {
+      "direction": "backward",
+      "ended": true,
+      "begin": "1970",
+      "attribute-ids": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Hasse Bruniusson",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "352fc08d-c231-47cb-8bd1-d24b891c70c7",
+        "sort-name": "Bruniusson, Hasse",
+        "country": "SE"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1980",
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Hasse Bruniusson",
+        "disambiguation": "",
+        "country": "SE",
+        "sort-name": "Bruniusson, Hasse",
+        "id": "352fc08d-c231-47cb-8bd1-d24b891c70c7"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1999",
+      "source-credit": "",
+      "attribute-ids": {},
+      "direction": "backward",
+      "begin": "1990",
+      "ended": true
+    },
+    {
+      "attribute-ids": {},
+      "begin": "2002",
+      "ended": false,
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "drummer in Ruins",
+        "name": "吉田達也",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "7a82840d-beb5-4819-aed3-6b732332b461",
+        "sort-name": "Yoshida, Tatsuya",
+        "country": "JP"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Coste Apetrea",
+        "disambiguation": "",
+        "country": "SE",
+        "sort-name": "Apetrea, Coste",
+        "id": "fedd1eac-24c8-4e9f-84c0-ca508c5b924f"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "type": "member of band",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "name": "Lars Hollmer",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "fcce8834-14e8-4898-bb09-289d0e6b9118",
+        "sort-name": "Hollmer, Lars",
+        "country": "SE"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "backward"
+    },
+    {
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000243849",
+        "id": "244c6352-d403-4d2e-a1e6-7393756dafc0"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "allmusic"
+    },
+    {
+      "url": {
+        "resource": "https://www.discogs.com/artist/296219",
+        "id": "3254f1a6-7b00-40d4-807e-5d21898d9373"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "discogs",
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://open.spotify.com/artist/2YHHo7UJ5bZOWUu2SDVSy3",
+        "id": "59c063cc-c6b3-49a5-83ab-45690c9301fe"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "end": null,
+      "type": "free streaming",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "url": {
+        "id": "fb957a08-1cb8-42d5-9ca8-fb6de0034e80",
+        "resource": "http://samlamammasmanna.se/"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "official homepage",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "url": {
+        "id": "f9cc576c-cacf-4b93-b852-0da4d63c712b",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb140521026"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "type": "other databases",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/samla_mammas_manna",
+        "id": "c05362c3-5295-4cc3-9baa-47c5b9fc847b"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "target-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "songkick",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "url": {
+        "id": "6d3940dd-8021-4448-ac11-613acc13e424",
+        "resource": "https://www.songkick.com/artists/51277"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "VIAF",
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-ids": {},
+      "url": {
+        "id": "f79aa56f-2d82-4b25-b6c0-c7894316e2ab",
+        "resource": "http://viaf.org/viaf/133935662"
+      },
+      "direction": "forward",
+      "ended": false,
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "e643e896-8d61-4586-b30a-62811840a081",
+        "resource": "https://www.wikidata.org/wiki/Q965493"
+      },
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "wikidata",
+      "end": null,
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "youtube music",
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "attribute-ids": {},
+      "url": {
+        "id": "c351a0a8-adbf-4009-8511-4b19c8cce9e9",
+        "resource": "https://music.youtube.com/channel/UCCRXSVhzgjP0qJud35IPx5g"
+      },
+      "direction": "forward",
+      "ended": false,
+      "begin": null
+    }
+  ],
+  "gender": null,
+  "name": "Samla Mammas Manna",
+  "disambiguation": "",
+  "sort-name": "Samla Mammas Manna",
+  "country": "SE",
+  "isnis": [],
+  "end-area": null,
+  "aliases": [
+    {
+      "locale": null,
+      "primary": null,
+      "sort-name": "Sammla Mammas Manna",
+      "name": "Sammla Mammas Manna",
+      "type-id": null,
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type": null
+    },
+    {
+      "name": "Zamla Mammaz Manna",
+      "type-id": null,
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "type": null,
+      "primary": null,
+      "locale": null,
+      "sort-name": "Zamla Mammaz Manna"
+    }
+  ],
+  "area": {
+    "type": null,
+    "type-id": null,
+    "disambiguation": "",
+    "name": "Sweden",
+    "iso-3166-1-codes": [
+      "SE"
+    ],
+    "sort-name": "Sweden",
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb"
+  },
+  "id": "67a178e3-43db-4bab-bf08-672549057098",
+  "begin-area": {
+    "id": "4955495c-004d-4c7f-ba17-d9df26388cd0",
+    "sort-name": "Uppsala",
+    "disambiguation": "",
+    "name": "Uppsala",
+    "type-id": null,
+    "type": null
+  },
+  "ipis": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "type": "Group"
+}

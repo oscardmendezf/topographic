@@ -1,0 +1,83 @@
+{
+  "release-group-count": 7,
+  "release-groups": [
+    {
+      "secondary-types": [],
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "first-release-date": "1980",
+      "title": "Slapp Happy or Slapp Happy",
+      "id": "7e5834e2-4a73-30aa-bf6d-2d93956d2aae",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [],
+      "primary-type": "Album",
+      "secondary-types": [],
+      "first-release-date": "1972",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "806ab917-5aa6-341f-b319-d0deef56d633",
+      "title": "Sort Of",
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "title": "Ça Va",
+      "id": "b512d39f-c806-38cf-99b5-263b29162343",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1998-10-21",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "secondary-type-ids": []
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "b9aa1a0f-be03-3a14-b5f3-8a641a5ccde1",
+      "title": "Live in Japan - May, 2000",
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "first-release-date": "2009"
+    },
+    {
+      "disambiguation": "",
+      "id": "bbfce25e-449e-3fe4-87c9-7270e74fcd3b",
+      "title": "Slapp Happy",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "1974",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "secondary-type-ids": []
+    },
+    {
+      "secondary-type-ids": [],
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "1975-02-21",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Desperate Straights",
+      "id": "d149382d-df81-3af0-9a29-585482198f10",
+      "disambiguation": ""
+    },
+    {
+      "first-release-date": "1993",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "title": "Casablanca Moon / Desperate Straights",
+      "id": "dcdee32f-5ee9-37ec-9f7d-d3907115f673",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    }
+  ]
+}

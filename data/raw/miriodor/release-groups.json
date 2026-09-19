@@ -1,0 +1,145 @@
+{
+  "release-group-count": 13,
+  "release-groups": [
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "first-release-date": "1986",
+      "id": "0becf206-d22a-3096-93a7-95192b634a43",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Rencontres",
+      "primary-type": "Album"
+    },
+    {
+      "id": "2d995e67-4111-4d8b-915c-7c2ffe329f7d",
+      "first-release-date": "1991",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "3è avertissement",
+      "secondary-types": []
+    },
+    {
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "351ad36c-844b-3c6e-ab35-4b065a52fb8d",
+      "first-release-date": "2009-05-05",
+      "disambiguation": "",
+      "title": "Avanti!",
+      "secondary-types": [],
+      "primary-type": "Album"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "first-release-date": "2005-05-10",
+      "id": "49dbff8c-bf94-393b-b90e-b6f1acaafa85",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Parade + Live at NEARfest",
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "6442f9e8-2bff-429d-b32d-da5524e7fbd8",
+      "first-release-date": "2017-05-12",
+      "disambiguation": "",
+      "title": "Signal 9",
+      "secondary-types": [],
+      "primary-type": "Album"
+    },
+    {
+      "id": "6766b350-3979-33b6-99cd-d7419da048ee",
+      "first-release-date": "1995",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "title": "Miriodor",
+      "disambiguation": "",
+      "secondary-types": []
+    },
+    {
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Jongleries élastiques",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "first-release-date": "1996-02-13",
+      "id": "7849c154-9ceb-33bb-b9f2-ce08b16c6050"
+    },
+    {
+      "secondary-types": [],
+      "title": "Mekano",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "first-release-date": "2001-09-18",
+      "id": "7880d2a4-4abc-3f4e-8e03-182c6651f255"
+    },
+    {
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "789cb80b-7426-4beb-8da1-21c93a6643a9",
+      "first-release-date": "2013-09-24",
+      "disambiguation": "",
+      "title": "Cobra Fakir",
+      "secondary-types": [],
+      "primary-type": "Album"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "7fd97989-b7f0-4d28-a38d-5d328e4dc082",
+      "first-release-date": "2009-11-03",
+      "title": "Live 89",
+      "disambiguation": "",
+      "secondary-types": [
+        "Compilation",
+        "Live"
+      ],
+      "primary-type": "Album"
+    },
+    {
+      "id": "a1a8987e-dcce-4242-975c-31c071212478",
+      "first-release-date": "1987",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Tôt ou tard",
+      "secondary-types": []
+    },
+    {
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "c8e55d65-cd95-49bf-91d5-2ff4597ded85",
+      "first-release-date": "2022-10-28",
+      "disambiguation": "",
+      "title": "Elements",
+      "secondary-types": [],
+      "primary-type": "Album"
+    },
+    {
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "disambiguation": "",
+      "title": "Live 97",
+      "first-release-date": "2025-07-25",
+      "id": "d78d6320-a0d5-4bc4-954b-624afdc71b3e",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "thinking-plague-hoping-against-hope"
+titulo: "Hoping Against Hope"
+artista: "Thinking Plague"
+artista_slug: "thinking-plague"
+anio_ficha: 2017
+era: "moderna"
+escena: "rio"
+mb_rgid: "6cea5caf-dafe-4da0-8d98-f18d1a5cfbaa"
+primer_lanzamiento: "2017-02-10"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Coherente y bien tocado, sin la urgencia de los discos mayores."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Alcance idéntico al de toda su discografía."
+historia: "editorial"
+---
+
+Último capítulo hasta ahora y el más melancólico: el título ya avisa que el pesimismo del grupo se volvió resignación activa. La escritura conserva la complejidad de siempre pero baja el volumen, y las voces ganan protagonismo sobre el ensamble. No aporta un territorio nuevo; confirma que el territorio sigue siendo habitable.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El título es una fórmula hecha —esperar contra toda esperanza— y el grupo la usa sin ironía, lo que en este catálogo es casi una novedad. Después de Decline and Fall, Mike Johnson siguió en la misma dirección: menos saturación, más línea, y un pesimismo que dejó de ser diagnóstico furioso para volverse resignación activa. No es un disco rendido; es un disco de gente que ya no espera que decir las cosas las cambie y las dice igual.
+
+Los textos son los más explícitos de la banda. «The Echoes of Their Cries» abre con los ecos de quienes ya gritaron, es decir, con la historia funcionando como ruido de fondo. «Thus Have We Made the World» pone la responsabilidad en primera persona del plural, sin buscar culpables externos. «Commuting to Murder» es la pieza más filosa del conjunto: la idea de ir a matar como quien va a la oficina, la violencia convertida en rutina laboral. La pieza titular, de diez minutos, desarrolla la contradicción del nombre sin resolverla en ningún momento. «The Great Leap Backwards» invierte una consigna histórica conocida y le aplica el signo contrario. «A Dirge for the Unwitting» cierra con casi catorce minutos de responso para los que no se enteraron, y la elección del género —un canto fúnebre— dice todo lo que hace falta sobre el ánimo del disco.
+
+## La producción
+
+La escritura conserva el nivel de dificultad de siempre, pero el sonido baja el volumen general. Las dinámicas son más amplias, hay pasajes que se sostienen casi en silencio y la percusión dejó de empujar para acompañar. Es un disco de textura antes que de impacto, y quien busque el golpe de los noventa no lo va a encontrar.
+
+El cambio más audible está en el tratamiento de las voces, que ganan protagonismo sobre el ensamble. En los discos clásicos del grupo la voz era una línea más dentro del contrapunto, a veces la más incómoda de todas; acá está adelante, con armonías y superposiciones que la vuelven el centro del interés. Esa decisión hace el material más accesible y, al mismo tiempo, le quita algo del equilibrio raro que definía a la banda: cuando la voz manda, el tejido de abajo pasa a funcionar como acompañamiento, y este grupo nunca había tenido acompañamiento.
+
+Los timbres son los de siempre —maderas, teclados, guitarras, percusión de procedencias diversas— tratados con la definición que ya es habitual en la etapa tardía.
+
+## Recepción y legado
+
+Se recibió bien y sin sorpresa, que es más o menos lo que ofrece. Es el último capítulo publicado hasta ahora y no abre territorio nuevo: confirma que el que hay sigue siendo habitable y que la escritura de Johnson no se agotó, aunque sí se volvió menos urgente. Para el oyente que llega desde In This Life o In Extremis puede resultar demasiado amable; para quien viene de Decline and Fall es la continuación lógica, con un par de piezas que están entre las mejores de la etapa. Su lugar en el género es el de un grupo que sostuvo una manera de escribir durante más de tres décadas sin repetirse y sin ablandarse del todo.

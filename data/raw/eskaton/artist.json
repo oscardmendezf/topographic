@@ -1,0 +1,348 @@
+{
+  "sort-name": "Eskaton",
+  "country": "FR",
+  "type": "Group",
+  "gender": null,
+  "id": "7eb38036-b783-4247-9054-465c0cf7f324",
+  "disambiguation": "French progressive-Zeuhl Band",
+  "name": "Eskaton",
+  "life-span": {
+    "ended": true,
+    "begin": "1970",
+    "end": "1984"
+  },
+  "relations": [
+    {
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "begin": null,
+      "artist": {
+        "country": null,
+        "type": "Person",
+        "sort-name": "Bernardi, André",
+        "name": "André Bernardi",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "b337de5d-5314-4044-8143-966a8a1f6cf8",
+        "disambiguation": ""
+      },
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [
+        "bass"
+      ],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "synthesizer"
+      ],
+      "attribute-ids": {
+        "synthesizer": "4a29230c-5ab5-4eff-ac59-4a253f3561a0"
+      },
+      "begin": null,
+      "artist": {
+        "id": "253da53f-46e9-4fb6-82e3-28fbb1667097",
+        "disambiguation": "vocalist and synth player in the French band Eskaton",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Paule Kleynnaert",
+        "sort-name": "Kleynnaert, Paule",
+        "type": "Person",
+        "country": null
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "backward"
+    },
+    {
+      "artist": {
+        "sort-name": "Kleynnaert, Paule",
+        "type": "Person",
+        "country": null,
+        "id": "253da53f-46e9-4fb6-82e3-28fbb1667097",
+        "disambiguation": "vocalist and synth player in the French band Eskaton",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Paule Kleynnaert"
+      },
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": null,
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals"
+      ],
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "ended": false,
+      "attribute-credits": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "begin": null,
+      "artist": {
+        "sort-name": "Konig, Gérard",
+        "type": "Person",
+        "country": null,
+        "disambiguation": "",
+        "id": "eea80dbe-51be-400f-956e-380e7655b2db",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Gérard Konig"
+      },
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [
+        "membranophone"
+      ],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "French multi-instrumentalist; mostly known as a violinist",
+        "id": "835742c4-088a-4998-8ed0-3cf182cf422d",
+        "name": "Patrick Le Mercier",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Mercier, Patrick Le",
+        "country": "FR",
+        "type": "Person"
+      },
+      "begin": null,
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "attributes": [
+        "violin"
+      ],
+      "target-type": "artist",
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "ended": false,
+      "attribute-credits": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "French keyboardist",
+        "id": "e98ebb85-2292-47fd-a64c-a84e0c1cf8e3",
+        "name": "Gilles Rozenberg",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Rozenberg, Gilles",
+        "country": null,
+        "type": "Person"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "name": "Gilles Rozenberg",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "e98ebb85-2292-47fd-a64c-a84e0c1cf8e3",
+        "disambiguation": "French keyboardist",
+        "country": null,
+        "type": "Person",
+        "sort-name": "Rozenberg, Gilles"
+      },
+      "type": "member of band",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": null,
+      "target-type": "artist",
+      "attributes": [
+        "keyboard"
+      ],
+      "end": null,
+      "direction": "backward",
+      "ended": false,
+      "source-credit": "",
+      "attribute-credits": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Tahir, Amara",
+        "country": "FR",
+        "type": "Person",
+        "disambiguation": "",
+        "id": "c78bdd07-34fe-4ef4-9dda-f45a563887bd",
+        "name": "Amara Tahir",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "begin": null,
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000458588",
+        "id": "8f1ae8be-17e5-4ac9-b608-bb6bd77461ee"
+      },
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "allmusic",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type": "discogs",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/478540",
+        "id": "284b8177-cb99-412a-ae02-c365daf17eaa"
+      }
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "last.fm",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.last.fm/music/Eskaton",
+        "id": "b137bac2-d70a-4108-9dd0-04c6d2a87a7e"
+      },
+      "target-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/eskaton",
+        "id": "230ae1d3-5f44-40e9-bac3-f556bfccf10b"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "wikidata",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1709944",
+        "id": "157ef6d5-8cfa-45ed-a46e-6c2f20dc3e9f"
+      },
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false
+    }
+  ],
+  "end-area": null,
+  "isnis": [],
+  "gender-id": null,
+  "begin-area": null,
+  "ipis": [],
+  "area": {
+    "type": null,
+    "sort-name": "France",
+    "type-id": null,
+    "name": "France",
+    "iso-3166-1-codes": [
+      "FR"
+    ],
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "disambiguation": ""
+  },
+  "aliases": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+}

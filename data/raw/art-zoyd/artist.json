@@ -1,0 +1,560 @@
+{
+  "area": {
+    "id": "08310658-51eb-3801-80de-5a0739207115",
+    "name": "France",
+    "type-id": null,
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "FR"
+    ],
+    "sort-name": "France",
+    "type": null
+  },
+  "relations": [
+    {
+      "type": "member of band",
+      "attributes": [
+        "original"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1971",
+      "target-credit": "",
+      "direction": "backward",
+      "ended": true,
+      "attribute-values": {},
+      "end": "1997",
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "sort-name": "Zaboïtzeff, Thierry",
+        "country": "FR",
+        "id": "bfbf928a-1e12-432a-8957-da8a4f7bce84",
+        "name": "Thierry Zaboïtzeff"
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "name": "Michel Berckmans",
+        "id": "a7af9bcc-27aa-4aad-9165-77ea10d2260a",
+        "type": "Person",
+        "country": "BE",
+        "sort-name": "Berckmans, Michel",
+        "disambiguation": "Belgian bassoon player, he also plays other wind instruments",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "attributes": [
+        "percussion"
+      ],
+      "type": "member of band",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "name": "Didier Casamitjana",
+        "id": "aeb62cd0-52a4-40a9-829d-717169c85ae1",
+        "sort-name": "Casamitjana Didier",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person"
+      },
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "attributes": [],
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "ended": false,
+      "attribute-values": {},
+      "end": null,
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "id": "624170db-fc7b-470b-9f14-458bfa629496",
+        "name": "Patricia Dallio",
+        "sort-name": "Dallio, Patricia",
+        "country": "FR",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "attributes": [],
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "member of Art Zoyd",
+        "country": "FR",
+        "sort-name": "Hourbette, Gérard",
+        "type": "Person",
+        "id": "b3d1d9c6-db52-4e01-8c00-e1cbdc29ea5d",
+        "name": "Gérard Hourbette"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "ended": false,
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attributes": [],
+      "attribute-ids": {},
+      "artist": {
+        "id": "5b06254d-0f8c-452a-80a6-61187c970f23",
+        "name": "Nathalie Négro",
+        "sort-name": "Négro, Nathalie",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "pianist",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "attributes": [],
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "attribute-values": {},
+      "end": null,
+      "attribute-ids": {},
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "id": "3a03d609-6a63-46f9-8d96-4daac1138f9b",
+        "name": "Didier Pietton",
+        "country": "FR",
+        "sort-name": "Pietton, Didier",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person"
+      }
+    },
+    {
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attributes": [],
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "artist": {
+        "name": "Laurent Dailleau",
+        "id": "40bc8eac-5144-4f4a-8c52-7fb9932c8059",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "FR",
+        "sort-name": "Dailleau, Laurent"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000526901",
+        "id": "7fa1732c-8a0a-4d61-b8d6-e35a59bb15ef"
+      },
+      "direction": "forward",
+      "type": "allmusic",
+      "attributes": [],
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846"
+    },
+    {
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "id": "0a8d2c71-ad88-4110-84c3-ced61c16fb5a",
+        "resource": "http://artzoyd.unibase.cz/Disco.html?idart=10"
+      },
+      "direction": "forward",
+      "type": "discography page",
+      "attributes": [],
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f"
+    },
+    {
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "url": {
+        "id": "b8e3ed1e-8044-445c-9192-1684b2333cf4",
+        "resource": "https://www.discogs.com/artist/229368"
+      },
+      "begin": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attributes": [],
+      "type": "discogs",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "type": "free streaming",
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "id": "195b8a1a-c8d6-484a-affe-f62329bb1f49",
+        "resource": "https://open.spotify.com/artist/3UGoJfjsENJ0x9rVckIuOg"
+      },
+      "direction": "forward",
+      "ended": false,
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.deezer.com/artist/55044",
+        "id": "3883a879-9138-4bf0-b2d6-ac4f8375e78e"
+      },
+      "target-credit": "",
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "type": "free streaming",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "type": "image",
+      "attributes": [],
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "begin": null,
+      "url": {
+        "resource": "https://1.bp.blogspot.com/-NNlhW-p2RMM/Wat_LcFprBI/AAAAAAAA_5w/VEEAOgyvh9AEU5P5sMlWdtBhlJVr0FciwCLcBGAs/s1600/I8.jpg",
+        "id": "da1d9aea-475e-4555-9421-1b60cd6f1c8f"
+      },
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "official homepage",
+      "attributes": [],
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "begin": null,
+      "url": {
+        "resource": "http://www.artzoyd.com/",
+        "id": "74932e28-9f64-439e-b944-04ddf63b0abb"
+      },
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false
+    },
+    {
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no97010695",
+        "id": "9450b888-07e2-4468-8d20-1b45e1485223"
+      },
+      "target-credit": "",
+      "begin": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "type": "other databases",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "other databases",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13901710m",
+        "id": "f2061c99-b14c-469e-ae9d-13f2f4ac5a33"
+      },
+      "target-credit": "",
+      "direction": "forward",
+      "ended": false
+    },
+    {
+      "ended": false,
+      "type": "other databases",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://d-nb.info/gnd/5125534-0",
+        "id": "aae837cb-3151-400b-9d62-567529b0d106"
+      },
+      "direction": "forward",
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/art_zoyd",
+        "id": "83a3d9bc-38ec-41c9-a721-30ed0215c8bc"
+      },
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "type": "other databases",
+      "direction": "forward",
+      "url": {
+        "id": "ef70cefc-1abb-4d4a-976b-dc4afc88b23d",
+        "resource": "https://www.worldcat.org/identities/lccn-no97010695/"
+      },
+      "target-credit": "",
+      "begin": null,
+      "ended": false
+    },
+    {
+      "ended": false,
+      "direction": "forward",
+      "begin": null,
+      "url": {
+        "id": "d1445c96-af69-481b-b09c-b880187ed509",
+        "resource": "https://www.songkick.com/artists/163180"
+      },
+      "target-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "type": "songkick",
+      "attributes": [],
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attributes": [],
+      "type": "streaming",
+      "direction": "forward",
+      "target-credit": "",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/250336264",
+        "id": "c37e85ad-28e7-4cba-aec7-440301b1fc7f"
+      },
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "attributes": [],
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "id": "cf86358c-f0ab-478d-bf6d-f5392b3a5857",
+        "resource": "https://tidal.com/artist/10002712"
+      },
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "url": {
+        "id": "77667613-2b5c-4fde-aa10-c31d4efa9965",
+        "resource": "http://viaf.org/viaf/139199949"
+      },
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "type": "VIAF",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "attribute-values": {},
+      "end": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attributes": [],
+      "type": "wikidata",
+      "direction": "forward",
+      "url": {
+        "id": "bcaa9601-cb33-49fd-9140-553e5ca0920d",
+        "resource": "https://www.wikidata.org/wiki/Q705790"
+      },
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCSrm8ebzvAhbbZ5P4B19CBw",
+        "id": "c0748f8a-c5fc-4b32-b9a4-6a61ff3288cc"
+      },
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "type": "youtube",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "ended": false,
+      "attribute-values": {},
+      "end": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": ""
+    }
+  ],
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1969"
+  },
+  "country": "FR",
+  "end-area": null,
+  "ipis": [],
+  "id": "aba325af-9e75-4db8-967f-eab02b1116d2",
+  "isnis": [
+    "0000000106655102"
+  ],
+  "name": "Art Zoyd",
+  "begin-area": {
+    "type-id": null,
+    "disambiguation": "",
+    "sort-name": "Valenciennes",
+    "type": null,
+    "id": "6c900f36-1d2c-4194-ba96-8e9baae30af3",
+    "name": "Valenciennes"
+  },
+  "aliases": [],
+  "type": "Group",
+  "sort-name": "Art Zoyd",
+  "disambiguation": "",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender": null,
+  "gender-id": null
+}

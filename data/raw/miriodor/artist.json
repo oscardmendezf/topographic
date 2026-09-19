@@ -1,0 +1,111 @@
+{
+  "type": "Group",
+  "country": "CA",
+  "sort-name": "Miriodor",
+  "relations": [
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "artist": {
+        "sort-name": "Leclerc, Rémi",
+        "country": null,
+        "type": "Person",
+        "disambiguation": "drummer; member of Miriodor, Les Projectionnistes, L'Orkestre Des Pas Perdus, Jeszcze Raz",
+        "id": "91e8a4fe-a360-436f-8e38-07646e018bf7",
+        "name": "Rémi Leclerc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "discogs",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "url": {
+        "id": "4d683112-65bd-4770-bf50-8fc039afd060",
+        "resource": "https://www.discogs.com/artist/196587"
+      },
+      "attribute-values": {},
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "url": {
+        "id": "7253040a-5c15-40fb-be78-33b49a30c726",
+        "resource": "http://www.miriodor.com/"
+      },
+      "attribute-values": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "official homepage"
+    },
+    {
+      "type": "wikidata",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q782710",
+        "id": "da7e320c-8d67-4ab9-af28-1e13140a67aa"
+      },
+      "attribute-values": {}
+    }
+  ],
+  "life-span": {
+    "end": null,
+    "begin": "1980",
+    "ended": false
+  },
+  "name": "Miriodor",
+  "disambiguation": "",
+  "id": "ef154158-c9ea-4ea7-9059-f511b090eb1e",
+  "gender": null,
+  "ipis": [],
+  "begin-area": null,
+  "area": {
+    "iso-3166-1-codes": [
+      "CA"
+    ],
+    "disambiguation": "",
+    "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+    "type-id": null,
+    "name": "Canada",
+    "sort-name": "Canada",
+    "type": null
+  },
+  "isnis": [],
+  "gender-id": null,
+  "end-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": []
+}

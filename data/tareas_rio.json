@@ -1,0 +1,1761 @@
+{
+ "grupos": [
+  {
+   "id": "rio-magma",
+   "escena": "rio",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "magma",
+     "nombre": "Magma",
+     "tipo": "Group",
+     "pais": "FR",
+     "inicio": "1969",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Magma_(banda)",
+     "formaciones_mb": [
+      "Klaus Blasquiz (miembro; 1969–1980)",
+      "Christian Vander (miembro; 1969–act.)",
+      "Stella Vander (miembro; 1972–act.)",
+      "Marc Fosset (miembro; 1973–?)",
+      "Bernard Paganotti (miembro; 1974–1977)",
+      "Philippe Bussonnet (miembro; 1996–2008)",
+      "Antoine Paganotti (miembro; 2002–act.)",
+      "Himiko Paganotti (miembro; 2002–act.)",
+      "Jean-Pierre Lembert (electric bass guitar; ?–1972)",
+      "Rudy Blas (guitar; ?–act.)",
+      "Emmanuel Borghi (miembro; ?–act.)",
+      "François Cahen (miembro; ?–act.)",
+      "Frederic d’Oelsnitz (miembro; ?–act.)",
+      "Sylvie Fisichella (miembro; ?–act.)",
+      "Patrick Gauthier (miembro; ?–act.)",
+      "Michel Graillier (miembro; ?–act.)",
+      "Teddy Lasry (miembro; ?–act.)",
+      "Laurent Thibault (original; ?–act.)",
+      "Jannick Top (miembro; ?–act.)",
+      "Julie Vander (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "magma-kobaia",
+       "titulo": "Kobaïa",
+       "anio": 1970,
+       "mbid": "8d34e575-a50c-3fa5-8728-36381f3b2ac1",
+       "primer_lanzamiento": "1970",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-1-001-centigrades",
+       "titulo": "1.001° Centigrades",
+       "anio": 1971,
+       "mbid": "8ee2e6b7-2c8f-367a-ab03-fa54cc70cfaf",
+       "primer_lanzamiento": "1971",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-mekanik-destruktiw-kommandoh",
+       "titulo": "Mëkanïk Dëstruktïẁ Kömmandöh",
+       "anio": 1973,
+       "mbid": "0f5964b4-a798-3da0-84ad-ef9cb6528f31",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-wurdah-itah",
+       "titulo": "Ẁurdah Ïtah",
+       "anio": 1974,
+       "mbid": "1af65602-8ccb-37fd-9cd7-6c1f331e5d2c",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-kohntarkosz",
+       "titulo": "Köhntarkösz",
+       "anio": 1974,
+       "mbid": "71447dd9-9a65-37fd-855d-ceb81896cab9",
+       "primer_lanzamiento": "1974-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-udu-wudu",
+       "titulo": "Üdü Ẁüdü",
+       "anio": 1976,
+       "mbid": "ffb5a527-3d9a-3933-a5d6-01139ecc6638",
+       "primer_lanzamiento": "1976",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-attahk",
+       "titulo": "Attahk",
+       "anio": 1978,
+       "mbid": "b0828cc0-9ef8-3080-85ef-4f0f4d571617",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-merci",
+       "titulo": "Merci",
+       "anio": 1984,
+       "mbid": "300191a1-74d0-3047-aaca-64e2a99d14e5",
+       "primer_lanzamiento": "1984",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-mekanik-kommandoh",
+       "titulo": "Mekanïk Kommandöh",
+       "anio": 1989,
+       "mbid": "4f77f358-4194-36eb-aae2-df30671133d5",
+       "primer_lanzamiento": "1989",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-k-a",
+       "titulo": "K.A",
+       "anio": 2004,
+       "mbid": "981b3db9-695b-36ca-af65-a3dc4b01019e",
+       "primer_lanzamiento": "2004-11-08",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-archiw-i-ii",
+       "titulo": "Archiẁ I & II",
+       "anio": 2008,
+       "mbid": "443f1335-a810-4a97-974c-65ea14526ca9",
+       "primer_lanzamiento": "2008",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-emehntehttre",
+       "titulo": "Ëmëhntëhtt‐Ré",
+       "anio": 2009,
+       "mbid": "a209d9ac-62d6-46e4-8698-a4d04a2e89cd",
+       "primer_lanzamiento": "2009-11-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-felicite-thosz",
+       "titulo": "Félicité Thösz",
+       "anio": 2012,
+       "mbid": "22bb274a-802f-447d-a5ed-0cf55ceb9ec8",
+       "primer_lanzamiento": "2012-06-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-riah-sahiltaahk",
+       "titulo": "Rïah Sahïltaahk",
+       "anio": 2014,
+       "mbid": "884b0497-81ad-4331-9fa7-86fac4502f5d",
+       "primer_lanzamiento": "2014-09-23",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-slag-tan",
+       "titulo": "Šlağ Tanƶ",
+       "anio": 2015,
+       "mbid": "981e9378-4567-4bd3-892d-d04c5371f078",
+       "primer_lanzamiento": "2015-01-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-zess-le-jour-du-neant",
+       "titulo": "Zëss: Le jour du néant",
+       "anio": 2019,
+       "mbid": "d0b6fb1b-8eaa-48a3-9cee-362381439887",
+       "primer_lanzamiento": "2019-06-14",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "magma-kartehl",
+       "titulo": "Kãrtëhl",
+       "anio": 2022,
+       "mbid": "2d502009-2a7f-4342-b625-e645a721409e",
+       "primer_lanzamiento": "2022-05-16",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rio-zeuhl",
+   "escena": "rio",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "zao",
+     "nombre": "ZAO",
+     "tipo": "Group",
+     "pais": "FR",
+     "inicio": "1971",
+     "fin": "2012-01-17",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Zao_(French_band)",
+     "formaciones_mb": [
+      "François Cahen (original; 1971–act.)",
+      "Yochk’o Seffer (original; 1971–act.)",
+      "Didier Lockwood (miembro; 1976–act.)",
+      "Joël Dugrenot (miembro; ?–act.)",
+      "Mauricia Platon (miembro; ?–act.)",
+      "Gérard Prévost (miembro; ?–act.)",
+      "Jean-Yves Rigaud (miembro; ?–act.)",
+      "Jean-My Truong (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "zao-z-7l",
+       "titulo": "Z=7L",
+       "anio": 1973,
+       "mbid": "35a3177c-348b-34c9-acd2-f675830d903f",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zao-osiris",
+       "titulo": "Osiris",
+       "anio": 1974,
+       "mbid": "1873175c-1cb2-3e94-871c-a06fb0a51f08",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zao-shekina",
+       "titulo": "Shekina",
+       "anio": 1975,
+       "mbid": "813ff552-cbb0-3832-a471-05e2a85d2f40",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zao-kawana",
+       "titulo": "Kawana",
+       "anio": 1976,
+       "mbid": "8b874a5f-d2cd-3fc3-bb5d-4c0b8090121c",
+       "primer_lanzamiento": "1976",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zao-typhareth",
+       "titulo": "Typhareth",
+       "anio": 1977,
+       "mbid": "a39e03f2-75e9-367e-a343-d3b652c61d16",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "zao-akhenaton",
+       "titulo": "Akhenaton",
+       "anio": 1994,
+       "mbid": "c47dc51d-9b8e-32c5-a4e0-faad57d4bf12",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "weidorje",
+     "nombre": "Weidorje",
+     "tipo": "Group",
+     "pais": "FR",
+     "inicio": "1976",
+     "fin": "1979",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Weidorje",
+     "formaciones_mb": [
+      "Michel Ettori (guitar; 1977–1978)",
+      "Pierre Chérèze (miembro; 1979–1979)",
+      "François Ovide (guitar; 1979–1979)",
+      "Patrick Gauthier (keyboard; ?–act.)",
+      "Jean-Philippe Goude (keyboard; ?–act.)",
+      "Alain Guillard (saxophone; ?–act.)",
+      "Yvon Guillard (trumpet; ?–act.)",
+      "Bernard Paganotti (bass guitar; ?–act.)",
+      "Kirt Rust (drums (drum set); ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "weidorje-weidorje",
+       "titulo": "Weidorje",
+       "anio": 1978,
+       "mbid": "ab8ac57b-e817-3ee9-9629-5d24c9c62e9f",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "eskaton",
+     "nombre": "Eskaton",
+     "tipo": "Group",
+     "pais": "FR",
+     "inicio": "1970",
+     "fin": "1984",
+     "wikipedia_url": null,
+     "formaciones_mb": [
+      "André Bernardi (bass; ?–act.)",
+      "Paule Kleynnaert (synthesizer; ?–act.)",
+      "Paule Kleynnaert (lead vocals; ?–act.)",
+      "Gérard Konig (membranophone; ?–act.)",
+      "Patrick Le Mercier (violin; ?–act.)",
+      "Gilles Rozenberg (guitar; ?–act.)",
+      "Gilles Rozenberg (keyboard; ?–act.)",
+      "Amara Tahir (lead vocals; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "eskaton-ardeur",
+       "titulo": "Ardeur",
+       "anio": 1980,
+       "mbid": "2aa211dc-6798-3234-96bf-9402b0e5eac2",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "eskaton-4-visions",
+       "titulo": "4 Visions",
+       "anio": 1981,
+       "mbid": "ae0a3979-2861-3476-b8e5-7f34cc717566",
+       "primer_lanzamiento": "1981",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "eskaton-fiction",
+       "titulo": "Fiction",
+       "anio": 1983,
+       "mbid": "dcb9a33e-364b-32f8-8852-7a3a6adeca4a",
+       "primer_lanzamiento": "1983",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "eskaton-so-good",
+       "titulo": "So Good",
+       "anio": 2017,
+       "mbid": "ddc3cb0f-eaec-4e5a-b340-0d7cd5684b6e",
+       "primer_lanzamiento": "2017-10-01",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rio-henry-cow",
+   "escena": "rio",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "henry-cow",
+     "nombre": "Henry Cow",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1968-05",
+     "fin": "1978-08",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Henry_Cow",
+     "formaciones_mb": [
+      "John Greaves (miembro; 1969-10–1976-03)",
+      "Chris Cutler (miembro; 1971-08–1978-08)",
+      "Geoff Leigh (miembro; 1972–1973-12)",
+      "Lindsay Cooper (miembro; 1974-01–1978-08)",
+      "Dagmar Krause (miembro; 1975-04–1977-11)",
+      "Georgie Born (miembro; 1976-06–1978-04)",
+      "Peter Blegvad (miembro; ?–act.)",
+      "Fred Frith (miembro; ?–act.)",
+      "Tim Hodgkinson (miembro; ?–act.)",
+      "Anthony Moore (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "henry-cow-leg-end",
+       "titulo": "Leg End",
+       "anio": 1973,
+       "mbid": "64a79334-c531-320b-94e9-3f42a1944fc9",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "henry-cow-unrest",
+       "titulo": "Unrest",
+       "anio": 1974,
+       "mbid": "d1fac684-703d-3fed-90f6-24ef55aca4ae",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "henry-cow-desperate-straights",
+       "titulo": "Desperate Straights",
+       "anio": 1975,
+       "mbid": "d149382d-df81-3af0-9a29-585482198f10",
+       "primer_lanzamiento": "1975-02-21",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "henry-cow-in-praise-of-learning",
+       "titulo": "In Praise of Learning",
+       "anio": 1975,
+       "mbid": "02093ce8-1a9b-34c9-8d48-3c3ae6b0e620",
+       "primer_lanzamiento": "1975-05-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "henry-cow-western-culture",
+       "titulo": "Western Culture",
+       "anio": 1978,
+       "mbid": "f7aa2b48-563b-3e0f-b630-5ad983a78b53",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "art-bears",
+     "nombre": "Art Bears",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1978",
+     "fin": "1981",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Art_Bears",
+     "formaciones_mb": [
+      "Chris Cutler (miembro; 1978–1981)",
+      "Fred Frith (miembro; 1978–1981)",
+      "Dagmar Krause (miembro; 1978–1981)",
+      "Peter Blegvad (miembro; 1979–1979)",
+      "Marc Hollander (miembro; 1979–1979)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "art-bears-hopes-and-fears",
+       "titulo": "Hopes and Fears",
+       "anio": 1978,
+       "mbid": "bcbfe797-2d2e-3ad5-8783-113cc216511a",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-bears-winter-songs",
+       "titulo": "Winter Songs",
+       "anio": 1979,
+       "mbid": "9c3717d6-ffd2-317e-a3b4-b71799970017",
+       "primer_lanzamiento": "1979",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-bears-the-world-as-it-is-today",
+       "titulo": "The World as It Is Today",
+       "anio": 1981,
+       "mbid": "2a446bb5-1dd9-3011-a8f7-3f9ff5a10ca2",
+       "primer_lanzamiento": "1981",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "slapp-happy",
+     "nombre": "Slapp Happy",
+     "tipo": "Group",
+     "pais": "DE",
+     "inicio": "1972",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Slapp_Happy",
+     "formaciones_mb": [
+      "Peter Blegvad (miembro; ?–act.)",
+      "Dagmar Krause (miembro; ?–act.)",
+      "Anthony Moore (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "slapp-happy-sort-of",
+       "titulo": "Sort Of",
+       "anio": 1972,
+       "mbid": "806ab917-5aa6-341f-b319-d0deef56d633",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "slapp-happy-slapp-happy",
+       "titulo": "Slapp Happy",
+       "anio": 1974,
+       "mbid": "bbfce25e-449e-3fe4-87c9-7270e74fcd3b",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "slapp-happy-desperate-straights",
+       "titulo": "Desperate Straights",
+       "anio": 1975,
+       "mbid": "d149382d-df81-3af0-9a29-585482198f10",
+       "primer_lanzamiento": "1975-02-21",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "slapp-happy-slapp-happy-or-slapp-happy",
+       "titulo": "Slapp Happy or Slapp Happy",
+       "anio": 1980,
+       "mbid": "7e5834e2-4a73-30aa-bf6d-2d93956d2aae",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "slapp-happy-ca-va",
+       "titulo": "Ça Va",
+       "anio": 1998,
+       "mbid": "b512d39f-c806-38cf-99b5-263b29162343",
+       "primer_lanzamiento": "1998-10-21",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rio-belgica",
+   "escena": "rio",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "univers-zero",
+     "nombre": "Univers Zero",
+     "tipo": "Group",
+     "pais": "BE",
+     "inicio": "1974",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Univers_Z%C3%A9ro",
+     "formaciones_mb": [
+      "Jeannot Gillis (miembro; 1975–1977)",
+      "Michel Berckmans (original; ?–act.)",
+      "Kurt Budé (miembro; ?–act.)",
+      "Pierre Chevalier (miembro; ?–act.)",
+      "Nicolas Dechêne (miembro; ?–act.)",
+      "Michel Delory (miembro; ?–act.)",
+      "Daniel Denis (miembro; ?–act.)",
+      "Dirk Descheemaeker (miembro; ?–act.)",
+      "Christian Genet (bass; ?–act.)",
+      "Patrick Hanappier (original; ?–act.)",
+      "Andy Kirk (miembro; ?–act.)",
+      "Eric Plantain (electric bass guitar; ?–act.)",
+      "Jean-Luc Plouvier (miembro; ?–act.)",
+      "Bart Quartier (miembro; ?–act.)",
+      "Guy Segers (bass; ?–act.)",
+      "Roger Trigaux (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "univers-zero-univers-zero",
+       "titulo": "Univers Zero",
+       "anio": 1977,
+       "mbid": "4e001288-834a-3869-aec0-d74e15e95d07",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "univers-zero-heresie",
+       "titulo": "Hérésie",
+       "anio": 1979,
+       "mbid": "0b346f5f-e58b-3515-b3b2-0146ad2e6c33",
+       "primer_lanzamiento": "1979",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "univers-zero-ceux-du-dehors",
+       "titulo": "Ceux du dehors",
+       "anio": 1981,
+       "mbid": "4b80d301-942a-3152-bc3a-eb828f90c610",
+       "primer_lanzamiento": "1981",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "univers-zero-uzed",
+       "titulo": "Uzed",
+       "anio": 1984,
+       "mbid": "87940eee-45e6-3597-96c0-ab6ccbb13092",
+       "primer_lanzamiento": "1984",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "univers-zero-heatwave",
+       "titulo": "Heatwave",
+       "anio": 1986,
+       "mbid": "a60ba325-65ec-32af-a003-240bcdcccc8e",
+       "primer_lanzamiento": "1986",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "univers-zero-the-hard-quest",
+       "titulo": "The Hard Quest",
+       "anio": 1999,
+       "mbid": "d0086092-b008-31e5-a1ae-a3c594d34df2",
+       "primer_lanzamiento": "1999-09-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "univers-zero-rhythmix",
+       "titulo": "Rhythmix",
+       "anio": 2002,
+       "mbid": "8e738e9e-2e33-3868-b2d1-d2b113eb4931",
+       "primer_lanzamiento": "2002-05-07",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "univers-zero-implosion",
+       "titulo": "Implosion",
+       "anio": 2004,
+       "mbid": "a6eeffe2-7355-34fc-ba94-29d5e2c7dcc8",
+       "primer_lanzamiento": "2004",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "univers-zero-clivages",
+       "titulo": "Clivages",
+       "anio": 2010,
+       "mbid": "5b64fb1a-80d2-4da8-a644-bf2368d430f7",
+       "primer_lanzamiento": "2010-01-26",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "univers-zero-phosphorescent-dreams",
+       "titulo": "Phosphorescent Dreams",
+       "anio": 2012,
+       "mbid": "1e4baa0d-08e0-4e62-a669-184161258555",
+       "primer_lanzamiento": "2012-02-19",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "univers-zero-lueur",
+       "titulo": "Lueur",
+       "anio": 2023,
+       "mbid": "1b9f2048-2b89-4b9c-9225-994ffc3defe2",
+       "primer_lanzamiento": "2023-10-18",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "present",
+     "nombre": "Present",
+     "tipo": "Group",
+     "pais": "BE",
+     "inicio": "1979",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Present_(band)",
+     "formaciones_mb": [
+      "Pierre Chevalier (miembro; ?–act.)",
+      "Christian Genet (bass; ?–act.)",
+      "Dave Kerman (miembro; ?–act.)",
+      "Udi Koomran (miembro; ?–act.)",
+      "Roger Trigaux (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "present-triskaidekaphobie",
+       "titulo": "Triskaidékaphobie",
+       "anio": 1980,
+       "mbid": "a63e1cd2-b852-4e90-a5ef-9385dc861a3e",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "present-le-poison-qui-rend-fou",
+       "titulo": "Le poison qui rend fou",
+       "anio": 1985,
+       "mbid": "d556ceff-1201-48c4-8777-9657e5c9b220",
+       "primer_lanzamiento": "1985",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "present-c-o-d-performance",
+       "titulo": "C.O.D. Performance",
+       "anio": 1993,
+       "mbid": "c5dd0379-c22f-4f43-8eea-0f652f3ad689",
+       "primer_lanzamiento": "1993-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "present-certitudes",
+       "titulo": "Certitudes",
+       "anio": 1998,
+       "mbid": "ee0271a4-96ee-3725-8a23-791164ee93c7",
+       "primer_lanzamiento": "1998",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "present-no-6",
+       "titulo": "No. 6",
+       "anio": 1999,
+       "mbid": "25e09dd3-1561-43be-b7d1-127d6b107ef7",
+       "primer_lanzamiento": "1999",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "present-high-infidelity",
+       "titulo": "High Infidelity",
+       "anio": 2001,
+       "mbid": "34519ab3-047a-3c9a-af20-1a10712491ac",
+       "primer_lanzamiento": "2001",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "present-live-delusions",
+       "titulo": "Live Delusions",
+       "anio": 2009,
+       "mbid": "d21dcb75-3e62-4593-a123-9c1f263b5ea8",
+       "primer_lanzamiento": "2009",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "present-this-is-not-the-end",
+       "titulo": "this is NOT the end",
+       "anio": 2024,
+       "mbid": "32630c56-778a-4a69-8853-7d56abf8b5a2",
+       "primer_lanzamiento": "2024-03-29",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "aksak-maboul",
+     "nombre": "Aksak Maboul",
+     "tipo": "Group",
+     "pais": "BE",
+     "inicio": "1977",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Aksak_Maboul",
+     "formaciones_mb": [
+      "Marc Hollander (miembro; ?–act.)",
+      "Vincent Kenis (miembro; ?–act.)",
+      "Denis Van Hecke (miembro; ?–act.)",
+      "Véronique Vincent (miembro; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "aksak-maboul-onze-danses-pour-combattre-la-migraine",
+       "titulo": "Onze danses pour combattre la migraine",
+       "anio": 1977,
+       "mbid": "a18c7647-713d-3032-bb91-4a8df0cc64ac",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aksak-maboul-un-peu-de-lame-des-bandits",
+       "titulo": "Un peu de l’âme des bandits",
+       "anio": 1980,
+       "mbid": "6c4e0092-ede8-3b96-a906-1fcc4ad7c91a",
+       "primer_lanzamiento": "1980-01-15",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aksak-maboul-ex-futur-album",
+       "titulo": "Ex-futur album",
+       "anio": 2014,
+       "mbid": "6b047394-1756-4bb7-9cfb-7ce09d6372a5",
+       "primer_lanzamiento": "2014-10-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aksak-maboul-16-visions-of-ex-futur",
+       "titulo": "16 Visions Of Ex-Futur",
+       "anio": 2016,
+       "mbid": "d8f8810d-b634-4b99-804a-1e4873eb07cc",
+       "primer_lanzamiento": "2016-10-14",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aksak-maboul-before-and-after-bandits-documents-1977-1980-2015",
+       "titulo": "Before and After Bandits: Documents 1977-1980, 2015",
+       "anio": 2018,
+       "mbid": "df510928-465d-4972-b950-c2c19054651e",
+       "primer_lanzamiento": "2018-01-26",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aksak-maboul-figures",
+       "titulo": "Figures",
+       "anio": 2020,
+       "mbid": "89458542-3330-4eb1-b095-3b2cacb1ebd6",
+       "primer_lanzamiento": "2020-05-22",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aksak-maboul-une-aventure-de-vv-songspiel-made-to-measure-vol-48",
+       "titulo": "Une aventure de VV (Songspiel) [Made To Measure Vol.48]",
+       "anio": 2023,
+       "mbid": "9f6fa7de-8ff2-4691-b8a9-4c20817d592f",
+       "primer_lanzamiento": "2023-03-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "aksak-maboul-before-aksak-maboul-documents-experiments-1969-1977",
+       "titulo": "Before Aksak Maboul (Documents & Experiments 1969-1977)",
+       "anio": 2025,
+       "mbid": "d4cef05a-f345-4190-a4e2-0b82a0788f00",
+       "primer_lanzamiento": "2025-11-21",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rio-europa",
+   "escena": "rio",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "etron-fou-leloublan",
+     "nombre": "Etron Fou Leloublan",
+     "tipo": "Group",
+     "pais": "FR",
+     "inicio": "1974",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Etron_Fou_Leloublan",
+     "formaciones_mb": [
+      "Eulalie Ruynat (original; 1974–1977)",
+      "Guigou Chenevier (original; 1974–act.)",
+      "Ferdinand Richard (miembro; 1974–act.)",
+      "Francis Grand (miembro; 1978–1978)",
+      "Bernard Mathieu (miembro; 1978–1982)",
+      "Jo Thirion (miembro; 1981–1985)",
+      "Bruno Meillier (miembro; 1984–1984)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "etron-fou-leloublan-batelages",
+       "titulo": "Batelages",
+       "anio": 1977,
+       "mbid": "e904d524-8d22-369d-8ada-7c798ae0c1c6",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "etron-fou-leloublan-les-sillons-de-la-terre",
+       "titulo": "Les Sillons de la terre",
+       "anio": 1984,
+       "mbid": "d73000f6-7493-3584-a246-00cbcea4e68a",
+       "primer_lanzamiento": "1984",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "etron-fou-leloublan-face-aux-elements-dechaines",
+       "titulo": "Face aux éléments déchaînés",
+       "anio": 1985,
+       "mbid": "63c61f56-f5cb-4852-ae95-a100de2175b3",
+       "primer_lanzamiento": "1985",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "etron-fou-leloublan-a-prague",
+       "titulo": "À Prague",
+       "anio": 2010,
+       "mbid": "e0ee6321-6317-4bad-b6e8-cef0bdcfe4bc",
+       "primer_lanzamiento": "2010",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "etron-fou-leloublan-les-trois-fou-s-perdegagnent-au-pays-des",
+       "titulo": "Les Trois Fou's Perdégagnent (Au Pays Des...)",
+       "anio": 2014,
+       "mbid": "f0437b6d-ba20-4e4e-b64f-d7a05080942e",
+       "primer_lanzamiento": "2014",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "etron-fou-leloublan-live-at-the-rock-in-opposition-festival-1978-new-london-theatre",
+       "titulo": "Live at the Rock in Opposition Festival, 1978 - New London Theatre",
+       "anio": 2015,
+       "mbid": "5cb8b6e3-2336-4eb7-9998-f9aa6102b658",
+       "primer_lanzamiento": "2015-09-23",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "stormy-six",
+     "nombre": "Stormy Six",
+     "tipo": "Group",
+     "pais": "IT",
+     "inicio": "1966",
+     "fin": "1983",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Stormy_Six",
+     "formaciones_mb": [
+      "Franco Fabbri (miembro; ?–act.)",
+      "Massimo Villa (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "stormy-six-le-idee-di-oggi-per-la-musica-di-domani",
+       "titulo": "Le idee di oggi per la musica di domani",
+       "anio": 1969,
+       "mbid": "5a9dc8da-e638-367e-8d06-0143be6b1bef",
+       "primer_lanzamiento": "1969",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "stormy-six-l-unita",
+       "titulo": "L'unità",
+       "anio": 1972,
+       "mbid": "e0b50c58-9f61-30dd-bc0b-44f8eb5db1af",
+       "primer_lanzamiento": "1972",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "stormy-six-guarda-giu-dalla-pianura",
+       "titulo": "Guarda giù dalla pianura",
+       "anio": 1974,
+       "mbid": "50634bb7-b40a-3fc7-8795-ed463d1f0edb",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "stormy-six-un-biglietto-del-tram",
+       "titulo": "Un biglietto del tram",
+       "anio": 1975,
+       "mbid": "f8f12b37-c7a3-3430-bbb3-f25af8571f23",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "stormy-six-l-apprendista",
+       "titulo": "L'apprendista",
+       "anio": 1977,
+       "mbid": "31ca2781-b736-3877-a756-5e5aa63b2141",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "stormy-six-macchina-maccheronica",
+       "titulo": "Macchina maccheronica",
+       "anio": 1980,
+       "mbid": "e092f1f3-e383-32c3-ae6a-2507245f91cd",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "stormy-six-al-volo",
+       "titulo": "Al volo",
+       "anio": 1982,
+       "mbid": "2645fe72-72e8-3d42-ac36-229f378a2674",
+       "primer_lanzamiento": "1982",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "stormy-six-cliche-pinocchio-bazaar",
+       "titulo": "Cliché + Pinocchio bazaar",
+       "anio": 1997,
+       "mbid": "3e67171c-3810-37b4-8900-1026f0b715de",
+       "primer_lanzamiento": "1997",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "samla-mammas-manna",
+     "nombre": "Samla Mammas Manna",
+     "tipo": "Group",
+     "pais": "SE",
+     "inicio": "1969",
+     "fin": "2008-12",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Samla_Mammas_Manna",
+     "formaciones_mb": [
+      "Hasse Bruniusson (miembro; 1970–1980)",
+      "Hasse Bruniusson (miembro; 1990–1999)",
+      "吉田達也 (miembro; 2002–act.)",
+      "Coste Apetrea (miembro; ?–act.)",
+      "Lars Hollmer (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "samla-mammas-manna-samla-mammas-manna",
+       "titulo": "Samla Mammas Manna",
+       "anio": 1971,
+       "mbid": "dc5264c8-6fc5-3970-b42f-77d1ccca1685",
+       "primer_lanzamiento": "1971",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "samla-mammas-manna-maltid",
+       "titulo": "Måltid",
+       "anio": 1973,
+       "mbid": "2a13941c-fb37-346e-a09b-7b9ee7f17315",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "samla-mammas-manna-klossa-knapitatet",
+       "titulo": "Klossa Knapitatet",
+       "anio": 1974,
+       "mbid": "4f315ed3-6dc8-33f2-ac74-9c983648d370",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "samla-mammas-manna-snorungarnas-symfoni",
+       "titulo": "Snorungarnas Symfoni",
+       "anio": 1976,
+       "mbid": "f22587a7-7c64-33f4-8bfd-442bbbb3c566",
+       "primer_lanzamiento": "1976",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "samla-mammas-manna-schlagerns-mystik-for-aldre-nybegynnare",
+       "titulo": "Schlagerns mystik / För äldre nybegynnare",
+       "anio": 1977,
+       "mbid": "07a22e5d-7d43-4c84-9ed6-a2c11ef36f28",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "samla-mammas-manna-for-aldre-nybegynnare",
+       "titulo": "För äldre nybegynnare",
+       "anio": 1978,
+       "mbid": "c57e8262-c1c1-47ee-9d09-ea7d48e00d2a",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "samla-mammas-manna-schlagerns-mystik",
+       "titulo": "Schlagerns Mystik",
+       "anio": 1978,
+       "mbid": "a9a7b27a-252f-4a1c-bd6b-703cf52bff7a",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "samla-mammas-manna-familjesprickor",
+       "titulo": "Familjesprickor",
+       "anio": 1980,
+       "mbid": "a2adba41-4d5b-393c-98b4-19d4692597a3",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "samla-mammas-manna-kaka",
+       "titulo": "Kaka",
+       "anio": 1998,
+       "mbid": "87a760ab-f45a-3a1c-8ba4-53e429b23c43",
+       "primer_lanzamiento": "1998",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rio-art-zoyd",
+   "escena": "rio",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "art-zoyd",
+     "nombre": "Art Zoyd",
+     "tipo": "Group",
+     "pais": "FR",
+     "inicio": "1969",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Art_Zoyd",
+     "formaciones_mb": [
+      "Thierry Zaboïtzeff (original; 1971–1997)",
+      "Michel Berckmans (miembro; ?–act.)",
+      "Didier Casamitjana (percussion; ?–act.)",
+      "Patricia Dallio (miembro; ?–act.)",
+      "Gérard Hourbette (miembro; ?–act.)",
+      "Nathalie Négro (miembro; ?–act.)",
+      "Didier Pietton (miembro; ?–act.)",
+      "Laurent Dailleau (miembro; ?–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "art-zoyd-symphonie-pour-le-jour-ou-bruleront-les-cites",
+       "titulo": "Symphonie pour le jour où brûleront les cités",
+       "anio": 1976,
+       "mbid": "6d640fe1-74d2-3d87-a8c5-40aed292107b",
+       "primer_lanzamiento": "1976",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-musique-pour-l-odyssee",
+       "titulo": "Musique pour l'odyssée",
+       "anio": 1979,
+       "mbid": "966652e2-ace6-3204-9ff0-35b555e59899",
+       "primer_lanzamiento": "1979",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-generation-sans-futur",
+       "titulo": "Génération sans futur",
+       "anio": 1980,
+       "mbid": "65cc2044-5b88-3d9e-bb7a-dce88d99655d",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-phase-iv",
+       "titulo": "Phase IV",
+       "anio": 1982,
+       "mbid": "2b11492a-47c4-34be-bb80-e7680f53a410",
+       "primer_lanzamiento": "1982",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-les-espaces-inquiets",
+       "titulo": "Les Espaces inquiets",
+       "anio": 1983,
+       "mbid": "2efc75be-97d3-3f6f-aae6-13854187a7c0",
+       "primer_lanzamiento": "1983",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-le-mariage-du-ciel-et-de-l-enfer",
+       "titulo": "Le Mariage du Ciel et de l'Enfer",
+       "anio": 1985,
+       "mbid": "cbc5b753-a910-3fae-a43a-e4d976fe4790",
+       "primer_lanzamiento": "1985",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-berlin",
+       "titulo": "Berlin",
+       "anio": 1987,
+       "mbid": "813accd3-a19c-3f18-9711-df4a2e4dd4cb",
+       "primer_lanzamiento": "1987",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-nosferatu",
+       "titulo": "Nosferatu",
+       "anio": 1989,
+       "mbid": "26a7af15-9bc9-35de-8772-7c45f53cca32",
+       "primer_lanzamiento": "1989",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "art-zoyd-art-zoyd-j-a-deane-j-greinke",
+       "titulo": "Art Zoyd / J. A. Deane / J. Greinke",
+       "anio": 1990,
+       "mbid": "1f6cc753-4717-4e59-a526-5174d54a1463",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-marathonnerre-i",
+       "titulo": "Marathonnerre I",
+       "anio": 1992,
+       "mbid": "7078873b-ea14-33cd-9030-9a205c441a97",
+       "primer_lanzamiento": "1992",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-marathonnerre-ii",
+       "titulo": "Marathonnerre II",
+       "anio": 1992,
+       "mbid": "9d10e0e9-850a-3365-9bb8-8767d970a608",
+       "primer_lanzamiento": "1992",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-faust",
+       "titulo": "Faust",
+       "anio": 1995,
+       "mbid": "e8cb8495-ac5d-39b4-ac30-ed9078b0cfa1",
+       "primer_lanzamiento": "1995",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "art-zoyd-haxan",
+       "titulo": "Häxan",
+       "anio": 1997,
+       "mbid": "73b1777f-5d19-34f4-aff3-73a5c56c7e1e",
+       "primer_lanzamiento": "1997",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "art-zoyd-u-b-i-q-u-e",
+       "titulo": "u-B-I-Q-U-e",
+       "anio": 2001,
+       "mbid": "3bbebc8b-8e76-381b-93dd-8330de174a12",
+       "primer_lanzamiento": "2001",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-experiences-de-vol",
+       "titulo": "Expériences de vol",
+       "anio": 2002,
+       "mbid": "2003d647-2861-44e6-bc84-60870c924e33",
+       "primer_lanzamiento": "2002",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-metropolis",
+       "titulo": "Metropolis",
+       "anio": 2002,
+       "mbid": "9807b6ab-a5fb-4fa2-8d85-8a58262cd400",
+       "primer_lanzamiento": "2002",
+       "soundtrack": true
+      },
+      {
+       "album_slug": "art-zoyd-experiences-de-vol-4-5-6",
+       "titulo": "Expériences de vol 4 - 5 - 6",
+       "anio": 2005,
+       "mbid": "8dbe98e4-22ad-43d8-8ba8-63ec1dd728ea",
+       "primer_lanzamiento": "2005",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-le-champ-des-larmes",
+       "titulo": "Le champ des larmes",
+       "anio": 2006,
+       "mbid": "743cdc2e-b780-3f39-b1fc-7642ae9e52f5",
+       "primer_lanzamiento": "2006-07",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-la-chute-de-la-maison-usher",
+       "titulo": "La chute de la maison Usher",
+       "anio": 2008,
+       "mbid": "9b8a0c61-8b1c-43b9-b571-fc90280d9543",
+       "primer_lanzamiento": "2008",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-eyecatcher",
+       "titulo": "Eyecatcher",
+       "anio": 2011,
+       "mbid": "2ba333af-59d4-4b51-aad8-fa42d01ddc2d",
+       "primer_lanzamiento": "2011",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-armageddon-operette-pour-robots",
+       "titulo": "Armageddon : Opérette pour robots",
+       "anio": 2012,
+       "mbid": "c05f063b-9611-49ae-91d1-d730039540fa",
+       "primer_lanzamiento": "2012",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-44-1-2-live-and-unreleased-works-part-x-outdoor-music",
+       "titulo": "44 1/2: Live And Unreleased Works [Part X - Outdoor Music]",
+       "anio": 2017,
+       "mbid": "b8a5461e-12d9-4a75-a1df-80f2edcd477b",
+       "primer_lanzamiento": "2017-11-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-44-1-2-live-and-unreleased-works-part-xi-music-for-theatre-i",
+       "titulo": "44 1/2: Live And Unreleased Works [Part XI - Music For Theatre I]",
+       "anio": 2017,
+       "mbid": "75e74da3-438b-41ff-adba-864314d8e1fd",
+       "primer_lanzamiento": "2017-11-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-phase-v",
+       "titulo": "Phase V",
+       "anio": 2018,
+       "mbid": "0dd123a5-b5dc-4e0e-a457-a42fa751d57d",
+       "primer_lanzamiento": "2018-03-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-experiences-de-vol-10-11-12-13",
+       "titulo": "Expériences de Vol # 10/11/12/13",
+       "anio": 2018,
+       "mbid": "2f1f4e4f-3a5d-49c8-8b69-622f4743935e",
+       "primer_lanzamiento": "2018-04-22",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "art-zoyd-symphonie-s-pour-le-jour-ou-bruleront-les-cites",
+       "titulo": "Symphonie(s) Pour Le Jour Où Brûleront Les Cités",
+       "anio": 2022,
+       "mbid": "b7edc878-a086-433e-8ba9-ba56e134cf26",
+       "primer_lanzamiento": "2022",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "cassiber",
+     "nombre": "Cassiber",
+     "tipo": "Group",
+     "pais": "DE",
+     "inicio": "1982",
+     "fin": "1992",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Cassiber",
+     "formaciones_mb": [
+      "Alfred 23 Harth (original, saxophone; 1982–1985)",
+      "Chris Cutler (drums (drum set), original; 1982–1992)",
+      "Heiner Goebbels (original, violin; 1982–1992)",
+      "Heiner Goebbels (original, piano; 1982–1992)",
+      "Christoph Anders (original, other vocals; 1982–?)",
+      "Christoph Anders (guitar, original; 1982–?)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "cassiber-man-or-monkey",
+       "titulo": "Man or Monkey",
+       "anio": 1982,
+       "mbid": "5c817ad4-daf4-38fa-9da5-413003ed9b49",
+       "primer_lanzamiento": "1982",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "cassiber-beauty-and-the-beast",
+       "titulo": "Beauty and the Beast",
+       "anio": 1984,
+       "mbid": "839176eb-2940-317f-add3-7801af9b37ac",
+       "primer_lanzamiento": "1984",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "cassiber-perfect-worlds",
+       "titulo": "Perfect Worlds",
+       "anio": 1986,
+       "mbid": "b0d0e5c0-ac13-4004-bfab-6603cc99d5a0",
+       "primer_lanzamiento": "1986",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "cassiber-a-face-we-all-know",
+       "titulo": "A Face We All Know",
+       "anio": 1990,
+       "mbid": "e2768cce-7e97-3559-b593-df76ac426a33",
+       "primer_lanzamiento": "1990",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "cassiber-the-way-it-was",
+       "titulo": "The Way It Was",
+       "anio": 2012,
+       "mbid": "dbd98a9a-dc29-44e6-8f83-27a1c2a62c77",
+       "primer_lanzamiento": "2012-11-30",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "koenjihyakkei",
+     "nombre": "高円寺百景",
+     "tipo": "Group",
+     "pais": "JP",
+     "inicio": "1991",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/K%C5%8Denji_Hyakkei",
+     "formaciones_mb": [
+      "久保田安紀 (original; 1991–1997)",
+      "吉田達也 (drums (drum set), original; 1991–act.)",
+      "原田仁 (electric guitar; 1996–2003)",
+      "坂元健吾 (electric bass guitar; 1996–act.)",
+      "金澤美也子 (keyboard; 2002–2006)",
+      "小森慶子 (clarinet; 2005–act.)",
+      "小森慶子 (saxophone; 2005–act.)",
+      "久保田安紀 (lead vocals, original; 2007–2007)",
+      "矢吹卓 (keyboard; 2007–act.)",
+      "AH (lead vocals; 2008-09–act.)",
+      "小金丸慧 (electric guitar; 2017–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "koenjihyakkei-hundred-sights-of-koenji",
+       "titulo": "Hundred Sights of Koenji",
+       "anio": 1994,
+       "mbid": "5286968a-36a2-3cda-a2d6-ecfbf04d95fc",
+       "primer_lanzamiento": "1994-09-15",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "koenjihyakkei-viva-koenji",
+       "titulo": "Viva Koenji!!",
+       "anio": 1997,
+       "mbid": "f8522a2e-d5aa-3465-a683-6cb7aaafdd1c",
+       "primer_lanzamiento": "1997-01-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "koenjihyakkei-nivraym",
+       "titulo": "Nivraym",
+       "anio": 2001,
+       "mbid": "73b09a97-fbc7-3d70-8cdd-523592c82f41",
+       "primer_lanzamiento": "2001-03-22",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "koenjihyakkei-angherr-shisspa",
+       "titulo": "Angherr Shisspa",
+       "anio": 2005,
+       "mbid": "23419fef-08e8-32ad-9bc6-f44c73e6a6b4",
+       "primer_lanzamiento": "2005-08-20",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "koenjihyakkei-dhorimviskha",
+       "titulo": "Dhorimviskha",
+       "anio": 2018,
+       "mbid": "1ac0dc1b-fbe7-49d8-b923-38b94d9005aa",
+       "primer_lanzamiento": "2018-07-11",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "rio-americas",
+   "escena": "rio",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "muffins",
+     "nombre": "The Muffins",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1973",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/The_Muffins",
+     "formaciones_mb": [
+      "Dave Newhouse (miembro; ?–act.)",
+      "Paul Sears (miembro; ?–act.)",
+      "Billy Swann (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "muffins-manna-mirage",
+       "titulo": "Manna/Mirage",
+       "anio": 1978,
+       "mbid": "88127b62-0dab-35be-8eaa-6c4ca164c0ca",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "muffins-185",
+       "titulo": "185",
+       "anio": 1981,
+       "mbid": "929b85d5-2ee6-4521-9e94-dd4813171b4e",
+       "primer_lanzamiento": "1981",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "muffins-secret-signals-1",
+       "titulo": "Secret Signals 1",
+       "anio": 1989,
+       "mbid": "7192bb96-1d24-4b7b-951b-7e435afde2ff",
+       "primer_lanzamiento": "1989",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "muffins-chronometers",
+       "titulo": "Chronometers",
+       "anio": 1993,
+       "mbid": "b510006d-7e4f-414a-942f-1b4b0edb9098",
+       "primer_lanzamiento": "1993",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "muffins-open-city",
+       "titulo": "Open City",
+       "anio": 1994,
+       "mbid": "96e47617-4821-4cb6-be3e-48096ee6994e",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "muffins-loveletter-1",
+       "titulo": "Loveletter #1",
+       "anio": 2001,
+       "mbid": "8c9c5cc7-ebda-43bd-8509-820e70904e27",
+       "primer_lanzamiento": "2001",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "muffins-bandwidth",
+       "titulo": "Bandwidth",
+       "anio": 2002,
+       "mbid": "6051afab-2389-340f-8d87-d26c395055c8",
+       "primer_lanzamiento": "2002",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "muffins-double-negative",
+       "titulo": "Double Negative",
+       "anio": 2004,
+       "mbid": "7349f8e6-4714-3285-b610-64a5bea6df6b",
+       "primer_lanzamiento": "2004",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "muffins-loveletter-2-the-ra-sessions",
+       "titulo": "Loveletter #2 \"The Ra Sessions\"",
+       "anio": 2005,
+       "mbid": "1c4f550a-bc7c-4889-94d6-d40de8ce95a6",
+       "primer_lanzamiento": "2005",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "muffins-palindrome",
+       "titulo": "Palindrome",
+       "anio": 2010,
+       "mbid": "ed933c02-db3e-4be3-bbb3-5ffe188187ea",
+       "primer_lanzamiento": "2010",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "muffins-mother-tongue",
+       "titulo": "Mother Tongue",
+       "anio": 2012,
+       "mbid": "5571e967-962e-4a6a-9ed7-40aa0a5d3ad6",
+       "primer_lanzamiento": "2012",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "thinking-plague",
+     "nombre": "Thinking Plague",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1981",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Thinking_Plague",
+     "formaciones_mb": [
+      "Bob Drake (miembro; 1978–1994)",
+      "Susanne Lewis (miembro; 1985–1990)",
+      "Maria Moran (miembro; 1988–1989)",
+      "Shane Hotle (miembro; 1988–1998)",
+      "Mark Harris (miembro; 1988–act.)",
+      "Dave Kerman (miembro; 1989–2000)",
+      "Deborah Perry (miembro; 1996–act.)",
+      "Matt Mitchell (miembro; 1999–2004)",
+      "David Shamrock (miembro; 2001–act.)",
+      "Elaine Di Falco (lead vocals; 2008–act.)",
+      "Mike Johnson (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "thinking-plague-a-thinking-plague",
+       "titulo": "...A Thinking Plague",
+       "anio": 1984,
+       "mbid": "0e9632c1-b8cc-37a5-b61b-4ff7c4b6e2d8",
+       "primer_lanzamiento": "1984",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "thinking-plague-moonsongs",
+       "titulo": "Moonsongs",
+       "anio": 1987,
+       "mbid": "ee9b2909-99ee-35bb-8533-8fe91ba82eb1",
+       "primer_lanzamiento": "1987",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "thinking-plague-in-this-life",
+       "titulo": "In This Life",
+       "anio": 1989,
+       "mbid": "720610dd-c8a3-3b60-8628-7464f12656ae",
+       "primer_lanzamiento": "1989",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "thinking-plague-in-extremis",
+       "titulo": "In Extremis",
+       "anio": 1998,
+       "mbid": "66570264-45ca-3f7e-8689-1fb19d71e8cb",
+       "primer_lanzamiento": "1998-12-08",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "thinking-plague-a-history-of-madness",
+       "titulo": "A History of Madness",
+       "anio": 2003,
+       "mbid": "82c120f1-c6e3-3608-bcdc-44febf4133d5",
+       "primer_lanzamiento": "2003-09-19",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "thinking-plague-decline-and-fall",
+       "titulo": "Decline and Fall",
+       "anio": 2012,
+       "mbid": "6d024716-2ac3-4087-bd1a-e4ed60507eda",
+       "primer_lanzamiento": "2012",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "thinking-plague-hoping-against-hope",
+       "titulo": "Hoping Against Hope",
+       "anio": 2017,
+       "mbid": "6cea5caf-dafe-4da0-8d98-f18d1a5cfbaa",
+       "primer_lanzamiento": "2017-02-10",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "5uus",
+     "nombre": "5uu's",
+     "tipo": "Group",
+     "pais": "US",
+     "inicio": "1984",
+     "fin": "2004",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/5uu%27s",
+     "formaciones_mb": [
+      "Dave Kerman (miembro; ?–act.)",
+      "Curt Wilson (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "5uus-bel-marduk-tiamat",
+       "titulo": "Bel Marduk + Tiamat",
+       "anio": 1986,
+       "mbid": "53fa9d87-be4b-4e42-b8d0-2315d65e0330",
+       "primer_lanzamiento": "1986",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "5uus-elements",
+       "titulo": "Elements",
+       "anio": 1988,
+       "mbid": "dc102abb-9c84-4343-87e4-82073740c70b",
+       "primer_lanzamiento": "1988",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "5uus-hunger-s-teeth",
+       "titulo": "Hunger's Teeth",
+       "anio": 1994,
+       "mbid": "7edc6fcf-61b0-310a-88c7-9fc9fd74f7f7",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "5uus-crisis-in-clay",
+       "titulo": "Crisis in Clay",
+       "anio": 1997,
+       "mbid": "8138352b-6988-396b-b42e-89e61742765c",
+       "primer_lanzamiento": "1997",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "5uus-regarding-purgatories",
+       "titulo": "Regarding Purgatories",
+       "anio": 2000,
+       "mbid": "21a1be12-b814-32e2-9166-98cda48a6dcb",
+       "primer_lanzamiento": "2000-05-16",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "5uus-abandonship",
+       "titulo": "Abandonship",
+       "anio": 2002,
+       "mbid": "db229a12-4982-3b2a-98c8-3c11ba0299c4",
+       "primer_lanzamiento": "2002-01-29",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "5uus-the-quiet-in-your-bones",
+       "titulo": "The Quiet in Your Bones",
+       "anio": 2022,
+       "mbid": "23fb294e-4fd4-40f6-a566-70f609fd3c90",
+       "primer_lanzamiento": "2022-05-27",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "miriodor",
+     "nombre": "Miriodor",
+     "tipo": "Group",
+     "pais": "CA",
+     "inicio": "1980",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Miriodor",
+     "formaciones_mb": [
+      "Rémi Leclerc (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "miriodor-rencontres",
+       "titulo": "Rencontres",
+       "anio": 1986,
+       "mbid": "0becf206-d22a-3096-93a7-95192b634a43",
+       "primer_lanzamiento": "1986",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "miriodor-tot-ou-tard",
+       "titulo": "Tôt ou tard",
+       "anio": 1987,
+       "mbid": "a1a8987e-dcce-4242-975c-31c071212478",
+       "primer_lanzamiento": "1987",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "miriodor-3e-avertissement",
+       "titulo": "3è avertissement",
+       "anio": 1991,
+       "mbid": "2d995e67-4111-4d8b-915c-7c2ffe329f7d",
+       "primer_lanzamiento": "1991",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "miriodor-miriodor",
+       "titulo": "Miriodor",
+       "anio": 1995,
+       "mbid": "6766b350-3979-33b6-99cd-d7419da048ee",
+       "primer_lanzamiento": "1995",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "miriodor-jongleries-elastiques",
+       "titulo": "Jongleries élastiques",
+       "anio": 1996,
+       "mbid": "7849c154-9ceb-33bb-b9f2-ce08b16c6050",
+       "primer_lanzamiento": "1996-02-13",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "miriodor-mekano",
+       "titulo": "Mekano",
+       "anio": 2001,
+       "mbid": "7880d2a4-4abc-3f4e-8e03-182c6651f255",
+       "primer_lanzamiento": "2001-09-18",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "miriodor-parade-live-at-nearfest",
+       "titulo": "Parade + Live at NEARfest",
+       "anio": 2005,
+       "mbid": "49dbff8c-bf94-393b-b90e-b6f1acaafa85",
+       "primer_lanzamiento": "2005-05-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "miriodor-avanti",
+       "titulo": "Avanti!",
+       "anio": 2009,
+       "mbid": "351ad36c-844b-3c6e-ab35-4b065a52fb8d",
+       "primer_lanzamiento": "2009-05-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "miriodor-cobra-fakir",
+       "titulo": "Cobra Fakir",
+       "anio": 2013,
+       "mbid": "789cb80b-7426-4beb-8da1-21c93a6643a9",
+       "primer_lanzamiento": "2013-09-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "miriodor-signal-9",
+       "titulo": "Signal 9",
+       "anio": 2017,
+       "mbid": "6442f9e8-2bff-429d-b32d-da5524e7fbd8",
+       "primer_lanzamiento": "2017-05-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "miriodor-elements",
+       "titulo": "Elements",
+       "anio": 2022,
+       "mbid": "c8e55d65-cd95-49bf-91d5-2ff4597ded85",
+       "primer_lanzamiento": "2022-10-28",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

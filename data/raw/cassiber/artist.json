@@ -1,0 +1,403 @@
+{
+  "gender": null,
+  "life-span": {
+    "end": "1992",
+    "begin": "1982",
+    "ended": true
+  },
+  "begin-area": {
+    "type": null,
+    "name": "Kirchberg",
+    "disambiguation": "",
+    "sort-name": "Kirchberg",
+    "type-id": null,
+    "id": "d8a7c508-3b49-4b4f-8460-bf08dc5be24c"
+  },
+  "id": "5443c873-3a3b-4923-ad09-af8192a218a4",
+  "area": {
+    "type": null,
+    "name": "Germany",
+    "disambiguation": "",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "DE"
+    ],
+    "sort-name": "Germany",
+    "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad"
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Cassiber",
+  "gender-id": null,
+  "name": "Cassiber",
+  "country": "DE",
+  "isnis": [
+    "0000000104075059"
+  ],
+  "end-area": null,
+  "aliases": [],
+  "ipis": [],
+  "disambiguation": "",
+  "type": "Group",
+  "relations": [
+    {
+      "target-type": "artist",
+      "attributes": [
+        "original",
+        "saxophone"
+      ],
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "id": "88f404b8-53ed-493f-a26d-c48acdd2e145",
+        "type": "Person",
+        "name": "Alfred 23 Harth",
+        "country": "DE",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Harth, Alfred 23"
+      },
+      "end": "1985",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": "1982",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1992",
+      "attribute-values": {},
+      "begin": "1982",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "source-credit": "",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "id": "b8d5c07b-6a7c-4ab7-83b8-8bcc4cb866b6",
+        "type": "Person",
+        "name": "Chris Cutler",
+        "country": "GB",
+        "disambiguation": "drummer",
+        "sort-name": "Cutler, Chris",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "type": "member of band",
+      "attributes": [
+        "original",
+        "violin"
+      ],
+      "target-type": "artist",
+      "artist": {
+        "id": "199f56d0-9083-4de4-a425-c174c2c46eb7",
+        "country": "DE",
+        "disambiguation": "",
+        "name": "Heiner Goebbels",
+        "type": "Person",
+        "sort-name": "Goebbels, Heiner",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "target-credit": "",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "1992",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1982",
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "original",
+        "piano"
+      ],
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": "DE",
+        "name": "Heiner Goebbels",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Goebbels, Heiner",
+        "id": "199f56d0-9083-4de4-a425-c174c2c46eb7"
+      },
+      "end": "1992",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-values": {},
+      "begin": "1982",
+      "source-credit": ""
+    },
+    {
+      "begin": "1982",
+      "attribute-values": {},
+      "attribute-ids": {
+        "other vocals": "c359be96-620a-435c-bd25-2eb0ce81a22e",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "source-credit": "",
+      "end": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "sort-name": "Anders, Christoph",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Christoph Anders",
+        "country": null,
+        "disambiguation": "",
+        "id": "3a38c61e-f5ea-4315-9ded-02050cf1468a"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "original",
+        "other vocals"
+      ]
+    },
+    {
+      "source-credit": "",
+      "begin": "1982",
+      "attribute-values": {},
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attribute-credits": {},
+      "artist": {
+        "id": "3a38c61e-f5ea-4315-9ded-02050cf1468a",
+        "country": null,
+        "name": "Christoph Anders",
+        "disambiguation": "",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Anders, Christoph"
+      },
+      "target-credit": "",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "type": "member of band"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "37a909da-eb07-47d3-bef5-447aa16ebe62",
+        "resource": "https://www.allmusic.com/artist/mn0000196656"
+      },
+      "attributes": [],
+      "type": "allmusic",
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "type": "bandcamp",
+      "attributes": [],
+      "url": {
+        "id": "5d90944f-db72-42ae-8af2-0b8378afd523",
+        "resource": "https://cassiber2.bandcamp.com/"
+      }
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "5ea76ae7-c287-4fdc-913d-23b148070b03",
+        "resource": "https://www.discogs.com/artist/217844"
+      },
+      "type": "discogs",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no2004039959",
+        "id": "6385790f-983a-4462-8f30-57c47d547017"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null
+    },
+    {
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb142471167",
+        "id": "e3b87bb9-6db7-4dd8-95a9-66b2d0a7b5d3"
+      },
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/cassiber",
+        "id": "368feada-90e1-4ff4-926c-819c4659dd87"
+      },
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null
+    },
+    {
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/cassiber/",
+        "id": "00b4884d-ad6f-410c-8dba-37bccb2cc5bf"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-no2004039959/",
+        "id": "b0511af7-97f9-4af0-b2f3-cafe4a88ff76"
+      },
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "type": "VIAF",
+      "url": {
+        "id": "4b653728-6c2b-41f1-bfef-7caf0975d39e",
+        "resource": "http://viaf.org/viaf/155623843"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "type": "wikidata",
+      "attributes": [],
+      "url": {
+        "id": "13044492-16e0-43d5-8ec8-f6220da522fe",
+        "resource": "https://www.wikidata.org/wiki/Q5049361"
+      },
+      "target-credit": "",
+      "ended": false
+    }
+  ]
+}

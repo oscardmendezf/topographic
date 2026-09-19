@@ -1,0 +1,456 @@
+{
+  "sort-name": "Aksak Maboul",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "",
+  "type": "Group",
+  "aliases": [
+    {
+      "type-id": null,
+      "locale": null,
+      "end": null,
+      "sort-name": "Aqsak Maboul",
+      "type": null,
+      "begin": null,
+      "name": "Aqsak Maboul",
+      "ended": false,
+      "primary": null
+    }
+  ],
+  "begin-area": {
+    "type": null,
+    "sort-name": "Brussels",
+    "disambiguation": "",
+    "type-id": null,
+    "iso-3166-2-codes": [
+      "BE-BRU"
+    ],
+    "name": "Brussels",
+    "id": "7bda5d46-4809-41dc-a0b8-e889ff818f2e"
+  },
+  "gender": null,
+  "gender-id": null,
+  "country": "BE",
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1977"
+  },
+  "relations": [
+    {
+      "attribute-ids": {},
+      "target-type": "artist",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Belgian musician, producer, label manager",
+        "sort-name": "Hollander, Marc",
+        "country": "BE",
+        "type": "Person",
+        "id": "2583d391-e736-4311-bde6-f814cd65f57b",
+        "name": "Marc Hollander"
+      },
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "begin": null,
+      "direction": "backward",
+      "attributes": [],
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "artist": {
+        "name": "Vincent Kenis",
+        "id": "ab6e8d3b-75ca-4907-9c8a-3e344369e46a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Belgian producer & musician",
+        "country": "BE",
+        "sort-name": "Kenis, Vincent",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attributes": [],
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "begin": null,
+      "target-credit": "",
+      "direction": "backward",
+      "type": "member of band",
+      "attributes": [],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "attribute-values": {},
+      "end": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "id": "9c0079ff-1481-4a24-8f6d-d82993b1edbb",
+        "name": "Denis Van Hecke",
+        "country": "BE",
+        "sort-name": "Van Hecke, Denis",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Belgian cellist",
+        "type": "Person"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "artist": {
+        "id": "bd6d9354-8388-46a8-a7d2-30d03a7ed200",
+        "name": "Véronique Vincent",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "BE",
+        "sort-name": "Vincent, Véronique"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "end": null,
+      "attribute-values": {},
+      "ended": true,
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000933488",
+        "id": "8f2b1bab-4141-4f0b-9625-19884d8c3f21"
+      },
+      "target-credit": "",
+      "begin": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attributes": [],
+      "type": "allmusic",
+      "ended": false,
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "url": {
+        "resource": "https://aksakmaboul.bandcamp.com/",
+        "id": "19e30fca-a765-4860-b008-b2a365a51374"
+      },
+      "target-credit": "",
+      "begin": null,
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "attributes": [],
+      "type": "bandcamp",
+      "ended": false,
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "url": {
+        "id": "154468a0-b717-493d-9240-4b578362c25b",
+        "resource": "https://www.bandsintown.com/a/91326"
+      },
+      "target-credit": "",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "type": "bandsintown",
+      "attributes": [],
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attributes": [],
+      "type": "discogs",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.discogs.com/artist/143563",
+        "id": "974fe5db-35ce-4dc9-b96c-30bc0faf8049"
+      },
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "https://open.spotify.com/artist/6oYWNIrMewoS8GBkN8f58f",
+        "id": "5d0734c2-af0d-420e-b7ab-d9200d9192d1"
+      },
+      "target-credit": "",
+      "direction": "forward",
+      "type": "free streaming",
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "url": {
+        "id": "d37def2d-4bf3-40df-bde4-c249772b2fa3",
+        "resource": "https://www.deezer.com/artist/263296"
+      },
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "type": "free streaming",
+      "ended": false,
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": ""
+    },
+    {
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "url": {
+        "resource": "https://myspace.com/aksakmaboul",
+        "id": "47c7c324-f24a-4483-920c-51c976ee2af6"
+      },
+      "begin": null,
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "attributes": [],
+      "type": "myspace",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "id": "0f7b25f5-69ca-439d-9457-acaa6dbb1422",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139015342"
+      },
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/aksak_maboul",
+        "id": "47d785bc-e99b-4d19-96a8-676f8ca60afa"
+      },
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "ended": false,
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://itunes.apple.com/be/artist/id44342813",
+        "id": "d8aed825-499a-48d0-8894-3394702a3acf"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download",
+      "attributes": [],
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "type": "setlistfm",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "url": {
+        "id": "3a06010d-2799-4a5c-9b19-8d25d99c215a",
+        "resource": "https://www.setlist.fm/setlists/aksak-maboul-bd6899a.html"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.facebook.com/AksakMaboul1",
+        "id": "eafa941f-9084-4c0e-93ee-dc7048bd5a76"
+      },
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "resource": "https://www.songkick.com/artists/10142276",
+        "id": "8129e2db-919b-47bd-8f68-de3778680d96"
+      },
+      "target-credit": "",
+      "direction": "forward",
+      "type": "songkick",
+      "attributes": [],
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "type": "songkick",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "id": "9766aaf7-88db-49dd-9a01-2eca5850be21",
+        "resource": "https://www.songkick.com/artists/8445588"
+      }
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://music.apple.com/us/artist/44342813",
+        "id": "b81d3a88-f771-44b7-a633-a980b0e60d9a"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming",
+      "attributes": [],
+      "ended": false,
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "attributes": [],
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "url": {
+        "resource": "https://tidal.com/artist/3585046",
+        "id": "f396cbdc-8159-47b6-8167-4077f04d81a3"
+      },
+      "begin": null,
+      "direction": "forward",
+      "ended": false
+    },
+    {
+      "type": "wikidata",
+      "attributes": [],
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1710254",
+        "id": "c791a831-bd80-4f2f-96d8-ad8f790daa61"
+      },
+      "direction": "forward",
+      "ended": false,
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {}
+    }
+  ],
+  "area": {
+    "type": null,
+    "iso-3166-1-codes": [
+      "BE"
+    ],
+    "type-id": null,
+    "disambiguation": "",
+    "sort-name": "Belgium",
+    "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+    "name": "Belgium"
+  },
+  "name": "Aksak Maboul",
+  "isnis": [
+    "0000000107196331"
+  ],
+  "id": "a1bfc658-4ae1-45fd-bfe8-d215b46a11bf",
+  "ipis": [],
+  "end-area": null
+}

@@ -1,0 +1,439 @@
+{
+  "aliases": [],
+  "end-area": null,
+  "ipis": [],
+  "relations": [
+    {
+      "source-credit": "",
+      "begin": "1974",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "1977",
+      "artist": {
+        "id": "e167ed92-df2f-4700-b598-e683ac54d32a",
+        "type": "Person",
+        "country": null,
+        "name": "Eulalie Ruynat",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Ruynat, Eulalie"
+      },
+      "ended": true,
+      "target-credit": "",
+      "attributes": [
+        "original"
+      ],
+      "type": "member of band",
+      "target-type": "artist"
+    },
+    {
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-values": {},
+      "begin": "1974",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ],
+      "type": "member of band",
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "ffea108e-00e9-498b-9a5d-86840e18b1fa",
+        "type": "Person",
+        "country": null,
+        "name": "Guigou Chenevier",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Guigou Chenevier"
+      }
+    },
+    {
+      "source-credit": "",
+      "begin": "1974",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "artist": {
+        "id": "2f44f9d9-5d1d-4df1-8d51-c9183a02b1ed",
+        "name": "Ferdinand Richard",
+        "country": "FR",
+        "disambiguation": "avant‐rock musician",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Richard, Ferdinand"
+      },
+      "ended": false,
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band"
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "country": null,
+        "name": "Francis Grand",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Grand, Francis",
+        "id": "eaec9278-9c61-44e5-bb36-cf1e6109f3a2"
+      },
+      "target-credit": "",
+      "ended": true,
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": "1978",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "1978"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "1982",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": "1978",
+      "attribute-values": {},
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "artist": {
+        "id": "69ab1ce9-23c4-4bd4-ae92-1713669bb5b3",
+        "sort-name": "Mathieu, Bernard",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "disambiguation": "",
+        "name": "Bernard Mathieu",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "end": "1985",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "begin": "1981",
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "name": "Jo Thirion",
+        "country": null,
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Thirion, Jo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "4c967ee3-cfaa-4e45-8761-3963f2a654b0"
+      }
+    },
+    {
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "country": null,
+        "name": "Bruno Meillier",
+        "disambiguation": "",
+        "sort-name": "Meillier, Bruno",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7b357904-9721-41c9-9e30-590410bda16c"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1984",
+      "attribute-ids": {},
+      "begin": "1984",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://www.discogs.com/artist/239933",
+        "id": "58ed14cb-32d5-404f-9830-3f6c3e7480cf"
+      },
+      "attributes": [],
+      "type": "discogs",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "type": "free streaming",
+      "attributes": [],
+      "url": {
+        "id": "72b27a40-9a90-4d76-9b31-74468b52a187",
+        "resource": "https://open.spotify.com/artist/5myIkouy3aoHgcRa5MPbzr"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "type": "free streaming",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.deezer.com/artist/293206",
+        "id": "22ea0100-e401-4d79-a31d-06f2399e0139"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "last.fm",
+      "url": {
+        "resource": "https://www.last.fm/music/Etron+Fou+Leloublan",
+        "id": "63bcedad-28c0-4ae7-b700-02cec693129b"
+      },
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "type": "myspace",
+      "attributes": [],
+      "url": {
+        "resource": "https://myspace.com/etronfouleloublanrio",
+        "id": "1e970477-7260-4991-a458-aff3dd93cc0d"
+      },
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "url": {
+        "id": "e6d20a5d-4fcd-4bd2-b4d7-b83e58d126a7",
+        "resource": "http://id.loc.gov/authorities/names/no98009399"
+      },
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type": "other databases",
+      "attributes": [],
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13903373w",
+        "id": "20af97ab-9b08-4cbd-834b-3cc92402ad09"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-no98009399/",
+        "id": "778aca6c-dc9d-417c-8a72-c2c04fb5d788"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "59ad4b69-237f-45ae-8422-464ac817054f",
+        "resource": "https://music.apple.com/fr/artist/286988106"
+      },
+      "attributes": [],
+      "type": "streaming",
+      "target-type": "url",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "e6adaf53-ecbe-4626-b368-803a989f2a5c",
+        "resource": "https://tidal.com/artist/5535781"
+      },
+      "type": "streaming",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "VIAF",
+      "url": {
+        "resource": "http://viaf.org/viaf/159571081",
+        "id": "3451d054-cbe2-47c8-bf14-733c7321c8f7"
+      },
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1450809",
+        "id": "27c97f5b-b991-432e-bf92-d0594feddba1"
+      },
+      "attributes": [],
+      "type": "wikidata",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "9bc73e28-acb2-41b0-b29f-3d9e9bfa3ff2",
+        "resource": "https://music.youtube.com/channel/UCpR0xcafl35E_crNEbJLyzg"
+      },
+      "attributes": [],
+      "type": "youtube music",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "direction": "forward",
+      "end": null
+    }
+  ],
+  "type": "Group",
+  "disambiguation": "",
+  "life-span": {
+    "begin": "1974",
+    "ended": false,
+    "end": null
+  },
+  "gender": null,
+  "id": "56841f5a-6767-4009-8947-b1352c2a8a4c",
+  "begin-area": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Etron Fou Leloublan",
+  "gender-id": null,
+  "area": {
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "FR"
+    ],
+    "sort-name": "France",
+    "name": "France",
+    "disambiguation": "",
+    "type": null,
+    "id": "08310658-51eb-3801-80de-5a0739207115"
+  },
+  "isnis": [
+    "0000000121960500"
+  ],
+  "name": "Etron Fou Leloublan",
+  "country": "FR"
+}
