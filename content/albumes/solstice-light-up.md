@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "solstice-light-up"
+titulo: "Light Up"
+artista: "Solstice"
+artista_slug: "solstice"
+anio_ficha: 2022
+era: "moderna"
+escena: "neoprog"
+mb_rgid: "55baccca-9b74-473a-99b5-ffec19142106"
+primer_lanzamiento: "2022-11"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Bien recibido; algunos lo consideran demasiado liviano."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Público en crecimiento, dentro de márgenes modestos."
+historia: "editorial"
+---
+
+Prolonga la dirección del anterior con un tono más festivo y arreglos que suman vientos y coros a la base de violín y guitarra. Es el disco más accesible del catálogo y el que menos se parece al prog de su generación. Le falta una pieza de peso que lo ancle.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Light Up aparece en 2022 y prolonga la dirección que Sia había abierto dos años antes, con Jess Holland en la voz y la banda ya convencida de que ese es su terreno. Si el disco anterior había encontrado el equilibrio, este lo lleva hacia la celebración: el tono es más festivo, los tempos más vivos y la escritura menos preocupada por la forma progresiva que por la fiesta colectiva. Andy Glass y Jenny Newman siguen en el centro, pero el grupo se permite sumar instrumentos y voces que amplían la paleta más allá del núcleo de guitarra y violín.
+
+Son seis piezas y ninguna busca el peso conceptual. La que da nombre al álbum abre con el gesto de encender, luminoso y directo. La segunda pieza estira el pulso bailable por más de siete minutos. «Mount Ephraim» toma su título de un topónimo y trabaja la veta pastoral con la calma de siempre. «Run» tiene el desarrollo instrumental más ambicioso del conjunto. «Home» insiste en la idea de pertenencia que recorre toda esta etapa del grupo. «Bulbul Tarang» cierra con diez minutos largos y con el nombre de un instrumento de cuerda del subcontinente indio, señal de una curiosidad tímbrica que en el neoprogresivo no era moneda corriente. Lo que falta es una pieza de peso que ancle el conjunto y le dé un centro.
+
+## La producción
+
+La producción amplía el equipo sonoro sin perder la calidez que Sia había conseguido. Además de la base habitual aparecen vientos y arreglos de coro que engrosan los estribillos y le dan al disco un aire de banda grande tocando en vivo. La percusión gana presencia y variedad, con un pulso más marcado que en cualquier trabajo anterior del grupo. El violín de Newman deja de ser siempre la voz solista y a veces se integra a la sección, lo que cambia el color general.
+
+La mezcla es amplia y brillante, con la voz bien adelante y con espacio para que los agregados no atropellen al núcleo. Los arreglos están hechos para la energía antes que para el detalle: entradas colectivas, secciones que se repiten con capas crecientes, finales que suben en lugar de disolverse. Es un tratamiento eficaz para este repertorio, y explica a la vez por qué las piezas más largas se sostienen mejor en el clima que en la construcción.
+
+## Recepción y legado
+
+Es el disco más accesible del catálogo y el que menos se parece al progresivo de la generación de la que Solstice proviene, algo que el grupo asume sin coartadas. Quien busque en él la aspereza de Silent Dance o la ambición de Spirit va a quedar corto; quien acepte la propuesta va a encontrar una banda tocando con gusto y sin fórmula. Su lugar en la discografía es el de una prolongación afortunada más que el de un salto, y prepara el terreno para Clann, donde la idea de grupo numeroso y escritura compartida termina de desarrollarse. No es la mejor puerta de entrada, pero es una buena razón para quedarse.

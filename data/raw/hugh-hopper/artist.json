@@ -1,0 +1,696 @@
+{
+  "gender": "Male",
+  "life-span": {
+    "ended": true,
+    "begin": "1945-04-29",
+    "end": "2009-06-07"
+  },
+  "begin-area": {
+    "sort-name": "City of Canterbury",
+    "type-id": null,
+    "type": null,
+    "disambiguation": "",
+    "name": "City of Canterbury",
+    "id": "2f869c36-79ec-4ca5-b8c1-77c9579dafa5"
+  },
+  "id": "a3626f69-2434-4e51-819c-6d4751abc51d",
+  "area": {
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "type": null,
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "sort-name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "sort-name": "Hopper, Hugh",
+  "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+  "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+  "country": "GB",
+  "name": "Hugh Hopper",
+  "isnis": [
+    "0000000078242676"
+  ],
+  "end-area": null,
+  "aliases": [
+    {
+      "end": null,
+      "sort-name": "Hugh C. Hopper",
+      "type-id": null,
+      "name": "Hugh C. Hopper",
+      "type": null,
+      "ended": false,
+      "begin": null,
+      "primary": null,
+      "locale": null
+    },
+    {
+      "end": null,
+      "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+      "sort-name": "Hopper, Hugh Colin",
+      "type": "Legal name",
+      "name": "Hugh Colin Hopper",
+      "begin": null,
+      "ended": false,
+      "primary": null,
+      "locale": null
+    },
+    {
+      "sort-name": "Hugh Hopper Band",
+      "type-id": null,
+      "end": null,
+      "name": "Hugh Hopper Band",
+      "type": null,
+      "primary": null,
+      "ended": false,
+      "begin": null,
+      "locale": null
+    }
+  ],
+  "ipis": [
+    "00041122930"
+  ],
+  "disambiguation": "British bassist",
+  "type": "Person",
+  "relations": [
+    {
+      "target-type": "artist",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "type": "member of band",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Wilde Flowers, The",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "The Wilde Flowers",
+        "type": "Group",
+        "id": "c469a897-dfd3-43cf-a252-8e364b0c7bb3"
+      },
+      "target-credit": "",
+      "ended": true,
+      "end": "1967",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "forward",
+      "attribute-credits": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "begin": "1964"
+    },
+    {
+      "artist": {
+        "id": "5193ce6b-a315-4c50-ae49-54e69ffbc988",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Soft Machine",
+        "type": "Group",
+        "name": "Soft Machine",
+        "country": "GB",
+        "disambiguation": "British rock band"
+      },
+      "ended": true,
+      "target-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": "1968-12",
+      "attribute-values": {},
+      "end": "1973-05",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "forward"
+    },
+    {
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Isotope",
+        "type": "Group",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Isotope",
+        "id": "16a2b5b1-6f41-49df-a7ca-804db3c4bc3f"
+      },
+      "target-credit": "",
+      "ended": true,
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1974",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "forward",
+      "end": "1976"
+    },
+    {
+      "artist": {
+        "sort-name": "In Cahoots",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "In Cahoots",
+        "id": "ea2ee86c-e163-4bd9-aca0-2d3980542b50"
+      },
+      "target-credit": "",
+      "ended": true,
+      "attributes": [
+        "bass guitar"
+      ],
+      "type": "member of band",
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": "1985",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "1988",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "forward"
+    },
+    {
+      "artist": {
+        "type": "Group",
+        "name": "Soft Works",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Soft Works",
+        "id": "f86277da-0ca1-406b-88f0-5522d3d1fd22"
+      },
+      "target-credit": "",
+      "ended": true,
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "source-credit": "",
+      "begin": "2002",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": "2004",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "artist": {
+        "id": "11e3d000-819c-416f-86c1-ed6740ffce00",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Soft Head",
+        "country": null,
+        "name": "Soft Head",
+        "disambiguation": "",
+        "type": "Group"
+      },
+      "ended": false,
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "ended": false,
+      "target-credit": "",
+      "artist": {
+        "id": "0296bb26-f920-4ef2-ac5a-f13f7acb5126",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Soft Heap",
+        "type": "Group",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Soft Heap"
+      }
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "31b32444-7d68-49ea-bb5e-559dd43ee0f7",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Short Wave",
+        "type": "Group",
+        "name": "Short Wave",
+        "country": "GB",
+        "disambiguation": ""
+      }
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "b0107251-32e4-4a19-bad7-d4bbf18becf7",
+        "country": null,
+        "disambiguation": "",
+        "name": "Hughscore",
+        "type": "Group",
+        "sort-name": "Hughscore",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      }
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Brainville",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Brainville",
+        "type": "Group",
+        "id": "5e0d885b-1012-4526-ae11-a1cfdc1ee208"
+      },
+      "attributes": [],
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "d5ddd03c-d606-47b3-af5f-4ee6d07a3260",
+        "type": "Group",
+        "name": "Strings of Consciousness",
+        "country": "FR",
+        "disambiguation": "international experimental music/post-rock ensemble",
+        "sort-name": "Strings of Consciousness",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "target-type": "artist",
+      "attributes": [
+        "clarinet"
+      ],
+      "type": "member of band",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {
+        "clarinet": "08028095-6dae-4fe0-9f34-284fde19f29b"
+      },
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-credits": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "forward",
+      "end": null,
+      "attribute-credits": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {
+        "electric bass guitar": "0b9d87fa-93fa-4956-8b6a-a419566cc915"
+      },
+      "target-type": "artist",
+      "attributes": [
+        "electric bass guitar"
+      ],
+      "type": "member of band",
+      "artist": {
+        "id": "d5ddd03c-d606-47b3-af5f-4ee6d07a3260",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Strings of Consciousness",
+        "type": "Group",
+        "name": "Strings of Consciousness",
+        "country": "FR",
+        "disambiguation": "international experimental music/post-rock ensemble"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "attribute-credits": {},
+      "end": null,
+      "direction": "forward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "4ba4af16-f638-4a85-a51d-d710e8c97986",
+        "name": "Daevid Allen Trio",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Group",
+        "sort-name": "Daevid Allen Trio",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "type": "member of band",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "end": null,
+      "type-id": "b42b7966-b904-449e-b8f9-8c7297b863d0",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "type": "sibling",
+      "attributes": [],
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Brian Hopper",
+        "sort-name": "Hopper, Brian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "de43bf1c-56d8-4776-b281-8a08a4d2a363"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000280984",
+        "id": "ac5a0e0e-05c1-439d-b205-4d2670a1ac9e"
+      },
+      "type": "allmusic",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "type": "BBC Music page",
+      "attributes": [],
+      "url": {
+        "id": "a6722165-1f0c-49dd-8ec8-9a8dad949208",
+        "resource": "https://www.bbc.co.uk/music/artists/a3626f69-2434-4e51-819c-6d4751abc51d"
+      },
+      "target-credit": "",
+      "ended": true,
+      "end": "2020-11-19",
+      "direction": "forward",
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": "2019-03-31",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": true,
+      "url": {
+        "id": "02c77802-6a4a-48a6-949b-c8aeb98db547",
+        "resource": "http://www.geocities.co.jp/Broadway/6763/hopper.html"
+      },
+      "attributes": [],
+      "type": "discography page",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "4f211c05-20ca-418b-acc2-9d909066a605",
+        "resource": "https://www.discogs.com/artist/235031"
+      },
+      "attributes": [],
+      "type": "discogs"
+    },
+    {
+      "target-type": "url",
+      "type": "free streaming",
+      "attributes": [],
+      "url": {
+        "resource": "https://open.spotify.com/artist/4e9osZQKPYzAaIceas7ezQ",
+        "id": "31ace217-ee00-45ab-9a46-25b6e7f2bb72"
+      },
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.deezer.com/artist/1584374",
+        "id": "a390397e-ff68-4e57-b440-83a306aef534"
+      },
+      "attributes": [],
+      "type": "free streaming",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "image",
+      "url": {
+        "resource": "https://commons.wikimedia.org/wiki/File:Hh_peavey_01.jpg",
+        "id": "7779f239-ea9a-406a-a32f-b0aa1a7b9c02"
+      },
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c"
+    },
+    {
+      "direction": "forward",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "IMDb",
+      "url": {
+        "resource": "https://www.imdb.com/name/nm1126186/",
+        "id": "fe22d2f3-c631-4da8-928a-5692619a222f"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "type": "official homepage",
+      "attributes": [],
+      "url": {
+        "id": "b6c9c63e-6cd8-41d5-8935-df611c1c0fa6",
+        "resource": "https://www.burningshed.co.uk/hopper/"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "id": "cda7e99d-6fa9-4d64-ab5f-2702d2f3852a",
+        "resource": "https://rateyourmusic.com/artist/hugh_hopper"
+      },
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "5f2ba90f-6159-4ba2-905a-d2f7cf63aa9c",
+        "resource": "https://www.musik-sammler.de/artist/hugh-hopper/"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "purchase for download",
+      "attributes": [],
+      "url": {
+        "id": "2edb5128-0500-4472-af88-9bb070baa991",
+        "resource": "https://music.apple.com/gb/artist/209880786"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/9912",
+        "id": "00f091fc-1523-4938-b7b3-c4101edc3be2"
+      },
+      "type": "secondhandsongs",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "04c5b25a-659c-4b41-8cb7-cdf4dbb9b9cc",
+        "resource": "http://viaf.org/viaf/2673516"
+      },
+      "attributes": [],
+      "type": "VIAF",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q711122",
+        "id": "17ada737-98e2-4675-a47c-3a7028b7a621"
+      },
+      "type": "wikidata",
+      "attributes": []
+    }
+  ]
+}

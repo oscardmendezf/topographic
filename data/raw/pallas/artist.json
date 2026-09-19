@@ -1,0 +1,872 @@
+{
+  "relations": [
+    {
+      "source-credit": "",
+      "ended": true,
+      "end": "1979-12",
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "begin": "1974-10-27",
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "id": "68c6540c-0f4d-4187-bcac-bb08d9df9301",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mike Stobbie",
+        "sort-name": "Stobbie, Mike",
+        "type": "Person",
+        "country": "GB"
+      },
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "begin": "1974-10-27",
+      "artist": {
+        "id": "cfa040b4-a46c-4d16-b7fb-620b733bd3a9",
+        "disambiguation": "bassist for Pallas",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Graeme Murray",
+        "sort-name": "Murray, Graeme",
+        "type": "Person",
+        "country": null
+      },
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "direction": "backward",
+      "end": null,
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "artist": {
+        "disambiguation": "",
+        "id": "70c54662-aa6e-4563-92b1-4dd98cd32705",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Derek Forman",
+        "sort-name": "Forman, Derek",
+        "type": "Person",
+        "country": null
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1976",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "end": "1998",
+      "direction": "backward",
+      "source-credit": "",
+      "ended": true
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": "1978-06",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Nial Mathewson",
+        "id": "e2576e37-6e3f-4d2c-a3c0-eb113961c60d",
+        "disambiguation": "",
+        "type": "Person",
+        "country": null,
+        "sort-name": "Mathewson, Nial"
+      },
+      "type": "member of band"
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "country": null,
+        "sort-name": "Lowson, Euan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Euan Lowson",
+        "disambiguation": "",
+        "id": "2cf22830-a593-4a9e-94e0-8bd1349425b8"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1978-10",
+      "target-type": "artist",
+      "attributes": [],
+      "end": "1984-04",
+      "direction": "backward",
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "ended": true,
+      "end": "1987-10",
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1979-12",
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "id": "932657a9-b13d-4d5b-aff0-a4a52656f582",
+        "disambiguation": "Pallas keyboard player",
+        "name": "Ronnie Brown",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Brown, Ronnie",
+        "country": null,
+        "type": "Person"
+      },
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "end": "2010-01-28",
+      "direction": "backward",
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "sort-name": "Reed, Alan",
+        "name": "Alan Reed",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK prog vocalist for Pallas",
+        "id": "e96eae97-7a03-4dff-924f-f0c4cf0df29e"
+      },
+      "begin": "1984-08",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "artist": {
+        "id": "68c6540c-0f4d-4187-bcac-bb08d9df9301",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mike Stobbie",
+        "sort-name": "Stobbie, Mike",
+        "type": "Person",
+        "country": "GB"
+      },
+      "begin": "1987-10",
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "artist",
+      "end": "1998",
+      "direction": "backward",
+      "source-credit": "",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attributes": [],
+      "target-type": "artist",
+      "begin": "1998",
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "country": null,
+        "type": "Person",
+        "sort-name": "Brown, Ronnie",
+        "name": "Ronnie Brown",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Pallas keyboard player",
+        "id": "932657a9-b13d-4d5b-aff0-a4a52656f582"
+      }
+    },
+    {
+      "artist": {
+        "country": null,
+        "type": "Person",
+        "sort-name": "Fraser, Colin",
+        "name": "Colin Fraser",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "faacc050-ee67-493a-ba62-bb673be3dbf2"
+      },
+      "type": "member of band",
+      "attribute-ids": {},
+      "begin": "1998",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "begin": "2010",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type": "member of band",
+      "artist": {
+        "id": "10bf4f34-0082-49c3-9b67-4e4fb0c5785f",
+        "disambiguation": "",
+        "name": "Paul Mackie",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Mackie, Paul",
+        "country": "GB",
+        "type": "Person"
+      },
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {}
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Niall Mathewson",
+        "disambiguation": "Pallas guitarist",
+        "id": "4456cf94-aca6-411d-8370-b1d1d8d6ecb3",
+        "type": "Person",
+        "country": "GB",
+        "sort-name": "Mathewson, Niall"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "backward"
+    },
+    {
+      "type": "allmusic",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-values": {},
+      "url": {
+        "id": "3976306a-f0e2-41ca-b0ae-5da57f46b33b",
+        "resource": "https://www.allmusic.com/artist/mn0000745144"
+      }
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "bandcamp",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "6f6ca314-d270-401a-877f-690a99c4a3d3",
+        "resource": "https://pallasofficial.bandcamp.com/"
+      },
+      "attribute-values": {},
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "bandsintown",
+      "url": {
+        "id": "b21fdb7e-1495-4d20-8385-a2cf2e4e3dde",
+        "resource": "https://www.bandsintown.com/a/69524"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "aff769ba-7771-4abb-a0b2-e5648e80a40c",
+        "resource": "http://www.dprp.net/bands/pallas/index.php?type=release"
+      },
+      "attribute-values": {},
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "discography page",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type": "discogs",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/858643",
+        "id": "83dc8997-c57a-4901-a232-1672742b8f31"
+      }
+    },
+    {
+      "type": "free streaming",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "url": {
+        "id": "c6d68ada-1988-496f-9de8-211b6f020b89",
+        "resource": "https://open.spotify.com/artist/6dFPl0dM24OeZJe4GHm23O"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "free streaming",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "url": {
+        "id": "d029a793-7492-4f1a-a202-a62041454341",
+        "resource": "https://www.deezer.com/artist/241309"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.last.fm/music/Pallas",
+        "id": "11938a33-5eec-4b21-b27d-f72c3ac17168"
+      },
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "last.fm",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "28670343-933d-42f3-8dfe-7afcbd10d16f",
+        "resource": "https://genius.com/artists/Pallas"
+      },
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "lyrics",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "official homepage",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-values": {},
+      "url": {
+        "resource": "http://pallasofficial.com/",
+        "id": "2afe57f6-c88d-461e-a716-42db010daffc"
+      },
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "type": "official homepage",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": true,
+      "target-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-values": {},
+      "url": {
+        "resource": "http://www.pallas-uk.com/",
+        "id": "6dbe9ba9-2b6a-44b4-a6aa-2934164da07a"
+      }
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no98019053",
+        "id": "8577531f-0fe7-42cd-8358-c2155d111993"
+      },
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb122211194",
+        "id": "5169a78b-9ccd-4f08-9993-351bacd6bd73"
+      },
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "a7a8fa20-822a-4b71-bec2-b22b038d3fab",
+        "resource": "https://d-nb.info/gnd/32008793X"
+      },
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "type": "other databases",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "url": {
+        "id": "8f99cc0f-1738-4f7b-a174-92772f69b3b8",
+        "resource": "https://rateyourmusic.com/artist/pallas"
+      }
+    },
+    {
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/pallas/",
+        "id": "ec321230-1af1-4adb-8013-5f8a2cc23037"
+      },
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=283",
+        "id": "8e03c0a9-5e19-4d11-a520-50402c8d4ede"
+      },
+      "attribute-values": {},
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Pallas",
+        "id": "c728a6cd-ff26-4ec7-bde1-189fb69019f7"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "3c2db8e2-a495-48ee-ad20-ca8b6aa64c97",
+        "resource": "https://www.worldcat.org/identities/lccn-no98019053/"
+      },
+      "attribute-values": {}
+    },
+    {
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "053845e9-9fc6-4193-b7d3-9a4381b915ae",
+        "resource": "https://www.qobuz.com/us-en/interpreter/pallas/71057"
+      }
+    },
+    {
+      "type": "setlistfm",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/pallas-4bd6b3a2.html",
+        "id": "c87e9a69-05a8-4921-8935-e0e3d05e42b2"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "social network",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "url": {
+        "id": "f0599ace-45b8-44a0-b92e-a2f9e00e063c",
+        "resource": "https://www.facebook.com/PALLASOfficial"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "id": "dc601130-7e4c-407e-bee4-a4f693d0e228",
+        "resource": "https://www.songkick.com/artists/421886"
+      },
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "songkick"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "resource": "https://music.apple.com/us/artist/201657992",
+        "id": "aee7799d-52bd-465b-8e30-0e84e13cc3da"
+      },
+      "attribute-values": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "streaming",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://tidal.com/artist/3532230",
+        "id": "4d051937-a823-4b17-9bcd-35926a03cb28"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type": "streaming",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/pallas/71057",
+        "id": "053845e9-9fc6-4193-b7d3-9a4381b915ae"
+      },
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/150409205",
+        "id": "cac1b24c-4713-479b-9920-6c001c360382"
+      },
+      "target-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "VIAF",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "wikidata",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1858597",
+        "id": "dc625e97-2d4f-430d-9040-9c852820b98c"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "6d5a0f02-65ee-47e7-bfb0-ebcf8b578c6d",
+        "resource": "https://www.youtube.com/channel/UCHl1Zqr34cr8ZpYE2sQD9eQ"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "youtube",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCHl1Zqr34cr8ZpYE2sQD9eQ",
+        "id": "98accccb-cb0c-45db-99fb-c3551d5a87d2"
+      },
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "target-credit": "",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "youtube music"
+    }
+  ],
+  "id": "be51870d-2bdc-4586-b55a-d18d21e301c3",
+  "disambiguation": "UK progressive rock",
+  "gender": null,
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1980"
+  },
+  "name": "Pallas",
+  "sort-name": "Pallas",
+  "type": "Group",
+  "country": "GB",
+  "aliases": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "isnis": [
+    "0000000112299159"
+  ],
+  "begin-area": {
+    "type": null,
+    "sort-name": "Aberdeen",
+    "type-id": null,
+    "iso-3166-2-codes": [
+      "GB-ABE"
+    ],
+    "name": "Aberdeen",
+    "disambiguation": "",
+    "id": "7749e9ec-716b-4197-bd2c-1dd480e9c36a"
+  },
+  "ipis": [],
+  "area": {
+    "name": "United Kingdom",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "United Kingdom"
+  },
+  "end-area": null
+}

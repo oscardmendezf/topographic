@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "hugh-hopper-parabolic-versions"
+titulo: "Parabolic Versions"
+artista: "Hugh Hopper"
+artista_slug: "hugh-hopper"
+anio_ficha: 2000
+era: "moderna"
+escena: "canterbury"
+mb_rgid: "6abc9034-92e4-4fb8-aef6-74dd3b3a9901"
+primer_lanzamiento: "2000"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Considerado material lateral incluso por sus seguidores."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Edición marginal, sin distribución."
+historia: "editorial"
+---
+
+Conjunto de reelaboraciones de material propio, más cerca del ejercicio de estudio que del disco pensado como tal. Hay hallazgos sueltos y mucho relleno entre ellos. Solo para quien ya recorrió el resto.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Parabolic Versions es, como su título anuncia, un disco de versiones de material propio. Hopper vuelve sobre piezas que ya había publicado —varias vienen directamente de Hooligan Romantics y de Somewhere in France— y las somete a otro tratamiento, con la lógica del remix antes que la de la regrabación. No hay concepto nuevo ni repertorio inédito que lo justifique: hay un archivo y una mesa de trabajo.
+
+La mitad del listado es reconocible para quien haya recorrido su discografía de los noventa. «Long Lingers Autumn Time», «The Moon In A Bottle», «There You Were», «Oldest Story Ever Told» y «C'est Grace» reaparecen con duraciones casi idénticas a las originales, lo que deja la sensación de que la reelaboración fue menos profunda de lo que el título promete. Las piezas que no venían de antes son las más interesantes: «Indeterminacy» toma prestado el vocabulario de la música experimental y trabaja en consecuencia, «Red Poppies In The Corn» es la más extensa y la que mejor respira, y «When I've Grown Old» y «Was A Friend» tienen una melancolía que no aparece con tanta franqueza en otros discos suyos. «Iron Lady» y «Kate Come Late» quedan en el medio, entre el apunte y el tema.
+
+## La producción
+
+El disco vive de la mesa de estudio. Hopper toma sus propias grabaciones como materia prima, las procesa, las recorta y las devuelve alteradas, en la misma línea que venía practicando desde el comienzo de su carrera pero aplicada esta vez sobre su propia obra en lugar de sobre sonidos encontrados. Es un gesto coherente con todo lo que hizo y también un atajo.
+
+El problema es de criterio antes que de técnica. Cuando la intervención es fuerte, las piezas ganan algo y la operación se justifica; cuando se limita a un cambio de mezcla o a un tratamiento superficial, el resultado es una variante sin necesidad. La falta de una selección estricta deja hallazgos sueltos rodeados de relleno, y el disco no distingue entre unos y otro.
+
+## Recepción y legado
+
+Pasó sin que casi nadie lo registrara, incluso dentro del público reducido que seguía sus publicaciones, y es difícil argumentar en contra de ese olvido. En su momento se lo tomó por lo que es, un ejercicio de estudio publicado como disco, y nada de lo que vino después obligó a revisar esa lectura.
+
+Queda como una nota al pie en un catálogo que ya tenía demasiadas. Su interés está reservado a quien haya recorrido el resto y quiera ver el método aplicado sobre el propio archivo, un gesto que dice algo sobre cómo Hopper entendía su obra: no como una serie de discos cerrados sino como material disponible, siempre abierto a otra pasada. Para todos los demás, hay diez títulos suyos antes que este.

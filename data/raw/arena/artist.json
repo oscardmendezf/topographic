@@ -1,0 +1,1020 @@
+{
+  "name": "Arena",
+  "country": "GB",
+  "isnis": [
+    "0000000470181185"
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "type": null
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "sort-name": "Arena",
+  "begin-area": {
+    "id": "4789cdff-b7d9-498c-96fc-15e34c65cc6b",
+    "name": "Virginia Water",
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "Virginia Water",
+    "type-id": null
+  },
+  "id": "c0b6a3ee-ec0e-4d15-95b4-4d45c2bb3d89",
+  "gender": null,
+  "life-span": {
+    "begin": "1995",
+    "ended": false,
+    "end": null
+  },
+  "disambiguation": "British prog rock band",
+  "type": "Group",
+  "relations": [
+    {
+      "target-type": "artist",
+      "attributes": [
+        "lead vocals"
+      ],
+      "type": "member of band",
+      "artist": {
+        "id": "10d56053-bbe8-4e23-ad25-d426027ac724",
+        "type": "Person",
+        "country": "GB",
+        "name": "John Carson",
+        "disambiguation": "United Kingdom prog rock musician",
+        "sort-name": "Carson, John",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "ended": true,
+      "end": "1995-09",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attribute-credits": {},
+      "source-credit": "",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-values": {},
+      "begin": "1995"
+    },
+    {
+      "artist": {
+        "sort-name": "Orsi, Cliff",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Cliff Orsi",
+        "country": null,
+        "disambiguation": "",
+        "type": "Person",
+        "id": "09d67691-c402-49ca-909d-d2eb852a4477"
+      },
+      "ended": true,
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ],
+      "type": "member of band",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1995",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "1996-05",
+      "attribute-credits": {}
+    },
+    {
+      "begin": "1995",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-credits": {},
+      "end": "1997",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "More, Keith",
+        "type": "Person",
+        "disambiguation": "",
+        "country": null,
+        "name": "Keith More",
+        "id": "f8c1f1a4-59c5-470b-9ee7-b459056e8415"
+      },
+      "attributes": [
+        "guitar"
+      ],
+      "type": "member of band",
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "target-type": "artist",
+      "artist": {
+        "name": "Clive Nolan",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Nolan, Clive",
+        "id": "16f23a87-d842-4609-ae91-9d3d635e8bea"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": null,
+      "source-credit": "",
+      "begin": "1995",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attribute-credits": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1995",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "artist": {
+        "id": "80fc1ecb-6d93-4166-a02c-a374c25be9f6",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Mick Pointer",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Pointer, Mick"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "begin": "1996",
+      "attribute-values": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "1999",
+      "attribute-credits": {},
+      "artist": {
+        "id": "ee1d360e-250f-41eb-894f-c5f46aa64060",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "John Jowitt",
+        "sort-name": "Jowitt, John",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": true,
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ],
+      "type": "member of band"
+    },
+    {
+      "source-credit": "",
+      "begin": "1996",
+      "attribute-values": {},
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "1999",
+      "attribute-credits": {},
+      "artist": {
+        "id": "5cce495c-f79f-46e5-a7f0-36fa6445f70e",
+        "country": "GB",
+        "name": "Paul Wrightson",
+        "disambiguation": "",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Wrightson, Paul"
+      },
+      "target-credit": "",
+      "ended": true,
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "lead vocals"
+      ]
+    },
+    {
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "guitar"
+      ],
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "c759f437-0727-4b9a-8712-ffc95a552b8d",
+        "country": "GB",
+        "name": "John Mitchell",
+        "disambiguation": "UK guitarist, vocalist and songwriter; It Bites, Arena",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Mitchell, John"
+      },
+      "end": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "begin": "1997",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ],
+      "type": "member of band",
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "id": "2432255d-9a57-451e-b32a-8c9ba90c1f1a",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Salmon, Ian",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Ian Salmon"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2011",
+      "attribute-credits": {},
+      "begin": "1999",
+      "attribute-values": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "source-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2011",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "1999",
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [
+        "lead vocals"
+      ],
+      "type": "member of band",
+      "target-type": "artist",
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "id": "13dc0239-3a57-4483-9394-d92ca84a2ed6",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Sowden, Rob",
+        "name": "Rob Sowden",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person"
+      }
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": "2011",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "2014-07-24",
+      "attribute-credits": {},
+      "artist": {
+        "id": "ee1d360e-250f-41eb-894f-c5f46aa64060",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "John Jowitt",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Jowitt, John"
+      },
+      "ended": true,
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ],
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "id": "f07ca986-03f2-4706-93fa-e7b2937e3200",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Paul Manzi",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Manzi, Paul"
+      },
+      "attribute-credits": {},
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2020-07",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "begin": "2011",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "begin": "2015",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "source-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "artist": {
+        "id": "77d5f6ab-cec0-442b-9006-50097c723bc7",
+        "country": null,
+        "name": "Kylan Amos",
+        "disambiguation": "bass player Arena",
+        "type": "Person",
+        "sort-name": "Amos, Kylan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attributes": [
+        "bass guitar"
+      ],
+      "type": "member of band",
+      "target-type": "artist"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "2026-11-30",
+      "source-credit": "",
+      "begin": "2020-07",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "artist": {
+        "id": "8e64f0bd-2f21-41b0-9b51-c3b32f4152c8",
+        "type": "Person",
+        "disambiguation": "UK metal/rock singer",
+        "country": "GB",
+        "name": "Damian Wilson",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Wilson, Damian"
+      },
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-credits": {},
+      "begin": "2027-01-01",
+      "attribute-values": {},
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "f07ca986-03f2-4706-93fa-e7b2937e3200",
+        "type": "Person",
+        "country": "GB",
+        "name": "Paul Manzi",
+        "disambiguation": "",
+        "sort-name": "Manzi, Paul",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      }
+    },
+    {
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "type": "allmusic",
+      "attributes": [],
+      "url": {
+        "id": "2af93e3e-0261-41c3-88dd-6476114fa97c",
+        "resource": "https://www.allmusic.com/artist/mn0000929560"
+      }
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "type": "bandsintown",
+      "attributes": [],
+      "url": {
+        "id": "fb5086f7-1837-4741-a0eb-c25c209ee1ed",
+        "resource": "https://www.bandsintown.com/a/15383019"
+      },
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.discogs.com/artist/966419",
+        "id": "01055518-585f-41dc-9012-afb029a78a88"
+      },
+      "type": "discogs",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": true,
+      "url": {
+        "id": "07e2cd4c-cbad-485c-97f6-fe84817d4d40",
+        "resource": "http://www.welcometothecage.com/"
+      },
+      "attributes": [],
+      "type": "fanpage",
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "id": "1bc10a17-7920-489e-9891-5cf4063338b8",
+        "resource": "https://open.spotify.com/artist/5n72qzNEfzCXvNDxKComR7"
+      },
+      "type": "free streaming",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "free streaming",
+      "url": {
+        "id": "d7bab20d-599b-4c5b-a5fb-05e384ca0f27",
+        "resource": "https://www.deezer.com/artist/10600"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "resource": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.arenaband.co.uk%2Fwp-content%2Fuploads%2F2020%2F07%2FArenaDamianWEB.jpg&f=1&nofb=1&ipt=ac3571d405dca88de093a5476fe3e416776bf93798040c0b2a763a410fb92f45",
+        "id": "3cb5ff9c-f0ad-4b35-8427-6cc4163c772d"
+      },
+      "attributes": [],
+      "type": "image",
+      "target-credit": "",
+      "ended": false,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {}
+    },
+    {
+      "type": "last.fm",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.last.fm/music/Arena",
+        "id": "330a4297-a3d6-4296-8799-8a4d525e2b40"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "end": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "1faa51a7-6c68-4213-8812-2bf37aa8bfc6",
+        "resource": "https://genius.com/artists/Arena-band"
+      },
+      "type": "lyrics",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "type": "myspace",
+      "url": {
+        "resource": "https://myspace.com/arenaatverglas",
+        "id": "cb25175c-e86e-4a05-8dd1-6a991ea83720"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "official homepage",
+      "url": {
+        "id": "da443d1c-e394-4958-88b7-73ed95cdcc4a",
+        "resource": "https://www.arenaband.co.uk/"
+      },
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": true,
+      "url": {
+        "resource": "http://www.verglas.com/ArenaWorld/",
+        "id": "68f5bd5c-5aac-47e0-839f-b4893e61284a"
+      },
+      "attributes": [],
+      "type": "official homepage",
+      "target-type": "url"
+    },
+    {
+      "url": {
+        "resource": "https://musicmoz.org/Bands_and_Artists/A/Arena/",
+        "id": "5e4b5a70-8d5d-4505-b922-8607909a97ba"
+      },
+      "type": "other databases",
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/arena",
+        "id": "4b945ded-769a-4339-a0de-ad16be168a6f"
+      },
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "type": "other databases",
+      "attributes": [],
+      "url": {
+        "id": "5be42f2d-56f7-4375-a8ee-380691ff6bb4",
+        "resource": "https://www.metalmusicarchives.com/artist/arena"
+      },
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/arena/",
+        "id": "f297136a-6ebb-479f-82df-aa09d9c7abd5"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": ""
+    },
+    {
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "type": "other databases",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=27",
+        "id": "7ae3d0db-ee9b-4829-b358-e9222a7e5b37"
+      },
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "75334d39-b08e-4664-a931-5b06236dfc23",
+        "resource": "https://www.spirit-of-metal.com/en/band/Arena_(UK)"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://uk.7digital.com/artist/arena",
+        "id": "e2050d62-7dac-4655-9316-84649d5cfb65"
+      },
+      "attributes": [],
+      "type": "purchase for download",
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "purchase for download",
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/arena/98255",
+        "id": "22f88bf7-5506-442b-a3d2-1f344a04b4d4"
+      },
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "31808e34-3909-4f93-86a4-69d0e8312101",
+        "resource": "https://www.setlist.fm/setlists/arena-5bd6b368.html"
+      },
+      "type": "setlistfm",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "type": "social network",
+      "attributes": [],
+      "url": {
+        "id": "8ade53ab-1c74-4ddb-9910-fe1b5e313531",
+        "resource": "https://twitter.com/ArenaVerglas"
+      },
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "type": "social network",
+      "attributes": [],
+      "url": {
+        "id": "eef28e93-9020-45a6-ba40-fc6bc5636c08",
+        "resource": "https://www.facebook.com/ArenaBandofficial"
+      },
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "type": "social network",
+      "url": {
+        "id": "ef5ec143-9913-493c-bdc7-ef9eca59f34c",
+        "resource": "https://www.instagram.com/arenabanduk/"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.songkick.com/artists/318311",
+        "id": "0ec16d75-c57b-4c40-80e0-9e3c8bf0f326"
+      },
+      "type": "songkick",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "streaming",
+      "url": {
+        "id": "4c8be2d1-1d16-4aac-ad95-9ce7c201bb93",
+        "resource": "https://tidal.com/artist/21366204"
+      },
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/arena/98255",
+        "id": "22f88bf7-5506-442b-a3d2-1f344a04b4d4"
+      },
+      "type": "streaming",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-credit": "",
+      "ended": false,
+      "type": "VIAF",
+      "attributes": [],
+      "url": {
+        "id": "7aab5f14-04cb-411b-8bed-ebde0f65e19e",
+        "resource": "http://viaf.org/viaf/123554380"
+      },
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": null,
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "wikidata",
+      "url": {
+        "id": "f359246e-f2a5-4574-ad67-bafe274c124f",
+        "resource": "https://www.wikidata.org/wiki/Q240892"
+      },
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "f7d290a4-6790-458e-aab1-664c826067be",
+        "resource": "https://www.youtube.com/channel/UCFp1-Dr6nbF6H73sdmh8H_w"
+      },
+      "attributes": [],
+      "type": "youtube",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "youtube music",
+      "url": {
+        "id": "fb78edde-dfa4-4a6f-9b12-2d0b9adcbe3e",
+        "resource": "https://music.youtube.com/channel/UCbae6ikToG_zRMaCoe03bVA"
+      },
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4"
+    }
+  ],
+  "ipis": [],
+  "end-area": null,
+  "aliases": []
+}

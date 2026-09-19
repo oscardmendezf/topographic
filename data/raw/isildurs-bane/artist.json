@@ -1,0 +1,214 @@
+{
+  "aliases": [],
+  "end-area": null,
+  "isnis": [],
+  "area": {
+    "iso-3166-1-codes": [
+      "SE"
+    ],
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "sort-name": "Sweden",
+    "type": null,
+    "name": "Sweden",
+    "disambiguation": "",
+    "type-id": null
+  },
+  "sort-name": "Isildurs Bane",
+  "country": "SE",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "type": "Group",
+  "id": "af127443-e1c4-4ed1-a608-3991e194d07e",
+  "begin-area": null,
+  "ipis": [],
+  "gender-id": null,
+  "disambiguation": "",
+  "name": "Isildurs Bane",
+  "life-span": {
+    "begin": "1976",
+    "ended": false,
+    "end": null
+  },
+  "relations": [
+    {
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "allmusic",
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "url": {
+        "id": "7b66ead2-cbbc-42c1-a358-13036d0a8691",
+        "resource": "https://www.allmusic.com/artist/mn0001409492"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.discogs.com/artist/1237194",
+        "id": "a96ba177-0b37-4a24-8494-768bdf14511d"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "f115f618-c969-44e5-a759-432302207b7e",
+        "resource": "https://open.spotify.com/artist/6eVY6r0UQZ9tcycbGw50iL"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "free streaming"
+    },
+    {
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "type": "free streaming",
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "9f9c012a-0ea6-4e79-b5a3-1246fad1631f",
+        "resource": "https://www.deezer.com/artist/5272140"
+      }
+    },
+    {
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/isildurs_bane",
+        "id": "0f17b0b7-1039-47c0-83d5-99f8d2f79b70"
+      }
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "source-credit": "",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "url": {
+        "id": "e1006831-3d3d-40db-a43b-50fb53d48642",
+        "resource": "https://music.apple.com/se/artist/286660017"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.songkick.com/artists/304925",
+        "id": "08e49a60-ece1-4c6e-8160-b13ae99200f2"
+      },
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-values": {},
+      "type": "songkick",
+      "source-credit": "",
+      "end": null
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "source-credit": "",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/se/artist/286660017",
+        "id": "e1006831-3d3d-40db-a43b-50fb53d48642"
+      },
+      "direction": "forward",
+      "ended": false,
+      "begin": null
+    },
+    {
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://tidal.com/artist/3542465",
+        "id": "09589898-516a-4399-9c21-9a0964f95208"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "wikidata",
+      "target-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1673984",
+        "id": "9612e6df-a8d4-4a50-a607-bfafd88ff1ad"
+      },
+      "attribute-ids": {}
+    }
+  ],
+  "gender": null
+}

@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "ragnarok-se-path"
+titulo: "Path"
+artista: "Ragnarök"
+artista_slug: "ragnarok-se"
+anio_ficha: 2008
+era: "moderna"
+escena: "escandinavia"
+mb_rgid: "94fe0b23-97f0-4347-8187-b472a13a6fb7"
+primer_lanzamiento: "2008"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Epílogo tardío, correcto y prescindible."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Alcance mínimo, de catálogo especializado."
+historia: "editorial"
+---
+
+Otro regreso muy espaciado, tranquilo y bien grabado, con el instrumental pastoral intacto pero sin la extrañeza que tenía cuando nadie hacía eso en Suecia. Funciona como epílogo apacible de una discografía corta y despareja. No es por acá por donde conviene entrar.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Path es el segundo regreso de Ragnarök y el más espaciado: llega en 2008, diecisiete años después de Well, con la banda convertida en un proyecto intermitente antes que en un grupo en actividad. No hay relato de reunión ni concepto que organice el disco; hay ocho piezas instrumentales que retoman el hilo pastoral del comienzo, esta vez sin la deriva electrónica de los ochenta ni el barniz de estudio de los noventa. Es, en intención, el disco más cercano a los dos primeros que el grupo grabó desde entonces.
+
+El repertorio se mueve entre el paisaje y la miniatura. «September» abre con la calma y la melodía sencilla que son la marca de la casa. «Windows and Mirrors» y «Waterlevels» trabajan sobre motivos que se repiten con variaciones mínimas. «Dog 1» y «Dog 2» enmarcan el disco como dos versiones de una misma idea, y la segunda, la más extensa del álbum, se toma diez minutos para desplegar lo que la primera apenas insinúa. «Chinese River» aporta el color de fuera que el grupo siempre gustó de incorporar. «Angel» baja aún más el pulso. «Lakansvind» es la única concesión al sueco en los títulos y suena, no por casualidad, como lo más emparentado con el material de los setenta. La escritura es amable y consistente, y en ningún momento busca sorprender.
+
+## La producción
+
+El disco está grabado con una nitidez que los primeros álbumes no tenían ni buscaban, y ese es su principal contraste con ellos. Cada instrumento se escucha entero y bien situado, con separación generosa y una dinámica sin sobresaltos. La instrumentación vuelve a lo acústico y a lo eléctrico templado: guitarras limpias, vientos, teclados usados como armonía antes que como textura, percusión discreta. No hay secuencias ni timbres digitales al frente.
+
+La producción es transparente y deliberadamente poco intervencionista, y funciona: el disco suena cálido y cómodo. Lo que no puede reponer es la aspereza de contexto. En 1976 grabar esto en Suecia era una decisión contracorriente y se notaba en el registro, en la precariedad y en la falta de referencias cercanas. Treinta años después, la misma música bien grabada resulta apacible pero previsible, porque el mundo alrededor ya había asimilado esa manera de tocar.
+
+## Recepción y legado
+
+Salió sin ruido y circuló entre quienes seguían al grupo desde antes. Funciona como epílogo sereno de una discografía corta y muy despareja, y tiene el mérito de cerrar en el mismo tono con el que había abierto, después de dos desvíos largos. Su valor es real pero acotado: confirma la coherencia de una idea musical y no la amplía. Quien llegue a Ragnarök por acá va a escuchar un disco agradable sin entender del todo por qué el nombre importa; para eso hay que volver a los dos primeros, donde esa misma calma era una posición y no una costumbre.

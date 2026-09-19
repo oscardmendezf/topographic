@@ -68,6 +68,61 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "000f9b6b-c31e-4a12-8b30-58f4e8e90296",
+  "nombre": "Thomas Ewerhard",
+  "artistas": [
+   "flower-kings",
+   "jt",
+   "kaipa",
+   "kansas",
+   "klaus-schulze",
+   "sh"
+  ],
+  "n_albumes": 9,
+  "roles": [
+   "artwork",
+   "design",
+   "design/illustration",
+   "graphic design"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "8b2222ba-8343-45fe-8635-495494788982",
+  "nombre": "Paschal Byrne",
+  "artistas": [
+   "cam",
+   "car",
+   "faust",
+   "gilgamesh",
+   "gong",
+   "mo"
+  ],
+  "n_albumes": 8,
+  "roles": [
+   "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "6e341b1a-0697-4ddf-b7c8-ae1c91de8799",
+  "nombre": "Peter Mew",
+  "artistas": [
+   "elo",
+   "hawkwind",
+   "jt",
+   "marillion",
+   "pf"
+  ],
+  "n_albumes": 13,
+  "roles": [
+   "editor",
+   "liner notes",
+   "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "2bf1575f-88f7-4df0-8f9d-28be403f1891",
   "nombre": "Ted Jensen",
   "artistas": [
@@ -114,22 +169,6 @@
    "instrument"
   ],
   "es_musico_universo": true
- },
- {
-  "mbid": "8b2222ba-8343-45fe-8635-495494788982",
-  "nombre": "Paschal Byrne",
-  "artistas": [
-   "cam",
-   "car",
-   "faust",
-   "gong",
-   "mo"
-  ],
-  "n_albumes": 7,
-  "roles": [
-   "mastering"
-  ],
-  "es_musico_universo": false
  },
  {
   "mbid": "aa3ddb36-d7fd-4f53-9070-d756c4c04c26",
@@ -180,6 +219,22 @@
   "roles": [
    "lacquer cut",
    "liner notes",
+   "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "12d7f102-f60e-4561-a638-34306b6ab550",
+  "nombre": "Chris Blair",
+  "artistas": [
+   "app",
+   "arena",
+   "gen",
+   "jt"
+  ],
+  "n_albumes": 17,
+  "roles": [
+   "engineer",
    "mastering"
   ],
   "es_musico_universo": false
@@ -257,22 +312,6 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "6e341b1a-0697-4ddf-b7c8-ae1c91de8799",
-  "nombre": "Peter Mew",
-  "artistas": [
-   "elo",
-   "hawkwind",
-   "jt",
-   "pf"
-  ],
-  "n_albumes": 8,
-  "roles": [
-   "liner notes",
-   "mastering"
-  ],
-  "es_musico_universo": false
- },
- {
   "mbid": "9d69df98-f0e0-487f-8f85-e725445fbc99",
   "nombre": "Tim Hodgkinson",
   "artistas": [
@@ -337,23 +376,6 @@
    "design/illustration",
    "illustration",
    "photography"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "000f9b6b-c31e-4a12-8b30-58f4e8e90296",
-  "nombre": "Thomas Ewerhard",
-  "artistas": [
-   "jt",
-   "kansas",
-   "klaus-schulze",
-   "sh"
-  ],
-  "n_albumes": 5,
-  "roles": [
-   "artwork",
-   "design",
-   "graphic design"
   ],
   "es_musico_universo": false
  },
@@ -437,6 +459,20 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "0226a0b3-18d6-4c81-962d-e27a61fa1d75",
+  "nombre": "Sid Smith",
+  "artistas": [
+   "gilgamesh",
+   "kc",
+   "yes"
+  ],
+  "n_albumes": 14,
+  "roles": [
+   "liner notes"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "661288a1-6d34-46aa-900b-77d18aa82d21",
   "nombre": "Mike Rutherford",
   "artistas": [
@@ -454,17 +490,21 @@
   "es_musico_universo": true
  },
  {
-  "mbid": "12d7f102-f60e-4561-a638-34306b6ab550",
-  "nombre": "Chris Blair",
+  "mbid": "8ce62fde-ab52-4a13-96a9-5fd2b399ef00",
+  "nombre": "Hugh Syme",
   "artistas": [
-   "app",
-   "gen",
-   "jt"
+   "arena",
+   "rush",
+   "styx"
   ],
-  "n_albumes": 13,
+  "n_albumes": 12,
   "roles": [
-   "engineer",
-   "mastering"
+   "art direction",
+   "artwork",
+   "design",
+   "design/illustration",
+   "graphic design",
+   "illustration"
   ],
   "es_musico_universo": false
  },
@@ -617,6 +657,23 @@
   "es_musico_universo": true
  },
  {
+  "mbid": "02bf2e00-db22-448f-bbed-d07a4a0a12d5",
+  "nombre": "Bill Smith",
+  "artistas": [
+   "gen",
+   "marillion",
+   "mo"
+  ],
+  "n_albumes": 7,
+  "roles": [
+   "art direction",
+   "design",
+   "illustration",
+   "photography"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "b7d3a6bb-7fbd-4009-aa3a-d81bdf541c1f",
   "nombre": "Nick Robbins",
   "artistas": [
@@ -645,6 +702,23 @@
    "instrument"
   ],
   "es_musico_universo": true
+ },
+ {
+  "mbid": "11307138-0694-4729-bc6a-3d0b3893adb3",
+  "nombre": "Dave Meegan",
+  "artistas": [
+   "marillion",
+   "rush",
+   "yes"
+  ],
+  "n_albumes": 6,
+  "roles": [
+   "engineer",
+   "mix",
+   "producer",
+   "recording"
+  ],
+  "es_musico_universo": false
  },
  {
   "mbid": "847cf62e-344e-4403-a14c-73b78f50f08f",
@@ -678,6 +752,21 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "a038bf41-b275-4398-84c0-fb5390ea2ced",
+  "nombre": "Paul Cox",
+  "artistas": [
+   "elo",
+   "marillion",
+   "sh"
+  ],
+  "n_albumes": 5,
+  "roles": [
+   "design/illustration",
+   "photography"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "18acec19-11e8-46f1-a775-69930b7da481",
   "nombre": "Vartan",
   "artistas": [
@@ -689,6 +778,22 @@
   "roles": [
    "art direction",
    "design"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "04063698-cdb3-4417-9232-02dc4cd41bfc",
+  "nombre": "Derek Varnals",
+  "artistas": [
+   "khan",
+   "mb",
+   "steve-hillage"
+  ],
+  "n_albumes": 5,
+  "roles": [
+   "engineer",
+   "recording",
+   "remixer"
   ],
   "es_musico_universo": false
  },
@@ -943,6 +1048,35 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "6053f6b2-1584-4990-b193-96c02d64ebcc",
+  "nombre": "Peter van ’t Riet",
+  "artistas": [
+   "kansas",
+   "pallas",
+   "pendragon"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "29075cb4-0163-4f59-9eca-865da67e2e47",
+  "nombre": "David Anstey",
+  "artistas": [
+   "khan",
+   "mb",
+   "steve-hillage"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "artwork",
+   "graphic design"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "787c2d3c-51b4-41a9-92b1-1e8e059f6262",
   "nombre": "Sean Magee",
   "artistas": [
@@ -990,17 +1124,17 @@
   "es_musico_universo": true
  },
  {
-  "mbid": "0226a0b3-18d6-4c81-962d-e27a61fa1d75",
-  "nombre": "Sid Smith",
+  "mbid": "352fc08d-c231-47cb-8bd1-d24b891c70c7",
+  "nombre": "Hasse Bruniusson",
   "artistas": [
-   "kc",
-   "yes"
+   "flower-kings",
+   "samla-mammas-manna"
   ],
   "n_albumes": 13,
   "roles": [
-   "liner notes"
+   "instrument"
   ],
-  "es_musico_universo": false
+  "es_musico_universo": true
  },
  {
   "mbid": "5eed4030-2c54-4399-9219-e00c1e5f6f64",
@@ -1014,6 +1148,39 @@
    "mastering"
   ],
   "es_musico_universo": false
+ },
+ {
+  "mbid": "bed74093-6ab4-48b8-a946-0be6ab6cfc17",
+  "nombre": "Jonas Reingold",
+  "artistas": [
+   "flower-kings",
+   "kaipa"
+  ],
+  "n_albumes": 12,
+  "roles": [
+   "instrument",
+   "recording",
+   "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "a049e88a-22ef-4ef0-8efe-cb2fc48b7b8c",
+  "nombre": "Roine Stolt",
+  "artistas": [
+   "flower-kings",
+   "kaipa"
+  ],
+  "n_albumes": 12,
+  "roles": [
+   "art direction",
+   "design/illustration",
+   "illustration",
+   "instrument",
+   "mastering",
+   "mix"
+  ],
+  "es_musico_universo": true
  },
  {
   "mbid": "52998f43-1df1-481c-a6a1-5f83ca2de000",
@@ -1059,24 +1226,6 @@
    "instrument",
    "mastering",
    "photography"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "8ce62fde-ab52-4a13-96a9-5fd2b399ef00",
-  "nombre": "Hugh Syme",
-  "artistas": [
-   "rush",
-   "styx"
-  ],
-  "n_albumes": 10,
-  "roles": [
-   "art direction",
-   "artwork",
-   "design",
-   "design/illustration",
-   "graphic design",
-   "illustration"
   ],
   "es_musico_universo": false
  },
@@ -1237,6 +1386,22 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "2f1003d3-bd29-47d3-aec7-b5c1262948f9",
+  "nombre": "Per Nordin",
+  "artistas": [
+   "flower-kings",
+   "kaipa"
+  ],
+  "n_albumes": 6,
+  "roles": [
+   "design/illustration",
+   "graphic design",
+   "illustration",
+   "photography"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "c671df9a-c39a-4d37-80d5-7b9d2d5f0331",
   "nombre": "Jim Rodford",
   "artistas": [
@@ -1249,6 +1414,21 @@
    "vocal"
   ],
   "es_musico_universo": true
+ },
+ {
+  "mbid": "45d6b8c8-2d1d-416e-94d5-24865c50636a",
+  "nombre": "Bill Smith Studio",
+  "artistas": [
+   "marillion",
+   "mo"
+  ],
+  "n_albumes": 6,
+  "roles": [
+   "art direction",
+   "artwork",
+   "design/illustration"
+  ],
+  "es_musico_universo": false
  },
  {
   "mbid": "3b838db4-8302-4838-b9d7-921f77695287",
@@ -1399,6 +1579,19 @@
    "vocal"
   ],
   "es_musico_universo": true
+ },
+ {
+  "mbid": "569e3a87-2393-4f80-a402-34280e9419f6",
+  "nombre": "Andy Miles",
+  "artistas": [
+   "kc",
+   "marillion"
+  ],
+  "n_albumes": 5,
+  "roles": [
+   "mastering"
+  ],
+  "es_musico_universo": false
  },
  {
   "mbid": "b81c06a5-341f-4d04-a72e-7738030f792b",
@@ -1566,6 +1759,23 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "c3060023-0033-4412-8726-c0890e477c5e",
+  "nombre": "Karl Groom",
+  "artistas": [
+   "galahad",
+   "pendragon"
+  ],
+  "n_albumes": 4,
+  "roles": [
+   "engineer",
+   "mastering",
+   "mix",
+   "producer",
+   "recording"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "dae302ca-dd6c-4104-87f8-a03303ef857a",
   "nombre": "David Hentschel",
   "artistas": [
@@ -1577,21 +1787,6 @@
    "engineer",
    "producer",
    "vocal"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "02bf2e00-db22-448f-bbed-d07a4a0a12d5",
-  "nombre": "Bill Smith",
-  "artistas": [
-   "gen",
-   "mo"
-  ],
-  "n_albumes": 4,
-  "roles": [
-   "art direction",
-   "design",
-   "illustration"
   ],
   "es_musico_universo": false
  },
@@ -1665,21 +1860,6 @@
   "es_musico_universo": false
  },
  {
-  "mbid": "04063698-cdb3-4417-9232-02dc4cd41bfc",
-  "nombre": "Derek Varnals",
-  "artistas": [
-   "mb",
-   "steve-hillage"
-  ],
-  "n_albumes": 4,
-  "roles": [
-   "engineer",
-   "recording",
-   "remixer"
-  ],
-  "es_musico_universo": false
- },
- {
   "mbid": "d6c37074-0155-46a3-8af2-338a4f625afc",
   "nombre": "Nick Mason",
   "artistas": [
@@ -1693,6 +1873,36 @@
    "illustration",
    "instrument",
    "producer"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "19b4dd39-8ec3-45cc-8e3b-f688755786b3",
+  "nombre": "Janne Hansson",
+  "artistas": [
+   "anekdoten",
+   "kaipa"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "engineer",
+   "mastering"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "809db7b6-7ad8-4b96-93cb-97735cc9ebc1",
+  "nombre": "Tord Lindman",
+  "artistas": [
+   "anekdoten",
+   "anglagard"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "instrument",
+   "lyricist",
+   "photography",
+   "vocal"
   ],
   "es_musico_universo": true
  },
@@ -1752,6 +1962,20 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "c759f437-0727-4b9a-8712-ffc95a552b8d",
+  "nombre": "John Mitchell",
+  "artistas": [
+   "arena",
+   "jadis"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "instrument",
+   "mastering"
+  ],
+  "es_musico_universo": true
+ },
+ {
   "mbid": "e832d481-435a-4ad9-b183-f4520c0de309",
   "nombre": "Peter Blake",
   "artistas": [
@@ -1796,6 +2020,20 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "08a9e7ad-9686-4527-ace3-db860483d99f",
+  "nombre": "Bill Ellsworth",
+  "artistas": [
+   "delivery",
+   "univers-zero"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "design",
+   "graphic design"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "2f20f8aa-35c0-4dfb-8b78-ceccccaf37c9",
   "nombre": "Suha Gur",
   "artistas": [
@@ -1805,20 +2043,6 @@
   "n_albumes": 3,
   "roles": [
    "mastering"
-  ],
-  "es_musico_universo": false
- },
- {
-  "mbid": "a038bf41-b275-4398-84c0-fb5390ea2ced",
-  "nombre": "Paul Cox",
-  "artistas": [
-   "elo",
-   "sh"
-  ],
-  "n_albumes": 3,
-  "roles": [
-   "design/illustration",
-   "photography"
   ],
   "es_musico_universo": false
  },
@@ -1934,6 +2158,20 @@
   "es_musico_universo": false
  },
  {
+  "mbid": "d0b62fd6-c778-417e-8cbb-69ca50cadfe4",
+  "nombre": "Nigel Reeve",
+  "artistas": [
+   "hawkwind",
+   "marillion"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "compiler",
+   "misc"
+  ],
+  "es_musico_universo": false
+ },
+ {
   "mbid": "643ff039-e473-4178-b523-a76a67b7cdd7",
   "nombre": "Peter Blegvad",
   "artistas": [
@@ -1959,6 +2197,19 @@
   "roles": [
    "instrument",
    "vocal"
+  ],
+  "es_musico_universo": true
+ },
+ {
+  "mbid": "7dae06a6-6d49-47f8-ac55-317d670e6139",
+  "nombre": "Elton Dean",
+  "artistas": [
+   "hugh-hopper",
+   "sm"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "instrument"
   ],
   "es_musico_universo": true
  },
@@ -2073,6 +2324,19 @@
    "art direction",
    "design",
    "graphic design"
+  ],
+  "es_musico_universo": false
+ },
+ {
+  "mbid": "98394aca-266f-4e5e-be8c-541a6b77e8f0",
+  "nombre": "Jill Furmanovsky",
+  "artistas": [
+   "marillion",
+   "pf"
+  ],
+  "n_albumes": 3,
+  "roles": [
+   "photography"
   ],
   "es_musico_universo": false
  },

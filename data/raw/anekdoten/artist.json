@@ -1,0 +1,323 @@
+{
+  "type": "Group",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "",
+  "sort-name": "Anekdoten",
+  "begin-area": {
+    "type": null,
+    "sort-name": "Borlänge",
+    "type-id": null,
+    "disambiguation": "",
+    "name": "Borlänge",
+    "id": "454dbebb-0806-4d1c-9fed-8bd3dd817136"
+  },
+  "aliases": [],
+  "gender-id": null,
+  "gender": null,
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1991"
+  },
+  "country": "SE",
+  "area": {
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "SE"
+    ],
+    "disambiguation": "",
+    "sort-name": "Sweden",
+    "type": null,
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "name": "Sweden"
+  },
+  "relations": [
+    {
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Barker, Nicklas",
+        "country": "SE",
+        "id": "714d4006-6c07-4975-9cc5-966b70a959d7",
+        "name": "Nicklas Barker"
+      },
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {},
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "type": "member of band",
+      "direction": "backward",
+      "target-credit": "",
+      "begin": null
+    },
+    {
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attributes": [],
+      "direction": "backward",
+      "begin": null,
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "sort-name": "Nordins, Peter",
+        "country": null,
+        "type": "Person",
+        "name": "Peter Nordins",
+        "id": "c151c0ff-11c2-48d6-bb51-c689b1667b65"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attribute-ids": {},
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attributes": [],
+      "type": "allmusic",
+      "direction": "forward",
+      "target-credit": "",
+      "url": {
+        "id": "2d0b69e9-dcd5-4e08-844f-ff070fbae952",
+        "resource": "https://www.allmusic.com/artist/mn0000696551"
+      },
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "type": "bandcamp",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "url": {
+        "id": "921af631-cd24-490e-a323-2ae230f421de",
+        "resource": "https://anekdoten.bandcamp.com/"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.discogs.com/artist/337021",
+        "id": "6ad6b2fd-95f2-4374-8925-609791755b60"
+      },
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "resource": "https://open.spotify.com/artist/79U6sDp9JfvVqlVFZnw0mm",
+        "id": "6debf09e-8e7f-4573-abc3-84478889fddd"
+      },
+      "target-credit": "",
+      "begin": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "type": "free streaming",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/277182",
+        "id": "126cc10f-df7d-400c-a7da-0536fabab953"
+      },
+      "target-credit": "",
+      "direction": "forward",
+      "type": "free streaming",
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd"
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.last.fm/music/Anekdoten",
+        "id": "359494d3-b32f-4a1a-9fd2-298a05d8b004"
+      },
+      "direction": "forward",
+      "type": "last.fm",
+      "attributes": [],
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "begin": null,
+      "url": {
+        "id": "7a8dbcef-aa95-4cbb-a2cc-9887461d4dfd",
+        "resource": "http://www.anekdoten.se/"
+      },
+      "target-credit": "",
+      "direction": "forward",
+      "type": "official homepage",
+      "attributes": [],
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139891932",
+        "id": "90f4bde9-9d00-492f-b931-d1c1c84b5d00"
+      },
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "url": {
+        "id": "5227d418-9353-4262-a3ba-e599687e745f",
+        "resource": "https://rateyourmusic.com/artist/anekdoten"
+      },
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "url": {
+        "id": "fa3cc78e-8490-4db3-b02c-ffc6a5c51018",
+        "resource": "https://www.facebook.com/anekdoten"
+      },
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "type": "songkick",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "id": "c8933cdc-5a90-4586-b7ca-60b2ebb7fc0b",
+        "resource": "https://www.songkick.com/artists/135493"
+      },
+      "ended": false
+    },
+    {
+      "ended": false,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attributes": [],
+      "type": "VIAF",
+      "direction": "forward",
+      "url": {
+        "id": "452480fc-8df2-4c35-bd4d-a5c92b94cfa8",
+        "resource": "http://viaf.org/viaf/133313969"
+      },
+      "target-credit": "",
+      "begin": null,
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "type": "wikidata",
+      "attributes": [],
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "url": {
+        "id": "36184b0f-5d39-467c-98b4-652c0b323acd",
+        "resource": "https://www.wikidata.org/wiki/Q528945"
+      },
+      "target-credit": "",
+      "direction": "forward"
+    }
+  ],
+  "isnis": [
+    "0000000107223854"
+  ],
+  "name": "Anekdoten",
+  "end-area": null,
+  "ipis": [],
+  "id": "0cf0af1f-20ca-4863-9b24-5f52772f7715"
+}

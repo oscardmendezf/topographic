@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "iq-nomzamo"
+titulo: "Nomzamo"
+artista: "IQ"
+artista_slug: "iq"
+anio_ficha: 1987
+era: "siguiente"
+escena: "neoprog"
+mb_rgid: "74c37446-38a7-30a4-95e2-6f93c1175c3c"
+primer_lanzamiento: "1987"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Correcto como pop, irrelevante como IQ."
+estrellas_comercial: 3
+comercial_fuente: "editorial"
+comercial_nota: "El álbum más accesible del catálogo y el de mayor alcance en su momento."
+historia: "editorial"
+---
+
+Primer disco con Paul Menel y giro completo hacia la canción: estructuras cortas, estribillos, batería procesada y teclados digitales brillantes, con la producción de su época marcada en cada compás. Menel canta bien y el grupo toca con soltura, pero el material no aguanta el formato: lo que en las suites era desarrollo acá queda como puente. El disco donde IQ intentó ser otra cosa y descubrió que no le salía.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después de The Wake, Peter Nicholls dejó IQ y el grupo tuvo que decidir qué clase de banda quería ser sin el cantante que había definido su manera de narrar. Nomzamo, de 1987, es la respuesta: entra Paul Menel en la voz y el repertorio gira por completo hacia la canción. Las suites desaparecen, las estructuras se acortan, los estribillos vuelven, y el disco se coloca deliberadamente en el terreno donde a mediados de los ochenta parecía estar todo lo que la industria premiaba.
+
+El giro no es un descuido sino un plan, y ahí está el problema. «No Love Lost» y «Promises (As the Years Go By)» funcionan como cortes armados para sonar en radio, «Passing Strangers» y «Screaming» apenas pasan de los cuatro minutos, y el material que sobrevive con más dignidad es el que todavía se permite extenderse: «Human Nature», la pieza más larga, y el tema que da nombre al álbum. Menel canta bien, con un registro más limpio y menos actuado que el de su antecesor, y el grupo —Michael Holmes, Martin Orford, Tim Esau y Paul Cook— toca con soltura. Pero el material no aguanta el formato: lo que en las suites era desarrollo acá queda reducido a puente, y lo que antes tenía tiempo de crecer se resuelve antes de empezar.
+
+## La producción
+
+No constan créditos verificados de producción, ingeniería ni estudio. Lo que el disco sí trae escrito por todas partes es su época: batería procesada con reverberación de puerta cerrada, teclados digitales brillantes que reemplazan las texturas analógicas anteriores, compresión pareja y voces con doblajes en los estribillos. Cada compás está marcado por decisiones de sonido que en 1987 se consideraban obligatorias y que hoy fechan el disco con precisión.
+
+La guitarra de Holmes es la principal damnificada: el tratamiento que en The Wake la convertía en capa de textura acá la empuja hacia un papel más convencional de acompañamiento y remate. El resultado es un álbum pulcro, sin asperezas, en el que resulta difícil encontrar el nervio que distinguía al grupo.
+
+## Recepción y legado
+
+No consiguió lo que buscaba —la banda no se volvió un grupo de canción con alcance amplio— y descolocó a parte del público que venía de la primera etapa. Quedó como el álbum donde IQ intentó ser otra cosa y descubrió que no le salía, una experiencia que muchos de sus contemporáneos atravesaron por los mismos años y con resultados parecidos.
+
+Con el tiempo se lo escucha con menos hostilidad y sin necesidad de rescatarlo: hay dos o tres canciones decentes y un grupo competente haciendo algo que no era suyo. Su utilidad mayor es explicar el camino de vuelta, porque la reconstrucción que llegaría en los noventa se entiende mejor sabiendo de dónde había que volver.

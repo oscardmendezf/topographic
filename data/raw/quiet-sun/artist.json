@@ -1,0 +1,162 @@
+{
+  "ipis": [],
+  "gender": null,
+  "area": {
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "type": null,
+    "disambiguation": "",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ]
+  },
+  "gender-id": null,
+  "sort-name": "Quiet Sun",
+  "country": "GB",
+  "end-area": null,
+  "name": "Quiet Sun",
+  "isnis": [],
+  "id": "8f404874-8a84-4563-94ba-dbf70a18616f",
+  "begin-area": null,
+  "aliases": [],
+  "relations": [
+    {
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "English drummer, cfr. This Heat",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hayward, Charles",
+        "id": "2df40bc7-b7bc-4fed-8c47-819a4cc9b496",
+        "name": "Charles Hayward"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "end": null
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Jarrett, Dave",
+        "name": "Dave Jarrett",
+        "id": "181b546a-ddd5-4f8e-adf5-fd7256b0fc15"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "id": "52907ce4-28b5-41b8-86db-c4937baa7580",
+        "name": "Bill MacCormick",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "MacCormick, Bill"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Manzanera, Phil",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Phil Manzanera",
+        "id": "0d2cf864-5e99-472e-845f-5d1579979eee"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "type": "member of band",
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "5d38a363-3b42-4896-b4d9-08cbd1d5c067",
+        "resource": "https://www.discogs.com/artist/262528"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "type": "wikidata",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1970359",
+        "id": "86a767fc-49c1-4d65-95f8-ba25f3d2c21b"
+      },
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "",
+  "type": "Group",
+  "life-span": {
+    "begin": "1970",
+    "end": "1975",
+    "ended": true
+  }
+}

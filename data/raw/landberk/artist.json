@@ -1,0 +1,200 @@
+{
+  "gender-id": null,
+  "gender": null,
+  "begin-area": null,
+  "aliases": [],
+  "type": "Group",
+  "disambiguation": "",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Landberk",
+  "end-area": null,
+  "ipis": [],
+  "id": "c932d971-09d6-487b-9574-1ac7c97cb554",
+  "isnis": [],
+  "name": "Landberk",
+  "area": {
+    "name": "Sweden",
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "type": null,
+    "sort-name": "Sweden",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "SE"
+    ],
+    "disambiguation": ""
+  },
+  "relations": [
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "sort-name": "Dimle, Stefan",
+        "country": "SE",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "13d9af35-7720-4ded-b074-85ab58e9aa38",
+        "name": "Stefan Dimle"
+      },
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-values": {},
+      "end": "1996",
+      "ended": true,
+      "type": "member of band",
+      "attributes": [
+        "bass guitar"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "begin": "1992",
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "SE",
+        "sort-name": "Fiske, Reine",
+        "type": "Person",
+        "name": "Reine Fiske",
+        "id": "c12a184d-ab9b-4acf-a1dd-43978705d6e9"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-values": {},
+      "end": "1996",
+      "ended": true,
+      "type": "member of band",
+      "attributes": [
+        "guitar"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "begin": "1992",
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "ended": true,
+      "type": "member of band",
+      "attributes": [
+        "lead vocals"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "begin": "1992",
+      "target-credit": "",
+      "direction": "backward",
+      "source-credit": "",
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "sort-name": "Helje, Patrick",
+        "country": "SE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "631b2bc0-1a29-4cad-95f5-bcb57146d193",
+        "name": "Patric Helje"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-values": {},
+      "end": "1996"
+    },
+    {
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "type": "member of band",
+      "attributes": [
+        "membranophone"
+      ],
+      "direction": "backward",
+      "begin": "1992",
+      "target-credit": "",
+      "artist": {
+        "country": "SE",
+        "sort-name": "Lindholm, Jonas",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "f801e258-9be2-45db-a200-e6c89ccf770e",
+        "name": "Jonas Lindholm"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "end": "1996",
+      "attribute-values": {}
+    },
+    {
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attributes": [],
+      "type": "discogs",
+      "direction": "forward",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.discogs.com/artist/1325386",
+        "id": "8f41725b-7323-4509-a132-b503e379eaec"
+      },
+      "begin": null,
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "ended": false,
+      "url": {
+        "resource": "https://www.songkick.com/artists/463009",
+        "id": "6e56318e-3689-4f6d-a10c-2f9b94d20bb3"
+      },
+      "target-credit": "",
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "type": "songkick",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null
+    },
+    {
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "type": "wikidata",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1659694",
+        "id": "43620ed1-ebe1-4996-b1d7-f0ecd36855a5"
+      },
+      "ended": false,
+      "end": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {}
+    }
+  ],
+  "life-span": {
+    "begin": "1992",
+    "ended": false,
+    "end": null
+  },
+  "country": "SE"
+}

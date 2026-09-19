@@ -384,6 +384,153 @@
    }
   }
  },
+ "anekdoten-until-all-the-ghosts-are-gone": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 1,
+    "listeners": 39665,
+    "titulo_lastfm": "If It All Comes Down To You"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 3,
+    "listeners": 20024,
+    "titulo_lastfm": "Writing On The Wall"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 8,
+    "listeners": 15865,
+    "titulo_lastfm": "Shooting Star"
+   }
+  }
+ },
+ "anekdoten-gravity": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 2,
+    "listeners": 25208,
+    "titulo_lastfm": "The War Is Over"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 4,
+    "listeners": 19445,
+    "titulo_lastfm": "Ricochet"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 7,
+    "listeners": 16248,
+    "titulo_lastfm": "Gravity"
+   }
+  }
+ },
+ "anekdoten-a-time-of-day": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 5,
+    "listeners": 17913,
+    "titulo_lastfm": "Every Step I Take"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 6,
+    "listeners": 17290,
+    "titulo_lastfm": "The Great Unknown"
+   }
+  }
+ },
+ "anglagard-epilog": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 1,
+    "listeners": 25937,
+    "titulo_lastfm": "Höstsejd"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 2,
+    "listeners": 25592,
+    "titulo_lastfm": "Sista somrar"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 3,
+    "listeners": 17978,
+    "titulo_lastfm": "Saknadens fullhet"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 5,
+    "listeners": 13890,
+    "titulo_lastfm": "Skogsranden"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 6,
+    "listeners": 13514,
+    "titulo_lastfm": "Prolog"
+   }
+  }
+ },
+ "anglagard-hybris": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 4,
+    "listeners": 14956,
+    "titulo_lastfm": "Jordrök"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 7,
+    "listeners": 13415,
+    "titulo_lastfm": "Vandringar i vilsenhet"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 8,
+    "listeners": 12547,
+    "titulo_lastfm": "Kung Bore"
+   }
+  }
+ },
  "ap-the-geese-the-ghost": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -801,6 +948,76 @@
     "puesto": 7,
     "listeners": 10111,
     "titulo_lastfm": "L'elefante bianco"
+   }
+  }
+ },
+ "arena-peppers-ghost": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 1,
+    "listeners": 19857,
+    "titulo_lastfm": "Smoke and Mirrors"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 2,
+    "listeners": 17857,
+    "titulo_lastfm": "The Eyes of Lara Moon"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 3,
+    "listeners": 17720,
+    "titulo_lastfm": "Bedlam Fayre"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 4,
+    "listeners": 16709,
+    "titulo_lastfm": "Tantalus"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 5,
+    "listeners": 16511,
+    "titulo_lastfm": "The Shattered Room"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 6,
+    "listeners": 16100,
+    "titulo_lastfm": "Purgatory Road"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 8,
+    "listeners": 13410,
+    "titulo_lastfm": "Opera Fanatica"
+   }
+  }
+ },
+ "arena-the-visitor": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:10": {
+    "medio": 1,
+    "n": 10,
+    "puesto": 7,
+    "listeners": 15455,
+    "titulo_lastfm": "Serenity"
    }
   }
  },
@@ -2281,6 +2498,69 @@
    }
   }
  },
+ "delivery-fools-meeting": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 1,
+    "listeners": 1014,
+    "titulo_lastfm": "Blind To Your Light"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 2,
+    "listeners": 857,
+    "titulo_lastfm": "Home Made Ruin"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 3,
+    "listeners": 788,
+    "titulo_lastfm": "Miserable Man"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 4,
+    "listeners": 748,
+    "titulo_lastfm": "We Were Satisfied"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 5,
+    "listeners": 650,
+    "titulo_lastfm": "Fighting It Out"
+   },
+   "1:8": {
+    "medio": 1,
+    "n": 8,
+    "puesto": 6,
+    "listeners": 624,
+    "titulo_lastfm": "Fools Meeting"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 7,
+    "listeners": 620,
+    "titulo_lastfm": "Is It Really The Same"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 8,
+    "listeners": 591,
+    "titulo_lastfm": "The Wrong Time"
+   }
+  }
+ },
  "dixie-dregs-free-fall": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -3086,6 +3366,90 @@
    }
   }
  },
+ "flower-kings-adam-eve": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 1,
+    "listeners": 16205,
+    "titulo_lastfm": "Babylon"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 2,
+    "listeners": 16117,
+    "titulo_lastfm": "Cosmic Circus"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 4,
+    "listeners": 12232,
+    "titulo_lastfm": "Starlight Man"
+   }
+  }
+ },
+ "flower-kings-stardust-we-are": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 3,
+    "listeners": 12617,
+    "titulo_lastfm": "In The Eyes Of The World"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 5,
+    "listeners": 11592,
+    "titulo_lastfm": "Church Of Your Heart"
+   },
+   "2:11": {
+    "medio": 2,
+    "n": 11,
+    "puesto": 6,
+    "listeners": 11030,
+    "titulo_lastfm": "Stardust We Are"
+   }
+  }
+ },
+ "flower-kings-the-rainmaker": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 7,
+    "listeners": 10888,
+    "titulo_lastfm": "World Without a Heart"
+   }
+  }
+ },
+ "flower-kings-paradox-hotel": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "2:2": {
+    "medio": 2,
+    "n": 2,
+    "puesto": 8,
+    "listeners": 9957,
+    "titulo_lastfm": "Touch My Heaven"
+   }
+  }
+ },
  "foc-golden-oldies": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -3261,6 +3625,139 @@
    }
   }
  },
+ "galahad-empires-never-last": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 1,
+    "listeners": 12924,
+    "titulo_lastfm": "Empires Never Last"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 2,
+    "listeners": 5908,
+    "titulo_lastfm": "Termination"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 4,
+    "listeners": 4798,
+    "titulo_lastfm": "I Could Be God"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 5,
+    "listeners": 4289,
+    "titulo_lastfm": "Sidewinder"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 7,
+    "listeners": 2959,
+    "titulo_lastfm": "Memories From An Africa Twin"
+   }
+  }
+ },
+ "galahad-when-worlds-collide": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "2:1": {
+    "medio": 2,
+    "n": 1,
+    "puesto": 1,
+    "listeners": 12924,
+    "titulo_lastfm": "Empires Never Last"
+   },
+   "2:7": {
+    "medio": 2,
+    "n": 7,
+    "puesto": 8,
+    "listeners": 2876,
+    "titulo_lastfm": "Guardian Angel"
+   }
+  }
+ },
+ "galahad-quiet-storms": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 2,
+    "listeners": 5908,
+    "titulo_lastfm": "Termination"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 6,
+    "listeners": 3354,
+    "titulo_lastfm": "Pictures of Bliss"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 8,
+    "listeners": 2876,
+    "titulo_lastfm": "Guardian Angel"
+   }
+  }
+ },
+ "galahad-year-zero": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 3,
+    "listeners": 5259,
+    "titulo_lastfm": "The Charlotte Suite"
+   }
+  }
+ },
+ "galahad-sleepers": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 6,
+    "listeners": 3354,
+    "titulo_lastfm": "Pictures of Bliss"
+   }
+  }
+ },
+ "galahad-beyond-the-realms-of-euphoria": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 8,
+    "listeners": 2876,
+    "titulo_lastfm": "Guardian Angel"
+   }
+  }
+ },
  "gen-we-can-t-dance": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -3398,6 +3895,76 @@
     "puesto": 8,
     "listeners": 63901,
     "titulo_lastfm": "Giant"
+   }
+  }
+ },
+ "gilgamesh-gilgamesh": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 1,
+    "listeners": 13290,
+    "titulo_lastfm": "Arriving Twice"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 2,
+    "listeners": 10298,
+    "titulo_lastfm": "For Absent Friends"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 3,
+    "listeners": 8454,
+    "titulo_lastfm": "Lady and Friend"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 4,
+    "listeners": 6973,
+    "titulo_lastfm": "Notwithstanding"
+   },
+   "1:8": {
+    "medio": 1,
+    "n": 8,
+    "puesto": 5,
+    "listeners": 5395,
+    "titulo_lastfm": "Just C"
+   }
+  }
+ },
+ "gilgamesh-another-fine-tune-youve-got-me-into": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 6,
+    "listeners": 3571,
+    "titulo_lastfm": "Darker Brighter"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 7,
+    "listeners": 3360,
+    "titulo_lastfm": "Waiting"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 8,
+    "listeners": 3038,
+    "titulo_lastfm": "Foel'd Again"
    }
   }
  },
@@ -3975,6 +4542,118 @@
    }
   }
  },
+ "hugh-hopper-1984": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 1,
+    "listeners": 1648,
+    "titulo_lastfm": "Miniluv"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 2,
+    "listeners": 962,
+    "titulo_lastfm": "Minitrue"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 3,
+    "listeners": 850,
+    "titulo_lastfm": "Minipax I"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 4,
+    "listeners": 774,
+    "titulo_lastfm": "Miniplenty"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 6,
+    "listeners": 753,
+    "titulo_lastfm": "Minipax II"
+   }
+  }
+ },
+ "hugh-hopper-hooligan-romantics": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:13": {
+    "medio": 1,
+    "n": 13,
+    "puesto": 1,
+    "listeners": 1648,
+    "titulo_lastfm": "Miniluv"
+   }
+  }
+ },
+ "hugh-hopper-hopper-tunity-box": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 1,
+    "listeners": 1648,
+    "titulo_lastfm": "Miniluv"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 7,
+    "listeners": 601,
+    "titulo_lastfm": "Gnat Prong"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 8,
+    "listeners": 564,
+    "titulo_lastfm": "Hopper Tunity Box"
+   }
+  }
+ },
+ "hugh-hopper-meccano-pelorus": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 1,
+    "listeners": 1648,
+    "titulo_lastfm": "Miniluv"
+   }
+  }
+ },
+ "hugh-hopper-somewhere-in-france": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 5,
+    "listeners": 759,
+    "titulo_lastfm": "Keep on Caring"
+   }
+  }
+ },
  "il-balletto-di-bronzo-ys": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -4042,6 +4721,76 @@
     "puesto": 8,
     "listeners": 4416,
     "titulo_lastfm": "Eh Eh Ah Ah"
+   }
+  }
+ },
+ "in-cahoots-all-that": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 1,
+    "listeners": 81,
+    "titulo_lastfm": "Out There"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 2,
+    "listeners": 66,
+    "titulo_lastfm": "Big Dick"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 3,
+    "listeners": 50,
+    "titulo_lastfm": "Upside"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 6,
+    "listeners": 40,
+    "titulo_lastfm": "Black Cat"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 8,
+    "listeners": 38,
+    "titulo_lastfm": "Sleight Of Hand"
+   }
+  }
+ },
+ "in-cahoots-recent-discoveries": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 4,
+    "listeners": 50,
+    "titulo_lastfm": "Riffy"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 5,
+    "listeners": 40,
+    "titulo_lastfm": "Trick Of The Light"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 7,
+    "listeners": 39,
+    "titulo_lastfm": "The Opener"
    }
   }
  },
@@ -4115,6 +4864,76 @@
    }
   }
  },
+ "iq-the-road-of-bones": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 1,
+    "listeners": 21473,
+    "titulo_lastfm": "The Road of Bones"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 4,
+    "listeners": 10990,
+    "titulo_lastfm": "From The Outside In"
+   }
+  }
+ },
+ "iq-frequency": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 2,
+    "listeners": 20789,
+    "titulo_lastfm": "Frequency"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 3,
+    "listeners": 12517,
+    "titulo_lastfm": "Life Support"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 5,
+    "listeners": 10209,
+    "titulo_lastfm": "One Fatal Mistake"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 6,
+    "listeners": 9703,
+    "titulo_lastfm": "Stronger Than Friction"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 7,
+    "listeners": 9365,
+    "titulo_lastfm": "Closer"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 8,
+    "listeners": 9223,
+    "titulo_lastfm": "Ryker Skies"
+   }
+  }
+ },
  "iron-butterfly-inagaddadavida": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -4168,6 +4987,160 @@
     "puesto": 6,
     "listeners": 50137,
     "titulo_lastfm": "Unconscious Power"
+   }
+  }
+ },
+ "isildurs-bane-sagan-om-den-irlandska-algen": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 1,
+    "listeners": 1278,
+    "titulo_lastfm": "Overtyr"
+   }
+  }
+ },
+ "isildurs-bane-sagan-om-ringen": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 1,
+    "listeners": 1278,
+    "titulo_lastfm": "Overtyr"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 2,
+    "listeners": 1238,
+    "titulo_lastfm": "Tom Bombadill"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 3,
+    "listeners": 1014,
+    "titulo_lastfm": "Vattnadal"
+   },
+   "1:8": {
+    "medio": 1,
+    "n": 8,
+    "puesto": 4,
+    "listeners": 956,
+    "titulo_lastfm": "Moria"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 5,
+    "listeners": 949,
+    "titulo_lastfm": "De Svarta Ryttarna"
+   },
+   "1:10": {
+    "medio": 1,
+    "n": 10,
+    "puesto": 6,
+    "listeners": 946,
+    "titulo_lastfm": "Ringarnas Harskare I"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 7,
+    "listeners": 920,
+    "titulo_lastfm": "Vandring"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 8,
+    "listeners": 893,
+    "titulo_lastfm": "Gamla skogen"
+   }
+  }
+ },
+ "jadis-across-the-water": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 1,
+    "listeners": 4474,
+    "titulo_lastfm": "A Life Is All You Need"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 3,
+    "listeners": 3248,
+    "titulo_lastfm": "Daylight Fades"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 7,
+    "listeners": 2554,
+    "titulo_lastfm": "Touch"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 8,
+    "listeners": 2148,
+    "titulo_lastfm": "Everywhere I Turn"
+   }
+  }
+ },
+ "jadis-photoplay": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 2,
+    "listeners": 3666,
+    "titulo_lastfm": "There's a Light"
+   }
+  }
+ },
+ "jadis-more-than-meets-the-eye": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 4,
+    "listeners": 2680,
+    "titulo_lastfm": "The Beginning and the End"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 5,
+    "listeners": 2671,
+    "titulo_lastfm": "More Than Meets the Eye"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 6,
+    "listeners": 2589,
+    "titulo_lastfm": "Sleepwalk"
    }
   }
  },
@@ -4231,6 +5204,83 @@
     "puesto": 8,
     "listeners": 179750,
     "titulo_lastfm": "Hymn 43"
+   }
+  }
+ },
+ "kaipa-sattyg": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 1,
+    "listeners": 9449,
+    "titulo_lastfm": "World Of The Void"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 6,
+    "listeners": 3453,
+    "titulo_lastfm": "Sattyg"
+   }
+  }
+ },
+ "kaipa-in-the-wake-of-evolution": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 2,
+    "listeners": 4926,
+    "titulo_lastfm": "In The Wake Of Evolution"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 3,
+    "listeners": 4275,
+    "titulo_lastfm": "In The Heart Of Her Own Magic Field"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 4,
+    "listeners": 3828,
+    "titulo_lastfm": "Electric Power Water Notes"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 5,
+    "listeners": 3470,
+    "titulo_lastfm": "The Words Are Like Leaves"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 8,
+    "listeners": 3292,
+    "titulo_lastfm": "Arcs Of Sound"
+   }
+  }
+ },
+ "kaipa-vittjar": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 7,
+    "listeners": 3420,
+    "titulo_lastfm": "First Distraction"
    }
   }
  },
@@ -4553,6 +5603,41 @@
     "puesto": 3,
     "listeners": 22778,
     "titulo_lastfm": "Stranger in Blue Suede Shoes - 1999 Remaster"
+   }
+  }
+ },
+ "khan-space-shanty": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 1,
+    "listeners": 9008,
+    "titulo_lastfm": "Space Shanty"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 2,
+    "listeners": 8132,
+    "titulo_lastfm": "Mixed Up Man Of The Mountains"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 3,
+    "listeners": 8117,
+    "titulo_lastfm": "Driving To Amsterdam"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 4,
+    "listeners": 7820,
+    "titulo_lastfm": "Stargazers"
    }
   }
  },
@@ -4997,6 +6082,69 @@
    }
   }
  },
+ "landberk-indian-summer": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 1,
+    "listeners": 2265,
+    "titulo_lastfm": "All Around Me"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 2,
+    "listeners": 2155,
+    "titulo_lastfm": "Humanize"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 3,
+    "listeners": 1795,
+    "titulo_lastfm": "1st of May"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 4,
+    "listeners": 1583,
+    "titulo_lastfm": "I Wish I Had a Boat"
+   },
+   "1:8": {
+    "medio": 1,
+    "n": 8,
+    "puesto": 5,
+    "listeners": 1574,
+    "titulo_lastfm": "Indian Summer"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 6,
+    "listeners": 1494,
+    "titulo_lastfm": "Dustgod"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 7,
+    "listeners": 1459,
+    "titulo_lastfm": "Dreamdance"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 8,
+    "listeners": 1317,
+    "titulo_lastfm": "Why Do I Still Sleep"
+   }
+  }
+ },
  "le-orme-ad-gloriam": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -5302,6 +6450,76 @@
     "puesto": 8,
     "listeners": 12783,
     "titulo_lastfm": "De Futura"
+   }
+  }
+ },
+ "marillion-misplaced-childhood": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 1,
+    "listeners": 274462,
+    "titulo_lastfm": "Kayleigh"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 2,
+    "listeners": 135098,
+    "titulo_lastfm": "Lavender"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 4,
+    "listeners": 54923,
+    "titulo_lastfm": "Pseudo Silk Kimono"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 7,
+    "listeners": 45935,
+    "titulo_lastfm": "Lords of the Backstage"
+   },
+   "1:10": {
+    "medio": 1,
+    "n": 10,
+    "puesto": 8,
+    "listeners": 45577,
+    "titulo_lastfm": "White Feather"
+   }
+  }
+ },
+ "marillion-script-for-a-jesters-tear": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 5,
+    "listeners": 51873,
+    "titulo_lastfm": "Garden Party"
+   }
+  }
+ },
+ "marillion-clutching-at-straws": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 6,
+    "listeners": 47975,
+    "titulo_lastfm": "Incommunicado"
    }
   }
  },
@@ -6558,6 +7776,160 @@
    }
   }
  },
+ "paatos-kallocain": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 1,
+    "listeners": 10112,
+    "titulo_lastfm": "Happiness"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 2,
+    "listeners": 9675,
+    "titulo_lastfm": "Gasoline"
+   },
+   "2:2": {
+    "medio": 2,
+    "n": 2,
+    "puesto": 2,
+    "listeners": 9675,
+    "titulo_lastfm": "Gasoline"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 3,
+    "listeners": 9106,
+    "titulo_lastfm": "Absinth Minded"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 4,
+    "listeners": 9036,
+    "titulo_lastfm": "Holding On"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 5,
+    "listeners": 7525,
+    "titulo_lastfm": "Look At Us"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 6,
+    "listeners": 7431,
+    "titulo_lastfm": "Reality"
+   },
+   "2:3": {
+    "medio": 2,
+    "n": 3,
+    "puesto": 6,
+    "listeners": 7431,
+    "titulo_lastfm": "Reality"
+   },
+   "1:9": {
+    "medio": 1,
+    "n": 9,
+    "puesto": 8,
+    "listeners": 7035,
+    "titulo_lastfm": "In Time"
+   }
+  }
+ },
+ "paatos-timeloss": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 7,
+    "listeners": 7180,
+    "titulo_lastfm": "Sensor"
+   }
+  }
+ },
+ "pallas-the-dreams-of-men": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 1,
+    "listeners": 8372,
+    "titulo_lastfm": "Northern Star"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 2,
+    "listeners": 6359,
+    "titulo_lastfm": "Too Close to the Sun"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 3,
+    "listeners": 5123,
+    "titulo_lastfm": "Warriors"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 4,
+    "listeners": 4164,
+    "titulo_lastfm": "Ghostdancers"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 5,
+    "listeners": 4010,
+    "titulo_lastfm": "Messiah"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 6,
+    "listeners": 3986,
+    "titulo_lastfm": "The Bringer Of Dreams"
+   },
+   "1:9": {
+    "medio": 1,
+    "n": 9,
+    "puesto": 7,
+    "listeners": 3969,
+    "titulo_lastfm": "The Last Angel"
+   }
+  }
+ },
+ "pallas-the-sentinel": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 8,
+    "listeners": 3954,
+    "titulo_lastfm": "Cut And Run"
+   }
+  }
+ },
  "pastoral-en-el-hospicio": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -6653,6 +8025,125 @@
     "puesto": 6,
     "listeners": 358,
     "titulo_lastfm": "Aquí Luis"
+   }
+  }
+ },
+ "pendragon-men-who-climb-mountains": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "2:7": {
+    "medio": 2,
+    "n": 7,
+    "puesto": 1,
+    "listeners": 7645,
+    "titulo_lastfm": "Indigo"
+   },
+   "2:5": {
+    "medio": 2,
+    "n": 5,
+    "puesto": 2,
+    "listeners": 6816,
+    "titulo_lastfm": "Paintbox"
+   },
+   "2:12": {
+    "medio": 2,
+    "n": 12,
+    "puesto": 4,
+    "listeners": 5291,
+    "titulo_lastfm": "It's Only Me"
+   },
+   "2:1": {
+    "medio": 2,
+    "n": 1,
+    "puesto": 7,
+    "listeners": 4935,
+    "titulo_lastfm": "The Voyager"
+   }
+  }
+ },
+ "pendragon-pure": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 1,
+    "listeners": 7645,
+    "titulo_lastfm": "Indigo"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 3,
+    "listeners": 5475,
+    "titulo_lastfm": "Eraserhead"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 4,
+    "listeners": 5291,
+    "titulo_lastfm": "It's Only Me"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 6,
+    "listeners": 5100,
+    "titulo_lastfm": "The Freak Show"
+   }
+  }
+ },
+ "pendragon-the-masquerade-overture": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 2,
+    "listeners": 6816,
+    "titulo_lastfm": "Paintbox"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 5,
+    "listeners": 5166,
+    "titulo_lastfm": "As Good as Gold"
+   }
+  }
+ },
+ "pendragon-the-world": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 7,
+    "listeners": 4935,
+    "titulo_lastfm": "The Voyager"
+   }
+  }
+ },
+ "pendragon-the-window-of-life-1993": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 8,
+    "listeners": 4818,
+    "titulo_lastfm": "Breaking the Spell"
    }
   }
  },
@@ -7202,6 +8693,62 @@
    }
   }
  },
+ "quiet-sun-mainstream": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 1,
+    "listeners": 4020,
+    "titulo_lastfm": "Sol Caliente"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 2,
+    "listeners": 3456,
+    "titulo_lastfm": "Trumpets With Motherhood"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 3,
+    "listeners": 3420,
+    "titulo_lastfm": "Bargain Classics"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 4,
+    "listeners": 3074,
+    "titulo_lastfm": "Trot"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 5,
+    "listeners": 2924,
+    "titulo_lastfm": "RongWrong"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 6,
+    "listeners": 2738,
+    "titulo_lastfm": "Mummy Was An Asteroid, Daddy Was A Small Non-Stick Kitchen Utensil"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 7,
+    "listeners": 2416,
+    "titulo_lastfm": "R.F.D."
+   }
+  }
+ },
  "quintessence-in-blissful-company": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -7269,6 +8816,69 @@
     "puesto": 3,
     "listeners": 3377,
     "titulo_lastfm": "Butterfly Music"
+   }
+  }
+ },
+ "ragnarok-se-ragnarok": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 1,
+    "listeners": 4147,
+    "titulo_lastfm": "Promenader"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 2,
+    "listeners": 4139,
+    "titulo_lastfm": "Dagarnas Skum"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 3,
+    "listeners": 3708,
+    "titulo_lastfm": "Nybakat Bröd"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 4,
+    "listeners": 3572,
+    "titulo_lastfm": "Fabriksfunky"
+   },
+   "1:8": {
+    "medio": 1,
+    "n": 8,
+    "puesto": 5,
+    "listeners": 3434,
+    "titulo_lastfm": "Fjottot"
+   },
+   "1:10": {
+    "medio": 1,
+    "n": 10,
+    "puesto": 6,
+    "listeners": 3276,
+    "titulo_lastfm": "Vattenpussar"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 7,
+    "listeners": 2764,
+    "titulo_lastfm": "Polska Från Kalmar"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 8,
+    "listeners": 2742,
+    "titulo_lastfm": "Tatanga Mani"
    }
   }
  },
@@ -9547,6 +11157,160 @@
    }
   }
  },
+ "trettioariga-kriget-trettioariga-kriget": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 1,
+    "listeners": 2409,
+    "titulo_lastfm": "Ur djupen"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 4,
+    "listeners": 1874,
+    "titulo_lastfm": "Kaledoniska Orogenesen"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 6,
+    "listeners": 1624,
+    "titulo_lastfm": "Röster från minus till plus"
+   }
+  }
+ },
+ "trettioariga-kriget-krigssang": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 2,
+    "listeners": 2267,
+    "titulo_lastfm": "Krigssång"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 5,
+    "listeners": 1739,
+    "titulo_lastfm": "Metamorfoser"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 7,
+    "listeners": 1518,
+    "titulo_lastfm": "Mitt mirakel"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 8,
+    "listeners": 1500,
+    "titulo_lastfm": "Murar"
+   }
+  }
+ },
+ "trettioariga-kriget-hej-pa-er": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 3,
+    "listeners": 1890,
+    "titulo_lastfm": "Hej på er"
+   }
+  }
+ },
+ "twelfth-night-fact-and-fiction": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 1,
+    "listeners": 1634,
+    "titulo_lastfm": "We Are Sane"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 2,
+    "listeners": 1502,
+    "titulo_lastfm": "Creepshow"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 3,
+    "listeners": 1183,
+    "titulo_lastfm": "Fact and Fiction"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 4,
+    "listeners": 1183,
+    "titulo_lastfm": "This City"
+   },
+   "1:8": {
+    "medio": 1,
+    "n": 8,
+    "puesto": 5,
+    "listeners": 1135,
+    "titulo_lastfm": "Love Song"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 6,
+    "listeners": 1094,
+    "titulo_lastfm": "Human Being"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 7,
+    "listeners": 1038,
+    "titulo_lastfm": "The Poet Sniffs a Flower"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 8,
+    "listeners": 971,
+    "titulo_lastfm": "World Without End"
+   }
+  }
+ },
+ "twelfth-night-smiling-at-grief": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 4,
+    "listeners": 1183,
+    "titulo_lastfm": "This City"
+   }
+  }
+ },
  "united-states-of-america-the-united-states-of-america": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -10107,6 +11871,76 @@
    }
   }
  },
+ "white-willow-storm-season": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 1,
+    "listeners": 4398,
+    "titulo_lastfm": "Chemical Sunset"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 2,
+    "listeners": 3692,
+    "titulo_lastfm": "Endless Science"
+   },
+   "1:6": {
+    "medio": 1,
+    "n": 6,
+    "puesto": 3,
+    "listeners": 3650,
+    "titulo_lastfm": "Storm Season"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 4,
+    "listeners": 3590,
+    "titulo_lastfm": "Sally Left"
+   },
+   "1:4": {
+    "medio": 1,
+    "n": 4,
+    "puesto": 5,
+    "listeners": 3371,
+    "titulo_lastfm": "Soulburn"
+   },
+   "1:5": {
+    "medio": 1,
+    "n": 5,
+    "puesto": 6,
+    "listeners": 3226,
+    "titulo_lastfm": "Insomnia"
+   },
+   "1:7": {
+    "medio": 1,
+    "n": 7,
+    "puesto": 8,
+    "listeners": 2905,
+    "titulo_lastfm": "Nightside Of Eden"
+   }
+  }
+ },
+ "white-willow-signal-to-noise": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 7,
+    "listeners": 3150,
+    "titulo_lastfm": "Night Surf"
+   }
+  }
+ },
  "who-whos-next": {
   "fuente": "last.fm artist.getTopTracks",
   "capturado": "2026-09-19",
@@ -10202,6 +12036,83 @@
     "puesto": 8,
     "listeners": 426668,
     "titulo_lastfm": "Eminence Front"
+   }
+  }
+ },
+ "wobbler-from-silence-to-somewhere": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 1,
+    "listeners": 7519,
+    "titulo_lastfm": "Rendered in Shades of Green"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 3,
+    "listeners": 7402,
+    "titulo_lastfm": "From Silence to Somewhere"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 6,
+    "listeners": 4871,
+    "titulo_lastfm": "Fermented Hours"
+   }
+  }
+ },
+ "wobbler-dwellers-of-the-deep": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 2,
+    "listeners": 7445,
+    "titulo_lastfm": "Five Rooms"
+   },
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 5,
+    "listeners": 5522,
+    "titulo_lastfm": "By the Banks"
+   },
+   "1:3": {
+    "medio": 1,
+    "n": 3,
+    "puesto": 8,
+    "listeners": 4533,
+    "titulo_lastfm": "Naiad Dreams"
+   }
+  }
+ },
+ "wobbler-afterglow": {
+  "fuente": "last.fm artist.getTopTracks",
+  "capturado": "2026-09-19",
+  "nota": "posición dentro de las más escuchadas de su artista, no del atlas",
+  "pistas": {
+   "1:1": {
+    "medio": 1,
+    "n": 1,
+    "puesto": 4,
+    "listeners": 7354,
+    "titulo_lastfm": "The Haywain"
+   },
+   "1:2": {
+    "medio": 1,
+    "n": 2,
+    "puesto": 7,
+    "listeners": 4798,
+    "titulo_lastfm": "Imperial Winter White"
    }
   }
  },

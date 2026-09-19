@@ -1,0 +1,473 @@
+{
+  "area": {
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "sort-name": "United Kingdom",
+    "type-id": null,
+    "type": null,
+    "disambiguation": ""
+  },
+  "gender": null,
+  "ipis": [],
+  "country": "GB",
+  "sort-name": "In Cahoots",
+  "gender-id": null,
+  "begin-area": null,
+  "id": "ea2ee86c-e163-4bd9-aca0-2d3980542b50",
+  "name": "In Cahoots",
+  "isnis": [],
+  "end-area": null,
+  "disambiguation": "",
+  "type": "Group",
+  "life-span": {
+    "ended": false,
+    "end": null,
+    "begin": "1982"
+  },
+  "relations": [
+    {
+      "artist": {
+        "name": "Richard Sinclair",
+        "id": "cdc2328b-626c-46ec-89fe-d6dd265f458b",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Sinclair, Richard",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB"
+      },
+      "type": "member of band",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": "1982",
+      "end": "1985",
+      "target-credit": "",
+      "attributes": [
+        "bass guitar",
+        "original"
+      ],
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "begin": "1982",
+      "end": "1987",
+      "type": "member of band",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "id": "5e1cbb8f-bba0-4ab3-87c5-1c5c38269565",
+        "name": "Peter Lemer",
+        "sort-name": "Lemer, Peter",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "English jazz musician",
+        "type": "Person",
+        "country": "GB"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-values": {},
+      "attribute-credits": {}
+    },
+    {
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1982",
+      "end": "2002",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB",
+        "sort-name": "Pyle, Pip",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Pip Pyle",
+        "id": "19ed89d3-30aa-4f66-8992-822a48e8aa6c"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-credits": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist",
+      "artist": {
+        "disambiguation": "British bassist",
+        "type": "Person",
+        "country": "GB",
+        "sort-name": "Hopper, Hugh",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a3626f69-2434-4e51-819c-6d4751abc51d",
+        "name": "Hugh Hopper"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "source-credit": "",
+      "end": "1988",
+      "begin": "1985",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist",
+      "artist": {
+        "id": "d4d273d6-d5be-48ca-a0aa-e8b7ae619084",
+        "name": "Fred T. Baker",
+        "sort-name": "Baker, Fred T.",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "begin": "1988",
+      "end": null,
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "bass guitar"
+      ]
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Baker, Fred T.",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB",
+        "name": "Fred T. Baker",
+        "id": "d4d273d6-d5be-48ca-a0aa-e8b7ae619084"
+      },
+      "type": "member of band",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "begin": "1988",
+      "end": null,
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "electric guitar"
+      ]
+    },
+    {
+      "attribute-credits": {},
+      "attribute-values": {},
+      "attribute-ids": {
+        "trumpet": "1c8f9780-2f16-4891-b66d-bb7aa0820dbd"
+      },
+      "target-type": "artist",
+      "artist": {
+        "id": "8901d1b0-09a0-4eb2-9440-8a24c580914c",
+        "name": "Jim Dvorak",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Dvorak, Jim",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "type": "member of band",
+      "end": null,
+      "begin": "1990",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "trumpet"
+      ]
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "member of band",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "artist": {
+        "name": "Peter Lemer",
+        "id": "5e1cbb8f-bba0-4ab3-87c5-1c5c38269565",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "English jazz musician",
+        "sort-name": "Lemer, Peter",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "end": null,
+      "begin": "1991"
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "begin": "2002",
+      "end": null,
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "artist": {
+        "name": "Mark Fletcher",
+        "id": "00ab9f2d-c166-4706-b367-27896442cf3d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Fletcher, Mark",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "drums"
+      },
+      "type": "member of band",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": ""
+    },
+    {
+      "attributes": [
+        "saxophone"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "2005",
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "artist": {
+        "id": "166a1d07-62cd-4b26-8021-c339d4cc0894",
+        "name": "Theo Travis",
+        "type": "Person",
+        "disambiguation": "British saxophonist, flautist and clarinetist",
+        "country": "GB",
+        "sort-name": "Travis, Theo",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "saxophone": "a9ed16cd-b8cb-4256-9c41-93f5f0458c49"
+      },
+      "attribute-credits": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {
+        "alto saxophone": "9c977091-b27a-4a0e-b54e-b5ab89420e22"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "alto saxophone"
+      ],
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "sort-name": "Dean, Elton",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "7dae06a6-6d49-47f8-ac55-317d670e6139",
+        "name": "Elton Dean"
+      },
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "type": "member of band"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "name": "Simon Finch",
+        "id": "e54e8707-837c-4aa4-a7be-deb95938de5f",
+        "type": "Person",
+        "country": null,
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Finch, Simon"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "begin": null,
+      "end": null
+    },
+    {
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "electric guitar": "7ee8ebf5-3aed-4fc8-8004-49f4a8c45a87"
+      },
+      "target-type": "artist",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "begin": null,
+      "end": null,
+      "attributes": [
+        "electric guitar",
+        "original"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "UK Canterbury progressive rock/jazz guitarist",
+        "sort-name": "Miller, Phil",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Phil Miller",
+        "id": "68ccb6f8-4f38-4c2b-9d4f-12151138aa80"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "type": "discogs",
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "url": {
+        "resource": "https://www.discogs.com/artist/1358432",
+        "id": "8742ade1-8efb-4133-86e8-3074bfe676b9"
+      },
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": false,
+      "url": {
+        "id": "6a69e77e-7a0c-4fcb-b964-fd23052e6aef",
+        "resource": "http://philmillerincahoots.com/"
+      },
+      "type": "official homepage",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "1b1f2e62-06e2-4207-a72e-ebbb9efd7d55",
+        "resource": "https://rateyourmusic.com/artist/in_cahoots"
+      }
+    },
+    {
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "url": {
+        "id": "540c01dd-6eb3-4ba3-be93-62323942236b",
+        "resource": "https://www.wikidata.org/wiki/Q744854"
+      },
+      "ended": false,
+      "type": "wikidata",
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": []
+}

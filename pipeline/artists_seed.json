@@ -1128,6 +1128,259 @@
    "type": "Group",
    "country": "JP",
    "nota": "Koenji Hyakkei; MusicBrainz la indexa con su nombre japonés"
+  },
+  {
+   "slug": "marillion",
+   "name": "Marillion",
+   "grupo": "neoprog",
+   "fase": 4,
+   "escena": "neoprog",
+   "type": "Group",
+   "country": "GB"
+  },
+  {
+   "slug": "iq",
+   "name": "IQ",
+   "grupo": "neoprog",
+   "fase": 4,
+   "escena": "neoprog",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation_hint": "neo-progressive"
+  },
+  {
+   "slug": "pendragon",
+   "name": "Pendragon",
+   "grupo": "neoprog",
+   "fase": 4,
+   "escena": "neoprog",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation_hint": "neo-prog"
+  },
+  {
+   "slug": "pallas",
+   "name": "Pallas",
+   "grupo": "neoprog",
+   "fase": 4,
+   "escena": "neoprog",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation_hint": "scottish"
+  },
+  {
+   "slug": "twelfth-night",
+   "name": "Twelfth Night",
+   "grupo": "neoprog",
+   "fase": 4,
+   "escena": "neoprog",
+   "type": "Group",
+   "country": "GB"
+  },
+  {
+   "slug": "arena",
+   "name": "Arena",
+   "grupo": "neoprog",
+   "fase": 4,
+   "escena": "neoprog",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation_hint": "neo-prog"
+  },
+  {
+   "slug": "jadis",
+   "name": "Jadis",
+   "grupo": "neoprog",
+   "fase": 4,
+   "escena": "neoprog",
+   "type": "Group",
+   "country": "GB"
+  },
+  {
+   "slug": "galahad",
+   "name": "Galahad",
+   "grupo": "neoprog",
+   "fase": 4,
+   "escena": "neoprog",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation_hint": "neo-prog"
+  },
+  {
+   "slug": "solstice",
+   "name": "Solstice",
+   "grupo": "neoprog",
+   "fase": 4,
+   "escena": "neoprog",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation_hint": "neo"
+  },
+  {
+   "slug": "kaipa",
+   "name": "Kaipa",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "SE"
+  },
+  {
+   "slug": "trettioariga-kriget",
+   "name": "Trettioåriga Kriget",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "SE"
+  },
+  {
+   "slug": "ragnarok-se",
+   "name": "Ragnarök",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation_hint": "swedish"
+  },
+  {
+   "slug": "isildurs-bane",
+   "name": "Isildurs Bane",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "SE"
+  },
+  {
+   "slug": "anglagard",
+   "name": "Änglagård",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "SE"
+  },
+  {
+   "slug": "anekdoten",
+   "name": "Anekdoten",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "SE"
+  },
+  {
+   "slug": "landberk",
+   "name": "Landberk",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "SE"
+  },
+  {
+   "slug": "wobbler",
+   "name": "Wobbler",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "NO"
+  },
+  {
+   "slug": "white-willow",
+   "name": "White Willow",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "NO"
+  },
+  {
+   "slug": "flower-kings",
+   "name": "The Flower Kings",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "SE"
+  },
+  {
+   "slug": "paatos",
+   "name": "Paatos",
+   "grupo": "escandinavia",
+   "fase": 10,
+   "escena": "escandinavia",
+   "type": "Group",
+   "country": "SE"
+  },
+  {
+   "slug": "gilgamesh",
+   "name": "Gilgamesh",
+   "grupo": "canterbury",
+   "fase": 11,
+   "escena": "canterbury",
+   "type": "Group",
+   "country": "GB"
+  },
+  {
+   "slug": "soft-heap",
+   "name": "Soft Heap",
+   "grupo": "canterbury",
+   "fase": 11,
+   "escena": "canterbury",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation_hint": "canterbury"
+  },
+  {
+   "slug": "hugh-hopper",
+   "name": "Hugh Hopper",
+   "grupo": "canterbury",
+   "fase": 11,
+   "escena": "canterbury",
+   "type": "Person",
+   "country": "GB"
+  },
+  {
+   "slug": "in-cahoots",
+   "name": "In Cahoots",
+   "grupo": "canterbury",
+   "fase": 11,
+   "escena": "canterbury",
+   "type": "Group",
+   "country": "GB"
+  },
+  {
+   "slug": "quiet-sun",
+   "name": "Quiet Sun",
+   "grupo": "canterbury",
+   "fase": 11,
+   "escena": "canterbury",
+   "type": "Group",
+   "country": "GB"
+  },
+  {
+   "slug": "delivery",
+   "name": "Delivery",
+   "grupo": "canterbury",
+   "fase": 11,
+   "escena": "canterbury",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation_hint": "canterbury"
+  },
+  {
+   "slug": "khan",
+   "name": "Khan",
+   "grupo": "canterbury",
+   "fase": 11,
+   "escena": "canterbury",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation_hint": "canterbury"
   }
  ]
 }

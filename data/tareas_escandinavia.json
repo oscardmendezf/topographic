@@ -1,0 +1,1042 @@
+{
+ "grupos": [
+  {
+   "id": "esc-pioneros",
+   "escena": "escandinavia",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "kaipa",
+     "nombre": "Kaipa",
+     "tipo": "Group",
+     "pais": "SE",
+     "inicio": "1973",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Kaipa",
+     "formaciones_mb": [
+      "Roine Stolt (miembro; 1974–1979)",
+      "Max Åhman (miembro; 1979–1982)",
+      "Per Andersson (membranophone; 1982–1982)",
+      "Roine Stolt (miembro; 2000–2005)",
+      "Jonas Reingold (miembro; 2000–act.)",
+      "Per Nilsson (guitar; 2006–act.)",
+      "Per Andersson (miembro; ?–act.)",
+      "Ingemar Bergman (miembro; ?–act.)",
+      "Tomas Eriksson (miembro; ?–act.)",
+      "Hans Lundin (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "kaipa-kaipa",
+       "titulo": "Kaipa",
+       "anio": 1975,
+       "mbid": "b33c690a-cf54-3bd2-af54-00ec6172a477",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-inget-nytt-under-solen",
+       "titulo": "Inget nytt under solen",
+       "anio": 1976,
+       "mbid": "c999d741-5029-334b-acc7-e720306d3a68",
+       "primer_lanzamiento": "1976",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-solo",
+       "titulo": "Solo",
+       "anio": 1978,
+       "mbid": "f923330f-90c6-3195-90bf-5520df376506",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-hander",
+       "titulo": "Händer",
+       "anio": 1980,
+       "mbid": "fda8152a-ac7c-3c75-a62e-f4740371bae7",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-nattdjurstid",
+       "titulo": "Nattdjurstid",
+       "anio": 1982,
+       "mbid": "e946d59a-ae26-33ab-b8ad-31999c6216e8",
+       "primer_lanzamiento": "1982",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-notes-from-the-past",
+       "titulo": "Notes From the Past",
+       "anio": 2002,
+       "mbid": "75de8500-1ba7-3bcf-adc2-510b3c0ad33e",
+       "primer_lanzamiento": "2002-03-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-keyholder",
+       "titulo": "Keyholder",
+       "anio": 2003,
+       "mbid": "7c8b326a-bd56-39f1-a23b-aab2c101b4ab",
+       "primer_lanzamiento": "2003-08-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-mindrevolutions",
+       "titulo": "Mindrevolutions",
+       "anio": 2005,
+       "mbid": "0a1ef2e0-1b95-3ed4-9097-6ecfb0f418eb",
+       "primer_lanzamiento": "2005-05-30",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-angling-feelings",
+       "titulo": "Angling Feelings",
+       "anio": 2007,
+       "mbid": "66f5cfec-86a9-3286-a04d-415e3001d217",
+       "primer_lanzamiento": "2007-05-18",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-in-the-wake-of-evolution",
+       "titulo": "In the Wake of Evolution",
+       "anio": 2010,
+       "mbid": "c2265d50-6cf8-4656-b2fe-141274e89a94",
+       "primer_lanzamiento": "2010-03-15",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-vittjar",
+       "titulo": "Vittjar",
+       "anio": 2012,
+       "mbid": "4f878f09-bd60-4462-98ed-6d50fe3c11c2",
+       "primer_lanzamiento": "2012-08-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-sattyg",
+       "titulo": "Sattyg",
+       "anio": 2014,
+       "mbid": "19cedf05-2f47-4866-9ca3-1c692961abec",
+       "primer_lanzamiento": "2014-11-07",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-children-of-the-sounds",
+       "titulo": "Children of the Sounds",
+       "anio": 2017,
+       "mbid": "3e350c37-b5b9-449b-842b-8aba1b87f61a",
+       "primer_lanzamiento": "2017-09-22",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-urskog",
+       "titulo": "Urskog",
+       "anio": 2022,
+       "mbid": "a631a9a4-e03c-4792-bf69-83956f09fae1",
+       "primer_lanzamiento": "2022-04-29",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "kaipa-sommargryningsljus",
+       "titulo": "Sommargryningsljus",
+       "anio": 2024,
+       "mbid": "9cd7cdc4-45cb-481d-b2c3-c5281f4ef8d8",
+       "primer_lanzamiento": "2024-06-28",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "trettioariga-kriget",
+     "nombre": "Trettioåriga kriget",
+     "tipo": "Group",
+     "pais": "SE",
+     "inicio": "1970",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Trettio%C3%A5riga_Kriget",
+     "formaciones_mb": [],
+     "catalogo": [
+      {
+       "album_slug": "trettioariga-kriget-trettioariga-kriget",
+       "titulo": "Trettioåriga kriget",
+       "anio": 1974,
+       "mbid": "65a1a720-c8a5-3034-a21e-c939a2676612",
+       "primer_lanzamiento": "1974",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "trettioariga-kriget-krigssang",
+       "titulo": "Krigssång",
+       "anio": 1975,
+       "mbid": "fa08c8fa-78e2-3d05-9ddd-2f16ceeb17c0",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "trettioariga-kriget-hej-pa-er",
+       "titulo": "Hej på er!",
+       "anio": 1978,
+       "mbid": "80319d31-bad0-3ddd-acc8-16af7ce04b9a",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "trettioariga-kriget-mot-alla-odds",
+       "titulo": "Mot alla odds",
+       "anio": 1979,
+       "mbid": "2309c908-7868-3748-837b-88701c718e04",
+       "primer_lanzamiento": "1979",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "trettioariga-kriget-kriget",
+       "titulo": "Kriget",
+       "anio": 1981,
+       "mbid": "8581e158-f48a-450c-b9b2-50646eb007a1",
+       "primer_lanzamiento": "1981",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "trettioariga-kriget-elden-av-ar",
+       "titulo": "Elden av år",
+       "anio": 2004,
+       "mbid": "7b2c1d2d-28f6-3cc1-ab7d-ea023a138a56",
+       "primer_lanzamiento": "2004-03-17",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "trettioariga-kriget-i-borjan-och-slutet",
+       "titulo": "I början och slutet",
+       "anio": 2007,
+       "mbid": "ac6ffdee-63de-39a7-82bb-027d484e47e5",
+       "primer_lanzamiento": "2007",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "trettioariga-kriget-efter-efter",
+       "titulo": "Efter Efter",
+       "anio": 2011,
+       "mbid": "72c6f439-e73f-4c9e-9132-c6fcf774da00",
+       "primer_lanzamiento": "2011",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "trettioariga-kriget-seaside-air",
+       "titulo": "Seaside Air",
+       "anio": 2016,
+       "mbid": "7316fba7-63e1-4975-a3d1-0b2bb8878a24",
+       "primer_lanzamiento": "2016-03-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "trettioariga-kriget-till-horisonten",
+       "titulo": "Till horisonten",
+       "anio": 2021,
+       "mbid": "bf63ea8a-e44f-4d62-959e-8b785c7f59fb",
+       "primer_lanzamiento": "2021-03-26",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "ragnarok-se",
+     "nombre": "Ragnarök",
+     "tipo": "Group",
+     "pais": "SE",
+     "inicio": "1972",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Ragnar%C3%B6k_(Swedish_band)",
+     "formaciones_mb": [
+      "Peter Bryngelsson (original; ?–act.)",
+      "Kjell Karlgren (miembro; ?–act.)",
+      "Peder Nabo (miembro; ?–act.)",
+      "Henrik Strindberg (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "ragnarok-se-ragnarok",
+       "titulo": "Ragnarök",
+       "anio": 1976,
+       "mbid": "11d3e98a-0855-3c0e-965f-821c7783fc7c",
+       "primer_lanzamiento": "1976-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "ragnarok-se-fjarilar-i-magen",
+       "titulo": "Fjärilar i magen",
+       "anio": 1979,
+       "mbid": "e6850d76-8d83-42ed-9548-beba335efd13",
+       "primer_lanzamiento": "1979",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "ragnarok-se-fata-morgana",
+       "titulo": "Fata Morgana",
+       "anio": 1981,
+       "mbid": "bafdda51-daad-3dc1-a219-5866ae6f20e9",
+       "primer_lanzamiento": "1981",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "ragnarok-se-3-signs",
+       "titulo": "3 Signs",
+       "anio": 1983,
+       "mbid": "79325f3d-e355-4cb5-8052-cfbf572dd174",
+       "primer_lanzamiento": "1983",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "ragnarok-se-well",
+       "titulo": "Well",
+       "anio": 1991,
+       "mbid": "83ce08ca-bba2-36b4-8dcd-a64b7c03498d",
+       "primer_lanzamiento": "1991",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "ragnarok-se-path",
+       "titulo": "Path",
+       "anio": 2008,
+       "mbid": "94fe0b23-97f0-4347-8187-b472a13a6fb7",
+       "primer_lanzamiento": "2008",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "esc-renacimiento",
+   "escena": "escandinavia",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "anglagard",
+     "nombre": "Änglagård",
+     "tipo": "Group",
+     "pais": "SE",
+     "inicio": "1991",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/%C3%84nglag%C3%A5rd",
+     "formaciones_mb": [
+      "Jonas Engdegård (guitar; 1991–1994)",
+      "Johan Högberg (bass; 1991–1995)",
+      "Thomas Johnson (keyboard; 1991–1995)",
+      "Tord Lindman (guitar; 1991–1995)",
+      "Mattias Olsson (membranophone, percussion; 1991–1995)",
+      "Anna Holmgren (flute; 1992–1995)",
+      "Jonas Engdegård (guitar; 2002–2003)",
+      "Johan Högberg (bass; 2002–2003)",
+      "Anna Holmgren (flute; 2002–2003)",
+      "Thomas Johnson (miembro; 2002–2003)",
+      "Mattias Olsson (percussion; 2002–2003)",
+      "Mattias Olsson (membranophone; 2002–2003)",
+      "Jonas Engdegård (guitar; 2009–2012)",
+      "Thomas Johnson (miembro; 2009–2012)",
+      "Mattias Olsson (percussion; 2009–2012)",
+      "Mattias Olsson (membranophone; 2009–2012)",
+      "Johan Högberg (bass; 2009–act.)",
+      "Anna Holmgren (flute; 2009–act.)",
+      "Erik Hammarström (percussion; 2012–act.)",
+      "Erik Hammarström (membranophone; 2012–act.)",
+      "Linus Kåse (keyboard; 2012–act.)",
+      "Tord Lindman (guitar; 2012–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "anglagard-hybris",
+       "titulo": "Hybris",
+       "anio": 1992,
+       "mbid": "4097634d-c84d-397f-bc1e-93e59703a7d5",
+       "primer_lanzamiento": "1992-09-14",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "anglagard-epilog",
+       "titulo": "Epilog",
+       "anio": 1994,
+       "mbid": "40b15b3f-8004-3c55-91f7-5744124e3d0e",
+       "primer_lanzamiento": "1994-08-28",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "anglagard-mexico-1993",
+       "titulo": "Mexico 1993",
+       "anio": 2005,
+       "mbid": "83b56d2a-b668-4ca8-91f3-176747b239b1",
+       "primer_lanzamiento": "2005",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "anglagard-viljans-oga",
+       "titulo": "Viljans öga",
+       "anio": 2012,
+       "mbid": "9d9a48e7-a239-4242-9ac1-2ebac1e5cb04",
+       "primer_lanzamiento": "2012-06-29",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "anekdoten",
+     "nombre": "Anekdoten",
+     "tipo": "Group",
+     "pais": "SE",
+     "inicio": "1991",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Anekdoten",
+     "formaciones_mb": [
+      "Nicklas Barker (miembro; ?–act.)",
+      "Peter Nordins (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "anekdoten-vemod",
+       "titulo": "Vemod",
+       "anio": 1993,
+       "mbid": "5cefe032-d073-3e4d-8a69-603191df9ebb",
+       "primer_lanzamiento": "1993-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "anekdoten-nucleus",
+       "titulo": "Nucleus",
+       "anio": 1995,
+       "mbid": "ebacd25b-3930-3fec-aea7-e9a8a86cd762",
+       "primer_lanzamiento": "1995-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "anekdoten-from-within",
+       "titulo": "From Within",
+       "anio": 1999,
+       "mbid": "2d78627a-24e1-3334-b841-5f7a6ca05a14",
+       "primer_lanzamiento": "1999-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "anekdoten-gravity",
+       "titulo": "Gravity",
+       "anio": 2003,
+       "mbid": "b9a86c73-16ad-361e-acb7-450c492a2645",
+       "primer_lanzamiento": "2003-06-20",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "anekdoten-a-time-of-day",
+       "titulo": "A Time of Day",
+       "anio": 2007,
+       "mbid": "1f173b62-422c-3079-acbc-cb1d196e7672",
+       "primer_lanzamiento": "2007-04-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "anekdoten-until-all-the-ghosts-are-gone",
+       "titulo": "Until All the Ghosts Are Gone",
+       "anio": 2015,
+       "mbid": "2b52c4df-2ace-4a50-9afa-8c150d46bcc1",
+       "primer_lanzamiento": "2015-04-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "anekdoten-shooting-star",
+       "titulo": "Shooting Star",
+       "anio": 2016,
+       "mbid": "206f7cd0-ae5e-4c2a-bef7-9ccafc7339f4",
+       "primer_lanzamiento": "2016-04-16",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "landberk",
+     "nombre": "Landberk",
+     "tipo": "Group",
+     "pais": "SE",
+     "inicio": "1992",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Landberk",
+     "formaciones_mb": [
+      "Stefan Dimle (bass guitar; 1992–1996)",
+      "Reine Fiske (guitar; 1992–1996)",
+      "Patric Helje (lead vocals; 1992–1996)",
+      "Jonas Lindholm (membranophone; 1992–1996)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "landberk-lonely-land",
+       "titulo": "Lonely Land",
+       "anio": 1992,
+       "mbid": "2af48904-64d4-3bb7-9242-71a1040f957a",
+       "primer_lanzamiento": "1992",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "landberk-riktigt-akta",
+       "titulo": "Riktigt äkta",
+       "anio": 1992,
+       "mbid": "3c0d29be-6e8f-35b2-9259-2c92c5ac8faf",
+       "primer_lanzamiento": "1992",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "landberk-one-man-tell-s-another",
+       "titulo": "One Man Tell's Another",
+       "anio": 1994,
+       "mbid": "bee41cc7-78e9-3f36-9196-d1024e916fc9",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "landberk-indian-summer",
+       "titulo": "Indian Summer",
+       "anio": 1996,
+       "mbid": "a6f90b70-1a02-32de-bbbb-74c7e16741b0",
+       "primer_lanzamiento": "1996-01-01",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "esc-noruega",
+   "escena": "escandinavia",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "wobbler",
+     "nombre": "Wobbler",
+     "tipo": "Group",
+     "pais": "NO",
+     "inicio": "1999",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Wobbler_(band)",
+     "formaciones_mb": [
+      "Andreas Wettergreen Strømman Prestmo (miembro; 2010–act.)",
+      "Marius Halleland (miembro; 2014–act.)",
+      "Morten Andreas Eriksen (miembro; ?–act.)",
+      "Lars Fredrik Frøislie (original; ?–act.)",
+      "Kristian Karl Hultgren (original; ?–act.)",
+      "Tony Johannessen (miembro; ?–act.)",
+      "Martin Nordrum Kneppen (original; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "wobbler-hinterland",
+       "titulo": "Hinterland",
+       "anio": 2005,
+       "mbid": "fc93705a-87a9-371f-b58f-3db591f67d12",
+       "primer_lanzamiento": "2005",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "wobbler-afterglow",
+       "titulo": "Afterglow",
+       "anio": 2009,
+       "mbid": "dfb78377-8e0d-3277-87ae-88d00ba2804d",
+       "primer_lanzamiento": "2009",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "wobbler-rites-at-dawn",
+       "titulo": "Rites at Dawn",
+       "anio": 2011,
+       "mbid": "f265cd15-f032-41f3-8d0b-dc657e1cc333",
+       "primer_lanzamiento": "2011",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "wobbler-from-silence-to-somewhere",
+       "titulo": "From Silence to Somewhere",
+       "anio": 2017,
+       "mbid": "50611699-5ddd-4cdb-88c4-4efb9ef4a5c3",
+       "primer_lanzamiento": "2017-10-20",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "wobbler-dwellers-of-the-deep",
+       "titulo": "Dwellers of the Deep",
+       "anio": 2020,
+       "mbid": "ae504fd6-8498-463e-8d96-14f9e11d1863",
+       "primer_lanzamiento": "2020-10-23",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "white-willow",
+     "nombre": "White Willow",
+     "tipo": "Group",
+     "pais": "NO",
+     "inicio": "1995",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/White_Willow",
+     "formaciones_mb": [
+      "Peter B. Albers (bass guitar; 1993–1995)",
+      "Henning Eidem (drums (drum set); 1993–1995)",
+      "Audun Kjus (flute; 1993–1995)",
+      "Jan Tariq Rahman (keyboard; 1993–1998)",
+      "Eldrid Johansen (lead vocals; 1995–1995)",
+      "Tirill Mohn (violin; 1995–1995)",
+      "Frode Lia (bass guitar; 1998–1998)",
+      "Mattias Olsson (drums (drum set); 1998–1998)",
+      "Sylvia Skjellestad (lead vocals; 1998–2004)",
+      "Brynjar Dambo (miembro; 2000–2000)",
+      "Johannes Sæbøe (guitar; 2000–2000)",
+      "Johannes Sæbøe (bass guitar; 2000–2000)",
+      "Ketil Vestrum Einarsen (flute; 2000–2007)",
+      "Aage Moltke Schou (drums (drum set); 2000–2007)",
+      "Johannes Sæbøe (guitar; 2004–2004)",
+      "Johannes Sæbøe (bass guitar; 2004–2004)",
+      "Marthe Berger Walthinsen (bass guitar; 2004–2007)",
+      "Lars Fredrik Frøislie (keyboard; 2004–act.)",
+      "Trude Eidtang (lead vocals; 2005–2007)",
+      "Mattias Olsson (drums (drum set); 2009–act.)",
+      "Sylvia Skjellestad (lead vocals; 2010–2016)",
+      "Ketil Vestrum Einarsen (flute; 2010–act.)",
+      "Ellen Andrea Wang (bass guitar; 2010–act.)",
+      "Venke Knutson (lead vocals; 2016–act.)",
+      "Jacob Holm‐Lupo (guitar; ?–act.)",
+      "Sara Trondal (lead vocals; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "white-willow-ignis-fatuus",
+       "titulo": "Ignis Fatuus",
+       "anio": 1995,
+       "mbid": "70ab9e27-36da-365b-b3bf-9477aa524a61",
+       "primer_lanzamiento": "1995",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "white-willow-ex-tenebris",
+       "titulo": "Ex Tenebris",
+       "anio": 1998,
+       "mbid": "2375a457-cb8a-36c4-808b-8a6a2580f3ae",
+       "primer_lanzamiento": "1998",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "white-willow-sacrament",
+       "titulo": "Sacrament",
+       "anio": 2000,
+       "mbid": "e7758b53-83d1-3069-8415-ba137b3a2d66",
+       "primer_lanzamiento": "2000",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "white-willow-storm-season",
+       "titulo": "Storm Season",
+       "anio": 2004,
+       "mbid": "087ce78e-0eea-3dfa-8be4-1c49c3d48ab8",
+       "primer_lanzamiento": "2004-08-21",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "white-willow-signal-to-noise",
+       "titulo": "Signal to Noise",
+       "anio": 2006,
+       "mbid": "9746d1aa-aef3-3400-9cad-ea15348b41c5",
+       "primer_lanzamiento": "2006",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "white-willow-terminal-twilight",
+       "titulo": "Terminal Twilight",
+       "anio": 2011,
+       "mbid": "aeb96836-de76-47f5-9664-76f46b8c0654",
+       "primer_lanzamiento": "2011-08-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "white-willow-future-hopes",
+       "titulo": "Future Hopes",
+       "anio": 2017,
+       "mbid": "96976515-a4f3-48cf-a67a-e7030516c708",
+       "primer_lanzamiento": "2017-03-31",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "paatos",
+     "nombre": "Paatos",
+     "tipo": "Group",
+     "pais": "SE",
+     "inicio": "2000",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Paatos",
+     "formaciones_mb": [
+      "Petronella Nettermalm (lead vocals; 2000–act.)",
+      "Reine Fiske (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "paatos-timeloss",
+       "titulo": "Timeloss",
+       "anio": 2002,
+       "mbid": "b41069fc-4e5d-3fe7-bf3e-c8b60e1dab0d",
+       "primer_lanzamiento": "2002",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "paatos-kallocain",
+       "titulo": "Kallocain",
+       "anio": 2004,
+       "mbid": "76ad296e-4c7d-3cc6-be3a-6a12c07605d6",
+       "primer_lanzamiento": "2004-06-04",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "paatos-silence-of-another-kind",
+       "titulo": "Silence of Another Kind",
+       "anio": 2006,
+       "mbid": "22b245ab-39e6-3cef-89b1-3741d6d1ab51",
+       "primer_lanzamiento": "2006-05-19",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "paatos-breathing",
+       "titulo": "Breathing",
+       "anio": 2011,
+       "mbid": "11070c59-92a2-4aa6-9339-46b212cd2c5c",
+       "primer_lanzamiento": "2011-01-21",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "paatos-v",
+       "titulo": "V",
+       "anio": 2012,
+       "mbid": "7fe58813-abda-4740-9bee-e62c070d23e9",
+       "primer_lanzamiento": "2012-11-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "paatos-ligament",
+       "titulo": "Ligament",
+       "anio": 2025,
+       "mbid": "83d0e08c-2a73-44f5-aa81-695b0cb51703",
+       "primer_lanzamiento": "2025-04-25",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "esc-sinfonico",
+   "escena": "escandinavia",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "flower-kings",
+     "nombre": "The Flower Kings",
+     "tipo": "Group",
+     "pais": "SE",
+     "inicio": "1993",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/The_Flower_Kings",
+     "formaciones_mb": [
+      "Michael Stolt (bass guitar; 1993–2000)",
+      "Jaime Salazar (drums (drum set); 1993–2001)",
+      "Roine Stolt (lead vocals, original; 1993–act.)",
+      "Roine Stolt (guitar, original; 1993–act.)",
+      "Hasse Bruniusson (percussion; 1993–?)",
+      "Hasse Fröberg (lead vocals; 1994–act.)",
+      "Hasse Fröberg (guitar; 1994–act.)",
+      "Tomas Bodin (piano; 1995–2015)",
+      "Tomas Bodin (keyboard; 1995–2015)",
+      "Jonas Reingold (bass guitar; 1999–2021)",
+      "Zoltan Csörsz (drums (drum set); 2001–2005)",
+      "Daniel Gildenlöw (lead vocals; 2003–2005)",
+      "Daniel Gildenlöw (guitar; 2003–2005)",
+      "Daniel Gildenlöw (keyboard; 2003–2005)",
+      "Marcus Liliequist (miembro; 2005-02-07–2007)",
+      "Zoltan Csörsz (drums (drum set); 2007–2008)",
+      "Erik Hammarström (drums (drum set); 2008–2008)",
+      "Ola Hedén (background vocals; 2008–2008)",
+      "Ola Hedén (guitar; 2008–2008)",
+      "Ola Hedén (keyboard; 2008–2008)",
+      "Felix Lehrmann (drums (drum set); 2011–?)",
+      "Mirko DeMaio (drums (drum set); 2019–act.)",
+      "Zach Kamins (keyboard; 2019–?)",
+      "Michael Stolt (bass guitar; 2021–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "flower-kings-back-in-the-world-of-adventures",
+       "titulo": "Back in the World of Adventures",
+       "anio": 1995,
+       "mbid": "493f44e5-5f93-35c5-bd48-bd47e71610d6",
+       "primer_lanzamiento": "1995-10-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-retropolis",
+       "titulo": "Retropolis",
+       "anio": 1996,
+       "mbid": "6e0e2410-0e02-3695-8d30-60e326e61a98",
+       "primer_lanzamiento": "1996-05-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-stardust-we-are",
+       "titulo": "Stardust We Are",
+       "anio": 1997,
+       "mbid": "32424447-9a38-37ab-83ac-fdd1823ed16a",
+       "primer_lanzamiento": "1997",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-flower-power",
+       "titulo": "Flower Power",
+       "anio": 1999,
+       "mbid": "48bf466c-0e7f-3275-99f1-548fc0575ed4",
+       "primer_lanzamiento": "1999-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-space-revolver",
+       "titulo": "Space Revolver",
+       "anio": 2000,
+       "mbid": "ecb6342e-cf58-3757-8258-2e86c330edae",
+       "primer_lanzamiento": "2000-06-27",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-the-rainmaker",
+       "titulo": "The Rainmaker",
+       "anio": 2001,
+       "mbid": "1c0e66dd-c974-33a2-bdb5-1c68e2fc9161",
+       "primer_lanzamiento": "2001-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-unfold-the-future",
+       "titulo": "Unfold the Future",
+       "anio": 2002,
+       "mbid": "9de900e3-55f7-3f31-9a9d-2073b8de2622",
+       "primer_lanzamiento": "2002-11-04",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-adam-eve",
+       "titulo": "Adam & Eve",
+       "anio": 2004,
+       "mbid": "281a364a-087e-3e84-9101-761127b56004",
+       "primer_lanzamiento": "2004-07-16",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-paradox-hotel",
+       "titulo": "Paradox Hotel",
+       "anio": 2006,
+       "mbid": "e1902671-6c8b-32f8-9a7b-0b5ff4fc3c62",
+       "primer_lanzamiento": "2006-03-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-the-sum-of-no-evil",
+       "titulo": "The Sum of No Evil",
+       "anio": 2007,
+       "mbid": "c526fc6f-054a-3357-89f6-428454ef835a",
+       "primer_lanzamiento": "2007-09-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-banks-of-eden",
+       "titulo": "Banks of Eden",
+       "anio": 2012,
+       "mbid": "9d2072b4-7260-4ae4-83d2-141f28c91daf",
+       "primer_lanzamiento": "2012-06-15",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-desolation-rose",
+       "titulo": "Desolation Rose",
+       "anio": 2013,
+       "mbid": "a6295a5b-6212-48c6-b9c3-a81be3ef1192",
+       "primer_lanzamiento": "2013-10-28",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-waiting-for-miracles",
+       "titulo": "Waiting for Miracles",
+       "anio": 2019,
+       "mbid": "18f9315c-9b50-4789-b72e-bfa9b9169976",
+       "primer_lanzamiento": "2019-11-08",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-islands",
+       "titulo": "Islands",
+       "anio": 2020,
+       "mbid": "77ace010-cb95-4582-8415-b496fee32d48",
+       "primer_lanzamiento": "2020-10-30",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-by-royal-decree",
+       "titulo": "By Royal Decree",
+       "anio": 2022,
+       "mbid": "44b23eee-8fa0-41a9-a77f-f08d50c1f653",
+       "primer_lanzamiento": "2022-03-04",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-look-at-you-now",
+       "titulo": "Look at You Now",
+       "anio": 2023,
+       "mbid": "0bd6ed94-4112-4c21-94f5-5d6b0339a075",
+       "primer_lanzamiento": "2023-09-08",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "flower-kings-love",
+       "titulo": "Love",
+       "anio": 2025,
+       "mbid": "4dea4829-025a-40ea-8364-c749c22ba111",
+       "primer_lanzamiento": "2025-05-02",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "isildurs-bane",
+     "nombre": "Isildurs Bane",
+     "tipo": "Group",
+     "pais": "SE",
+     "inicio": "1976",
+     "fin": null,
+     "wikipedia_url": null,
+     "formaciones_mb": [],
+     "catalogo": [
+      {
+       "album_slug": "isildurs-bane-sagan-om-den-irlandska-algen",
+       "titulo": "Sagan om den irländska älgen",
+       "anio": 1984,
+       "mbid": "d2ff9f94-ce57-4ab8-b411-bfd7fac0ae54",
+       "primer_lanzamiento": "1984",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-sea-reflections",
+       "titulo": "Sea Reflections",
+       "anio": 1985,
+       "mbid": "291d27ba-f4f1-4f93-91f3-38e4cf8f532a",
+       "primer_lanzamiento": "1985",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-eight-moments-of-eternity",
+       "titulo": "Eight Moments of Eternity",
+       "anio": 1987,
+       "mbid": "1d37aaa4-1839-43bf-9375-e069cccf07fb",
+       "primer_lanzamiento": "1987",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-sagan-om-ringen",
+       "titulo": "Sagan om ringen",
+       "anio": 1988,
+       "mbid": "db51cdef-09d1-458a-b0ea-5df940225efc",
+       "primer_lanzamiento": "1988",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-cheval-volonte-de-rocher",
+       "titulo": "Cheval – Volonté de rocher",
+       "anio": 1989,
+       "mbid": "42b62d81-4be8-3bb5-acf2-f77e113f1656",
+       "primer_lanzamiento": "1989-07-16",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-the-voyage-a-trip-to-elsewhere",
+       "titulo": "The Voyage – A Trip to Elsewhere",
+       "anio": 1992,
+       "mbid": "3850e2df-b49c-3719-8f57-91deb644b044",
+       "primer_lanzamiento": "1992",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-lost-eggs",
+       "titulo": "Lost Eggs",
+       "anio": 1994,
+       "mbid": "cadedafa-ea85-3946-83a6-f7fcf2824820",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-mind-volume-1",
+       "titulo": "MIND, Volume 1",
+       "anio": 1997,
+       "mbid": "0808f164-7116-32f9-9807-a712b7df6de5",
+       "primer_lanzamiento": "1997",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-mind-volume-3",
+       "titulo": "MIND, Volume 3",
+       "anio": 2003,
+       "mbid": "f0c4622e-fb4a-38d8-afc4-c43931c8f21d",
+       "primer_lanzamiento": "2003",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-mind-volume-4-pass",
+       "titulo": "Mind, Volume 4: Pass",
+       "anio": 2003,
+       "mbid": "0b29dcfd-4fe6-3f38-9436-814183db2b7e",
+       "primer_lanzamiento": "2003",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-colours-not-found-in-nature",
+       "titulo": "Colours Not Found in Nature",
+       "anio": 2017,
+       "mbid": "4c72feb6-e811-4b70-b9d8-857e6e0c7b3b",
+       "primer_lanzamiento": "2017-04-14",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-off-the-radar",
+       "titulo": "Off the Radar",
+       "anio": 2017,
+       "mbid": "ad2b042c-da5a-4386-9a24-260649ffd3b4",
+       "primer_lanzamiento": "2017-12-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-in-amazonia",
+       "titulo": "In Amazonia",
+       "anio": 2019,
+       "mbid": "28a071bd-3156-443a-8d9b-3582b919b088",
+       "primer_lanzamiento": "2019-05-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-in-disequilibrium",
+       "titulo": "In Disequilibrium",
+       "anio": 2021,
+       "mbid": "56996924-4a76-4843-b532-3f0969e029b7",
+       "primer_lanzamiento": "2021-09-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "isildurs-bane-the-pearl-of-ever-changing-shell",
+       "titulo": "The Pearl of Ever Changing Shell",
+       "anio": 2024,
+       "mbid": "acc90d35-f36c-43d5-b87f-4d91712669ad",
+       "primer_lanzamiento": "2024-02-23",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

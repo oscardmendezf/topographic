@@ -59,6 +59,31 @@ CONFIG = {
             {"id": "rio-americas", "artistas": ["muffins", "thinking-plague", "5uus", "miriodor"]},
         ],
     },
+    "neoprog": {
+        "escena": "neoprog",
+        "grupos": [
+            {"id": "neo-marillion", "artistas": ["marillion"]},
+            {"id": "neo-iq", "artistas": ["iq", "twelfth-night"]},
+            {"id": "neo-pendragon", "artistas": ["pendragon", "pallas"]},
+            {"id": "neo-segunda", "artistas": ["arena", "jadis", "galahad", "solstice"]},
+        ],
+    },
+    "escandinavia": {
+        "escena": "escandinavia",
+        "grupos": [
+            {"id": "esc-pioneros", "artistas": ["kaipa", "trettioariga-kriget", "ragnarok-se"]},
+            {"id": "esc-renacimiento", "artistas": ["anglagard", "anekdoten", "landberk"]},
+            {"id": "esc-noruega", "artistas": ["wobbler", "white-willow", "paatos"]},
+            {"id": "esc-sinfonico", "artistas": ["flower-kings", "isildurs-bane"]},
+        ],
+    },
+    "canterbury2": {
+        "escena": "canterbury",
+        "grupos": [
+            {"id": "cant-gilgamesh", "artistas": ["gilgamesh", "soft-heap", "khan"]},
+            {"id": "cant-hopper", "artistas": ["hugh-hopper", "in-cahoots", "quiet-sun", "delivery"]},
+        ],
+    },
 }
 
 

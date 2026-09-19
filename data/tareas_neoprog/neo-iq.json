@@ -1,0 +1,240 @@
+{
+ "id": "neo-iq",
+ "escena": "neoprog",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "iq",
+   "nombre": "IQ",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1981",
+   "fin": null,
+   "wikipedia_url": "https://es.wikipedia.org/wiki/IQ_(banda)",
+   "formaciones_mb": [
+    "Tim Esau (original; 1981-07–1989-09)",
+    "Martin Orford (original; 1981-07–2007-09-16)",
+    "Michael Holmes (original; 1981-07–act.)",
+    "Peter Nicholls (miembro; 1982-06–1985-08)",
+    "Paul Cook (miembro; 1982-07–2005-04)",
+    "Paul Menel (miembro; 1985-10–1989-09)",
+    "Les Marshall (miembro; 1989-09–1990-02)",
+    "Peter Nicholls (miembro; 1990–act.)",
+    "John Jowitt (miembro; 1991-01–2011-01-07)",
+    "Andy Edwards (miembro; 2005-04–2008-12)",
+    "Mark Westworth (miembro; 2007-10-03–2010-12-11)",
+    "Paul Cook (miembro; 2009-11–act.)",
+    "Neil Durant (miembro; 2011-01-01–act.)",
+    "Tim Esau (miembro; 2011-01-14–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "iq-seven-stories-into-eight",
+     "titulo": "Seven Stories Into Eight",
+     "anio": 1982,
+     "mbid": "08e9bad8-1a4c-4d36-a43a-05be2b7688a8",
+     "primer_lanzamiento": "1982-10",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-tales-from-the-lush-attic",
+     "titulo": "Tales From the Lush Attic",
+     "anio": 1983,
+     "mbid": "37dc92f3-94f6-3391-85a4-b547804164e9",
+     "primer_lanzamiento": "1983-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-the-wake",
+     "titulo": "The Wake",
+     "anio": 1985,
+     "mbid": "fab32d72-8f68-338c-9975-f58690e8f5a7",
+     "primer_lanzamiento": "1985-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-nine-in-a-pond-is-here",
+     "titulo": "Nine in a Pond Is Here",
+     "anio": 1985,
+     "mbid": "016754a3-44fa-3870-9896-689dbd2ab6cc",
+     "primer_lanzamiento": "1985-11",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-nomzamo",
+     "titulo": "Nomzamo",
+     "anio": 1987,
+     "mbid": "74c37446-38a7-30a4-95e2-6f93c1175c3c",
+     "primer_lanzamiento": "1987",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-are-you-sitting-comfortably",
+     "titulo": "Are You Sitting Comfortably?",
+     "anio": 1989,
+     "mbid": "758e7db5-74b0-3962-aded-c8176ce73c36",
+     "primer_lanzamiento": "1989-03",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-jai-pollette-darnu",
+     "titulo": "J’ai Pollette d’arnu",
+     "anio": 1991,
+     "mbid": "f0fec6a0-b5d1-3baa-96a4-05ead0b33627",
+     "primer_lanzamiento": "1991-06",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-ever",
+     "titulo": "Ever",
+     "anio": 1993,
+     "mbid": "d4b08209-6018-3f77-a6dd-33fa8eb51390",
+     "primer_lanzamiento": "1993-06",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-subterranea",
+     "titulo": "Subterranea",
+     "anio": 1997,
+     "mbid": "13c69e37-e82e-3768-85a2-9b68f54a58e5",
+     "primer_lanzamiento": "1997-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-seven-stories-into-ninety-eight",
+     "titulo": "Seven Stories Into Ninety Eight",
+     "anio": 1998,
+     "mbid": "9c066a2b-e403-3809-88f4-bec304686318",
+     "primer_lanzamiento": "1998",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-the-seventh-house",
+     "titulo": "The Seventh House",
+     "anio": 2000,
+     "mbid": "0666f3ad-d5ea-36da-830e-383161cd51c3",
+     "primer_lanzamiento": "2000",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-dark-matter",
+     "titulo": "Dark Matter",
+     "anio": 2004,
+     "mbid": "06c933b7-2727-3de1-8e1d-4438425ec513",
+     "primer_lanzamiento": "2004-06-01",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-frequency",
+     "titulo": "Frequency",
+     "anio": 2009,
+     "mbid": "11e6fe10-ba69-3045-9e87-6fbfba3ac875",
+     "primer_lanzamiento": "2009-04-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-the-road-of-bones",
+     "titulo": "The Road of Bones",
+     "anio": 2014,
+     "mbid": "8e7cc306-3bd6-4013-9747-bea85a2ed9c3",
+     "primer_lanzamiento": "2014-05-05",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-tales-from-a-dark-christmas",
+     "titulo": "Tales From a Dark Christmas",
+     "anio": 2017,
+     "mbid": "c6f7a507-947f-49f1-a8d4-fca105b2752e",
+     "primer_lanzamiento": "2017-12-10",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-resistance",
+     "titulo": "Resistance",
+     "anio": 2019,
+     "mbid": "4301028f-68b7-4c6c-938c-4fc3ab03b726",
+     "primer_lanzamiento": "2019-09-27",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "iq-dominion",
+     "titulo": "Dominion",
+     "anio": 2025,
+     "mbid": "7aa4ca28-bb9a-4d36-883b-3dae07b1fb02",
+     "primer_lanzamiento": "2025-03-28",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "twelfth-night",
+   "nombre": "Twelfth Night",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1978-09",
+   "fin": "2012",
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Twelfth_Night_(band)",
+   "formaciones_mb": [
+    "Brian Devoil (miembro; 1978-02–1987)",
+    "Andy Revell (miembro; 1978-02–1987)",
+    "Clive Mitten (miembro; 1978-08–1986)",
+    "Rick Battersby (miembro; 1979–1981-10-29)",
+    "Electra McLeod (miembro; 1980-09–1980-11)",
+    "Geoff Mann (miembro; 1981-08–1983-11-05)",
+    "Rick Battersby (miembro; 1982-11-05–1987)",
+    "Andy Sears (miembro; 1983-11-05–1986)",
+    "Martyn Watson (miembro; 1987–1987)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "twelfth-night-skan",
+     "titulo": "SKAN",
+     "anio": 1979,
+     "mbid": "6171f031-b0f9-4f2d-a5ad-2d5a59d80bb8",
+     "primer_lanzamiento": "1979-04",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "twelfth-night-twelfth-night-1980",
+     "titulo": "Twelfth Night",
+     "anio": 1980,
+     "mbid": "45b31d3c-d371-495a-ab50-852368a9c3a4",
+     "primer_lanzamiento": "1980-10",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "twelfth-night-smiling-at-grief",
+     "titulo": "Smiling at Grief",
+     "anio": 1982,
+     "mbid": "3925d8cb-f76d-3379-b571-a93f99afca16",
+     "primer_lanzamiento": "1982-01",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "twelfth-night-fact-and-fiction",
+     "titulo": "Fact and Fiction",
+     "anio": 1982,
+     "mbid": "4cbfab59-1615-3809-a469-d7560520ba56",
+     "primer_lanzamiento": "1982-12",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "twelfth-night-art-illusion",
+     "titulo": "Art & Illusion",
+     "anio": 1984,
+     "mbid": "d68780f6-3f56-3e1d-8802-3d21f7eaea81",
+     "primer_lanzamiento": "1984-09-21",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "twelfth-night-twelfth-night-1986",
+     "titulo": "Twelfth Night",
+     "anio": 1986,
+     "mbid": "3a60a85d-5a0b-314c-a42b-93b459ae6847",
+     "primer_lanzamiento": "1986-07",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

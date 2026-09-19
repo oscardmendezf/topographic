@@ -1,0 +1,39 @@
+---
+tipo: "album"
+slug: "galahad-sleepers"
+titulo: "Sleepers"
+artista: "Galahad"
+artista_slug: "galahad"
+anio_ficha: 1995
+era: "siguiente"
+escena: "neoprog"
+mb_rgid: "9fccdd98-2b44-3c23-b84b-0b4abb8088ba"
+primer_lanzamiento: "1995-06"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Recepción favorable en el ambiente progresivo británico."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Difusión algo mayor, siempre de nicho."
+historia: "editorial"
+---
+
+El sonido se endurece y la producción gana nitidez, con Nicholson por fin cómodo en su registro. Las canciones son más largas y menos ornamentales que antes, aunque el grupo todavía discute consigo mismo qué clase de banda quiere ser. Primer disco que se sostiene entero.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Entre Nothing Is Written y este disco pasan cuatro años, que en la vida de una banda sin sello grande son una eternidad y sirven para decidir si uno sigue o se disuelve. Galahad siguió, y volvió en 1995 con el sonido endurecido y la sensación de que ya no había nada que demostrarle a la generación anterior. Sleepers arranca con doce minutos de pieza titular, una decisión de programa: lo primero que se oye es la banda haciendo lo que mejor le sale, desarrollo largo, riff pesado, teclado que empuja en vez de decorar. Nicholson por fin canta dentro de su registro, sin los agudos forzados de los discos anteriores, y eso cambia el carácter de todo el repertorio.
+
+El disco está construido sobre contrastes deliberados. Las piezas extensas —«Live and Learn», «Exorcising Demons», el cierre de casi doce minutos con «Amaranth»— sostienen el peso, mientras que «Julie Anne» y «Middleground» funcionan como canciones en el sentido estricto, con una economía que el grupo no se había permitido. En medio aparece «Dentist Song», un chiste musical que es la única grieta seria del conjunto: rompe el tono sin aportar alivio, y delata que la banda todavía discutía consigo misma qué clase de grupo quería ser. «Pictures of Bliss», en cambio, apenas dos minutos de calma, es de lo más fino que había escrito hasta entonces y volvería a aparecer, reformulado, en la etapa acústica de mucho después. Sleepers es el primer disco que se sostiene entero, y la pieza titular se convirtió en la referencia interna del grupo: la volvió a grabar, más larga y con la electrónica encima, cuando quiso medir cuánto había cambiado.
+
+## La producción
+
+Tampoco de estas sesiones ha quedado una ficha técnica pública que permita nombrar estudio ni ingeniero, pero el salto de nitidez es inmediato al oído. Las guitarras están grabadas con más ganancia y menos brillo que en los discos anteriores, más cerca del rock pesado que del cristal neoprog, y los teclados abandonan el terreno de la almohadilla sinfónica para meterse en texturas más secas. La batería suena grabada con criterio de banda de rock, con los tambores al frente y menos reverberación artificial, lo que le da al conjunto un pulso que antes no existía. Los arreglos evitan el ornamento por el ornamento: los pasajes instrumentales tienen función dentro de la pieza y no se abren solo para que alguien toque un solo. Es la primera vez que las decisiones de sonido acompañan a una idea de disco en vez de limitarse a registrar lo que la banda tocaba.
+
+## Recepción y legado
+
+En el circuito del progresivo de mediados de los noventa, donde casi todo el mundo estaba reconvirtiéndose o desapareciendo, Sleepers ubicó a Galahad como una banda que tenía todavía algo que decir. No cambió su posición en el género, que seguía siendo la de un grupo de segunda fila mirado con cariño, pero le dio por primera vez un disco entero que defender. La lectura de hoy es la misma que la de entonces, con más perspectiva: es el trabajo donde la banda deja de sonar como un catálogo de influencias y empieza a sonar como ella misma, aunque le falten todavía la electrónica y la convicción política que llegarían más tarde. La pieza titular sobrevive como su composición larga más querida, y el resto del disco aguanta la escucha sin necesidad de indulgencia, cosa que no puede decirse de lo anterior.

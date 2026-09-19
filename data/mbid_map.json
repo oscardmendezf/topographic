@@ -1,5 +1,5 @@
 {
- "generado": "2026-09-19T04:27:04+00:00",
+ "generado": "2026-09-19T14:43:22+00:00",
  "fuente": "búsqueda API MusicBrainz (ningún MBID de memoria)",
  "artistas": {
   "beatles": {
@@ -1398,7 +1398,7 @@
      "mb_score": 78
     }
    ],
-   "confirmado_a_mano": "homónimo de The Wedding Present y de dos bandas estadounidenses; MusicBrainz lo desambigua como 'Belgian progressive rock group'"
+   "confirmado_a_mano": "homónimo de The Wedding Present; MusicBrainz lo desambigua como 'Belgian progressive rock group'"
   },
   "cassiber": {
    "name": "Cassiber",
@@ -1464,7 +1464,359 @@
    "disambiguation": "",
    "mb_score": 100,
    "status": "ok",
-   "confirmado_a_mano": "búsqueda en la API con las grafías «Koenji Hyakkei», «Kōenji Hyakkei» y «高円寺百景»: las tres devuelven este artista con score 100, país JP"
+   "alternativas": []
+  },
+  "marillion": {
+   "name": "Marillion",
+   "mbid": "1932f5b6-0b7b-4050-b1df-833ca89e5f44",
+   "mb_name": "Marillion",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "British progressive rock band",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "iq": {
+   "name": "IQ",
+   "mbid": "9a5cf59b-5da0-4021-b885-b6b78dd6886e",
+   "mb_name": "IQ",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "British progressive rock band",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "pendragon": {
+   "name": "Pendragon",
+   "mbid": "702cded2-ac87-476d-8e56-caa1999064a7",
+   "mb_name": "Pendragon",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "UK progressive rock",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "pallas": {
+   "name": "Pallas",
+   "mbid": "be51870d-2bdc-4586-b55a-d18d21e301c3",
+   "mb_name": "Pallas",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "UK progressive rock",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "twelfth-night": {
+   "name": "Twelfth Night",
+   "mbid": "69c1a984-3456-420b-9475-c5a4ccad6b4f",
+   "mb_name": "Twelfth Night",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "British prog band",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "arena": {
+   "name": "Arena",
+   "mbid": "c0b6a3ee-ec0e-4d15-95b4-4d45c2bb3d89",
+   "mb_name": "Arena",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "British prog rock band",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "jadis": {
+   "name": "Jadis",
+   "mbid": "14fc780a-4f90-457d-a233-411803e28be8",
+   "mb_name": "Jadis",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "British progressive rock band",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "galahad": {
+   "name": "Galahad",
+   "mbid": "b301ee15-c572-4c99-a4f0-297c0c1462de",
+   "mb_name": "Galahad",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "English prog band",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "solstice": {
+   "name": "Solstice",
+   "mbid": "06942e9b-567b-45c4-97a6-9d98265ba479",
+   "mb_name": "Solstice",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "UK neo‐progressive band",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": [
+    {
+     "mbid": "06942e9b-567b-45c4-97a6-9d98265ba479",
+     "mb_name": "Solstice",
+     "country": "GB",
+     "disambiguation": "UK neo‐progressive band",
+     "mb_score": 97
+    },
+    {
+     "mbid": "1a0fa8d8-fb02-4172-8a5c-5b0498bf7769",
+     "mb_name": "Solstice",
+     "country": null,
+     "disambiguation": "French alternative rock band",
+     "mb_score": 91
+    },
+    {
+     "mbid": "5d1ed9b1-1bb2-4461-a89b-761eb695558a",
+     "mb_name": "Solstice",
+     "country": "US",
+     "disambiguation": "US metal band",
+     "mb_score": 91
+    }
+   ],
+   "confirmado_a_mano": "el mejor puntuado era otro artista; se toma la alternativa cuya desambiguación dice «UK neo‐progressive band»"
+  },
+  "kaipa": {
+   "name": "Kaipa",
+   "mbid": "6733eac6-aa38-43fd-bbb7-22121d5dbf5f",
+   "mb_name": "Kaipa",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "trettioariga-kriget": {
+   "name": "Trettioåriga Kriget",
+   "mbid": "f854315f-8b26-4872-8b8c-21f48112f934",
+   "mb_name": "Trettioåriga kriget",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "ragnarok-se": {
+   "name": "Ragnarök",
+   "mbid": "623713ea-f6c6-48e2-989c-211631c690c1",
+   "mb_name": "Ragnarök",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation": "Swedish progressive rock band",
+   "mb_score": 94,
+   "status": "ok",
+   "alternativas": []
+  },
+  "isildurs-bane": {
+   "name": "Isildurs Bane",
+   "mbid": "af127443-e1c4-4ed1-a608-3991e194d07e",
+   "mb_name": "Isildurs Bane",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "anglagard": {
+   "name": "Änglagård",
+   "mbid": "6344d70b-da12-4f93-b7e0-c0be55044c41",
+   "mb_name": "Änglagård",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "anekdoten": {
+   "name": "Anekdoten",
+   "mbid": "0cf0af1f-20ca-4863-9b24-5f52772f7715",
+   "mb_name": "Anekdoten",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "landberk": {
+   "name": "Landberk",
+   "mbid": "c932d971-09d6-487b-9574-1ac7c97cb554",
+   "mb_name": "Landberk",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "wobbler": {
+   "name": "Wobbler",
+   "mbid": "923b9160-251f-4ebe-8af2-ae670c425e55",
+   "mb_name": "Wobbler",
+   "type": "Group",
+   "country": "NO",
+   "disambiguation": "symphonic prog, Norway",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "white-willow": {
+   "name": "White Willow",
+   "mbid": "147de9f1-2083-4fe9-82c2-2487ed626d9b",
+   "mb_name": "White Willow",
+   "type": "Group",
+   "country": "NO",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "flower-kings": {
+   "name": "The Flower Kings",
+   "mbid": "0a389268-6fd8-4f8c-ab6e-0dba5ecec66b",
+   "mb_name": "The Flower Kings",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "paatos": {
+   "name": "Paatos",
+   "mbid": "721ba852-8255-429b-9dd9-aaa61508fe4f",
+   "mb_name": "Paatos",
+   "type": "Group",
+   "country": "SE",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "gilgamesh": {
+   "name": "Gilgamesh",
+   "mbid": "186e5799-e9e8-40bd-8007-255d918a1dda",
+   "mb_name": "Gilgamesh",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "English prog band",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "soft-heap": {
+   "name": "Soft Heap",
+   "mbid": "7722cd88-2607-4a01-a6cb-99d513b81ab8",
+   "mb_name": "Soft Heap",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "Canterbury Scene, UK",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": [
+    {
+     "mbid": "7722cd88-2607-4a01-a6cb-99d513b81ab8",
+     "mb_name": "Soft Heap",
+     "country": "GB",
+     "disambiguation": "Canterbury Scene, UK",
+     "mb_score": 97
+    }
+   ],
+   "confirmado_a_mano": "el mejor puntuado era otro artista; se toma la alternativa cuya desambiguación dice «Canterbury Scene, UK»"
+  },
+  "hugh-hopper": {
+   "name": "Hugh Hopper",
+   "mbid": "a3626f69-2434-4e51-819c-6d4751abc51d",
+   "mb_name": "Hugh Hopper",
+   "type": "Person",
+   "country": "GB",
+   "disambiguation": "British bassist",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "in-cahoots": {
+   "name": "In Cahoots",
+   "mbid": "ea2ee86c-e163-4bd9-aca0-2d3980542b50",
+   "mb_name": "In Cahoots",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "quiet-sun": {
+   "name": "Quiet Sun",
+   "mbid": "8f404874-8a84-4563-94ba-dbf70a18616f",
+   "mb_name": "Quiet Sun",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "delivery": {
+   "name": "Delivery",
+   "mbid": "8ea1a45f-4a8a-494b-bda1-b44ab2ba376a",
+   "mb_name": "Delivery",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "",
+   "mb_score": 100,
+   "status": "ok",
+   "alternativas": []
+  },
+  "khan": {
+   "name": "Khan",
+   "mbid": "2a64fd7c-b8fa-4273-81a1-0620fc4970a8",
+   "mb_name": "Khan",
+   "type": "Group",
+   "country": "GB",
+   "disambiguation": "UK prog rock band",
+   "mb_score": 87,
+   "status": "ok",
+   "alternativas": [
+    {
+     "mbid": "d98f5c5c-c958-4929-9cad-3f12137e3b8c",
+     "mb_name": "KHAN",
+     "country": "GB",
+     "disambiguation": "British 2010's band",
+     "mb_score": 81
+    },
+    {
+     "mbid": "20057c74-812c-410c-8e51-ba0235935a46",
+     "mb_name": "Khan",
+     "country": null,
+     "disambiguation": "progressive stoner rock band from Melbourne, Australia",
+     "mb_score": 86
+    },
+    {
+     "mbid": "5898a370-5c9e-4924-97b1-c72b7e0452ca",
+     "mb_name": "Dschinghis Khan",
+     "country": "DE",
+     "disambiguation": "",
+     "mb_score": 100
+    }
+   ],
+   "confirmado_a_mano": "homónimos australiano y británico moderno; el nuestro es el 'UK prog rock band' de Steve Hillage"
   }
  }
 }

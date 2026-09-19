@@ -1,0 +1,310 @@
+{
+  "gender-id": null,
+  "name": "Khan",
+  "disambiguation": "UK prog rock band",
+  "gender": null,
+  "relations": [
+    {
+      "target-type": "artist",
+      "attributes": [
+        "bass"
+      ],
+      "attribute-credits": {},
+      "artist": {
+        "name": "Nicholas Greenwood",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "c3ec903a-b453-41ff-becc-2bf108072757",
+        "sort-name": "Greenwood, Nicholas",
+        "country": "GB"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": "1972-06",
+      "type": "member of band",
+      "attribute-values": {},
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "direction": "backward",
+      "begin": "1971-04",
+      "ended": true
+    },
+    {
+      "artist": {
+        "country": "GB",
+        "id": "bb0ae0c0-16eb-43df-9f99-7f351c53354a",
+        "sort-name": "Hillage, Steve",
+        "type": "Person",
+        "name": "Steve Hillage",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "source-credit": "",
+      "end": "1972-10",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "begin": "1971-04",
+      "ended": true,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "begin": "1971-04",
+      "ended": true,
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "membranophone"
+      ],
+      "attribute-credits": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1972-10",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Peachey, Eric",
+        "id": "cfc6e1d2-281f-4589-b49d-20150174dbe4",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Eric Peachey",
+        "type": "Person"
+      }
+    },
+    {
+      "attributes": [
+        "bass"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1972-10",
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Nigel Griggs",
+        "country": "NZ",
+        "sort-name": "Griggs, Nigel",
+        "id": "e7603b7d-f6ad-4b94-a955-d94c0364345b"
+      },
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "ended": true,
+      "begin": "1972-07",
+      "direction": "backward"
+    },
+    {
+      "artist": {
+        "id": "c7b11c65-595f-4238-893b-36be934ebda9",
+        "sort-name": "Stewart, Dave",
+        "country": "GB",
+        "name": "Dave Stewart",
+        "disambiguation": "Canterbury keyboardist, not the Eurythmics’ Dave Stewart",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": "1972",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": [],
+      "direction": "backward",
+      "ended": true,
+      "begin": "1972",
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attribute-values": {},
+      "type": "allmusic",
+      "end": null,
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "d9d9005c-59f3-4339-ac65-6256354708ba",
+        "resource": "https://www.allmusic.com/artist/mn0000770094"
+      },
+      "direction": "forward",
+      "begin": null,
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "http://calyx.perso.neuf.fr/bands/khan.html",
+        "id": "1e19de1d-2715-4c16-8a31-84536bc1ae84"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "biography",
+      "target-credit": "",
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "discogs",
+      "source-credit": "",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "6b425bac-8dc4-4ad8-a43a-58d881150900",
+        "resource": "https://www.discogs.com/artist/426936"
+      },
+      "ended": false,
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/0s2EW0Bcm7AcvWRSKD5TvK",
+        "id": "54c8245f-23ef-42a4-b81e-84bc9295ba4b"
+      },
+      "type": "free streaming",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.last.fm/music/Khan",
+        "id": "0a2746a5-f35a-4da7-ba1c-4aa6d270296e"
+      },
+      "target-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "attribute-values": {},
+      "type": "last.fm",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/khan",
+        "id": "f91b708d-f520-40bf-8a06-f2eccd44d6ba"
+      },
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "73a6616a-f55f-48a6-983b-c402e923d371",
+        "resource": "https://www.progarchives.com/artist.asp?id=1172"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "url": {
+        "id": "0fd3f035-aad2-4d45-aec7-2d7af0edd1f8",
+        "resource": "https://www.wikidata.org/wiki/Q944871"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "wikidata",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": []
+    }
+  ],
+  "life-span": {
+    "end": "1972-10",
+    "begin": "1971-04",
+    "ended": true
+  },
+  "area": {
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "type-id": null,
+    "type": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ]
+  },
+  "end-area": null,
+  "isnis": [
+    "0000000471002556"
+  ],
+  "aliases": [],
+  "country": "GB",
+  "sort-name": "Khan",
+  "type": "Group",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "ipis": [],
+  "begin-area": null,
+  "id": "2a64fd7c-b8fa-4273-81a1-0620fc4970a8"
+}

@@ -1,0 +1,312 @@
+{
+ "id": "esc-sinfonico",
+ "escena": "escandinavia",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "flower-kings",
+   "nombre": "The Flower Kings",
+   "tipo": "Group",
+   "pais": "SE",
+   "inicio": "1993",
+   "fin": null,
+   "wikipedia_url": "https://es.wikipedia.org/wiki/The_Flower_Kings",
+   "formaciones_mb": [
+    "Michael Stolt (bass guitar; 1993–2000)",
+    "Jaime Salazar (drums (drum set); 1993–2001)",
+    "Roine Stolt (lead vocals, original; 1993–act.)",
+    "Roine Stolt (guitar, original; 1993–act.)",
+    "Hasse Bruniusson (percussion; 1993–?)",
+    "Hasse Fröberg (lead vocals; 1994–act.)",
+    "Hasse Fröberg (guitar; 1994–act.)",
+    "Tomas Bodin (piano; 1995–2015)",
+    "Tomas Bodin (keyboard; 1995–2015)",
+    "Jonas Reingold (bass guitar; 1999–2021)",
+    "Zoltan Csörsz (drums (drum set); 2001–2005)",
+    "Daniel Gildenlöw (lead vocals; 2003–2005)",
+    "Daniel Gildenlöw (guitar; 2003–2005)",
+    "Daniel Gildenlöw (keyboard; 2003–2005)",
+    "Marcus Liliequist (miembro; 2005-02-07–2007)",
+    "Zoltan Csörsz (drums (drum set); 2007–2008)",
+    "Erik Hammarström (drums (drum set); 2008–2008)",
+    "Ola Hedén (background vocals; 2008–2008)",
+    "Ola Hedén (guitar; 2008–2008)",
+    "Ola Hedén (keyboard; 2008–2008)",
+    "Felix Lehrmann (drums (drum set); 2011–?)",
+    "Mirko DeMaio (drums (drum set); 2019–act.)",
+    "Zach Kamins (keyboard; 2019–?)",
+    "Michael Stolt (bass guitar; 2021–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "flower-kings-back-in-the-world-of-adventures",
+     "titulo": "Back in the World of Adventures",
+     "anio": 1995,
+     "mbid": "493f44e5-5f93-35c5-bd48-bd47e71610d6",
+     "primer_lanzamiento": "1995-10-25",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-retropolis",
+     "titulo": "Retropolis",
+     "anio": 1996,
+     "mbid": "6e0e2410-0e02-3695-8d30-60e326e61a98",
+     "primer_lanzamiento": "1996-05-25",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-stardust-we-are",
+     "titulo": "Stardust We Are",
+     "anio": 1997,
+     "mbid": "32424447-9a38-37ab-83ac-fdd1823ed16a",
+     "primer_lanzamiento": "1997",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-flower-power",
+     "titulo": "Flower Power",
+     "anio": 1999,
+     "mbid": "48bf466c-0e7f-3275-99f1-548fc0575ed4",
+     "primer_lanzamiento": "1999-11",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-space-revolver",
+     "titulo": "Space Revolver",
+     "anio": 2000,
+     "mbid": "ecb6342e-cf58-3757-8258-2e86c330edae",
+     "primer_lanzamiento": "2000-06-27",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-the-rainmaker",
+     "titulo": "The Rainmaker",
+     "anio": 2001,
+     "mbid": "1c0e66dd-c974-33a2-bdb5-1c68e2fc9161",
+     "primer_lanzamiento": "2001-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-unfold-the-future",
+     "titulo": "Unfold the Future",
+     "anio": 2002,
+     "mbid": "9de900e3-55f7-3f31-9a9d-2073b8de2622",
+     "primer_lanzamiento": "2002-11-04",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-adam-eve",
+     "titulo": "Adam & Eve",
+     "anio": 2004,
+     "mbid": "281a364a-087e-3e84-9101-761127b56004",
+     "primer_lanzamiento": "2004-07-16",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-paradox-hotel",
+     "titulo": "Paradox Hotel",
+     "anio": 2006,
+     "mbid": "e1902671-6c8b-32f8-9a7b-0b5ff4fc3c62",
+     "primer_lanzamiento": "2006-03-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-the-sum-of-no-evil",
+     "titulo": "The Sum of No Evil",
+     "anio": 2007,
+     "mbid": "c526fc6f-054a-3357-89f6-428454ef835a",
+     "primer_lanzamiento": "2007-09-25",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-banks-of-eden",
+     "titulo": "Banks of Eden",
+     "anio": 2012,
+     "mbid": "9d2072b4-7260-4ae4-83d2-141f28c91daf",
+     "primer_lanzamiento": "2012-06-15",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-desolation-rose",
+     "titulo": "Desolation Rose",
+     "anio": 2013,
+     "mbid": "a6295a5b-6212-48c6-b9c3-a81be3ef1192",
+     "primer_lanzamiento": "2013-10-28",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-waiting-for-miracles",
+     "titulo": "Waiting for Miracles",
+     "anio": 2019,
+     "mbid": "18f9315c-9b50-4789-b72e-bfa9b9169976",
+     "primer_lanzamiento": "2019-11-08",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-islands",
+     "titulo": "Islands",
+     "anio": 2020,
+     "mbid": "77ace010-cb95-4582-8415-b496fee32d48",
+     "primer_lanzamiento": "2020-10-30",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-by-royal-decree",
+     "titulo": "By Royal Decree",
+     "anio": 2022,
+     "mbid": "44b23eee-8fa0-41a9-a77f-f08d50c1f653",
+     "primer_lanzamiento": "2022-03-04",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-look-at-you-now",
+     "titulo": "Look at You Now",
+     "anio": 2023,
+     "mbid": "0bd6ed94-4112-4c21-94f5-5d6b0339a075",
+     "primer_lanzamiento": "2023-09-08",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "flower-kings-love",
+     "titulo": "Love",
+     "anio": 2025,
+     "mbid": "4dea4829-025a-40ea-8364-c749c22ba111",
+     "primer_lanzamiento": "2025-05-02",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "isildurs-bane",
+   "nombre": "Isildurs Bane",
+   "tipo": "Group",
+   "pais": "SE",
+   "inicio": "1976",
+   "fin": null,
+   "wikipedia_url": null,
+   "formaciones_mb": [],
+   "catalogo": [
+    {
+     "album_slug": "isildurs-bane-sagan-om-den-irlandska-algen",
+     "titulo": "Sagan om den irländska älgen",
+     "anio": 1984,
+     "mbid": "d2ff9f94-ce57-4ab8-b411-bfd7fac0ae54",
+     "primer_lanzamiento": "1984",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-sea-reflections",
+     "titulo": "Sea Reflections",
+     "anio": 1985,
+     "mbid": "291d27ba-f4f1-4f93-91f3-38e4cf8f532a",
+     "primer_lanzamiento": "1985",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-eight-moments-of-eternity",
+     "titulo": "Eight Moments of Eternity",
+     "anio": 1987,
+     "mbid": "1d37aaa4-1839-43bf-9375-e069cccf07fb",
+     "primer_lanzamiento": "1987",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-sagan-om-ringen",
+     "titulo": "Sagan om ringen",
+     "anio": 1988,
+     "mbid": "db51cdef-09d1-458a-b0ea-5df940225efc",
+     "primer_lanzamiento": "1988",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-cheval-volonte-de-rocher",
+     "titulo": "Cheval – Volonté de rocher",
+     "anio": 1989,
+     "mbid": "42b62d81-4be8-3bb5-acf2-f77e113f1656",
+     "primer_lanzamiento": "1989-07-16",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-the-voyage-a-trip-to-elsewhere",
+     "titulo": "The Voyage – A Trip to Elsewhere",
+     "anio": 1992,
+     "mbid": "3850e2df-b49c-3719-8f57-91deb644b044",
+     "primer_lanzamiento": "1992",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-lost-eggs",
+     "titulo": "Lost Eggs",
+     "anio": 1994,
+     "mbid": "cadedafa-ea85-3946-83a6-f7fcf2824820",
+     "primer_lanzamiento": "1994",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-mind-volume-1",
+     "titulo": "MIND, Volume 1",
+     "anio": 1997,
+     "mbid": "0808f164-7116-32f9-9807-a712b7df6de5",
+     "primer_lanzamiento": "1997",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-mind-volume-3",
+     "titulo": "MIND, Volume 3",
+     "anio": 2003,
+     "mbid": "f0c4622e-fb4a-38d8-afc4-c43931c8f21d",
+     "primer_lanzamiento": "2003",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-mind-volume-4-pass",
+     "titulo": "Mind, Volume 4: Pass",
+     "anio": 2003,
+     "mbid": "0b29dcfd-4fe6-3f38-9436-814183db2b7e",
+     "primer_lanzamiento": "2003",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-colours-not-found-in-nature",
+     "titulo": "Colours Not Found in Nature",
+     "anio": 2017,
+     "mbid": "4c72feb6-e811-4b70-b9d8-857e6e0c7b3b",
+     "primer_lanzamiento": "2017-04-14",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-off-the-radar",
+     "titulo": "Off the Radar",
+     "anio": 2017,
+     "mbid": "ad2b042c-da5a-4386-9a24-260649ffd3b4",
+     "primer_lanzamiento": "2017-12-01",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-in-amazonia",
+     "titulo": "In Amazonia",
+     "anio": 2019,
+     "mbid": "28a071bd-3156-443a-8d9b-3582b919b088",
+     "primer_lanzamiento": "2019-05-10",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-in-disequilibrium",
+     "titulo": "In Disequilibrium",
+     "anio": 2021,
+     "mbid": "56996924-4a76-4843-b532-3f0969e029b7",
+     "primer_lanzamiento": "2021-09-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "isildurs-bane-the-pearl-of-ever-changing-shell",
+     "titulo": "The Pearl of Ever Changing Shell",
+     "anio": 2024,
+     "mbid": "acc90d35-f36c-43d5-b87f-4d91712669ad",
+     "primer_lanzamiento": "2024-02-23",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

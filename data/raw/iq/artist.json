@@ -1,0 +1,1058 @@
+{
+  "begin-area": {
+    "iso-3166-2-codes": [
+      "GB-STH"
+    ],
+    "type-id": null,
+    "sort-name": "Southampton",
+    "type": null,
+    "disambiguation": "",
+    "name": "Southampton",
+    "id": "32950a38-9edd-42fd-aec9-26128507ff06"
+  },
+  "id": "9a5cf59b-5da0-4021-b885-b6b78dd6886e",
+  "name": "IQ",
+  "isnis": [
+    "0000000095620819"
+  ],
+  "end-area": null,
+  "type": "Group",
+  "disambiguation": "British progressive rock band",
+  "life-span": {
+    "end": null,
+    "begin": "1981",
+    "ended": false
+  },
+  "relations": [
+    {
+      "attribute-values": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Esau, Tim",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Tim Esau",
+        "id": "3666d5d4-2c18-4bf0-825b-6c39cedbc014"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "end": "1989-09",
+      "begin": "1981-07",
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "original"
+      ]
+    },
+    {
+      "attributes": [
+        "original"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1981-07",
+      "end": "2007-09-16",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Orford, Martin",
+        "name": "Martin Orford",
+        "id": "13d263a7-ac29-4955-b976-70f203c22f2a"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-values": {}
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "original"
+      ],
+      "begin": "1981-07",
+      "end": null,
+      "type": "member of band",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "id": "9bb917df-e11e-435e-a803-2a09ea16d9b7",
+        "name": "Michael Holmes",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Holmes, Michael",
+        "type": "Person",
+        "disambiguation": "guitarist of British prog band IQ",
+        "country": "GB"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1982-06",
+      "end": "1985-08",
+      "type": "member of band",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "sort-name": "Nicholls, Peter",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "UK prog vocalist for IQ & Niadem’s Ghost",
+        "type": "Person",
+        "country": "GB",
+        "id": "c38fa61a-a7aa-466d-8a53-eb22f2a42434",
+        "name": "Peter Nicholls"
+      }
+    },
+    {
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "drummer for IQ",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Cook, Paul",
+        "id": "8d56b86e-ed90-4018-b3cc-43c6b12f62f7",
+        "name": "Paul Cook"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "end": "2005-04",
+      "begin": "1982-07"
+    },
+    {
+      "end": "1989-09",
+      "begin": "1985-10",
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [],
+      "artist": {
+        "sort-name": "Menel, Paul",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "d539c562-0f25-477a-929f-bd00a3b80eb6",
+        "name": "Paul Menel"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "attribute-ids": {},
+      "target-type": "artist",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "artist": {
+        "name": "Les Marshall",
+        "id": "5b2af4bc-0e93-4e6e-ab0d-184d466fca82",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Marshall, Les"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "begin": "1989-09",
+      "end": "1990-02"
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "end": null,
+      "begin": "1990",
+      "type": "member of band",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "UK prog vocalist for IQ & Niadem’s Ghost",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Nicholls, Peter",
+        "name": "Peter Nicholls",
+        "id": "c38fa61a-a7aa-466d-8a53-eb22f2a42434"
+      }
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Jowitt, John",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "ee1d360e-250f-41eb-894f-c5f46aa64060",
+        "name": "John Jowitt"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "begin": "1991-01",
+      "end": "2011-01-07",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "name": "Andy Edwards",
+        "id": "3414d57a-8566-44a2-80df-aa7c55babe12",
+        "type": "Person",
+        "disambiguation": "British drummer",
+        "country": "GB",
+        "sort-name": "Edwards, Andy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "begin": "2005-04",
+      "end": "2008-12",
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "artist": {
+        "sort-name": "Westworth, Mark",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB",
+        "id": "6b5f8c60-fbc4-458f-a7c6-0217f6e74ec6",
+        "name": "Mark Westworth"
+      },
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "end": "2010-12-11",
+      "begin": "2007-10-03",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "name": "Paul Cook",
+        "id": "8d56b86e-ed90-4018-b3cc-43c6b12f62f7",
+        "sort-name": "Cook, Paul",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "drummer for IQ"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "type": "member of band",
+      "begin": "2009-11",
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "artist",
+      "attribute-values": {},
+      "begin": "2011-01-01",
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "id": "54e8d830-dbe1-4fd0-88ff-b17a186ba197",
+        "name": "Neil Durant",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Durant, Neil",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type": "member of band",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "artist": {
+        "name": "Tim Esau",
+        "id": "3666d5d4-2c18-4bf0-825b-6c39cedbc014",
+        "sort-name": "Esau, Tim",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "end": null,
+      "begin": "2011-01-14"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "url": {
+        "id": "f1c2b67f-c873-4d16-a333-b2bd7cc4173c",
+        "resource": "https://www.allmusic.com/artist/mn0000085346"
+      },
+      "ended": false,
+      "type": "allmusic",
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "url": {
+        "resource": "https://iq-gep.bandcamp.com/",
+        "id": "544494d6-92de-45d7-a1e2-f8c674568d3d"
+      },
+      "type": "bandcamp",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "type": "bandsintown",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "url": {
+        "id": "5dba57c4-dd7c-4e28-aa5c-4a80a688f7eb",
+        "resource": "https://www.bandsintown.com/a/54864"
+      }
+    },
+    {
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "url": {
+        "resource": "https://www.discogs.com/artist/691292",
+        "id": "e50d9833-e49d-457b-93ab-f74be4e9164d"
+      },
+      "type": "discogs",
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "type": "fanpage",
+      "source-credit": "",
+      "url": {
+        "id": "24c3ba23-1848-4bf4-8351-5977aa7f75af",
+        "resource": "http://iqmuseum.free.fr/"
+      },
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "url": {
+        "resource": "https://open.spotify.com/artist/0DQ9JcIWMGVzlQSfCVK4oN",
+        "id": "44bbd18e-9133-4143-bace-982077e09b26"
+      },
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.deezer.com/artist/74094202",
+        "id": "1244e5c7-a5ac-4dd6-ae48-71ec4992a6c9"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "type": "free streaming"
+    },
+    {
+      "type": "last.fm",
+      "url": {
+        "id": "a0b99850-7596-4e94-b27b-2949ae4b6b87",
+        "resource": "https://www.last.fm/music/IQ"
+      },
+      "source-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "type": "lyrics",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "url": {
+        "resource": "https://genius.com/artists/Iq-en",
+        "id": "13cde946-1487-45aa-ba12-fef388b1a372"
+      },
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type": "official homepage",
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": false,
+      "url": {
+        "id": "fa5b555f-24c1-482d-8cfe-4032413a5d95",
+        "resource": "https://www.iq-hq.co.uk/"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "type": "official homepage",
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "url": {
+        "id": "5257449f-2a7d-4041-bf11-7329563d9a14",
+        "resource": "http://www.gep.co.uk/iq/"
+      },
+      "ended": true,
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "id": "24ddc762-6a5a-4e3d-bd34-ca11d4b70cea",
+        "resource": "http://id.loc.gov/authorities/names/no98015962"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases"
+    },
+    {
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "url": {
+        "id": "300653aa-615c-4a69-835a-b6dd5ae6260c",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139041309"
+      },
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://d-nb.info/gnd/10289234-9",
+        "id": "2194f680-a4c9-4810-83fc-20b992984945"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "type": "other databases",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "url": {
+        "resource": "https://musicmoz.org/Bands_and_Artists/I/IQ/",
+        "id": "122e95ea-bdb1-4eb8-8ad8-00893c1e4b0b"
+      },
+      "ended": false,
+      "type": "other databases",
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "url": {
+        "id": "a41f536b-35d0-4910-bef2-00c9c88b8183",
+        "resource": "https://rateyourmusic.com/artist/iq"
+      },
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/iq-2/",
+        "id": "d56e4871-a0b0-4b60-9e7d-f62dde83ae01"
+      },
+      "type": "other databases"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=165",
+        "id": "6b923446-1499-4442-bc15-560e57f4115a"
+      },
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "type": "other databases",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "type": "other databases",
+      "url": {
+        "id": "46d47729-6886-45cd-b529-51aec7163d01",
+        "resource": "https://www.spirit-of-rock.com/en/band/IQ"
+      },
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.worldcat.org/identities/lccn-no98015962/",
+        "id": "0af90a0d-e37a-4156-a64d-24209fde602f"
+      },
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "url": {
+        "id": "f24a2728-31fb-4883-ad22-2302bb047fb6",
+        "resource": "https://www.emusic.com/artist/SEVENDIGITAL_10031/IQ"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "type": "purchase for download"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "id": "cafcf473-8aa2-45ed-9afd-9ff6c1bcdb7d",
+        "resource": "https://www.qobuz.com/us-en/interpreter/iq/623121"
+      },
+      "ended": false,
+      "type": "purchase for download",
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "purchase for mail-order",
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "source-credit": "",
+      "url": {
+        "resource": "http://www.iq-store.co.uk/shop/",
+        "id": "1b9c132e-cdc4-4aa1-8cd8-b894e273d9bc"
+      },
+      "ended": true,
+      "end": null,
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "type": "secondhandsongs",
+      "url": {
+        "id": "a787d7e4-6d8f-469f-b2c3-9ffb27e72d6f",
+        "resource": "https://secondhandsongs.com/artist/135568"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type": "setlistfm",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "url": {
+        "id": "ec8a9a50-445a-436f-9e3b-147d024f5d49",
+        "resource": "https://www.setlist.fm/setlists/iq-4bd6b33e.html"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": "",
+      "url": {
+        "id": "31dcb98a-f3ad-4f56-9a43-8c80bcee59cc",
+        "resource": "https://twitter.com/iqhqlive"
+      },
+      "ended": false,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "0923a9bf-e8bc-46e5-a2c7-f882947adb62",
+        "resource": "https://www.facebook.com/IQHQLive"
+      }
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": "",
+      "url": {
+        "id": "19963663-8276-4d8f-ad65-cfebb98216e0",
+        "resource": "https://www.instagram.com/iqhqlive/"
+      },
+      "ended": false,
+      "type": "social network",
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "type": "songkick",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.songkick.com/artists/540465",
+        "id": "89120c73-7a6c-45a8-822c-7310cd6f976e"
+      },
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "streaming",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "id": "7279bfe4-c1cf-409e-8200-87aa45905553",
+        "resource": "https://music.apple.com/gb/artist/61715447"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "url": {
+        "id": "5cae1748-5b34-483c-b0f3-ce21745d5598",
+        "resource": "https://music.apple.com/us/artist/61715447"
+      },
+      "type": "streaming",
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "url": {
+        "id": "b5fdcd17-1910-4141-993c-78b1022b244c",
+        "resource": "https://tidal.com/artist/23007635"
+      },
+      "ended": false,
+      "type": "streaming",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/iq/623121",
+        "id": "cafcf473-8aa2-45ed-9afd-9ff6c1bcdb7d"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming",
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "end": null
+    },
+    {
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "45602f78-834b-4c55-9727-bbfc47b5b518",
+        "resource": "http://viaf.org/viaf/141031574"
+      },
+      "type": "VIAF",
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "wikidata",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "url": {
+        "id": "f23c0eab-08dd-416a-8ace-2becb5b20334",
+        "resource": "https://www.wikidata.org/wiki/Q374777"
+      },
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCPPt46K4XXulW84A6PrKQkw",
+        "id": "bc467c31-2fb6-4bfa-98f0-eeb10588d01b"
+      },
+      "ended": false,
+      "type": "youtube",
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "youtube music",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCPPt46K4XXulW84A6PrKQkw",
+        "id": "342a2a6c-0ceb-4c93-a2ef-437f2188d2bd"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "aliases": [
+    {
+      "name": "I.Q.",
+      "primary": null,
+      "begin": null,
+      "end": null,
+      "type": null,
+      "locale": null,
+      "type-id": null,
+      "ended": false,
+      "sort-name": "I.Q."
+    }
+  ],
+  "area": {
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "disambiguation": "",
+    "type": null
+  },
+  "gender": null,
+  "ipis": [],
+  "country": "GB",
+  "sort-name": "IQ",
+  "gender-id": null
+}

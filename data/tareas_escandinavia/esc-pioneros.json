@@ -1,0 +1,307 @@
+{
+ "id": "esc-pioneros",
+ "escena": "escandinavia",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "kaipa",
+   "nombre": "Kaipa",
+   "tipo": "Group",
+   "pais": "SE",
+   "inicio": "1973",
+   "fin": null,
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Kaipa",
+   "formaciones_mb": [
+    "Roine Stolt (miembro; 1974–1979)",
+    "Max Åhman (miembro; 1979–1982)",
+    "Per Andersson (membranophone; 1982–1982)",
+    "Roine Stolt (miembro; 2000–2005)",
+    "Jonas Reingold (miembro; 2000–act.)",
+    "Per Nilsson (guitar; 2006–act.)",
+    "Per Andersson (miembro; ?–act.)",
+    "Ingemar Bergman (miembro; ?–act.)",
+    "Tomas Eriksson (miembro; ?–act.)",
+    "Hans Lundin (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "kaipa-kaipa",
+     "titulo": "Kaipa",
+     "anio": 1975,
+     "mbid": "b33c690a-cf54-3bd2-af54-00ec6172a477",
+     "primer_lanzamiento": "1975",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-inget-nytt-under-solen",
+     "titulo": "Inget nytt under solen",
+     "anio": 1976,
+     "mbid": "c999d741-5029-334b-acc7-e720306d3a68",
+     "primer_lanzamiento": "1976",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-solo",
+     "titulo": "Solo",
+     "anio": 1978,
+     "mbid": "f923330f-90c6-3195-90bf-5520df376506",
+     "primer_lanzamiento": "1978",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-hander",
+     "titulo": "Händer",
+     "anio": 1980,
+     "mbid": "fda8152a-ac7c-3c75-a62e-f4740371bae7",
+     "primer_lanzamiento": "1980",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-nattdjurstid",
+     "titulo": "Nattdjurstid",
+     "anio": 1982,
+     "mbid": "e946d59a-ae26-33ab-b8ad-31999c6216e8",
+     "primer_lanzamiento": "1982",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-notes-from-the-past",
+     "titulo": "Notes From the Past",
+     "anio": 2002,
+     "mbid": "75de8500-1ba7-3bcf-adc2-510b3c0ad33e",
+     "primer_lanzamiento": "2002-03-25",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-keyholder",
+     "titulo": "Keyholder",
+     "anio": 2003,
+     "mbid": "7c8b326a-bd56-39f1-a23b-aab2c101b4ab",
+     "primer_lanzamiento": "2003-08-25",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-mindrevolutions",
+     "titulo": "Mindrevolutions",
+     "anio": 2005,
+     "mbid": "0a1ef2e0-1b95-3ed4-9097-6ecfb0f418eb",
+     "primer_lanzamiento": "2005-05-30",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-angling-feelings",
+     "titulo": "Angling Feelings",
+     "anio": 2007,
+     "mbid": "66f5cfec-86a9-3286-a04d-415e3001d217",
+     "primer_lanzamiento": "2007-05-18",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-in-the-wake-of-evolution",
+     "titulo": "In the Wake of Evolution",
+     "anio": 2010,
+     "mbid": "c2265d50-6cf8-4656-b2fe-141274e89a94",
+     "primer_lanzamiento": "2010-03-15",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-vittjar",
+     "titulo": "Vittjar",
+     "anio": 2012,
+     "mbid": "4f878f09-bd60-4462-98ed-6d50fe3c11c2",
+     "primer_lanzamiento": "2012-08-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-sattyg",
+     "titulo": "Sattyg",
+     "anio": 2014,
+     "mbid": "19cedf05-2f47-4866-9ca3-1c692961abec",
+     "primer_lanzamiento": "2014-11-07",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-children-of-the-sounds",
+     "titulo": "Children of the Sounds",
+     "anio": 2017,
+     "mbid": "3e350c37-b5b9-449b-842b-8aba1b87f61a",
+     "primer_lanzamiento": "2017-09-22",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-urskog",
+     "titulo": "Urskog",
+     "anio": 2022,
+     "mbid": "a631a9a4-e03c-4792-bf69-83956f09fae1",
+     "primer_lanzamiento": "2022-04-29",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "kaipa-sommargryningsljus",
+     "titulo": "Sommargryningsljus",
+     "anio": 2024,
+     "mbid": "9cd7cdc4-45cb-481d-b2c3-c5281f4ef8d8",
+     "primer_lanzamiento": "2024-06-28",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "trettioariga-kriget",
+   "nombre": "Trettioåriga kriget",
+   "tipo": "Group",
+   "pais": "SE",
+   "inicio": "1970",
+   "fin": null,
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Trettio%C3%A5riga_Kriget",
+   "formaciones_mb": [],
+   "catalogo": [
+    {
+     "album_slug": "trettioariga-kriget-trettioariga-kriget",
+     "titulo": "Trettioåriga kriget",
+     "anio": 1974,
+     "mbid": "65a1a720-c8a5-3034-a21e-c939a2676612",
+     "primer_lanzamiento": "1974",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "trettioariga-kriget-krigssang",
+     "titulo": "Krigssång",
+     "anio": 1975,
+     "mbid": "fa08c8fa-78e2-3d05-9ddd-2f16ceeb17c0",
+     "primer_lanzamiento": "1975",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "trettioariga-kriget-hej-pa-er",
+     "titulo": "Hej på er!",
+     "anio": 1978,
+     "mbid": "80319d31-bad0-3ddd-acc8-16af7ce04b9a",
+     "primer_lanzamiento": "1978",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "trettioariga-kriget-mot-alla-odds",
+     "titulo": "Mot alla odds",
+     "anio": 1979,
+     "mbid": "2309c908-7868-3748-837b-88701c718e04",
+     "primer_lanzamiento": "1979",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "trettioariga-kriget-kriget",
+     "titulo": "Kriget",
+     "anio": 1981,
+     "mbid": "8581e158-f48a-450c-b9b2-50646eb007a1",
+     "primer_lanzamiento": "1981",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "trettioariga-kriget-elden-av-ar",
+     "titulo": "Elden av år",
+     "anio": 2004,
+     "mbid": "7b2c1d2d-28f6-3cc1-ab7d-ea023a138a56",
+     "primer_lanzamiento": "2004-03-17",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "trettioariga-kriget-i-borjan-och-slutet",
+     "titulo": "I början och slutet",
+     "anio": 2007,
+     "mbid": "ac6ffdee-63de-39a7-82bb-027d484e47e5",
+     "primer_lanzamiento": "2007",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "trettioariga-kriget-efter-efter",
+     "titulo": "Efter Efter",
+     "anio": 2011,
+     "mbid": "72c6f439-e73f-4c9e-9132-c6fcf774da00",
+     "primer_lanzamiento": "2011",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "trettioariga-kriget-seaside-air",
+     "titulo": "Seaside Air",
+     "anio": 2016,
+     "mbid": "7316fba7-63e1-4975-a3d1-0b2bb8878a24",
+     "primer_lanzamiento": "2016-03-03",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "trettioariga-kriget-till-horisonten",
+     "titulo": "Till horisonten",
+     "anio": 2021,
+     "mbid": "bf63ea8a-e44f-4d62-959e-8b785c7f59fb",
+     "primer_lanzamiento": "2021-03-26",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "ragnarok-se",
+   "nombre": "Ragnarök",
+   "tipo": "Group",
+   "pais": "SE",
+   "inicio": "1972",
+   "fin": null,
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Ragnar%C3%B6k_(Swedish_band)",
+   "formaciones_mb": [
+    "Peter Bryngelsson (original; ?–act.)",
+    "Kjell Karlgren (miembro; ?–act.)",
+    "Peder Nabo (miembro; ?–act.)",
+    "Henrik Strindberg (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "ragnarok-se-ragnarok",
+     "titulo": "Ragnarök",
+     "anio": 1976,
+     "mbid": "11d3e98a-0855-3c0e-965f-821c7783fc7c",
+     "primer_lanzamiento": "1976-02",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "ragnarok-se-fjarilar-i-magen",
+     "titulo": "Fjärilar i magen",
+     "anio": 1979,
+     "mbid": "e6850d76-8d83-42ed-9548-beba335efd13",
+     "primer_lanzamiento": "1979",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "ragnarok-se-fata-morgana",
+     "titulo": "Fata Morgana",
+     "anio": 1981,
+     "mbid": "bafdda51-daad-3dc1-a219-5866ae6f20e9",
+     "primer_lanzamiento": "1981",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "ragnarok-se-3-signs",
+     "titulo": "3 Signs",
+     "anio": 1983,
+     "mbid": "79325f3d-e355-4cb5-8052-cfbf572dd174",
+     "primer_lanzamiento": "1983",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "ragnarok-se-well",
+     "titulo": "Well",
+     "anio": 1991,
+     "mbid": "83ce08ca-bba2-36b4-8dcd-a64b7c03498d",
+     "primer_lanzamiento": "1991",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "ragnarok-se-path",
+     "titulo": "Path",
+     "anio": 2008,
+     "mbid": "94fe0b23-97f0-4347-8187-b472a13a6fb7",
+     "primer_lanzamiento": "2008",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

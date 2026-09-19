@@ -1,0 +1,35 @@
+{
+  "release-group-count": 3,
+  "release-groups": [
+    {
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "Arriving Twice",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "first-release-date": "2000-10-24",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "id": "15ced480-4edc-3159-ae18-05e79bf48171"
+    },
+    {
+      "secondary-type-ids": [],
+      "title": "Another Fine Tune You’ve Got Me Into",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "1978",
+      "secondary-types": [],
+      "id": "6baacd42-8c40-3b80-80b4-e9f793d403f6"
+    },
+    {
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "1975",
+      "id": "a9a5e0d3-dee7-3f70-ac97-31bf20251364",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Gilgamesh"
+    }
+  ]
+}

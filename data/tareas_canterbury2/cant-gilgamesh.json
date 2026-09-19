@@ -1,0 +1,93 @@
+{
+ "id": "cant-gilgamesh",
+ "escena": "canterbury",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "gilgamesh",
+   "nombre": "Gilgamesh",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1972",
+   "fin": "1978",
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Gilgamesh_(banda)",
+   "formaciones_mb": [
+    "Mike Travis (miembro; 1972–1975)",
+    "Phil Lee (miembro; 1973–act.)",
+    "Alan Gowen (miembro; ?–act.)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "gilgamesh-gilgamesh",
+     "titulo": "Gilgamesh",
+     "anio": 1975,
+     "mbid": "a9a5e0d3-dee7-3f70-ac97-31bf20251364",
+     "primer_lanzamiento": "1975",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "gilgamesh-another-fine-tune-youve-got-me-into",
+     "titulo": "Another Fine Tune You’ve Got Me Into",
+     "anio": 1978,
+     "mbid": "6baacd42-8c40-3b80-80b4-e9f793d403f6",
+     "primer_lanzamiento": "1978",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "gilgamesh-arriving-twice",
+     "titulo": "Arriving Twice",
+     "anio": 2000,
+     "mbid": "15ced480-4edc-3159-ae18-05e79bf48171",
+     "primer_lanzamiento": "2000-10-24",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "soft-heap",
+   "nombre": "Soft Heap",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": null,
+   "fin": null,
+   "wikipedia_url": null,
+   "formaciones_mb": [],
+   "catalogo": [
+    {
+     "album_slug": "soft-heap-rogue-element",
+     "titulo": "Rogue Element",
+     "anio": 1996,
+     "mbid": "bb6d0742-88b6-4fba-bc8b-2c8163a52967",
+     "primer_lanzamiento": "1996",
+     "soundtrack": false
+    }
+   ]
+  },
+  {
+   "slug": "khan",
+   "nombre": "Khan",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1971-04",
+   "fin": "1972-10",
+   "wikipedia_url": "https://en.wikipedia.org/wiki/Khan_(band)",
+   "formaciones_mb": [
+    "Nicholas Greenwood (bass; 1971-04–1972-06)",
+    "Steve Hillage (miembro; 1971-04–1972-10)",
+    "Eric Peachey (membranophone; 1971-04–1972-10)",
+    "Nigel Griggs (bass; 1972-07–1972-10)",
+    "Dave Stewart (miembro; 1972–1972)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "khan-space-shanty",
+     "titulo": "Space Shanty",
+     "anio": 1972,
+     "mbid": "b4681d43-92ad-3835-ae40-524c50c8adca",
+     "primer_lanzamiento": "1972-05",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

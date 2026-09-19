@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "pendragon-believe"
+titulo: "Believe"
+artista: "Pendragon"
+artista_slug: "pendragon"
+anio_ficha: 2005
+era: "moderna"
+escena: "neoprog"
+mb_rgid: "d38c68ad-b066-3c1c-b753-ceec4d0c6900"
+primer_lanzamiento: "2005-09-05"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Buen material disperso en un disco desparejo."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Consumo interno del círculo de seguidores."
+historia: "editorial"
+---
+
+Disco más íntimo y despojado, con acústicas y arreglos que bajan el volumen general; el impulso es honesto y el resultado, irregular. Hay dos o tres piezas que están entre lo mejor que escribió Barrett y otras que se quedan en el boceto. Vale como pieza de transición hacia el endurecimiento posterior.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después del disco más oscuro y mejor grabado de su catálogo, Pendragon hace un movimiento hacia adentro. El trabajo de 2005 baja el volumen general, apoya buena parte del material en guitarras acústicas y reduce la escala de los arreglos, en lo que parece una reacción deliberada contra la densidad del álbum anterior. Nick Barrett sigue escribiendo desde lo personal, pero ahora el tono es de búsqueda antes que de desgaste, y el título funciona como una instrucción dirigida a sí mismo.
+
+El centro del disco es «The Wishing Well», repartida en cuatro partes que arman un recorrido: la despedida de «For Your Journey», el rumbo marcado en «Sou' by Sou' West», la conversación de «We Talked» y la bifurcación final de «Two Roads». Es la mejor idea del conjunto y la que sostiene el argumento de la fe en algo, sea lo que sea. Alrededor, «Wisdom of Solomon» trabaja el juicio y la sabiduría heredada, «No Place for the Innocent» apunta al mundo que no perdona, y «The Edge of the World» cierra con la mirada larga. «Learning Curve» pone nombre a lo que el disco entero intenta. El problema es de nivel: hay piezas que están entre lo mejor que escribió Barrett y otras que se quedan en el boceto, sin que la banda parezca haber distinguido unas de otras.
+
+## La producción
+
+La producción volvió a repartirse entre Nick Barrett y Karl Groom, que además se ocupó de la ingeniería, la misma dupla que había dado forma al mejor disco de la etapa noventa. Acá el planteo es distinto: menos capas, menos coros, más espacio para la acústica y para la voz. Los teclados de Clive Nolan trabajan en un registro contenido y la batería de Fudge Smith se mantiene discreta, de modo que el peso recae en la escritura desnuda de cada tema.
+
+Esa transparencia es un arma de doble filo. Cuando el material es bueno, la producción lo deja brillar sin estorbos; cuando no lo es, no hay dónde esconderse, y varias piezas quedan expuestas en su condición de esbozo. El arte estuvo a cargo de Simon Williams, con diseño gráfico de Rachel Wilce, que empezaría a aparecer con regularidad en los créditos visuales del grupo.
+
+## Recepción y legado
+
+Se lo recibió con simpatía y con reparos, y esa sigue siendo la lectura correcta. El impulso es honesto —una banda de casi treinta años intentando no repetirse— y el resultado, irregular, con picos que justifican el disco y valles que lo alargan. En la discografía funciona sobre todo como bisagra: es lo más despojado que hicieron y viene justo antes del endurecimiento más pronunciado de su carrera, de modo que la calma de este trabajo se lee retrospectivamente como la respiración previa al golpe. Lo que se rescata es «The Wishing Well» y la voluntad de probar otra cosa. Lo que no, es la selección de material, que le habría sentado bien a una mano más severa.

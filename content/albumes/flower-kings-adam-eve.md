@@ -1,0 +1,39 @@
+---
+tipo: "album"
+slug: "flower-kings-adam-eve"
+titulo: "Adam & Eve"
+artista: "The Flower Kings"
+artista_slug: "flower-kings"
+anio_ficha: 2004
+era: "moderna"
+escena: "escandinavia"
+mb_rgid: "281a364a-087e-3e84-9101-761127b56004"
+primer_lanzamiento: "2004-07-16"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Buenos momentos dispersos en un disco sin centro."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Igual que los anteriores, para el público ya convencido."
+historia: "editorial"
+---
+
+Con Daniel Gildenlöw sumado como voz y guitarra, el disco gana peso y pierde ligereza; la escritura se vuelve más pesada y el concepto bíblico no aporta gran cosa. Hay dos o tres pasajes muy buenos sueltos en un conjunto que se arrastra. Es el comienzo de la meseta.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Adam & Eve llega con un refuerzo importante y con un concepto que no lo aprovecha. Daniel Gildenlöw se suma a la formación en guitarra eléctrica, teclados, percusión y voz, y su presencia cambia el peso específico del grupo: donde antes había dos voces que se complementaban ahora hay tres que se turnan, y la escritura se acomoda a un registro más denso y menos aéreo. El resto de la banda es la de Unfold the Future —Tomas Bodin en teclados, Jonas Reingold en bajo, Zoltan Csörsz en batería, Hasse Bruniusson en percusión, Hasse Fröberg en guitarra y voz, Roine Stolt en guitarras acústica y eléctrica y voz— pero sonando con más masa y menos aire.
+
+El marco conceptual es el relato del Génesis leído como fábula sobre el deseo y la caída, y el problema es que aporta poco. «Love Supreme» abre con casi veinte minutos y es donde el concepto se desarrolla con más ambición, «Adam & Eve» lo enuncia en formato canción a mitad de camino y «The Blade of Cain» cierra con el primer crimen. Alrededor, el material va por su cuenta: «Cosmic Circus» y «Babylon» son piezas breves de color, «A Vampires View» es una de las mejores del conjunto, «Days Gone By» funciona como interludio, «Starlight Man» y «Timelines» quedan en un terreno intermedio y «Drivers Seat» estira dieciocho minutos que no siempre justifica. Hay dos o tres pasajes muy buenos sueltos en un disco que se arrastra, y la lectura bíblica no los conecta.
+
+## La producción
+
+Los créditos verificados son inusualmente completos para este grupo en el apartado de ejecución y dejan ver el reparto exacto de los siete músicos, con Gildenlöw cubriendo guitarra, teclado, percusión y voz. No consta productor ni ingeniero ni estudio, de modo que esas atribuciones quedan fuera. En el arte, en cambio, hay un dato notable: la ilustración y el diseño corrieron por cuenta de Ciruelo Cabral, el dibujante argentino de fantasía, con fotografías de Lilian Forsberg, Robert Palmen y el propio Roine Stolt. La tapa resultante es la más figurativa del catálogo y encaja con la literalidad del concepto. En el sonido, la suma de tres guitarristas y dos teclistas produce una mezcla más cargada que la de los discos inmediatamente anteriores, con menos silencio entre capas.
+
+## Recepción y legado
+
+El disco se recibió como un paso adelante por el refuerzo de la formación y con el tiempo se lo lee al revés: gana peso y pierde justamente aquello que había hecho memorables a Retropolis y Space Revolver, que era la ligereza. Dentro de la discografía marca el comienzo de la meseta, ese tramo largo en que el grupo siguió tocando impecable mientras la escritura se repetía. Lo que se rescata son los pasajes sueltos —el tramo central de «Love Supreme», «A Vampires View»— y lo que no, la idea de que un concepto conocido de antemano alcanza para ordenar ochenta minutos de música. Después vendrían Paradox Hotel y The Sum of No Evil profundizando el mismo camino.

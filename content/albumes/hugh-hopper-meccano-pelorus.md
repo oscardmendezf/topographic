@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "hugh-hopper-meccano-pelorus"
+titulo: "Meccano Pelorus"
+artista: "Hugh Hopper"
+artista_slug: "hugh-hopper"
+anio_ficha: 1991
+era: "siguiente"
+escena: "canterbury"
+mb_rgid: "1af34e24-fb5c-4b36-b231-6bf5269d6422"
+primer_lanzamiento: "1991"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Reingreso discreto, bien recibido por su público fiel."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Edición chica de los noventa, sin repercusión."
+historia: "editorial"
+---
+
+Vuelve a grabar a nombre propio después de más de una década y lo hace desde el estudio, no desde la banda: capas, bucles y texturas antes que temas. El resultado es más ambiental que jazzístico y muestra a un músico cómodo trabajando solo. Se disfruta de fondo más que de frente.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Entre Two Rainbows Daily y este disco pasó más de una década sin que Hopper firmara un trabajo a nombre propio. Los ochenta fueron para él años de sesiones ajenas, docencia informal y proyectos que no llegaban a disco, y cuando volvió lo hizo desde el lugar contrario al que había ocupado en los setenta: no desde la banda sino desde el estudio. Meccano Pelorus no reúne músicos, reúne material. El título junta un juego de construcción por piezas y un instrumento de navegación que sirve para tomar marcaciones, y esa doble imagen describe bastante bien el contenido: armar por módulos y orientarse sobre la marcha.
+
+El repertorio confirma que el impulso es de revisión antes que de creación. «Wanglosaxon» abre con diez minutos de acumulación paciente. «Spanish Knee» viene de Hopper Tunity Box y aparece despojada de su forma de tema, convertida en atmósfera. La pieza que da título al disco es la más articulada del conjunto. «Miniluv» vuelve por tercera vez en su catálogo, ahora sin la violencia del original ni el swing de la versión de banda, reducida a un color. «Seven for Lee» recibe el mismo tratamiento, y «Springtime 85» cierra con material que venía esperando su momento desde mediados de la década anterior.
+
+## La producción
+
+Todo el disco es una decisión de producción. Hopper trabaja por capas: graba bajo, lo procesa, lo devuelve como base, apila teclados y tratamientos encima y deja que las repeticiones se desfasen hasta generar movimiento sin necesidad de batería. La tecnología de su momento le facilitó lo que en 1973 había hecho con tijeras y cinta, y se nota la comodidad de quien por fin tiene las herramientas que su método siempre pidió.
+
+El costo de esa comodidad es la pérdida de aspereza. Donde los primeros experimentos tenían empalmes visibles y un aire de urgencia, acá todo fluye, se disuelve y encadena sin fricción. El resultado es más ambiental que jazzístico: hay pulso pero rara vez hay ataque, hay armonía pero pocas melodías que se puedan recordar. Es música pensada para ocupar un espacio antes que para ser seguida de principio a fin.
+
+## Recepción y legado
+
+Volvió a ponerlo en circulación después de un silencio largo y sirvió sobre todo para eso: recordar que seguía activo. La crítica que aún prestaba atención a la escena de Canterbury lo recibió con cortesía y sin entusiasmo, y el disco no cambió la posición de nadie respecto de su obra.
+
+Con perspectiva se lo lee como el arranque de su última etapa, la que iba a ocuparlo durante los quince años siguientes: bucles, procesamiento y colaboraciones breves en lugar de bandas. Muestra a un músico cómodo trabajando solo, sin nadie a quien convencer, y esa comodidad es a la vez su virtud y su límite. Se disfruta de fondo más que de frente, y quien busque al Hopper que empujaba una sección rítmica va a tener que retroceder una década larga.

@@ -1,0 +1,79 @@
+{
+  "release-group-count": 7,
+  "release-groups": [
+    {
+      "id": "11070c59-92a2-4aa6-9339-46b212cd2c5c",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "first-release-date": "2011-01-21",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Breathing",
+      "disambiguation": "",
+      "secondary-type-ids": []
+    },
+    {
+      "primary-type": "Album",
+      "first-release-date": "2006-05-19",
+      "secondary-types": [],
+      "id": "22b245ab-39e6-3cef-89b1-3741d6d1ab51",
+      "secondary-type-ids": [],
+      "disambiguation": "",
+      "title": "Silence of Another Kind",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "first-release-date": "2007",
+      "primary-type": "Album",
+      "secondary-types": [
+        "Live"
+      ],
+      "id": "50c87f11-7eb5-39cf-a6ae-ff825962c5e5",
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "title": "Sensors",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": ""
+    },
+    {
+      "secondary-type-ids": [],
+      "title": "Kallocain",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": "",
+      "primary-type": "Album",
+      "first-release-date": "2004-06-04",
+      "secondary-types": [],
+      "id": "76ad296e-4c7d-3cc6-be3a-6a12c07605d6"
+    },
+    {
+      "disambiguation": "",
+      "title": "V",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "id": "7fe58813-abda-4740-9bee-e62c070d23e9",
+      "primary-type": "Album",
+      "first-release-date": "2012-11-05",
+      "secondary-types": []
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Ligament",
+      "disambiguation": "",
+      "secondary-type-ids": [],
+      "id": "83d0e08c-2a73-44f5-aa81-695b0cb51703",
+      "secondary-types": [],
+      "first-release-date": "2025-04-25",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type": "Album",
+      "first-release-date": "2002",
+      "secondary-types": [],
+      "id": "b41069fc-4e5d-3fe7-bf3e-c8b60e1dab0d",
+      "secondary-type-ids": [],
+      "title": "Timeloss",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": ""
+    }
+  ]
+}

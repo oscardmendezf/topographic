@@ -1145,6 +1145,249 @@
   },
   {
    "data": {
+    "id": "a:marillion",
+    "slug": "marillion",
+    "label": "Marillion",
+    "tipo": "artista",
+    "grupo": "neoprog"
+   }
+  },
+  {
+   "data": {
+    "id": "a:iq",
+    "slug": "iq",
+    "label": "IQ",
+    "tipo": "artista",
+    "grupo": "neoprog"
+   }
+  },
+  {
+   "data": {
+    "id": "a:pendragon",
+    "slug": "pendragon",
+    "label": "Pendragon",
+    "tipo": "artista",
+    "grupo": "neoprog"
+   }
+  },
+  {
+   "data": {
+    "id": "a:pallas",
+    "slug": "pallas",
+    "label": "Pallas",
+    "tipo": "artista",
+    "grupo": "neoprog"
+   }
+  },
+  {
+   "data": {
+    "id": "a:twelfth-night",
+    "slug": "twelfth-night",
+    "label": "Twelfth Night",
+    "tipo": "artista",
+    "grupo": "neoprog"
+   }
+  },
+  {
+   "data": {
+    "id": "a:arena",
+    "slug": "arena",
+    "label": "Arena",
+    "tipo": "artista",
+    "grupo": "neoprog"
+   }
+  },
+  {
+   "data": {
+    "id": "a:jadis",
+    "slug": "jadis",
+    "label": "Jadis",
+    "tipo": "artista",
+    "grupo": "neoprog"
+   }
+  },
+  {
+   "data": {
+    "id": "a:galahad",
+    "slug": "galahad",
+    "label": "Galahad",
+    "tipo": "artista",
+    "grupo": "neoprog"
+   }
+  },
+  {
+   "data": {
+    "id": "a:solstice",
+    "slug": "solstice",
+    "label": "Solstice",
+    "tipo": "artista",
+    "grupo": "neoprog"
+   }
+  },
+  {
+   "data": {
+    "id": "a:kaipa",
+    "slug": "kaipa",
+    "label": "Kaipa",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:trettioariga-kriget",
+    "slug": "trettioariga-kriget",
+    "label": "Trettioåriga kriget",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:ragnarok-se",
+    "slug": "ragnarok-se",
+    "label": "Ragnarök",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:isildurs-bane",
+    "slug": "isildurs-bane",
+    "label": "Isildurs Bane",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:anglagard",
+    "slug": "anglagard",
+    "label": "Änglagård",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:anekdoten",
+    "slug": "anekdoten",
+    "label": "Anekdoten",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:landberk",
+    "slug": "landberk",
+    "label": "Landberk",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:wobbler",
+    "slug": "wobbler",
+    "label": "Wobbler",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:white-willow",
+    "slug": "white-willow",
+    "label": "White Willow",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:flower-kings",
+    "slug": "flower-kings",
+    "label": "The Flower Kings",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:paatos",
+    "slug": "paatos",
+    "label": "Paatos",
+    "tipo": "artista",
+    "grupo": "escandinavia"
+   }
+  },
+  {
+   "data": {
+    "id": "a:gilgamesh",
+    "slug": "gilgamesh",
+    "label": "Gilgamesh",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:soft-heap",
+    "slug": "soft-heap",
+    "label": "Soft Heap",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:hugh-hopper",
+    "slug": "hugh-hopper",
+    "label": "Hugh Hopper",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:in-cahoots",
+    "slug": "in-cahoots",
+    "label": "In Cahoots",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:quiet-sun",
+    "slug": "quiet-sun",
+    "label": "Quiet Sun",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:delivery",
+    "slug": "delivery",
+    "label": "Delivery",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
+    "id": "a:khan",
+    "slug": "khan",
+    "label": "Khan",
+    "tipo": "artista",
+    "grupo": "canterbury"
+   }
+  },
+  {
+   "data": {
     "id": "r:advision-trident-abbey-road-the-manor",
     "slug": "advision-trident-abbey-road-the-manor",
     "label": "Advision · Trident · Abbey Road · The Manor",
@@ -1407,6 +1650,17 @@
   },
   {
    "data": {
+    "id": "e:a:hugh-hopper:sm:member_of",
+    "source": "a:hugh-hopper",
+    "target": "a:sm",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1968-12–1973-05)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
     "id": "e:a:robert-wyatt:matching-mole:member_of",
     "source": "a:robert-wyatt",
     "target": "a:matching-mole",
@@ -1545,6 +1799,28 @@
     "tipo": "member_of",
     "relacion": "miembro de",
     "etiqueta": "miembro (1974–1976)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:hugh-hopper:in-cahoots:member_of",
+    "source": "a:hugh-hopper",
+    "target": "a:in-cahoots",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "bass guitar (1985–1988)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:a:steve-hillage:khan:member_of",
+    "source": "a:steve-hillage",
+    "target": "a:khan",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1971-04–1972-10)",
     "estado": "musicbrainz"
    }
   },
@@ -1743,6 +2019,28 @@
     "tipo": "member_of",
     "relacion": "miembro de",
     "etiqueta": "miembro (1971–1972)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:richard-sinclair:in-cahoots:member_of",
+    "source": "r:richard-sinclair",
+    "target": "a:in-cahoots",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "bass guitar, original (1982–1985)",
+    "estado": "musicbrainz"
+   }
+  },
+  {
+   "data": {
+    "id": "e:dave-stewart:khan:member_of",
+    "source": "r:dave-stewart",
+    "target": "a:khan",
+    "tipo": "member_of",
+    "relacion": "miembro de",
+    "etiqueta": "miembro (1972–1972)",
     "estado": "musicbrainz"
    }
   },

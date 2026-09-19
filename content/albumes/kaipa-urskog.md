@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "kaipa-urskog"
+titulo: "Urskog"
+artista: "Kaipa"
+artista_slug: "kaipa"
+anio_ficha: 2022
+era: "moderna"
+escena: "escandinavia"
+mb_rgid: "a631a9a4-e03c-4792-bf69-83956f09fae1"
+primer_lanzamiento: "2022-04-29"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "El paisaje nórdico como asunto y no como decorado."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Alcance de sello especializado."
+historia: "editorial"
+---
+
+Disco de bosque, como anuncia el título, con la imaginería nórdica más marcada que nunca y un peso mayor del violín. Es el trabajo reciente donde el grupo suena más asentado en su propio paisaje y menos pendiente del molde sinfónico. Mantiene el nivel alto de una etapa que ya lleva más discos que la clásica.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Urskog —bosque primario, el que nunca fue talado— es el disco donde Kaipa deja de disimular de dónde viene su imaginería. El título no es un adorno: las seis piezas construyen un recorrido por un paisaje de pinos, frío y noche larga, y el grupo se instala ahí con una comodidad que en los discos inmediatamente anteriores no tenía. Hans Lundin sigue siendo el único hilo entre el cuarteto de Uppsala de 1975 y este grupo, y acá su escritura por fin deja de medirse contra el sinfonismo inglés para medirse contra la canción popular nórdica, que siempre fue su verdadero material de base.
+
+«The Frozen Dead of the Night» abre con casi diecinueve minutos y establece el tono: temas que se mueven despacio, con secciones que se encadenan por melodía y no por contraste dramático. «In a World of Pines» y «Wilderness Excursion» son literales hasta en el título, paseos por el bosque tratados como forma musical; el tema que da nombre al disco funciona como núcleo y «In the Wastelands of My Mind» traslada el mismo paisaje al interior, con la única letra francamente introspectiva del conjunto. «The Bitter Setting Sun» cierra con la segunda pieza más larga y con la imagen que recorre todo el álbum: la luz que se va y no vuelve del todo. El violín tiene acá un papel mucho mayor que en el disco previo y cambia el color del grupo más que cualquier otra decisión.
+
+## La producción
+
+No hay créditos de producción documentados para esta edición, así que lo verificable termina en lo que se escucha. Y lo que se escucha es un disco que reduce el peso del sintetizador solista en favor de texturas más orgánicas: cuerdas, teclados usados como armonía antes que como protagonismo, guitarra que entra a puntuar y una base rítmica menos frontal que en los álbumes anteriores. El resultado es un sonido más cálido y con más profundidad de campo, donde el detalle acústico se distingue sin que nadie tenga que subir de volumen.
+
+El criterio de arreglo también cambió: hay más pasajes donde el grupo toca poco y deja que la melodía sola ocupe el centro, una economía que en la etapa moderna de Kaipa era rara. La portada acompaña, con el bosque como sujeto directo y no como fondo decorativo.
+
+## Recepción y legado
+
+Entre los discos recientes del grupo, Urskog es el que más adhesión despierta y el que mejor argumento ofrece a quien sostiene que esta segunda etapa no es un apéndice. Mantiene el nivel alto de un tramo que ya lleva más entregas que la época clásica y, sobre todo, encuentra una identidad que no depende de la comparación con nadie: no es prog sinfónico sueco, es música nórdica con instrumentos de prog. Quien viene de los setenta va a seguir prefiriendo aquellos discos cantados en sueco, pero le va a costar más que antes negarle a este el derecho a llamarse Kaipa.

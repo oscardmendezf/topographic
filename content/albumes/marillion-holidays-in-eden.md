@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "marillion-holidays-in-eden"
+titulo: "Holidays in Eden"
+artista: "Marillion"
+artista_slug: "marillion"
+anio_ficha: 1991
+era: "siguiente"
+escena: "neoprog"
+mb_rgid: "4e6626b8-9386-30f0-905c-8aeac0143ab5"
+primer_lanzamiento: "1991-06-24"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "Concesión sin convicción; casi nadie lo defiende hoy."
+estrellas_comercial: 3
+comercial_fuente: "editorial"
+comercial_nota: "Escrito para ampliar público y ese fue su único logro parcial."
+historia: "editorial"
+---
+
+El intento explícito de escribir canciones de radio, con estribillos empujados al frente y las estructuras largas reducidas al mínimo. Funciona a ratos y se desarma en otros: cuando la banda se olvida del objetivo y toca —el bloque final, lo más extendido del disco— aparece el grupo que el resto del álbum está escondiendo. Es su disco más calculado y el que peor envejeció.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Después de haber sobrevivido al cambio de cantante, Marillion hizo lo que suele hacerse cuando se recupera el aire: buscar público. Holidays in Eden es el intento explícito de escribir canciones de radio, con estribillos empujados al frente, estructuras recortadas y las formas extendidas reducidas al mínimo indispensable. Es también el primer disco donde Steve Hogarth canta letras escritas del todo para él, lo que en teoría debía liberar al grupo y en la práctica lo dejó apuntando a un blanco que no era suyo.
+
+El resultado es desparejo de una manera casi didáctica. «Cover My Eyes (Pain and Heaven)» y «No One Can» son canciones eficaces y sin doblez, hechas para funcionar en tres o cuatro minutos, y funcionan; «Dry Land», que Hogarth traía de su etapa anterior, es de lo mejor del disco precisamente porque no fue escrita con este objetivo. «Splintering Heart» abre con el formato largo y deja ver al grupo que el resto del álbum está escondiendo. «The Party» y el tema título trabajan el mismo territorio de canción amable con distinto grado de convicción, y «This Town» arranca el bloque final, encadenado con «The Rakes Progress» y «100 Nights», que es donde la banda se olvida del plan comercial y simplemente toca. No es casualidad que ese tramo sea lo que la mayoría rescata.
+
+## La producción
+
+No hay créditos de producción documentados para esta edición, pero la orientación se escucha en cada decisión: voces muy adelante, estribillos duplicados y ensanchados, teclados usados como refuerzo armónico antes que como color, y una compresión general que empareja el disco y le quita relieve. Es una producción de comienzos de los noventa hecha para sonar bien en un equipo mediano, y ese objetivo se cumplió a costa del espacio que la banda necesita para desplegarse.
+
+Rothery queda en una situación incómoda: su guitarra, que vive de las notas largas y del sostén, tiene poco lugar en canciones que terminan antes de que él pueda instalar una idea. Cuando se le da espacio —otra vez, el bloque final— aparece intacto. Mosley y Trewavas sostienen el conjunto con una eficacia que nadie discute pero que el material no aprovecha.
+
+## Recepción y legado
+
+Es el disco más calculado del grupo y el que peor envejeció, dos cosas relacionadas. Cumplió a medias con el propósito para el que fue hecho y, sobre todo, dejó insatisfechos a los dos públicos: demasiado liviano para quien esperaba desarrollo, demasiado marcado por la banda para quien solo quería canciones. Con los años sus integrantes lo trataron con evidente distancia, y el efecto más duradero que tuvo fue provocar la reacción opuesta: el disco siguiente sería lo más oscuro, largo y poco comercial que hicieron nunca. En ese sentido, Holidays in Eden tiene un lugar en la historia del grupo, aunque no sea el que sus autores buscaban.

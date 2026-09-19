@@ -1,0 +1,283 @@
+{
+  "life-span": {
+    "end": "1978",
+    "begin": "1972",
+    "ended": true
+  },
+  "gender": null,
+  "id": "186e5799-e9e8-40bd-8007-255d918a1dda",
+  "begin-area": null,
+  "gender-id": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Gilgamesh",
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type": null,
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "sort-name": "United Kingdom"
+  },
+  "isnis": [],
+  "country": "GB",
+  "name": "Gilgamesh",
+  "aliases": [],
+  "end-area": null,
+  "ipis": [],
+  "relations": [
+    {
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Travis, Mike",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "name": "Mike Travis",
+        "disambiguation": "",
+        "id": "e1e507aa-4c1e-4ada-b324-b89bce214939"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "begin": "1972",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1975"
+    },
+    {
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "begin": "1973",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "1599e3a3-240b-4f4b-805e-aedfdc8c3861",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Lee, Phil",
+        "country": "GB",
+        "disambiguation": "guitar, English jazz musician",
+        "name": "Phil Lee",
+        "type": "Person"
+      }
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": null,
+      "artist": {
+        "id": "43e55317-feea-450a-bc66-bb15e9f13e81",
+        "sort-name": "Gowen, Alan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Alan Gowen",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person"
+      },
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "2b6cbfa1-c1e8-47db-b46f-690b7494df7a",
+        "resource": "https://www.allmusic.com/artist/mn0000657776"
+      },
+      "attributes": [],
+      "type": "allmusic",
+      "target-type": "url"
+    },
+    {
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": null,
+      "url": {
+        "id": "dd102fdf-a6fa-4999-ad65-e8bfb4a159ad",
+        "resource": "https://www.discogs.com/artist/1158291"
+      },
+      "type": "discogs",
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "free streaming",
+      "url": {
+        "resource": "https://open.spotify.com/artist/4Qbu3Rdnc5fWvgbP3DKuNx",
+        "id": "b4d2de80-f07b-4b5c-8dfe-96b27d962d41"
+      },
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "type": "free streaming",
+      "url": {
+        "resource": "https://www.deezer.com/artist/291825",
+        "id": "0af9bffc-69b1-478a-a15d-21f44484abac"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "type": "other databases",
+      "attributes": [],
+      "url": {
+        "id": "98123bdb-affc-4a57-a429-419efa66870a",
+        "resource": "https://rateyourmusic.com/artist/gilgamesh"
+      },
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/gilgamesh-2/",
+        "id": "0df3df03-1be0-49ab-803e-d70069e288c2"
+      },
+      "type": "other databases",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "id": "d2c250ed-1ac9-4577-b8d4-93688a4e9c0f",
+        "resource": "https://www.progarchives.com/artist.asp?id=128"
+      },
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/294719239",
+        "id": "3a245d75-a59a-44bc-aefa-ec0c07097759"
+      },
+      "attributes": [],
+      "type": "purchase for download"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.songkick.com/artists/527203",
+        "id": "8739c0a6-a599-45cc-9b42-06b35643fcff"
+      },
+      "type": "songkick",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "end": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1010493",
+        "id": "c2549fb7-6640-4118-8a05-4e7536e386f7"
+      },
+      "attributes": [],
+      "type": "wikidata",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    }
+  ],
+  "disambiguation": "English prog band",
+  "type": "Group"
+}

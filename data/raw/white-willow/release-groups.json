@@ -1,0 +1,119 @@
+{
+  "release-group-count": 10,
+  "release-groups": [
+    {
+      "id": "087ce78e-0eea-3dfa-8be4-1c49c3d48ab8",
+      "first-release-date": "2004-08-21",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Storm Season",
+      "secondary-types": []
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+        "81598169-0d6c-3bce-b4be-866fa658eda3"
+      ],
+      "first-release-date": "2020-03-20",
+      "id": "1009838f-6300-4b2c-b844-e375f92c7351",
+      "secondary-types": [
+        "Compilation",
+        "Demo"
+      ],
+      "title": "Pandora’s Box",
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "disambiguation": "",
+      "title": "Ex Tenebris",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "2375a457-cb8a-36c4-808b-8a6a2580f3ae",
+      "first-release-date": "1998"
+    },
+    {
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "6d6608cf-3e39-429a-91e1-76722bf07b78",
+      "first-release-date": "2015-10-08",
+      "disambiguation": "",
+      "title": "Occultations: An Introduction to White Willow",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album"
+    },
+    {
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "first-release-date": "1995",
+      "id": "70ab9e27-36da-365b-b3bf-9477aa524a61",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Ignis Fatuus",
+      "primary-type": "Album"
+    },
+    {
+      "disambiguation": "",
+      "title": "Future Hopes",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "96976515-a4f3-48cf-a67a-e7030516c708",
+      "first-release-date": "2017-03-31"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Signal to Noise",
+      "secondary-types": [],
+      "id": "9746d1aa-aef3-3400-9cad-ea15348b41c5",
+      "first-release-date": "2006",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "disambiguation": "",
+      "title": "Terminal Twilight",
+      "secondary-types": [],
+      "primary-type": "Album",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "aeb96836-de76-47f5-9664-76f46b8c0654",
+      "first-release-date": "2011-08-11"
+    },
+    {
+      "disambiguation": "",
+      "title": "The Prog Sampler",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type": "Album",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "id": "d24a68ea-e361-4ac7-bb70-3db7f2d153c6",
+      "first-release-date": "2025-10-13"
+    },
+    {
+      "id": "e7758b53-83d1-3069-8415-ba137b3a2d66",
+      "first-release-date": "2000",
+      "secondary-type-ids": [],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "primary-type": "Album",
+      "disambiguation": "",
+      "title": "Sacrament",
+      "secondary-types": []
+    }
+  ]
+}

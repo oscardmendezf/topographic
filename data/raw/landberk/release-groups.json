@@ -1,0 +1,59 @@
+{
+  "release-group-count": 5,
+  "release-groups": [
+    {
+      "primary-type": "Album",
+      "first-release-date": "1992",
+      "secondary-types": [],
+      "id": "2af48904-64d4-3bb7-9242-71a1040f957a",
+      "secondary-type-ids": [],
+      "title": "Lonely Land",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "disambiguation": ""
+    },
+    {
+      "disambiguation": "",
+      "title": "Riktigt äkta",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": [],
+      "id": "3c0d29be-6e8f-35b2-9259-2c92c5ac8faf",
+      "primary-type": "Album",
+      "first-release-date": "1992",
+      "secondary-types": []
+    },
+    {
+      "secondary-type-ids": [
+        "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Unaffected",
+      "disambiguation": "",
+      "secondary-types": [
+        "Live"
+      ],
+      "primary-type": "Album",
+      "first-release-date": "1995",
+      "id": "66299209-a76c-3050-95eb-194b5c320059"
+    },
+    {
+      "id": "a6f90b70-1a02-32de-bbbb-74c7e16741b0",
+      "first-release-date": "1996-01-01",
+      "primary-type": "Album",
+      "secondary-types": [],
+      "disambiguation": "",
+      "title": "Indian Summer",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-type-ids": []
+    },
+    {
+      "disambiguation": "",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "One Man Tell's Another",
+      "secondary-type-ids": [],
+      "id": "bee41cc7-78e9-3f36-9196-d1024e916fc9",
+      "secondary-types": [],
+      "first-release-date": "1994",
+      "primary-type": "Album"
+    }
+  ]
+}

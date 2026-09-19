@@ -1,0 +1,793 @@
+{
+  "begin-area": {
+    "type": null,
+    "iso-3166-2-codes": [
+      "GB-RDG"
+    ],
+    "id": "9f11c5cc-b4b5-4589-8476-bc863930caa7",
+    "disambiguation": "",
+    "sort-name": "Reading",
+    "name": "Reading",
+    "type-id": null
+  },
+  "disambiguation": "British prog band",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "isnis": [
+    "0000000086049913"
+  ],
+  "ipis": [],
+  "sort-name": "Twelfth Night",
+  "name": "Twelfth Night",
+  "country": "GB",
+  "end-area": null,
+  "id": "69c1a984-3456-420b-9475-c5a4ccad6b4f",
+  "type": "Group",
+  "gender-id": null,
+  "aliases": [],
+  "area": {
+    "disambiguation": "",
+    "sort-name": "United Kingdom",
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "type": null,
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "life-span": {
+    "ended": true,
+    "end": "2012",
+    "begin": "1978-09"
+  },
+  "gender": null,
+  "relations": [
+    {
+      "end": "1987",
+      "ended": true,
+      "attribute-ids": {},
+      "type": "member of band",
+      "begin": "1978-02",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Devoil, Brian",
+        "name": "Brian Devoil",
+        "id": "3515670e-ebf5-45a7-9874-59b8cb021837",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "id": "ae958bfe-0f1b-4ed0-b88f-06e756d9eaaf",
+        "country": "GB",
+        "sort-name": "Revell, Andy",
+        "disambiguation": "",
+        "name": "Andy Revell",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1978-02",
+      "type": "member of band",
+      "ended": true,
+      "end": "1987",
+      "attribute-ids": {}
+    },
+    {
+      "artist": {
+        "type": "Person",
+        "id": "a7a716ed-2cfb-489a-a795-176994e1f442",
+        "country": "GB",
+        "sort-name": "Mitten, Clive",
+        "disambiguation": "",
+        "name": "Clive Mitten",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": "1978-08",
+      "type": "member of band",
+      "end": "1986",
+      "ended": true,
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "id": "a1d7b3e4-7999-492a-802a-98f58c6652b9",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Battersby, Rick",
+        "disambiguation": "",
+        "name": "Rick Battersby",
+        "country": "GB"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "end": "1981-10-29",
+      "ended": true,
+      "attribute-ids": {},
+      "begin": "1979",
+      "type": "member of band"
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "disambiguation": "",
+        "name": "Electra McLeod",
+        "sort-name": "McLeod, Electra",
+        "id": "d8b256db-d599-4fe9-84f9-fec0c6da60b4",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "attribute-ids": {},
+      "end": "1980-11",
+      "ended": true,
+      "begin": "1980-09",
+      "type": "member of band"
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "direction": "backward",
+      "artist": {
+        "country": "GB",
+        "name": "Geoff Mann",
+        "disambiguation": "English vocalist, Twelfth Night",
+        "sort-name": "Mann, Geoff",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "ba90c04f-6f88-4caf-885f-21c7177d7ab6"
+      },
+      "target-type": "artist",
+      "attribute-ids": {},
+      "ended": true,
+      "end": "1983-11-05",
+      "type": "member of band",
+      "begin": "1981-08"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "name": "Rick Battersby",
+        "disambiguation": "",
+        "sort-name": "Battersby, Rick",
+        "id": "a1d7b3e4-7999-492a-802a-98f58c6652b9",
+        "type": "Person"
+      },
+      "attribute-ids": {},
+      "ended": true,
+      "end": "1987",
+      "type": "member of band",
+      "begin": "1982-11-05"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "direction": "backward",
+      "artist": {
+        "country": "GB",
+        "sort-name": "Sears, Andy",
+        "disambiguation": "",
+        "name": "Andy Sears",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "3894d872-0145-42a1-b89d-bc597cbff98d"
+      },
+      "target-type": "artist",
+      "attribute-ids": {},
+      "end": "1986",
+      "ended": true,
+      "type": "member of band",
+      "begin": "1983-11-05"
+    },
+    {
+      "ended": true,
+      "end": "1987",
+      "attribute-ids": {},
+      "begin": "1987",
+      "type": "member of band",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Martyn Watson",
+        "disambiguation": "UK prog vocalist for Twelfth Night",
+        "sort-name": "Watson, Martyn",
+        "country": "GB",
+        "id": "f62a76d5-1a0f-4f6e-8346-9519fbdb0b9f",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "direction": "backward"
+    },
+    {
+      "type": "allmusic",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "96726303-fadb-4ed1-ae1f-a4e0b38b47b5",
+        "resource": "https://www.allmusic.com/artist/mn0000198379"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "bandcamp",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "e88d8b4f-40fb-4da0-b57d-ca8f4c758a40",
+        "resource": "https://twelfthnightuk.bandcamp.com/"
+      }
+    },
+    {
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.bandsintown.com/a/355500",
+        "id": "daf44fa8-94af-486b-944e-40370a42e8f9"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "type": "bandsintown"
+    },
+    {
+      "begin": null,
+      "type": "biography",
+      "ended": true,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "cff0a528-b49b-4ba1-a93c-e2563b35004e",
+        "resource": "http://twelfthnight.info/history/index.php"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "672255d0-5dd9-4362-b2fe-5dc8a95495a9",
+        "resource": "http://twelfthnight.info/discography/releases.php"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "source-credit": "",
+      "type": "discography page",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "ended": true
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type": "discogs",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "url": {
+        "id": "3282fe4c-8463-4061-b5fe-679ac75ca678",
+        "resource": "https://www.discogs.com/artist/638498"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "url": {
+        "resource": "https://open.spotify.com/artist/6JqLJ2u3QyKclZmY7Y2T4Q",
+        "id": "cf513f02-15cb-474f-b741-eb048d5b17be"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "free streaming"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type": "free streaming",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "url": {
+        "id": "0f152576-745c-4d0d-9c16-a32d45577a8e",
+        "resource": "https://www.deezer.com/artist/214844"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "5edcf0e9-16ea-4435-b55a-fa5835e4e612",
+        "resource": "https://www.imdb.com/name/nm11564194/"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "type": "IMDb",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "url": {
+        "id": "684b3780-b2db-4e17-9486-78beee15c0a7",
+        "resource": "https://www.last.fm/music/Twelfth+Night"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "type": "last.fm",
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "b6b93184-82fc-4227-aeb9-1c666f0c492e",
+        "resource": "https://genius.com/artists/Twelfth-night"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "source-credit": "",
+      "begin": null,
+      "type": "lyrics",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "type": "myspace",
+      "begin": null,
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://myspace.com/nighttwelfth",
+        "id": "50d1ff1b-8f7b-49e3-88fe-f8b94261645b"
+      }
+    },
+    {
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "http://twelfthnight.info/",
+        "id": "68de51fa-9084-4e4a-bcff-59af91bacced"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type": "official homepage",
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QH7JmppmdXDHfVkyrGCQRWt",
+        "id": "006915ee-7e78-47ac-9a3c-355f67e84730"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/twelfth-night",
+        "id": "caaa2354-291f-4b5f-8f31-0f5a7943f541"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "begin": null,
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/twelfth-night/",
+        "id": "ed4af177-4ee1-442e-8957-5cf9e6487e27"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=339",
+        "id": "44433cde-127e-4400-bf1f-c320030587eb"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/296259685",
+        "id": "fa6feb1c-d2bb-48f1-a778-80a57630ce09"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "type": "purchase for download",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "resource": "https://uk.7digital.com/artist/twelfth-night",
+        "id": "76e1a16e-27ea-4c5e-b008-425a95addb16"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "type": "purchase for download",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "url": {
+        "id": "aa2293e4-726d-4408-92b1-5daaa6aa6944",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/twelfth-night/884594"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "type": "setlistfm",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "bcae3e44-670e-4cf7-9b06-47d37f31a260",
+        "resource": "https://www.setlist.fm/setlists/twelfth-night-3bd64040.html"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "source-credit": ""
+    },
+    {
+      "type": "social network",
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "1315163b-f150-4f04-a285-c0ca32607543",
+        "resource": "https://twitter.com/TNBandOnline"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": ""
+    },
+    {
+      "url": {
+        "id": "95273748-337a-42b7-908d-fce94fb977bf",
+        "resource": "https://www.facebook.com/NightTwelfth"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "begin": null,
+      "type": "social network",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "9b6319da-e6ce-4aab-a5b7-c5c799375520",
+        "resource": "https://www.songkick.com/artists/511752"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "source-credit": "",
+      "begin": null,
+      "type": "songkick",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/296259685",
+        "id": "fa6feb1c-d2bb-48f1-a778-80a57630ce09"
+      },
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type": "streaming",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "url": {
+        "id": "28e3d8c4-e105-4e1f-b4d1-aefdb1ef7106",
+        "resource": "https://tidal.com/artist/3626317"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "streaming"
+    },
+    {
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type": "streaming",
+      "begin": null,
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "aa2293e4-726d-4408-92b1-5daaa6aa6944",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/twelfth-night/884594"
+      }
+    },
+    {
+      "type": "wikidata",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "819530d0-2ce0-49f8-a5e3-64766736c5b6",
+        "resource": "https://www.wikidata.org/wiki/Q1781747"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "type": "youtube",
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "d4b3d555-0125-42d2-97f3-96d53dbc392a",
+        "resource": "https://www.youtube.com/channel/UC2Aq-BWMG3JFc2bSQ7Zkk5A"
+      }
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type": "youtube music",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "url": {
+        "resource": "https://music.youtube.com/channel/UC2Aq-BWMG3JFc2bSQ7Zkk5A",
+        "id": "fb7369b5-93c3-482f-adad-6cb8cc14fd5a"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "marillion-marillion-com"
+titulo: "marillion.com"
+artista: "Marillion"
+artista_slug: "marillion"
+anio_ficha: 1999
+era: "siguiente"
+escena: "neoprog"
+mb_rgid: "9b9325c3-daa2-31be-9ed4-cb1061b32371"
+primer_lanzamiento: "1999-10-18"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Recuperación técnica más que artística."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Circuló casi exclusivamente entre su propia base."
+historia: "editorial"
+---
+
+Vuelven a la producción cuidada y a las texturas amplias, con un título que reconoce de dónde venía ya su relación con el público. Alterna canciones sólidas con material que suena a demo ampliada, y la pieza extensa del final vuelve a ser lo mejor. Corrige el error del anterior sin llegar a proponer nada.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El título dice más que el disco. Para 1999 Marillion había convertido su relación directa con el público en el mecanismo que la sostenía: correo electrónico, listas, un contacto sin intermediarios que en aquel momento casi ningún grupo de su escala estaba usando. Llamar al álbum por la dirección de su propio sitio era reconocer de dónde venía ahora su sustento, y también admitir que la carrera había dejado de pasar por los canales habituales.
+
+Musicalmente es una corrección de rumbo. Después del experimento áspero anterior, el grupo vuelve a la producción cuidada y a las texturas amplias, con arreglos que dejan espacio y una mezcla que separa los planos. El problema es que corrige sin proponer: alterna canciones sólidas con material que suena a demo ampliada. «A Legacy» abre bien y «Go!» es lo más directo del conjunto; «Deserve» y «Enlightened» sostienen el costado melódico; «Rich» y «Built-in Bastard Radar» apuntan al sarcasmo social y se quedan a mitad de camino. La pieza que justifica el disco es «Interior Lulu», más de quince minutos sobre una identidad que se disuelve en la vida conectada, un tema que en 1999 era mucho menos obvio de lo que parece hoy; es la construcción más ambiciosa de la etapa y la que mejor resiste. «House» cierra con diez minutos de otra cosa, más lentos y más domésticos.
+
+## La producción
+
+No hay créditos de producción documentados para esta edición más allá del apartado fotográfico, que firman Carl Glover y Niels Van Iperen. Lo que se escucha es un regreso consciente al acabado: profundidad entre planos, teclados usados como ambiente antes que como relleno, guitarra con aire alrededor y una dinámica que vuelve a existir. Rothery recupera el espacio que el disco anterior le había quitado y sus intervenciones vuelven a ser reconocibles desde la primera nota.
+
+El desnivel del material, sin embargo, expone un problema de edición más que de sonido: hay canciones que fueron trabajadas hasta el final y otras que parecen haberse quedado en la etapa de esquema, y el disco no distingue entre unas y otras. En las piezas largas, donde el grupo tiene tiempo para construir por acumulación, el método funciona; en las cortas, la producción cuidada termina subrayando que no hay demasiado que cuidar.
+
+## Recepción y legado
+
+Se lo recibió como lo que es: un disco que arregla el error anterior sin dar un paso adelante. Los seguidores lo defienden por «Interior Lulu» y por poco más, y esa es una descripción bastante exacta de su lugar en el catálogo. Cierra la década más irregular del grupo y también el período en que la banda todavía buscaba un modelo de supervivencia; el que encontraría poco después, financiando los discos directamente con su público, terminaría siendo más influyente que cualquier cosa contenida en este álbum. Como música, es un capítulo menor; como señal de hacia dónde iba a moverse el grupo, es más interesante de lo que suena.

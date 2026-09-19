@@ -1,0 +1,646 @@
+{
+  "sort-name": "Trettioåriga kriget",
+  "country": "SE",
+  "aliases": [],
+  "isnis": [],
+  "end-area": null,
+  "area": {
+    "iso-3166-1-codes": [
+      "SE"
+    ],
+    "sort-name": "Sweden",
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+    "type": null,
+    "type-id": null,
+    "disambiguation": "",
+    "name": "Sweden"
+  },
+  "id": "f854315f-8b26-4872-8b8c-21f48112f934",
+  "begin-area": null,
+  "ipis": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "type": "Group",
+  "gender-id": null,
+  "life-span": {
+    "end": null,
+    "begin": "1970",
+    "ended": false
+  },
+  "relations": [
+    {
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "allmusic",
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000304651",
+        "id": "52b559f6-a080-428d-a009-acdd643dce9d"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "resource": "https://trettioarigakriget.bandcamp.com/",
+        "id": "ce718978-4800-410c-a77d-7641d746069f"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "bandcamp",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "bandsintown",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.bandsintown.com/a/247379",
+        "id": "5c36fe63-a9f3-4fa5-8b5f-a759119b4a68"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "type": "biography",
+      "source-credit": "",
+      "end": null,
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://getsongbpm.com/artist/trettioaariga-kriget/mwGYA",
+        "id": "650ceef5-26ba-4705-8f0c-c258561dc625"
+      }
+    },
+    {
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "url": {
+        "id": "1411c177-842d-483f-b88c-357ed49cd021",
+        "resource": "https://www.apocalypselatermusic.com/2021/04/trettioariga-kriget-till-horisonten-2021.html"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "source-credit": "",
+      "end": null,
+      "type": "biography",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "type": "biography",
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "22efc360-8ad7-4467-8cc0-b723b2ca2341",
+        "resource": "https://www.musicwaves.fr/frmArtist.aspx?ID=3399&REF=TRETTIOARIGA-KRIGET"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://swedishprogg.blogspot.com/2018/08/trettioariga-kriget-complete-albums.html",
+        "id": "2cb9336c-11a6-4c45-8964-dec043bed470"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "type": "blog",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "blog",
+      "target-credit": "",
+      "type-id": "eb535226-f8ca-499d-9b18-6a144df4ae6f",
+      "url": {
+        "resource": "https://www.apocalypselatermusic.com/2021/04/trettioariga-kriget-till-horisonten-2021.html",
+        "id": "1411c177-842d-483f-b88c-357ed49cd021"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://swedishprogg.blogspot.com/2018/08/trettioariga-kriget-complete-albums.html",
+        "id": "2cb9336c-11a6-4c45-8964-dec043bed470"
+      },
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "discography page",
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f"
+    },
+    {
+      "url": {
+        "id": "22efc360-8ad7-4467-8cc0-b723b2ca2341",
+        "resource": "https://www.musicwaves.fr/frmArtist.aspx?ID=3399&REF=TRETTIOARIGA-KRIGET"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "discography page",
+      "target-credit": "",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/1266092",
+        "id": "0dc6e5a5-a35f-4b00-b383-0a95df1afcfe"
+      },
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "type": "discogs",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "531c1800-72c3-4ab8-8ff0-a6cf9e7a611c",
+        "resource": "https://open.spotify.com/artist/1ipWSA4QSeDPzdML4dxniT"
+      },
+      "attribute-values": {},
+      "type": "free streaming",
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "free streaming",
+      "source-credit": "",
+      "end": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "8f662a39-74d6-4c51-8ab8-7581125c8542",
+        "resource": "https://www.deezer.com/artist/519089"
+      },
+      "direction": "forward",
+      "ended": false,
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "type": "last.fm",
+      "end": null,
+      "source-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "id": "b0988891-f215-425b-b488-95a2697e84ac",
+        "resource": "https://www.last.fm/music/Trettio%C3%A5riga+Kriget"
+      }
+    },
+    {
+      "url": {
+        "id": "a39e37a3-5a56-4b38-96c3-7647ddf5bc0c",
+        "resource": "https://genius.com/artists/Trettioariga-kriget"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-credit": "",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "lyrics"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "target-credit": "",
+      "type": "myspace",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "c940363e-36f6-4666-be2a-72718c376887",
+        "resource": "https://myspace.com/trettioarigakriget"
+      },
+      "begin": null,
+      "ended": false,
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.trettioarigakriget.com/",
+        "id": "17bc6357-584d-4b21-ace5-3a1fc12057e3"
+      },
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "official homepage",
+      "source-credit": "",
+      "end": null
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/trettioariga_kriget",
+        "id": "d50b56df-c0c2-426d-bcf9-ce35a2e71852"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false
+    },
+    {
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/trettioariga-kriget/",
+        "id": "0cda5cce-ca7b-455a-bbf9-a69fb60d1b8c"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "other databases",
+      "url": {
+        "id": "50e589cf-376f-4123-a514-2f6fd54f071d",
+        "resource": "https://www.progarchives.com/artist.asp?id=639"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "id": "96ca9f7b-289d-4ae0-b91d-32818bd0fdbe",
+        "resource": "https://itunes.apple.com/gb/artist/id252796326"
+      },
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "purchase for download",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://music.apple.com/ch/artist/252796326",
+        "id": "6f5e7fd9-d9c0-4b3e-9b7a-4e1ec43c695f"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "type": "purchase for download",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203"
+    },
+    {
+      "url": {
+        "id": "84c803bf-dcf3-41b6-9963-8097d6f5f2f1",
+        "resource": "https://music.apple.com/se/artist/252796326"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "source-credit": "",
+      "type": "purchase for download",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "setlistfm",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "55590e2f-4574-4f15-91a6-fd024db6ff8d",
+        "resource": "https://www.setlist.fm/setlists/trettioariga-kriget-5bd66f7c.html"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "c346a10d-6fd3-44ec-8cfe-161279d3a12c",
+        "resource": "https://www.facebook.com/trettioariga"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "social network",
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "type": "social network",
+      "end": null,
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.instagram.com/trettioariga_kriget/",
+        "id": "0f378d9c-b900-4467-95cb-730ac2eb8c43"
+      },
+      "begin": null,
+      "ended": false,
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "songkick",
+      "target-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.songkick.com/artists/1103897",
+        "id": "ee2181aa-5774-49de-ab5f-992ed19d303a"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "soundcloud",
+      "target-credit": "",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://soundcloud.com/trettioariga-kriget-official",
+        "id": "86d2cfb8-9d67-4330-b2d5-c6cd7638858b"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://music.apple.com/de/artist/252796326",
+        "id": "468c9b45-3485-4dbc-9ead-6958bac2da35"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "end": null,
+      "type": "streaming",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "type": "streaming",
+      "end": null,
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "157901c2-8815-4712-96ce-0a1d2c5e35de",
+        "resource": "https://tidal.com/artist/3717790"
+      },
+      "begin": null,
+      "ended": false,
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "id": "b5f7c192-b382-42c2-8db8-507588a768a1",
+        "resource": "https://www.wikidata.org/wiki/Q839517"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "wikidata",
+      "target-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698"
+    },
+    {
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "youtube",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "url": {
+        "id": "4c42c934-b794-4e0b-b8d5-04dce715bed7",
+        "resource": "https://www.youtube.com/channel/UCF-3T56-HYnpZZiVj9p4urA"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "43b5d504-e0af-487d-a944-844af1e41c85",
+        "resource": "https://www.youtube.com/channel/UCxW3PQsAz7SayXCQQIofsXQ"
+      },
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-credit": "",
+      "type": "youtube",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "538c8552-e451-43e5-b929-adb00b73d8aa",
+        "resource": "https://music.youtube.com/channel/UCF-3T56-HYnpZZiVj9p4urA"
+      },
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "youtube music",
+      "end": null,
+      "source-credit": ""
+    }
+  ],
+  "gender": null,
+  "name": "Trettioåriga kriget",
+  "disambiguation": ""
+}

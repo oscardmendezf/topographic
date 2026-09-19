@@ -1,0 +1,1082 @@
+{
+  "sort-name": "Galahad",
+  "country": "GB",
+  "gender-id": null,
+  "area": {
+    "disambiguation": "",
+    "type": null,
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "ipis": [],
+  "gender": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "artist": {
+        "name": "John O’Callaghan",
+        "id": "b1eefb33-b317-471f-b7c3-26b687ffba18",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "former guitar player of Galahad",
+        "sort-name": "O’Callaghan, John",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "begin": "1985-07",
+      "end": "1986-05",
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-type": "artist"
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "target-type": "artist",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "former drummer of Galahad",
+        "sort-name": "O’Callaghan, Paddy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Paddy O’Callaghan",
+        "id": "de5ac94e-2368-4430-9bfd-9755d4a670ad"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "begin": "1985-07",
+      "end": "1987-01",
+      "attributes": [
+        "membranophone",
+        "original"
+      ],
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hodgson, Nick",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "UK | former keyboard player of Galahad",
+        "id": "183a5067-5e3b-4fc4-9eac-7cd76abc7d2c",
+        "name": "Nick Hodgson"
+      },
+      "source-credit": "",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "end": "1987-03",
+      "begin": "1985-07",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "direction": "backward",
+      "end": "1987-03",
+      "begin": "1985-07",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "UK | former keyboard player of Galahad",
+        "sort-name": "Hooker, Mike",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Mike Hooker",
+        "id": "50a618b5-0d8c-4564-9aae-287dfca7e2f4"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-credits": {},
+      "attribute-values": {}
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "bass guitar",
+        "original"
+      ],
+      "direction": "backward",
+      "end": "1989-03",
+      "begin": "1985-07",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "id": "c9d32e2d-20df-4924-8a58-844a7b7a88af",
+        "name": "Paul Watts",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "former bass player of Galahad",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Watts, Paul"
+      }
+    },
+    {
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Keyworth, Roy",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Roy Keyworth",
+        "id": "6bc3c1ea-fc3b-49b2-98b8-bfe7e8c0355e"
+      },
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1985-07",
+      "end": "1998",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      }
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "vocalist of prog rock band Galahad",
+        "sort-name": "Nicholson, Stuart",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f64d7709-b2b7-4d16-b739-9f5fbc268f49",
+        "name": "Stuart Nicholson"
+      },
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1985-07",
+      "end": null,
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      }
+    },
+    {
+      "attributes": [
+        "keyboard"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "end": "1988-06",
+      "begin": "1987-03",
+      "type": "member of band",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "artist": {
+        "id": "3eabd2aa-f66e-4e93-9ff4-a986712cbe7e",
+        "name": "Mike Hewetson",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hewetson, Mike",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attribute-values": {},
+      "attribute-credits": {}
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "attribute-credits": {},
+      "attribute-values": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1987-03",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Luckman, Spencer",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Spencer Luckman",
+        "id": "d0de6d69-2039-4640-ab6c-460e542f6163"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "source-credit": "",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "artist": {
+        "name": "Mark Andrews",
+        "id": "d94d50aa-101f-4fbf-8418-c3419b4503e5",
+        "disambiguation": "former keyboard player of Galahad",
+        "type": "Person",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Andrews, Mark"
+      },
+      "attributes": [
+        "keyboard"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1988-06",
+      "end": "1991-03"
+    },
+    {
+      "artist": {
+        "name": "Pat McCann",
+        "id": "3e058207-75c1-4023-aefc-bb6f2349d586",
+        "sort-name": "McCann, Pat",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": ""
+      },
+      "type": "member of band",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": "1989-04",
+      "begin": "1989-03",
+      "target-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar"
+      ],
+      "end": "1992-04",
+      "begin": "1989-04",
+      "type": "member of band",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "disambiguation": "bass player, Galahad",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Ashton, Tim",
+        "id": "4c1b7527-3562-49c5-a569-784dd6e280e0",
+        "name": "Tim Ashton"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-values": {},
+      "attribute-credits": {}
+    },
+    {
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar"
+      ],
+      "begin": "1993",
+      "end": "2001",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "name": "Neil Pepper",
+        "id": "9f491998-2152-4125-8847-e95cf3319527",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Pepper, Neil",
+        "type": "Person",
+        "disambiguation": "ex‐bass guitarist of Galahad",
+        "country": "GB"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-credits": {},
+      "attribute-values": {}
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "begin": "1997-08",
+      "end": null,
+      "type": "member of band",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Baker, Dean",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "keyboardist; Galahad, Coburg, Cloak",
+        "name": "Dean Baker",
+        "id": "50901a15-3776-4a1f-bcd0-e4f2e2b0b2f9"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "attribute-values": {},
+      "attribute-credits": {}
+    },
+    {
+      "begin": "1999-04",
+      "end": "2017-03",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "artist": {
+        "id": "6bc3c1ea-fc3b-49b2-98b8-bfe7e8c0355e",
+        "name": "Roy Keyworth",
+        "sort-name": "Keyworth, Roy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "target-type": "artist",
+      "attribute-values": {},
+      "attribute-credits": {}
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-credits": {},
+      "attribute-values": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "end": "2009-06",
+      "begin": "2005",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Abraham, Lee",
+        "id": "a217f5df-f9e3-4aee-b6de-599c5c2e6c7d",
+        "name": "Lee Abraham"
+      }
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Ashton, Tim",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "bass player, Galahad",
+        "id": "4c1b7527-3562-49c5-a569-784dd6e280e0",
+        "name": "Tim Ashton"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "source-credit": "",
+      "begin": "2014-08",
+      "end": "2017-12",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar"
+      ]
+    },
+    {
+      "artist": {
+        "id": "f950a016-6ce5-4006-a991-b6abe95c8c94",
+        "name": "Mark Spencer",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "bass/guitar, Coburg, Galahad, LaHost, Twelfth Night",
+        "sort-name": "Spencer, Mark",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "2017-12",
+      "end": null,
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist"
+    },
+    {
+      "attribute-credits": {},
+      "attribute-values": {},
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "target-type": "artist",
+      "artist": {
+        "id": "a217f5df-f9e3-4aee-b6de-599c5c2e6c7d",
+        "name": "Lee Abraham",
+        "sort-name": "Abraham, Lee",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "end": null,
+      "begin": "2017",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "guitar"
+      ]
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Galahad Electric Company",
+        "type": "Group",
+        "country": "GB",
+        "disambiguation": "",
+        "id": "df876ab0-ec60-42b3-8d5f-637e92619c3c",
+        "name": "Galahad Electric Company"
+      },
+      "source-credit": "",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "ended": false,
+      "type": "subgroup"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "813d361e-cd97-4ee5-944a-f8d5ae27cce4",
+        "resource": "https://www.allmusic.com/artist/mn0000190336"
+      },
+      "source-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "ended": false,
+      "type": "allmusic",
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type": "bandcamp",
+      "url": {
+        "resource": "https://galahad1.bandcamp.com/",
+        "id": "17836fb7-24a8-4cc0-b6fe-24c8a55a1065"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88"
+    },
+    {
+      "type": "bandsintown",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.bandsintown.com/a/114976",
+        "id": "220a0cfb-14dc-4f48-bcbe-47cd3c3e8585"
+      },
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.discogs.com/artist/332683",
+        "id": "38028533-3227-4a14-a099-430181ebd20d"
+      },
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "type": "discogs"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "free streaming",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "693f5b4a-868b-4c23-8810-275660dc2f57",
+        "resource": "https://open.spotify.com/artist/2IYfNXFeQLyNhYaU1I0ZiI"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "end": null
+    },
+    {
+      "type": "free streaming",
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "url": {
+        "resource": "https://www.deezer.com/artist/342621",
+        "id": "92d4fe4c-53af-459e-9603-e1969392a1a0"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "source-credit": "",
+      "url": {
+        "id": "fa347e02-fcbc-42e6-a439-7e67dd5308ff",
+        "resource": "https://www.last.fm/music/Galahad"
+      },
+      "ended": false,
+      "type": "last.fm"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "type": "lyrics",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "source-credit": "",
+      "url": {
+        "id": "ef57f93d-0a96-4e48-b6a9-2e9858a9edec",
+        "resource": "https://genius.com/artists/Galahad"
+      },
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "source-credit": "",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "url": {
+        "resource": "https://myspace.com/galahaduk",
+        "id": "42cd8418-e52b-434d-afb9-c0b81751250d"
+      },
+      "type": "myspace"
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "type": "official homepage",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "source-credit": "",
+      "url": {
+        "id": "118513cc-487a-4e9f-a5c8-af5fdc68b1e8",
+        "resource": "https://www.galahadonline.com/"
+      },
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/galahad",
+        "id": "3e653b70-77f5-458a-9402-0aa6357a4718"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "87e1b065-59ae-4490-bad4-232c068fd75a",
+        "resource": "https://www.metalmusicarchives.com/artist/galahad"
+      },
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "type": "other databases",
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "url": {
+        "id": "ac8feb35-85d0-458c-9042-a0cc2777cfac",
+        "resource": "https://www.musik-sammler.de/artist/galahad/"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "type": "other databases",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "ended": false,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "e32ef717-b1f5-40f8-9383-f7bcdbe43121",
+        "resource": "https://www.progarchives.com/artist.asp?id=122"
+      },
+      "type": "other databases"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type": "other databases",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Galahad",
+        "id": "88501462-e43c-4600-bc80-a17728bd0071"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "ended": false,
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "id": "a03308e2-9c94-4e67-b8fa-4aac3f25ab08",
+        "resource": "https://www.qobuz.com/us-en/interpreter/galahad/755673"
+      },
+      "type": "purchase for download",
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "source-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "ended": false,
+      "url": {
+        "id": "0f1797f7-4740-4db8-b4b3-83f909522c70",
+        "resource": "https://www.setlist.fm/setlists/galahad-6bd7ba72.html"
+      },
+      "type": "setlistfm",
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "end": null
+    },
+    {
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "type": "social network",
+      "url": {
+        "id": "06e1bb8d-d8b4-4dfe-a9b3-61f64c095251",
+        "resource": "https://twitter.com/galahadonline"
+      },
+      "source-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.facebook.com/room801",
+        "id": "fb932c3d-0ffe-4827-b385-96d32bcce197"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "type": "songkick",
+      "source-credit": "",
+      "url": {
+        "id": "c455e9d2-72de-4b41-ae4a-fbc5be2b43e3",
+        "resource": "https://www.songkick.com/artists/158622"
+      },
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type": "soundcloud",
+      "source-credit": "",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "ended": false,
+      "url": {
+        "resource": "https://soundcloud.com/galahad-1",
+        "id": "ce3c1029-dd26-4ab7-ae5b-fc356a324921"
+      }
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://music.apple.com/us/artist/263872810",
+        "id": "52d59c75-a2ba-40bd-afad-94cd4b3ba7de"
+      },
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "ended": false,
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "id": "e4c78a40-3dab-47e8-bd18-956c3226a62d",
+        "resource": "https://tidal.com/artist/4595660"
+      },
+      "type": "streaming"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "id": "a03308e2-9c94-4e67-b8fa-4aac3f25ab08",
+        "resource": "https://www.qobuz.com/us-en/interpreter/galahad/755673"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming"
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "http://viaf.org/viaf/732150470084704330009",
+        "id": "1458cbe9-41bb-45f6-9b38-bc92dbad1be0"
+      },
+      "type": "VIAF",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "source-credit": "",
+      "url": {
+        "id": "07b163c8-24aa-4ecf-a9c7-004d5d6775c0",
+        "resource": "https://www.wikidata.org/wiki/Q1491653"
+      },
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "ended": false,
+      "type": "wikidata",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    }
+  ],
+  "disambiguation": "English prog band",
+  "type": "Group",
+  "life-span": {
+    "end": null,
+    "begin": "1985-07",
+    "ended": false
+  },
+  "aliases": [],
+  "id": "b301ee15-c572-4c99-a4f0-297c0c1462de",
+  "begin-area": {
+    "name": "Christchurch",
+    "id": "58a85352-8714-488d-8149-a78c2bd2733a",
+    "sort-name": "Christchurch",
+    "type-id": null,
+    "disambiguation": "",
+    "type": null
+  },
+  "end-area": null,
+  "name": "Galahad",
+  "isnis": [
+    "000000046976464X"
+  ]
+}

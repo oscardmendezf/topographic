@@ -1,0 +1,1220 @@
+{
+  "relations": [
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist",
+      "artist": {
+        "id": "33db5f5d-fef9-4ddf-8716-5336125fc37c",
+        "name": "Mark Hawkins",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hawkins, Mark",
+        "disambiguation": "British bassist",
+        "type": "Person",
+        "country": "GB"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "end": "1984",
+      "begin": "1980",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "attribute-ids": {
+        "bass pedals": "bc826dde-9200-43ad-81af-6ef2c52ca37b"
+      },
+      "target-type": "artist",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "1984",
+      "begin": "1980",
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "bass pedals"
+      ],
+      "artist": {
+        "name": "Mark Hawkins",
+        "id": "33db5f5d-fef9-4ddf-8716-5336125fc37c",
+        "type": "Person",
+        "disambiguation": "British bassist",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hawkins, Mark"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "1986",
+      "begin": "1980",
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "artist": {
+        "id": "f1a8a9e3-515c-4c59-bcf4-abf83f08fed8",
+        "name": "Martin Wright",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "British drummer, ex‐Solstice",
+        "sort-name": "Wright, Martin",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true
+    },
+    {
+      "attribute-credits": {},
+      "attribute-values": {},
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "target-type": "artist",
+      "artist": {
+        "name": "Marc Elton",
+        "id": "8e985272-5ab2-4cb7-81e8-c72b7a54aa5c",
+        "sort-name": "Elton, Marc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "type": "member of band",
+      "begin": "1980",
+      "end": "1997",
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "background vocals"
+      ]
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-credit": "",
+      "attributes": [
+        "violin"
+      ],
+      "direction": "backward",
+      "begin": "1980",
+      "end": "1997",
+      "type": "member of band",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "name": "Marc Elton",
+        "id": "8e985272-5ab2-4cb7-81e8-c72b7a54aa5c",
+        "sort-name": "Elton, Marc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "country": null
+      }
+    },
+    {
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Elton, Marc",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": null,
+        "name": "Marc Elton",
+        "id": "8e985272-5ab2-4cb7-81e8-c72b7a54aa5c"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "keyboard"
+      ],
+      "end": "1997",
+      "begin": "1980",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-credits": {},
+      "attribute-values": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": "1983",
+      "end": "1984",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "name": "Sandy Leigh",
+        "id": "ac2649f6-ad6c-4971-b023-ebb0cdc7d19b",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Leigh, Sandy"
+      }
+    },
+    {
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Sunderland, Craig",
+        "type": "Person",
+        "country": "AU",
+        "disambiguation": "",
+        "id": "ea11efbd-1277-436a-81d4-eefcc24b9438",
+        "name": "Craig Sunderland"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "begin": "1992",
+      "end": "1997",
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-credits": {},
+      "attribute-values": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "target-type": "artist"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "artist": {
+        "name": "Peter Hemsley",
+        "id": "f977e36e-3201-44da-b759-df43e1847e57",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hemsley, Peter",
+        "type": "Person",
+        "country": "AU",
+        "disambiguation": ""
+      },
+      "target-credit": "Pete Hemsley",
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "begin": "1992",
+      "end": null,
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "begin": "1992",
+      "end": null,
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "lead vocals"
+      ],
+      "artist": {
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Kemp, Heidi",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Heidi Kemp",
+        "id": "842f1cac-2c58-4717-8e32-9b1421e37f1b"
+      },
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "artist": {
+        "id": "2a400446-47bf-453e-9b07-df82a2b056b5",
+        "name": "Steve McDaniel",
+        "disambiguation": "British keyboard player",
+        "type": "Person",
+        "country": "GB",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "McDaniel, Steve"
+      },
+      "target-credit": "",
+      "attributes": [
+        "keyboard"
+      ],
+      "direction": "backward",
+      "end": null,
+      "begin": "1997"
+    },
+    {
+      "attribute-ids": {
+        "fiddle": "04a21d03-535a-4ace-9098-12013867b8e5"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "begin": "1997",
+      "end": null,
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "fiddle"
+      ],
+      "artist": {
+        "sort-name": "Newman, Jenny",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "British fiddle player",
+        "country": "GB",
+        "id": "91aeb6ef-ee69-498d-bcd0-1e8e80328529",
+        "name": "Jenny Newman"
+      },
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band"
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Phillips, Robin",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "British bassist",
+        "id": "e6909c15-e008-466b-aaa2-084ffcce04d8",
+        "name": "Robin Phillips"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "bass guitar"
+      ],
+      "end": null,
+      "begin": "1997",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "attribute-values": {},
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "artist": {
+        "id": "f977e36e-3201-44da-b759-df43e1847e57",
+        "name": "Peter Hemsley",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hemsley, Peter",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "AU"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "end": null,
+      "begin": "2007",
+      "target-credit": "Pete Hemsley",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward"
+    },
+    {
+      "type": "member of band",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Holland, Jess",
+        "disambiguation": "",
+        "type": "Person",
+        "country": null,
+        "name": "Jess Holland",
+        "id": "dda3b554-8fc6-47bc-b893-d409d74ef8fa"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "begin": "2020",
+      "end": null,
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      }
+    },
+    {
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "lead vocals"
+      ],
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "British vocalist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Brown, Emma",
+        "name": "Emma Brown",
+        "id": "a1a0fe7d-02cf-439b-8993-3a423b318c98"
+      },
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "type": "member of band"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {},
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "id": "acfe04f7-0e4a-4c66-bdd7-7c93f5b04230",
+        "name": "Ebony Buckle",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB",
+        "sort-name": "Buckle, Ebony",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "artist": {
+        "name": "Clive Bunker",
+        "id": "727640ec-95f5-4d0e-82c0-ab334c20a3ac",
+        "sort-name": "Bunker, Clive",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": ""
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": null,
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Crutcher, Dyane",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "080657c2-3501-4a8a-91f6-b39eb1feb5a1",
+        "name": "Dyane Crutcher"
+      },
+      "type": "member of band",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": []
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "background vocals"
+      ],
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "id": "72b25221-ffbc-4ce7-b41d-91054682925e",
+        "name": "Andy Glass",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "Solstice",
+        "sort-name": "Glass, Andy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "attribute-credits": {},
+      "attribute-values": {}
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Glass, Andy",
+        "disambiguation": "Solstice",
+        "type": "Person",
+        "country": "GB",
+        "id": "72b25221-ffbc-4ce7-b41d-91054682925e",
+        "name": "Andy Glass"
+      },
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "guitar"
+      ],
+      "end": null,
+      "begin": null,
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "begin": null,
+      "end": null,
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "id": "901938c3-4ce9-45be-92f1-60bd3addbd7f",
+        "name": "Leoni Jane Kennedy",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "UK acoustic guitarist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Kennedy, Leoni Jane"
+      }
+    },
+    {
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "type": "allmusic",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000031259",
+        "id": "ccabf3aa-044c-45ea-809a-4e4c72434ab7"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "type": "bandcamp",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "source-credit": "",
+      "url": {
+        "resource": "https://solstice3.bandcamp.com/",
+        "id": "850e3fcb-b84f-4742-bff8-04d106f90d8a"
+      },
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.bandsintown.com/a/15539883",
+        "id": "b209cd4c-7167-490c-830b-a2521c97f956"
+      },
+      "source-credit": "",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "ended": false,
+      "type": "bandsintown"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "4e69f08d-1731-4a5e-873d-dee59c1a7176",
+        "resource": "https://www.discogs.com/artist/452611"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "free streaming",
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "url": {
+        "id": "3d83e768-d2a6-498e-be6c-c8ee822775a9",
+        "resource": "https://open.spotify.com/artist/2mx2duTkutpohmKJ8XgdUt"
+      },
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://www.deezer.com/artist/69321",
+        "id": "b027fd76-12fe-453c-8e59-022f32f051b9"
+      },
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "type": "free streaming",
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "last.fm",
+      "source-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "url": {
+        "id": "bd3dd66f-83b4-4001-a127-575175ca0376",
+        "resource": "https://www.last.fm/music/Solstice"
+      },
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://genius.com/artists/Solstice",
+        "id": "025f23be-753a-4cd8-8c5f-f1cf4efe0a5b"
+      },
+      "type": "lyrics",
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.solsticeprog.uk/",
+        "id": "92032e4a-03ac-4932-83d3-38ade08bb173"
+      },
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": false,
+      "type": "official homepage"
+    },
+    {
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type": "official homepage",
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "ended": true,
+      "url": {
+        "id": "6aab0a28-4a41-4593-ad52-94e242c7afdd",
+        "resource": "http://prh.org.uk/solsticeweb/index.html"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "type": "other databases",
+      "url": {
+        "id": "b682a13e-9918-485c-bef3-ffd519bef5e8",
+        "resource": "http://id.loc.gov/authorities/names/no2011068678"
+      },
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "other databases",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QH7JmrTkr3wYPbk3RDT8vTR",
+        "id": "aa8a4981-ae16-4c2c-9e8f-19b36a0f1eae"
+      },
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "fa4e2e1e-f691-48dc-a005-dc5fd7c3c025",
+        "resource": "https://rateyourmusic.com/artist/solstice-2"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/solstice-2/",
+        "id": "deb962ff-da42-4e4d-9678-ace1e8bc9d60"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "other databases",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=937",
+        "id": "ad4ce44a-fcb2-49a9-a906-f9b3a209cb3a"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "resource": "https://mora.jp/artist/1492514/",
+        "id": "144af6fc-56a1-4e42-9a99-ff9ecb4c5480"
+      },
+      "ended": false,
+      "type": "purchase for download",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/504400100",
+        "id": "c8792a25-7eca-4070-94c2-9d17693c19d4"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "type": "purchase for download"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "3d949f6b-e662-4f3f-bdd7-af9075ecce73",
+        "resource": "https://ototoy.jp/_/default/a/301369"
+      },
+      "type": "purchase for download",
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "purchase for download",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://uk.7digital.com/artist/solstice/albums",
+        "id": "6bd7a989-c0a2-41ff-8575-39ba9aa0c68a"
+      },
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "id": "9144bacf-e79e-4bd0-9518-2b2d0d70eb60",
+        "resource": "https://www.qobuz.com/us-en/interpreter/solstice/647899"
+      },
+      "type": "purchase for download"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "f1f88e4e-d706-4c0a-9ca0-78651940ec11",
+        "resource": "https://www.setlist.fm/setlists/solstice-23d6f4ff.html"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "type": "setlistfm",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "url": {
+        "resource": "https://www.facebook.com/solsticeprog",
+        "id": "8e32adcf-005e-465a-9c0c-56a910f961a2"
+      },
+      "type": "social network"
+    },
+    {
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.instagram.com/solsticeproguk/",
+        "id": "92ac249b-186b-4879-bdaa-20fdf2578d93"
+      },
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "source-credit": "",
+      "ended": false,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "url": {
+        "resource": "https://www.songkick.com/artists/10292195",
+        "id": "4bc0a525-7880-46a6-86e6-8e5bce85c30e"
+      },
+      "type": "songkick",
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "end": null
+    },
+    {
+      "type": "soundcloud",
+      "source-credit": "",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "ended": false,
+      "url": {
+        "resource": "https://soundcloud.com/solstice-scmusic",
+        "id": "22bd0bd7-9f7f-47c5-93bf-0ca66a085a88"
+      },
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "c8792a25-7eca-4070-94c2-9d17693c19d4",
+        "resource": "https://music.apple.com/gb/artist/504400100"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "type": "streaming"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "type": "streaming",
+      "ended": false,
+      "source-credit": "",
+      "url": {
+        "resource": "https://tidal.com/artist/46393305",
+        "id": "d3ce2a89-b3e6-4fa8-9776-63c2061afe4b"
+      },
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "9144bacf-e79e-4bd0-9518-2b2d0d70eb60",
+        "resource": "https://www.qobuz.com/us-en/interpreter/solstice/647899"
+      }
+    },
+    {
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "type": "VIAF",
+      "source-credit": "",
+      "url": {
+        "id": "c4623a2f-d201-425a-be30-6a4c579cdd09",
+        "resource": "http://viaf.org/viaf/159064466"
+      },
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "ended": false,
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "url": {
+        "id": "635b55e7-6e75-4cb4-b5cf-ed040644286a",
+        "resource": "https://www.wikidata.org/wiki/Q7558875"
+      },
+      "type": "wikidata",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "type": "youtube",
+      "source-credit": "",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "ended": false,
+      "url": {
+        "id": "afd2a694-0d97-4ae8-88c7-dec4391722b6",
+        "resource": "https://www.youtube.com/channel/UCCgVsVEpLWGuB3WVsCovwYg"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "type": "youtube music",
+      "source-credit": "",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "ended": false,
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCojRTGpBHrHnooIF5UGq3Iw",
+        "id": "cfa5d1ab-793e-4905-9b26-f21f15f0728c"
+      }
+    }
+  ],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "type": "Group",
+  "disambiguation": "UK neo‐progressive band",
+  "life-span": {
+    "ended": false,
+    "begin": "1980",
+    "end": null
+  },
+  "aliases": [],
+  "id": "06942e9b-567b-45c4-97a6-9d98265ba479",
+  "begin-area": {
+    "name": "Milton Keynes",
+    "id": "f5923e91-2e33-423d-b276-e7df71fdd712",
+    "sort-name": "Milton Keynes",
+    "type-id": null,
+    "disambiguation": "",
+    "type": null
+  },
+  "end-area": null,
+  "isnis": [
+    "0000000119412185"
+  ],
+  "name": "Solstice",
+  "sort-name": "Solstice",
+  "country": "GB",
+  "gender-id": null,
+  "area": {
+    "type-id": null,
+    "sort-name": "United Kingdom",
+    "disambiguation": "",
+    "type": null,
+    "name": "United Kingdom",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "ipis": [],
+  "gender": null
+}

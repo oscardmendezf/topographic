@@ -1,0 +1,70 @@
+{
+  "sort-name": "Soft Heap",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "disambiguation": "Canterbury Scene, UK",
+  "type": "Group",
+  "aliases": [],
+  "begin-area": null,
+  "gender": null,
+  "gender-id": null,
+  "country": "GB",
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": null
+  },
+  "relations": [
+    {
+      "ended": false,
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/soft-head",
+        "id": "847dd406-85b2-4922-8d9a-f04c5643bdd6"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "type": "other databases",
+      "attributes": [],
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=2517",
+        "id": "8be26dbb-e578-42d6-baf7-434dc78952b0"
+      },
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false
+    }
+  ],
+  "area": {
+    "type": null,
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "disambiguation": "",
+    "sort-name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "name": "United Kingdom"
+  },
+  "name": "Soft Heap",
+  "isnis": [],
+  "id": "7722cd88-2607-4a01-a6cb-99d513b81ab8",
+  "ipis": [],
+  "end-area": null
+}

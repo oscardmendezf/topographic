@@ -1,0 +1,1570 @@
+{
+  "gender": null,
+  "relations": [
+    {
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "end": "2000",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "country": "SE",
+        "id": "7b120f18-6874-4bae-bb05-b8cd2b34c0ab",
+        "sort-name": "Stolt, Michael",
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Michael Stolt",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist",
+      "ended": true,
+      "begin": "1993",
+      "direction": "backward",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "artist": {
+        "country": "CL",
+        "sort-name": "Salazar, Jaime",
+        "id": "bdf0c519-4b9e-44ee-b28f-28cfbead43c0",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "Chilean prog rock drummer",
+        "name": "Jaime Salazar"
+      },
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "2001",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "direction": "backward",
+      "begin": "1993",
+      "ended": true
+    },
+    {
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "direction": "backward",
+      "ended": false,
+      "begin": "1993",
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals",
+        "original"
+      ],
+      "target-type": "artist",
+      "artist": {
+        "sort-name": "Stolt, Roine",
+        "id": "a049e88a-22ef-4ef0-8efe-cb2fc48b7b8c",
+        "country": "SE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Roine Stolt",
+        "disambiguation": "",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "source-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "artist": {
+        "country": "SE",
+        "sort-name": "Stolt, Roine",
+        "id": "a049e88a-22ef-4ef0-8efe-cb2fc48b7b8c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Roine Stolt",
+        "disambiguation": ""
+      },
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "begin": "1993",
+      "ended": false,
+      "direction": "backward"
+    },
+    {
+      "direction": "backward",
+      "begin": "1993",
+      "ended": true,
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "artist": {
+        "sort-name": "Bruniusson, Hasse",
+        "id": "352fc08d-c231-47cb-8bd1-d24b891c70c7",
+        "country": "SE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Hasse Bruniusson",
+        "type": "Person"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": null,
+      "source-credit": "",
+      "attribute-credits": {},
+      "attributes": [
+        "percussion"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "id": "d6f2b29d-c5da-41ab-94fb-fb69fce1cc9b",
+        "sort-name": "Fröberg, Hasse",
+        "country": "SE",
+        "name": "Hasse Fröberg",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "begin": "1994",
+      "ended": false,
+      "direction": "backward",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      }
+    },
+    {
+      "artist": {
+        "disambiguation": "",
+        "name": "Hasse Fröberg",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "d6f2b29d-c5da-41ab-94fb-fb69fce1cc9b",
+        "sort-name": "Fröberg, Hasse",
+        "country": "SE"
+      },
+      "end": null,
+      "source-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "direction": "backward",
+      "ended": false,
+      "begin": "1994",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "ended": true,
+      "begin": "1995",
+      "direction": "backward",
+      "attribute-ids": {
+        "piano": "b3eac5f9-7859-4416-ac39-7154e2e8d348"
+      },
+      "source-credit": "",
+      "end": "2015",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Tomas Bodin",
+        "type": "Person",
+        "sort-name": "Bodin, Tomas",
+        "id": "e96481f7-756b-44a7-a6a3-870569a5bc3c",
+        "country": "SE"
+      },
+      "target-type": "artist",
+      "attributes": [
+        "piano"
+      ],
+      "attribute-credits": {}
+    },
+    {
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1995",
+      "ended": true,
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": "2015",
+      "type": "member of band",
+      "attribute-values": {},
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Tomas Bodin",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "SE",
+        "id": "e96481f7-756b-44a7-a6a3-870569a5bc3c",
+        "sort-name": "Bodin, Tomas"
+      }
+    },
+    {
+      "direction": "backward",
+      "ended": true,
+      "begin": "1999",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "artist": {
+        "type": "Person",
+        "name": "Jonas Reingold",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "SE",
+        "id": "bed74093-6ab4-48b8-a946-0be6ab6cfc17",
+        "sort-name": "Reingold, Jonas"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2021",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "ended": true,
+      "begin": "2001",
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2005",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "type": "Person",
+        "name": "Zoltan Csörsz",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "SE",
+        "id": "89df4c7f-f684-4ead-8d88-e57fcdff60fb",
+        "sort-name": "Csörsz, Zoltan"
+      }
+    },
+    {
+      "artist": {
+        "sort-name": "Gildenlöw, Daniel",
+        "id": "53f020dd-7ec3-405d-9c5e-c96ef3d54243",
+        "country": "SE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Daniel Gildenlöw",
+        "type": "Person"
+      },
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "2005",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-credits": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-type": "artist",
+      "direction": "backward",
+      "ended": true,
+      "begin": "2003",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      }
+    },
+    {
+      "artist": {
+        "sort-name": "Gildenlöw, Daniel",
+        "id": "53f020dd-7ec3-405d-9c5e-c96ef3d54243",
+        "country": "SE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Daniel Gildenlöw",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "end": "2005",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ],
+      "direction": "backward",
+      "ended": true,
+      "begin": "2003",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      }
+    },
+    {
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "ended": true,
+      "begin": "2003",
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "end": "2005",
+      "source-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Daniel Gildenlöw",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Gildenlöw, Daniel",
+        "id": "53f020dd-7ec3-405d-9c5e-c96ef3d54243",
+        "country": "SE"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "direction": "backward",
+      "begin": "2005-02-07",
+      "ended": true,
+      "target-type": "artist",
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Marcus Liliequist",
+        "type": "Person",
+        "sort-name": "Liliequist, Marcus",
+        "id": "f66baad1-919d-4954-bbad-5aa581eb546a",
+        "country": "DK"
+      },
+      "end": "2007",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": ""
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "2008",
+      "source-credit": "",
+      "artist": {
+        "sort-name": "Csörsz, Zoltan",
+        "id": "89df4c7f-f684-4ead-8d88-e57fcdff60fb",
+        "country": "SE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Zoltan Csörsz",
+        "disambiguation": "",
+        "type": "Person"
+      },
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "2007",
+      "ended": true,
+      "direction": "backward"
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "artist": {
+        "id": "81ef8f3e-b370-437f-ab03-bb2ed09fb09a",
+        "sort-name": "Hammarström, Erik",
+        "country": "SE",
+        "name": "Erik Hammarström",
+        "disambiguation": "Swedish drummer and percussionist",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "2008",
+      "source-credit": "",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "direction": "backward",
+      "ended": true,
+      "begin": "2008"
+    },
+    {
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "begin": "2008",
+      "ended": true,
+      "direction": "backward",
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "end": "2008",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "country": "SE",
+        "sort-name": "Hedén, Ola",
+        "id": "7f57d29f-19e7-4809-adbb-8d263212e04e",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Ola Hedén",
+        "disambiguation": ""
+      }
+    },
+    {
+      "ended": true,
+      "begin": "2008",
+      "direction": "backward",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "end": "2008",
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "country": "SE",
+        "id": "7f57d29f-19e7-4809-adbb-8d263212e04e",
+        "sort-name": "Hedén, Ola",
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Ola Hedén",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "guitar"
+      ]
+    },
+    {
+      "direction": "backward",
+      "ended": true,
+      "begin": "2008",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Ola Hedén",
+        "country": "SE",
+        "sort-name": "Hedén, Ola",
+        "id": "7f57d29f-19e7-4809-adbb-8d263212e04e"
+      },
+      "type": "member of band",
+      "attribute-values": {},
+      "end": "2008",
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "country": "DE",
+        "id": "176f0a45-1ff5-4698-8ab0-cd42b23d74c3",
+        "sort-name": "Lehrmann, Felix",
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Felix Lehrmann",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "target-type": "artist",
+      "begin": "2011",
+      "ended": true,
+      "direction": "backward",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "source-credit": "",
+      "end": null,
+      "type": "member of band",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "drummer",
+        "name": "Mirko DeMaio",
+        "type": "Person",
+        "sort-name": "DeMaio, Mirko",
+        "id": "71c94f5b-804c-45f8-9b7a-9a03f76b072d",
+        "country": "IT"
+      },
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "begin": "2019",
+      "ended": false,
+      "direction": "backward"
+    },
+    {
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": null,
+      "source-credit": "",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Zach Kamins",
+        "type": "Person",
+        "sort-name": "Kamins, Zach",
+        "id": "99fb16d8-7c4a-40e5-a14f-20a26fc2f4eb",
+        "country": "US"
+      },
+      "attribute-credits": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "begin": "2019",
+      "ended": true,
+      "direction": "backward",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      }
+    },
+    {
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "ended": false,
+      "begin": "2021",
+      "direction": "backward",
+      "attribute-credits": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "type": "member of band",
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "artist": {
+        "name": "Michael Stolt",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "7b120f18-6874-4bae-bb05-b8cd2b34c0ab",
+        "sort-name": "Stolt, Michael",
+        "country": "SE"
+      }
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "backward",
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "subgroup",
+      "artist": {
+        "disambiguation": "",
+        "name": "Circus Brimstone",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "type": "Group",
+        "id": "39aba7ca-7c4e-4252-8bc7-1af0bf09a67d",
+        "sort-name": "Circus Brimstone",
+        "country": "SE"
+      },
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null,
+      "source-credit": "",
+      "type": "allmusic",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000067078",
+        "id": "f174a2d3-9f10-4a5e-8fdc-1b762fdc4ec4"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.bandsintown.com/a/52676",
+        "id": "45b61a37-ee07-4400-8d11-fb573002bfcb"
+      },
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "bandsintown",
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "discogs",
+      "url": {
+        "resource": "https://www.discogs.com/artist/267071",
+        "id": "f5b5fb5b-a8e5-4555-a677-8f7421101c48"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "ended": false,
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "free streaming",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "resource": "https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No",
+        "id": "a1072ffa-e3e6-4a72-aff1-6cc72ad4efa6"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "url": {
+        "id": "a0498ab5-6558-4dda-8d70-d0048a220351",
+        "resource": "https://www.deezer.com/artist/619187"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "end": null,
+      "source-credit": "",
+      "type": "free streaming",
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "id": "ff636189-b749-4914-be83-119bb046f131",
+        "resource": "https://commons.wikimedia.org/wiki/File:Flowerkings2004.jpg"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "end": null,
+      "source-credit": "",
+      "type": "image",
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "resource": "https://www.last.fm/music/The+Flower+Kings",
+        "id": "82fe2a90-1f90-46fd-a426-5c47adfe8126"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "last.fm",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-credit": ""
+    },
+    {
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "url": {
+        "resource": "https://genius.com/artists/The-flower-kings",
+        "id": "c459183a-155b-4ac7-8936-8875566c2044"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "end": null,
+      "source-credit": "",
+      "type": "lyrics",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://myspace.com/cosmiclodge",
+        "id": "a7986962-e31d-4f6a-854b-903167e951ce"
+      },
+      "attribute-values": {},
+      "type": "myspace",
+      "end": null,
+      "source-credit": "",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "official homepage",
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.roinestolt.com/",
+        "id": "3bf99e5a-9a9f-4ec4-a1e6-ce91a659d8c3"
+      },
+      "direction": "forward",
+      "ended": false,
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-values": {},
+      "type": "official homepage",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "ended": true,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.flowerkings.se/",
+        "id": "eca4b789-d5b2-4b5a-a008-99fcda960a79"
+      }
+    },
+    {
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/no98105526",
+        "id": "a35652e1-0525-42e4-b500-a3f9dff61aab"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "other databases"
+    },
+    {
+      "url": {
+        "id": "d7e4d983-a68b-448c-9e0a-2dbecbd50cf5",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb140345805"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": [],
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7Xq4bXykcctVY6tTTR",
+        "id": "3d571385-b8a9-4752-991e-5f71db0eaeae"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "id": "6005285e-89f4-4fe3-9c43-ce75615a35e9",
+        "resource": "https://rateyourmusic.com/artist/the-flower-kings"
+      },
+      "attribute-values": {},
+      "type": "other databases",
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "4ddf5bd9-9ecb-4d8d-a5eb-a905289cab96",
+        "resource": "https://www.musik-sammler.de/artist/the-flower-kings/"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=110",
+        "id": "43a3d203-825e-4180-92e2-dc6ecdcaf81f"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "id": "24d01749-7f9c-4772-aa82-5702592da118",
+        "resource": "https://www.spirit-of-rock.com/en/band/The_Flower_Kings"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.whosampled.com/The-Flower-Kings/",
+        "id": "00e232e7-d9b7-45f9-abc0-5115faaaf208"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "type": "other databases",
+      "attribute-values": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "83c3be8a-f9a2-4d04-9225-748ec7cf4d0d",
+        "resource": "https://itunes.apple.com/se/artist/id83946670"
+      }
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "resource": "https://mora.jp/artist/1175552",
+        "id": "a669a1d5-5dcd-4a75-a472-7879db8a60c8"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "a91baf5f-dc85-4653-8980-6d147be5523e",
+        "resource": "https://music.apple.com/se/artist/83946670"
+      },
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "source-credit": "",
+      "end": null
+    },
+    {
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "3d28e30d-a155-45d6-b162-80715b759f00",
+        "resource": "https://music.bugs.co.kr/artist/80204290"
+      },
+      "attribute-values": {},
+      "type": "purchase for download",
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "0de22f6b-44da-438c-8872-cfbccfb72e5e",
+        "resource": "https://ototoy.jp/_/default/a/488913"
+      }
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "type": "purchase for download",
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "4aed7710-b61e-475f-9372-f41d5ca04dd8",
+        "resource": "https://se.7digital.com/artist/the-flower-kings"
+      },
+      "direction": "forward",
+      "begin": null,
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "end": null,
+      "source-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "id": "daccd4b2-8855-4c3e-bb23-8b5234f5bf1d",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=846241"
+      }
+    },
+    {
+      "url": {
+        "id": "b8b10715-9f07-4944-8b00-228838a4469a",
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-flower-kings/623119"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "purchase for download"
+    },
+    {
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-values": {},
+      "type": "purchase for download",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "ended": true,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://www.emusic.com/artist/-/10563008/",
+        "id": "6218f0a0-526f-4a13-9260-e287ee5db309"
+      }
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "type": "secondhandsongs",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/66340",
+        "id": "c377c49f-1bff-42ae-80fc-b364b591fab6"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "ended": false,
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "type": "setlistfm",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/the-flower-kings-5bd6b324.html",
+        "id": "bd2b8bb2-449e-4bc0-90ca-b19725bca620"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-credit": "",
+      "type": "social network",
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "9b95519c-9227-4733-afbe-577fd5c8c55f",
+        "resource": "https://twitter.com/TheFlowerKings"
+      },
+      "begin": null,
+      "ended": false,
+      "direction": "forward"
+    },
+    {
+      "url": {
+        "resource": "https://www.facebook.com/TheFlowerKings",
+        "id": "59f2407c-fada-4499-989d-4237e586deef"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-credit": "",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "social network"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.instagram.com/the_real_flowerkings/",
+        "id": "2d8e644a-f169-4166-8485-e49fcbf94c62"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "songkick",
+      "end": null,
+      "source-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "659f1feb-f1b9-4a72-b0bf-21c962968b01",
+        "resource": "https://www.songkick.com/artists/84715"
+      },
+      "direction": "forward",
+      "begin": null,
+      "ended": false
+    },
+    {
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "soundcloud",
+      "target-credit": "",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "target-type": "url",
+      "attributes": [],
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "url": {
+        "id": "db6324a2-24c4-44e3-8fd1-2781822fc47d",
+        "resource": "https://soundcloud.com/theflowerkings"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "13082120-70b9-46a6-a5a2-5480882619ae",
+        "resource": "https://music.amazon.com/artists/B00GD4K8FO"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "streaming",
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://music.apple.com/se/artist/83946670",
+        "id": "a91baf5f-dc85-4653-8980-6d147be5523e"
+      },
+      "direction": "forward",
+      "ended": false,
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "type": "streaming",
+      "attribute-values": {},
+      "url": {
+        "id": "3d28e30d-a155-45d6-b162-80715b759f00",
+        "resource": "https://music.bugs.co.kr/artist/80204290"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "url": {
+        "id": "e1acbc9e-a6b1-4b41-b2ef-7f616132a097",
+        "resource": "https://tidal.com/artist/3659746"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "streaming",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=846241",
+        "id": "daccd4b2-8855-4c3e-bb23-8b5234f5bf1d"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "streaming"
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "source-credit": "",
+      "end": null,
+      "type": "streaming",
+      "attribute-values": {},
+      "target-type": "url",
+      "attributes": [],
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "url": {
+        "resource": "https://www.qobuz.com/us-en/interpreter/the-flower-kings/623119",
+        "id": "b8b10715-9f07-4944-8b00-228838a4469a"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/146809290",
+        "id": "56691ed1-0c12-4de9-80ce-57b2154df087"
+      },
+      "target-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attribute-values": {},
+      "type": "VIAF",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q912990",
+        "id": "f0d1e118-56cb-4f00-bb2d-20b9db7c1bd8"
+      },
+      "attribute-values": {},
+      "type": "wikidata",
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "youtube",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.youtube.com/channel/UC2xGd7oK4kmyvu5V9NtLevQ",
+        "id": "c8b5eaaf-59f6-4f24-a2e1-66d7db07350d"
+      },
+      "attribute-ids": {}
+    },
+    {
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "youtube music",
+      "target-credit": "",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "target-type": "url",
+      "attributes": [],
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "url": {
+        "id": "89c11a07-04ae-4160-beca-18ade3a4f209",
+        "resource": "https://music.youtube.com/channel/UC2xGd7oK4kmyvu5V9NtLevQ"
+      },
+      "attribute-ids": {}
+    }
+  ],
+  "life-span": {
+    "end": null,
+    "begin": "1993",
+    "ended": false
+  },
+  "disambiguation": "",
+  "name": "The Flower Kings",
+  "gender-id": null,
+  "begin-area": {
+    "type": null,
+    "type-id": null,
+    "name": "Uppsala",
+    "disambiguation": "",
+    "sort-name": "Uppsala",
+    "id": "4955495c-004d-4c7f-ba17-d9df26388cd0"
+  },
+  "ipis": [],
+  "id": "0a389268-6fd8-4f8c-ab6e-0dba5ecec66b",
+  "type": "Group",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "country": "SE",
+  "sort-name": "Flower Kings, The",
+  "area": {
+    "type": null,
+    "type-id": null,
+    "disambiguation": "",
+    "name": "Sweden",
+    "iso-3166-1-codes": [
+      "SE"
+    ],
+    "sort-name": "Sweden",
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb"
+  },
+  "aliases": [
+    {
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "type": null,
+      "name": "Flower Kings",
+      "type-id": null,
+      "locale": null,
+      "primary": null,
+      "sort-name": "Flower Kings"
+    },
+    {
+      "sort-name": "더 플라워 킹즈",
+      "locale": "ko",
+      "primary": true,
+      "end": null,
+      "type": "Artist name",
+      "ended": false,
+      "begin": null,
+      "name": "더 플라워 킹즈",
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc"
+    }
+  ],
+  "isnis": [
+    "0000000106704103"
+  ],
+  "end-area": null
+}

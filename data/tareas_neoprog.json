@@ -1,0 +1,1123 @@
+{
+ "grupos": [
+  {
+   "id": "neo-marillion",
+   "escena": "neoprog",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "marillion",
+     "nombre": "Marillion",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1979",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Marillion",
+     "formaciones_mb": [
+      "Steve Rothery (guitar, original; 1979-08-19–act.)",
+      "Doug Irvine (bass guitar, lead vocals, original; 1979-08–1980-12)",
+      "Brian Jelliman (keyboard, original; 1979-08–1981-11)",
+      "Fish (lead vocals; 1981-01-01–1988-09-12)",
+      "Diz Minnitt (bass guitar; 1981-01–1982-03)",
+      "Mark Kelly (keyboard; 1981-11-28–act.)",
+      "Pete Trewavas (bass guitar; 1982-03-28–act.)",
+      "Andy Ward (drums (drum set); 1983-05–1983-08)",
+      "John Marter (drums (drum set); 1983-08–1983-08)",
+      "Jonathan Mover (drums (drum set); 1983-09–1983-10)",
+      "Ian Mosley (drums (drum set); 1984-01-01–act.)",
+      "Steve Hogarth (lead vocals; 1989-02-02–act.)",
+      "Mick Pointer (drums (drum set), original; ?–1983-04)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "marillion-script-for-a-jesters-tear",
+       "titulo": "Script for a Jester’s Tear",
+       "anio": 1983,
+       "mbid": "25f11061-2223-38c4-acf0-07536de51c09",
+       "primer_lanzamiento": "1983-03-13",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-fugazi",
+       "titulo": "Fugazi",
+       "anio": 1984,
+       "mbid": "12536829-a40e-33b3-803e-2c3c4ac572ce",
+       "primer_lanzamiento": "1984-03-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-misplaced-childhood",
+       "titulo": "Misplaced Childhood",
+       "anio": 1985,
+       "mbid": "06896217-3aba-31d3-8b34-bd193c9e2b98",
+       "primer_lanzamiento": "1985-06-17",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-clutching-at-straws",
+       "titulo": "Clutching at Straws",
+       "anio": 1987,
+       "mbid": "7c7afb4c-565b-3057-958c-a78285d483f3",
+       "primer_lanzamiento": "1987-06-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-seasons-end",
+       "titulo": "Seasons End",
+       "anio": 1989,
+       "mbid": "be4c83af-14c9-3432-9da5-dac795972da9",
+       "primer_lanzamiento": "1989-09-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-holidays-in-eden",
+       "titulo": "Holidays in Eden",
+       "anio": 1991,
+       "mbid": "4e6626b8-9386-30f0-905c-8aeac0143ab5",
+       "primer_lanzamiento": "1991-06-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-brave",
+       "titulo": "Brave",
+       "anio": 1994,
+       "mbid": "b96f5cf7-f2f4-3809-a4be-6cd04c395c5c",
+       "primer_lanzamiento": "1994-02-07",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-afraid-of-sunlight",
+       "titulo": "Afraid of Sunlight",
+       "anio": 1995,
+       "mbid": "25b9208c-02d9-3de7-9450-a06e9e84fe32",
+       "primer_lanzamiento": "1995-06-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-this-strange-engine",
+       "titulo": "This Strange Engine",
+       "anio": 1997,
+       "mbid": "db930429-b77c-3a89-8227-279facb688a1",
+       "primer_lanzamiento": "1997-04-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-radiation",
+       "titulo": "Radiation",
+       "anio": 1998,
+       "mbid": "7ea8e300-c2dc-36f6-ba22-383a1ee96b82",
+       "primer_lanzamiento": "1998-09-18",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-marillion-com",
+       "titulo": "marillion.com",
+       "anio": 1999,
+       "mbid": "9b9325c3-daa2-31be-9ed4-cb1061b32371",
+       "primer_lanzamiento": "1999-10-18",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-anoraknophobia",
+       "titulo": "Anoraknophobia",
+       "anio": 2001,
+       "mbid": "068968cc-579e-363e-9010-d5edabeba1d1",
+       "primer_lanzamiento": "2001-05-07",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-marbles",
+       "titulo": "Marbles",
+       "anio": 2004,
+       "mbid": "20790e26-98e4-3ad3-a67f-b674758b942d",
+       "primer_lanzamiento": "2004-05-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-somewhere-else",
+       "titulo": "Somewhere Else",
+       "anio": 2007,
+       "mbid": "b897aaf2-ebae-3f74-a965-1d5645f32e04",
+       "primer_lanzamiento": "2007-04-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-happiness-is-the-road",
+       "titulo": "Happiness Is the Road",
+       "anio": 2008,
+       "mbid": "56995819-a35d-3476-a746-f7a17409be4e",
+       "primer_lanzamiento": "2008-09-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-less-is-more",
+       "titulo": "Less Is More",
+       "anio": 2009,
+       "mbid": "0203b2d2-c2d3-461b-891a-92d8ecbe4669",
+       "primer_lanzamiento": "2009-10-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-sounds-that-cant-be-made",
+       "titulo": "Sounds That Can’t Be Made",
+       "anio": 2012,
+       "mbid": "03619842-d1dc-4ce2-b58a-432c04447cc0",
+       "primer_lanzamiento": "2012-09-07",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-fuck-everyone-and-run-f-e-a-r",
+       "titulo": "Fuck Everyone and Run (F E A R)",
+       "anio": 2016,
+       "mbid": "8de2a677-7273-4d5d-9454-fef1202ef5f4",
+       "primer_lanzamiento": "2016-09-23",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-with-friends-from-the-orchestra",
+       "titulo": "With Friends From the Orchestra",
+       "anio": 2019,
+       "mbid": "698fb9b8-eff6-4a29-9cf7-dee75321603d",
+       "primer_lanzamiento": "2019-10-16",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-an-hour-before-its-dark",
+       "titulo": "An Hour Before It’s Dark",
+       "anio": 2022,
+       "mbid": "e9e9b0e3-b2c2-4fa2-bda3-97401bef3828",
+       "primer_lanzamiento": "2022-03-04",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-transmission-impossible",
+       "titulo": "Transmission Impossible",
+       "anio": 2024,
+       "mbid": "34ede3b9-aacc-4ea5-b161-7f7ff677e070",
+       "primer_lanzamiento": "2024",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "marillion-live-at-the-roundhouse",
+       "titulo": "Live at the Roundhouse",
+       "anio": 2025,
+       "mbid": "2610d5c3-f3b7-4d39-875b-b4d7ebdac18d",
+       "primer_lanzamiento": "2025",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neo-iq",
+   "escena": "neoprog",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "iq",
+     "nombre": "IQ",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1981",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/IQ_(banda)",
+     "formaciones_mb": [
+      "Tim Esau (original; 1981-07–1989-09)",
+      "Martin Orford (original; 1981-07–2007-09-16)",
+      "Michael Holmes (original; 1981-07–act.)",
+      "Peter Nicholls (miembro; 1982-06–1985-08)",
+      "Paul Cook (miembro; 1982-07–2005-04)",
+      "Paul Menel (miembro; 1985-10–1989-09)",
+      "Les Marshall (miembro; 1989-09–1990-02)",
+      "Peter Nicholls (miembro; 1990–act.)",
+      "John Jowitt (miembro; 1991-01–2011-01-07)",
+      "Andy Edwards (miembro; 2005-04–2008-12)",
+      "Mark Westworth (miembro; 2007-10-03–2010-12-11)",
+      "Paul Cook (miembro; 2009-11–act.)",
+      "Neil Durant (miembro; 2011-01-01–act.)",
+      "Tim Esau (miembro; 2011-01-14–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "iq-seven-stories-into-eight",
+       "titulo": "Seven Stories Into Eight",
+       "anio": 1982,
+       "mbid": "08e9bad8-1a4c-4d36-a43a-05be2b7688a8",
+       "primer_lanzamiento": "1982-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-tales-from-the-lush-attic",
+       "titulo": "Tales From the Lush Attic",
+       "anio": 1983,
+       "mbid": "37dc92f3-94f6-3391-85a4-b547804164e9",
+       "primer_lanzamiento": "1983-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-the-wake",
+       "titulo": "The Wake",
+       "anio": 1985,
+       "mbid": "fab32d72-8f68-338c-9975-f58690e8f5a7",
+       "primer_lanzamiento": "1985-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-nine-in-a-pond-is-here",
+       "titulo": "Nine in a Pond Is Here",
+       "anio": 1985,
+       "mbid": "016754a3-44fa-3870-9896-689dbd2ab6cc",
+       "primer_lanzamiento": "1985-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-nomzamo",
+       "titulo": "Nomzamo",
+       "anio": 1987,
+       "mbid": "74c37446-38a7-30a4-95e2-6f93c1175c3c",
+       "primer_lanzamiento": "1987",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-are-you-sitting-comfortably",
+       "titulo": "Are You Sitting Comfortably?",
+       "anio": 1989,
+       "mbid": "758e7db5-74b0-3962-aded-c8176ce73c36",
+       "primer_lanzamiento": "1989-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-jai-pollette-darnu",
+       "titulo": "J’ai Pollette d’arnu",
+       "anio": 1991,
+       "mbid": "f0fec6a0-b5d1-3baa-96a4-05ead0b33627",
+       "primer_lanzamiento": "1991-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-ever",
+       "titulo": "Ever",
+       "anio": 1993,
+       "mbid": "d4b08209-6018-3f77-a6dd-33fa8eb51390",
+       "primer_lanzamiento": "1993-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-subterranea",
+       "titulo": "Subterranea",
+       "anio": 1997,
+       "mbid": "13c69e37-e82e-3768-85a2-9b68f54a58e5",
+       "primer_lanzamiento": "1997-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-seven-stories-into-ninety-eight",
+       "titulo": "Seven Stories Into Ninety Eight",
+       "anio": 1998,
+       "mbid": "9c066a2b-e403-3809-88f4-bec304686318",
+       "primer_lanzamiento": "1998",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-the-seventh-house",
+       "titulo": "The Seventh House",
+       "anio": 2000,
+       "mbid": "0666f3ad-d5ea-36da-830e-383161cd51c3",
+       "primer_lanzamiento": "2000",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-dark-matter",
+       "titulo": "Dark Matter",
+       "anio": 2004,
+       "mbid": "06c933b7-2727-3de1-8e1d-4438425ec513",
+       "primer_lanzamiento": "2004-06-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-frequency",
+       "titulo": "Frequency",
+       "anio": 2009,
+       "mbid": "11e6fe10-ba69-3045-9e87-6fbfba3ac875",
+       "primer_lanzamiento": "2009-04-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-the-road-of-bones",
+       "titulo": "The Road of Bones",
+       "anio": 2014,
+       "mbid": "8e7cc306-3bd6-4013-9747-bea85a2ed9c3",
+       "primer_lanzamiento": "2014-05-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-tales-from-a-dark-christmas",
+       "titulo": "Tales From a Dark Christmas",
+       "anio": 2017,
+       "mbid": "c6f7a507-947f-49f1-a8d4-fca105b2752e",
+       "primer_lanzamiento": "2017-12-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-resistance",
+       "titulo": "Resistance",
+       "anio": 2019,
+       "mbid": "4301028f-68b7-4c6c-938c-4fc3ab03b726",
+       "primer_lanzamiento": "2019-09-27",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "iq-dominion",
+       "titulo": "Dominion",
+       "anio": 2025,
+       "mbid": "7aa4ca28-bb9a-4d36-883b-3dae07b1fb02",
+       "primer_lanzamiento": "2025-03-28",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "twelfth-night",
+     "nombre": "Twelfth Night",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1978-09",
+     "fin": "2012",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Twelfth_Night_(band)",
+     "formaciones_mb": [
+      "Brian Devoil (miembro; 1978-02–1987)",
+      "Andy Revell (miembro; 1978-02–1987)",
+      "Clive Mitten (miembro; 1978-08–1986)",
+      "Rick Battersby (miembro; 1979–1981-10-29)",
+      "Electra McLeod (miembro; 1980-09–1980-11)",
+      "Geoff Mann (miembro; 1981-08–1983-11-05)",
+      "Rick Battersby (miembro; 1982-11-05–1987)",
+      "Andy Sears (miembro; 1983-11-05–1986)",
+      "Martyn Watson (miembro; 1987–1987)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "twelfth-night-skan",
+       "titulo": "SKAN",
+       "anio": 1979,
+       "mbid": "6171f031-b0f9-4f2d-a5ad-2d5a59d80bb8",
+       "primer_lanzamiento": "1979-04",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "twelfth-night-twelfth-night-1980",
+       "titulo": "Twelfth Night",
+       "anio": 1980,
+       "mbid": "45b31d3c-d371-495a-ab50-852368a9c3a4",
+       "primer_lanzamiento": "1980-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "twelfth-night-smiling-at-grief",
+       "titulo": "Smiling at Grief",
+       "anio": 1982,
+       "mbid": "3925d8cb-f76d-3379-b571-a93f99afca16",
+       "primer_lanzamiento": "1982-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "twelfth-night-fact-and-fiction",
+       "titulo": "Fact and Fiction",
+       "anio": 1982,
+       "mbid": "4cbfab59-1615-3809-a469-d7560520ba56",
+       "primer_lanzamiento": "1982-12",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "twelfth-night-art-illusion",
+       "titulo": "Art & Illusion",
+       "anio": 1984,
+       "mbid": "d68780f6-3f56-3e1d-8802-3d21f7eaea81",
+       "primer_lanzamiento": "1984-09-21",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "twelfth-night-twelfth-night-1986",
+       "titulo": "Twelfth Night",
+       "anio": 1986,
+       "mbid": "3a60a85d-5a0b-314c-a42b-93b459ae6847",
+       "primer_lanzamiento": "1986-07",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neo-pendragon",
+   "escena": "neoprog",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "pendragon",
+     "nombre": "Pendragon",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1976",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Pendragon_(banda)",
+     "formaciones_mb": [
+      "Peter Gee (miembro; 1981–act.)",
+      "Rik Carter (keyboard; 1984–1986)",
+      "Fudge Smith (miembro; 1986–2006)",
+      "Clive Nolan (miembro; 1986–act.)",
+      "Joe Crabtree (miembro; 2006–2007)",
+      "Scott Higham (miembro; 2008–act.)",
+      "Verity White (background vocals; 2016–act.)",
+      "John Barnfield (miembro; ?–1984-01)",
+      "Nigel Harris (miembro; ?–1986)",
+      "Nick Barrett (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "pendragon-the-jewel",
+       "titulo": "The Jewel",
+       "anio": 1985,
+       "mbid": "7ae479f8-ca02-328d-98c7-2fc4adfd02b6",
+       "primer_lanzamiento": "1985",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-kowtow",
+       "titulo": "Kowtow",
+       "anio": 1988,
+       "mbid": "06419a7a-f451-382f-b78a-ebdea305d730",
+       "primer_lanzamiento": "1988",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-the-world",
+       "titulo": "The World",
+       "anio": 1991,
+       "mbid": "70490cc0-916f-3f6a-996e-79e04f2ef442",
+       "primer_lanzamiento": "1991",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-the-window-of-life-1993",
+       "titulo": "The Window of Life",
+       "anio": 1993,
+       "mbid": "bfbe9548-a302-3319-9356-07ed2e6e8d69",
+       "primer_lanzamiento": "1993",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-the-masquerade-overture",
+       "titulo": "The Masquerade Overture",
+       "anio": 1996,
+       "mbid": "ec3bae36-e4f9-3d72-bf84-484a1ab67d17",
+       "primer_lanzamiento": "1996-04-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-not-of-this-world",
+       "titulo": "Not of This World",
+       "anio": 2001,
+       "mbid": "c62982fa-a32c-37e6-bf19-ead0b1ac4ff2",
+       "primer_lanzamiento": "2001-04-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-believe",
+       "titulo": "Believe",
+       "anio": 2005,
+       "mbid": "d38c68ad-b066-3c1c-b753-ceec4d0c6900",
+       "primer_lanzamiento": "2005-09-05",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-pure",
+       "titulo": "Pure",
+       "anio": 2008,
+       "mbid": "9949f88b-e94c-3d28-bf0a-28a7e287ac89",
+       "primer_lanzamiento": "2008-10-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-passion",
+       "titulo": "Passion",
+       "anio": 2011,
+       "mbid": "451ed939-a79c-4480-a1cf-a5816643589c",
+       "primer_lanzamiento": "2011-04-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-men-who-climb-mountains",
+       "titulo": "Men Who Climb Mountains",
+       "anio": 2014,
+       "mbid": "c027c601-2914-42eb-8c1e-833e850c7820",
+       "primer_lanzamiento": "2014-10-09",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-love-over-fear",
+       "titulo": "Love Over Fear",
+       "anio": 2020,
+       "mbid": "f0819265-c13a-4338-bf50-b7908ab5aed5",
+       "primer_lanzamiento": "2020-02-28",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pendragon-the-window-of-life-2024",
+       "titulo": "The Window of Life",
+       "anio": 2024,
+       "mbid": "9151f2c3-0f62-476d-94de-3ca03c6cf3bf",
+       "primer_lanzamiento": "2024",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "pallas",
+     "nombre": "Pallas",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1980",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Pallas_(band)",
+     "formaciones_mb": [
+      "Mike Stobbie (miembro; 1974-10-27–1979-12)",
+      "Graeme Murray (miembro; 1974-10-27–act.)",
+      "Derek Forman (miembro; 1976–1998)",
+      "Nial Mathewson (miembro; 1978-06–act.)",
+      "Euan Lowson (miembro; 1978-10–1984-04)",
+      "Ronnie Brown (miembro; 1979-12–1987-10)",
+      "Alan Reed (lead vocals; 1984-08–2010-01-28)",
+      "Mike Stobbie (miembro; 1987-10–1998)",
+      "Ronnie Brown (miembro; 1998–act.)",
+      "Colin Fraser (miembro; 1998–act.)",
+      "Paul Mackie (lead vocals; 2010–act.)",
+      "Niall Mathewson (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "pallas-the-sentinel",
+       "titulo": "The Sentinel",
+       "anio": 1984,
+       "mbid": "743e46d7-13f4-3835-9373-bd5aa34c52fe",
+       "primer_lanzamiento": "1984-02-13",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pallas-the-wedge",
+       "titulo": "The Wedge",
+       "anio": 1986,
+       "mbid": "1b5f0e71-9f9a-3ec4-af50-1c622480303e",
+       "primer_lanzamiento": "1986-02-10",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pallas-beat-the-drum",
+       "titulo": "Beat the Drum",
+       "anio": 1998,
+       "mbid": "9c7bbdb6-8070-3ba2-9d4d-102e62b45d1e",
+       "primer_lanzamiento": "1998-09-26",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pallas-the-cross-the-crucible",
+       "titulo": "The Cross & the Crucible",
+       "anio": 2001,
+       "mbid": "d512ea5c-2576-3f62-9a2e-f2dbd588cb11",
+       "primer_lanzamiento": "2001-06-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pallas-the-dreams-of-men",
+       "titulo": "The Dreams of Men",
+       "anio": 2005,
+       "mbid": "6a09fe9d-5ef0-3ad0-b3f1-ae921cb665a1",
+       "primer_lanzamiento": "2005-10-27",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pallas-xxv",
+       "titulo": "XXV",
+       "anio": 2011,
+       "mbid": "578c4a04-dfef-4eb7-92c5-b9d897b15cd7",
+       "primer_lanzamiento": "2011-07-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pallas-wearewhoweare",
+       "titulo": "wearewhoweare",
+       "anio": 2014,
+       "mbid": "f8ac369f-0d76-4769-86b1-52769120617e",
+       "primer_lanzamiento": "2014-12-15",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "pallas-the-messenger",
+       "titulo": "The Messenger",
+       "anio": 2023,
+       "mbid": "463de976-e170-4542-8f46-072c6bc69705",
+       "primer_lanzamiento": "2023-12-15",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "neo-segunda",
+   "escena": "neoprog",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "arena",
+     "nombre": "Arena",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1995",
+     "fin": null,
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Arena_(banda)",
+     "formaciones_mb": [
+      "John Carson (lead vocals; 1995–1995-09)",
+      "Cliff Orsi (bass guitar; 1995–1996-05)",
+      "Keith More (guitar; 1995–1997)",
+      "Clive Nolan (keyboard, original; 1995–act.)",
+      "Mick Pointer (drums (drum set), original; 1995–act.)",
+      "John Jowitt (bass guitar; 1996–1999)",
+      "Paul Wrightson (lead vocals; 1996–1999)",
+      "John Mitchell (guitar; 1997–act.)",
+      "Ian Salmon (bass guitar; 1999–2011)",
+      "Rob Sowden (lead vocals; 1999–2011)",
+      "John Jowitt (bass guitar; 2011–2014-07-24)",
+      "Paul Manzi (lead vocals; 2011–2020-07)",
+      "Kylan Amos (bass guitar; 2015–act.)",
+      "Damian Wilson (miembro; 2020-07–2026-11-30)",
+      "Paul Manzi (lead vocals; 2027-01-01–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "arena-songs-from-the-lions-cage",
+       "titulo": "Songs From the Lion’s Cage",
+       "anio": 1995,
+       "mbid": "69128262-7d28-3168-9ca9-4f26149a5531",
+       "primer_lanzamiento": "1995-02-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arena-pride",
+       "titulo": "Pride",
+       "anio": 1996,
+       "mbid": "3ba2faad-6aed-3327-ac45-a6716a7eddf3",
+       "primer_lanzamiento": "1996-09-23",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arena-the-visitor",
+       "titulo": "The Visitor",
+       "anio": 1998,
+       "mbid": "b89a3c16-97c9-3fe5-8163-b8fb719ffffc",
+       "primer_lanzamiento": "1998-04-20",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arena-immortal",
+       "titulo": "Immortal?",
+       "anio": 2000,
+       "mbid": "28e5ea0d-b841-39a6-a236-3b4c9e353b5b",
+       "primer_lanzamiento": "2000-04-25",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arena-contagion",
+       "titulo": "Contagion",
+       "anio": 2003,
+       "mbid": "0e05573e-4b88-3599-8a27-55f1b6b52493",
+       "primer_lanzamiento": "2003-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arena-peppers-ghost",
+       "titulo": "Pepper’s Ghost",
+       "anio": 2005,
+       "mbid": "f3832ea4-ef93-3cf8-8db4-31a20b062f48",
+       "primer_lanzamiento": "2005-01-17",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arena-the-seventh-degree-of-separation",
+       "titulo": "The Seventh Degree of Separation",
+       "anio": 2011,
+       "mbid": "d592ea8e-3915-404d-898e-aecf674d930b",
+       "primer_lanzamiento": "2011-11-28",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arena-the-unquiet-sky",
+       "titulo": "The Unquiet Sky",
+       "anio": 2015,
+       "mbid": "d718d587-312d-4844-9166-ba4832748717",
+       "primer_lanzamiento": "2015-04-27",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arena-double-vision",
+       "titulo": "Double Vision",
+       "anio": 2018,
+       "mbid": "4d5d7f59-4ca8-4181-8c00-ee7006cbef2f",
+       "primer_lanzamiento": "2018-06-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "arena-the-theory-of-molecular-inheritance",
+       "titulo": "The Theory of Molecular Inheritance",
+       "anio": 2022,
+       "mbid": "290fa25a-df37-4bca-a3c4-820b7081bcb2",
+       "primer_lanzamiento": "2022-09-22",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "jadis",
+     "nombre": "Jadis",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": null,
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Jadis_(band)",
+     "formaciones_mb": [
+      "Mark Ridout (miembro; 1982-01–1985-02)",
+      "Les Marshall (miembro; 1982-01–1986-11)",
+      "Trevor Dawkins (miembro; 1982-01–1989-06)",
+      "Gary Chandler (miembro; 1982-02–act.)",
+      "Paul Alwin (miembro; 1985-09–1988-07)",
+      "Pete Salmon (miembro; 1986-09–1989-06)",
+      "Mark Law (miembro; 1988-07–1989-06)",
+      "Steve Christey (miembro; 1990-03–act.)",
+      "Nick May (miembro; 1990-03–act.)",
+      "Martin Orford (miembro; 1990-03–act.)",
+      "John Jowitt (miembro; 1991-10–act.)",
+      "Andy Marlow (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "jadis-jadis",
+       "titulo": "Jadis",
+       "anio": 1989,
+       "mbid": "884e1009-5f4e-4dcb-8299-e1e4eb7a3f86",
+       "primer_lanzamiento": "1989-04-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "jadis-more-than-meets-the-eye",
+       "titulo": "More Than Meets the Eye",
+       "anio": 1992,
+       "mbid": "b4429209-244e-3a8e-840e-0d424b718571",
+       "primer_lanzamiento": "1992",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "jadis-across-the-water",
+       "titulo": "Across the Water",
+       "anio": 1994,
+       "mbid": "9161ac30-fe40-3362-92e0-bd713396288d",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "jadis-somersault",
+       "titulo": "Somersault",
+       "anio": 1997,
+       "mbid": "e0c8cfba-ef8d-39b7-aedc-370d901890ac",
+       "primer_lanzamiento": "1997",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "jadis-understand",
+       "titulo": "Understand",
+       "anio": 2000,
+       "mbid": "4f6a9328-7507-3a66-b5c0-a99a7272c26c",
+       "primer_lanzamiento": "2000",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "jadis-fanatic",
+       "titulo": "Fanatic",
+       "anio": 2003,
+       "mbid": "08b80b72-753e-3fdc-a67f-7b00a747f00c",
+       "primer_lanzamiento": "2003-04-28",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "jadis-photoplay",
+       "titulo": "Photoplay",
+       "anio": 2006,
+       "mbid": "28c06cf2-4c8b-30f7-b976-859d2c9c3fc5",
+       "primer_lanzamiento": "2006-02-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "jadis-see-right-through-you",
+       "titulo": "See Right Through You",
+       "anio": 2012,
+       "mbid": "1ad56ad7-21ae-44bb-91af-8241c86dc8ac",
+       "primer_lanzamiento": "2012-09-03",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "jadis-no-fear-of-looking-down",
+       "titulo": "No Fear of Looking Down",
+       "anio": 2016,
+       "mbid": "7d32d129-e18a-42bf-b13c-e9097656f2cf",
+       "primer_lanzamiento": "2016-07-20",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "jadis-more-questions-than-answers",
+       "titulo": "More Questions Than Answers",
+       "anio": 2024,
+       "mbid": "95b277ac-2dfc-4920-8176-2bff2644f9f5",
+       "primer_lanzamiento": "2024-08-08",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "galahad",
+     "nombre": "Galahad",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1985-07",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Galahad_(band)",
+     "formaciones_mb": [
+      "John O’Callaghan (guitar, original; 1985-07–1986-05)",
+      "Paddy O’Callaghan (membranophone, original; 1985-07–1987-01)",
+      "Nick Hodgson (keyboard, original; 1985-07–1987-03)",
+      "Mike Hooker (keyboard, original; 1985-07–1987-03)",
+      "Paul Watts (bass guitar, original; 1985-07–1989-03)",
+      "Roy Keyworth (guitar, original; 1985-07–1998)",
+      "Stuart Nicholson (lead vocals, original; 1985-07–act.)",
+      "Mike Hewetson (keyboard; 1987-03–1988-06)",
+      "Spencer Luckman (drums (drum set); 1987-03–act.)",
+      "Mark Andrews (keyboard; 1988-06–1991-03)",
+      "Pat McCann (bass guitar; 1989-03–1989-04)",
+      "Tim Ashton (bass guitar; 1989-04–1992-04)",
+      "Neil Pepper (bass guitar; 1993–2001)",
+      "Dean Baker (keyboard; 1997-08–act.)",
+      "Roy Keyworth (guitar, original; 1999-04–2017-03)",
+      "Lee Abraham (bass guitar; 2005–2009-06)",
+      "Tim Ashton (bass guitar; 2014-08–2017-12)",
+      "Mark Spencer (bass guitar; 2017-12–act.)",
+      "Lee Abraham (guitar; 2017–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "galahad-in-a-moment-of-madness",
+       "titulo": "In a Moment of Madness",
+       "anio": 1989,
+       "mbid": "f207b473-1011-30b4-a14c-ddcb233c00d8",
+       "primer_lanzamiento": "1989",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-nothing-is-written",
+       "titulo": "Nothing Is Written",
+       "anio": 1991,
+       "mbid": "796a12e4-dcd1-3b71-b8c1-bb55332d7e17",
+       "primer_lanzamiento": "1991-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-sleepers",
+       "titulo": "Sleepers",
+       "anio": 1995,
+       "mbid": "9fccdd98-2b44-3c23-b84b-0b4abb8088ba",
+       "primer_lanzamiento": "1995-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-following-ghosts",
+       "titulo": "Following Ghosts",
+       "anio": 1998,
+       "mbid": "4962dd9c-ca6b-334c-a9b0-7de14d6341b9",
+       "primer_lanzamiento": "1998",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-year-zero",
+       "titulo": "Year Zero",
+       "anio": 2002,
+       "mbid": "54d53788-7cb8-38af-9d62-fd7c525be1d1",
+       "primer_lanzamiento": "2002-09-23",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-empires-never-last",
+       "titulo": "Empires Never Last",
+       "anio": 2006,
+       "mbid": "77e424e9-18ab-3cd3-9d32-3961c993e925",
+       "primer_lanzamiento": "2006",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-battle-scars",
+       "titulo": "Battle Scars",
+       "anio": 2012,
+       "mbid": "db42573d-8af9-42b6-a940-1de622ebb2a2",
+       "primer_lanzamiento": "2012-04-16",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-beyond-the-realms-of-euphoria",
+       "titulo": "Beyond the Realms of Euphoria",
+       "anio": 2012,
+       "mbid": "65cfeb92-2844-42b0-840e-543fed7d07ca",
+       "primer_lanzamiento": "2012-10-01",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-when-worlds-collide",
+       "titulo": "When Worlds Collide",
+       "anio": 2015,
+       "mbid": "abba3f5a-88aa-439f-9e7c-f5a1ae456019",
+       "primer_lanzamiento": "2015-12-19",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-quiet-storms",
+       "titulo": "Quiet Storms",
+       "anio": 2017,
+       "mbid": "1aaffbe7-0423-4e46-822d-889a4a917fb6",
+       "primer_lanzamiento": "2017-05-15",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-seas-of-change",
+       "titulo": "Seas of Change",
+       "anio": 2018,
+       "mbid": "7aca561e-feb7-4d82-9cfd-675abe7f802f",
+       "primer_lanzamiento": "2018-01-15",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-the-last-great-adventurer",
+       "titulo": "The Last Great Adventurer",
+       "anio": 2022,
+       "mbid": "83aa0ded-9ec4-4554-b1d1-d6ccf77fa501",
+       "primer_lanzamiento": "2022-10-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "galahad-the-long-goodbye",
+       "titulo": "The Long Goodbye",
+       "anio": 2023,
+       "mbid": "a4cf8316-47ec-4568-b3d8-feedf49a0e37",
+       "primer_lanzamiento": "2023-10-20",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "solstice",
+     "nombre": "Solstice",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1980",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Solstice_(progressive_rock_band)",
+     "formaciones_mb": [
+      "Mark Hawkins (bass guitar; 1980–1984)",
+      "Mark Hawkins (bass pedals; 1980–1984)",
+      "Martin Wright (drums (drum set); 1980–1986)",
+      "Marc Elton (background vocals; 1980–1997)",
+      "Marc Elton (violin; 1980–1997)",
+      "Marc Elton (keyboard; 1980–1997)",
+      "Sandy Leigh (lead vocals; 1983–1984)",
+      "Craig Sunderland (bass guitar; 1992–1997)",
+      "Peter Hemsley (drums (drum set); 1992–?)",
+      "Heidi Kemp (lead vocals; 1992–?)",
+      "Steve McDaniel (keyboard; 1997–act.)",
+      "Jenny Newman (fiddle; 1997–act.)",
+      "Robin Phillips (bass guitar; 1997–act.)",
+      "Peter Hemsley (drums (drum set); 2007–act.)",
+      "Jess Holland (lead vocals; 2020–act.)",
+      "Emma Brown (lead vocals; ?–act.)",
+      "Ebony Buckle (miembro; ?–act.)",
+      "Clive Bunker (drums (drum set); ?–act.)",
+      "Dyane Crutcher (miembro; ?–act.)",
+      "Andy Glass (background vocals; ?–act.)",
+      "Andy Glass (guitar; ?–act.)",
+      "Leoni Jane Kennedy (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "solstice-silent-dance",
+       "titulo": "Silent Dance",
+       "anio": 1984,
+       "mbid": "8f95c83a-8452-37f0-919d-439fafdc09b6",
+       "primer_lanzamiento": "1984",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "solstice-new-life",
+       "titulo": "New Life",
+       "anio": 1993,
+       "mbid": "dddc4609-f620-37b9-9ac6-9402a30feb17",
+       "primer_lanzamiento": "1993",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "solstice-circles",
+       "titulo": "Circles",
+       "anio": 1996,
+       "mbid": "d4ac4bd5-e3e1-335d-8002-80ba9366c542",
+       "primer_lanzamiento": "1996",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "solstice-spirit",
+       "titulo": "Spirit",
+       "anio": 2010,
+       "mbid": "41f52089-b5e1-48cc-a48c-749a749c1b69",
+       "primer_lanzamiento": "2010-03-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "solstice-prophecy",
+       "titulo": "Prophecy",
+       "anio": 2013,
+       "mbid": "c5640b7d-0428-4251-b5f4-cd004b042284",
+       "primer_lanzamiento": "2013-10-14",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "solstice-sia",
+       "titulo": "Sia",
+       "anio": 2020,
+       "mbid": "340cd3e3-b839-46f7-8347-4daa7bed48cd",
+       "primer_lanzamiento": "2020-11-23",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "solstice-light-up",
+       "titulo": "Light Up",
+       "anio": 2022,
+       "mbid": "55baccca-9b74-473a-99b5-ffec19142106",
+       "primer_lanzamiento": "2022-11",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "solstice-clann",
+       "titulo": "Clann",
+       "anio": 2025,
+       "mbid": "3403a41b-e534-4da7-a979-39cd7a9bc92a",
+       "primer_lanzamiento": "2025-04-04",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

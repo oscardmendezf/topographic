@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "trettioariga-kriget-i-borjan-och-slutet"
+titulo: "I början och slutet"
+artista: "Trettioåriga kriget"
+artista_slug: "trettioariga-kriget"
+anio_ficha: 2007
+era: "moderna"
+escena: "escandinavia"
+mb_rgid: "ac6ffdee-63de-39a7-82bb-027d484e47e5"
+primer_lanzamiento: "2007"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Continuidad solvente de la etapa tardía."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Alcance de nicho, sin pretensión de otra cosa."
+historia: "editorial"
+---
+
+Continúa la segunda etapa con temas de desarrollo pausado y un peso que se construye por acumulación antes que por ataque. Está bien tocado y mejor grabado que casi todo su pasado, aunque le falta la urgencia que hacía memorables a los primeros. Un disco para quien ya siga a la banda.
+
+<!-- historia:editorial -->
+
+## La historia
+
+I början och slutet —en el principio y el final— llega en 2007 y confirma que la segunda etapa no era un episodio suelto. Es un disco largo, de doce cortes, y el más claramente articulado de todo lo que la banda hizo después del regreso: empieza con «I krigets tid», en tiempos de guerra, y termina con una segunda versión del mismo tema, de modo que el álbum se cierra sobre sí mismo. Entre esos dos extremos hay algo muy parecido a un recorrido biográfico.
+
+La secuencia inicial lo dice sin rodeos: «Barndom» es la infancia, «Ungdom» y «Ungdom II» la juventud en dos tramos, y a partir de ahí el disco se abre a estampas sueltas —«Benke» con un nombre propio por título, «Öknen» en el desierto, «S-Bahn» en un tren urbano ajeno, «Floden» en el río, «Ryttaren» con un jinete— antes de que «I början och slutet» recoja el conjunto. «Lovsång», la pieza más larga, es un canto de alabanza cuyo título suena a ironía en una banda que nunca celebró nada. No es un disco conceptual en el sentido estricto, pero tiene una idea que lo ordena: el tiempo de una vida mirado desde el final, con la guerra como marco y no como anécdota. Frente a Elden av år, la escritura es más pareja y menos épica; frente a lo que vendría, todavía algo formal.
+
+## La producción
+
+La grabación es limpia, espaciosa y de las mejores de la discografía, con una separación instrumental que permite seguir cada línea sin esfuerzo. El peso, que en los setenta venía del ataque, aquí se construye por acumulación: capas que entran una sobre otra, dinámicas que suben despacio, pasajes largos en volumen bajo antes de cada crecida. La guitarra alterna texturas abiertas con el viejo tono áspero, que reaparece dosificado, y el bajo mantiene su función de conducción armónica, que sigue siendo la firma más reconocible del grupo.
+
+Los arreglos evitan casi por completo el efecto y el adorno: no hay orquestaciones, los teclados aportan color y sostén, y las voces se registran sin procesamiento que las embellezca. La secuencia de temas está pensada como recorrido, con las piezas cortas funcionando de enlace entre las de desarrollo. Es un trabajo de estudio maduro, hecho por gente que ya sabe exactamente qué quiere escuchar, y su único riesgo es el que efectivamente corre: la prolijidad puede quitar filo.
+
+## Recepción y legado
+
+Se lo recibió como lo que es, la continuación consecuente de un regreso que ya había sido bien acogido, y circuló sobre todo entre quienes seguían a la banda de antes. No generó conversión de nuevos oyentes, en parte porque no tiene una puerta de entrada evidente: hay que escucharlo entero para que la estructura se entienda.
+
+Su lugar en la discografía es el de disco sólido de la segunda vida, más redondo que fulgurante. Está mejor tocado y mejor grabado que casi todo el pasado del grupo, y aun así le falta la urgencia que volvía memorables a los dos primeros: donde antes había un riff que cortaba, ahora hay un desarrollo que se instala. Para quien ya siga a la banda es un disco que crece con las escuchas; para quien llegue de nuevo, conviene empezar por otro lado.

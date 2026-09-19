@@ -1,0 +1,1263 @@
+{
+  "begin-area": null,
+  "disambiguation": "",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "ipis": [],
+  "isnis": [
+    "0000000469839402"
+  ],
+  "sort-name": "White Willow",
+  "name": "White Willow",
+  "country": "NO",
+  "end-area": null,
+  "id": "147de9f1-2083-4fe9-82c2-2487ed626d9b",
+  "type": "Group",
+  "gender-id": null,
+  "aliases": [],
+  "area": {
+    "type": null,
+    "id": "6743d351-6f37-3049-9724-5041161fff4d",
+    "sort-name": "Norway",
+    "disambiguation": "",
+    "name": "Norway",
+    "type-id": null,
+    "iso-3166-1-codes": [
+      "NO"
+    ]
+  },
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1995"
+  },
+  "relations": [
+    {
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "bass guitar"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "id": "d53e88a0-c364-4934-ab67-e4a419c53d29",
+        "name": "Peter B. Albers",
+        "disambiguation": "",
+        "sort-name": "Albers, Peter B.",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-credits": {},
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "ended": true,
+      "end": "1995",
+      "type": "member of band",
+      "begin": "1993"
+    },
+    {
+      "begin": "1993",
+      "type": "member of band",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "1995",
+      "ended": true,
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "id": "70b8b9c5-94db-4f79-a2be-cecfc865418c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "disambiguation": "",
+        "name": "Henning Eidem",
+        "sort-name": "Eidem, Henning"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "end": "1995",
+      "ended": true,
+      "begin": "1993",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "flute"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "country": "NO",
+        "name": "Audun Kjus",
+        "disambiguation": "",
+        "sort-name": "Kjus, Audun",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "dffc6c40-d7e4-4344-8eb7-452413717bfc"
+      }
+    },
+    {
+      "type": "member of band",
+      "begin": "1993",
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "end": "1998",
+      "ended": true,
+      "direction": "backward",
+      "artist": {
+        "id": "9245b594-5636-43db-a47f-9757ab142fa0",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Rahman, Jan Tariq",
+        "name": "Jan Tariq Rahman"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "keyboard"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": ""
+    },
+    {
+      "begin": "1995",
+      "type": "member of band",
+      "end": "1995",
+      "ended": true,
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "sort-name": "Johansen, Eldrid",
+        "disambiguation": "",
+        "name": "Eldrid Johansen",
+        "country": "NO",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "cc63df67-0cad-4d08-b18f-e1f47334a527"
+      },
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attributes": [
+        "violin"
+      ],
+      "target-credit": "Tirill",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "direction": "backward",
+      "attribute-credits": {},
+      "artist": {
+        "sort-name": "Mohn, Tirill",
+        "disambiguation": "",
+        "name": "Tirill Mohn",
+        "country": "NO",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "987aa1df-4193-4c5d-80c7-51e07617d7b2"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "violin": "089f123c-0f7d-4105-a64e-49de81ca8fa4"
+      },
+      "end": "1995",
+      "ended": true,
+      "begin": "1995",
+      "type": "member of band"
+    },
+    {
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "end": "1998",
+      "ended": true,
+      "begin": "1998",
+      "type": "member of band",
+      "target-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "id": "f0e9df14-dd92-45fd-a7f3-a670439ccbb2",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "sort-name": "Lia, Frode",
+        "name": "Frode Lia",
+        "country": null
+      }
+    },
+    {
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "id": "f2a768e9-0093-49be-979a-561285462f37",
+        "disambiguation": "",
+        "sort-name": "Olsson, Mattias",
+        "name": "Mattias Olsson",
+        "country": "SE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "attribute-values": {},
+      "begin": "1998",
+      "type": "member of band",
+      "ended": true,
+      "end": "1998",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "country": null,
+        "sort-name": "Skjellestad, Sylvia",
+        "disambiguation": "",
+        "name": "Sylvia Skjellestad",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "149e446c-fa07-40a3-a02a-18b90ba3f179"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "begin": "1998",
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "end": "2004",
+      "ended": true
+    },
+    {
+      "attribute-ids": {},
+      "end": "2000",
+      "ended": true,
+      "type": "member of band",
+      "begin": "2000",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "name": "Brynjar Dambo",
+        "sort-name": "Dambo, Brynjar",
+        "country": "NO",
+        "id": "f68612f6-9a70-437e-bd2f-ae3eae750079",
+        "type": "Person"
+      },
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "guitar"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "target-type": "artist",
+      "artist": {
+        "id": "e9cf44c1-ed54-4133-aaf6-7fcb30712f6d",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "sort-name": "Sæbøe, Johannes",
+        "disambiguation": "",
+        "name": "Johannes Sæbøe"
+      },
+      "attribute-credits": {},
+      "direction": "backward",
+      "end": "2000",
+      "ended": true,
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "type": "member of band",
+      "begin": "2000"
+    },
+    {
+      "begin": "2000",
+      "type": "member of band",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "end": "2000",
+      "ended": true,
+      "direction": "backward",
+      "attribute-credits": {},
+      "artist": {
+        "sort-name": "Sæbøe, Johannes",
+        "disambiguation": "",
+        "name": "Johannes Sæbøe",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "e9cf44c1-ed54-4133-aaf6-7fcb30712f6d"
+      },
+      "target-type": "artist",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "end": "2007",
+      "ended": true,
+      "type": "member of band",
+      "begin": "2000",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "flute"
+      ],
+      "direction": "backward",
+      "target-type": "artist",
+      "artist": {
+        "country": "NO",
+        "disambiguation": "",
+        "name": "Ketil Vestrum Einarsen",
+        "sort-name": "Einarsen, Ketil Vestrum",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "298a8d49-c60c-496a-8d48-2bec0c6d7791"
+      },
+      "attribute-credits": {}
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "end": "2007",
+      "ended": true,
+      "type": "member of band",
+      "begin": "2000",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "direction": "backward",
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "id": "b1dd299b-62e0-4f07-87f4-ec2815b5db46",
+        "country": "NO",
+        "disambiguation": "",
+        "name": "Aage Moltke Schou",
+        "sort-name": "Schou, Aage Moltke",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-credits": {}
+    },
+    {
+      "begin": "2004",
+      "type": "member of band",
+      "ended": true,
+      "end": "2004",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "sort-name": "Sæbøe, Johannes",
+        "name": "Johannes Sæbøe",
+        "country": null,
+        "id": "e9cf44c1-ed54-4133-aaf6-7fcb30712f6d",
+        "type": "Person"
+      },
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "guitar"
+      ]
+    },
+    {
+      "ended": true,
+      "end": "2004",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "begin": "2004",
+      "type": "member of band",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "id": "e9cf44c1-ed54-4133-aaf6-7fcb30712f6d",
+        "country": null,
+        "name": "Johannes Sæbøe",
+        "disambiguation": "",
+        "sort-name": "Sæbøe, Johannes",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "direction": "backward"
+    },
+    {
+      "target-type": "artist",
+      "artist": {
+        "id": "0d8651c4-4c2e-4d8d-84e3-ebff90691279",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "NO",
+        "disambiguation": "",
+        "sort-name": "Walthinsen, Marthe Berger",
+        "name": "Marthe Berger Walthinsen"
+      },
+      "attribute-credits": {},
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "bass guitar"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "begin": "2004",
+      "ended": true,
+      "end": "2007",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "attributes": [
+        "keyboard"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "NO",
+        "name": "Lars Fredrik Frøislie",
+        "disambiguation": "",
+        "sort-name": "Frøislie, Lars Fredrik",
+        "id": "fff68df9-d04e-42fa-9d6b-a67d38de49ac",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "direction": "backward",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "type": "member of band",
+      "begin": "2004"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "sort-name": "Eidtang, Trude",
+        "name": "Trude Eidtang",
+        "country": null,
+        "id": "d867a66a-07fd-4403-8218-a8d4e071f891",
+        "type": "Person"
+      },
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "ended": true,
+      "end": "2007",
+      "begin": "2005",
+      "type": "member of band"
+    },
+    {
+      "direction": "backward",
+      "artist": {
+        "name": "Mattias Olsson",
+        "disambiguation": "",
+        "sort-name": "Olsson, Mattias",
+        "country": "SE",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "f2a768e9-0093-49be-979a-561285462f37"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "type": "member of band",
+      "begin": "2009",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "ended": false,
+      "end": null
+    },
+    {
+      "begin": "2010",
+      "type": "member of band",
+      "ended": true,
+      "end": "2016",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-credits": {},
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "disambiguation": "",
+        "sort-name": "Skjellestad, Sylvia",
+        "name": "Sylvia Skjellestad",
+        "id": "149e446c-fa07-40a3-a02a-18b90ba3f179",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "type": "member of band",
+      "begin": "2010",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "target-type": "artist",
+      "artist": {
+        "id": "298a8d49-c60c-496a-8d48-2bec0c6d7791",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Einarsen, Ketil Vestrum",
+        "disambiguation": "",
+        "name": "Ketil Vestrum Einarsen",
+        "country": "NO"
+      },
+      "attribute-credits": {},
+      "direction": "backward",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "flute"
+      ]
+    },
+    {
+      "begin": "2010",
+      "type": "member of band",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-credits": {},
+      "artist": {
+        "type": "Person",
+        "id": "63a41bd2-2b3b-4593-bcf5-bff50a7bc4b2",
+        "sort-name": "Wang, Ellen Andrea",
+        "disambiguation": "",
+        "name": "Ellen Andrea Wang",
+        "country": "NO",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "bass guitar"
+      ]
+    },
+    {
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "ended": false,
+      "end": null,
+      "begin": "2016",
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [
+        "lead vocals"
+      ],
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "id": "801551ed-7e8e-49bc-803d-81e75f2bdd0c",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "NO",
+        "sort-name": "Knutson, Venke",
+        "disambiguation": "",
+        "name": "Venke Knutson"
+      }
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [
+        "guitar"
+      ],
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "type": "Person",
+        "id": "41e84c20-08ec-44af-9d16-d7095f92471e",
+        "disambiguation": "",
+        "sort-name": "Holm‐Lupo, Jacob",
+        "name": "Jacob Holm‐Lupo",
+        "country": "NO",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type": "member of band"
+    },
+    {
+      "begin": null,
+      "type": "member of band",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "end": null,
+      "ended": false,
+      "direction": "backward",
+      "attribute-credits": {},
+      "target-type": "artist",
+      "artist": {
+        "disambiguation": "",
+        "sort-name": "Trondal, Sara",
+        "name": "Sara Trondal",
+        "country": null,
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "d89af00b-43c0-496f-ae12-fbb831f4ab32"
+      },
+      "attributes": [
+        "lead vocals"
+      ],
+      "target-credit": "",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type": "allmusic",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "source-credit": "",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "url": {
+        "id": "bfb41bef-9ed4-4e5d-b904-30b3c5492c08",
+        "resource": "https://www.allmusic.com/artist/mn0000254994"
+      },
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "type": "bandcamp",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://whitewillow.bandcamp.com/",
+        "id": "ae267c4e-285a-43d0-88cc-06223086bdba"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.discogs.com/artist/540426",
+        "id": "ff42f345-ea05-4546-9144-4626ff196216"
+      },
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "discogs"
+    },
+    {
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://open.spotify.com/artist/62f9LejTohfxGWhMP00ZrS",
+        "id": "4db199f7-a20e-4805-94be-1992d6863186"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type": "free streaming"
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "0152eda6-fa7c-49db-9d09-b458ac83c5a5",
+        "resource": "https://www.deezer.com/artist/1682816"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "type": "free streaming",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.last.fm/music/White+Willow",
+        "id": "1f28f696-b7db-4f04-8f45-58ffd84bbc31"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "begin": null,
+      "type": "last.fm",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "type": "lyrics",
+      "begin": null,
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "resource": "https://genius.com/artists/White-willow",
+        "id": "6a6a4493-2a8a-48db-9cda-3b1ceeb6ec81"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed"
+    },
+    {
+      "begin": null,
+      "type": "official homepage",
+      "ended": true,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "3b87e9b7-d12e-41b6-b417-e416cbeb1f34",
+        "resource": "http://www.whitewillow.info/"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "source-credit": "",
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "91229c53-7d06-43da-b80f-c2a2f083582f",
+        "resource": "http://www.whitewillow.net/"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "ended": true,
+      "type": "official homepage",
+      "begin": null
+    },
+    {
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "88cc21e2-ef9b-4519-b882-bd849a1a6558",
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb16536003z"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "url": {
+        "id": "7d685499-89b6-411e-a295-174b473d9044",
+        "resource": "https://id.oclc.org/worldcat/entity/E39QH7JmmHqJqYM8wRBHkc39PF"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "type": "other databases",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type": "other databases",
+      "begin": null,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/white-willow",
+        "id": "120c24c3-b05f-4e23-bc65-6bc0a748d808"
+      },
+      "target-type": "url",
+      "direction": "forward"
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "url": {
+        "id": "6ad71843-b60b-46ca-8196-36ec0976ee9f",
+        "resource": "https://www.musik-sammler.de/artist/white-willow/"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {}
+    },
+    {
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=350",
+        "id": "b5f5d9ab-14a2-4562-be68-d82459ab9ddb"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "type": "other databases",
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "url": {
+        "id": "794a3d92-456b-46c8-8a7d-a9ffffa7f5d7",
+        "resource": "https://www.spirit-of-rock.com/en/band/White_Willow"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "7fd334da-04dc-47ce-814e-28fc667c2f74",
+        "resource": "https://music.apple.com/no/artist/156971186"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "begin": null,
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "url": {
+        "id": "faaadc16-5233-4fed-bf41-9a968b2fb25d",
+        "resource": "https://no.7digital.com/artist/white-willow"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "type": "purchase for download",
+      "begin": null,
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.qobuz.com/no-en/interpreter/white-willow/428126",
+        "id": "bb75d8aa-993a-4ad5-9264-3c4bd951d3d5"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "begin": null,
+      "type": "purchase for download",
+      "end": null,
+      "ended": false,
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "type": "setlistfm",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "a3a39b09-5db4-4e0d-afaf-6cde98c5304e",
+        "resource": "https://www.setlist.fm/setlists/white-willow-7bd7a2d8.html"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207"
+    },
+    {
+      "end": null,
+      "ended": false,
+      "attribute-ids": {},
+      "type": "social network",
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "ff5e1952-f3df-4677-98c4-f786e45fce24",
+        "resource": "https://www.facebook.com/whitewillowband"
+      }
+    },
+    {
+      "target-type": "url",
+      "direction": "forward",
+      "url": {
+        "id": "b9caa5ef-bf8d-4d77-b441-f58cb1fa4748",
+        "resource": "https://www.songkick.com/artists/358579"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "source-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "type": "songkick",
+      "begin": null,
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "source-credit": "",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://soundcloud.com/whitewillowofficial",
+        "id": "866a0c73-a68c-4bd1-89e5-b737c52b668d"
+      },
+      "direction": "forward",
+      "target-type": "url",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "type": "soundcloud"
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "type": "streaming",
+      "begin": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "url": {
+        "id": "7fd334da-04dc-47ce-814e-28fc667c2f74",
+        "resource": "https://music.apple.com/no/artist/156971186"
+      },
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "attribute-values": {},
+      "attributes": [],
+      "url": {
+        "id": "870d703a-7d81-42ce-8d59-ff2d37aed166",
+        "resource": "https://tidal.com/artist/3652223"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "type": "streaming",
+      "begin": null
+    },
+    {
+      "url": {
+        "resource": "https://www.qobuz.com/no-en/interpreter/white-willow/428126",
+        "id": "bb75d8aa-993a-4ad5-9264-3c4bd951d3d5"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "type": "streaming",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {}
+    },
+    {
+      "begin": null,
+      "type": "VIAF",
+      "ended": false,
+      "end": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "http://viaf.org/viaf/177926516",
+        "id": "bee62969-8319-4aa1-9c21-30c81016510c"
+      },
+      "target-type": "url",
+      "direction": "forward",
+      "source-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "attributes": [],
+      "target-credit": "",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "end": null,
+      "ended": false,
+      "begin": null,
+      "type": "wikidata",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "source-credit": "",
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q2322365",
+        "id": "b74ea4f6-1049-44f2-9e26-b9164c2f9324"
+      },
+      "direction": "forward",
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "target-type": "url",
+      "url": {
+        "id": "a8e02e8d-cd9a-46cb-ad4b-82794e2efbca",
+        "resource": "https://music.youtube.com/channel/UCOAQFzM3ZJVDbYNm2HFFfpg"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "source-credit": "",
+      "begin": null,
+      "type": "youtube music",
+      "attribute-ids": {},
+      "ended": false,
+      "end": null
+    }
+  ],
+  "gender": null
+}

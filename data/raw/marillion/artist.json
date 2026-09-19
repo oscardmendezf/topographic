@@ -1,0 +1,2031 @@
+{
+  "gender-id": null,
+  "country": "GB",
+  "sort-name": "Marillion",
+  "gender": null,
+  "ipis": [],
+  "area": {
+    "sort-name": "United Kingdom",
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+  },
+  "aliases": [
+    {
+      "primary": null,
+      "name": "Los Trios Marillos",
+      "end": null,
+      "begin": null,
+      "locale": null,
+      "type": null,
+      "sort-name": "Trios Marillos, Los",
+      "ended": false,
+      "type-id": null
+    },
+    {
+      "primary": null,
+      "name": "Low Fat Yoghurts",
+      "end": null,
+      "begin": null,
+      "locale": null,
+      "type": null,
+      "ended": false,
+      "sort-name": "Low Fat Yoghurts",
+      "type-id": null
+    },
+    {
+      "ended": false,
+      "type-id": null,
+      "sort-name": "Skyline Drifters",
+      "type": null,
+      "locale": null,
+      "end": null,
+      "begin": null,
+      "name": "Skyline Drifters",
+      "primary": null
+    },
+    {
+      "locale": "ko",
+      "type": "Artist name",
+      "sort-name": "마릴리온",
+      "ended": false,
+      "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+      "primary": true,
+      "name": "마릴리온",
+      "end": null,
+      "begin": null
+    }
+  ],
+  "type": "Group",
+  "disambiguation": "British progressive rock band",
+  "life-span": {
+    "ended": false,
+    "begin": "1979",
+    "end": null
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "relations": [
+    {
+      "attribute-ids": {},
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "artist": {
+        "id": "ef96a7c5-cfe5-43e0-a65f-0262e7f44630",
+        "name": "1,000 UK Artists",
+        "disambiguation": "",
+        "type": "Other",
+        "country": "GB",
+        "sort-name": "1,000 UK Artists",
+        "type-id": "ac897045-5043-3294-969b-187360e45d86"
+      },
+      "type-id": "75c09861-6857-4ec0-9729-84eefde7fc86",
+      "source-credit": "",
+      "ended": false,
+      "type": "collaboration"
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978",
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "guitar",
+        "original"
+      ],
+      "end": null,
+      "begin": "1979-08-19",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Rothery, Steve",
+        "name": "Steve Rothery",
+        "id": "72da257a-6844-4c69-83cd-a618e43792d8"
+      }
+    },
+    {
+      "attributes": [
+        "bass guitar",
+        "lead vocals",
+        "original"
+      ],
+      "target-credit": "",
+      "direction": "backward",
+      "end": "1980-12",
+      "begin": "1979-08",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "name": "Doug Irvine",
+        "id": "9f940364-6e0b-413a-bd1c-9324d19a8912",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "Irvine, Doug",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5",
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-credits": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "target-type": "artist",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Jelliman, Brian",
+        "id": "1e2cad28-6fa5-4996-ae74-f345e0dfab3b",
+        "name": "Brian Jelliman"
+      },
+      "type": "member of band",
+      "source-credit": "",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1981-11",
+      "begin": "1979-08",
+      "attributes": [
+        "keyboard",
+        "original"
+      ],
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "target-type": "artist",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "attribute-credits": {},
+      "attribute-values": {},
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "lead vocals"
+      ],
+      "end": "1988-09-12",
+      "begin": "1981-01-01",
+      "source-credit": "",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "type": "member of band",
+      "artist": {
+        "name": "Fish",
+        "id": "7c687bbb-ba1a-496d-919a-f322530739e4",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Fish",
+        "disambiguation": "Derek William Dick, ex‐Marillion frontman",
+        "type": "Person",
+        "country": "GB"
+      }
+    },
+    {
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "end": "1982-03",
+      "begin": "1981-01",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Minnitt, Diz",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "name": "Diz Minnitt",
+        "id": "54822a3a-527c-4e58-a3b6-e71762d3acbb"
+      },
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      },
+      "attribute-credits": {},
+      "attribute-values": {}
+    },
+    {
+      "artist": {
+        "name": "Mark Kelly",
+        "id": "b3eab875-d100-429a-ae87-40bc8bfefde8",
+        "sort-name": "Kelly, Mark",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "IE",
+        "disambiguation": "Marillion keyboardist"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "begin": "1981-11-28",
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "target-type": "artist"
+    },
+    {
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Trewavas, Pete",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "bassist for Marillion / Edison’s Children / Transatlantic",
+        "type": "Person",
+        "country": "GB",
+        "name": "Pete Trewavas",
+        "id": "8a9896e6-89a3-4b78-a37b-085fc262a3f5"
+      },
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "bass guitar"
+      ],
+      "end": null,
+      "begin": "1982-03-28",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "bass guitar": "17f9f065-2312-4a24-8309-6f6dd63e2e33"
+      }
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": true,
+      "artist": {
+        "name": "Andy Ward",
+        "id": "ed832760-86aa-4e28-9e1c-a9c947f5fbff",
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "Chrysanthemums, Camel, The Bevis Frond",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Ward, Andy"
+      },
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "begin": "1983-05",
+      "end": "1983-08"
+    },
+    {
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "source-credit": "",
+      "artist": {
+        "type": "Person",
+        "country": null,
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Marter, John",
+        "id": "a28bf04a-7b67-49a7-be6b-2aebad1ad047",
+        "name": "John Marter"
+      },
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "end": "1983-08",
+      "begin": "1983-08",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      }
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "type": "member of band",
+      "source-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "country": "US",
+        "sort-name": "Mover, Jonathan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "c4128a45-b39d-4411-81ad-0b509a5700e3",
+        "name": "Jonathan Mover"
+      },
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "begin": "1983-09",
+      "end": "1983-10"
+    },
+    {
+      "attribute-ids": {
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist",
+      "attribute-credits": {},
+      "attribute-values": {},
+      "begin": "1984-01-01",
+      "end": null,
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)"
+      ],
+      "direction": "backward",
+      "artist": {
+        "id": "aacdd1d7-199c-41a1-898b-47d5a9cc5700",
+        "name": "Ian Mosley",
+        "sort-name": "Mosley, Ian",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "GB"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "type": "member of band"
+    },
+    {
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "target-type": "artist",
+      "artist": {
+        "country": "GB",
+        "type": "Person",
+        "disambiguation": "",
+        "sort-name": "Hogarth, Steve",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Steve Hogarth",
+        "id": "f4381c9f-a21d-4936-8417-b34f7007ba29"
+      },
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "begin": "1989-02-02",
+      "end": null,
+      "target-credit": "",
+      "attributes": [
+        "lead vocals"
+      ],
+      "direction": "backward"
+    },
+    {
+      "artist": {
+        "id": "80fc1ecb-6d93-4166-a02c-a374c25be9f6",
+        "name": "Mick Pointer",
+        "sort-name": "Pointer, Mick",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "",
+        "country": "GB"
+      },
+      "type": "member of band",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": "1983-04",
+      "begin": null,
+      "target-credit": "",
+      "attributes": [
+        "drums (drum set)",
+        "original"
+      ],
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-credits": {},
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c",
+        "drums (drum set)": "12092505-6ee1-46af-a15a-b5b468b6b155"
+      },
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "id": "ed45aab2-1e60-4391-877f-dcc24170d1e1",
+        "name": "Edison’s Children",
+        "type": "Group",
+        "disambiguation": "",
+        "country": "US",
+        "sort-name": "Edison’s Children",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "source-credit": "",
+      "type-id": "7802f96b-d995-4ce9-8f70-6366faad758e",
+      "ended": false,
+      "type": "subgroup",
+      "end": null,
+      "begin": "2005-06-23",
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist"
+    },
+    {
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "source-credit": "",
+      "type": "tribute",
+      "artist": {
+        "type": "Group",
+        "country": "GB",
+        "disambiguation": "Fish‐era Marillion tribute band",
+        "sort-name": "Cillirion",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "name": "Cillirion",
+        "id": "74035035-530f-464a-8fe2-8342f33ac269"
+      },
+      "target-type": "artist",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "artist": {
+        "name": "Dry Land",
+        "id": "377b0604-c436-4b44-80b7-319a564ecd15",
+        "type": "Group",
+        "country": "NL",
+        "disambiguation": "Marillion Steve Hogarth‐era tribute band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Dry Land"
+      },
+      "source-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "type": "tribute",
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "artist": {
+        "country": "DE",
+        "type": "Group",
+        "disambiguation": "Marillion tribute band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Forgotten Sons",
+        "id": "06778ea5-c548-49f5-8140-684da7563922",
+        "name": "Forgotten Sons"
+      },
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "source-credit": "",
+      "type": "tribute"
+    },
+    {
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "source-credit": "",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Green Lavender",
+        "country": "DE",
+        "type": "Group",
+        "disambiguation": "German Marillion tribute",
+        "id": "e9d7076e-ec1f-4a8a-9a16-7f79171dfa0d",
+        "name": "Green Lavender"
+      },
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "artist",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "artist": {
+        "name": "Marquee Square Heroes",
+        "id": "88c78f11-942c-4cc4-bec2-bd3511c78822",
+        "country": null,
+        "type": "Group",
+        "disambiguation": "UK Fish‐era Marillion tribute",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Marquee Square Heroes"
+      },
+      "type": "tribute",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "artist",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward",
+      "artist": {
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Misplaced Neighbourhood",
+        "country": null,
+        "type": "Group",
+        "disambiguation": "Marillion tribute band from England, Wales, Norway and Holland",
+        "id": "c03975a2-5a83-48fd-9226-5fe1c4386a88",
+        "name": "Misplaced Neighbourhood"
+      },
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "source-credit": "",
+      "ended": false,
+      "type": "tribute"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {},
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "source-credit": "",
+      "type": "tribute",
+      "artist": {
+        "name": "Mr. Punch",
+        "id": "392a808f-ef55-4ec0-bf65-01aebe5a8a29",
+        "country": "IT",
+        "type": "Group",
+        "disambiguation": "Marillion tribute group from Italy",
+        "sort-name": "Mr. Punch",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null
+    },
+    {
+      "artist": {
+        "id": "16ec8164-b3fc-452d-8b85-3e5c35711a1e",
+        "name": "Neverland",
+        "country": "IT",
+        "type": "Group",
+        "disambiguation": "Italian Marillion tribute band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Neverland"
+      },
+      "type": "tribute",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist"
+    },
+    {
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "backward",
+      "attributes": [],
+      "artist": {
+        "id": "46254b6f-87ab-4787-961c-115a0cc86c9e",
+        "name": "Real to Reel",
+        "country": "GB",
+        "type": "Group",
+        "disambiguation": "Fish‐era Marillion tribute band",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Real to Reel"
+      },
+      "type": "tribute",
+      "ended": false,
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "source-credit": "",
+      "attribute-ids": {},
+      "target-type": "artist",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "name": "Scripted – Marillion Tribute",
+        "id": "26fb5c90-2446-420f-9da1-be59f5c5ad34",
+        "type": "Group",
+        "country": "CA",
+        "disambiguation": "",
+        "sort-name": "Scripted – Marillion Tribute",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b"
+      },
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "source-credit": "",
+      "ended": false,
+      "type": "tribute",
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "backward"
+    },
+    {
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "source-credit": "",
+      "ended": false,
+      "type": "tribute",
+      "artist": {
+        "name": "Splintering Heart",
+        "id": "00172edb-a58c-4179-9288-f3801c71770f",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Splintering Heart",
+        "type": "Group",
+        "disambiguation": "UK Marillion tribute, mostly h era",
+        "country": null
+      },
+      "target-credit": "",
+      "attributes": [],
+      "direction": "backward",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "artist",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "type": "Group",
+        "country": "GB",
+        "disambiguation": "",
+        "sort-name": "StillMarillion",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "id": "63ad0ac1-8ca5-441c-ab76-665dc9d17694",
+        "name": "StillMarillion"
+      },
+      "source-credit": "",
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "ended": false,
+      "type": "tribute",
+      "end": null,
+      "begin": null,
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "artist": {
+        "name": "Strange Engine",
+        "id": "1f982197-427d-425d-9483-2393cbe7a8c3",
+        "disambiguation": "",
+        "type": "Group",
+        "country": "DE",
+        "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+        "sort-name": "Strange Engine"
+      },
+      "type-id": "a6f62641-2f58-470e-b02b-88d7b984dc9f",
+      "source-credit": "",
+      "ended": false,
+      "type": "tribute",
+      "end": null,
+      "begin": null,
+      "direction": "backward",
+      "target-credit": "",
+      "attributes": []
+    },
+    {
+      "url": {
+        "resource": "https://www.allmusic.com/artist/mn0000825924",
+        "id": "94400e90-5718-4ba8-8ad3-c2bb0f7ddac8"
+      },
+      "source-credit": "",
+      "ended": false,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "type": "allmusic",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type": "bandcamp",
+      "url": {
+        "id": "c2ac7b27-3cfe-490f-8c2f-8df3d833c51d",
+        "resource": "https://marillionofficial.bandcamp.com/"
+      },
+      "source-credit": "",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "type": "bandsintown",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.bandsintown.com/a/3989",
+        "id": "e4dbb053-b33e-478c-b862-81831133d830"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "end": "2020-11-19",
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "type": "BBC Music page",
+      "source-credit": "",
+      "url": {
+        "id": "ca984f04-8945-4ea4-85a7-e46889cff0a2",
+        "resource": "https://www.bbc.co.uk/music/artists/1932f5b6-0b7b-4050-b1df-833ca89e5f44"
+      },
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "ended": true,
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "type-id": "78f75830-94e1-4138-8f8a-643e3bb21ce5",
+      "url": {
+        "resource": "https://rockfaces.ru/m/marillion.htm",
+        "id": "f7839dbd-e7f7-40a7-a87a-32744e899d28"
+      },
+      "type": "biography"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "url": {
+        "resource": "http://cfly.utm.utoronto.ca/timeless/marillion/index.html",
+        "id": "277eb802-8ccd-4121-b8d8-f98d25e2d72a"
+      },
+      "ended": true,
+      "type": "discography page",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "discography page",
+      "url": {
+        "resource": "http://marillionbootlegs.cjb.net/",
+        "id": "a5467818-4648-4a00-aeac-f5516ddb4b08"
+      },
+      "source-credit": "",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "ended": true,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "discography page",
+      "url": {
+        "resource": "http://marillion.ter-steege.com/",
+        "id": "f7a76846-50bd-4727-bfba-d18a4d1b3590"
+      },
+      "source-credit": "",
+      "type-id": "4fb0eeec-a6eb-4ae3-ad52-b55765b94e8f",
+      "ended": true,
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "url": {
+        "id": "69f0d316-9c49-467f-ac8f-dfe46c4e8d3d",
+        "resource": "https://www.discogs.com/artist/218108"
+      },
+      "source-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "ended": false,
+      "type": "discogs",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "free streaming",
+      "url": {
+        "resource": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28",
+        "id": "19153752-5d1a-46af-83e7-c9022dc1de43"
+      },
+      "source-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type": "free streaming",
+      "source-credit": "",
+      "url": {
+        "id": "7a2cc8bb-893a-44de-9d4b-29c19ab55d4c",
+        "resource": "https://www.deezer.com/artist/247269372"
+      },
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.deezer.com/artist/2893",
+        "id": "e64f8e38-3e03-41cc-a2b7-c818664cbda5"
+      },
+      "type": "free streaming",
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "type": "image",
+      "url": {
+        "resource": "http://farm4.static.flickr.com/3420/3285535220_e97d753a59_b.jpg",
+        "id": "c3bd6673-9ce0-411d-90d7-d8d873aa42db"
+      },
+      "source-credit": "",
+      "ended": true,
+      "type-id": "221132e9-e30e-43f2-a741-15afc4c5fa7c",
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "type": "IMDb",
+      "source-credit": "",
+      "type-id": "94c8b0cc-4477-4106-932c-da60e63de61c",
+      "ended": false,
+      "url": {
+        "id": "94e964c2-77b6-4cf1-b5e4-d603e4ef7b1f",
+        "resource": "https://www.imdb.com/name/nm0547415/"
+      },
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "source-credit": "",
+      "url": {
+        "id": "2442bc08-a768-48cf-9c27-a017951d5c94",
+        "resource": "https://www.last.fm/music/Marillion"
+      },
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "type": "last.fm",
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "lyrics",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "source-credit": "",
+      "url": {
+        "id": "94923a46-202e-44d6-9753-9c10678b4398",
+        "resource": "https://genius.com/artists/Marillion"
+      },
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward"
+    },
+    {
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "f8a46589-f805-4e3e-9c41-ee52d3ed3782",
+        "resource": "https://muzikum.eu/en/marillion/lyrics"
+      },
+      "type": "lyrics",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "type": "lyrics",
+      "source-credit": "",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "url": {
+        "id": "8b0bb4df-cecf-4f7d-b2a6-ebce33f0edb3",
+        "resource": "https://www.musixmatch.com/artist/Marillion"
+      },
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "type": "myspace",
+      "source-credit": "",
+      "url": {
+        "id": "93d9b921-05fa-4033-ba77-506d54d47141",
+        "resource": "https://myspace.com/marillion"
+      },
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "ended": false,
+      "source-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "url": {
+        "resource": "https://www.marillion.com/",
+        "id": "beee3247-c6d7-4fa3-ab4f-50314cfbc129"
+      },
+      "type": "official homepage",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "begin": null
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "type": "other databases",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "resource": "http://id.loc.gov/authorities/names/n91070633",
+        "id": "8505b466-f1c0-425e-ab36-cc3cd6da8835"
+      }
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb13904856x",
+        "id": "92803db9-659e-4938-8796-6d305b2b2999"
+      },
+      "type": "other databases",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "54805eb7-93fa-4947-a47d-2209cc42dee1",
+        "resource": "https://d-nb.info/gnd/5154458-1"
+      },
+      "type": "other databases"
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QQPVp7VkPWCqXJCVvVtxthR",
+        "id": "2901df07-a47f-4745-8628-661a7b83b1f4"
+      },
+      "type": "other databases",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "type": "other databases",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "url": {
+        "resource": "https://imvdb.com/n/marillion",
+        "id": "37062ef0-5117-4d8b-af20-fd29a3528018"
+      },
+      "ended": false,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "other databases",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "url": {
+        "resource": "https://musicmoz.org/Bands_and_Artists/M/Marillion/",
+        "id": "ac2f1b42-f7ff-4d66-9c0b-638addfede69"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "f420c760-bebd-4ae0-b8ac-1591021fbb4e",
+        "resource": "https://rateyourmusic.com/artist/marillion"
+      },
+      "type": "other databases",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "other databases",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.45cat.com/artist/marillion",
+        "id": "72753777-2f5d-4684-a4ee-511bf61fafe0"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "url": {
+        "id": "2d2fa7b8-7307-445e-92c0-e82499426df7",
+        "resource": "https://www.livefans.jp/artists/97891"
+      },
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "type": "other databases"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "ended": false,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "eac683a5-269f-405a-8132-e3658b974679",
+        "resource": "https://www.musik-sammler.de/artist/marillion/"
+      },
+      "type": "other databases"
+    },
+    {
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "type": "other databases",
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://www.muziekweb.nl/Link/M00000006713/POPULAR/",
+        "id": "d6980a66-e323-4fa6-b416-9a8a8661f5c0"
+      },
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "id": "63c86e12-62c2-473e-a6c7-7f55c2279f78",
+        "resource": "https://www.progarchives.com/artist.asp?id=233"
+      },
+      "type": "other databases",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Marillion",
+        "id": "e06b6594-7831-41da-9674-e68a77f0f20b"
+      },
+      "ended": false,
+      "type": "other databases",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "source-credit": "",
+      "url": {
+        "id": "419ada59-995d-444d-87f8-3d58fe1ac22b",
+        "resource": "https://www.whosampled.com/Marillion/"
+      },
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "ended": false,
+      "type": "other databases",
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "url": {
+        "id": "f0f236df-bd4c-4cb6-8c7d-319533533bfe",
+        "resource": "https://play.google.com/store/music/artist?id=Aw2zjs3yezvzxqgmnteooc5rwfu"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": true,
+      "type": "purchase for download",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": "2020-10-12",
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "source-credit": "",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "id": "b8f742d8-4aaa-49aa-bf5a-94788f27f9fd",
+        "resource": "https://itunes.apple.com/gb/artist/id3197100"
+      },
+      "type": "purchase for download"
+    },
+    {
+      "type": "purchase for download",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "id": "81a12029-79bb-4ba2-86f9-17782b69ed01",
+        "resource": "https://mora.jp/artist/356669/all"
+      },
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "url": {
+        "resource": "https://music.apple.com/gb/artist/3197100",
+        "id": "68282d37-5588-42a0-9ddb-0dc4519a9258"
+      },
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "type": "purchase for download"
+    },
+    {
+      "type": "purchase for download",
+      "url": {
+        "id": "2e5c9426-c9b9-4594-8335-4c4c097d737b",
+        "resource": "https://music.bugs.co.kr/artist/34318"
+      },
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "url": {
+        "resource": "https://ototoy.jp/_/default/a/229954",
+        "id": "41e9452e-eed3-48d6-959d-361fcb3fd70b"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "ended": false,
+      "type": "purchase for download",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "url": {
+        "resource": "https://uk.7digital.com/artist/marillion",
+        "id": "83d57d1a-05c6-4d00-acd3-7317bcc7733b"
+      },
+      "type": "purchase for download",
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "url": {
+        "id": "f812e8e7-cbf7-4fc7-a54b-35a5dc26e924",
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104256"
+      },
+      "ended": false,
+      "type": "purchase for download"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.qobuz.com/gb-en/interpreter/marillion/26730",
+        "id": "236b8cb9-aa37-4708-aea4-41bc6b7647a0"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "purchase for mail-order",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.amazon.com/-/e/B000APGYQO",
+        "id": "a07a6836-2ca5-4077-8110-9fdffa0dece3"
+      },
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward"
+    },
+    {
+      "type": "purchase for mail-order",
+      "source-credit": "",
+      "type-id": "611b1862-67af-4253-a64f-34adba305d1d",
+      "ended": false,
+      "url": {
+        "id": "4bac8ea1-40c1-48e6-b880-dbda91596535",
+        "resource": "https://www.cdjapan.co.jp/person/700249667"
+      },
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "type": "secondhandsongs",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/11583",
+        "id": "f9e535ec-0c4c-41f9-b36b-8c1af256ffcc"
+      }
+    },
+    {
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "type": "setlistfm",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "id": "b859ba65-6fc9-4719-934f-1cb38357f9bc",
+        "resource": "https://www.setlist.fm/setlists/marillion-43d6b31b.html"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "url": {
+        "id": "617349eb-a479-44f7-a028-63ef417ff4a1",
+        "resource": "https://bsky.app/profile/marillion.com"
+      },
+      "type": "social network",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "begin": null,
+      "end": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://twitter.com/MarillionOnline",
+        "id": "ec260b6a-ec88-484c-80db-b8cda7017e9a"
+      },
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "type": "social network",
+      "url": {
+        "resource": "https://www.facebook.com/MarillionOfficial",
+        "id": "818445b8-f22d-4237-b786-c5d74f34dc31"
+      },
+      "source-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "type": "social network",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.instagram.com/marillionofficial/",
+        "id": "852f5d63-fd6e-4d5e-a883-6ec63e2d3d05"
+      },
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "source-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "ended": false,
+      "url": {
+        "id": "1fc8881f-cf56-46be-a66d-1908fc88483c",
+        "resource": "https://www.reverbnation.com/marillion"
+      },
+      "type": "social network",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type": "social network",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "source-credit": "",
+      "url": {
+        "resource": "https://www.threads.com/@marillionofficial",
+        "id": "1cce683a-9cf4-4207-8ac2-24944f18c620"
+      },
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "type": "social network",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "url": {
+        "id": "b17fbce9-93f3-446e-9b30-fcd245b795b7",
+        "resource": "https://www.tiktok.com/@official_marillion"
+      },
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "source-credit": "",
+      "url": {
+        "id": "1faf20cc-e2c6-4ace-94b4-c6b9ba2d89f3",
+        "resource": "https://www.songkick.com/artists/243083"
+      },
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "ended": false,
+      "type": "songkick",
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "begin": null,
+      "end": null,
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "source-credit": "",
+      "url": {
+        "resource": "https://soundcloud.com/marillion",
+        "id": "ea496274-e6cd-4ddd-b5ac-a0a22a85b5e4"
+      },
+      "ended": false,
+      "type": "soundcloud",
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type": "soundcloud",
+      "source-credit": "",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "url": {
+        "id": "12712676-5691-4fac-a0c4-344d3528d69a",
+        "resource": "https://soundcloud.com/marillion-official"
+      },
+      "ended": false,
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {}
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://music.amazon.co.uk/artists/B001E1NU6A",
+        "id": "f47f8a23-3e2f-45fb-b20d-715798ff3fa8"
+      },
+      "target-type": "url",
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "attributes": [],
+      "direction": "forward",
+      "type": "streaming",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "id": "68282d37-5588-42a0-9ddb-0dc4519a9258",
+        "resource": "https://music.apple.com/gb/artist/3197100"
+      }
+    },
+    {
+      "type": "streaming",
+      "url": {
+        "resource": "https://music.bugs.co.kr/artist/34318",
+        "id": "2e5c9426-c9b9-4594-8335-4c4c097d737b"
+      },
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "attribute-values": {},
+      "begin": null,
+      "end": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "type": "streaming",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://tidal.com/artist/10963",
+        "id": "4c1d8e69-f062-4c7f-83e9-40e9271ad274"
+      }
+    },
+    {
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "source-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=104256",
+        "id": "f812e8e7-cbf7-4fc7-a54b-35a5dc26e924"
+      },
+      "type": "streaming",
+      "begin": null,
+      "end": null,
+      "direction": "forward",
+      "target-credit": "",
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "type": "streaming",
+      "source-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "ended": false,
+      "url": {
+        "id": "236b8cb9-aa37-4708-aea4-41bc6b7647a0",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/marillion/26730"
+      },
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {}
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "type-id": "34beaf28-cbdd-4bf7-bc41-e7de18135245",
+      "url": {
+        "resource": "https://www.ticketmaster.com/artist/735591",
+        "id": "fd09de55-d489-4149-bb27-e064d96d2abf"
+      },
+      "type": "ticketing",
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "url": {
+        "resource": "http://viaf.org/viaf/135006873",
+        "id": "4b9c455c-231a-45fa-94de-c170556f7936"
+      },
+      "type": "VIAF",
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": [],
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "type": "wikidata",
+      "ended": false,
+      "source-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "url": {
+        "id": "a139e2f4-8116-4d0a-a2e5-545fd33a51b8",
+        "resource": "https://www.wikidata.org/wiki/Q678410"
+      },
+      "begin": null,
+      "end": null,
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "target-type": "url",
+      "attribute-ids": {},
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "source-credit": "",
+      "url": {
+        "id": "81a22dc7-1123-4c65-8425-30ad302ed555",
+        "resource": "https://www.youtube.com/channel/UCZRP6c2JuCCZhG4jMjYaYtw"
+      },
+      "ended": false,
+      "type": "youtube",
+      "attributes": [],
+      "target-credit": "",
+      "direction": "forward",
+      "end": null,
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "type": "youtube music",
+      "source-credit": "",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCww5JVMgtP7KgTn-CWz-gcw",
+        "id": "0e90b8b1-4c2c-45ff-a5e2-407bfc44cb4e"
+      },
+      "ended": false,
+      "end": null,
+      "begin": null,
+      "target-credit": "",
+      "direction": "forward",
+      "attributes": []
+    }
+  ],
+  "name": "Marillion",
+  "isnis": [
+    "0000000114819103"
+  ],
+  "end-area": null,
+  "begin-area": {
+    "sort-name": "Aylesbury",
+    "type-id": null,
+    "disambiguation": "",
+    "type": null,
+    "name": "Aylesbury",
+    "id": "d699e26a-2599-44b0-976f-e0b4a660453d"
+  },
+  "id": "1932f5b6-0b7b-4050-b1df-833ca89e5f44"
+}

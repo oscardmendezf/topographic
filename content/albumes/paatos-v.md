@@ -1,0 +1,39 @@
+---
+tipo: "album"
+slug: "paatos-v"
+titulo: "V"
+artista: "Paatos"
+artista_slug: "paatos"
+anio_ficha: 2012
+era: "moderna"
+escena: "escandinavia"
+mb_rgid: "7fe58813-abda-4740-9bee-e62c070d23e9"
+primer_lanzamiento: "2012-11-05"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 3
+critica_fuente: "editorial"
+critica_nota: "Difícil y coherente; divide incluso a quienes los siguen."
+estrellas_comercial: 1
+comercial_fuente: "editorial"
+comercial_nota: "Circulación mínima, en el momento más bajo de su visibilidad."
+historia: "editorial"
+---
+
+El disco más austero y más exigente que grabaron: arreglos despojados, estructuras que se resisten a cerrar y una frialdad que acá es decisión y no consecuencia. Recompensa la escucha atenta y castiga la distraída, algo que explica que sea el menos citado del catálogo. También es el que mejor muestra hasta dónde estaban dispuestos a llegar.
+
+<!-- historia:editorial -->
+
+## La historia
+
+El título es apenas una letra, y el disco se comporta igual: V, de 2012, es lo más austero y lo más exigente que Paatos grabó. Llega poco después de Breathing, con la misma formación reducida, pero donde aquel disco aceptaba la contención como consecuencia, este la convierte en programa. Los arreglos están despojados hasta el hueso, las estructuras se resisten a cerrar y la frialdad general no es un efecto colateral de los medios disponibles sino una elección de temperatura.
+
+La secuencia es reveladora. Las cuatro piezas nuevas —«Feel», «Desire», «Cold War» e «Into the Flames»— abren el disco y se niegan sistemáticamente a resolver: entran sin preparación, se sostienen sobre progresiones mínimas y terminan cuando el grupo decide, no cuando la forma lo pide. «Cold War» usa el vocabulario de la guerra fría para hablar de una convivencia congelada, que es la mejor imagen del disco y también su método. Después vienen dos relecturas del propio catálogo: «Tea (Revisited)» retoma la pieza del debut y le quita el aire que tenía, e «In Time (Revisited)» hace lo propio con un tema de Kallocain, acortándolo y endureciéndolo. El cierre lo aportan dos remezclas, de «Precious» y «Your Misery», que completan la idea de un disco que trabaja tanto sobre material propio como sobre material nuevo. Esa mezcla de formatos lo convierte en un objeto raro, a medio camino entre álbum y revisión.
+
+## La producción
+
+No constan datos verificados de productor, ingeniero ni estudio, y lo que la grabación deja oír es una estética de reducción llevada al límite. Casi no hay reverberación larga; los instrumentos suenan secos, casi sin ambiente, con una separación que expone cada decisión. Los teclados aparecen en planos sostenidos y fríos, sin el calor del mellotrón que definía los primeros discos, y la guitarra trabaja en texturas antes que en riffs reconocibles. La batería está tratada con cuerpo pero sin brillo, y varios pasajes funcionan sobre patrones programados que no intentan disimularse. La voz de Petronella Nettermalm mantiene su volumen bajo y queda más expuesta que nunca, sin capas que la acompañen. Las relecturas y las remezclas usan ese mismo criterio como herramienta crítica: sacan, comprimen y enfrían, en lugar de agregar.
+
+## Recepción y legado
+
+Es el disco menos citado del catálogo y eso tiene una explicación sencilla: castiga la escucha distraída y no ofrece ninguna puerta de entrada fácil. Quien llegue acá desde Timeloss encontrará el mismo grupo sin el encanto atmosférico que lo hacía accesible. Quien tenga paciencia encontrará en cambio la versión más rigurosa de lo que Paatos venía buscando desde el principio, y el único disco donde la banda se atreve a dejar las piezas sin cerrar. Con los años ganó defensores entre quienes valoran esa aspereza, aunque nunca desplazó a los dos primeros en la conversación sobre el grupo. Cerró además una etapa larga: después vendría más de una década de silencio, hasta el regreso de Ligament. Como despedida provisional, es coherente hasta el final.

@@ -1,0 +1,247 @@
+{
+  "isnis": [],
+  "name": "Paatos",
+  "ipis": [],
+  "end-area": null,
+  "id": "721ba852-8255-429b-9dd9-aaa61508fe4f",
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "2000"
+  },
+  "country": "SE",
+  "area": {
+    "type-id": null,
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "SE"
+    ],
+    "sort-name": "Sweden",
+    "type": null,
+    "name": "Sweden",
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb"
+  },
+  "relations": [
+    {
+      "ended": false,
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [
+        "lead vocals"
+      ],
+      "type": "member of band",
+      "direction": "backward",
+      "target-credit": "",
+      "begin": "2000",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "sort-name": "Nettermalm, Petronella",
+        "country": "SE",
+        "type": "Person",
+        "name": "Petronella Nettermalm",
+        "id": "14b64406-632f-4101-9c80-788ce3164a6a"
+      },
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {
+        "lead vocals": "8e2a3255-87c2-4809-a174-98cb3704f1a5"
+      },
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "artist": {
+        "type": "Person",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "SE",
+        "sort-name": "Fiske, Reine",
+        "name": "Reine Fiske",
+        "id": "c12a184d-ab9b-4acf-a1dd-43978705d6e9"
+      },
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-ids": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attributes": [],
+      "type": "member of band",
+      "direction": "backward",
+      "target-credit": "",
+      "begin": null,
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "type": "discogs",
+      "attributes": [],
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "id": "048a52c2-a5bd-48d2-9258-488b8c8896d1",
+        "resource": "https://www.discogs.com/artist/278879"
+      },
+      "direction": "forward",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "attributes": [],
+      "type": "last.fm",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-credit": "",
+      "url": {
+        "id": "ea90e6e4-2fec-48ce-82e3-04ff26fccce1",
+        "resource": "https://www.last.fm/music/Paatos"
+      },
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "url": {
+        "resource": "https://myspace.com/paatos",
+        "id": "c522c5ef-fd12-4487-9334-7a4bded29ea1"
+      },
+      "begin": null,
+      "direction": "forward",
+      "attributes": [],
+      "type": "myspace",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156"
+    },
+    {
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "target-credit": "",
+      "url": {
+        "resource": "http://www.paatos.com/",
+        "id": "d9467196-2ea5-4f4f-a6b8-cb0d2122f9f0"
+      },
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "type": "official homepage",
+      "attributes": [],
+      "ended": false
+    },
+    {
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "url": {
+        "resource": "https://twitter.com/paatos_official",
+        "id": "1395694b-b394-47ba-9590-02239f660338"
+      },
+      "begin": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attributes": [],
+      "type": "social network",
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "target-type": "url",
+      "attribute-ids": {},
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "type": "social network",
+      "attributes": [],
+      "direction": "forward",
+      "begin": null,
+      "url": {
+        "id": "92afa40d-bdb5-4a2d-b24a-8d2b0c539d65",
+        "resource": "https://www.facebook.com/Paatos.of.Sweden"
+      },
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "url": {
+        "resource": "https://soundcloud.com/paatos-official",
+        "id": "e3062518-ff98-43ba-90e2-1952d5cbd537"
+      },
+      "begin": null,
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "attributes": [],
+      "type": "soundcloud"
+    },
+    {
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "ended": false,
+      "direction": "forward",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q2045085",
+        "id": "6c87fb8d-ef33-4e53-8d8d-094fa2ef24ac"
+      },
+      "begin": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attributes": [],
+      "type": "wikidata"
+    },
+    {
+      "direction": "forward",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.youtube.com/user/paatostube",
+        "id": "492b1fcd-ee47-49f7-8561-c09a4bb45f73"
+      },
+      "begin": null,
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attributes": [],
+      "type": "youtube",
+      "ended": false,
+      "end": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "url",
+      "source-credit": ""
+    }
+  ],
+  "gender": null,
+  "gender-id": null,
+  "type": "Group",
+  "sort-name": "Paatos",
+  "disambiguation": "",
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "begin-area": null,
+  "aliases": []
+}

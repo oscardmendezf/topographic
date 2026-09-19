@@ -1,0 +1,43 @@
+---
+tipo: "album"
+slug: "twelfth-night-fact-and-fiction"
+titulo: "Fact and Fiction"
+artista: "Twelfth Night"
+artista_slug: "twelfth-night"
+anio_ficha: 1982
+era: "siguiente"
+escena: "neoprog"
+mb_rgid: "4cbfab59-1615-3809-a469-d7560520ba56"
+primer_lanzamiento: "1982-12"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 5
+critica_fuente: "editorial"
+critica_nota: "El mejor disco del neoprog británico junto a los de su vecindario inmediato."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Autoeditado y de alcance modesto, con una reputación que creció muy por encima de su circulación."
+historia: "editorial"
+---
+
+El disco que la banda tenía adentro y grabó una sola vez. Autoeditado, tocado con una tensión que el neoprog casi nunca alcanzó y cantado por Geoff Mann como quien interpela en vez de narrar, sobre alienación y violencia cotidiana en lugar de mitologías. «We Are Sane» y «Creepshow» sostienen el peso sin ayuda de la nostalgia: es el único álbum de la escena que puede escucharse sin explicar primero de qué escena se trata.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Fact and Fiction es el disco que Twelfth Night tenía adentro desde que Geoff Mann se sumó, y lo grabaron una sola vez, en 1982, meses después del casete que lo había ensayado. La banda venía de cuatro años de trabajo instrumental y de un cantante que había cambiado su naturaleza; acá las dos cosas dejan de rozarse y se funden. El resultado es un álbum sobre la alienación y la violencia cotidiana en un país que estaba endureciéndose, no sobre mitologías, castillos ni viajes astrales, que era lo que casi toda la escena inglesa del momento consideraba su repertorio natural.
+
+El disco se sostiene en dos piezas largas colocadas como pilares. «We Are Sane» abre con diez minutos que trabajan la cordura como imposición social: Mann no narra, interpela, y en el tramo central se sale del canto para hablar encima de la banda, con una violencia declamatoria que en el género no tenía antecedentes. «Creepshow» cierra con casi doce minutos y recoge el material que la banda venía puliendo desde el casete anterior, ahora con una arquitectura clara. Entre ambas, «Human Being» pregunta qué queda de humano, «This City» describe el entorno urbano sin metáfora que lo suavice, «World Without End» funciona como interludio breve, el tema que da título al álbum plantea la confusión entre lo que ocurre y lo que se cuenta, «The Poet Sniffs a Flower» ironiza sobre la poesía misma y «Love Song» cierra la secuencia desde un ángulo inesperadamente directo. El hilo es la distancia entre el relato y el hecho, que es lo que anuncia el nombre.
+
+## La producción
+
+Fue autoeditado, con todo lo que eso significaba en 1982: sin respaldo de compañía, sin productor de renombre, con el tiempo de estudio contado. La grabación es funcional antes que brillante, y esa falta de barniz resultó ser una ventaja cuando el resto de la escena empezó a cubrirse de teclados relucientes. El bajo eléctrico de Clive Mitten conduce buena parte del material y sostiene la armonía mientras los teclados dibujan por encima; la guitarra alterna líneas melódicas con bloques de acordes, y la batería articula los cambios de sección sin adornar.
+
+La decisión de producción más importante fue la de no domesticar la voz. Mann canta al frente, sin reverberación que lo vuelva épico ni corrección que suavice los desajustes, y los pasajes hablados se dejan tal como salieron. Los temas largos se construyen por acumulación de tensión y no por contraste de secciones amables, lo que mantiene al disco en un mismo estado nervioso de punta a punta.
+
+## Recepción y legado
+
+Su circulación inicial fue la de un disco hecho a pulmón y vendido en presentaciones, aunque le alcanzó para instalar a la banda como una de las referencias de la escena inglesa del momento. Con los años la valoración creció, y se lo lee como el pico de todo lo que la banda hizo antes y después del cambio de cantante.
+
+Es, además, el único álbum de su escena que puede escucharse sin explicar primero de qué escena se trata. No depende de la nostalgia por el progresivo anterior ni de la simpatía por un revival: funciona como disco de rock tenso y cantado con incomodidad. Su influencia es más de actitud que de forma, y quedó como la prueba de que el neoprog podía haber sido otra cosa.

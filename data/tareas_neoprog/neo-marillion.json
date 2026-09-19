@@ -1,0 +1,209 @@
+{
+ "id": "neo-marillion",
+ "escena": "neoprog",
+ "texto_fuente": null,
+ "artistas": [
+  {
+   "slug": "marillion",
+   "nombre": "Marillion",
+   "tipo": "Group",
+   "pais": "GB",
+   "inicio": "1979",
+   "fin": null,
+   "wikipedia_url": "https://es.wikipedia.org/wiki/Marillion",
+   "formaciones_mb": [
+    "Steve Rothery (guitar, original; 1979-08-19–act.)",
+    "Doug Irvine (bass guitar, lead vocals, original; 1979-08–1980-12)",
+    "Brian Jelliman (keyboard, original; 1979-08–1981-11)",
+    "Fish (lead vocals; 1981-01-01–1988-09-12)",
+    "Diz Minnitt (bass guitar; 1981-01–1982-03)",
+    "Mark Kelly (keyboard; 1981-11-28–act.)",
+    "Pete Trewavas (bass guitar; 1982-03-28–act.)",
+    "Andy Ward (drums (drum set); 1983-05–1983-08)",
+    "John Marter (drums (drum set); 1983-08–1983-08)",
+    "Jonathan Mover (drums (drum set); 1983-09–1983-10)",
+    "Ian Mosley (drums (drum set); 1984-01-01–act.)",
+    "Steve Hogarth (lead vocals; 1989-02-02–act.)",
+    "Mick Pointer (drums (drum set), original; ?–1983-04)"
+   ],
+   "catalogo": [
+    {
+     "album_slug": "marillion-script-for-a-jesters-tear",
+     "titulo": "Script for a Jester’s Tear",
+     "anio": 1983,
+     "mbid": "25f11061-2223-38c4-acf0-07536de51c09",
+     "primer_lanzamiento": "1983-03-13",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-fugazi",
+     "titulo": "Fugazi",
+     "anio": 1984,
+     "mbid": "12536829-a40e-33b3-803e-2c3c4ac572ce",
+     "primer_lanzamiento": "1984-03-12",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-misplaced-childhood",
+     "titulo": "Misplaced Childhood",
+     "anio": 1985,
+     "mbid": "06896217-3aba-31d3-8b34-bd193c9e2b98",
+     "primer_lanzamiento": "1985-06-17",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-clutching-at-straws",
+     "titulo": "Clutching at Straws",
+     "anio": 1987,
+     "mbid": "7c7afb4c-565b-3057-958c-a78285d483f3",
+     "primer_lanzamiento": "1987-06-12",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-seasons-end",
+     "titulo": "Seasons End",
+     "anio": 1989,
+     "mbid": "be4c83af-14c9-3432-9da5-dac795972da9",
+     "primer_lanzamiento": "1989-09-25",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-holidays-in-eden",
+     "titulo": "Holidays in Eden",
+     "anio": 1991,
+     "mbid": "4e6626b8-9386-30f0-905c-8aeac0143ab5",
+     "primer_lanzamiento": "1991-06-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-brave",
+     "titulo": "Brave",
+     "anio": 1994,
+     "mbid": "b96f5cf7-f2f4-3809-a4be-6cd04c395c5c",
+     "primer_lanzamiento": "1994-02-07",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-afraid-of-sunlight",
+     "titulo": "Afraid of Sunlight",
+     "anio": 1995,
+     "mbid": "25b9208c-02d9-3de7-9450-a06e9e84fe32",
+     "primer_lanzamiento": "1995-06-24",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-this-strange-engine",
+     "titulo": "This Strange Engine",
+     "anio": 1997,
+     "mbid": "db930429-b77c-3a89-8227-279facb688a1",
+     "primer_lanzamiento": "1997-04-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-radiation",
+     "titulo": "Radiation",
+     "anio": 1998,
+     "mbid": "7ea8e300-c2dc-36f6-ba22-383a1ee96b82",
+     "primer_lanzamiento": "1998-09-18",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-marillion-com",
+     "titulo": "marillion.com",
+     "anio": 1999,
+     "mbid": "9b9325c3-daa2-31be-9ed4-cb1061b32371",
+     "primer_lanzamiento": "1999-10-18",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-anoraknophobia",
+     "titulo": "Anoraknophobia",
+     "anio": 2001,
+     "mbid": "068968cc-579e-363e-9010-d5edabeba1d1",
+     "primer_lanzamiento": "2001-05-07",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-marbles",
+     "titulo": "Marbles",
+     "anio": 2004,
+     "mbid": "20790e26-98e4-3ad3-a67f-b674758b942d",
+     "primer_lanzamiento": "2004-05-03",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-somewhere-else",
+     "titulo": "Somewhere Else",
+     "anio": 2007,
+     "mbid": "b897aaf2-ebae-3f74-a965-1d5645f32e04",
+     "primer_lanzamiento": "2007-04-09",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-happiness-is-the-road",
+     "titulo": "Happiness Is the Road",
+     "anio": 2008,
+     "mbid": "56995819-a35d-3476-a746-f7a17409be4e",
+     "primer_lanzamiento": "2008-09-10",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-less-is-more",
+     "titulo": "Less Is More",
+     "anio": 2009,
+     "mbid": "0203b2d2-c2d3-461b-891a-92d8ecbe4669",
+     "primer_lanzamiento": "2009-10-02",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-sounds-that-cant-be-made",
+     "titulo": "Sounds That Can’t Be Made",
+     "anio": 2012,
+     "mbid": "03619842-d1dc-4ce2-b58a-432c04447cc0",
+     "primer_lanzamiento": "2012-09-07",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-fuck-everyone-and-run-f-e-a-r",
+     "titulo": "Fuck Everyone and Run (F E A R)",
+     "anio": 2016,
+     "mbid": "8de2a677-7273-4d5d-9454-fef1202ef5f4",
+     "primer_lanzamiento": "2016-09-23",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-with-friends-from-the-orchestra",
+     "titulo": "With Friends From the Orchestra",
+     "anio": 2019,
+     "mbid": "698fb9b8-eff6-4a29-9cf7-dee75321603d",
+     "primer_lanzamiento": "2019-10-16",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-an-hour-before-its-dark",
+     "titulo": "An Hour Before It’s Dark",
+     "anio": 2022,
+     "mbid": "e9e9b0e3-b2c2-4fa2-bda3-97401bef3828",
+     "primer_lanzamiento": "2022-03-04",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-transmission-impossible",
+     "titulo": "Transmission Impossible",
+     "anio": 2024,
+     "mbid": "34ede3b9-aacc-4ea5-b161-7f7ff677e070",
+     "primer_lanzamiento": "2024",
+     "soundtrack": false
+    },
+    {
+     "album_slug": "marillion-live-at-the-roundhouse",
+     "titulo": "Live at the Roundhouse",
+     "anio": 2025,
+     "mbid": "2610d5c3-f3b7-4d39-875b-b4d7ebdac18d",
+     "primer_lanzamiento": "2025",
+     "soundtrack": false
+    }
+   ]
+  }
+ ]
+}

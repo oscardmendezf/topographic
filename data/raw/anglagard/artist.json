@@ -1,0 +1,1279 @@
+{
+  "disambiguation": "",
+  "type": "Group",
+  "relations": [
+    {
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1994",
+      "attribute-credits": {
+        "guitar": "guitars"
+      },
+      "begin": "1991",
+      "attribute-values": {},
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "source-credit": "",
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "guitar"
+      ],
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "id": "49f6e7bf-8315-46ac-a112-63037e2560a7",
+        "sort-name": "Engdegård, Jonas",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "SE",
+        "disambiguation": "",
+        "name": "Jonas Engdegård"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "end": "1995",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "source-credit": "",
+      "begin": "1991",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "attribute-values": {},
+      "attributes": [
+        "bass"
+      ],
+      "type": "member of band",
+      "target-type": "artist",
+      "artist": {
+        "id": "9a3cc688-d9d3-4f62-b14a-8ed01150fa15",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Högberg, Johan",
+        "type": "Person",
+        "disambiguation": "",
+        "country": null,
+        "name": "Johan Högberg"
+      },
+      "target-credit": "",
+      "ended": true
+    },
+    {
+      "begin": "1991",
+      "attribute-values": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "source-credit": "",
+      "end": "1995",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-credits": {
+        "keyboard": "keyboards"
+      },
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Johnson, Thomas",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "SE",
+        "disambiguation": "Änglagård",
+        "name": "Thomas Johnson",
+        "id": "ccdb9b59-b4ae-48c4-b9c9-1fb3c75c63ec"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "keyboard"
+      ]
+    },
+    {
+      "end": "1995",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attribute-credits": {
+        "guitar": "guitars"
+      },
+      "source-credit": "",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "begin": "1991",
+      "attribute-values": {},
+      "target-type": "artist",
+      "attributes": [
+        "guitar"
+      ],
+      "type": "member of band",
+      "artist": {
+        "country": null,
+        "name": "Tord Lindman",
+        "disambiguation": "",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Lindman, Tord",
+        "id": "809db7b6-7ad8-4b96-93cb-97735cc9ebc1"
+      },
+      "ended": true,
+      "target-credit": ""
+    },
+    {
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Olsson, Mattias",
+        "type": "Person",
+        "country": "SE",
+        "name": "Mattias Olsson",
+        "disambiguation": "",
+        "id": "f2a768e9-0093-49be-979a-561285462f37"
+      },
+      "attributes": [
+        "membranophone",
+        "percussion"
+      ],
+      "type": "member of band",
+      "target-type": "artist",
+      "attribute-values": {},
+      "begin": "1991",
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221",
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "source-credit": "",
+      "attribute-credits": {
+        "percussion": "percussions"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1995"
+    },
+    {
+      "begin": "1992",
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-credits": {},
+      "end": "1995",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "id": "c2362afd-f8b2-47a2-8ac3-074e3096d7ca",
+        "type": "Person",
+        "country": null,
+        "disambiguation": "",
+        "name": "Anna Holmgren",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Holmgren, Anna"
+      },
+      "attributes": [
+        "flute"
+      ],
+      "type": "member of band",
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "2002",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-credits": {
+        "guitar": "guitars"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "2003",
+      "artist": {
+        "id": "49f6e7bf-8315-46ac-a112-63037e2560a7",
+        "name": "Jonas Engdegård",
+        "country": "SE",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Engdegård, Jonas",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "attributes": [
+        "guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "id": "9a3cc688-d9d3-4f62-b14a-8ed01150fa15",
+        "country": null,
+        "disambiguation": "",
+        "name": "Johan Högberg",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Högberg, Johan"
+      },
+      "target-credit": "",
+      "ended": true,
+      "attributes": [
+        "bass"
+      ],
+      "type": "member of band",
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "2002",
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "attribute-values": {},
+      "attribute-credits": {},
+      "end": "2003",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward"
+    },
+    {
+      "attribute-credits": {},
+      "end": "2003",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "begin": "2002",
+      "source-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "flute"
+      ],
+      "target-type": "artist",
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "id": "c2362afd-f8b2-47a2-8ac3-074e3096d7ca",
+        "sort-name": "Holmgren, Anna",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Anna Holmgren",
+        "country": null,
+        "disambiguation": "",
+        "type": "Person"
+      }
+    },
+    {
+      "source-credit": "",
+      "begin": "2002",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "2003",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "Änglagård",
+        "country": "SE",
+        "name": "Thomas Johnson",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Johnson, Thomas",
+        "id": "ccdb9b59-b4ae-48c4-b9c9-1fb3c75c63ec"
+      },
+      "ended": true,
+      "target-credit": "",
+      "attributes": [],
+      "type": "member of band",
+      "target-type": "artist"
+    },
+    {
+      "artist": {
+        "country": "SE",
+        "name": "Mattias Olsson",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Olsson, Mattias",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "f2a768e9-0093-49be-979a-561285462f37"
+      },
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "attributes": [
+        "percussion"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "2002",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "attribute-credits": {
+        "percussion": "percussions"
+      },
+      "end": "2003",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward"
+    },
+    {
+      "begin": "2002",
+      "attribute-values": {},
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "source-credit": "",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2003",
+      "attribute-credits": {},
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Olsson, Mattias",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "SE",
+        "name": "Mattias Olsson",
+        "type": "Person",
+        "id": "f2a768e9-0093-49be-979a-561285462f37"
+      },
+      "target-type": "artist",
+      "attributes": [
+        "membranophone"
+      ],
+      "type": "member of band"
+    },
+    {
+      "begin": "2009",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-credits": {
+        "guitar": "guitars"
+      },
+      "end": "2012",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "id": "49f6e7bf-8315-46ac-a112-63037e2560a7",
+        "disambiguation": "",
+        "country": "SE",
+        "name": "Jonas Engdegård",
+        "type": "Person",
+        "sort-name": "Engdegård, Jonas",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "attributes": [
+        "guitar"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "artist": {
+        "sort-name": "Johnson, Thomas",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Thomas Johnson",
+        "country": "SE",
+        "disambiguation": "Änglagård",
+        "id": "ccdb9b59-b4ae-48c4-b9c9-1fb3c75c63ec"
+      },
+      "target-credit": "",
+      "ended": true,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": "2012",
+      "source-credit": "",
+      "begin": "2009",
+      "attribute-values": {},
+      "attribute-ids": {}
+    },
+    {
+      "artist": {
+        "id": "f2a768e9-0093-49be-979a-561285462f37",
+        "name": "Mattias Olsson",
+        "country": "SE",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Olsson, Mattias",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-credit": "",
+      "ended": true,
+      "type": "member of band",
+      "attributes": [
+        "percussion"
+      ],
+      "target-type": "artist",
+      "source-credit": "",
+      "begin": "2009",
+      "attribute-values": {},
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "attribute-credits": {
+        "percussion": "percussions"
+      },
+      "end": "2012",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward"
+    },
+    {
+      "begin": "2009",
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-credits": {},
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "2012",
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "sort-name": "Olsson, Mattias",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Mattias Olsson",
+        "country": "SE",
+        "disambiguation": "",
+        "id": "f2a768e9-0093-49be-979a-561285462f37"
+      },
+      "attributes": [
+        "membranophone"
+      ],
+      "type": "member of band",
+      "target-type": "artist"
+    },
+    {
+      "source-credit": "",
+      "begin": "2009",
+      "attribute-values": {},
+      "attribute-ids": {
+        "bass": "6505f98c-f698-4406-8bf4-8ca43d05c36f"
+      },
+      "attribute-credits": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": null,
+      "artist": {
+        "id": "9a3cc688-d9d3-4f62-b14a-8ed01150fa15",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Högberg, Johan",
+        "type": "Person",
+        "disambiguation": "",
+        "country": null,
+        "name": "Johan Högberg"
+      },
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "bass"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "begin": "2009",
+      "attribute-ids": {
+        "flute": "540280f1-d6cf-46bf-968b-695e99e216d7"
+      },
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null,
+      "attribute-credits": {},
+      "ended": false,
+      "target-credit": "",
+      "artist": {
+        "id": "c2362afd-f8b2-47a2-8ac3-074e3096d7ca",
+        "disambiguation": "",
+        "country": null,
+        "name": "Anna Holmgren",
+        "type": "Person",
+        "sort-name": "Holmgren, Anna",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "flute"
+      ]
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {
+        "percussion": "8e9abdf1-0afc-4544-b201-c6fa768d01f4"
+      },
+      "attribute-values": {},
+      "begin": "2012",
+      "attribute-credits": {
+        "percussion": "percussions"
+      },
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "Swedish drummer and percussionist",
+        "country": "SE",
+        "name": "Erik Hammarström",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Hammarström, Erik",
+        "id": "81ef8f3e-b370-437f-ab03-bb2ed09fb09a"
+      },
+      "ended": false,
+      "target-credit": "",
+      "type": "member of band",
+      "attributes": [
+        "percussion"
+      ],
+      "target-type": "artist"
+    },
+    {
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "attribute-credits": {},
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "2012",
+      "attribute-ids": {
+        "membranophone": "3bccb7eb-cbca-42cd-b0ac-a5e959df7221"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [
+        "membranophone"
+      ],
+      "artist": {
+        "sort-name": "Hammarström, Erik",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Erik Hammarström",
+        "country": "SE",
+        "disambiguation": "Swedish drummer and percussionist",
+        "type": "Person",
+        "id": "81ef8f3e-b370-437f-ab03-bb2ed09fb09a"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "type": "member of band",
+      "attributes": [
+        "keyboard"
+      ],
+      "target-type": "artist",
+      "artist": {
+        "sort-name": "Kåse, Linus",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "SE",
+        "name": "Linus Kåse",
+        "disambiguation": "",
+        "id": "9db44f84-cab9-4a6e-81b1-c9fd0fbe02d7"
+      },
+      "ended": false,
+      "target-credit": "",
+      "attribute-credits": {
+        "keyboard": "keyboards"
+      },
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "2012"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "id": "809db7b6-7ad8-4b96-93cb-97735cc9ebc1",
+        "type": "Person",
+        "disambiguation": "",
+        "country": null,
+        "name": "Tord Lindman",
+        "sort-name": "Lindman, Tord",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band",
+      "attributes": [
+        "guitar"
+      ],
+      "target-type": "artist",
+      "attribute-ids": {
+        "guitar": "63021302-86cd-4aee-80df-2270d54f4978"
+      },
+      "begin": "2012",
+      "attribute-values": {},
+      "source-credit": "",
+      "attribute-credits": {
+        "guitar": "guitars"
+      },
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": null
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "allmusic",
+      "url": {
+        "id": "8ad1e0f7-6491-4867-93e4-7914a65e1864",
+        "resource": "https://www.allmusic.com/artist/mn0000308316"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "end": null
+    },
+    {
+      "end": null,
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://anglagard.bandcamp.com/",
+        "id": "da8ae51f-c6c6-4435-82d1-1c443533ae85"
+      },
+      "attributes": [],
+      "type": "bandcamp",
+      "target-type": "url",
+      "ended": false,
+      "target-credit": ""
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.bandsintown.com/a/54872",
+        "id": "dfd55b08-4c4e-4bef-b3dc-bee4f0d15f2c"
+      },
+      "type": "bandsintown",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "type-id": "d028a975-000c-4525-9333-d3c8425e4b54",
+      "direction": "forward",
+      "end": "2020-11-19",
+      "target-credit": "",
+      "ended": true,
+      "url": {
+        "id": "57e3bdc4-5f2d-4bee-be18-ee1e483c7d71",
+        "resource": "https://www.bbc.co.uk/music/artists/6344d70b-da12-4f93-b7e0-c0be55044c41"
+      },
+      "attributes": [],
+      "type": "BBC Music page",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.discogs.com/artist/296514",
+        "id": "43d1c4b3-b341-49b6-a2de-0de7d6a6db17"
+      },
+      "attributes": [],
+      "type": "discogs",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "http://www.anglagard.net/",
+        "id": "d1d5161b-aced-44ef-9fca-f431b0c3864a"
+      },
+      "type": "fanpage",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "f484f897-81cc-406e-96f9-cd799a04ee24",
+      "end": null,
+      "target-credit": "",
+      "ended": true,
+      "target-type": "url",
+      "attributes": [],
+      "type": "fanpage",
+      "url": {
+        "resource": "http://www.anglagardfanclub.com/",
+        "id": "c94d9984-1440-4492-be9b-1fa19f7d7a57"
+      }
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "type": "free streaming",
+      "url": {
+        "resource": "https://open.spotify.com/artist/2z3Eoj9BvslBDrmygKjr2B",
+        "id": "f55e8827-c74a-4b48-862c-949787330a89"
+      },
+      "target-type": "url",
+      "ended": false,
+      "target-credit": ""
+    },
+    {
+      "attribute-ids": {},
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "type": "free streaming",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.deezer.com/artist/12224",
+        "id": "b843553e-380e-4232-944e-99add78c4fda"
+      }
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "last.fm",
+      "url": {
+        "resource": "https://www.last.fm/music/%C3%84nglag%C3%A5rd",
+        "id": "aaa97240-7aad-4d43-91bc-748255fc194e"
+      },
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-credit": "",
+      "ended": false,
+      "type": "lyrics",
+      "attributes": [],
+      "url": {
+        "id": "49ee3359-d56b-4fff-b14c-afb9b2126207",
+        "resource": "https://genius.com/artists/Anglagard"
+      },
+      "target-type": "url"
+    },
+    {
+      "direction": "forward",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "type": "myspace",
+      "attributes": [],
+      "url": {
+        "resource": "https://myspace.com/anglagardsweden",
+        "id": "a89f2a0f-db2d-45eb-a7ce-2651af6d86ef"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "ended": true,
+      "target-type": "url",
+      "url": {
+        "id": "b8b74f2b-e621-40a7-86b0-49de36d9d82a",
+        "resource": "http://www.anglagardrecords.com/"
+      },
+      "attributes": [],
+      "type": "official homepage",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "direction": "forward"
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://catalogue.bnf.fr/ark:/12148/cb139902058",
+        "id": "b8bec983-ceee-4304-b91f-f586617fc2ea"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "0373d023-3039-4f78-9ee3-d56af11beda3",
+        "resource": "https://id.oclc.org/worldcat/entity/E39QH7JmqHTFGh7WR77tD8P7gg"
+      },
+      "type": "other databases",
+      "attributes": [],
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "target-credit": "",
+      "type": "other databases",
+      "attributes": [],
+      "url": {
+        "resource": "https://rateyourmusic.com/artist/anglagard",
+        "id": "e3ba6999-e319-4430-a5c1-eda2699e8f37"
+      },
+      "target-type": "url",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55"
+    },
+    {
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/%C3%A4nglagard/",
+        "id": "112adcb6-48ba-4546-8703-3c4004bff31e"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=18",
+        "id": "32ab1089-1380-46d6-bc55-edd458a47e6a"
+      },
+      "type": "other databases",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {}
+    },
+    {
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Anglagard",
+        "id": "f8505923-1740-4306-8e1b-cad5ce3dce0e"
+      },
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "type": "purchase for download",
+      "attributes": [],
+      "url": {
+        "id": "39833d47-5fba-41e0-938c-d40d639fd875",
+        "resource": "https://music.apple.com/us/artist/201108454"
+      }
+    },
+    {
+      "end": null,
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "resource": "https://se.7digital.com/artist/anglagard",
+        "id": "247602bc-209c-4a09-80bc-9afcbf6df982"
+      },
+      "attributes": [],
+      "type": "purchase for download",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "type": "purchase for download",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.qobuz.com/gb-en/interpreter/anglagard/1238118",
+        "id": "a7a27950-8f40-4c72-aa17-a92423446af0"
+      }
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "setlistfm",
+      "url": {
+        "id": "72224c28-4d4e-47b6-b3fe-48e05a0009f5",
+        "resource": "https://www.setlist.fm/setlists/anglagard-4bd6ab8a.html"
+      },
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "end": null
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "end": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "direction": "forward",
+      "ended": false,
+      "target-credit": "",
+      "url": {
+        "id": "e7176a3f-ea64-4055-b97d-e05643f0a73f",
+        "resource": "https://twitter.com/anglagardrecord"
+      },
+      "attributes": [],
+      "type": "social network",
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "type": "social network",
+      "url": {
+        "id": "0cf8a1a2-5891-4c95-a8be-91468fb1f696",
+        "resource": "https://www.facebook.com/anglagardrecords"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "type": "songkick",
+      "attributes": [],
+      "url": {
+        "id": "53ca08f8-0702-4f5e-bf25-559d551d4e00",
+        "resource": "https://www.songkick.com/artists/228532"
+      },
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "type": "soundcloud",
+      "attributes": [],
+      "url": {
+        "id": "11caaa85-3c4d-4233-b6f1-80f87d302c01",
+        "resource": "https://soundcloud.com/anglagard-music"
+      },
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "target-type": "url",
+      "url": {
+        "resource": "https://tidal.com/artist/4544894",
+        "id": "693c4df2-cdab-45f6-a823-c27d73f898e5"
+      },
+      "type": "streaming",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.qobuz.com/gb-en/interpreter/anglagard/1238118",
+        "id": "a7a27950-8f40-4c72-aa17-a92423446af0"
+      },
+      "type": "streaming",
+      "attributes": [],
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "direction": "forward",
+      "end": null
+    },
+    {
+      "url": {
+        "id": "894b7077-a3fa-4141-9383-3769d27a483a",
+        "resource": "http://viaf.org/viaf/157300137"
+      },
+      "type": "VIAF",
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q255247",
+        "id": "f77fcf48-b0e8-483d-841e-43e37a3fb30c"
+      },
+      "attributes": [],
+      "type": "wikidata",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "type": "youtube",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCNv6gQotdpFhH5DOAw_8HFg",
+        "id": "b4c9a3ea-2ce6-4a3c-b32e-d60ded31521d"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "end": null,
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "type": "youtube music",
+      "attributes": [],
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCNv6gQotdpFhH5DOAw_8HFg",
+        "id": "5d9b5358-8160-45bf-8d6d-0494203f9d82"
+      },
+      "target-credit": "",
+      "ended": false
+    }
+  ],
+  "end-area": null,
+  "aliases": [
+    {
+      "ended": false,
+      "begin": null,
+      "primary": null,
+      "locale": null,
+      "end": null,
+      "sort-name": "Anglagard",
+      "type-id": null,
+      "type": null,
+      "name": "Anglagard"
+    }
+  ],
+  "ipis": [],
+  "area": {
+    "disambiguation": "",
+    "name": "Sweden",
+    "type": null,
+    "type-id": null,
+    "sort-name": "Sweden",
+    "iso-3166-1-codes": [
+      "SE"
+    ],
+    "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb"
+  },
+  "gender-id": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Änglagård",
+  "country": "SE",
+  "name": "Änglagård",
+  "isnis": [
+    "0000000105034363"
+  ],
+  "gender": null,
+  "life-span": {
+    "end": null,
+    "ended": false,
+    "begin": "1991"
+  },
+  "begin-area": {
+    "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+    "disambiguation": "",
+    "name": "Stockholm",
+    "type": null,
+    "type-id": null,
+    "sort-name": "Stockholm"
+  },
+  "id": "6344d70b-da12-4f93-b7e0-c0be55044c41"
+}

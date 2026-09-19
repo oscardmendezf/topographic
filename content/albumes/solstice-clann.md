@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "solstice-clann"
+titulo: "Clann"
+artista: "Solstice"
+artista_slug: "solstice"
+anio_ficha: 2025
+era: "moderna"
+escena: "neoprog"
+mb_rgid: "3403a41b-e534-4da7-a979-39cd7a9bc92a"
+primer_lanzamiento: "2025-04-04"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 4
+critica_fuente: "editorial"
+critica_nota: "Buena acogida crítica; confirma la vigencia del proyecto."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Alcance sostenido dentro del circuito."
+historia: "editorial"
+---
+
+Disco de banda numerosa, con varias voces y el violín compartiendo el frente en lugar de dominarlo. La escritura es más colectiva que en cualquier etapa anterior y el resultado tiene una amplitud que el grupo nunca había buscado. Cierra —por ahora— la etapa más productiva de una carrera de cuatro décadas y media.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Clann cierra —por ahora— el tramo más productivo de una carrera que empezó en 1980. El título, la palabra gaélica para familia o clan, declara el programa del disco: Solstice deja de ser una banda con un líder y una voz solista destacada para convertirse en un conjunto numeroso donde varias personas cantan y donde el violín de Jenny Newman comparte el frente en lugar de gobernarlo. Andy Glass, que viene desde el principio, aparece acá menos como autor único que como articulador de un trabajo colectivo, y esa es la novedad mayor respecto a Sia y Light Up.
+
+El disco son cinco piezas y un equilibrio distinto entre canción y desarrollo. «Firefly» y «Life» abren con formato de canción amplia, varias voces alternándose y arreglos que suenan escritos entre varios. «Plunk» es la más juguetona y la que mejor muestra el desenfado de esta etapa. «Frippa» guiña desde el título a una manera muy identificable de tocar la guitarra en el progresivo inglés, y la música responde a la referencia con más humor que reverencia. «Twin Peaks» cierra con casi catorce minutos y es la pieza de peso que a Light Up le había faltado: se toma su tiempo, cambia de textura varias veces y usa el tamaño de la banda para construir en capas en lugar de alternar solistas.
+
+## La producción
+
+El desafío de producción de este disco es el número de músicos, y está resuelto con criterio. La mezcla mantiene la calidez que la etapa había conseguido y agrega jerarquía: las voces múltiples se organizan en planos, unas al frente y otras como armonía, sin que el conjunto se vuelva confuso. El violín se sitúa dentro del entramado y emerge cuando le toca, con un tratamiento menos protagónico que en Spirit o Prophecy. La guitarra de Glass alterna sostén armónico y frases cortas, más al servicio de la trama que del solo.
+
+Los arreglos son lo más ambicioso del disco. Hay secciones construidas a partir de varias líneas simultáneas que se cruzan, coros trabajados como instrumento y una administración del volumen que permite que una banda grande suene liviana cuando hace falta. La amplitud que se consigue no viene de capas superpuestas en estudio sino de gente tocando distinto al mismo tiempo, y eso le da al conjunto un aire de registro en sala que ninguno de los discos anteriores de esta etapa tenía del todo.
+
+## Recepción y legado
+
+Llega con el grupo en su mejor momento desde el regreso y no defrauda esa expectativa. Es un disco que amplía el mapa en lugar de repetirlo: nunca antes Solstice había buscado esta amplitud, ni había repartido la escritura de esta manera. Su lugar dentro de la discografía se entiende como desembocadura de todo lo que empezó en 2010, y como demostración de que la identidad del grupo —folk inglés, modalismo, forma larga— aguanta transformaciones bastante profundas sin deshacerse. Queda por ver si es un final de etapa o un punto de partida.

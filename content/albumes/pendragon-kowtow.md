@@ -1,0 +1,41 @@
+---
+tipo: "album"
+slug: "pendragon-kowtow"
+titulo: "Kowtow"
+artista: "Pendragon"
+artista_slug: "pendragon"
+anio_ficha: 1988
+era: "siguiente"
+escena: "neoprog"
+mb_rgid: "06419a7a-f451-382f-b78a-ebdea305d730"
+primer_lanzamiento: "1988"
+charts_texto: "s.d."
+charts_estado: "sd"
+estrellas_critica: 2
+critica_fuente: "editorial"
+critica_nota: "El acabado de época se come el sonido propio."
+estrellas_comercial: 2
+comercial_fuente: "editorial"
+comercial_nota: "Intento de ampliar público que no movió la aguja."
+historia: "editorial"
+---
+
+El disco más atado a su década: teclados digitales al frente, batería tratada y canciones acortadas hacia un formato que no les sentaba. Clive Nolan y Fudge Smith ya están en la formación y el grupo suena más compacto, pero la producción aplana justo lo que Pendragon tiene de mejor, que es el aire alrededor de la guitarra. Es el punto en que la banda se parece a los ochenta antes que a sí misma.
+
+<!-- historia:editorial -->
+
+## La historia
+
+Entre el debut y este disco ocurre el recambio que define a la banda para las décadas siguientes: en 1986 entran Clive Nolan en los teclados y Fudge Smith en la batería, y Pendragon pasa a tener por primera vez una formación estable y compacta. Con esa base llega un trabajo que debería haber sido el salto y termina siendo el desvío. El título alude a la reverencia servil, a doblar la cabeza ante quien manda, y la ironía es involuntaria: es justamente el disco donde el grupo se acomoda a lo que la época pedía.
+
+La estructura lo dice todo. Cinco de las nueve canciones rondan los cuatro minutos y buscan un formato que no le sentaba al grupo: «Saved by You», «The Mask», «Time for a Change» y «Solid Heart» son canciones de estribillo directo, escritas hacia afuera. La banda recupera su terreno solo en las piezas extensas, «Total Recall», «The Haunting» y el tema título, donde los desarrollos vuelven a tener lugar y Nick Barrett puede sostener frases largas sin que la canción lo apure. Las letras se mueven entre el desencanto amoroso y una crítica social algo genérica, sin el peso personal que el grupo encontraría después. Es un disco de transición hecho por una formación que recién empezaba a conocerse.
+
+## La producción
+
+La producción quedó acreditada al propio grupo, y lo que hicieron con ella es lo más cuestionable del conjunto. Los teclados digitales de Nolan ocupan el primer plano con timbres brillantes y metálicos que fechan el disco al instante, la batería de Smith aparece tratada según la costumbre de la década, con golpes envueltos y comprimidos que borran el matiz, y el conjunto queda comprimido en un bloque parejo. El sonido es más profesional que el del debut, sin duda, pero elige exactamente las herramientas equivocadas.
+
+El daño mayor está en lo que se pierde. Pendragon funciona cuando hay aire alrededor de la guitarra, espacio para que una nota sostenida se despliegue y se apague; acá ese aire desaparece bajo capas de teclado y de tratamiento. Barrett sigue tocando lo suyo, pero tiene que abrirse paso en un registro que no lo favorece. Las piezas largas sobreviven mejor porque la duración obliga a bajar la densidad en algún tramo.
+
+## Recepción y legado
+
+Es el disco más atado a su década y el que la propia banda parece recordar con menos afecto. Llegó cuando la ola neoprog ya se retiraba y ofreció una versión pulida de un grupo que valía por otras razones; ni sedujo a un público nuevo ni satisfizo al que tenía. Después vendrían años sin disco y sin respaldo de sello, y la reconstrucción posterior se leería en buena medida como una corrección de rumbo respecto de este trabajo. Se rescatan las piezas extensas, donde asoma la banda que llegaría a ser, y el hecho de que consolidó la formación clave. El resto es Pendragon pareciéndose a los ochenta antes que a sí misma.

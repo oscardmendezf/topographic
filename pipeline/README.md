@@ -197,3 +197,29 @@ metalcore y quedó descartado por el cruce contra el tracklist, sin intervenció
 
 `build_tareas_destacadas.py --pendientes` arma lotes solo con los álbumes que aún no están en
 `data/destacadas.json` (ni declarados sin destacadas), igual que `--pendientes` en historias.
+
+## Neoprog, Escandinavia y el Canterbury profundo (19-sep-2026)
+
+Tres ramas en una pasada, 27 artistas y 229 fichas de álbum con historia larga y destacadas:
+
+- **`neoprog`** (fase 4, la F4 «herederos» del roadmap): Marillion, IQ, Pendragon, Pallas,
+  Twelfth Night, Arena, Jadis, Galahad y Solstice.
+- **`escandinavia`** (fase 10): los pioneros suecos (Kaipa, Trettioåriga Kriget, Ragnarök),
+  el renacimiento de los noventa (Änglagård, Anekdoten, Landberk), los noruegos (Wobbler,
+  White Willow) y Paatos, The Flower Kings e Isildurs Bane.
+- **`canterbury`** (fase 11, amplía la escena existente): Gilgamesh, Soft Heap, Khan,
+  Hugh Hopper, In Cahoots, Quiet Sun y Delivery — la trama que unía por abajo el tronco
+  que ya estaba.
+
+Resoluciones que hubo que corregir a mano: `solstice` se resolvía a una banda de doom metal
+británica en vez de la neoprogresiva, y `soft-heap` a una entidad duplicada sin desambiguar.
+En ambos casos la alternativa correcta estaba entre los candidatos; se tomó esa y se añadió el
+hint al seed (`neo`, `canterbury`) para que la próxima corrida resuelva sola.
+
+### Cuidado: `resolve` pisa las confirmaciones manuales
+
+`musicbrainz.py resolve` re-resuelve **todo** el seed y sobrescribe `data/mbid_map.json`, así
+que los `status: ok` y los `confirmado_a_mano` puestos a mano se pierden en la corrida
+siguiente (le pasó a `present`, confirmado en la tanda RIO y devuelto a «revisar» en la de
+neoprog). Mientras eso siga así, revisar la lista de «a revisar» después de cada `resolve`, y
+preferir arreglar el `disambiguation_hint` del seed antes que confirmar a mano.

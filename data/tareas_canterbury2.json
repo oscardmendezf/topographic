@@ -1,0 +1,552 @@
+{
+ "grupos": [
+  {
+   "id": "cant-gilgamesh",
+   "escena": "canterbury",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "gilgamesh",
+     "nombre": "Gilgamesh",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1972",
+     "fin": "1978",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Gilgamesh_(banda)",
+     "formaciones_mb": [
+      "Mike Travis (miembro; 1972–1975)",
+      "Phil Lee (miembro; 1973–act.)",
+      "Alan Gowen (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "gilgamesh-gilgamesh",
+       "titulo": "Gilgamesh",
+       "anio": 1975,
+       "mbid": "a9a5e0d3-dee7-3f70-ac97-31bf20251364",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "gilgamesh-another-fine-tune-youve-got-me-into",
+       "titulo": "Another Fine Tune You’ve Got Me Into",
+       "anio": 1978,
+       "mbid": "6baacd42-8c40-3b80-80b4-e9f793d403f6",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "gilgamesh-arriving-twice",
+       "titulo": "Arriving Twice",
+       "anio": 2000,
+       "mbid": "15ced480-4edc-3159-ae18-05e79bf48171",
+       "primer_lanzamiento": "2000-10-24",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "soft-heap",
+     "nombre": "Soft Heap",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": null,
+     "fin": null,
+     "wikipedia_url": null,
+     "formaciones_mb": [],
+     "catalogo": [
+      {
+       "album_slug": "soft-heap-rogue-element",
+       "titulo": "Rogue Element",
+       "anio": 1996,
+       "mbid": "bb6d0742-88b6-4fba-bc8b-2c8163a52967",
+       "primer_lanzamiento": "1996",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "khan",
+     "nombre": "Khan",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1971-04",
+     "fin": "1972-10",
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Khan_(band)",
+     "formaciones_mb": [
+      "Nicholas Greenwood (bass; 1971-04–1972-06)",
+      "Steve Hillage (miembro; 1971-04–1972-10)",
+      "Eric Peachey (membranophone; 1971-04–1972-10)",
+      "Nigel Griggs (bass; 1972-07–1972-10)",
+      "Dave Stewart (miembro; 1972–1972)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "khan-space-shanty",
+       "titulo": "Space Shanty",
+       "anio": 1972,
+       "mbid": "b4681d43-92ad-3835-ae40-524c50c8adca",
+       "primer_lanzamiento": "1972-05",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cant-hopper",
+   "escena": "canterbury",
+   "texto_fuente": null,
+   "artistas": [
+    {
+     "slug": "hugh-hopper",
+     "nombre": "Hugh Hopper",
+     "tipo": "Person",
+     "pais": "GB",
+     "inicio": "1945-04-29",
+     "fin": "2009-06-07",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Hugh_Hopper",
+     "formaciones_mb": [
+      "The Wilde Flowers (electric bass guitar; 1964–1967)",
+      "Soft Machine (miembro; 1968-12–1973-05)",
+      "Isotope (miembro; 1974–1976)",
+      "In Cahoots (bass guitar; 1985–1988)",
+      "Soft Works (miembro; 2002–2004)",
+      "Soft Head (miembro; ?–act.)",
+      "Soft Heap (miembro; ?–act.)",
+      "Short Wave (miembro; ?–act.)",
+      "Hughscore (miembro; ?–act.)",
+      "Brainville (miembro; ?–act.)",
+      "Strings of Consciousness (clarinet; ?–act.)",
+      "Strings of Consciousness (electric bass guitar; ?–act.)",
+      "Daevid Allen Trio (bass guitar; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "hugh-hopper-1984",
+       "titulo": "1984",
+       "anio": 1973,
+       "mbid": "422d510e-8a0d-4014-ac22-b4fa4cead578",
+       "primer_lanzamiento": "1973",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-cruel-but-fair",
+       "titulo": "Cruel But Fair",
+       "anio": 1977,
+       "mbid": "02020925-f38b-30f0-b707-8bb3f87eec02",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-hopper-tunity-box",
+       "titulo": "Hopper Tunity Box",
+       "anio": 1977,
+       "mbid": "040bbe9e-78ef-3fbd-ab20-ec093306cadc",
+       "primer_lanzamiento": "1977",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-rogue-element",
+       "titulo": "Rogue Element",
+       "anio": 1978,
+       "mbid": "6397a784-0593-4883-9a6d-4c65b3cc78fd",
+       "primer_lanzamiento": "1978",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-monster-band",
+       "titulo": "Monster Band",
+       "anio": 1979,
+       "mbid": "9d84ece3-8193-4ed5-943b-d1040f5bbbed",
+       "primer_lanzamiento": "1979",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-two-rainbows-daily",
+       "titulo": "Two Rainbows Daily",
+       "anio": 1980,
+       "mbid": "bb1cfce7-d832-3068-99bb-d3b951a734ea",
+       "primer_lanzamiento": "1980",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-meccano-pelorus",
+       "titulo": "Meccano Pelorus",
+       "anio": 1991,
+       "mbid": "1af34e24-fb5c-4b36-b231-6bf5269d6422",
+       "primer_lanzamiento": "1991",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-a-remark-hugh-made",
+       "titulo": "A Remark Hugh Made",
+       "anio": 1994,
+       "mbid": "9aa274ea-7ba4-3bb3-aeb3-30949f65ff6d",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-hooligan-romantics",
+       "titulo": "Hooligan Romantics",
+       "anio": 1994,
+       "mbid": "e8a53402-b6a2-430a-b771-e5f1a5c2c96c",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-adreamor",
+       "titulo": "Adreamor",
+       "anio": 1995,
+       "mbid": "50cbd732-b09f-4659-b26a-4b5be012093d",
+       "primer_lanzamiento": "1995",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-carousel",
+       "titulo": "Carousel",
+       "anio": 1995,
+       "mbid": "67dbe394-9c96-4d0d-8632-63862052160e",
+       "primer_lanzamiento": "1995",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-mercy-dash",
+       "titulo": "Mercy Dash",
+       "anio": 1996,
+       "mbid": "58c32fca-e843-33c4-9f96-544044c6dc86",
+       "primer_lanzamiento": "1996",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-somewhere-in-france",
+       "titulo": "Somewhere in France",
+       "anio": 1996,
+       "mbid": "c39018ce-2e47-3efe-9f81-45e51d3d39a2",
+       "primer_lanzamiento": "1996-06-19",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-huge",
+       "titulo": "Huge",
+       "anio": 1997,
+       "mbid": "bd81ad0e-9fe0-3df3-8330-4a873b074730",
+       "primer_lanzamiento": "1997-06-17",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-the-mind-in-the-trees",
+       "titulo": "The Mind In The Trees",
+       "anio": 1998,
+       "mbid": "fff6fae9-a32e-4caa-a1c1-525254f3d364",
+       "primer_lanzamiento": "1998",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-cryptids",
+       "titulo": "Cryptids",
+       "anio": 2000,
+       "mbid": "b95e9459-5845-4554-8ed8-51967cf53f90",
+       "primer_lanzamiento": "2000",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-parabolic-versions",
+       "titulo": "Parabolic Versions",
+       "anio": 2000,
+       "mbid": "6abc9034-92e4-4fb8-aef6-74dd3b3a9901",
+       "primer_lanzamiento": "2000",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-jazzloops",
+       "titulo": "Jazzloops",
+       "anio": 2002,
+       "mbid": "78d78613-3227-36a9-84f6-261f61788d85",
+       "primer_lanzamiento": "2002",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-the-stolen-hour",
+       "titulo": "The Stolen Hour",
+       "anio": 2004,
+       "mbid": "9fa26967-c258-4c6b-9053-fc9aa0c5edae",
+       "primer_lanzamiento": "2004",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-numero-d-vol",
+       "titulo": "Numero D'Vol",
+       "anio": 2007,
+       "mbid": "28ff8146-2cf6-4818-8d58-4f9e08574691",
+       "primer_lanzamiento": "2007",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-dune",
+       "titulo": "Dune",
+       "anio": 2008,
+       "mbid": "fed760af-3426-49fa-8861-f4751dcb125c",
+       "primer_lanzamiento": "2008",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-clear-frame",
+       "titulo": "Clear Frame",
+       "anio": 2008,
+       "mbid": "b7dae0c2-0a4a-3e78-a2ea-e40b99cfa762",
+       "primer_lanzamiento": "2008-01-29",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-goat-hopper",
+       "titulo": "Goat Hopper",
+       "anio": 2013,
+       "mbid": "1e2f97ae-fefb-4b28-a1c1-202f526ca329",
+       "primer_lanzamiento": "2013-11-04",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-four-by-hugh-by-four-volume-4",
+       "titulo": "Four By Hugh By Four (Volume 4)",
+       "anio": 2014,
+       "mbid": "ac256114-2783-42f3-987c-1c828aac332a",
+       "primer_lanzamiento": "2014",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-frangloband-volume-2",
+       "titulo": "Frangloband (Volume 2)",
+       "anio": 2014,
+       "mbid": "063ccdb6-8c09-4512-be07-2f7a293bc6aa",
+       "primer_lanzamiento": "2014",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-north-south-volume-3",
+       "titulo": "North & South (Volume 3)",
+       "anio": 2014,
+       "mbid": "745ddab4-5ba6-4ad7-afc4-15c39e0f794f",
+       "primer_lanzamiento": "2014",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-heart-to-heart-volume-5",
+       "titulo": "Heart To Heart (Volume 5)",
+       "anio": 2014,
+       "mbid": "94f3c5db-82a3-4209-b0af-1ea843af8869",
+       "primer_lanzamiento": "2014-11-24",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-was-a-friend-volume-10",
+       "titulo": "Was a Friend (Volume 10)",
+       "anio": 2015,
+       "mbid": "d29add5e-bb2c-4cb9-b3e6-b29896375b90",
+       "primer_lanzamiento": "2015",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-special-friends-volume-6",
+       "titulo": "Special Friends (Volume 6)",
+       "anio": 2015,
+       "mbid": "b1f1c6d2-9929-406d-8e69-104ac288654b",
+       "primer_lanzamiento": "2015-04-06",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-soft-boundaries-volume-7",
+       "titulo": "Soft Boundaries (Volume 7)",
+       "anio": 2015,
+       "mbid": "1a79b2a1-afe8-4c73-b39c-8e020c355fef",
+       "primer_lanzamiento": "2015-05-18",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "hugh-hopper-soft-bounds",
+       "titulo": "Soft Bounds",
+       "anio": 2022,
+       "mbid": "0a8c1c2f-0b65-44d0-9821-d5e5901e6ad6",
+       "primer_lanzamiento": "2022-11-02",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "in-cahoots",
+     "nombre": "In Cahoots",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1982",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/In_Cahoots",
+     "formaciones_mb": [
+      "Richard Sinclair (bass guitar, original; 1982–1985)",
+      "Peter Lemer (keyboard, original; 1982–1987)",
+      "Pip Pyle (drums (drum set), original; 1982–2002)",
+      "Hugh Hopper (bass guitar; 1985–1988)",
+      "Fred T. Baker (bass guitar; 1988–act.)",
+      "Fred T. Baker (electric guitar; 1988–act.)",
+      "Jim Dvorak (trumpet; 1990–act.)",
+      "Peter Lemer (keyboard; 1991–act.)",
+      "Mark Fletcher (drums (drum set); 2002–act.)",
+      "Theo Travis (saxophone; 2005–act.)",
+      "Elton Dean (alto saxophone; ?–act.)",
+      "Simon Finch (miembro; ?–act.)",
+      "Phil Miller (electric guitar, original; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "in-cahoots-live-86-89",
+       "titulo": "Live 86-89",
+       "anio": 1991,
+       "mbid": "7a415dd3-3092-40e6-9343-059830059913",
+       "primer_lanzamiento": "1991",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-live-in-japan",
+       "titulo": "Live In Japan",
+       "anio": 1993,
+       "mbid": "9ae2b38d-ae91-4fa2-96f8-4aa17a5099da",
+       "primer_lanzamiento": "1993",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-recent-discoveries",
+       "titulo": "Recent Discoveries",
+       "anio": 1994,
+       "mbid": "b09d8922-2eec-4eec-a777-10e41c291fec",
+       "primer_lanzamiento": "1994",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-parallel",
+       "titulo": "Parallel",
+       "anio": 1996,
+       "mbid": "5671ba6e-d493-43fd-a6b9-5a860484d9a2",
+       "primer_lanzamiento": "1996",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-out-of-the-blue",
+       "titulo": "Out Of The Blue",
+       "anio": 2001,
+       "mbid": "eb7a9d62-a3ea-4711-a72b-b51edd537a61",
+       "primer_lanzamiento": "2001",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-all-that",
+       "titulo": "All That",
+       "anio": 2003,
+       "mbid": "b545e719-25c3-4983-9b97-0c683d1420ea",
+       "primer_lanzamiento": "2003",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-conspiracy-theories",
+       "titulo": "Conspiracy Theories",
+       "anio": 2007,
+       "mbid": "2243eac4-c402-4371-b0e7-a6bbd1ccc48a",
+       "primer_lanzamiento": "2007",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-mind-over-matter",
+       "titulo": "Mind Over Matter",
+       "anio": 2011,
+       "mbid": "74a42a23-d640-43f6-924a-fd6771dd7de5",
+       "primer_lanzamiento": "2011",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-the-bull-and-gate-1983",
+       "titulo": "The Bull and Gate 1983",
+       "anio": 2023,
+       "mbid": "0f7e4870-7fbc-4fc6-b44e-48b31ac08c86",
+       "primer_lanzamiento": "2023-04-04",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-theatre-dunois",
+       "titulo": "Théâtre Dunois",
+       "anio": 2023,
+       "mbid": "8bcfa7e8-6be4-4ec6-bc45-3874bc5ed812",
+       "primer_lanzamiento": "2023-10-02",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-lille",
+       "titulo": "Lille",
+       "anio": 2024,
+       "mbid": "b49e6475-126d-4793-9c1d-9843d6f1134d",
+       "primer_lanzamiento": "2024-02-18",
+       "soundtrack": false
+      },
+      {
+       "album_slug": "in-cahoots-pijnacker-84",
+       "titulo": "Pijnacker '84",
+       "anio": 2024,
+       "mbid": "ab843f1c-4b7f-476d-8726-563e05c7cd02",
+       "primer_lanzamiento": "2024-02-18",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "quiet-sun",
+     "nombre": "Quiet Sun",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1970",
+     "fin": "1975",
+     "wikipedia_url": "https://es.wikipedia.org/wiki/Quiet_Sun",
+     "formaciones_mb": [
+      "Charles Hayward (miembro; ?–act.)",
+      "Dave Jarrett (miembro; ?–act.)",
+      "Bill MacCormick (miembro; ?–act.)",
+      "Phil Manzanera (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "quiet-sun-mainstream",
+       "titulo": "Mainstream",
+       "anio": 1975,
+       "mbid": "83e1daa5-1961-380d-a9c6-a084c377efce",
+       "primer_lanzamiento": "1975",
+       "soundtrack": false
+      }
+     ]
+    },
+    {
+     "slug": "delivery",
+     "nombre": "Delivery",
+     "tipo": "Group",
+     "pais": "GB",
+     "inicio": "1968",
+     "fin": null,
+     "wikipedia_url": "https://en.wikipedia.org/wiki/Delivery_(British_band)",
+     "formaciones_mb": [
+      "Roy Babbington (miembro; ?–act.)",
+      "Lol Coxhill (miembro; ?–act.)",
+      "Carol Grimes (miembro; ?–act.)",
+      "Phil Miller (miembro; ?–act.)",
+      "Steve Miller (miembro; ?–act.)",
+      "Pip Pyle (miembro; ?–act.)"
+     ],
+     "catalogo": [
+      {
+       "album_slug": "delivery-fools-meeting",
+       "titulo": "Fools Meeting",
+       "anio": 1970,
+       "mbid": "968861a3-526b-3811-aa55-5dfc01266fbd",
+       "primer_lanzamiento": "1970-11",
+       "soundtrack": false
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,774 @@
+{
+  "aliases": [],
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "gender-id": null,
+  "isnis": [
+    "0000000469654950"
+  ],
+  "area": {
+    "sort-name": "Norway",
+    "type": null,
+    "iso-3166-1-codes": [
+      "NO"
+    ],
+    "disambiguation": "",
+    "id": "6743d351-6f37-3049-9724-5041161fff4d",
+    "name": "Norway",
+    "type-id": null
+  },
+  "ipis": [],
+  "begin-area": {
+    "type-id": null,
+    "name": "Hønefoss",
+    "id": "db7bbdf6-9385-4af8-a292-5c5431ccafc0",
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "Hønefoss"
+  },
+  "end-area": null,
+  "relations": [
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "2010",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Andreas Wettergreen Strømman Prestmo",
+        "id": "a5f41ebf-b816-4196-a5d5-57c22c490040",
+        "disambiguation": "",
+        "type": "Person",
+        "country": "NO",
+        "sort-name": "Prestmo, Andreas Wettergreen Strømman"
+      },
+      "type": "member of band",
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "begin": "2014",
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "country": "NO",
+        "type": "Person",
+        "sort-name": "Halleland, Marius",
+        "name": "Marius Halleland",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "136cf2ae-dbea-4332-a67f-68e6af107875"
+      },
+      "attributes": [],
+      "target-type": "artist"
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "disambiguation": "",
+        "id": "fd3c2fa6-c793-4f90-8794-25f2f653cc9d",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Morten Andreas Eriksen",
+        "sort-name": "Eriksen, Morten Andreas",
+        "type": "Person",
+        "country": "NO"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward"
+    },
+    {
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ],
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": null,
+      "artist": {
+        "name": "Lars Fredrik Frøislie",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "id": "fff68df9-d04e-42fa-9d6b-a67d38de49ac",
+        "country": "NO",
+        "type": "Person",
+        "sort-name": "Frøislie, Lars Fredrik"
+      },
+      "type": "member of band"
+    },
+    {
+      "end": null,
+      "direction": "backward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-values": {},
+      "artist": {
+        "name": "Kristian Karl Hultgren",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "id": "a120678b-45e2-49c4-a12c-290e2ef95bc5",
+        "disambiguation": "bass player",
+        "country": "NO",
+        "type": "Person",
+        "sort-name": "Hultgren, Kristian Karl"
+      },
+      "type": "member of band",
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": null,
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ]
+    },
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "member of band",
+      "artist": {
+        "sort-name": "Johannessen, Tony",
+        "type": "Person",
+        "country": "NO",
+        "disambiguation": "",
+        "id": "16664305-4b42-44f5-9d56-3ce57194816f",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Tony Johannessen"
+      },
+      "attribute-values": {},
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "backward"
+    },
+    {
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [
+        "original"
+      ],
+      "attribute-ids": {
+        "original": "4fd3b255-a7d7-4424-9a63-40fa543b601c"
+      },
+      "begin": null,
+      "artist": {
+        "sort-name": "Kneppen, Martin Nordrum",
+        "country": "NO",
+        "type": "Person",
+        "disambiguation": "",
+        "id": "1a70eedc-5a9f-43e1-a505-70e1cc5ea808",
+        "name": "Martin Nordrum Kneppen",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "type": "member of band"
+    },
+    {
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "id": "e012cf23-49e1-4ed2-8471-d91d06457989",
+        "resource": "https://www.allmusic.com/artist/mn0000403458"
+      },
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "allmusic",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "resource": "https://wobbler.bandcamp.com/",
+        "id": "d02039d0-422e-4924-9134-53c27cc76b63"
+      },
+      "target-credit": "",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "bandcamp",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "bandsintown",
+      "attribute-ids": {},
+      "begin": null,
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "target-credit": "",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.bandsintown.com/a/107799",
+        "id": "6c729e40-198d-47af-814d-136065d9b706"
+      },
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "discogs",
+      "attribute-ids": {},
+      "begin": null,
+      "target-credit": "",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.discogs.com/artist/1111591",
+        "id": "0cada1c7-4c33-4296-92c6-a156ebb0c762"
+      },
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "attribute-values": {},
+      "url": {
+        "id": "33adbd78-a2b1-489f-bb2f-4ca6702c042f",
+        "resource": "https://open.spotify.com/artist/00Uv0804nrBM2RxUBTkyHj"
+      },
+      "type": "free streaming",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "resource": "https://www.deezer.com/artist/210250",
+        "id": "53f6c53f-b32b-4ee2-b78d-582d6c0c0bf3"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "free streaming",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-credit": "",
+      "url": {
+        "id": "d5ab7f5f-9508-498f-8da2-6d4f3d0ae251",
+        "resource": "https://www.last.fm/music/Wobbler"
+      },
+      "attribute-values": {},
+      "type": "last.fm",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://genius.com/artists/Wobbler",
+        "id": "b4bf6d81-ea67-4932-be4f-3779d05629d6"
+      },
+      "type": "lyrics",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "8a68771d-d65d-4b5b-bc3c-ad773afad519",
+        "resource": "https://www.wobblerofficial.com/"
+      },
+      "attribute-values": {},
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "official homepage",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "ended": true,
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "resource": "http://www.wobblermusic.com/",
+        "id": "ef109a38-e926-4bbf-9da4-6f08d3c49842"
+      },
+      "target-credit": "",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "official homepage",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QH7JmqKvQd4QvGH3WyGQbM6",
+        "id": "413220b3-6f09-4d16-af5f-122a1580c5d2"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "other databases",
+      "url": {
+        "id": "a5efc143-ea61-4364-830c-32d07b419715",
+        "resource": "https://rateyourmusic.com/artist/wobbler"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/wobbler/",
+        "id": "d6dd68dc-78c9-4e82-a3b4-e28032563ec6"
+      },
+      "attribute-values": {}
+    },
+    {
+      "attribute-values": {},
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=1698",
+        "id": "47a9ff17-c52c-41f4-a88d-d284323b19df"
+      },
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "attribute-ids": {},
+      "begin": null,
+      "type": "other databases"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "url": {
+        "resource": "https://www.spirit-of-rock.com/en/band/Wobbler",
+        "id": "d51ddcfe-be0d-4c9a-9a9a-75b55fb858ca"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "purchase for download",
+      "url": {
+        "id": "5c157487-fc38-46d4-9f8a-c3ffe2cbe1af",
+        "resource": "https://music.bugs.co.kr/artist/11350454"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "type": "purchase for download",
+      "target-type": "url",
+      "attributes": [],
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "attribute-values": {},
+      "url": {
+        "id": "41ec9015-b36f-4c3d-812f-b8728f3f7950",
+        "resource": "https://no.7digital.com/artist/wobbler"
+      },
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": ""
+    },
+    {
+      "type": "purchase for download",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "source-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=904338",
+        "id": "1353839b-aca5-45df-9b5c-69f2a372303b"
+      },
+      "attribute-values": {}
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "attribute-values": {},
+      "url": {
+        "id": "dadb3e89-b5fc-4a2f-9d8d-b050c1aa1b8f",
+        "resource": "https://www.qobuz.com/no-en/interpreter/wobbler/543751"
+      },
+      "target-credit": "",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "attribute-ids": {},
+      "begin": null,
+      "type": "purchase for download",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "setlistfm",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "end": null,
+      "url": {
+        "id": "e3abb465-ecd1-47a3-a195-ac94f13c8556",
+        "resource": "https://www.setlist.fm/setlists/wobbler-2bd7ace2.html"
+      },
+      "attribute-values": {},
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "social network",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-credit": "",
+      "url": {
+        "resource": "https://www.facebook.com/wobblerofficial",
+        "id": "6dbcd670-ea8b-4682-8412-3533615843a4"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "2a38151e-3af5-4a62-923f-a2f7895cab0c",
+        "resource": "https://www.instagram.com/wobblerofficial/"
+      },
+      "attribute-values": {},
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "social network",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "songkick",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "url": {
+        "id": "5ec63b2d-fc4d-4bf9-816b-d28c5696649d",
+        "resource": "https://www.songkick.com/artists/431990"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "target-credit": "",
+      "type-id": "89e4a949-0976-440d-bda1-5f772c1e5710",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://soundcloud.com/wobbler-music",
+        "id": "9bb30ed1-afdd-4ca7-8d65-172268347a53"
+      },
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "soundcloud",
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "begin": null,
+      "attribute-ids": {},
+      "type": "streaming",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://music.bugs.co.kr/artist/11350454",
+        "id": "5c157487-fc38-46d4-9f8a-c3ffe2cbe1af"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161"
+    },
+    {
+      "source-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "id": "1e7b6763-7298-42e1-831d-ef261853afed",
+        "resource": "https://tidal.com/artist/3604759"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "streaming",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "url": {
+        "resource": "https://www.melon.com/artist/detail.htm?artistId=904338",
+        "id": "1353839b-aca5-45df-9b5c-69f2a372303b"
+      },
+      "attribute-values": {},
+      "type": "streaming",
+      "begin": null,
+      "attribute-ids": {},
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "streaming",
+      "begin": null,
+      "attribute-ids": {},
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "url": {
+        "id": "dadb3e89-b5fc-4a2f-9d8d-b050c1aa1b8f",
+        "resource": "https://www.qobuz.com/no-en/interpreter/wobbler/543751"
+      },
+      "attribute-values": {},
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "ended": false
+    },
+    {
+      "ended": false,
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "url": {
+        "resource": "https://www.wikidata.org/wiki/Q1476527",
+        "id": "9468f7df-f415-4ebd-bcf3-2a0d42115d8a"
+      },
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "begin": null,
+      "attribute-ids": {},
+      "type": "wikidata",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type": "youtube",
+      "begin": null,
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "url": {
+        "id": "4458887c-2cb4-462d-8d64-bf8f09013b85",
+        "resource": "https://www.youtube.com/channel/UCTHmiO6QPyx1IUB6AOrmz0g"
+      },
+      "attribute-values": {},
+      "end": null,
+      "direction": "forward",
+      "ended": false,
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "source-credit": "",
+      "ended": false,
+      "target-credit": "",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "attribute-values": {},
+      "url": {
+        "resource": "https://music.youtube.com/channel/UCTHmiO6QPyx1IUB6AOrmz0g",
+        "id": "a2bc17bb-bab5-4ddd-89bb-e243f80d729a"
+      },
+      "type": "youtube music",
+      "attribute-ids": {},
+      "begin": null,
+      "target-type": "url",
+      "attributes": []
+    }
+  ],
+  "disambiguation": "symphonic prog, Norway",
+  "id": "923b9160-251f-4ebe-8af2-ae670c425e55",
+  "gender": null,
+  "life-span": {
+    "begin": "1999",
+    "ended": false,
+    "end": null
+  },
+  "name": "Wobbler",
+  "sort-name": "Wobbler",
+  "type": "Group",
+  "country": "NO"
+}

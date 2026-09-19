@@ -1,0 +1,862 @@
+{
+  "type": "Group",
+  "disambiguation": "British progressive rock band",
+  "relations": [
+    {
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "artist": {
+        "id": "fde354c3-9cd2-4e1d-8eb4-5d5be23354d6",
+        "sort-name": "Ridout, Mark",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "name": "Mark Ridout",
+        "country": "GB",
+        "disambiguation": "1980s drummer for IQ and Jadis"
+      },
+      "ended": true,
+      "target-credit": "",
+      "end": "1985-02",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1982-01",
+      "attribute-ids": {}
+    },
+    {
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "id": "5b2af4bc-0e93-4e6e-ab0d-184d466fca82",
+        "sort-name": "Marshall, Les",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "disambiguation": "",
+        "country": "GB",
+        "name": "Les Marshall",
+        "type": "Person"
+      },
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "begin": "1982-01",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": "1986-11",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821"
+    },
+    {
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "sort-name": "Dawkins, Trevor",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Trevor Dawkins",
+        "id": "0ba06792-1db2-42e2-b1f9-f4fb34228bf3"
+      },
+      "end": "1989-06",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1982-01",
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Chandler, Gary",
+        "country": "GB",
+        "name": "Gary Chandler",
+        "disambiguation": "UK prog guitarist/vocalist, member of Jadis",
+        "type": "Person",
+        "id": "26a81728-25e4-4883-8377-f749865a22a1"
+      },
+      "end": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "begin": "1982-02",
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "id": "61e9482b-6e72-4187-875f-9779f2544016",
+        "country": null,
+        "disambiguation": "",
+        "name": "Paul Alwin",
+        "type": "Person",
+        "sort-name": "Alwin, Paul",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "attribute-values": {},
+      "begin": "1985-09",
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1988-07"
+    },
+    {
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "end": "1989-06",
+      "attribute-values": {},
+      "begin": "1986-09",
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "type": "member of band",
+      "target-type": "artist",
+      "target-credit": "",
+      "ended": true,
+      "artist": {
+        "name": "Pete Salmon",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Salmon, Pete",
+        "id": "7ebdbf8e-9f35-4c5a-a69a-d2fd3840d43a"
+      }
+    },
+    {
+      "end": "1989-06",
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1988-07",
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "ended": true,
+      "target-credit": "",
+      "artist": {
+        "sort-name": "Law, Mark",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "British drummer",
+        "name": "Mark Law",
+        "id": "4a023fd0-c024-42e2-abab-f34c25056e0e"
+      }
+    },
+    {
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "source-credit": "",
+      "begin": "1990-03",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "target-type": "artist",
+      "type": "member of band",
+      "attributes": [],
+      "artist": {
+        "id": "19136fa4-d12b-4910-9034-d22e14d5337d",
+        "type": "Person",
+        "country": "GB",
+        "disambiguation": "",
+        "name": "Steve Christey",
+        "sort-name": "Christey, Steve",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "ended": false,
+      "target-credit": ""
+    },
+    {
+      "end": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "begin": "1990-03",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "type": "member of band",
+      "target-type": "artist",
+      "ended": false,
+      "target-credit": "",
+      "artist": {
+        "disambiguation": "guitar player",
+        "country": "GB",
+        "name": "Nick May",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "May, Nick",
+        "id": "649357a2-7572-4c99-91fa-b7370bce5011"
+      }
+    },
+    {
+      "end": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "begin": "1990-03",
+      "attribute-values": {},
+      "source-credit": "",
+      "type": "member of band",
+      "attributes": [],
+      "target-type": "artist",
+      "ended": false,
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "name": "Martin Orford",
+        "country": "GB",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Orford, Martin",
+        "id": "13d263a7-ac29-4955-b976-70f203c22f2a"
+      }
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "artist": {
+        "id": "ee1d360e-250f-41eb-894f-c5f46aa64060",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "sort-name": "Jowitt, John",
+        "name": "John Jowitt",
+        "country": "GB",
+        "disambiguation": "",
+        "type": "Person"
+      },
+      "ended": false,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "direction": "backward",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": "1991-10",
+      "attribute-ids": {}
+    },
+    {
+      "end": null,
+      "direction": "backward",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "artist",
+      "attributes": [],
+      "type": "member of band",
+      "target-credit": "",
+      "ended": false,
+      "artist": {
+        "sort-name": "Marlow, Andy",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "disambiguation": "British bass player; member of Jadis",
+        "country": "GB",
+        "name": "Andy Marlow",
+        "id": "68d8e7e7-62a5-40db-80f9-2c99a5010e4a"
+      }
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "4710ab0e-b457-47a5-aa03-e64caa8f1ca2",
+        "resource": "https://www.allmusic.com/artist/mn0000125446"
+      },
+      "attributes": [],
+      "type": "allmusic",
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "direction": "forward"
+    },
+    {
+      "end": null,
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "url": {
+        "resource": "https://jadismusic.bandcamp.com/",
+        "id": "d1ba1100-5b12-46fb-a9ff-b1dcc2962dbe"
+      },
+      "type": "bandcamp",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "direction": "forward",
+      "end": null,
+      "ended": false,
+      "target-credit": "",
+      "url": {
+        "id": "e0b02d66-b4d8-4373-9c50-a2afe3095872",
+        "resource": "https://www.bandsintown.com/a/69525"
+      },
+      "attributes": [],
+      "type": "bandsintown",
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "resource": "https://www.discogs.com/artist/740237",
+        "id": "0dab0f11-8d50-4a25-991d-b5ea7dfa4613"
+      },
+      "attributes": [],
+      "type": "discogs",
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "free streaming",
+      "url": {
+        "id": "d7a58e5c-8817-4417-8f0d-3e71d522396d",
+        "resource": "https://open.spotify.com/artist/5Pfy8VJ696QAtEf7j2XLK5"
+      },
+      "target-type": "url"
+    },
+    {
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": null,
+      "end": null,
+      "type-id": "769085a1-c2f7-4c24-a532-2375a77693bd",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "730536e3-44e9-46fd-8ac1-4727785ad877",
+        "resource": "https://www.deezer.com/artist/619197"
+      },
+      "type": "free streaming",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "type": "last.fm",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.last.fm/music/Jadis",
+        "id": "5224b014-3c5d-466c-a5ae-a8877469d3c1"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "end": null,
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "b90e44ab-16a3-4bde-9f87-f72eb96c5cfb",
+        "resource": "https://genius.com/artists/Jadis"
+      },
+      "attributes": [],
+      "type": "lyrics",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "end": null,
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "attributes": [],
+      "type": "myspace",
+      "url": {
+        "id": "f40f143d-7376-4102-8d28-c483b4caec11",
+        "resource": "https://myspace.com/jadissssssssss"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "end": null,
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "direction": "forward",
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "fa2921e5-069d-4308-aff3-39b4110ef77f",
+        "resource": "https://www.jadismusic.com/"
+      },
+      "type": "official homepage",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "target-credit": "",
+      "ended": true,
+      "target-type": "url",
+      "attributes": [],
+      "type": "official homepage",
+      "url": {
+        "id": "22b18224-9c1b-4dc9-9938-30a245af4c4f",
+        "resource": "http://www.jadis-net.co.uk/"
+      },
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "end": null
+    },
+    {
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "ended": false,
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "resource": "https://id.oclc.org/worldcat/entity/E39QH7Jmq9Pqdf6KVJTjdxRB7R",
+        "id": "2d982ba9-5433-405d-96bd-4bef824cb9c0"
+      },
+      "target-type": "url"
+    },
+    {
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "url": {
+        "id": "86aa19eb-d8ba-4f11-a67b-d0819be8e889",
+        "resource": "https://rateyourmusic.com/artist/jadis"
+      },
+      "attributes": [],
+      "type": "other databases",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "direction": "forward",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": "",
+      "target-type": "url",
+      "attributes": [],
+      "type": "other databases",
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/jadis/",
+        "id": "f05b18c1-d51b-4db2-b1c1-6143db4ed126"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.progarchives.com/artist.asp?id=174",
+        "id": "783ee7a7-ea0b-4901-8ea0-0643eecbb15c"
+      },
+      "type": "other databases",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "source-credit": "",
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "direction": "forward",
+      "end": null,
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "url": {
+        "id": "07c9d299-c050-4359-b57e-d6a778c8ff5b",
+        "resource": "https://www.spirit-of-metal.com/en/band/Jadis"
+      },
+      "type": "other databases",
+      "attributes": []
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "purchase for download",
+      "url": {
+        "id": "5bc50812-5042-431a-b397-587249ff44a8",
+        "resource": "https://uk.7digital.com/artist/jadis"
+      },
+      "attribute-ids": {},
+      "attribute-values": {},
+      "begin": null,
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null
+    },
+    {
+      "attributes": [],
+      "type": "purchase for download",
+      "url": {
+        "id": "ef55072d-3cee-4c1c-a4ed-34d0fc07ec3e",
+        "resource": "https://www.qobuz.com/gb-en/interpreter/jadis/1452555"
+      },
+      "target-type": "url",
+      "ended": false,
+      "target-credit": "",
+      "direction": "forward",
+      "type-id": "f8319a2f-f824-4617-81c8-be6560b3b203",
+      "end": null,
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "direction": "forward",
+      "type-id": "79c5b84d-a206-4f4c-9832-78c028c312c3",
+      "end": null,
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": "",
+      "attributes": [],
+      "type": "secondhandsongs",
+      "url": {
+        "resource": "https://secondhandsongs.com/artist/244115",
+        "id": "e2203e3b-ecdf-4586-b7ce-895f8a1ed50c"
+      },
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "target-type": "url",
+      "type": "setlistfm",
+      "attributes": [],
+      "url": {
+        "id": "d4deea63-6b78-410e-bc89-e139ca2a36fb",
+        "resource": "https://www.setlist.fm/setlists/jadis-4bd6b376.html"
+      },
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "direction": "forward",
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "source-credit": ""
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "type": "social network",
+      "url": {
+        "resource": "https://twitter.com/jadis_g13",
+        "id": "f558c960-e6f3-4acf-bff3-7dc9b5ee2a9a"
+      },
+      "begin": null,
+      "attribute-values": {},
+      "attribute-ids": {},
+      "source-credit": "",
+      "direction": "forward",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "end": null
+    },
+    {
+      "url": {
+        "resource": "https://www.facebook.com/jadismusic",
+        "id": "5850b73a-c9aa-4b45-9648-7afd11f8b172"
+      },
+      "attributes": [],
+      "type": "social network",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {}
+    },
+    {
+      "url": {
+        "resource": "https://www.instagram.com/jadismusic/",
+        "id": "c6d600cb-54f4-46e3-b395-eb7d4e0ab07c"
+      },
+      "attributes": [],
+      "type": "social network",
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false,
+      "end": null,
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "direction": "forward",
+      "source-credit": "",
+      "attribute-values": {},
+      "attribute-ids": {},
+      "begin": null
+    },
+    {
+      "target-credit": "",
+      "ended": false,
+      "url": {
+        "id": "3e84a9c2-9242-4ecd-ba6e-f6014a4d656c",
+        "resource": "https://www.songkick.com/artists/209434"
+      },
+      "type": "songkick",
+      "attributes": [],
+      "target-type": "url",
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "end": null,
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "direction": "forward"
+    },
+    {
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "target-credit": "",
+      "ended": false,
+      "type": "streaming",
+      "attributes": [],
+      "url": {
+        "id": "042ec4b6-d963-44e6-8109-b5377e393dde",
+        "resource": "https://music.apple.com/gb/artist/180766304"
+      },
+      "target-type": "url"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type": "streaming",
+      "url": {
+        "id": "1f104a5e-8376-42c4-b93e-9c884a2f9817",
+        "resource": "https://tidal.com/artist/3659760"
+      },
+      "target-credit": "",
+      "ended": false,
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "end": null,
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "source-credit": ""
+    },
+    {
+      "end": null,
+      "direction": "forward",
+      "type-id": "63cc5d1f-f096-4c94-a43f-ecb32ea94161",
+      "attribute-ids": {},
+      "begin": null,
+      "attribute-values": {},
+      "source-credit": "",
+      "target-type": "url",
+      "type": "streaming",
+      "attributes": [],
+      "url": {
+        "resource": "https://www.qobuz.com/gb-en/interpreter/jadis/1452555",
+        "id": "ef55072d-3cee-4c1c-a4ed-34d0fc07ec3e"
+      },
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "url": {
+        "id": "90768bd3-08f1-43c6-885d-b9378c32bfc2",
+        "resource": "https://www.wikidata.org/wiki/Q1490788"
+      },
+      "type": "wikidata",
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "direction": "forward",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "begin": null,
+      "attribute-ids": {},
+      "target-type": "url",
+      "url": {
+        "resource": "https://www.youtube.com/channel/UCPGOW747P_GbPYMNJVBD2jQ",
+        "id": "3e2be116-05fc-4374-a805-e948b02011ef"
+      },
+      "type": "youtube",
+      "attributes": [],
+      "target-credit": "",
+      "ended": false
+    },
+    {
+      "end": null,
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4",
+      "direction": "forward",
+      "source-credit": "",
+      "begin": null,
+      "attribute-ids": {},
+      "attribute-values": {},
+      "target-type": "url",
+      "url": {
+        "id": "61edab19-2f10-41b3-815c-70eef3b76c27",
+        "resource": "https://music.youtube.com/channel/UCjcJ41-a7pSN39yVzTIbadw"
+      },
+      "attributes": [],
+      "type": "youtube music",
+      "target-credit": "",
+      "ended": false
+    }
+  ],
+  "ipis": [],
+  "end-area": null,
+  "aliases": [],
+  "name": "Jadis",
+  "country": "GB",
+  "isnis": [
+    "0000000123318992"
+  ],
+  "area": {
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "type": null,
+    "name": "United Kingdom",
+    "disambiguation": "",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "sort-name": "United Kingdom"
+  },
+  "gender-id": null,
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "sort-name": "Jadis",
+  "begin-area": {
+    "iso-3166-2-codes": [
+      "GB-STH"
+    ],
+    "id": "32950a38-9edd-42fd-aec9-26128507ff06",
+    "name": "Southampton",
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "Southampton",
+    "type-id": null
+  },
+  "id": "14fc780a-4f90-457d-a233-411803e28be8",
+  "gender": null,
+  "life-span": {
+    "end": null,
+    "begin": null,
+    "ended": false
+  }
+}

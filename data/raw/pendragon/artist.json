@@ -1,0 +1,673 @@
+{
+  "sort-name": "Pendragon",
+  "country": "GB",
+  "end-area": null,
+  "isnis": [
+    "0000000106236370"
+  ],
+  "aliases": [
+    {
+      "name": "Pentragon",
+      "type-id": null,
+      "end": null,
+      "type": null,
+      "ended": false,
+      "begin": null,
+      "locale": null,
+      "primary": null,
+      "sort-name": "Pentragon"
+    }
+  ],
+  "area": {
+    "sort-name": "United Kingdom",
+    "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+    "iso-3166-1-codes": [
+      "GB"
+    ],
+    "type-id": null,
+    "disambiguation": "",
+    "name": "United Kingdom",
+    "type": null
+  },
+  "id": "702cded2-ac87-476d-8e56-caa1999064a7",
+  "ipis": [],
+  "begin-area": {
+    "type-id": null,
+    "name": "Stroud",
+    "disambiguation": "",
+    "type": null,
+    "sort-name": "Stroud",
+    "id": "0f5fd5e1-2d68-4d60-a6bc-a0ae4e7462ab"
+  },
+  "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+  "type": "Group",
+  "gender-id": null,
+  "life-span": {
+    "ended": false,
+    "begin": "1976",
+    "end": null
+  },
+  "gender": null,
+  "relations": [
+    {
+      "attributes": [],
+      "target-type": "artist",
+      "artist": {
+        "country": "GB",
+        "id": "c2bec611-c860-4e39-bc05-bc9a2613e781",
+        "sort-name": "Gee, Peter",
+        "type": "Person",
+        "name": "Peter Gee",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df"
+      },
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "end": null,
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "attribute-ids": {},
+      "direction": "backward",
+      "ended": false,
+      "begin": "1981"
+    },
+    {
+      "attributes": [
+        "keyboard"
+      ],
+      "attribute-credits": {},
+      "target-type": "artist",
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1986",
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type": "Person",
+        "disambiguation": "British composer/multi-instrumentalist",
+        "name": "Rik Carter",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": "GB",
+        "id": "4313f2e5-1229-4622-a163-0754f6c95c6a",
+        "sort-name": "Carter, Rik"
+      },
+      "attribute-ids": {
+        "keyboard": "95b0c3d2-9606-4ef5-a019-9b7437f3adda"
+      },
+      "begin": "1984",
+      "ended": true,
+      "direction": "backward"
+    },
+    {
+      "begin": "1986",
+      "ended": true,
+      "direction": "backward",
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": "2006",
+      "attribute-values": {},
+      "type": "member of band",
+      "artist": {
+        "country": "GB",
+        "sort-name": "Smith, Fudge",
+        "id": "85e75a2b-ce77-4cd6-9a6e-2e30e2edab22",
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Fudge Smith",
+        "disambiguation": ""
+      },
+      "target-type": "artist",
+      "attributes": []
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": null,
+      "type": "member of band",
+      "attribute-values": {},
+      "artist": {
+        "disambiguation": "",
+        "name": "Clive Nolan",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "16f23a87-d842-4609-ae91-9d3d635e8bea",
+        "sort-name": "Nolan, Clive",
+        "country": "GB"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": "1986",
+      "direction": "backward"
+    },
+    {
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "2007",
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type": "Person",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Joe Crabtree",
+        "disambiguation": "",
+        "country": null,
+        "sort-name": "Crabtree, Joe",
+        "id": "5ec8098e-5b49-417b-b9c1-aad836bf8a4f"
+      },
+      "attributes": [],
+      "target-type": "artist",
+      "begin": "2006",
+      "ended": true,
+      "direction": "backward",
+      "attribute-ids": {}
+    },
+    {
+      "attribute-ids": {},
+      "ended": false,
+      "begin": "2008",
+      "direction": "backward",
+      "target-type": "artist",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "member of band",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "target-credit": "",
+      "artist": {
+        "type": "Person",
+        "name": "Scott Higham",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "country": null,
+        "id": "cdda5397-5432-4f65-8e81-690ce1818f25",
+        "sort-name": "Higham, Scott"
+      }
+    },
+    {
+      "attribute-credits": {},
+      "attributes": [
+        "background vocals"
+      ],
+      "target-type": "artist",
+      "attribute-values": {},
+      "type": "member of band",
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Verity White",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "White, Verity",
+        "id": "7d404001-2ec4-4d53-9bf1-aced231e5997",
+        "country": "GB"
+      },
+      "attribute-ids": {
+        "background vocals": "75052401-7340-4e5b-a71d-ea024a128849"
+      },
+      "ended": false,
+      "begin": "2016",
+      "direction": "backward"
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "artist": {
+        "id": "461c2322-f8d9-49b1-89ed-1d05973d4a8b",
+        "sort-name": "Barnfield, John",
+        "country": null,
+        "name": "John Barnfield",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person"
+      },
+      "source-credit": "",
+      "end": "1984-01",
+      "attribute-values": {},
+      "type": "member of band",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "attribute-ids": {},
+      "direction": "backward",
+      "ended": true,
+      "begin": null
+    },
+    {
+      "attribute-values": {},
+      "type": "member of band",
+      "end": "1986",
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "artist": {
+        "name": "Nigel Harris",
+        "disambiguation": "",
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "type": "Person",
+        "id": "f9a3c843-b8c1-4c51-a0fc-10865fcd4ce6",
+        "sort-name": "Harris, Nigel",
+        "country": null
+      },
+      "attributes": [],
+      "target-type": "artist",
+      "ended": true,
+      "begin": null,
+      "direction": "backward",
+      "attribute-ids": {}
+    },
+    {
+      "target-type": "artist",
+      "attributes": [],
+      "artist": {
+        "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+        "name": "Nick Barrett",
+        "disambiguation": "",
+        "type": "Person",
+        "sort-name": "Barrett, Nick",
+        "id": "515d16be-e431-4a78-afa1-6f90aaf0d852",
+        "country": "GB"
+      },
+      "target-credit": "",
+      "type-id": "5be4c609-9afa-4ea0-910b-12ffb71e3821",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "member of band",
+      "attribute-ids": {},
+      "direction": "backward",
+      "ended": false,
+      "begin": null
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "id": "59645294-cbea-47c8-a71e-0966dd5d6b75",
+        "resource": "https://www.allmusic.com/artist/mn0000311106"
+      },
+      "attribute-values": {},
+      "type": "allmusic",
+      "end": null,
+      "source-credit": "",
+      "target-credit": "",
+      "type-id": "6b3e3c85-0002-4f34-aca6-80ace0d7e846",
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://pendragon3.bandcamp.com/",
+        "id": "2de785c4-8af8-4b6b-b584-75f4663ecad6"
+      },
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "attributes": [],
+      "target-type": "url",
+      "type": "bandcamp",
+      "attribute-values": {},
+      "end": null,
+      "source-credit": "",
+      "type-id": "c550166e-0548-4a18-b1d4-e2ae423a3e88",
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "resource": "https://www.bandsintown.com/a/54878",
+        "id": "a28dcbf4-0673-4373-916e-5f7a59be7297"
+      },
+      "attribute-ids": {},
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "ea45ed3d-2d5e-456e-8c32-94b6f51426e2",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "bandsintown"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "c36e3687-c467-4598-89f4-1ac5b87e177b",
+        "resource": "https://www.discogs.com/artist/733600"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "discogs",
+      "type-id": "04a5b104-a4c2-4bac-99a1-7b837c37d9e4",
+      "target-credit": "",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "url": {
+        "resource": "https://www.last.fm/music/Pendragon",
+        "id": "177375e9-2682-4483-9a86-0c1f3dab295b"
+      },
+      "attribute-ids": {},
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "last.fm",
+      "target-credit": "",
+      "type-id": "08db8098-c0df-4b78-82c3-c8697b4bba7f",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "id": "fb36f135-6c1e-434a-99be-96cce66c63b1",
+        "resource": "https://genius.com/artists/Pendragon"
+      },
+      "type-id": "e4d73442-3762-45a8-905c-401da65544ed",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "lyrics",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "target-type": "url"
+    },
+    {
+      "attribute-values": {},
+      "type": "myspace",
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "bac47923-ecde-4b59-822e-d08f0cd10156",
+      "attributes": [],
+      "target-type": "url",
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://myspace.com/toffrecords",
+        "id": "165bb21a-d0a4-4599-9977-dc5ba7b2da77"
+      }
+    },
+    {
+      "url": {
+        "resource": "https://www.pendragon.mu/",
+        "id": "8fb42a5f-cdc0-431e-9ead-75f6f2f27a2e"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "type-id": "fe33d22f-c3b0-4d68-bd53-a856badf2b15",
+      "target-credit": "",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "official homepage"
+    },
+    {
+      "direction": "forward",
+      "begin": null,
+      "ended": false,
+      "url": {
+        "id": "d5a88d06-b213-4595-b42b-f855ee59657c",
+        "resource": "https://rateyourmusic.com/artist/pendragon"
+      },
+      "attribute-ids": {},
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "other databases",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "type": "other databases",
+      "end": null,
+      "source-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": "",
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.metalmusicarchives.com/artist/pendragon",
+        "id": "902af7e4-a790-4e16-bbd4-6821122dc693"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.musik-sammler.de/artist/pendragon/",
+        "id": "9fc91dd3-823a-4bda-be89-b4c03edc1872"
+      },
+      "direction": "forward",
+      "ended": false,
+      "begin": null,
+      "attributes": [],
+      "target-type": "url",
+      "attribute-values": {},
+      "type": "other databases",
+      "source-credit": "",
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": ""
+    },
+    {
+      "url": {
+        "id": "6e033e0c-1945-4108-911e-4ef74563d6df",
+        "resource": "https://www.progarchives.com/artist.asp?id=288"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "target-credit": "",
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "source-credit": "",
+      "end": null,
+      "attribute-values": {},
+      "type": "other databases"
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "705e5113-0ed3-48de-aded-e259542b47f8",
+        "resource": "https://www.spirit-of-rock.com/es/band/Pendragon"
+      },
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "type": "other databases",
+      "attribute-values": {},
+      "source-credit": "",
+      "end": null,
+      "type-id": "d94fb61c-fa20-4e3c-a19a-71a949fb2c55",
+      "target-credit": ""
+    },
+    {
+      "type-id": "bf5d0d5e-27a1-4e94-9df7-3cdc67b3b207",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "setlistfm",
+      "source-credit": "",
+      "end": null,
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "resource": "https://www.setlist.fm/setlists/pendragon-43d6b333.html",
+        "id": "17031db1-0dd0-49e8-a357-9f8dac4954ae"
+      }
+    },
+    {
+      "attribute-ids": {},
+      "url": {
+        "id": "7eebabaf-1e79-408e-b27e-4d77ddbab218",
+        "resource": "https://twitter.com/PendieHQ"
+      },
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attributes": [],
+      "target-type": "url",
+      "target-credit": "",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "attribute-values": {},
+      "type": "social network",
+      "end": null,
+      "source-credit": ""
+    },
+    {
+      "attributes": [],
+      "target-type": "url",
+      "type-id": "99429741-f3f6-484b-84f8-23af51991770",
+      "target-credit": "",
+      "attribute-values": {},
+      "type": "social network",
+      "end": null,
+      "source-credit": "",
+      "attribute-ids": {},
+      "url": {
+        "id": "d8a293dd-83ae-4585-b10b-8a20fa5a196c",
+        "resource": "https://www.facebook.com/PendragonHQ"
+      },
+      "ended": false,
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "target-type": "url",
+      "attributes": [],
+      "type-id": "aac9c4bc-a5b9-30b8-9839-e3ac314c6e58",
+      "target-credit": "",
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "songkick",
+      "url": {
+        "id": "5a490acb-5e41-450a-bf81-ba4c9e3bb507",
+        "resource": "https://www.songkick.com/artists/506385"
+      },
+      "attribute-ids": {},
+      "ended": false,
+      "begin": null,
+      "direction": "forward"
+    },
+    {
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "url": {
+        "resource": "http://viaf.org/viaf/152938751",
+        "id": "31bb13d6-5111-4c93-a499-f7b2e8189946"
+      },
+      "attribute-ids": {},
+      "end": null,
+      "source-credit": "",
+      "attribute-values": {},
+      "type": "VIAF",
+      "target-credit": "",
+      "type-id": "e8571dcc-35d4-4e91-a577-a3382fd84460",
+      "target-type": "url",
+      "attributes": []
+    },
+    {
+      "attribute-values": {},
+      "type": "wikidata",
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "689870a4-a1e4-4912-b17f-7b2664215698",
+      "attributes": [],
+      "target-type": "url",
+      "ended": false,
+      "begin": null,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "id": "20c8d901-2875-4fe8-aa7f-f274ddf7d974",
+        "resource": "https://www.wikidata.org/wiki/Q1856247"
+      }
+    },
+    {
+      "attribute-values": {},
+      "type": "youtube",
+      "source-credit": "",
+      "end": null,
+      "target-credit": "",
+      "type-id": "6a540e5b-58c6-4192-b6ba-dbc71ec8fcf0",
+      "attributes": [],
+      "target-type": "url",
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "attribute-ids": {},
+      "url": {
+        "id": "a815c7e9-a120-461f-a848-72a9ae8f9d89",
+        "resource": "https://www.youtube.com/channel/UCG9EnZZF7gC1aozLhZOmacw"
+      }
+    },
+    {
+      "url": {
+        "id": "fe88a331-6811-442f-8ea7-c826d79bcddc",
+        "resource": "https://music.youtube.com/channel/UCmMFIuzZBcjeIfprISSckyg"
+      },
+      "attribute-ids": {},
+      "begin": null,
+      "ended": false,
+      "direction": "forward",
+      "target-type": "url",
+      "attributes": [],
+      "end": null,
+      "source-credit": "",
+      "type": "youtube music",
+      "attribute-values": {},
+      "target-credit": "",
+      "type-id": "631712a0-7525-42ba-b7a3-605aa7a238c4"
+    }
+  ],
+  "name": "Pendragon",
+  "disambiguation": "UK progressive rock"
+}
