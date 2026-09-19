@@ -145,3 +145,32 @@ scripts, mantener el par completo.
 fuente: marcar toda cita da el 71 % de las pistas y ponderar por sección deja fuera los discos
 canónicos. Sirve como verificador (`--informe` lista las citas que no casan con ninguna pista,
 que delatan títulos mal escritos en las historias).
+
+## Popularidad medida: las más escuchadas según Last.fm (19-sep-2026)
+
+Segunda capa sobre el tracklist, independiente de la editorial: `▲n` marca que la pista está
+entre las más escuchadas de **su artista**. Nunca es una comparación entre artistas del atlas
+—entre Pink Floyd y Tantor hay un factor de 2400 en oyentes—, y la ficha declara la fecha de
+captura porque es un dato vivo.
+
+- La API key **no va en el repo**: `pipeline/lastfm.py` la lee de `LASTFM_API_KEY` o de
+  `~/.config/atlas-prog/lastfm.key`. En CI iría como secret del repositorio.
+- `lastfm.py cobertura` mide antes de escribir nada (22 artistas de muestra, canónicos y
+  oscuros). `lastfm.py fetch` baja `artist.getTopTracks` de los 107 artistas a
+  `data/raw_lastfm/<slug>.json`, con la fecha de captura declarada.
+- `build_popularidad.py [--top N]` cruza con `data/canciones.json` → `data/popularidad.json`.
+
+### Last.fm no es fiable por MBID: el cruce es la salvaguarda
+
+`artist.getTopTracks` acepta `mbid`, pero cuando Last.fm no lo conoce **degrada a su propia
+entidad por nombre**: `mia` devuelve a la rapera y `nirvana-uk` al grupo de Seattle. Peor, a
+veces mezcla dos bandas en una sola entrada: los tracks más escuchados de `alas` y `egg` son de
+homónimos, con los nuestros más abajo en la misma lista.
+
+Por eso solo se usan los tracks cuyo título casa con una pista de un álbum de ese artista en el
+atlas: un track ajeno no tiene con qué cruzar y se descarta solo, incluso dentro de una entrada
+mezclada. Un artista con menos de 3 coincidencias queda sin dato (`mia`, `nirvana-uk`).
+
+**No usar un porcentaje como umbral**: los artistas con catálogo corto tienen un techo bajo por
+construcción (Museo Rosenbach tiene 17 pistas en el atlas y Last.fm devuelve 50 tracks, así que
+nunca pasaría del 34 % aunque todo sea correcto). El criterio es el número absoluto de cruces.

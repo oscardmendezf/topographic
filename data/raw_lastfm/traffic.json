@@ -1,0 +1,359 @@
+{
+ "slug": "traffic",
+ "mbid": "9fadfba9-ecae-4383-a4d8-47b043cea19a",
+ "nombre": "Traffic",
+ "capturado": "2026-09-19",
+ "fuente": "last.fm artist.getTopTracks",
+ "tracks": [
+  {
+   "titulo": "Dear Mr. Fantasy",
+   "mbid": "00be60c6-f7bd-490c-be71-576c7143732e",
+   "playcount": 1037756,
+   "listeners": 237742,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Empty Pages",
+   "mbid": "0058bcf8-5fd9-3468-9628-9c9430aeb64a",
+   "playcount": 208039,
+   "listeners": 78721,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Light Up Or Leave Me Alone",
+   "mbid": "0793f8d4-daf3-37af-9f62-5e1800aadb0e",
+   "playcount": 244473,
+   "listeners": 74705,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Glad",
+   "mbid": "01d7a247-8e86-4e42-805a-c8fd5c27cbf0",
+   "playcount": 195854,
+   "listeners": 69980,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Feelin' Alright?",
+   "mbid": "039daddb-c6c5-4adb-a18d-89dbe1b13fa3",
+   "playcount": 221658,
+   "listeners": 66904,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Freedom Rider",
+   "mbid": "16aab776-7b63-3a88-824c-b24bb102684f",
+   "playcount": 159413,
+   "listeners": 60401,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "The Low Spark Of High-Heeled Boys",
+   "mbid": "0e68b990-24cb-46b1-b5ba-78b391e30b7c",
+   "playcount": 203558,
+   "listeners": 57089,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Heaven Is In Your Mind",
+   "mbid": "088ed97e-9360-301d-8da8-1b112550b86c",
+   "playcount": 148127,
+   "listeners": 57050,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "You Can All Join In",
+   "mbid": "019369f7-239b-3ccf-9183-7755427b7433",
+   "playcount": 146006,
+   "listeners": 55511,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Forty Thousand Headmen",
+   "mbid": "02277c77-8cbb-3017-b2a7-3d7d6a125814",
+   "playcount": 124972,
+   "listeners": 54223,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Paper Sun",
+   "mbid": "09a9ba27-eef6-4772-9467-897af5aa1cf4",
+   "playcount": 155777,
+   "listeners": 53518,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Pearly Queen",
+   "mbid": "06b56144-6eb3-3851-98fb-74ffda650635",
+   "playcount": 126638,
+   "listeners": 52269,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Hole in My Shoe",
+   "mbid": "01aafb63-7f6a-3683-a414-70dda0a69736",
+   "playcount": 145512,
+   "listeners": 51320,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Who Knows What Tomorrow May Bring",
+   "mbid": "05eab1a3-f427-3383-bf5c-9887b7e93aec",
+   "playcount": 145206,
+   "listeners": 51016,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Medicated Goo",
+   "mbid": "0461539f-453b-47d4-bae9-65977d38620d",
+   "playcount": 138298,
+   "listeners": 43406,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "No Face, No Name, No Number",
+   "mbid": "03cb8492-1dbd-3913-b0eb-2ef34e6215b1",
+   "playcount": 93932,
+   "listeners": 39993,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Feelin' Alright",
+   "mbid": "4da71c7e-949f-41d8-be69-9e7399ab1245",
+   "playcount": 126575,
+   "listeners": 37045,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Hidden Treasure",
+   "mbid": "02c6f952-7484-3727-9788-37a748545cc9",
+   "playcount": 98488,
+   "listeners": 36997,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "John Barleycorn (Must Die)",
+   "mbid": "0633b30e-2a87-48ba-a3c4-86d01a2b527b",
+   "playcount": 84354,
+   "listeners": 33446,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Coloured Rain",
+   "mbid": "0524ed00-2414-4736-968e-da5ba6fc9f35",
+   "playcount": 86384,
+   "listeners": 33305,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Stranger To Himself",
+   "mbid": "00580a93-015f-48b2-b6d5-f3623aa932ea",
+   "playcount": 81213,
+   "listeners": 32694,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Rainmaker",
+   "mbid": "0d004f94-5e2f-47e2-99bb-88f2c749f4fa",
+   "playcount": 79354,
+   "listeners": 27891,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Dealer",
+   "mbid": "0cee29d7-4d0f-3139-9ca2-9568e2d010ce",
+   "playcount": 71096,
+   "listeners": 27778,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "John Barleycorn",
+   "mbid": "0a265fce-f34e-34f8-b57f-4f35887c550e",
+   "playcount": 103886,
+   "listeners": 27226,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Many A Mile To Freedom",
+   "mbid": "033d618c-c66e-4397-84b7-22f6a24b0635",
+   "playcount": 72617,
+   "listeners": 26913,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "House For Everyone",
+   "mbid": "1fe6c6ec-fc1f-4b6a-8f16-8f87d10ccdf2",
+   "playcount": 65750,
+   "listeners": 25532,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Shanghai Noodle Factory",
+   "mbid": "06757fea-49ea-3a40-87e9-2a77588027fb",
+   "playcount": 65578,
+   "listeners": 25171,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Berkshire Poppies",
+   "mbid": "0e42000c-c881-3c7d-9250-027025556243",
+   "playcount": 60618,
+   "listeners": 24543,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Don't Be Sad",
+   "mbid": "0da8d9dc-6c72-3a43-96e4-187aecd61deb",
+   "playcount": 54321,
+   "listeners": 22896,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Rock 'N' Roll Stew",
+   "mbid": "1e049898-e7d1-3ea8-91eb-480d8e58c0b1",
+   "playcount": 64245,
+   "listeners": 22705,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Vagabond Virgin",
+   "mbid": "04bd8a72-a4f4-474b-801f-9ee531139ac0",
+   "playcount": 47413,
+   "listeners": 21019,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "No Time To Live",
+   "mbid": "032e238a-0f5c-383d-876d-3c072e2156e6",
+   "playcount": 46456,
+   "listeners": 20858,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Means To An End",
+   "mbid": "0392b554-62d2-4706-a53b-5e56234e3111",
+   "playcount": 42451,
+   "listeners": 18611,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Walking In The Wind",
+   "mbid": "086d0db9-e160-4abb-93a1-f6403f270abd",
+   "playcount": 50948,
+   "listeners": 18527,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Cryin' To Be Heard",
+   "mbid": "104e8135-fc8a-4e3c-8d05-513193746b5c",
+   "playcount": 43636,
+   "listeners": 18438,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Every Mother's Son",
+   "mbid": "0467b994-597a-4a5b-a4eb-53826b4f0510",
+   "playcount": 44278,
+   "listeners": 18245,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Withering Tree",
+   "mbid": "02349193-de1f-485a-bf48-e6310a340d51",
+   "playcount": 36274,
+   "listeners": 16741,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Shoot Out At The Fantasy Factory",
+   "mbid": "15e49e5d-4e0b-43cb-b52a-49269ad5de3a",
+   "playcount": 43408,
+   "listeners": 16546,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Something New",
+   "mbid": "16cffef0-7620-37fc-add6-1991cfcabc1a",
+   "playcount": 32909,
+   "listeners": 16089,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Smiling Phases",
+   "mbid": "03cebf15-d98c-4bae-93af-edc42f6e246e",
+   "playcount": 37405,
+   "listeners": 14747,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "(Roamin' Thro' The Gloamin' With) 40.000 Headman",
+   "mbid": null,
+   "playcount": 34397,
+   "listeners": 14649,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Dream Gerrard",
+   "mbid": "11ca6e95-ea63-4bae-81ee-027c156f9cbf",
+   "playcount": 33333,
+   "listeners": 11858,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Utterly Simple",
+   "mbid": "0d75061a-ab55-4cdc-a2a6-b9ea87723155",
+   "playcount": 34404,
+   "listeners": 11524,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "The Low Spark of High Heeled Boys",
+   "mbid": "00af735a-0011-3113-844a-33e7b6cda449",
+   "playcount": 48391,
+   "listeners": 11102,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Giving to You",
+   "mbid": "0416ae18-8b88-432a-a581-2ed365cfa39b",
+   "playcount": 33157,
+   "listeners": 10641,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Hope I Never Find Me There",
+   "mbid": "094d3613-451d-3c4f-a00e-816ac81341ac",
+   "playcount": 30810,
+   "listeners": 10557,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "(Sometimes I Feel So) Uninspired",
+   "mbid": "1d6875a7-4611-3828-919b-fa90fca3746a",
+   "playcount": 25157,
+   "listeners": 9774,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Empty Pages - Remastered 2010",
+   "mbid": null,
+   "playcount": 25167,
+   "listeners": 9329,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Tragic Magic",
+   "mbid": "01a7ba68-b90c-4be2-9f1f-bdcf1c8694ec",
+   "playcount": 22831,
+   "listeners": 8959,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "I Just Want You To Know",
+   "mbid": "12286161-3506-397c-86da-060e4ce24646",
+   "playcount": 21795,
+   "listeners": 8815,
+   "resuelto_por": "mbid"
+  }
+ ]
+}

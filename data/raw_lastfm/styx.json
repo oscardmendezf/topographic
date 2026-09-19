@@ -1,0 +1,359 @@
+{
+ "slug": "styx",
+ "mbid": "835a6d9c-fea0-4a71-ae52-9c4da946433a",
+ "nombre": "Styx",
+ "capturado": "2026-09-19",
+ "fuente": "last.fm artist.getTopTracks",
+ "tracks": [
+  {
+   "titulo": "Renegade",
+   "mbid": "0046a510-b49b-3ac1-9b70-e30171018c1c",
+   "playcount": 3612243,
+   "listeners": 580066,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Come Sail Away",
+   "mbid": "011d8cfb-20bc-3194-94df-5d8c58022abf",
+   "playcount": 2356586,
+   "listeners": 465831,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Mr. Roboto",
+   "mbid": "00349df6-bacf-44b2-ad5d-d070fe89ba30",
+   "playcount": 2142906,
+   "listeners": 412579,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Babe",
+   "mbid": "02c2a1b9-268f-413e-befa-776b339ad71a",
+   "playcount": 989023,
+   "listeners": 235490,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Too Much Time On My Hands",
+   "mbid": "0621fc91-f0b1-4ed0-a595-33a6283d4d59",
+   "playcount": 905336,
+   "listeners": 202707,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Boat On The River",
+   "mbid": "03c670a3-8151-4bd8-9b21-b05fa5969f44",
+   "playcount": 709194,
+   "listeners": 150463,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "The Best Of Times",
+   "mbid": "0348a4f0-c08f-4a73-8774-b3484af166a2",
+   "playcount": 534033,
+   "listeners": 137861,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Blue Collar Man (Long Nights)",
+   "mbid": "016b6efb-17cc-4d46-bbc5-291e63db371d",
+   "playcount": 524816,
+   "listeners": 113452,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "The Grand Illusion",
+   "mbid": "010f0cd0-baea-4ec5-8db9-e30f17c7abc3",
+   "playcount": 384496,
+   "listeners": 97050,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Lady",
+   "mbid": "024915db-0b0b-3d56-89bb-808adeaff683",
+   "playcount": 415726,
+   "listeners": 96048,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Fooling Yourself (The Angry Young Man)",
+   "mbid": "010f2d77-c3d6-44cb-b4e2-411d1b558e6c",
+   "playcount": 380379,
+   "listeners": 89956,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Lorelei",
+   "mbid": "024a9425-1d57-46a8-a816-f0138d3f6643",
+   "playcount": 290996,
+   "listeners": 82803,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Crystal Ball",
+   "mbid": "04041c2a-ff6d-3fac-aafb-f78e6dc7d113",
+   "playcount": 320327,
+   "listeners": 80917,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Show Me The Way",
+   "mbid": "02887919-4833-4feb-b1c7-6bb5bfd27032",
+   "playcount": 247665,
+   "listeners": 69783,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Miss America",
+   "mbid": "091c23ea-6adb-409d-9e08-8fc78c44688b",
+   "playcount": 255243,
+   "listeners": 67536,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Don't Let It End",
+   "mbid": "013129f9-514e-43ec-aefe-3b9bb216c29f",
+   "playcount": 241860,
+   "listeners": 62475,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Lady '95",
+   "mbid": "22c72731-e1dd-32ab-9efe-69df25002c20",
+   "playcount": 207027,
+   "listeners": 59755,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Suite Madame Blue",
+   "mbid": "00eb8b73-2a7d-3c1f-97b5-f27390df9f28",
+   "playcount": 254864,
+   "listeners": 58841,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Man In The Wilderness",
+   "mbid": "04d09aab-3a2d-47b8-9eda-6f3578858fd7",
+   "playcount": 187698,
+   "listeners": 41640,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Rockin' The Paradise",
+   "mbid": "08882d24-9f47-463c-acd3-0e320c6cbe72",
+   "playcount": 152150,
+   "listeners": 41629,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Blue Collar Man",
+   "mbid": "01e506ba-6b80-3426-a383-4655ffac009b",
+   "playcount": 187938,
+   "listeners": 41240,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "A.D. 1928",
+   "mbid": "00a6ba4f-cbf0-3d96-ae7c-fbd77b919a6c",
+   "playcount": 170789,
+   "listeners": 32832,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Snowblind",
+   "mbid": "029cd7d0-9d32-47d5-9e53-645cf7e72e33",
+   "playcount": 113078,
+   "listeners": 30893,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Sing For The Day",
+   "mbid": "0c78ae2c-f72a-34cd-b9bd-e9b55155d4dc",
+   "playcount": 88704,
+   "listeners": 28228,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Superstars",
+   "mbid": "0655d17f-a892-487a-a68f-4039564c561e",
+   "playcount": 82047,
+   "listeners": 26099,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Light Up",
+   "mbid": "00101cd3-3b14-4642-8971-99d12a7819bb",
+   "playcount": 80035,
+   "listeners": 26028,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Castle Walls",
+   "mbid": "0caf1cdb-7e6b-4220-b63d-1ae2ccb2ae86",
+   "playcount": 105717,
+   "listeners": 25313,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Queen Of Spades",
+   "mbid": "05049ff4-857f-4ae3-8eb3-d5e6c165e9c2",
+   "playcount": 83511,
+   "listeners": 23404,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Borrowed Time",
+   "mbid": "00b1d7ea-f1f3-4a78-864c-b543ed56688f",
+   "playcount": 65858,
+   "listeners": 22368,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Mademoiselle",
+   "mbid": "1b2be188-1ef8-4cef-89a0-589fdc3317c5",
+   "playcount": 67914,
+   "listeners": 22209,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Pieces Of Eight",
+   "mbid": "01e1e5a7-ff0e-3ce5-8461-7c2405307204",
+   "playcount": 79063,
+   "listeners": 22163,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Lights",
+   "mbid": "06273324-642d-4e81-b463-8443b98730a3",
+   "playcount": 67915,
+   "listeners": 20139,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "The Grand Finale",
+   "mbid": "00dd9ab2-207d-4aa3-a3f3-0ff7e55c671e",
+   "playcount": 58149,
+   "listeners": 17938,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Great White Hope",
+   "mbid": "01c371b7-ce5d-4c32-abf6-8002fee3a97b",
+   "playcount": 53718,
+   "listeners": 16593,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "First Time",
+   "mbid": "05a4bd63-8277-4d62-bc0f-7b93b9ec575d",
+   "playcount": 47640,
+   "listeners": 16198,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Cold War",
+   "mbid": "4cd74153-c346-4d5a-b707-9757192e0f09",
+   "playcount": 52234,
+   "listeners": 15882,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Nothing Ever Goes As Planned",
+   "mbid": "1813b55a-513c-3283-8cfa-266c375edbf6",
+   "playcount": 70417,
+   "listeners": 14949,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Heavy Metal Poisoning",
+   "mbid": "0be0c4c6-c505-4314-ab6f-ca399ef21198",
+   "playcount": 52286,
+   "listeners": 14718,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Lords Of The Ring",
+   "mbid": "0373df57-bb4c-46db-90e5-5475c8e1a7c3",
+   "playcount": 45057,
+   "listeners": 13507,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "High Time",
+   "mbid": "1cc4ef88-9edd-3f4a-b76f-10e7f85de518",
+   "playcount": 40608,
+   "listeners": 13353,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Best Thing",
+   "mbid": "023eede0-79cc-342e-b9ee-38f861db9172",
+   "playcount": 36969,
+   "listeners": 12964,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "You Need Love",
+   "mbid": "19cba7ef-f41a-4e0b-a0a3-0c8b623d023b",
+   "playcount": 38028,
+   "listeners": 12724,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Shooz",
+   "mbid": "038344ee-b122-4345-964c-dcafaa5b28cc",
+   "playcount": 35377,
+   "listeners": 12079,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Just Get Through This Night",
+   "mbid": "05084926-7b4f-44d5-875d-38295c0afdc2",
+   "playcount": 40518,
+   "listeners": 11912,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Why Me",
+   "mbid": "2ad8612e-af6b-4095-90eb-a964e8a7c70a",
+   "playcount": 42089,
+   "listeners": 11873,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "I'm O.K.",
+   "mbid": "02e00e59-3a1e-4dbd-b7a3-57cc587f09ea",
+   "playcount": 40189,
+   "listeners": 11478,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Double Life",
+   "mbid": "08e1a5e4-ca8d-419b-87f3-061a1acf5bd6",
+   "playcount": 38874,
+   "listeners": 11456,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "The Message",
+   "mbid": "03eb8f84-2e3f-3661-8a6b-09ef4634d024",
+   "playcount": 33784,
+   "listeners": 11314,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Rock & Roll Feeling",
+   "mbid": "02f6437c-ff36-32c3-b7dc-9a1f5b10deb9",
+   "playcount": 31688,
+   "listeners": 11192,
+   "resuelto_por": "mbid"
+  },
+  {
+   "titulo": "Love Is The Ritual",
+   "mbid": "040421b5-f4e2-4cf3-aee5-59f25160e65e",
+   "playcount": 37589,
+   "listeners": 11028,
+   "resuelto_por": "mbid"
+  }
+ ]
+}
